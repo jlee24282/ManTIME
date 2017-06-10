@@ -51,6 +51,7 @@ class ManTIME(object):
 
     def train(self, folder):
         folder = os.path.abspath(folder)
+        print '[mantime/mantime.py] folder: ' + folder
         assert os.path.isdir(folder), 'Folder doesn\'t exist.'
 
         identifier = IdentificationClassifier()

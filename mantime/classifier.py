@@ -562,6 +562,7 @@ class RelationClassifier(Classifier):
         """
         # TO-DO: feature extractor deve yieldare anziche' ritornare
         assert type(documents) == list, 'Wrong type for documents.'
+        #print '[classifier] length of documents: ' + len(documents)
         assert len(documents) > 0, 'Empty documents list.'
 
         path_model_attribute = (PATH_MODEL_FOLDER, model.name)

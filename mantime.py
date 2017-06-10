@@ -18,6 +18,7 @@ import logging
 import os
 
 from mantime.mantime import ManTIME
+#from mantime.readers import TextReader
 from mantime.readers import TempEval3FileReader
 from mantime.writers import TempEval3Writer
 from mantime.attributes_extractor import FullExtractor
@@ -45,7 +46,8 @@ def main():
     args = parser.parse_args()
 
     # ManTIME
-    mantime = ManTIME(reader=TempEval3FileReader(),
+    mantime = ManTIME(#reader=TextReader(),
+                      reader=TempEval3FileReader(),
                       writer=TempEval3Writer(),
                       extractor=FullExtractor(),
                       model_name=args.model,
@@ -53,9 +55,11 @@ def main():
 
     if args.mode == 'train':
         # Training
+        print '[matime.py main] args.input_folder: ' + args.input_folder
         mantime.train(args.input_folder)
     else:
         # Testing
+        print 'mantime.py args inputfolder: ' + args.input_folder
         assert os.path.exists(args.input_folder), 'Model not found.'
         input_files = os.path.join(args.input_folder, '*.*')
         documents = sorted(glob.glob(input_files))
@@ -66,6 +70,7 @@ def main():
             position = '[{}/{}]'.format(index, len(documents))
             # if writein not in glob.glob('./output/*.*'):
             file_path = '.'.join(writein.split('.')[:-1])
+            print file_path
             with codecs.open(file_path, 'w', encoding='utf8') as output:
                 # try:
                     logging.info('{} Doc {}.'.format(position, basename))
