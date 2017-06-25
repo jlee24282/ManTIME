@@ -32,6 +32,7 @@ from model_extractors import SentenceBasedResults
 from settings import LANGUAGE
 from settings import GAZETTEER_FOLDER
 
+nltk.download()
 
 open_gazetteer = lambda file_name: open(GAZETTEER_FOLDER + file_name)
 dep_labels = ['root', 'dep', 'aux', 'auxpass', 'cop', 'arg',
