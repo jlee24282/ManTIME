@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Did you miss tonight’s Timberwolves victory? Don’t worry, because we have all the best highlights and interviews from the game. 
+<TEXT type="str">Did you miss tonight’s Timberwolves victory? Don’t worry, because we have all the best highlights and interviews from the game. 
  
 From a Karl-Anthony Towns alley-oop dunk to a Zach LaVine halftime buzzer beater, the young Wolves team beat the Brooklyn Nets with style. 
  
@@ -58,9 +58,8 @@ Zach is back! @ZachLaVine says contributions came from everywhere in the @Timber
   
 On tonight’s #WolvesFastbreak, analyst Kevin Lynch says Towns was a monster tonight…and he wasn’t even feeling 100 percent pic.twitter.com/SsRH38fsU0 
   
-— FOX Sports North (@fsnorth) January 29, 2</content> 
-<sequenceId type="str">695196089854</sequenceId> 
-<topics type="list"> 
+— FOX Sports North (@fsnorth) January 29, 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Brooklyn Nets news</name> 
@@ -69,7 +68,8 @@ On tonight’s #WolvesFastbreak, analyst Kevin Lynch says Towns was a monster to
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:03Z</estimatedPublishedDate> 
-<title type="str">Wolves-Nets Twilights: LaVine hits first-half buzzer beater</title> 
+</TOPICS> 
+<DOCID type="str">695196089854</DOCID> 
+<DCT type="str">2017-01-29T07:27:03Z</DCT> 
+<TITLE type="str">Wolves-Nets Twilights: LaVine hits first-half buzzer beater</TITLE> 
 </root>

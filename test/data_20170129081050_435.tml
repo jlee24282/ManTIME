@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rod Bradbury 
+<TEXT type="str">Rod Bradbury 
 News Editor 
 Rod enjoys and plays all sports and could have been a cricketer if hadn&apos;t taken his eye off the ball at a crucial moment. 
    
@@ -129,9 +129,8 @@ Katie has learnt to speak Spanish, Arabic and the odd bit of Persian. But when a
    
 
 Holly Snelling 
-Holly would love to have a job that pays her to travel round the world and is a firm believer houmous goes with almost anything.</content> 
-<sequenceId type="str">695203618592</sequenceId> 
-<topics type="list"> 
+Holly would love to have a job that pays her to travel round the world and is a firm believer houmous goes with almost anything.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
@@ -140,7 +139,8 @@ Holly would love to have a job that pays her to travel round the world and is a 
 <group type="str">Regional</group> 
 <name type="str">London news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:00Z</estimatedPublishedDate> 
-<title type="str">Croydon Street Cleaning</title> 
+</TOPICS> 
+<DOCID type="str">695203618592</DOCID> 
+<DCT type="str">2017-01-29T08:17:00Z</DCT> 
+<TITLE type="str">Croydon Street Cleaning</TITLE> 
 </root>

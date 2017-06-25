@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695203451632</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top stories</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:01Z</estimatedPublishedDate> 
-<title type="str">Can We Live With Contradiction?</title> 
+</TOPICS> 
+<DOCID type="str">695203451632</DOCID> 
+<DCT type="str">2017-01-29T08:21:01Z</DCT> 
+<TITLE type="str">Can We Live With Contradiction?</TITLE> 
 </root>

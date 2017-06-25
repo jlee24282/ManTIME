@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">For all  the breaking news, follow RoF on Twitter and Facebook 
+<TEXT type="str">For all  the breaking news, follow RoF on Twitter and Facebook 
                 
-               </content> 
-<sequenceId type="str">695195427788</sequenceId> 
-<topics type="list"> 
+               </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Apps news</name> 
@@ -13,7 +12,8 @@
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:02Z</estimatedPublishedDate> 
-<title type="str">LEO Privacy is the best privacy app for m</title> 
+</TOPICS> 
+<DOCID type="str">695195427788</DOCID> 
+<DCT type="str">2017-01-29T07:22:02Z</DCT> 
+<TITLE type="str">LEO Privacy is the best privacy app for m</TITLE> 
 </root>

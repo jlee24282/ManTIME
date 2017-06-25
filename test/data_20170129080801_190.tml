@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Author: Miwa-3 
+<TEXT type="str">Author: Miwa-3 
 Tags: ınquisition  s01e01  cathars  templars  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695197080250</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -13,7 +12,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:39Z</estimatedPublishedDate> 
-<title type="str">Inquisition S01E01 Cathars Templars</title> 
+</TOPICS> 
+<DOCID type="str">695197080250</DOCID> 
+<DCT type="str">2017-01-29T07:21:39Z</DCT> 
+<TITLE type="str">Inquisition S01E01 Cathars Templars</TITLE> 
 </root>

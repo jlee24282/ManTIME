@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Daydream is a part of Google’s larger plan to make Virtual Reality (VR) an integral part of Android. 
+<TEXT type="str">Daydream is a part of Google’s larger plan to make Virtual Reality (VR) an integral part of Android. 
 
 Google has now opened its Daydream platform to developers who’d want to publish a Daydream application on the Play Store. The search giant started accepting applications for the Daydream Access Program (DAP) in September last year, allowing companies to closely work with more developers to make good content for Daydream.
 
 “Be sure to read Daydream App Quality for information on the usability and quality standards that your Daydream apps should meet, to ensure a great user experience,” reads Google VR’s developers post. Google has outlined design, functionality, performance and stability as well as publishing requirements for apps to qualify as Daydream-ready. This means Daydream users will have access to a lot more app options from different developers. Initially, only apps from select partners were made available on the Play Store. Plus, the company is working on its VR platform to compete with the likes of Samsung Gear VR and Facebook’s Oculus; which have already made their way in to global markets. Daydream features a separate motion controller and is compatible by default with Android 7.1 Nougat. Daydream will be compatible with a wide array of smartphones when OEMs start supporting Daydream.
 
-Google announced Daydream View, its first Daydream compatible VR headset, in October. As of now, the apps and games on Daydream are powered by more than 50 partners. Smartphones such as Google Pixel, Pixel XL, Moto Z and Moto Z Force support Google’s Daydream platform. The Daydream View is available at Verizon, Best Buy and the Google Store in the US. Google’s Daydream VR headset supports Netflix VR – a standalone app – that gives access to Netflix’s 2D content. It allows users to view Netflix shows and movies via Daydream View on a big screen TV in a virtual cabin. Google recently added support for apps such as HBO NOW and HBO GO on its Daydream platform. Just like Netflix, HBO shows can only be viewed in 2D for now. However, the apps are expected to roll out 360 degree support for the apps soon.</content> 
-<sequenceId type="str">695199737409</sequenceId> 
-<topics type="list"> 
+Google announced Daydream View, its first Daydream compatible VR headset, in October. As of now, the apps and games on Daydream are powered by more than 50 partners. Smartphones such as Google Pixel, Pixel XL, Moto Z and Moto Z Force support Google’s Daydream platform. The Daydream View is available at Verizon, Best Buy and the Google Store in the US. Google’s Daydream VR headset supports Netflix VR – a standalone app – that gives access to Netflix’s 2D content. It allows users to view Netflix shows and movies via Daydream View on a big screen TV in a virtual cabin. Google recently added support for apps such as HBO NOW and HBO GO on its Daydream platform. Just like Netflix, HBO shows can only be viewed in 2D for now. However, the apps are expected to roll out 360 degree support for the apps soon.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -25,7 +24,8 @@ Google announced Daydream View, its first Daydream compatible VR headset, in Oct
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:54:08Z</estimatedPublishedDate> 
-<title type="str">Google&apos;s Daydream VR platform is now open to all developers</title> 
+</TOPICS> 
+<DOCID type="str">695199737409</DOCID> 
+<DCT type="str">2017-01-29T07:54:08Z</DCT> 
+<TITLE type="str">Google&apos;s Daydream VR platform is now open to all developers</TITLE> 
 </root>

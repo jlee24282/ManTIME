@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The bill was put forward by Deputy Thomas Pringle, who sees this as a matter of &quot;ethical financing.&quot; It&apos;s a message to energy companies that both deny human-made climate change and lobby politicians to look the other way, he says.Ireland&apos;s decision won&apos;t have the greatest environmental impact given its relative size, but this is still an aggressive move when many other countries aren&apos;t ready or willing to drop their support for conventional energy. It&apos;s a particularly sharp contrast to the US...</content> 
-<sequenceId type="str">695200867952</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The bill was put forward by Deputy Thomas Pringle, who sees this as a matter of &quot;ethical financing.&quot; It&apos;s a message to energy companies that both deny human-made climate change and lobby politicians to look the other way, he says.Ireland&apos;s decision won&apos;t have the greatest environmental impact given its relative size, but this is still an aggressive move when many other countries aren&apos;t ready or willing to drop their support for conventional energy. It&apos;s a particularly sharp contrast to the US...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Ireland news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:50:00Z</estimatedPublishedDate> 
-<title type="str">Ireland votes to stop investing public money in fossil fuels</title> 
+</TOPICS> 
+<DOCID type="str">695200867952</DOCID> 
+<DCT type="str">2017-01-29T06:50:00Z</DCT> 
+<TITLE type="str">Ireland votes to stop investing public money in fossil fuels</TITLE> 
 </root>

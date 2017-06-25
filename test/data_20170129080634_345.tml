@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Caption:   
+<TEXT type="str">Caption:   
 Thomas Randle locks the brakes on his way to victory in the NZ Motor Cup 
   
 Thomas Randle has delivered on the promise he has been showing for the last two weekends of the Castrol Toyota Racing Series when he won the New Zealand Motor Cup at Hampton Downs this afternoon. 
@@ -35,14 +35,14 @@ http://www.toyota.co.nz/racing/
 Follow us: 
 Facebook /ToyotaRacingNZ 
 Twitter   @ToyotaRacingNZ 
-YouTube /ToyotaRacingSeries</content> 
-<sequenceId type="str">695194161089</sequenceId> 
-<topics type="list"> 
+YouTube /ToyotaRacingSeries</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:33Z</estimatedPublishedDate> 
-<title type="str">RANDLE DELIVERS ON PROMISE IN TOYOTA RACING SERIES</title> 
+</TOPICS> 
+<DOCID type="str">695194161089</DOCID> 
+<DCT type="str">2017-01-29T07:13:33Z</DCT> 
+<TITLE type="str">RANDLE DELIVERS ON PROMISE IN TOYOTA RACING SERIES</TITLE> 
 </root>

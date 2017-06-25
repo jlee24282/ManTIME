@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Indonesian Foreign Minister Retno Marsudi said on Sunday the Muslim-majority nation deeply regrets President Donald Trump&apos;s plans for &quot;extreme vetting&quot; of people from some Muslim countries entering the United States under new immigration orders.
+<TEXT type="str">Indonesian Foreign Minister Retno Marsudi said on Sunday the Muslim-majority nation deeply regrets President Donald Trump&apos;s plans for &quot;extreme vetting&quot; of people from some Muslim countries entering the United States under new immigration orders.
 
 In a far-reaching order that caused chaos and confusion after it was signed late on Friday, Trump put a four-month hold on allowing refugees into the United States and temporarily barred travellers from Syria and six other Muslim-majority countries.
 
@@ -24,9 +24,8 @@ The ACLU sought and won a temporary stay on Trump&apos;s order to restrict trave
 
 Trump told reporters in the White House&apos;s Oval Office on Saturday that his order was &quot;not a Muslim ban&quot; and said the measures were long overdue.
 
-(Writing by Ed Davies; Editing by Paul Tait)</content> 
-<sequenceId type="str">695202549812</sequenceId> 
-<topics type="list"> 
+(Writing by Ed Davies; Editing by Paul Tait)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -55,7 +54,8 @@ Trump told reporters in the White House&apos;s Oval Office on Saturday that his 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:33Z</estimatedPublishedDate> 
-<title type="str">Muslim-majority Indonesia deeply regrets U.S. immigrant vetting plans</title> 
+</TOPICS> 
+<DOCID type="str">695202549812</DOCID> 
+<DCT type="str">2017-01-29T08:14:33Z</DCT> 
+<TITLE type="str">Muslim-majority Indonesia deeply regrets U.S. immigrant vetting plans</TITLE> 
 </root>

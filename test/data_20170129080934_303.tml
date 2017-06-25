@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Kim Kardashian West works out every day for an hour. 
+<TEXT type="str">Kim Kardashian West works out every day for an hour. 
 
 Although the 36-year-old reality TV star works hard to stay in shape, she doesn&apos;t usually document her regime on social media like her sisters Khloe and Kourtney Kardashian. 
 
@@ -16,9 +16,8 @@ Khloe shed 40lbs after splitting from Lamar Odom in 2013 after four years of mar
 
 &quot;I was like, &apos;Oh, OK, I see a little definition somewhere. Let me try keep this up. Then I got a trainer, and a few months later, a nutritionist. 
 
-&quot;My journey has been a long one, but it&apos;s a lifestyle change. I&apos;m not trying to lose 30 pounds in 30 days to prove a point. I want this to be for the rest of my life.&quot;</content> 
-<sequenceId type="str">695200990676</sequenceId> 
-<topics type="list"> 
+&quot;My journey has been a long one, but it&apos;s a lifestyle change. I&apos;m not trying to lose 30 pounds in 30 days to prove a point. I want this to be for the rest of my life.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -27,7 +26,8 @@ Khloe shed 40lbs after splitting from Lamar Odom in 2013 after four years of mar
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: fitness news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:24Z</estimatedPublishedDate> 
-<title type="str">Kim Kardashian West&apos;s daily workouts</title> 
+</TOPICS> 
+<DOCID type="str">695200990676</DOCID> 
+<DCT type="str">2017-01-29T08:03:24Z</DCT> 
+<TITLE type="str">Kim Kardashian West&apos;s daily workouts</TITLE> 
 </root>

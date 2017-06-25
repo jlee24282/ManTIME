@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Nobody thinks Margaret Thatcher&apos;s claim on posterity is that she was Britain&apos;s first female prime minister. Admirers and critics alike know she was more consequential than that. Barack Obama was America&apos;s first black president, which is a huge thing and a fine thing. But when you&apos;ve said that, you&apos;ve probably said what matters most about his time in office. 
+<TEXT type="str">Nobody thinks Margaret Thatcher&apos;s claim on posterity is that she was Britain&apos;s first female prime minister. Admirers and critics alike know she was more consequential than that. Barack Obama was America&apos;s first black president, which is a huge thing and a fine thing. But when you&apos;ve said that, you&apos;ve probably said what matters most about his time in office. 
  
 Perhaps it was harder--less probable--for a black man with little experience of government to be elected president of the U.S. in 2008 than it was for a woman to lead the British Conservative Party to electoral victory in 1979. Obama&apos;s rise to the presidency was a remarkable accomplishment. Talk about audacity. But reflecting on his eight years in office, one wonders how much ambition he had left after that. 
  
@@ -40,9 +40,8 @@ Great leadership--more precisely, the desire to be a great leader--can be danger
  
 And yet it&apos;s disappointing. America&apos;s polarization and the deep political dysfunction that flows from it are themselves a kind of crisis. Now they&apos;ve yielded President Trump, and who knows what harm will flow from that? If Obama had been willing to think big and take risks--not just before getting elected but afterward as well--things might have been different. But Obama wasn&apos;t that man. 
  
-Editorial on 01/29/2</content> 
-<sequenceId type="str">695202407386</sequenceId> 
-<topics type="list"> 
+Editorial on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -59,7 +58,8 @@ Editorial on 01/29/2</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:25Z</estimatedPublishedDate> 
-<title type="str">Obama&apos;s failing: lack of ambition</title> 
+</TOPICS> 
+<DOCID type="str">695202407386</DOCID> 
+<DCT type="str">2017-01-29T08:07:25Z</DCT> 
+<TITLE type="str">Obama&apos;s failing: lack of ambition</TITLE> 
 </root>

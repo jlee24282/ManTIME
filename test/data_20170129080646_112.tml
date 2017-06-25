@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695194339936</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Middle East stories</name> 
@@ -27,7 +26,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:38Z</estimatedPublishedDate> 
-<title type="str">Suspected U.S. Commando Raid in Yemen Kills Three Al Qaeda Members: Residents</title> 
+</TOPICS> 
+<DOCID type="str">695194339936</DOCID> 
+<DCT type="str">2017-01-29T07:14:38Z</DCT> 
+<TITLE type="str">Suspected U.S. Commando Raid in Yemen Kills Three Al Qaeda Members: Residents</TITLE> 
 </root>

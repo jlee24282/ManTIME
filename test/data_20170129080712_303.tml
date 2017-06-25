@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LONDON, United Kingdom (AFP) — The number of European nurses registering to work in Britain has fallen by more than 90 per cent since last June’s Brexit vote, the British Nursing and Midwifery Council (NMC) told AFP on Friday. 
+<TEXT type="str">LONDON, United Kingdom (AFP) — The number of European nurses registering to work in Britain has fallen by more than 90 per cent since last June’s Brexit vote, the British Nursing and Midwifery Council (NMC) told AFP on Friday. 
  
 A total of 101 nurses and midwives from EU nations registered in December, compared with 1,304 in July, the month after the referendum, according to the NMC. 
  
@@ -22,9 +22,8 @@ Davies warned that the NHS could suffer a further crisis if the trend continued.
  
 AFP in a statement. 
  
-“We need a guarantee that EU nationals working in the NHS can remain. Without that, it will be much harder to retain and recruit staff from the EU, and patient care will suffer as a result.”</content> 
-<sequenceId type="str">695195383263</sequenceId> 
-<topics type="list"> 
+“We need a guarantee that EU nationals working in the NHS can remain. Without that, it will be much harder to retain and recruit staff from the EU, and patient care will suffer as a result.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">European Union news</name> 
@@ -45,7 +44,8 @@ AFP in a statement.
 <group type="str">Business</group> 
 <name type="str">UK business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:35Z</estimatedPublishedDate> 
-<title type="str">EU nurses registering in UK falls by 90% post-Brexit</title> 
+</TOPICS> 
+<DOCID type="str">695195383263</DOCID> 
+<DCT type="str">2017-01-29T07:21:35Z</DCT> 
+<TITLE type="str">EU nurses registering in UK falls by 90% post-Brexit</TITLE> 
 </root>

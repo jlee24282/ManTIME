@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A story started making the rounds last week about French energy regulators asking companies to cut back on email in order to save energy. It sort of sounds like a satirical piece -- it did, in fact, end up in Reddit&apos;s &quot;Not the Onion&quot; subsection -- but the suggestion really does come from the French regulator, RTE. 
+<TEXT type="str">A story started making the rounds last week about French energy regulators asking companies to cut back on email in order to save energy. It sort of sounds like a satirical piece -- it did, in fact, end up in Reddit&apos;s &quot;Not the Onion&quot; subsection -- but the suggestion really does come from the French regulator, RTE. 
  
 Which got us thinking: How do our tech habits affect how much power we use and the environment? Finding an answer is harder than you may think. After all, the energy you use at your desk writing a typical email isn&apos;t all the energy that an email uses. As the French warning indicates, there&apos;s a whole infrastructure behind every message, which includes not only the electricity you use but also the energy it takes to store and transmit that information through data centers. 
  
@@ -32,9 +32,8 @@ Game consoles are often put into a standby mode instead of being completely turn
  
 In all cases, the question of how harmful any given activity&apos;s energy use may depend in part on the company you&apos;re using. Several companies, including Apple, Google and Netflix, have all committed to using clean sources of energy for their data centers -- and, in many cases, are increasing the percentage of clean energy they&apos;re using for their services each year. 
  
-If you&apos;re worried about your energy bill, then paying attention to consumption alone is probably what you need to pay attention to the most. If you&apos;re concerned about your carbon footprint, then researching how the companies you use source energy is also worth a look.</content> 
-<sequenceId type="str">695202718183</sequenceId> 
-<topics type="list"> 
+If you&apos;re worried about your energy bill, then paying attention to consumption alone is probably what you need to pay attention to the most. If you&apos;re concerned about your carbon footprint, then researching how the companies you use source energy is also worth a look.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Digital distribution news</name> 
@@ -43,7 +42,8 @@ If you&apos;re worried about your energy bill, then paying attention to consumpt
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:01Z</estimatedPublishedDate> 
-<title type="str">How bad are email, streaming, gaming for the environment?</title> 
+</TOPICS> 
+<DOCID type="str">695202718183</DOCID> 
+<DCT type="str">2017-01-29T08:16:01Z</DCT> 
+<TITLE type="str">How bad are email, streaming, gaming for the environment?</TITLE> 
 </root>

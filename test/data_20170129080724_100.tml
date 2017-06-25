@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CAIRO (Reuters) - Five Iraqi passengers and one Yemeni were barred from boarding an EgyptAir flight from Cairo to New York on Saturday following President Donald Trump&apos;s ban on the entry of citizens from seven Muslim-majority countries, sources at Cairo airport said. 
+<TEXT type="str">CAIRO (Reuters) - Five Iraqi passengers and one Yemeni were barred from boarding an EgyptAir flight from Cairo to New York on Saturday following President Donald Trump&apos;s ban on the entry of citizens from seven Muslim-majority countries, sources at Cairo airport said. 
  
 Trump on Friday put a four-month hold on allowing refugees into the United States and temporarily barred travellers from Syria and six other Muslim-majority countries, saying the moves would help protect Americans from terrorist attacks. 
  
@@ -12,14 +12,14 @@ Trump halted the entry of travellers from Syria, Iraq, Iran, Sudan, Libya, Somal
  
 A U.N. refugee agency spokesman said it was not yet known whether the six travellers had been granted visas earlier under the U.S. refugee programme. 
  
-(Additional reporting by Mohamed Abdellah; Writing by Eric Knecht; Editing by Mark Heinrich)</content> 
-<sequenceId type="str">695195712365</sequenceId> 
-<topics type="list"> 
+(Additional reporting by Mohamed Abdellah; Writing by Eric Knecht; Editing by Mark Heinrich)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:05Z</estimatedPublishedDate> 
-<title type="str">Five Iraqis, one Yemeni barred from Cairo-New York flight after Trump ban</title> 
+</TOPICS> 
+<DOCID type="str">695195712365</DOCID> 
+<DCT type="str">2017-01-29T07:24:05Z</DCT> 
+<TITLE type="str">Five Iraqis, one Yemeni barred from Cairo-New York flight after Trump ban</TITLE> 
 </root>

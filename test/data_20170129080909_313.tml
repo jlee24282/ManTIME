@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">http://www.youtube.com/v/a03NjtsBwhg?fs=1 
+<TEXT type="str">http://www.youtube.com/v/a03NjtsBwhg?fs=1 
  
 
  
-The post appeared first on ChefTronic .</content> 
-<sequenceId type="str">695199999467</sequenceId> 
-<topics type="list"> 
+The post appeared first on ChefTronic .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Beverages industry news</name> 
@@ -15,7 +14,8 @@ The post appeared first on ChefTronic .</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:30Z</estimatedPublishedDate> 
-<title type="str">God Street Wine – 06 Epilog 1992-05-08 Hamilton College</title> 
+</TOPICS> 
+<DOCID type="str">695199999467</DOCID> 
+<DCT type="str">2017-01-29T07:50:30Z</DCT> 
+<TITLE type="str">God Street Wine – 06 Epilog 1992-05-08 Hamilton College</TITLE> 
 </root>

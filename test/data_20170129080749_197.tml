@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 6:19 pm 
+<TEXT type="str">, 6:19 pm 
   
 Melbourne (AFP) - Serena Williams says her rise to become perhaps the greatest player of all time is all down to mental strength and never giving up, a trait learned from Steffi Graf and Martina Navratilova. 
  
@@ -48,9 +48,8 @@ But she said it was special having Ohanian by her side in Melbourne.
  
 &quot;He&apos;s been so supportive in the stands. Although I never really heard him, even though I heard he was very boisterous,&quot; she said. 
  
-&quot;I&apos;m so focused, I don&apos;t hear a lot. I have really selective hearing. It&apos;s nice to have that support. It is a wonderful feeling.&quot;</content> 
-<sequenceId type="str">695196709616</sequenceId> 
-<topics type="list"> 
+&quot;I&apos;m so focused, I don&apos;t hear a lot. I have really selective hearing. It&apos;s nice to have that support. It is a wonderful feeling.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -59,7 +58,8 @@ But she said it was special having Ohanian by her side in Melbourne.
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:34Z</estimatedPublishedDate> 
-<title type="str">Fighting spirit propels Serena to tennis greatness</title> 
+</TOPICS> 
+<DOCID type="str">695196709616</DOCID> 
+<DCT type="str">2017-01-29T07:19:34Z</DCT> 
+<TITLE type="str">Fighting spirit propels Serena to tennis greatness</TITLE> 
 </root>

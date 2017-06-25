@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IANS 
+<TEXT type="str">IANS 
  
 Melbourne, Jan 29 (IANS) Sania Mirza&apos;s aim for her seventh major tennis title ended in despair as she and Croatian partner Ivan Dodig were beaten 2-6, 4-6 by unseeded American Abigail Spears and Colombian Juan Sebastian Cabal in the Australian Open mixed doubles final here on Sunday. 
  
@@ -45,9 +45,8 @@ The reproduction of the story/photograph in any form will be liable for legal ac
  
 For news, views and gossips, follow @IANSLIVE at Twitter . Find us on Facebook too! 
  
-Update: 29-January-2</content> 
-<sequenceId type="str">695194894557</sequenceId> 
-<topics type="list"> 
+Update: 29-January-2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -56,7 +55,8 @@ Update: 29-January-2</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:04Z</estimatedPublishedDate> 
-<title type="str">Sania beaten in Australian Open mixed doubles final</title> 
+</TOPICS> 
+<DOCID type="str">695194894557</DOCID> 
+<DCT type="str">2017-01-29T07:19:04Z</DCT> 
+<TITLE type="str">Sania beaten in Australian Open mixed doubles final</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON — The U.S. economy lost momentum in the final three months of 2016 as a downturn in exports temporarily depressed activity. But there were hopeful signs in housing and business investment that the economy will rebound in the coming months. 
+<TEXT type="str">WASHINGTON — The U.S. economy lost momentum in the final three months of 2016 as a downturn in exports temporarily depressed activity. But there were hopeful signs in housing and business investment that the economy will rebound in the coming months. 
  
 The gross domestic product grew at an annual rate of just 1.9 percent in the October-December period, a slowdown from 3.5 percent growth in the third quarter, the Commerce Department reported Friday. GDP, the broadest measure of economic health, was held back by a swing in trade with exports of soybeans plunging in the fourth quarter after having surged in the third quarter. 
  
@@ -34,9 +34,8 @@ Sung Won Sohn, an economics professor at California State’s Martin Smith Schoo
  
 “At the moment, we don’t know the size, the scale and the timing of the Trump program,” Sohn said. “But it is very possible that we will get a significant boost to economic growth in the second half of next year if Trump is successful getting his program through Congress.” 
  
-Sohn predicted growth rates could jump to 3.5 to 4 percent. GDP growth has averaged a lackluster 2.1 percent in the 7½ years since the recession ended, a point that Trump repeatedly brought up during the campaign.</content> 
-<sequenceId type="str">695194927024</sequenceId> 
-<topics type="list"> 
+Sohn predicted growth rates could jump to 3.5 to 4 percent. GDP growth has averaged a lackluster 2.1 percent in the 7½ years since the recession ended, a point that Trump repeatedly brought up during the campaign.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Economics news</name> 
@@ -45,7 +44,8 @@ Sohn predicted growth rates could jump to 3.5 to 4 percent. GDP growth has avera
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:21Z</estimatedPublishedDate> 
-<title type="str">Economic growth slows in fourth quarter, but there&apos;s hope ahead</title> 
+</TOPICS> 
+<DOCID type="str">695194927024</DOCID> 
+<DCT type="str">2017-01-29T07:19:21Z</DCT> 
+<TITLE type="str">Economic growth slows in fourth quarter, but there&apos;s hope ahead</TITLE> 
 </root>

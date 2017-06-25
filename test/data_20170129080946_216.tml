@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">First Central Hotel Suites, managed by Dubai-based Central Hotels group, has been awarded Green Key 
+<TEXT type="str">First Central Hotel Suites, managed by Dubai-based Central Hotels group, has been awarded Green Key 
    
 Green-Key 
   AL BARSHA, UAE - Jan. 29, 2017 - PRLog -- First Central Hotel Suites, managed by Dubai-based Central Hotels group, has been awarded Green Key Certification 2016-2017 for its green practices that include a host of environment- friendly energy, water and waste management initiatives. 
@@ -14,9 +14,8 @@ About First Central Hotel Suites
 
 Featuring 524 apartments, equipped with top-notch facilities, First Central Hotel Suites is superbly located in Barsha Heights (TECOM) near Sheikh Zayed Road in close proximity to Dubai Marina, Montgomerie and Emirates Golf Clubs and Mall of the Emirates. Included in it is facilities are fabulous dining, leisure and business amenities designed to meet the needs of modern travellers. 
  
-End</content> 
-<sequenceId type="str">695201342178</sequenceId> 
-<topics type="list"> 
+End</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Hospitality industry news</name> 
@@ -37,7 +36,8 @@ End</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:24:20Z</estimatedPublishedDate> 
-<title type="str">First Central Hotel Suites in Dubai Receives Green Key Certification 2016-2017</title> 
+</TOPICS> 
+<DOCID type="str">695201342178</DOCID> 
+<DCT type="str">2017-01-29T06:24:20Z</DCT> 
+<TITLE type="str">First Central Hotel Suites in Dubai Receives Green Key Certification 2016-2017</TITLE> 
 </root>

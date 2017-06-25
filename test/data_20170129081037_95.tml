@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">More than a decade ago, Arden Fair mall was riding high. It quickly became Sacramento’s premier shopping destination, as brands and shoppers flocked from languishing competitors. 
+<TEXT type="str">More than a decade ago, Arden Fair mall was riding high. It quickly became Sacramento’s premier shopping destination, as brands and shoppers flocked from languishing competitors. 
 
 Today, Arden Fair faces challenges from both traditional brick-and-mortar outlets  –  mainly the Westfield Galleria in Roseville – and the rise of online shopping. 
 
@@ -48,9 +48,8 @@ Competition from strip malls, “lifestyle centers” and stand-alone big-box st
 
 The Fountains generated almost $1 million in sales tax revenue in 2015, up from $93,000 in 2005, according to city data. The Fountains, which calls itself a “unique collection of 40 stores and nine restaurants,” has an open-air atmosphere and a weekly farmers market. 
 
-The popularity of lifestyle centers is evidenced by the Palladio more than doubling its sales in a short period. In 2012, the center generated nearly $300,000 in sales tax revenue, but by 2015 that amount was well over $600,000, according to the city of Folsom.</content> 
-<sequenceId type="str">695202897626</sequenceId> 
-<topics type="list"> 
+The popularity of lifestyle centers is evidenced by the Palladio more than doubling its sales in a short period. In 2012, the center generated nearly $300,000 in sales tax revenue, but by 2015 that amount was well over $600,000, according to the city of Folsom.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Sacramento Kings news</name> 
@@ -63,7 +62,8 @@ The popularity of lifestyle centers is evidenced by the Palladio more than doubl
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Region’s traditional malls surviving, some better than others</title> 
+</TOPICS> 
+<DOCID type="str">695202897626</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Region’s traditional malls surviving, some better than others</TITLE> 
 </root>

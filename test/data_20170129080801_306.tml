@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CHICAGO – The night before Donald Trump’s inauguration, five environmental lawyers filed a federal court brief defending an Obama administration clean-water rule that the new president and his Republican allies have targeted for elimination, considering it burdensome to landowners. 
+<TEXT type="str">CHICAGO – The night before Donald Trump’s inauguration, five environmental lawyers filed a federal court brief defending an Obama administration clean-water rule that the new president and his Republican allies have targeted for elimination, considering it burdensome to landowners. 
  
 The move served as a warning that environmentalists, facing a hostile administration and a Republican-dominated Congress, are prepared to battle in court against what they fear will be a wave of unfavourable policies concerning climate change, wildlife protection, federal lands and pollution. 
  
@@ -52,9 +52,8 @@ Flesher reported from Traverse City, Michigan.
  
 ___ 
  
-Follow Webber and Flesher on Twitter: https://twitter.com/twebber02, https://twitter.com/JohnFlesher</content> 
-<sequenceId type="str">695197178216</sequenceId> 
-<topics type="list"> 
+Follow Webber and Flesher on Twitter: https://twitter.com/twebber02, https://twitter.com/JohnFlesher</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -75,7 +74,8 @@ Follow Webber and Flesher on Twitter: https://twitter.com/twebber02, https://twi
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:49:16Z</estimatedPublishedDate> 
-<title type="str">Environmentalists preparing to battle Trump, GOP in court</title> 
+</TOPICS> 
+<DOCID type="str">695197178216</DOCID> 
+<DCT type="str">2017-01-29T06:49:16Z</DCT> 
+<TITLE type="str">Environmentalists preparing to battle Trump, GOP in court</TITLE> 
 </root>

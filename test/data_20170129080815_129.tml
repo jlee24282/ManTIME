@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rogue One is about a woman looking for her father after 15 years and she helps out the Resistance to get an item to save the world. 
+<TEXT type="str">Rogue One is about a woman looking for her father after 15 years and she helps out the Resistance to get an item to save the world. 
 
 Author: lennoxjr1981 
 Tags: 
-Posted: 29 January 2</content> 
-<sequenceId type="str">695197436804</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -19,7 +18,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie reviews</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:23Z</estimatedPublishedDate> 
-<title type="str">Rogue One: A Star Wars Story (2016) movie review</title> 
+</TOPICS> 
+<DOCID type="str">695197436804</DOCID> 
+<DCT type="str">2017-01-29T07:28:23Z</DCT> 
+<TITLE type="str">Rogue One: A Star Wars Story (2016) movie review</TITLE> 
 </root>

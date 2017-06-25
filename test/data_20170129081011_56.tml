@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Open Access Article 
+<TEXT type="str">Open Access Article 
  
 Sustainability  2017 , 9 (2), 196; doi:10.3390/su9020196 (registering DOI) 
     
@@ -45,9 +45,8 @@ Article metric data becomes available approximately 24 hours after publication o
 No 
  
 No 
- [Return to top]</content> 
-<sequenceId type="str">695202125149</sequenceId> 
-<topics type="list"> 
+ [Return to top]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -64,7 +63,8 @@ No
 <group type="str">Regional</group> 
 <name type="str">Norway news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Sustainability, Vol. 9, Pages 196: Can Social Comparison Feedback Affect Indicators of Eco-Friendly Travel Choices? Insights from Two Online Experiments</title> 
+</TOPICS> 
+<DOCID type="str">695202125149</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Sustainability, Vol. 9, Pages 196: Can Social Comparison Feedback Affect Indicators of Eco-Friendly Travel Choices? Insights from Two Online Experiments</TITLE> 
 </root>

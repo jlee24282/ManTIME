@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">I have some thoughts on the National Popular Vote Interstate Compact. 
+<TEXT type="str">I have some thoughts on the National Popular Vote Interstate Compact. 
  
 In the 2016 election, roughly 70 percent of West Virginians voted for Trump. Had the NPVIC been in effect, W.Va. electors would have been required to cast their votes for Hillary Clinton because she won the nationwide popular vote. The same would be true in all the states Trump carried. The NPVIC would have made electors puppets of Clinton and the Democratic Party. 
  
@@ -30,9 +30,8 @@ What part of “prohibiting the free exercise thereof” can’t liberals unders
  
 Steve Wolverton 
  
-Parkersburg</content> 
-<sequenceId type="str">695194359570</sequenceId> 
-<topics type="list"> 
+Parkersburg</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -41,7 +40,8 @@ Parkersburg</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:46Z</estimatedPublishedDate> 
-<title type="str">NPVIC is a bad idea</title> 
+</TOPICS> 
+<DOCID type="str">695194359570</DOCID> 
+<DCT type="str">2017-01-29T07:14:46Z</DCT> 
+<TITLE type="str">NPVIC is a bad idea</TITLE> 
 </root>

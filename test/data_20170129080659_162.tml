@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dozens of Australian deportees returning to New Zealand each month, sparking concerns resources are too stretched for them to reintegrate successfully. 
+<TEXT type="str">Dozens of Australian deportees returning to New Zealand each month, sparking concerns resources are too stretched for them to reintegrate successfully. 
 
 Helen Murphy, manager of Prisoners&apos; Aid and Rehabilitation Society of Canterbury (Pars), said Kiwi-born criminals from across the Tasman were &quot;coming continuously&quot;. 
 
@@ -58,9 +58,8 @@ High-risk offenders are visited by police 48 hours after arrival.
 
 He said in some cases in Auckland, returning offenders had checked out of supported living arrangements or motels before police arrived for their checkup. 
 
-&quot;They&apos;re not breaking the law per se when they do that, because a lot of them aren&apos;t under any restrictions. They&apos;re just into the wind.&quot; - Stuff</content> 
-<sequenceId type="str">695194737287</sequenceId> 
-<topics type="list"> 
+&quot;They&apos;re not breaking the law per se when they do that, because a lot of them aren&apos;t under any restrictions. They&apos;re just into the wind.&quot; - Stuff</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -73,7 +72,8 @@ He said in some cases in Auckland, returning offenders had checked out of suppor
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:44Z</estimatedPublishedDate> 
-<title type="str">Deportees stretching resources</title> 
+</TOPICS> 
+<DOCID type="str">695194737287</DOCID> 
+<DCT type="str">2017-01-29T07:17:44Z</DCT> 
+<TITLE type="str">Deportees stretching resources</TITLE> 
 </root>

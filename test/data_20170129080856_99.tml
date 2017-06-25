@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Nationwide protests over allegations that Absa bank benefited from apartheid-era bailouts resulted in five branches being shut down‚ organisers claimed on Saturday. 
+<TEXT type="str">Nationwide protests over allegations that Absa bank benefited from apartheid-era bailouts resulted in five branches being shut down‚ organisers claimed on Saturday. 
 
 The Black First Land First movement on Saturday held pickets across the country over the claims‚ which were revealed in a leaked draft Public Protector report recently. While Absa has denied wrongdoing and said it is working with the Public Protector’s office‚ recommendations in the report suggest the bank could have to pay back some R2.24-billion.
 
@@ -22,9 +22,8 @@ Mngxitama said the movement would not stop calling on Absa to repay the cash.
 
 “The best course of action from our point of view is that Absa pays back the money without further delay. The evidence [against them] is overwhelming‚” he said.
 
-Zibi said the bank was responding to the draft report and would meet the end of February deadline.</content> 
-<sequenceId type="str">695199207561</sequenceId> 
-<topics type="list"> 
+Zibi said the bank was responding to the draft report and would meet the end of February deadline.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Banking news</name> 
@@ -33,7 +32,8 @@ Zibi said the bank was responding to the draft report and would meet the end of 
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:42:30Z</estimatedPublishedDate> 
-<title type="str">We shut down five Absa branches: Black First Land First protestors</title> 
+</TOPICS> 
+<DOCID type="str">695199207561</DOCID> 
+<DCT type="str">2017-01-29T07:42:30Z</DCT> 
+<TITLE type="str">We shut down five Absa branches: Black First Land First protestors</TITLE> 
 </root>

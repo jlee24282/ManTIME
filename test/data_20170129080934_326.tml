@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Eyewitness News 
+<TEXT type="str">Eyewitness News 
 
 According to a report, Molefe could be sworn in as an MP, in what is said to be a plan to fire Finance Minister Pravin Gordhan. Former Eskom CEO Brian Molefe. Picture: Reinart Toerien/EWN. Finance Minister Pravin Gordhan · African National Congress ANC … 
 
@@ -34,9 +34,8 @@ marth on Lifestyle Tips And ‘Love-Making’ Positions That Will Help You Conce
 
 kenechukwu on Ultimate Cycler Website Is Back, Members Can Login But … 
 
-megmaltese on In the Battle Between Google,</content> 
-<sequenceId type="str">695201014287</sequenceId> 
-<topics type="list"> 
+megmaltese on In the Battle Between Google,</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
@@ -45,7 +44,8 @@ megmaltese on In the Battle Between Google,</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:38:27Z</estimatedPublishedDate> 
-<title type="str">Is Brian Molefe headed for Parliament? – Eyewitness News</title> 
+</TOPICS> 
+<DOCID type="str">695201014287</DOCID> 
+<DCT type="str">2017-01-29T04:38:27Z</DCT> 
+<TITLE type="str">Is Brian Molefe headed for Parliament? – Eyewitness News</TITLE> 
 </root>

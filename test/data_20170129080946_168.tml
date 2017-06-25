@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695201309606</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:41Z</estimatedPublishedDate> 
-<title type="str">Serena to Play Fewer Tournaments to Aid Grand Slam Quest</title> 
+</TOPICS> 
+<DOCID type="str">695201309606</DOCID> 
+<DCT type="str">2017-01-29T08:05:41Z</DCT> 
+<TITLE type="str">Serena to Play Fewer Tournaments to Aid Grand Slam Quest</TITLE> 
 </root>

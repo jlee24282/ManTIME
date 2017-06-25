@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PHOENIX -- The Denver Nuggets set up residence at the free throw line in the third quarter Saturday night and made the most of their time there.
+<TEXT type="str">PHOENIX -- The Denver Nuggets set up residence at the free throw line in the third quarter Saturday night and made the most of their time there.
 
 The Nuggets sank 18 of 19 free throws in the period to pull away and beat the Phoenix Suns for the second time in three nights, 123-112.
 
@@ -46,9 +46,8 @@ Knight struggled through a 1-for-8 shooting night and his team&apos;s point diff
 
 Bledsoe&apos;s previous career high was 40 set in Toronto on Jan. 22.. ... Booker scored at least 20 for the 12th straight game, the first player to do so in his first or second season since Blake Griffin did it 14 in a row in 2010-11. ... Phoenix was without rookie Dragan Bender for the third straight game with right ankle soreness.
 
-Phoenix is home against Memphis on Monday night.</content> 
-<sequenceId type="str">695202120471</sequenceId> 
-<topics type="list"> 
+Phoenix is home against Memphis on Monday night.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Phoenix Suns news</name> 
@@ -69,7 +68,8 @@ Phoenix is home against Memphis on Monday night.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:27Z</estimatedPublishedDate> 
-<title type="str">Bledsoe scores 41 but Nuggets beat Suns again</title> 
+</TOPICS> 
+<DOCID type="str">695202120471</DOCID> 
+<DCT type="str">2017-01-29T08:11:27Z</DCT> 
+<TITLE type="str">Bledsoe scores 41 but Nuggets beat Suns again</TITLE> 
 </root>

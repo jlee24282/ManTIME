@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">French President Francois Hollande urged Europe to form a united front and provide a “firm” response to US President Donald Trump, at a gathering of southern European Union leaders. 
+<TEXT type="str">French President Francois Hollande urged Europe to form a united front and provide a “firm” response to US President Donald Trump, at a gathering of southern European Union leaders. 
  
 “We must conduct firm dialogue with the new American administration which has shown it has its own approach to the problems we all face,” he said at the end of the gathering as he was flanked by the other leaders who took part. 
  
@@ -24,9 +24,8 @@ Italian Prime Minister Paolo Gentiloni said Europe was “ready, interested and 
  
 “But we are Europe, and we cherish our values,” he added. 
  
-Spanish Prime Minister Mariano Rajoy defended the EU project, saying it had helped transform Europe into the world region with the “highest level of progress, civil rights and well being”.</content> 
-<sequenceId type="str">695199125691</sequenceId> 
-<topics type="list"> 
+Spanish Prime Minister Mariano Rajoy defended the EU project, saying it had helped transform Europe into the world region with the “highest level of progress, civil rights and well being”.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -51,7 +50,8 @@ Spanish Prime Minister Mariano Rajoy defended the EU project, saying it had help
 <group type="str">Society</group> 
 <name type="str">European Union news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:00Z</estimatedPublishedDate> 
-<title type="str">4hrs Hollande urges ‘firm’ European response to Trump</title> 
+</TOPICS> 
+<DOCID type="str">695199125691</DOCID> 
+<DCT type="str">2017-01-29T07:49:00Z</DCT> 
+<TITLE type="str">4hrs Hollande urges ‘firm’ European response to Trump</TITLE> 
 </root>

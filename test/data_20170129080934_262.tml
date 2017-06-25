@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The number of UAE residents applying for personal loans dropped in 2016, but it was harder for those who applied to get their loans approved, according to a new report. 
+<TEXT type="str">The number of UAE residents applying for personal loans dropped in 2016, but it was harder for those who applied to get their loans approved, according to a new report. 
  
 The report by financial comparison site compareit4me.com found that the number of people applying for personal loans in 2016 decreased by 1.68 per cent comapred to 2015. 
   
@@ -26,9 +26,8 @@ In terms of the most popular personal loans of 2016, Emirates NBD’s Salary Tra
  
 Also read:  Emirates NBD expects sharp drop in retail loan growth in 2017 
  Comments  
-comments</content> 
-<sequenceId type="str">695200956107</sequenceId> 
-<topics type="list"> 
+comments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -41,7 +40,8 @@ comments</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:45Z</estimatedPublishedDate> 
-<title type="str">UAE residents found it harder to get loans in 2016 – report</title> 
+</TOPICS> 
+<DOCID type="str">695200956107</DOCID> 
+<DCT type="str">2017-01-29T07:51:45Z</DCT> 
+<TITLE type="str">UAE residents found it harder to get loans in 2016 – report</TITLE> 
 </root>

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">[embedded content] 
+<TEXT type="str">[embedded content] 
 
 published: 2017-01-24 15:06:14 
  
 source 
- Some local news is curated - Original might have been posted at a different date/ time! Click the source link for details.</content> 
-<sequenceId type="str">695195577052</sequenceId> 
-<topics type="list"> 
+ Some local news is curated - Original might have been posted at a different date/ time! Click the source link for details.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -20,7 +19,8 @@ source
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:13Z</estimatedPublishedDate> 
-<title type="str">Come on Dubai at PSL the weather is great – Dubai Video</title> 
+</TOPICS> 
+<DOCID type="str">695195577052</DOCID> 
+<DCT type="str">2017-01-29T07:23:13Z</DCT> 
+<TITLE type="str">Come on Dubai at PSL the weather is great – Dubai Video</TITLE> 
 </root>

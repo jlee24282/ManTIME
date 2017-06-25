@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Roar Guru     Live Scores  
+<TEXT type="str">Roar Guru     Live Scores  
 Scores updated regularly. REFRESH NOW 
   
 2017 Australian Open 
@@ -44,9 +44,8 @@ I’m not tipping with any confidence, but Federer in five sets .
  
 Be sure to join The Roar for live coverage of the final from 7:30pm (AEDT) and don’t forget to add your own comments in the section below. 
   
-Follow Scott on Twitter @sk_pryde</content> 
-<sequenceId type="str">695205005454</sequenceId> 
-<topics type="list"> 
+Follow Scott on Twitter @sk_pryde</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -55,7 +54,8 @@ Follow Scott on Twitter @sk_pryde</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:06Z</estimatedPublishedDate> 
-<title type="str">Roger Federer vs Rafael Nadal: Australian Open men’s singles final tennis live scores, blog</title> 
+</TOPICS> 
+<DOCID type="str">695205005454</DOCID> 
+<DCT type="str">2017-01-29T08:15:06Z</DCT> 
+<TITLE type="str">Roger Federer vs Rafael Nadal: Australian Open men’s singles final tennis live scores, blog</TITLE> 
 </root>

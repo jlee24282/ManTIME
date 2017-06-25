@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695204385451</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:57Z</estimatedPublishedDate> 
-<title type="str">CELTICS 112, BUCKS 108 (OT) Celtics get past Bucks in overtime</title> 
+</TOPICS> 
+<DOCID type="str">695204385451</DOCID> 
+<DCT type="str">2017-01-29T08:28:57Z</DCT> 
+<TITLE type="str">CELTICS 112, BUCKS 108 (OT) Celtics get past Bucks in overtime</TITLE> 
 </root>

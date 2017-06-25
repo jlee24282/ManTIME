@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">@OVOFina hope he&apos;s alright #XGames  pic.twitter.com/f9Q9VVBuc5 
+<TEXT type="str">@OVOFina hope he&apos;s alright #XGames  pic.twitter.com/f9Q9VVBuc5 
  
 — Ryan McCoy (@RMcCoy30) January 29, 2017 
  
@@ -18,9 +18,8 @@ The Monster Energy-sponsored, 19-year-old big air specialist from Zürich finish
  
 He finished 32nd in the 2014 Sochi Winter Olympics slopestyle contest as the youngest member of the Swiss Freeskiing Team. 
  
-The X Games event was won by James Woods of Great Britain. Breckenridge skier Bobby Brown finished fourth in the jam-session style event.</content> 
-<sequenceId type="str">695194254393</sequenceId> 
-<topics type="list"> 
+The X Games event was won by James Woods of Great Britain. Breckenridge skier Bobby Brown finished fourth in the jam-session style event.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Switzerland news</name> 
@@ -37,7 +36,8 @@ The X Games event was won by James Woods of Great Britain. Breckenridge skier Bo
 <group type="str">Sports</group> 
 <name type="str">Sports: extreme sports news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:01:01Z</estimatedPublishedDate> 
-<title type="str">Swiss skier Luca Schuler suffers concussion in X Games Big Air, expected to be OK</title> 
+</TOPICS> 
+<DOCID type="str">695194254393</DOCID> 
+<DCT type="str">2017-01-29T05:01:01Z</DCT> 
+<TITLE type="str">Swiss skier Luca Schuler suffers concussion in X Games Big Air, expected to be OK</TITLE> 
 </root>

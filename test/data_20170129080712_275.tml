@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ted Dawe author of embargoed book &apos;into the river&apos; discusses the censorship of his writings as well as the reality that the text came from. 
+<TEXT type="str">Ted Dawe author of embargoed book &apos;into the river&apos; discusses the censorship of his writings as well as the reality that the text came from. 
   
 Ted Dawe&apos;s once-banned childrens novel  Into the River  is reportedly headed for the big screen. 
  
@@ -26,9 +26,8 @@ In an interview with Fairfax Media in September, 2015, Dawe said controversy abo
 With this new deal, it seems Dawe might have been right. 
  
   
-      Comments</content> 
-<sequenceId type="str">695195358148</sequenceId> 
-<topics type="list"> 
+      Comments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -41,7 +40,8 @@ With this new deal, it seems Dawe might have been right.
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:10:17Z</estimatedPublishedDate> 
-<title type="str">Once-banned kids book &apos;Into the River&apos; gets movie deal</title> 
+</TOPICS> 
+<DOCID type="str">695195358148</DOCID> 
+<DCT type="str">2017-01-29T07:10:17Z</DCT> 
+<TITLE type="str">Once-banned kids book &apos;Into the River&apos; gets movie deal</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,14 +8,14 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695202060554</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:57Z</estimatedPublishedDate> 
-<title type="str">Dangal: Here&apos;s the sum Mahavir Singh Phogat got after movie surpassed Rs. 300 crore mark</title> 
+</TOPICS> 
+<DOCID type="str">695202060554</DOCID> 
+<DCT type="str">2017-01-29T08:10:57Z</DCT> 
+<TITLE type="str">Dangal: Here&apos;s the sum Mahavir Singh Phogat got after movie surpassed Rs. 300 crore mark</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str"> Maruti Suzuki India has quietly discontinued sales of lower variants of its premier crossover S-Cross featuring 1.6 litre diesel engine, due to low demand. 
+<TEXT type="str"> Maruti Suzuki India has quietly discontinued sales of lower variants of its premier crossover S-Cross featuring 1.6 litre diesel engine, due to low demand. 
  
 The company is now selling only the top-end Alpha variant of the vehicle featuring 1.6 litre diesel engine, priced at Rs 12.03 lakh (ex-showroom Delhi), from its premium retail channel Nexa. 
  
@@ -30,9 +30,8 @@ S-Cross helps Maruti Suzuki in expanding its range and presence with an eye on t
  
 Growth in the UV segment for MSI is over 120 per cent for the April-December period this fiscal. Volume wise the company has sold 1,43,254 units during the April-December period as compared to 63,924 units in the previous fiscal. 
  
-The company now commands over 65 per cent market share in the total UV segment.</content> 
-<sequenceId type="str">695197081939</sequenceId> 
-<topics type="list"> 
+The company now commands over 65 per cent market share in the total UV segment.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -45,7 +44,8 @@ The company now commands over 65 per cent market share in the total UV segment.<
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:45Z</estimatedPublishedDate> 
-<title type="str">Maruti discontinues sale of lower variants of S-Cross</title> 
+</TOPICS> 
+<DOCID type="str">695197081939</DOCID> 
+<DCT type="str">2017-01-29T07:21:45Z</DCT> 
+<TITLE type="str">Maruti discontinues sale of lower variants of S-Cross</TITLE> 
 </root>

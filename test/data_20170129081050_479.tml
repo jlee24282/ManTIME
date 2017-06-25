@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Northam Bowling Club will be celebrating the opening of a second new bowling green ...</content> 
-<sequenceId type="str">695203662847</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The Northam Bowling Club will be celebrating the opening of a second new bowling green ...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:23Z</estimatedPublishedDate> 
-<title type="str">Families split as Trump Muslim ban &apos;banishes normal, honest people&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695203662847</DOCID> 
+<DCT type="str">2017-01-29T08:23:23Z</DCT> 
+<TITLE type="str">Families split as Trump Muslim ban &apos;banishes normal, honest people&apos;</TITLE> 
 </root>

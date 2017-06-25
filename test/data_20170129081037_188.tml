@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695202972680</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -31,7 +30,8 @@
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:07Z</estimatedPublishedDate> 
-<title type="str">UPDATE 1-Muslim-majority Indonesia deeply regrets U.S. immigrant vetting...</title> 
+</TOPICS> 
+<DOCID type="str">695202972680</DOCID> 
+<DCT type="str">2017-01-29T08:18:07Z</DCT> 
+<TITLE type="str">UPDATE 1-Muslim-majority Indonesia deeply regrets U.S. immigrant vetting...</TITLE> 
 </root>

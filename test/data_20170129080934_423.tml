@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Tokyo branch of cafe-restaurant chain Pronto has begun holding morning comedy skits to lighten people&apos;s moods before they head to work. 
+<TEXT type="str">A Tokyo branch of cafe-restaurant chain Pronto has begun holding morning comedy skits to lighten people&apos;s moods before they head to work. 
  
 The skits at the eatery&apos;s Kanda store in Tokyo&apos;s Chiyoda Ward were planned to boost morning sales, which are already doing well. For about 25 minutes starting at 8 a.m. on Jan. 18, around 50 people watched three comedy skits performed by professional actors in a space on the shop&apos;s second floor. 
  
@@ -8,14 +8,14 @@ Sayaka Tomita, 31, from Nagareyama, Chiba Prefecture, said, &quot;The topics of 
  
 The morning skits come with a start-the-day set that includes coffee, toast and salad, a drink certificate usable at night when the cafe becomes a bar, and the morning edition of the Mainichi Shimbun newspaper, for 1,000 yen, tax included. Chikako Hirose, the head of the Pronto Corp.&apos;s PR department, says, &quot;We want people to charge their batteries and go to work feeling good.&quot; 
  
-The skits will be held on Tuesdays and Wednesdays through Feb. 14. For tickets and inquiries, the Kanda cafe can be reached at 03-3254-8202 (in Japanese language only).</content> 
-<sequenceId type="str">695201086330</sequenceId> 
-<topics type="list"> 
+The skits will be held on Tuesdays and Wednesdays through Feb. 14. For tickets and inquiries, the Kanda cafe can be reached at 03-3254-8202 (in Japanese language only).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:11Z</estimatedPublishedDate> 
-<title type="str">Cafe starts morning comedy skits for people going to work (2017/1/29)</title> 
+</TOPICS> 
+<DOCID type="str">695201086330</DOCID> 
+<DCT type="str">2017-01-29T08:04:11Z</DCT> 
+<TITLE type="str">Cafe starts morning comedy skits for people going to work (2017/1/29)</TITLE> 
 </root>

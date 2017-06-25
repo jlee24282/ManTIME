@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mikey Garcia became a three-division world champion with a vicious third-round knockout of previously undefeated defending WBC Lightweight World Champion Dejan Zlaticanin in the co-main event of SHOWTIME CHAMPIONSHIP BOXING. 
+<TEXT type="str">Mikey Garcia became a three-division world champion with a vicious third-round knockout of previously undefeated defending WBC Lightweight World Champion Dejan Zlaticanin in the co-main event of SHOWTIME CHAMPIONSHIP BOXING. 
   
 The rousing and definitive victory marked Garcia&apos;s return to boxing&apos;s elite.  The Oxnard, Calif., native was an undefeated two-division champion when he entered a two-and-a-half year layoff due to promotional issues.  He returned last July on SHOWTIME with an impressive performance and made a statement on Saturday by capturing a title in a third weight class in just his second fight in three years. 
   
@@ -24,9 +24,8 @@ Zlaticanin, who was the first champion in the history of Montenegro, was frustra
   
 &quot;I was just getting ready to pick it up a little bit and I got between the ropes and then he hit me with a good, hard punch,&quot; Zlaticanin said. 
   
-&quot;Mikey is a good fighter without a doubt.  I never was able to get into the fight.  I was pressuring and trying to break him down in the early rounds.&quot;</content> 
-<sequenceId type="str">695200089201</sequenceId> 
-<topics type="list"> 
+&quot;Mikey is a good fighter without a doubt.  I never was able to get into the fight.  I was pressuring and trying to break him down in the early rounds.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -35,7 +34,8 @@ Zlaticanin, who was the first champion in the history of Montenegro, was frustra
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:41Z</estimatedPublishedDate> 
-<title type="str">Mikey Garcia: I Want Unifications, Maybe Go To 140 By Year&apos;s End</title> 
+</TOPICS> 
+<DOCID type="str">695200089201</DOCID> 
+<DCT type="str">2017-01-29T07:49:41Z</DCT> 
+<TITLE type="str">Mikey Garcia: I Want Unifications, Maybe Go To 140 By Year&apos;s End</TITLE> 
 </root>

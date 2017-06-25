@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Rebecca Wright and Serenitie Wang CNN 
+<TEXT type="str">By Rebecca Wright and Serenitie Wang CNN 
 (CNN) -- A search operation in Malaysia is underway for a catamaran carrying 31 people, including 28 Chinese tourists, after it went missing on Saturday, Malaysian state news agency Bernama reports. 
  
 The Malaysian Maritime Enforcement Agency (MMEA) said the catamaran left the eastern Sabah state on Saturday and was headed to an island popular with tourists. A police report was lodged 13 hours later that said the vessel was missing. 
@@ -15,9 +15,8 @@ The MMEA led the search and rescue operation and was assisted by the Royal Malay
  
 CNN&apos;s Emiko Jozuka contributed to this write from Hong Kong 
  
-TM &amp; © 2017 Cable News Network, Inc., a Time Warner Company. All rights reserved.</content> 
-<sequenceId type="str">695201943983</sequenceId> 
-<topics type="list"> 
+TM &amp; © 2017 Cable News Network, Inc., a Time Warner Company. All rights reserved.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -34,7 +33,8 @@ TM &amp; © 2017 Cable News Network, Inc., a Time Warner Company. All rights res
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:00Z</estimatedPublishedDate> 
-<title type="str">Tourist boat carrying 31 people missing in Malaysia</title> 
+</TOPICS> 
+<DOCID type="str">695201943983</DOCID> 
+<DCT type="str">2017-01-29T08:04:00Z</DCT> 
+<TITLE type="str">Tourist boat carrying 31 people missing in Malaysia</TITLE> 
 </root>

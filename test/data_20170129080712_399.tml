@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Telenav, Inc. (NASDAQ:TNAV) is scheduled to be announcing its earnings results after the market closes  on Tuesday, January 31st. Analysts expect the company to announce earnings of ($0.10) per share for the quarter. 
+<TEXT type="str">Telenav, Inc. (NASDAQ:TNAV) is scheduled to be announcing its earnings results after the market closes  on Tuesday, January 31st. Analysts expect the company to announce earnings of ($0.10) per share for the quarter. 
  
 Telenav (NASDAQ:TNAV) last issued its quarterly earnings data on Tuesday, November 1st. The company reported ($0.22) earnings per share (EPS) for the quarter, missing the Thomson Reuters’ consensus estimate of ($0.17) by $0.05. Telenav had a negative return on equity of 22.85% and a negative net margin of 18.63%. The business had revenue of $42.23 million for the quarter, compared to analysts’ expectations of $42.05 million. During the same period in the previous year, the business posted ($0.27) earnings per share. The company’s revenue for the quarter was down 4.2% on a year-over-year basis.  On average, analysts expect Telenav to post $-0.78 EPS for the current fiscal year and $-0.48 EPS for the next fiscal year. 
  
@@ -18,9 +18,8 @@ ILLEGAL ACTIVITY WARNING: “[[title]]” was  reported by [[site]] and is owned
  
 Telenav Company Profile 
  
-TeleNav, Inc (Telenav) is a provider of location-based platform services. The Company’s services consist of its automotive and mobile navigation platform and its advertising delivery platform. The Company operates through three segments: automotive, advertising and mobile navigation. The automotive segment provides its map and navigation platform to auto manufacturers and original equipment manufacturers (OEMs) for distribution with their vehicles.</content> 
-<sequenceId type="str">695195464959</sequenceId> 
-<topics type="list"> 
+TeleNav, Inc (Telenav) is a provider of location-based platform services. The Company’s services consist of its automotive and mobile navigation platform and its advertising delivery platform. The Company operates through three segments: automotive, advertising and mobile navigation. The automotive segment provides its map and navigation platform to auto manufacturers and original equipment manufacturers (OEMs) for distribution with their vehicles.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Stockwatch</name> 
@@ -33,7 +32,8 @@ TeleNav, Inc (Telenav) is a provider of location-based platform services. The Co
 <group type="str">Finance</group> 
 <name type="str">Earnings news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:08Z</estimatedPublishedDate> 
-<title type="str">Telenav, Inc. (TNAV) Set to Announce Earnings on Tuesday</title> 
+</TOPICS> 
+<DOCID type="str">695195464959</DOCID> 
+<DCT type="str">2017-01-29T07:22:08Z</DCT> 
+<TITLE type="str">Telenav, Inc. (TNAV) Set to Announce Earnings on Tuesday</TITLE> 
 </root>

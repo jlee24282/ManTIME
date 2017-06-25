@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695199802974</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:07:01Z</estimatedPublishedDate> 
-<title type="str">Japan prepares for ritual for lucky year</title> 
+</TOPICS> 
+<DOCID type="str">695199802974</DOCID> 
+<DCT type="str">2017-01-29T00:07:01Z</DCT> 
+<TITLE type="str">Japan prepares for ritual for lucky year</TITLE> 
 </root>

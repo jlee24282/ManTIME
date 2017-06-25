@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">George Ezra stayed in a cabin without electricity to work on his new album.
+<TEXT type="str">George Ezra stayed in a cabin without electricity to work on his new album.
 
 The &apos;Budapest&apos; hitmaker famously went inter-railing around Europe to seek inspiration for his debut LP &apos;Wanted On Voyage&apos; and has been on a variety of other adventures in order to shape his next LP, even though his original ideas were quashed.
 
@@ -30,14 +30,14 @@ He told Q magazine: &apos;&apos;One of the main topics on the record is how to g
 
 2I know everyone has said it, but 2016 was a really weird year, so I&apos;ve written songs about turning off.
 
-&apos;&apos;I know as part of my job I have to go on to Twitter, it&apos;s a free way of connecting but... I know full well if it wasn&apos;t part of my job I wouldn&apos;t do it. It&apos;s suffocating.&apos;&apos;</content> 
-<sequenceId type="str">695200896555</sequenceId> 
-<topics type="list"> 
+&apos;&apos;I know as part of my job I have to go on to Twitter, it&apos;s a free way of connecting but... I know full well if it wasn&apos;t part of my job I wouldn&apos;t do it. It&apos;s suffocating.&apos;&apos;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:02Z</estimatedPublishedDate> 
-<title type="str">George Ezra wrote new album in cabin</title> 
+</TOPICS> 
+<DOCID type="str">695200896555</DOCID> 
+<DCT type="str">2017-01-29T07:56:02Z</DCT> 
+<TITLE type="str">George Ezra wrote new album in cabin</TITLE> 
 </root>

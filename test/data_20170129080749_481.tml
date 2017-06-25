@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It’s getting harder for landlords who rely on borrowed cash to find new loans to pay off the old ones, leading to forecasts for higher delinquencies. Lenders have gotten choosier about which buildings they’ll fund, concerned about overheated prices for hotels and shopping malls and record values for office buildings in cities such as New York. Rising interest rates and regulatory constraints for banks also are increasing the odds that borrowers will come up short when it’s time to refinance.
+<TEXT type="str">It’s getting harder for landlords who rely on borrowed cash to find new loans to pay off the old ones, leading to forecasts for higher delinquencies. Lenders have gotten choosier about which buildings they’ll fund, concerned about overheated prices for hotels and shopping malls and record values for office buildings in cities such as New York. Rising interest rates and regulatory constraints for banks also are increasing the odds that borrowers will come up short when it’s time to refinance.
 
 “There are a lot more problem loans out there than people think,” said Ray Potter, founder of R3 Funding, a New York firm that arranges financing for landlords and investors. “We’re not going to see a huge crash, but there will be more losses than people are expecting.”
 
@@ -34,9 +34,8 @@ RXR acquired its stake in the 39-story tower shortly after the building was sold
 
 Some borrowers chipped away at the maturity wall by retiring their mortgages early in order to take advantage of ultra-low interest rates. At the same time, landlords with the weakest properties have already defaulted, further reducing the pool of loans that need to be refinanced.
 
-The maturity volume has been reduced to about $90 billion from $250 billion in 2008, according to data from Morningstar.</content> 
-<sequenceId type="str">695196952913</sequenceId> 
-<topics type="list"> 
+The maturity volume has been reduced to about $90 billion from $250 billion in 2008, according to data from Morningstar.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Mortgage industry news</name> 
@@ -53,7 +52,8 @@ The maturity volume has been reduced to about $90 billion from $250 billion in 2
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T20:24:38Z</estimatedPublishedDate> 
-<title type="str">Another mortgage bubble to pop?</title> 
+</TOPICS> 
+<DOCID type="str">695196952913</DOCID> 
+<DCT type="str">2017-01-28T20:24:38Z</DCT> 
+<TITLE type="str">Another mortgage bubble to pop?</TITLE> 
 </root>

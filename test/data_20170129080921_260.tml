@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A photo depicting a clergyman dressed in a purple-and-white cassock with a rifle cradled in his arms has gone viral. 
+<TEXT type="str">A photo depicting a clergyman dressed in a purple-and-white cassock with a rifle cradled in his arms has gone viral. 
 
 The photo was apparently taken in a church. 
 
@@ -32,14 +32,14 @@ But another user of the social media platform, Halliday Charles, said, “God do
 
 In August last year, a Catholic seminarian, Lazarus Nwafor, was killed during the invasion of Attakwu community by armed herdsmen. 
 
-The seminarian was murdered during an early morning attack on the community, which is located in Nkanu West Local Government Area of Enugu State.</content> 
-<sequenceId type="str">695200433188</sequenceId> 
-<topics type="list"> 
+The seminarian was murdered during an early morning attack on the community, which is located in Nkanu West Local Government Area of Enugu State.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Picture of the day: Reverend father in church with rifle</title> 
+</TOPICS> 
+<DOCID type="str">695200433188</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Picture of the day: Reverend father in church with rifle</TITLE> 
 </root>

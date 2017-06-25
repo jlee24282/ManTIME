@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">OK, enough is enough. All you folks with Yule and Christmas wreathes on your door, take &apos;em off.
+<TEXT type="str">OK, enough is enough. All you folks with Yule and Christmas wreathes on your door, take &apos;em off.
 
 Don&apos;t you know it&apos;s bad luck?
 
@@ -66,9 +66,8 @@ Now, I bet you can&apos;t tell me what U.S. state with a two-word name also has 
 
 See you next week.
 
-ORESTE P. D&apos;ARCONTE is a former publisher of . Reach him at darconte@thesunchronicle.com.</content> 
-<sequenceId type="str">695200911057</sequenceId> 
-<topics type="list"> 
+ORESTE P. D&apos;ARCONTE is a former publisher of . Reach him at darconte@thesunchronicle.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -77,7 +76,8 @@ ORESTE P. D&apos;ARCONTE is a former publisher of . Reach him at darconte@thesun
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">D&apos;ARCONTE: Hey, dump the greens, please</title> 
+</TOPICS> 
+<DOCID type="str">695200911057</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">D&apos;ARCONTE: Hey, dump the greens, please</TITLE> 
 </root>

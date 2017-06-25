@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Students come to the program from around the world, including China, Albania, and Mexico.
+<TEXT type="str">Students come to the program from around the world, including China, Albania, and Mexico.
 
 For Marianne Cortes, a student from Mexico, Kokomo High School is a big change from her hometown school, where the teachers rotate to different classrooms and the students sit at the same desks all day. She had to wear a uniform in Mexico, and said it’s a little overwhelming to have to decide what to wear each day.
 
@@ -28,9 +28,8 @@ Anghinoni was surprised by the amount of food people eat over the holidays, espe
 
 The students said they are grateful for the experience to attend school in Kokomo.
 
-“It’s cool to come here and learn a lot,” Anghinoni said. “It’s a hard task to stay here one year, but I love it here.”</content> 
-<sequenceId type="str">695202197572</sequenceId> 
-<topics type="list"> 
+“It’s cool to come here and learn a lot,” Anghinoni said. “It’s a hard task to stay here one year, but I love it here.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Indianapolis news</name> 
@@ -47,7 +46,8 @@ The students said they are grateful for the experience to attend school in Kokom
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T21:22:58Z</estimatedPublishedDate> 
-<title type="str">International students adjust to life in US</title> 
+</TOPICS> 
+<DOCID type="str">695202197572</DOCID> 
+<DCT type="str">2017-01-28T21:22:58Z</DCT> 
+<TITLE type="str">International students adjust to life in US</TITLE> 
 </root>

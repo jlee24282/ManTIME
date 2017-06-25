@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Live updates and analysis on the Roger Federer vs. Rafael Nadal  Australian Open final.</content> 
-<sequenceId type="str">695196171363</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Live updates and analysis on the Roger Federer vs. Rafael Nadal  Australian Open final.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:10Z</estimatedPublishedDate> 
-<title type="str">Australian Open final live blog: No. 17 Roger Federer vs. No. 9 Rafael Nadal</title> 
+</TOPICS> 
+<DOCID type="str">695196171363</DOCID> 
+<DCT type="str">2017-01-29T07:23:10Z</DCT> 
+<TITLE type="str">Australian Open final live blog: No. 17 Roger Federer vs. No. 9 Rafael Nadal</TITLE> 
 </root>

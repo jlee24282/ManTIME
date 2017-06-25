@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">2017 will find our library system with an ever-increasing number of items in our collection that aren’t traditional paper books. 
+<TEXT type="str">2017 will find our library system with an ever-increasing number of items in our collection that aren’t traditional paper books. 
  
 The new generation of information includes things called eBooks, eMagazines, (actually anything that has an “e” in front of it) as well as many items that can be downloaded into a devicex of some sort. 
  
@@ -34,14 +34,14 @@ The old days of multiple carbon copy forms that would be mailed to the state lib
  
 Today’s public library system is the center of the information pipeline that has developed with technology, and we hope you will join us with a library card if you haven’t already. 
  
-(Hall is director of the Public Library of Steubenville and Jefferson County.)</content> 
-<sequenceId type="str">695196561343</sequenceId> 
-<topics type="list"> 
+(Hall is director of the Public Library of Steubenville and Jefferson County.)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:47Z</estimatedPublishedDate> 
-<title type="str">Library’s center of info pipeline</title> 
+</TOPICS> 
+<DOCID type="str">695196561343</DOCID> 
+<DCT type="str">2017-01-29T07:30:47Z</DCT> 
+<TITLE type="str">Library’s center of info pipeline</TITLE> 
 </root>

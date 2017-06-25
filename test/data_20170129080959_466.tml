@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Twenty years after voters in the Golden State legalized marijuana for medicinal purposes, they approved Proposition 64 on Nov. 8, opening the door for legal recreational use of the drug as well. 
+<TEXT type="str">Twenty years after voters in the Golden State legalized marijuana for medicinal purposes, they approved Proposition 64 on Nov. 8, opening the door for legal recreational use of the drug as well. 
    
 The basic idea behind voter approval of Prop. 64 was fairly simple: A majority of Californians believe adults should be able to consume marijuana without fear of persecution or prosecution, much like sipping a glass of wine after work or drinking a cocktail during happy hour. 
    
@@ -50,14 +50,14 @@ Cities and counties have the ability to put different rules in place. 
    
 April Charlton   covers Santa Barbara County for Lee Central Coast Newspapers. Follow her on Twitter @WordsDawn .  
  
- </content> 
-<sequenceId type="str">695202046889</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Details of Prop. 64 not as simple as passing a joint</title> 
+</TOPICS> 
+<DOCID type="str">695202046889</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Details of Prop. 64 not as simple as passing a joint</TITLE> 
 </root>

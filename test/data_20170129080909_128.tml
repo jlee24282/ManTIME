@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LOS ANGELES (KABC) -- 
+<TEXT type="str">LOS ANGELES (KABC) -- 
 Protests were held in Los Angeles and around the country over President Donald Trump&apos;s executive order banning travels from seven Muslim-majority countries. 
 While a judge ordered a halt to deportations of those who arrive at U.S. airports, confusion and chaos still reign over what exactly the order means for travelers. 
 
@@ -12,9 +12,8 @@ Hundreds gathered at the Tom Bradley International Terminal at LAX to show suppo
 Similar protests were held in New York and other areas of the country. 
 The Department of Homeland Security issued a statement saying that less than 1 percent of the 325,000 travelers who fly into the United States every day were &quot;inconvenienced&quot; by the enhanced security measures. 
  
-(Copyright ©2017 KABC-TV. All Rights Reserved.)</content> 
-<sequenceId type="str">695199777176</sequenceId> 
-<topics type="list"> 
+(Copyright ©2017 KABC-TV. All Rights Reserved.)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
@@ -35,7 +34,8 @@ The Department of Homeland Security issued a statement saying that less than 1 p
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:35Z</estimatedPublishedDate> 
-<title type="str">Protests held in LA, nationwide over Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695199777176</DOCID> 
+<DCT type="str">2017-01-29T07:51:35Z</DCT> 
+<TITLE type="str">Protests held in LA, nationwide over Trump travel ban</TITLE> 
 </root>

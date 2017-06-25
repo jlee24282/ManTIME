@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MEN&apos;S BASKETBALL 
+<TEXT type="str">MEN&apos;S BASKETBALL 
 
 UC Davis 74, UC Irvine 65 
  
@@ -62,9 +62,8 @@ Shereen Sutherland had 20 points, five rebounds and four steals to lead the host
 
 Mckenzie Piper added 13 points for UCI (3-18, 1-6 in conference). 
 
-UCSB is 10-10, 5-2.</content> 
-<sequenceId type="str">695193888731</sequenceId> 
-<topics type="list"> 
+UCSB is 10-10, 5-2.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -73,7 +72,8 @@ UCSB is 10-10, 5-2.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:44Z</estimatedPublishedDate> 
-<title type="str">College Roundup: UCI falls to UC Davis</title> 
+</TOPICS> 
+<DOCID type="str">695193888731</DOCID> 
+<DCT type="str">2017-01-29T07:11:44Z</DCT> 
+<TITLE type="str">College Roundup: UCI falls to UC Davis</TITLE> 
 </root>

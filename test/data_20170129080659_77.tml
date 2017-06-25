@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Saints Rams pitcher Kurt Schollum also starred with the bat in a win over Central. 
+<TEXT type="str">Saints Rams pitcher Kurt Schollum also starred with the bat in a win over Central. 
    
 Former Black Sox pitcher Kurt Schollum played a dual starring role in Saints Rams&apos; shutout win over Central to restart the Marlborough premier club softball competition. 
  
@@ -36,9 +36,8 @@ Schollum, who now plays in Christchurch for former national interclub champions 
  
 His first home run as a solo shot against Auckland club Roosters then he followed with a two-run blast against host club Auckland United before going one better with a three-run effort in the Eden-Roskill game. 
  
-Schollum won a player of the day prize at the tournament which is rated as one of New Zealand&apos;s best invitational events.</content> 
-<sequenceId type="str">695194689014</sequenceId> 
-<topics type="list"> 
+Schollum won a player of the day prize at the tournament which is rated as one of New Zealand&apos;s best invitational events.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -51,7 +50,8 @@ Schollum won a player of the day prize at the tournament which is rated as one o
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:48:03Z</estimatedPublishedDate> 
-<title type="str">Saints Rams resume softball competition with double-header success</title> 
+</TOPICS> 
+<DOCID type="str">695194689014</DOCID> 
+<DCT type="str">2017-01-29T06:48:03Z</DCT> 
+<TITLE type="str">Saints Rams resume softball competition with double-header success</TITLE> 
 </root>

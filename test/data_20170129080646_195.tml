@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Author: rosabellamurdoch81 
+<TEXT type="str">Author: rosabellamurdoch81 
 Tags: police  policeman  nursery rhymes  spiderman  songs  car  toddlers  cartoon  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695194378103</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: superhero news</name> 
@@ -17,7 +16,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:42Z</estimatedPublishedDate> 
-<title type="str">Policeman Spiderman Cartoon on Police Car with Nursery Rhymes Songs for Toddlers</title> 
+</TOPICS> 
+<DOCID type="str">695194378103</DOCID> 
+<DCT type="str">2017-01-29T07:13:42Z</DCT> 
+<TITLE type="str">Policeman Spiderman Cartoon on Police Car with Nursery Rhymes Songs for Toddlers</TITLE> 
 </root>

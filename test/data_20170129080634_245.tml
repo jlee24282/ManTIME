@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Attackers believed to be Boko Haram members have killed unknown number of people and injured several others in an ambush on motorists in Borno state on Saturday, January 28. 
+<TEXT type="str">Attackers believed to be Boko Haram members have killed unknown number of people and injured several others in an ambush on motorists in Borno state on Saturday, January 28. 
  
 Suspected Boko Haram fighters have reportedly attacked motorists on a popular Borno road. 
   
@@ -26,9 +26,8 @@ Meanwhile, statistics have shown that January 2017 has been full of deaths for N
  
 While it is true that people die daily, the deaths recorded below occurred on a scale that affected the country as a whole. 
    
-Think it is important? Share with your friends!</content> 
-<sequenceId type="str">695194059101</sequenceId> 
-<topics type="list"> 
+Think it is important? Share with your friends!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
@@ -37,7 +36,8 @@ Think it is important? Share with your friends!</content>
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:52Z</estimatedPublishedDate> 
-<title type="str">Boko Haram attacks Borno again, scores feared killed</title> 
+</TOPICS> 
+<DOCID type="str">695194059101</DOCID> 
+<DCT type="str">2017-01-29T07:12:52Z</DCT> 
+<TITLE type="str">Boko Haram attacks Borno again, scores feared killed</TITLE> 
 </root>

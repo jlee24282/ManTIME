@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donald Trump Washington, Jan 29  
+<TEXT type="str">Donald Trump Washington, Jan 29  
 Several Muslim majority nations where the Trump Organisation is active and which in some cases have faced troublesome issues with terrorism, do not figure in the list of the countries whose citizens were banned from entering the US. 
  
 Iran, Iraq, Syria, Somalia, Sudan, Libya and Yemen which are targeted by US President Donald Trump in his executive order on Friday, are the nations where he does not have any business interests, a report in the Washington Post said. 
@@ -33,9 +33,8 @@ Also untouched by Friday&apos;s Â­executive order is the UAE, a powerful Musli
  
 Trump has licensed his name to a Dubai golf resort as well as a luxury home Â­development and spa. 
  
-Its Â­developer, Hussain Sajwani, attended a New Year&apos;s eve party at Trump&apos;s Florida estate Mar-a-Lago, where a video showed the then President-elect singling him out for praise, calling him and his family &quot;the most beautiful people&quot;.</content> 
-<sequenceId type="str">695201377390</sequenceId> 
-<topics type="list"> 
+Its Â­developer, Hussain Sajwani, attended a New Year&apos;s eve party at Trump&apos;s Florida estate Mar-a-Lago, where a video showed the then President-elect singling him out for praise, calling him and his family &quot;the most beautiful people&quot;.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
@@ -48,7 +47,8 @@ Its Â­developer, Hussain Sajwani, attended a New Year&apos;s eve party at Trum
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:01Z</estimatedPublishedDate> 
-<title type="str">Trump ban excludes Muslim countries where he does business</title> 
+</TOPICS> 
+<DOCID type="str">695201377390</DOCID> 
+<DCT type="str">2017-01-29T08:03:01Z</DCT> 
+<TITLE type="str">Trump ban excludes Muslim countries where he does business</TITLE> 
 </root>

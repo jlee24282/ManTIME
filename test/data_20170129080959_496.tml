@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str"> </content> 
-<sequenceId type="str">695202073831</sequenceId> 
-<topics type="list"> 
+<TEXT type="str"> </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:06Z</estimatedPublishedDate> 
-<title type="str">UPDATE1: Soccer: Osako bags brace in Cologne s romp against Darmstadt</title> 
+</TOPICS> 
+<DOCID type="str">695202073831</DOCID> 
+<DCT type="str">2017-01-29T08:11:06Z</DCT> 
+<TITLE type="str">UPDATE1: Soccer: Osako bags brace in Cologne s romp against Darmstadt</TITLE> 
 </root>

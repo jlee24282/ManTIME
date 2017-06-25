@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">5:29 AM GMT   
+<TEXT type="str">5:29 AM GMT   
 Chelsea will begin their preparations for the 2018-19 Premier League campaign with a preseason match against A-League side Perth Glory. 
 
  
@@ -19,9 +19,8 @@ Glory CEO Peter Filopoulos said it was an enormous opportunity for Australian sp
 The tour will also allow for coaching and community appearances by Perth and Chelsea players. 
 
  
-Ticketing and match details on the Chelsea fixture are yet to be finalised.</content> 
-<sequenceId type="str">695202725878</sequenceId> 
-<topics type="list"> 
+Ticketing and match details on the Chelsea fixture are yet to be finalised.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Chelsea news</name> 
@@ -38,7 +37,8 @@ Ticketing and match details on the Chelsea fixture are yet to be finalised.</con
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:08Z</estimatedPublishedDate> 
-<title type="str">Chelsea heading to Australia in 2018</title> 
+</TOPICS> 
+<DOCID type="str">695202725878</DOCID> 
+<DCT type="str">2017-01-29T08:16:08Z</DCT> 
+<TITLE type="str">Chelsea heading to Australia in 2018</TITLE> 
 </root>

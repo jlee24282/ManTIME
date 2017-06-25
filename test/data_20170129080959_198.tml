@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Dow Jones Industrial Average of 30 major companies broke through the 20,000 barrier for the first time this week 
+<TEXT type="str">The Dow Jones Industrial Average of 30 major companies broke through the 20,000 barrier for the first time this week 
 
 The stock market in the US is cock-a-hoop about President Donald Trump’s pro-growth policies. 
  
@@ -64,9 +64,8 @@ For investors to automatically assume Trump’s elevation is going to benefit th
  
 If companies make more money it is worth questioning why that is happening and if wider society will benefit?   
  
-Comment via twitter: @davidmurphyRTE</content> 
-<sequenceId type="str">695201797516</sequenceId> 
-<topics type="list"> 
+Comment via twitter: @davidmurphyRTE</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
@@ -75,7 +74,8 @@ Comment via twitter: @davidmurphyRTE</content>
 <group type="str">Business</group> 
 <name type="str">Regulatory news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:17Z</estimatedPublishedDate> 
-<title type="str">David Murphy: Market loves Trump. Is it good news?</title> 
+</TOPICS> 
+<DOCID type="str">695201797516</DOCID> 
+<DCT type="str">2017-01-29T08:06:17Z</DCT> 
+<TITLE type="str">David Murphy: Market loves Trump. Is it good news?</TITLE> 
 </root>

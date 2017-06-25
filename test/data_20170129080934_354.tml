@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Create unlimited playlists 
+<TEXT type="str">Create unlimited playlists 
 
-Play millions of songs on demand</content> 
-<sequenceId type="str">695201040922</sequenceId> 
-<topics type="list"> 
+Play millions of songs on demand</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:47Z</estimatedPublishedDate> 
-<title type="str">Saturday&apos;s Top Plays</title> 
+</TOPICS> 
+<DOCID type="str">695201040922</DOCID> 
+<DCT type="str">2017-01-29T08:03:47Z</DCT> 
+<TITLE type="str">Saturday&apos;s Top Plays</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Area natives make dean’s list 
+<TEXT type="str">Area natives make dean’s list 
  
 Several local natives made the fall 2016 dean’s list at universities across the nation. 
  
@@ -17,9 +17,8 @@ Hockaday earns degree from Black Hills State University
  
 Jennifer Hockaday of Minden earned a Bachelor of General Studies from Black Hills State University in Spearfish, S.D. 
  
-Hockaday was one of more than 200 Black Hills State University graduates who were awarded master, bachelor, associate degrees and certificates during the University’s 172nd commencement ceremony in December.</content> 
-<sequenceId type="str">695201300011</sequenceId> 
-<topics type="list"> 
+Hockaday was one of more than 200 Black Hills State University graduates who were awarded master, bachelor, associate degrees and certificates during the University’s 172nd commencement ceremony in December.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -28,7 +27,8 @@ Hockaday was one of more than 200 Black Hills State University graduates who wer
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:00Z</estimatedPublishedDate> 
-<title type="str">Education achievements: Area natives make dean’s list</title> 
+</TOPICS> 
+<DOCID type="str">695201300011</DOCID> 
+<DCT type="str">2017-01-29T07:27:00Z</DCT> 
+<TITLE type="str">Education achievements: Area natives make dean’s list</TITLE> 
 </root>

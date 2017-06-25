@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Okato Four Square was burgled and cigarettes were taken. 
+<TEXT type="str">Okato Four Square was burgled and cigarettes were taken. 
    
 A Taranaki Four Square was burgled in the early hours of Sunday morning. 
  
@@ -18,14 +18,14 @@ She said anyone who witnessed anything suspicious at the Okato Four Square was a
  
 Alternatively, information may be provided to Crimestoppers on 0800 555 111. 
  
- </content> 
-<sequenceId type="str">695196212665</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:44Z</estimatedPublishedDate> 
-<title type="str">Four Square burgled</title> 
+</TOPICS> 
+<DOCID type="str">695196212665</DOCID> 
+<DCT type="str">2017-01-29T07:27:44Z</DCT> 
+<TITLE type="str">Four Square burgled</TITLE> 
 </root>

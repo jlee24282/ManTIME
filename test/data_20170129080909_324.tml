@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CIERA PASTUREL / AGGIE  
+<TEXT type="str">CIERA PASTUREL / AGGIE  
 Aggies dominate Highlanders; helped by 22 points from Pele Gianotti 
  
 The UC Davis women’s basketball team came into Thursday night’s game having won four of its last six games. However, with the team’s most recent game a loss to Long Beach State, the Aggies had to get back on the right track with UC Riverside coming into town, and they prepared as such. The result of their hard work was a 72-55 victory. 
@@ -24,9 +24,8 @@ That third quarter proved to make a significant difference for the Aggies, who o
 “[Coach] Jen warned us in the beginning: ‘We have to jump on them right from the start.’” Gianotti said. “The whole team was in attack mode mentality, and we were super confident coming from the first half making shots. So we were like, ‘Just keep pushing, just get shots and we’ll be fine.’” 
  
 The Aggies victory against UC Riverside proved to be a foundation for future success, as they picked up another win against Cal State Fullerton on Saturday on Jan. 26 at the ARC Pavilion with a final score of 59-39. 
- Written by: Bradley Geiser — sports@theaggie.org</content> 
-<sequenceId type="str">695200014546</sequenceId> 
-<topics type="list"> 
+ Written by: Bradley Geiser — sports@theaggie.org</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -35,7 +34,8 @@ The Aggies victory against UC Riverside proved to be a foundation for future suc
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:46Z</estimatedPublishedDate> 
-<title type="str">UC Davis women’s basketball team rides monstrous third quarter to victory over UC</title> 
+</TOPICS> 
+<DOCID type="str">695200014546</DOCID> 
+<DCT type="str">2017-01-29T06:30:46Z</DCT> 
+<TITLE type="str">UC Davis women’s basketball team rides monstrous third quarter to victory over UC</TITLE> 
 </root>

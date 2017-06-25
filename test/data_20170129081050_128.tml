@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new basic research project reveals the full extent to which the US government and military tried to gain territorial control of Greenland after the Second World War. Their research shows that Denmark often wielded more influence than is commonly thought. (Photo: United States Air Force / USGOV-PD / Wikipedia )   
+<TEXT type="str">A new basic research project reveals the full extent to which the US government and military tried to gain territorial control of Greenland after the Second World War. Their research shows that Denmark often wielded more influence than is commonly thought. (Photo: United States Air Force / USGOV-PD / Wikipedia )   
 BASIC RESEARCH 
  
 As tensions grew between the USA and the Soviet Union after the Second World War, a newly liberated Denmark would find itself caught between the Cold War ambitions of two super powers. 
@@ -211,9 +211,8 @@ Organisations like the University of Greenland and The Greenland Survey ASIAQ in
  
 [embedded content] 
  
-See how events in the Arctic unfolded as the US became increasingly interested in Greenland as a place for military activities and scientific research. (Video: Kristian Højgaard Nielsen / ScienceNordic.com)</content> 
-<sequenceId type="str">695203343146</sequenceId> 
-<topics type="list"> 
+See how events in the Arctic unfolded as the US became increasingly interested in Greenland as a place for military activities and scientific research. (Video: Kristian Højgaard Nielsen / ScienceNordic.com)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -242,7 +241,8 @@ See how events in the Arctic unfolded as the US became increasingly interested i
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:25:00Z</estimatedPublishedDate> 
-<title type="str">Denmark’s Cold War struggle for scientific control of Greenland</title> 
+</TOPICS> 
+<DOCID type="str">695203343146</DOCID> 
+<DCT type="str">2017-01-29T05:25:00Z</DCT> 
+<TITLE type="str">Denmark’s Cold War struggle for scientific control of Greenland</TITLE> 
 </root>

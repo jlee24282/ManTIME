@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The US technology industry, a major employer of foreign workers, hit back on Saturday at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American. Trump&apos;s order temporarily bars citizens of seven majority-Muslim countries from entering the United States even if they hold valid visas or permanent residence permits, a move that caught many companies off-guard.
+<TEXT type="str">The US technology industry, a major employer of foreign workers, hit back on Saturday at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American. Trump&apos;s order temporarily bars citizens of seven majority-Muslim countries from entering the United States even if they hold valid visas or permanent residence permits, a move that caught many companies off-guard.
 
 Netflix Inc Chief Executive Reed Hastings called it &quot;a sad week&quot; and added: &quot;It is time to link arms together to protect American values of freedom and opportunity.&quot;
 
@@ -38,9 +38,8 @@ Uber Technologies Inc CEO Travis Kalanick, who has faced criticism from some emp
 
 &quot;This ban will impact many innocent people - an issue that I will raise this coming Friday when I go to Washington for President Trump’s first business advisory group meeting,&quot; Kalanick said.
 
-Facebook Inc CEO Mark Zuckerberg said in a post on Friday that was &quot;concerned&quot; about the order and voiced support for immigrants.</content> 
-<sequenceId type="str">695194360944</sequenceId> 
-<topics type="list"> 
+Facebook Inc CEO Mark Zuckerberg said in a post on Friday that was &quot;concerned&quot; about the order and voiced support for immigrants.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -49,7 +48,8 @@ Facebook Inc CEO Mark Zuckerberg said in a post on Friday that was &quot;concern
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:46Z</estimatedPublishedDate> 
-<title type="str">Tech leaders bash Trump ban</title> 
+</TOPICS> 
+<DOCID type="str">695194360944</DOCID> 
+<DCT type="str">2017-01-29T07:14:46Z</DCT> 
+<TITLE type="str">Tech leaders bash Trump ban</TITLE> 
 </root>

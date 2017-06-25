@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump spoke with his Russian counterpart Vladimir Putin on Saturday for the firs</content> 
-<sequenceId type="str">695199982117</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">US President Donald Trump spoke with his Russian counterpart Vladimir Putin on Saturday for the firs</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:54Z</estimatedPublishedDate> 
-<title type="str">Trump holds first phone call with Putin</title> 
+</TOPICS> 
+<DOCID type="str">695199982117</DOCID> 
+<DCT type="str">2017-01-29T07:55:54Z</DCT> 
+<TITLE type="str">Trump holds first phone call with Putin</TITLE> 
 </root>

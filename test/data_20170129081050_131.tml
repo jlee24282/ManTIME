@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rogue One star Ben Mendelsohn, Moulin Rouge designer Catherine Martin and TV executive David Hill honoured. 
+<TEXT type="str">Rogue One star Ben Mendelsohn, Moulin Rouge designer Catherine Martin and TV executive David Hill honoured. 
 
 Following a critically-acclaimed performance in the Netflix television series Bloodline and a starring role in the smash hit Star Wars film Rogue One, Australian actor Ben Mendelsohn is Hollywood&apos;s man of the moment.
 
@@ -58,9 +58,8 @@ Australia also has an existing free-trade agreement with the US, the Australia-U
 
 The G&apos;Day USA event is managed by the Department of Foreign Affairs and Trade with Austrade and Tourism Australia.
 
-It is sponsored by organisations including Australia Unlimited, Qantas, the United States Studies Centre at The University of Sydney and the American Australian Association. The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695203351226</sequenceId> 
-<topics type="list"> 
+It is sponsored by organisations including Australia Unlimited, Qantas, the United States Studies Centre at The University of Sydney and the American Australian Association. The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -73,7 +72,8 @@ It is sponsored by organisations including Australia Unlimited, Qantas, the Unit
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:50:36Z</estimatedPublishedDate> 
-<title type="str">G&apos;Day USA 2017 honours Hollywood&apos;s man of the moment, Ben Mendelsohn</title> 
+</TOPICS> 
+<DOCID type="str">695203351226</DOCID> 
+<DCT type="str">2017-01-29T06:50:36Z</DCT> 
+<TITLE type="str">G&apos;Day USA 2017 honours Hollywood&apos;s man of the moment, Ben Mendelsohn</TITLE> 
 </root>

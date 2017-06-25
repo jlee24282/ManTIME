@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">1  2  3  4  5  6  7  8  9  10  More 
+<TEXT type="str">1  2  3  4  5  6  7  8  9  10  More 
  
 1  2  3  4  5  6  7  8  9  10  More 
           
@@ -39,14 +39,14 @@ Saturday, 6:15 a.m.
 Saturday, 7:30 p.m. 
    
 Sunday, 10 a.m. - 2 p.m. 
-     1  2  3  4  5  5</content> 
-<sequenceId type="str">695193868366</sequenceId> 
-<topics type="list"> 
+     1  2  3  4  5  5</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:42:00Z</estimatedPublishedDate> 
-<title type="str">Editorial Cartoon Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695193868366</DOCID> 
+<DCT type="str">2017-01-29T02:42:00Z</DCT> 
+<TITLE type="str">Editorial Cartoon Jan. 29, 2017</TITLE> 
 </root>

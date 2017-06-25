@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">News.com.au&apos;s Andrew Bucklow challenged stars including John Travolta and Jai Courtney to a game of trivia on the red carpet at the G&apos;Day USA Black Tie Gala in LA</content> 
-<sequenceId type="str">695198578672</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">News.com.au&apos;s Andrew Bucklow challenged stars including John Travolta and Jai Courtney to a game of trivia on the red carpet at the G&apos;Day USA Black Tie Gala in LA</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Kraft Foods news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:58Z</estimatedPublishedDate> 
-<title type="str">Aussie stars punished with Vegemite at G’Day USA</title> 
+</TOPICS> 
+<DOCID type="str">695198578672</DOCID> 
+<DCT type="str">2017-01-29T07:44:58Z</DCT> 
+<TITLE type="str">Aussie stars punished with Vegemite at G’Day USA</TITLE> 
 </root>

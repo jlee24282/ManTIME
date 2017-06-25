@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Hongkongers are being warned they could face rain tonight as they watch almost 24,000 firework shells explode over Victoria Harbour on Sunday to mark the Year of the Rooster. 
+<TEXT type="str">Hongkongers are being warned they could face rain tonight as they watch almost 24,000 firework shells explode over Victoria Harbour on Sunday to mark the Year of the Rooster. 
  
 Crowds are expected to gather in Tsim Sha Tsui, Mid-levels, Central, Wan Chai, Causeway Bay and Hung Hom bypass to watch the annual Lunar New Year display, which will this year consist of eight scenes, lasting 23 minutes in total. 
  
@@ -30,9 +30,8 @@ The festive auspicious sign of the figure “8” – which in Chinese rhymes wi
  
 Other major fireworks displays in Hong Kong take place on July 1 – this year to celebrate the 20th anniversary of the city’s handover from UK to Chinese authorities – and October 1 for National Day. Another event is held on December 31. 
  
-The Lunar New Year show comes a day after the city’s annual parade through Tsim Sha Tsui. Thousands of people lined the streets on Saturday night to watch nearly 3,000 performers from some 25 international and local performing groups.</content> 
-<sequenceId type="str">695194047587</sequenceId> 
-<topics type="list"> 
+The Lunar New Year show comes a day after the city’s annual parade through Tsim Sha Tsui. Thousands of people lined the streets on Saturday night to watch nearly 3,000 performers from some 25 international and local performing groups.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -49,7 +48,8 @@ The Lunar New Year show comes a day after the city’s annual parade through Tsi
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:05:36Z</estimatedPublishedDate> 
-<title type="str">Hongkongers could face damp night as rain forecast for Year of Rooster fireworks show</title> 
+</TOPICS> 
+<DOCID type="str">695194047587</DOCID> 
+<DCT type="str">2017-01-29T07:05:36Z</DCT> 
+<TITLE type="str">Hongkongers could face damp night as rain forecast for Year of Rooster fireworks show</TITLE> 
 </root>

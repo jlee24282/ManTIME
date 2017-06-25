@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">To the editor, 
+<TEXT type="str">To the editor, 
  
 President Donald Trump is carrying through on his campaign promise to build a wall along the U.S.-Mexico border. I lived in El Paso, Texas, for many years and would like to offer my perspective. 
  
@@ -14,9 +14,8 @@ I think that most border cities would welcome increased security, but I am not s
  
 Ann Blumensaadt 
  
-Greenwich</content> 
-<sequenceId type="str">695195454109</sequenceId> 
-<topics type="list"> 
+Greenwich</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ Greenwich</content>
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Letter: A different view of Mexico from El Paso</title> 
+</TOPICS> 
+<DOCID type="str">695195454109</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Letter: A different view of Mexico from El Paso</TITLE> 
 </root>

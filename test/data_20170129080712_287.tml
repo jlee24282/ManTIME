@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Chevron Corp. posted its first annual loss since at least 1980 as the world&apos;s biggest oil companies struggle to emerge from the worst collapse in a generation. Investors punished the stock, wiping out about $5 billion in market value. 
+<TEXT type="str">Chevron Corp. posted its first annual loss since at least 1980 as the world&apos;s biggest oil companies struggle to emerge from the worst collapse in a generation. Investors punished the stock, wiping out about $5 billion in market value. 
  
 The company had a $497 million loss last year and failed to replace all of the crude and natural gas it pumped with new reserves, the San Ramon company said Friday. 
  
@@ -12,9 +12,8 @@ Chevron announced plans last month to curtail spending on drilling and other pro
  
 Despite the belt-tightening, Chevron is on pace to spend about $2 billion on shareholder dividends each quarter. That equates to about $1 million an hour. Exxon Mobil is set to disburse about $3.1 billion per quarter in payouts. 
  
-Joe Carroll is a Bloomberg writer. Email: jcarroll8@bloomberg.net</content> 
-<sequenceId type="str">695195373703</sequenceId> 
-<topics type="list"> 
+Joe Carroll is a Bloomberg writer. Email: jcarroll8@bloomberg.net</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -27,7 +26,8 @@ Joe Carroll is a Bloomberg writer. Email: jcarroll8@bloomberg.net</content>
 <group type="str">Companies</group> 
 <name type="str">Chevron news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:48Z</estimatedPublishedDate> 
-<title type="str">Chevron posts a loss for year</title> 
+</TOPICS> 
+<DOCID type="str">695195373703</DOCID> 
+<DCT type="str">2017-01-29T05:00:48Z</DCT> 
+<TITLE type="str">Chevron posts a loss for year</TITLE> 
 </root>

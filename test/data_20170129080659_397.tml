@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Doha: Qatar Airways, which flies to around 15 American cities, is advising passengers bound for the United States from seven newly banned Muslim countries that they need to have either a US green card or diplomatic visa to travel.
+<TEXT type="str">Doha: Qatar Airways, which flies to around 15 American cities, is advising passengers bound for the United States from seven newly banned Muslim countries that they need to have either a US green card or diplomatic visa to travel.
 
 A statement on Qatar Airways’s website said:
 
@@ -18,9 +18,8 @@ email.
 
 Meanwhile, Cairo airport officials said seven US-bound migrants — six from Iraq and one from Yemen — have been prevented from boarding an EgyptAir flight to New York’s JFK airport.
 
-The officials said the action Saturday by the airport was the first since Pr…</content> 
-<sequenceId type="str">695194891283</sequenceId> 
-<topics type="list"> 
+The officials said the action Saturday by the airport was the first since Pr…</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -37,7 +36,8 @@ The officials said the action Saturday by the airport was the first since Pr…<
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:00Z</estimatedPublishedDate> 
-<title type="str">Qatar Airways issues US travel alert for citizens of banned countries</title> 
+</TOPICS> 
+<DOCID type="str">695194891283</DOCID> 
+<DCT type="str">2017-01-29T07:19:00Z</DCT> 
+<TITLE type="str">Qatar Airways issues US travel alert for citizens of banned countries</TITLE> 
 </root>

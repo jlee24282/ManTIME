@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Set against a quintessentially Parisian backdrop, these photos of a beautifully specified black Ferrari Testarossa facing off against a new 488 Spider remind us why classic cars will always prevail over modern machines in terms of charm and romance… 
+<TEXT type="str">Set against a quintessentially Parisian backdrop, these photos of a beautifully specified black Ferrari Testarossa facing off against a new 488 Spider remind us why classic cars will always prevail over modern machines in terms of charm and romance… 
  Paint It Black  
 
  
@@ -8,9 +8,8 @@
  
 This fabulous example of the collector favourite ‘Monospecchio’ Testarossa, so named after its distinctive ‘flying mirror’, is finished in menacing jet-black, complementing the wide and brooding lacerated rear arches. On the contrary, its elegant burgundy leather interior is a gentle reminder that the 1980s weren’t all about excess. From the contemporary Parisian classic car dealership L’Art de L&apos;Automobile , these photos stand as evidence that this black beauty will almost certainly outshine any modern Ferrari out in the wild.  
  
-Photos: L&apos;Art De L&apos;Automobile / Kevin Van C</content> 
-<sequenceId type="str">695197774646</sequenceId> 
-<topics type="list"> 
+Photos: L&apos;Art De L&apos;Automobile / Kevin Van C</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Fiat Chrysler Automobiles news</name> 
@@ -23,7 +22,8 @@ Photos: L&apos;Art De L&apos;Automobile / Kevin Van C</content>
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: motoring news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:24Z</estimatedPublishedDate> 
-<title type="str">This Ferrari Testarossa is certainly no redhead</title> 
+</TOPICS> 
+<DOCID type="str">695197774646</DOCID> 
+<DCT type="str">2017-01-29T07:39:24Z</DCT> 
+<TITLE type="str">This Ferrari Testarossa is certainly no redhead</TITLE> 
 </root>

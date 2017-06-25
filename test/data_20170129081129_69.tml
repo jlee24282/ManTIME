@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Singapore Airlines flight has finally departed from Auckland Airport following a lengthy delay due to a potential fault with the aircraft.
+<TEXT type="str">A Singapore Airlines flight has finally departed from Auckland Airport following a lengthy delay due to a potential fault with the aircraft.
 
 The plane sat on the tarmac for more than seven hours before taking off around 9pm, meaning many of the 300 people onboard will miss their connecting flights in Singapore.
 
@@ -40,9 +40,8 @@ There were about 430 passengers on the Emirates flight, which arrived in Aucklan
 
 Meanwhile, Emirates flight 345 to Brisbane and Dubai was also delayed on the tarmac at Auckland Airport.
 
-It was supposed to depart at 6.10pm, but it&apos;s understood a passenger on board fell ill, and the flight eventually left at 7.55pm.</content> 
-<sequenceId type="str">695204687509</sequenceId> 
-<topics type="list"> 
+It was supposed to depart at 6.10pm, but it&apos;s understood a passenger on board fell ill, and the flight eventually left at 7.55pm.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -55,7 +54,8 @@ It was supposed to depart at 6.10pm, but it&apos;s understood a passenger on boa
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:14Z</estimatedPublishedDate> 
-<title type="str">Departed after delay</title> 
+</TOPICS> 
+<DOCID type="str">695204687509</DOCID> 
+<DCT type="str">2017-01-29T08:31:14Z</DCT> 
+<TITLE type="str">Departed after delay</TITLE> 
 </root>

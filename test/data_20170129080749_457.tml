@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK // A federal judge on Saturday blocked part of President Donald Trump’s temporary immigration ban, ordering authorities to stop deporting refugees and other travellers stuck at US airports. 
+<TEXT type="str">NEW YORK // A federal judge on Saturday blocked part of President Donald Trump’s temporary immigration ban, ordering authorities to stop deporting refugees and other travellers stuck at US airports. 
 
 &quot;Victory!!!!!!&quot; the American Civil Liberties Union (ACLU) , whose lawyers sued the government, tweeted after US district judge Ann Donnelly issued her decision. 
 
@@ -30,9 +30,8 @@ But the battle is far from over, and another hearing was set for next month.
 
 &quot;At minimum, they will not be returned to danger,&quot; said ACLU lawyer Lee Gelernt. 
 
-&quot;The key tonight was making sure nobody was put back on a plane.&quot;</content> 
-<sequenceId type="str">695196935832</sequenceId> 
-<topics type="list"> 
+&quot;The key tonight was making sure nobody was put back on a plane.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -49,7 +48,8 @@ But the battle is far from over, and another hearing was set for next month.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:31Z</estimatedPublishedDate> 
-<title type="str">Judge blocks part of Trump’s immigration ban for those in US</title> 
+</TOPICS> 
+<DOCID type="str">695196935832</DOCID> 
+<DCT type="str">2017-01-29T07:33:31Z</DCT> 
+<TITLE type="str">Judge blocks part of Trump’s immigration ban for those in US</TITLE> 
 </root>

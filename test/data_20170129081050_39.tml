@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">GREAT NEWS: Somerset Chamber Chairman Greg Saunders and Chief Executive Dale Edwards with the British Chambers of Commerce accreditation certificate THE Somerset Chamber of Commerce has had its accreditation to the British Chambers of Commerce (BCC) confirmed for a further two years. 
+<TEXT type="str">GREAT NEWS: Somerset Chamber Chairman Greg Saunders and Chief Executive Dale Edwards with the British Chambers of Commerce accreditation certificate THE Somerset Chamber of Commerce has had its accreditation to the British Chambers of Commerce (BCC) confirmed for a further two years. 
 
 The BCC assessment, which is the Chamber equivalent of an Ofsted inspection, examines the quality and performance of all areas of the business, from member services to governance, operational performance, finance and risk management. 
 
@@ -16,9 +16,8 @@ Dr Adam Marshall, director general of BCC, said: “The strength of the accredit
 
 Being part of the BCC Accredited Network amplifies the voice of Somerset Chamber, enabling the views of Somerset businesses to be heard at a national level. 
 
-It also opens up new business opportunities in local, national and international markets and enables Somerset Chamber to provide a high level of business advice, services and financial benefits to its members.</content> 
-<sequenceId type="str">695203253450</sequenceId> 
-<topics type="list"> 
+It also opens up new business opportunities in local, national and international markets and enables Somerset Chamber to provide a high level of business advice, services and financial benefits to its members.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
@@ -31,7 +30,8 @@ It also opens up new business opportunities in local, national and international
 <group type="str">Business</group> 
 <name type="str">UK business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Somerset Chamber re-accredited to the British Chambers of Commerce</title> 
+</TOPICS> 
+<DOCID type="str">695203253450</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Somerset Chamber re-accredited to the British Chambers of Commerce</TITLE> 
 </root>

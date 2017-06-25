@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By PORTSMOUTH — Stratacuity holds a special niche not only in Patrick Marshall’s professional life, but in his personal life as well. 
+<TEXT type="str">By PORTSMOUTH — Stratacuity holds a special niche not only in Patrick Marshall’s professional life, but in his personal life as well. 
  
 Marshall is chief business officer of Stratacuity at 1 Cate St., a staff and recruiting business that specializes in biopharmaceutical companies. 
  
@@ -64,9 +64,8 @@ The professional outreach Stratacuity does within the industry has also made a d
  
 Marshall said at least three companies have started CF research at his suggestion. 
  
-“It was really rewarding to help influence them,” he said.</content> 
-<sequenceId type="str">695196957629</sequenceId> 
-<topics type="list"> 
+“It was really rewarding to help influence them,” he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Biotech news</name> 
@@ -75,7 +74,8 @@ Marshall said at least three companies have started CF research at his suggestio
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:42Z</estimatedPublishedDate> 
-<title type="str">Stratacuity strives to advance biomedical research, medicine</title> 
+</TOPICS> 
+<DOCID type="str">695196957629</DOCID> 
+<DCT type="str">2017-01-29T07:33:42Z</DCT> 
+<TITLE type="str">Stratacuity strives to advance biomedical research, medicine</TITLE> 
 </root>

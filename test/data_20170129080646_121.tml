@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK — The tech industry brought us self-driving cars, artificial intelligence and 3-D printers. But when it comes to racial and gender diversity, its leading companies are no trailblazers. 
+<TEXT type="str">NEW YORK — The tech industry brought us self-driving cars, artificial intelligence and 3-D printers. But when it comes to racial and gender diversity, its leading companies are no trailblazers. 
  
 Despite loudly touted efforts to hire more blacks, Latinos and women, especially in technical and leadership positions, diversity numbers at the largest tech companies are barely budging. 
  
@@ -48,9 +48,8 @@ The few minorities hired into big tech companies can often feel alienated in ove
  When the culture doesn’t fit  
 Silicon Valley startups like to talk about “culture fit” — in theory, the question of whether a job candidate’s attitude and behavior meshes well with a company. In practice, though, it can mean that since a lot of people are white and male, they “hire what they know,” says Dave McClure, a prominent angel investor in Silicon Valley. 
  
-Larger companies such as Facebook publicly eschew discussions of “fit,” although the notion can unwittingly seep into hiring practices. For example, a 2013 study found that words used in engineering and programming job listings could serve to discourage women from applying. Words like “competitive,” ‘‘dominant” and “leader,” can make a job seem less appealing to women in a field that is already male-dominated.</content> 
-<sequenceId type="str">695194344405</sequenceId> 
-<topics type="list"> 
+Larger companies such as Facebook publicly eschew discussions of “fit,” although the notion can unwittingly seep into hiring practices. For example, a 2013 study found that words used in engineering and programming job listings could serve to discourage women from applying. Words like “competitive,” ‘‘dominant” and “leader,” can make a job seem less appealing to women in a field that is already male-dominated.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -59,7 +58,8 @@ Larger companies such as Facebook publicly eschew discussions of “fit,” alth
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:40Z</estimatedPublishedDate> 
-<title type="str">Little progress in tech diversity</title> 
+</TOPICS> 
+<DOCID type="str">695194344405</DOCID> 
+<DCT type="str">2017-01-29T07:14:40Z</DCT> 
+<TITLE type="str">Little progress in tech diversity</TITLE> 
 </root>

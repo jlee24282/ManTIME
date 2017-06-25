@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,14 +8,14 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695202587976</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:51Z</estimatedPublishedDate> 
-<title type="str">10 insanely stunning Miss Universe costumes that we can’t stop looking at</title> 
+</TOPICS> 
+<DOCID type="str">695202587976</DOCID> 
+<DCT type="str">2017-01-29T08:14:51Z</DCT> 
+<TITLE type="str">10 insanely stunning Miss Universe costumes that we can’t stop looking at</TITLE> 
 </root>

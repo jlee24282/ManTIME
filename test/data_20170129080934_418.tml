@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">London : Arsenal manager Arsene Wenger praised the mental strength and resilience of Danny Welbeck after the England forward scored twice on his first start since suffering a serious knee injury in May during a 5-0 FA Cup thrashing of Southampton. 
+<TEXT type="str">London : Arsenal manager Arsene Wenger praised the mental strength and resilience of Danny Welbeck after the England forward scored twice on his first start since suffering a serious knee injury in May during a 5-0 FA Cup thrashing of Southampton. 
  
 Welbeck followed his first-half double at St Mary&apos;s on Saturday with an assist for former Saints star Theo Walcott, who completed his hat-trick in the second half of a comfortable fourth-round win for the Gunners over their Premier League rivals. 
  
@@ -38,9 +38,8 @@ But with his side reaching a Wembley final by beating Liverpool in the last four
  
 &quot;Before the game we had nine players not available and to play always the same players is not possible. 
  
-&quot;Of course I&apos;m disappointed for the young players, but it&apos;s a good lesson for the future.&quot;</content> 
-<sequenceId type="str">695201082253</sequenceId> 
-<topics type="list"> 
+&quot;Of course I&apos;m disappointed for the young players, but it&apos;s a good lesson for the future.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -61,7 +60,8 @@ But with his side reaching a Wembley final by beating Liverpool in the last four
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:07Z</estimatedPublishedDate> 
-<title type="str">FA Cup: Arsene Wenger &apos;delighted&apos; with Danny Welbeck after 5-0 thumping of Southampton</title> 
+</TOPICS> 
+<DOCID type="str">695201082253</DOCID> 
+<DCT type="str">2017-01-29T08:04:07Z</DCT> 
+<TITLE type="str">FA Cup: Arsene Wenger &apos;delighted&apos; with Danny Welbeck after 5-0 thumping of Southampton</TITLE> 
 </root>

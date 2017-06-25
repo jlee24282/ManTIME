@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Iran has announced that it will ban all United States citizens from entering the country. 
+<TEXT type="str">Iran has announced that it will ban all United States citizens from entering the country. 
  
 This was contained in an Iranian Foreign Ministry statement published on state media Saturday. 
  
@@ -18,9 +18,8 @@ The other six countries listed in the executive order are Iraq, Syria, Libya, So
  
 The order, which exempts diplomats and members of international organizations, also stops the admission of all refugees to the United States for four months. 
  
-Top Stories</content> 
-<sequenceId type="str">695198372386</sequenceId> 
-<topics type="list"> 
+Top Stories</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -33,7 +32,8 @@ Top Stories</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:13Z</estimatedPublishedDate> 
-<title type="str">Trump’s order: Iran retaliates, bans US citizens</title> 
+</TOPICS> 
+<DOCID type="str">695198372386</DOCID> 
+<DCT type="str">2017-01-29T07:30:13Z</DCT> 
+<TITLE type="str">Trump’s order: Iran retaliates, bans US citizens</TITLE> 
 </root>

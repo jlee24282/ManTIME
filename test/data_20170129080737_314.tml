@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Protesters gather outside Terminal 4 at JFK airport in opposition to U.S. president Donald Trump&apos;s proposed ban on immigration in Queens, New York City, U.S., January 28, 2017. /REUTERS  
+<TEXT type="str">Protesters gather outside Terminal 4 at JFK airport in opposition to U.S. president Donald Trump&apos;s proposed ban on immigration in Queens, New York City, U.S., January 28, 2017. /REUTERS  
 A US judge has issued a stay temporarily halting the deportation of visa holders or refugees under an executive order from President Trump. 
  
 The American Civil Liberties Union (ACLU) filed a legal case early on Saturday in response to the order. 
@@ -33,9 +33,8 @@ The statement was issued hours after a federal judge in New York blocked the dep
  
 &quot;These individuals went through enhanced security screenings and are being processed for entry to the United States, consistent with our immigration laws and judicial orders,&quot; the Homeland Security statement said. 
  
-Additional reporting by Reuters</content> 
-<sequenceId type="str">695196371394</sequenceId> 
-<topics type="list"> 
+Additional reporting by Reuters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -52,7 +51,8 @@ Additional reporting by Reuters</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:58Z</estimatedPublishedDate> 
-<title type="str">US judge temporarily halts Trump&apos;s refugees deportation order</title> 
+</TOPICS> 
+<DOCID type="str">695196371394</DOCID> 
+<DCT type="str">2017-01-29T07:28:58Z</DCT> 
+<TITLE type="str">US judge temporarily halts Trump&apos;s refugees deportation order</TITLE> 
 </root>

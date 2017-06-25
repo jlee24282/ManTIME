@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">An Ottawa immigration lawyer says that U.S. President Donald Trump&apos;s travel bans will make it harder for refugees in Canada to reunite their families.
+<TEXT type="str">An Ottawa immigration lawyer says that U.S. President Donald Trump&apos;s travel bans will make it harder for refugees in Canada to reunite their families.
 
 Like other immigration lawyers interviewed Saturday, Julie Taub said she received several calls from clients worried about the impact of the travel restrictions introduced by the new Republican president. Trump imposed a temporary ban on all refugees and an indefinite one on Syrian refugees; he also imposed 90-day restriction on travellers from seven predominantly Muslim countries.
 
@@ -30,9 +30,8 @@ Under one interpretation of Trump&apos;s new order, tens of thousands of Canadia
 
 Transport Minister Marc Garneau said on Twitter late Saturday that the Canadian government was seeking more information from the U.S. Department of Homeland Security and Department of Transportation: &quot;We are in contact with U.S. DHS and U.S. DOT to get more clarity on the impacts of the restrictions on travels. We will be providing further information to Canadians as it is available.&quot;
 
-It&apos;s possible that Immigration Minister Ahmed Hussen will fall under the temporary ban if he&apos;s not travelling on a diplomatic passport. Hussen, who was appointed to cabinet earlier this month, was born in Somalia and came to Canada as a refugee.</content> 
-<sequenceId type="str">695193958917</sequenceId> 
-<topics type="list"> 
+It&apos;s possible that Immigration Minister Ahmed Hussen will fall under the temporary ban if he&apos;s not travelling on a diplomatic passport. Hussen, who was appointed to cabinet earlier this month, was born in Somalia and came to Canada as a refugee.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -45,7 +44,8 @@ It&apos;s possible that Immigration Minister Ahmed Hussen will fall under the te
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:16Z</estimatedPublishedDate> 
-<title type="str">Refugees to Canada hit by ban</title> 
+</TOPICS> 
+<DOCID type="str">695193958917</DOCID> 
+<DCT type="str">2017-01-29T07:12:16Z</DCT> 
+<TITLE type="str">Refugees to Canada hit by ban</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Adds quotes from Hawaii attorney general, officials, details
+<TEXT type="str">(Adds quotes from Hawaii attorney general, officials, details
 and background throughout) 
     
 By Dan Levine 
@@ -36,9 +36,8 @@ Shapiro.
     
 A Trump representative could not be reached immediately for
 comment.
-  Continued...</content> 
-<sequenceId type="str">695196349251</sequenceId> 
-<topics type="list"> 
+  Continued...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -59,7 +58,8 @@ comment.
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:51Z</estimatedPublishedDate> 
-<title type="str">UPDATE 1-U.S. states discussing lawsuit over Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695196349251</DOCID> 
+<DCT type="str">2017-01-29T07:28:51Z</DCT> 
+<TITLE type="str">UPDATE 1-U.S. states discussing lawsuit over Trump immigration order</TITLE> 
 </root>

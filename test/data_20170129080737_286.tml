@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Looks like you&apos;re already verified. 
+<TEXT type="str">Looks like you&apos;re already verified. 
  
 If you still have trouble signing in, you probably need a new confirmation link email. 
  
@@ -75,10 +75,10 @@ We didn&apos;t recognize that password reset code. Enter your email address to g
 We&apos;ve sent an email with instructions to create a new password. Your existing password has not been changed. 
  Close  Thanks for verifying your email address.  
 You&apos;re now logged in. 
-  {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</content> 
-<sequenceId type="str">695196351082</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:53Z</estimatedPublishedDate> 
-<title type="str">Reggae, soft rock help dogs relax, study says</title> 
+  {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695196351082</DOCID> 
+<DCT type="str">2017-01-29T07:28:53Z</DCT> 
+<TITLE type="str">Reggae, soft rock help dogs relax, study says</TITLE> 
 </root>

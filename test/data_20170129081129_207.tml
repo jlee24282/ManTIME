@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cape Town - The Blitzboks and Fiji will contest the final of the Wellington Sevens after beating Canada and Scotland in their respective semi-finals. 
+<TEXT type="str">Cape Town - The Blitzboks and Fiji will contest the final of the Wellington Sevens after beating Canada and Scotland in their respective semi-finals. 
  
-After crushing France 45-0 in the quarter-finals,</content> 
-<sequenceId type="str">695204836755</sequenceId> 
-<topics type="list"> 
+After crushing France 45-0 in the quarter-finals,</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Fiji news</name> 
@@ -21,7 +20,8 @@ After crushing France 45-0 in the quarter-finals,</content>
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:01:51Z</estimatedPublishedDate> 
-<title type="str">Blitzboks, Fiji to contest Wellington Sevens final</title> 
+</TOPICS> 
+<DOCID type="str">695204836755</DOCID> 
+<DCT type="str">2017-01-29T06:01:51Z</DCT> 
+<TITLE type="str">Blitzboks, Fiji to contest Wellington Sevens final</TITLE> 
 </root>

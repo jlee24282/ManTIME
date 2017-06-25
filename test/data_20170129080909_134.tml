@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jesse Lingard has paid tribute to Wigan Athletic manager Warren Joyce ahead of Manchester United’s clash against the Latics in the fourth round of the FA Cup at Old Trafford on Sunday afternoon.  
+<TEXT type="str">Jesse Lingard has paid tribute to Wigan Athletic manager Warren Joyce ahead of Manchester United’s clash against the Latics in the fourth round of the FA Cup at Old Trafford on Sunday afternoon.  
 The Red Devils will hope to make a swift return to winning ways this weekend after a surprise 2-1 loss to Premier League strugglers Hull City in the second leg of EFL Cup semi-final at KCOM Stadium. 
  
 While Manchester United still progressed to the League Cup final thanks to their 3-2 aggregate win, Jose Mourinho’s players saw their 17-game unbeaten run come to an end. 
@@ -33,9 +33,8 @@ MORE: Arsenal latest news
  
 MORE: Chelsea latest news 
  
-MORE: Liverpool latest news</content> 
-<sequenceId type="str">695199786678</sequenceId> 
-<topics type="list"> 
+MORE: Liverpool latest news</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester United news</name> 
@@ -52,7 +51,8 @@ MORE: Liverpool latest news</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:36Z</estimatedPublishedDate> 
-<title type="str">Man United midfielder sends message to rival manager: He was great for me</title> 
+</TOPICS> 
+<DOCID type="str">695199786678</DOCID> 
+<DCT type="str">2017-01-29T07:40:36Z</DCT> 
+<TITLE type="str">Man United midfielder sends message to rival manager: He was great for me</TITLE> 
 </root>

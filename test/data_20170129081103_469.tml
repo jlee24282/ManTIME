@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A little flock of bird pins, delicately carved and painted in vivid colors, rests in a glass case. Pins like these, inspired by the popular Audubon bird print series, were all the rage in the 1940s. 
+<TEXT type="str">A little flock of bird pins, delicately carved and painted in vivid colors, rests in a glass case. Pins like these, inspired by the popular Audubon bird print series, were all the rage in the 1940s. 
   
 Paintings by inmates depict life in Arkansas’ Japanese American internment camps in the Butler Center for Arkansas Studies’ exhibit “The American Drea... 
    
@@ -122,9 +122,8 @@ Thompson agrees.
  
 &quot;It&apos;s a tremendous story. A very moving story. When you meet people who were in the camps and you see, this isn&apos;t just a random fact. These were real people that were in these camps in Arkansas. I think it&apos;s something people should know about.&quot; 
  
-Style on 01/29/2</content> 
-<sequenceId type="str">695204168125</sequenceId> 
-<topics type="list"> 
+Style on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -133,7 +132,8 @@ Style on 01/29/2</content>
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:55Z</estimatedPublishedDate> 
-<title type="str">Art from broken hearts</title> 
+</TOPICS> 
+<DOCID type="str">695204168125</DOCID> 
+<DCT type="str">2017-01-29T08:10:55Z</DCT> 
+<TITLE type="str">Art from broken hearts</TITLE> 
 </root>

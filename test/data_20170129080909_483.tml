@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donald Trump&apos;s team taking shape is the richest in US history, but has little political experience Not since the last series of Celebrity Apprentice two years ago has Donald Trump’s hiring drawn quite so much attention.
+<TEXT type="str">Donald Trump&apos;s team taking shape is the richest in US history, but has little political experience Not since the last series of Celebrity Apprentice two years ago has Donald Trump’s hiring drawn quite so much attention.
 
 The former reality television star has had to deal with the reality of moving into the Oval Office with the most skeletal presidential administration in decades. More than 4,000 political appointees are required to fill out an administration and about 1,200 require confirmation by the Senate. He is nowhere near reaching those figures in his first week.
 
@@ -238,9 +238,8 @@ Press secretary
 
 Former chief strategist and communications director, Republican National Committee 
 
-Spicer (45) worked with Reince Priebus at the Republican National Committee and both joined Trump’s team after he secured the presidential nomination. In his first official briefing at the White House last Saturday, Spicer, a proud Irish-American whose great-grandfather came from Co Cork, angrily accused the media of &quot;deliberately false reporting&quot; on the size of the crowd at the president’s inauguration. He has delivered steadier performances since then and will be the president’s most public defender over the coming four years. *Confirmed appointments</content> 
-<sequenceId type="str">695200183410</sequenceId> 
-<topics type="list"> 
+Spicer (45) worked with Reince Priebus at the Republican National Committee and both joined Trump’s team after he secured the presidential nomination. In his first official briefing at the White House last Saturday, Spicer, a proud Irish-American whose great-grandfather came from Co Cork, angrily accused the media of &quot;deliberately false reporting&quot; on the size of the crowd at the president’s inauguration. He has delivered steadier performances since then and will be the president’s most public defender over the coming four years. *Confirmed appointments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Goldman Sachs news</name> 
@@ -257,7 +256,8 @@ Spicer (45) worked with Reince Priebus at the Republican National Committee and 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-27T17:53:00Z</estimatedPublishedDate> 
-<title type="str">Trump’s inner circle: Meet the men and women running America</title> 
+</TOPICS> 
+<DOCID type="str">695200183410</DOCID> 
+<DCT type="str">2017-01-27T17:53:00Z</DCT> 
+<TITLE type="str">Trump’s inner circle: Meet the men and women running America</TITLE> 
 </root>

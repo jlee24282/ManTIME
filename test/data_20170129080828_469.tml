@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695198439222</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:42Z</estimatedPublishedDate> 
-<title type="str">Mikey Garcia P4P King of Boxing After Im...</title> 
+</TOPICS> 
+<DOCID type="str">695198439222</DOCID> 
+<DCT type="str">2017-01-29T07:43:42Z</DCT> 
+<TITLE type="str">Mikey Garcia P4P King of Boxing After Im...</TITLE> 
 </root>

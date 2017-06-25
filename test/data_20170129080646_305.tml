@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">School systems in West Virginia have two choices other than propane for their school buses, but so far neither has drawn much interest. 
+<TEXT type="str">School systems in West Virginia have two choices other than propane for their school buses, but so far neither has drawn much interest. 
  
 The two fuels are compressed natural gas and gasoline. 
  
@@ -18,9 +18,8 @@ Pickens said West Virginia accepts bids for diesel, propane and CNG buses, but n
  
 “We got away from gasoline a few years ago for several reasons,” he said. “It’s not even an acceptable fuel right now.” 
  
-However, the state is not ruling out gasoline in the future, he added.</content> 
-<sequenceId type="str">695194450528</sequenceId> 
-<topics type="list"> 
+However, the state is not ruling out gasoline in the future, he added.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -29,7 +28,8 @@ However, the state is not ruling out gasoline in the future, he added.</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Little Interest in W.Va. For Other Alternative School Bus Fuels</title> 
+</TOPICS> 
+<DOCID type="str">695194450528</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Little Interest in W.Va. For Other Alternative School Bus Fuels</TITLE> 
 </root>

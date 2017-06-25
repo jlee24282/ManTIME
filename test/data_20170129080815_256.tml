@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The French, left, German, and European flag, right, fly outside the French-German Economical and Financial Meeting in Paris, France, Monday, January 24, 2005. 
+<TEXT type="str">The French, left, German, and European flag, right, fly outside the French-German Economical and Financial Meeting in Paris, France, Monday, January 24, 2005. 
  
 A European proposal for a tax on financial transactions is trapped in limbo: financial realities won’t let it come to life while political opportunism won’t allow it to die a quick death. 
  
@@ -48,9 +48,8 @@ Game Plan
  
 The school, work and life hacks you need to get ahead. 
   You will now receive the Game Plan newsletter    Meanwhile, the participating countries struggle to keep a united front and put on a brave face. Last week, Belgian Finance Minister Johan Van Overtveldt floated a new condition for staying involved: the participation of the Netherlands and Luxembourg, which are staunch opponents of the FTT. And his Austrian counterpart, Hans Joerg Schelling, who chairs the group, canceled a Jan. 26 meeting on the FTT in Brussels because of more pressing domestic business. 
-“Progress is achievable” and “technically we will be moving,” Slovak Finance Minister Peter Kazimir told Bloomberg News in Brussels the following day. “But this year we are waiting for so many outcomes.”</content> 
-<sequenceId type="str">695197521472</sequenceId> 
-<topics type="list"> 
+“Progress is achievable” and “technically we will be moving,” Slovak Finance Minister Peter Kazimir told Bloomberg News in Brussels the following day. “But this year we are waiting for so many outcomes.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">European banking news</name> 
@@ -87,7 +86,8 @@ The school, work and life hacks you need to get ahead.
 <group type="str">Regional</group> 
 <name type="str">Global news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:01Z</estimatedPublishedDate> 
-<title type="str">EU’s ‘Dead’ Bank-Tax Plan Lives on in German, French Elections</title> 
+</TOPICS> 
+<DOCID type="str">695197521472</DOCID> 
+<DCT type="str">2017-01-29T00:00:01Z</DCT> 
+<TITLE type="str">EU’s ‘Dead’ Bank-Tax Plan Lives on in German, French Elections</TITLE> 
 </root>

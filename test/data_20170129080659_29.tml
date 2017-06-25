@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Trump&apos;s order for &quot;extreme vetting&quot; of visitors and legal US residents from seven Muslim-majority countries sparks protests across the US.</content> 
-<sequenceId type="str">695194636270</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">President Trump&apos;s order for &quot;extreme vetting&quot; of visitors and legal US residents from seven Muslim-majority countries sparks protests across the US.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:08:00Z</estimatedPublishedDate> 
-<title type="str">Airport protests over refugee ban</title> 
+</TOPICS> 
+<DOCID type="str">695194636270</DOCID> 
+<DCT type="str">2017-01-29T07:08:00Z</DCT> 
+<TITLE type="str">Airport protests over refugee ban</TITLE> 
 </root>

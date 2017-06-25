@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MARIETTA — Marietta College has received a gift of $1 million to start a music therapy program. 
+<TEXT type="str">MARIETTA — Marietta College has received a gift of $1 million to start a music therapy program. 
  
 The gift from Donald G. and Leslie Straub Ritter, class of 1981 and 1985, respectively, was announced Wednesday by college President William N. Ruud. 
  
@@ -30,9 +30,8 @@ Marietta College offers a bachelor’s of arts in music and a bachelor’s of mu
  
 “We in the Music Department are incredibly grateful to the Ritters for this wonderful donation. Because of the size of the donation, this will change the face of the department at Marietta College and the entire college in many ways,” Kimball said. “We will begin a national search for a certified music therapist to write a curriculum and start up the program. That person will start in the fall of 2017, and recruitment for the first class will occur during the 2017-18 academic year.” 
  
-Don Ritter is the CEO of Endurance Resources, an oil exploration and production enterprise focused on the Delaware Basin in West Texas and Southern New Mexico. He helped found the company in 2008 following a career with Mobil Oil and then GeoMechanics International. Endurance Resources was recently sold.</content> 
-<sequenceId type="str">695195771618</sequenceId> 
-<topics type="list"> 
+Don Ritter is the CEO of Endurance Resources, an oil exploration and production enterprise focused on the Delaware Basin in West Texas and Southern New Mexico. He helped found the company in 2008 following a career with Mobil Oil and then GeoMechanics International. Endurance Resources was recently sold.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -41,7 +40,8 @@ Don Ritter is the CEO of Endurance Resources, an oil exploration and production 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:33Z</estimatedPublishedDate> 
-<title type="str">Marietta College receives $1M gift for music program</title> 
+</TOPICS> 
+<DOCID type="str">695195771618</DOCID> 
+<DCT type="str">2017-01-29T07:24:33Z</DCT> 
+<TITLE type="str">Marietta College receives $1M gift for music program</TITLE> 
 </root>

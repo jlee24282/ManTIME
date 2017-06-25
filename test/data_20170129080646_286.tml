@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">HARARE - Warriors star forward Khama Billiat has been tipped to make the grade into any European league with one of Britain’s largest circulating newspapers — The Daily Mail — saying he is good enough to play in the English Premier League. 
+<TEXT type="str">HARARE - Warriors star forward Khama Billiat has been tipped to make the grade into any European league with one of Britain’s largest circulating newspapers — The Daily Mail — saying he is good enough to play in the English Premier League. 
  
 Billiat had the entire continent spellbound by his outstanding performance in Zimbabwe’s 2-2 draw with Algeria at the Africa Cup of Nations (Afcon) tournament in Gabon two weeks ago. 
  
@@ -28,9 +28,8 @@ Samuel Kuffour, a European Champions League winner with Bayern Munich, and a pun
  
 “He is amazing to watch. For me being a defender it would be very difficult to play against this boy. He is small and you don’t know what he is going to do. He is so quick with the ball he has everything. For me I would love to see him go outside (overseas) for his future.” 
  
-[GoogleAd]</content> 
-<sequenceId type="str">695194440197</sequenceId> 
-<topics type="list"> 
+[GoogleAd]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Eastern Europe news</name> 
@@ -39,7 +38,8 @@ Samuel Kuffour, a European Champions League winner with Bayern Munich, and a pun
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:27Z</estimatedPublishedDate> 
-<title type="str">Billiat tipped to make Europe move</title> 
+</TOPICS> 
+<DOCID type="str">695194440197</DOCID> 
+<DCT type="str">2017-01-29T07:15:27Z</DCT> 
+<TITLE type="str">Billiat tipped to make Europe move</TITLE> 
 </root>

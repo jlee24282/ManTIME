@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was a day of uncertainty, confusion and even fear for many Canadians with dual citizenship as news emerged about U.S. President Donald Trump&apos;s executive order to ban citizens from seven Muslim-majority countries from entering the United States. 
+<TEXT type="str">It was a day of uncertainty, confusion and even fear for many Canadians with dual citizenship as news emerged about U.S. President Donald Trump&apos;s executive order to ban citizens from seven Muslim-majority countries from entering the United States. 
 
 The 90-day travel ban affects citizens of Iraq, Syria, Sudan, Iran, Somalia, Libya, and Yemen. 
 
@@ -30,9 +30,8 @@ Now, she&apos;s unsure if she even wants to go to California.
 
 &quot;I may not feel comfortable to go because overnight they&apos;re changing laws, so what if I go there and then they do this again?&quot; she said. &quot;I don&apos;t feel safe, to be honest. What&apos;s the next thing that&apos;s going to come out when I&apos;m there?&quot; 
 
-Elahi said she might opt for an internship at Google&apos;s Waterloo, Ont. office instead.</content> 
-<sequenceId type="str">695194343241</sequenceId> 
-<topics type="list"> 
+Elahi said she might opt for an internship at Google&apos;s Waterloo, Ont. office instead.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Canada news</name> 
@@ -45,7 +44,8 @@ Elahi said she might opt for an internship at Google&apos;s Waterloo, Ont. offi
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:39Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s travel ban leaves Albertan dual-nationals confused, afraid</title> 
+</TOPICS> 
+<DOCID type="str">695194343241</DOCID> 
+<DCT type="str">2017-01-29T07:14:39Z</DCT> 
+<TITLE type="str">Trump&apos;s travel ban leaves Albertan dual-nationals confused, afraid</TITLE> 
 </root>

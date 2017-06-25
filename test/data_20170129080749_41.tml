@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Shooters party has a new man in the Hunter region, and he doesn&apos;t own a gun. 
+<TEXT type="str">The Shooters party has a new man in the Hunter region, and he doesn&apos;t own a gun. 
 
 JOHN Preston is the tax specialist whose fights with the states over X-rated films and tobacco excises eventually gave Australia the goods and service tax, or GST.
 
@@ -48,9 +48,8 @@ Mr Despotoski said the Shooters, Fishers and Farmers party had “very active br
 
 “One of the best things that can happen for this area is John running, whether he wins or not, because this is a winnable seat and the Nationals are going to have to fight. We will be looking at running candidates anywhere in regional NSW we think we can win,” Mr Despotoski said.
 
-Michael Johnsen did not respond to Newcastle Herald questions. The story first appeared on Newcastle Herald.</content> 
-<sequenceId type="str">695196517765</sequenceId> 
-<topics type="list"> 
+Michael Johnsen did not respond to Newcastle Herald questions. The story first appeared on Newcastle Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Tobacco industry news</name> 
@@ -63,7 +62,8 @@ Michael Johnsen did not respond to Newcastle Herald questions. The story first a
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Porn, tobacco and the Shooters’ next moves|photos, video</title> 
+</TOPICS> 
+<DOCID type="str">695196517765</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Porn, tobacco and the Shooters’ next moves|photos, video</TITLE> 
 </root>

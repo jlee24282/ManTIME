@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Mark Gleeson 
+<TEXT type="str">By Mark Gleeson 
     
 LIBREVILLE (Reuters) - Burkina Faso and Cameroon booked semi-final berths at the African Nations Cup on Saturday as another page was ripped out of the form book when the latest favourites for the tournament were eliminated. 
     
@@ -17,9 +17,8 @@ The Indomitable Lions had been given little chance in Gabon after their squad wa
 &quot;For most if us, it&apos;s our first Nations Cup and none of us could imagine we&apos;d still be here. Now we have a chance to write our own piece of history.&quot; 
     
 Senegal&apos;s early departure follows those of holders Ivory Coast and equally fancied Algeria, leaving the outcome of the three-week tournament wide open.
-  Continued...</content> 
-<sequenceId type="str">695203609652</sequenceId> 
-<topics type="list"> 
+  Continued...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
@@ -40,7 +39,8 @@ Senegal&apos;s early departure follows those of holders Ivory Coast and equally 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:54Z</estimatedPublishedDate> 
-<title type="str">Cameroon, Burkina Faso leave form book in tatters</title> 
+</TOPICS> 
+<DOCID type="str">695203609652</DOCID> 
+<DCT type="str">2017-01-29T08:22:54Z</DCT> 
+<TITLE type="str">Cameroon, Burkina Faso leave form book in tatters</TITLE> 
 </root>

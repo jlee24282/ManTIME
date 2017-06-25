@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Basketball  College Men  Chico State 69, UC San Diego 64  
+<TEXT type="str">Basketball  College Men  Chico State 69, UC San Diego 64  
 UC San Diego — Buaku 2, Ballestero ,6 Klie 24, Oshita 16, Hansen 4, Lipovic 6, Everman 2, Fraser 0, Shoemaker 4. 
  
 Chico State — Duncan 11, McFerren 9, Timothy 2, Silverstrom 14, Ellis 9, Bethea Jr. 14, Lynch 0, Ambrosini 0, Briggs 10, Datu 0. 
@@ -68,9 +68,8 @@ Branham led Chico State (12-7, 7-6 CCAA) with 13 points. McKena Barker and Sammy
  
 UC San Diego outrebounded Chico State 42-29. The Tritons also made 11 of 26 3-pointers with Beth Mounier finishing 6 of 10 as part of her game-high 24 points. Cassie MacLeod had 13 points and nine rebounds. 
  
-The game was close early on as teams exchanged baskets, featuring multiple ties before a Wildcats dry spell in the second quarter led to a UC San Diego 29-22 advantage at halftime.</content> 
-<sequenceId type="str">695196719909</sequenceId> 
-<topics type="list"> 
+The game was close early on as teams exchanged baskets, featuring multiple ties before a Wildcats dry spell in the second quarter led to a UC San Diego 29-22 advantage at halftime.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -79,7 +78,8 @@ The game was close early on as teams exchanged baskets, featuring multiple ties 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Wildcats claim sole possession of first place with second-half comeback vs. UC San Diego</title> 
+</TOPICS> 
+<DOCID type="str">695196719909</DOCID> 
+<DCT type="str">2017-01-28T08:01:00Z</DCT> 
+<TITLE type="str">Wildcats claim sole possession of first place with second-half comeback vs. UC San Diego</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Melbourne [Australia], Jan. 29 : Ace Indian tennis star Sania Mirza and her Croatian partner Ivan Dodig on Sunday were comprehensively beaten by the American-Colombian team of Abigail Spears and Juan Sebastian Cabal in the finals of mixed doubles event of the Australian Open. 
+<TEXT type="str">Melbourne [Australia], Jan. 29 : Ace Indian tennis star Sania Mirza and her Croatian partner Ivan Dodig on Sunday were comprehensively beaten by the American-Colombian team of Abigail Spears and Juan Sebastian Cabal in the finals of mixed doubles event of the Australian Open. 
 The second seeded pair of Mirza and Dodig went down 2-6, 4-6 in a summit clash that lasted for 64 minutes here at the Rod Laver Arena. 
 
 There were far too many unforced errors from both the Indian and Croat and the Spears and Cabal didn&apos;t let them get away with it, whereas the unseeded pair looked sharp and didn&apos;t let the pressure of the moment get to them. 
@@ -9,9 +9,8 @@ This was the second major final that Mirza and Dodig have lost since pairing up 
 
 The ace Indian tennis star had won the Australian Open twice - 2016 women&apos;s doubles with Martina Hingis and 2009 mixed doubles with Mahesh Bhupathi. 
 
-Source</content> 
-<sequenceId type="str">695195819644</sequenceId> 
-<topics type="list"> 
+Source</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -24,7 +23,8 @@ Source</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:54Z</estimatedPublishedDate> 
-<title type="str">Sania-Dodig stunned as Spears-Cabal clinch Australian Open Mixed Doubles title</title> 
+</TOPICS> 
+<DOCID type="str">695195819644</DOCID> 
+<DCT type="str">2017-01-29T07:24:54Z</DCT> 
+<TITLE type="str">Sania-Dodig stunned as Spears-Cabal clinch Australian Open Mixed Doubles title</TITLE> 
 </root>

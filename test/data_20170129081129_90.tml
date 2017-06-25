@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">https://www.adx.ae/English/News/Pages/20170129100037710-JULPHAR.aspx
+<TEXT type="str">https://www.adx.ae/English/News/Pages/20170129100037710-JULPHAR.aspx
 
-read more</content> 
-<sequenceId type="str">695204703147</sequenceId> 
-<topics type="list"> 
+read more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
@@ -13,7 +12,8 @@ read more</content>
 <group type="str">Business</group> 
 <name type="str">Executive moves news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:18Z</estimatedPublishedDate> 
-<title type="str">Julphar CEO leaves the company after 8 years of service</title> 
+</TOPICS> 
+<DOCID type="str">695204703147</DOCID> 
+<DCT type="str">2017-01-29T08:31:18Z</DCT> 
+<TITLE type="str">Julphar CEO leaves the company after 8 years of service</TITLE> 
 </root>

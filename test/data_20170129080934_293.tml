@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ankara. British Prime Minister Theresa May signed a $125 million fighter jet deal with Turkey on Saturday (28/01) and briefly cautioned Ankara on human rights following last year&apos;s failed coup, in a visit squarely aimed at boosting trade between the NATO allies. 
+<TEXT type="str">Ankara. British Prime Minister Theresa May signed a $125 million fighter jet deal with Turkey on Saturday (28/01) and briefly cautioned Ankara on human rights following last year&apos;s failed coup, in a visit squarely aimed at boosting trade between the NATO allies. 
 
 May, in Turkey a day after meeting with United States President Donald Trump in Washington, avoided criticizing his sweeping ban on people from certain countries seeking refuge in the United States. She visited both countries for the first time as prime minister, promoting trade deals that would strengthen her hand in talks to leave the European Union. 
 
@@ -30,9 +30,8 @@ The United Kingdom was the No. 2 destination for Turkish exports in 2015, buying
 
 The countries also discussed the fight against militant groups. Yildirim said he requested legal action against supporters of the coup, who he said are active in Britain. 
 
-Reuters</content> 
-<sequenceId type="str">695200978792</sequenceId> 
-<topics type="list"> 
+Reuters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
@@ -53,7 +52,8 @@ Reuters</content>
 <group type="str">Business</group> 
 <name type="str">Middle Eastern business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:00:17Z</estimatedPublishedDate> 
-<title type="str">In Turkey Visit, Britain&apos;s May Pushes Trade, Mentions Human Rights</title> 
+</TOPICS> 
+<DOCID type="str">695200978792</DOCID> 
+<DCT type="str">2017-01-29T01:00:17Z</DCT> 
+<TITLE type="str">In Turkey Visit, Britain&apos;s May Pushes Trade, Mentions Human Rights</TITLE> 
 </root>

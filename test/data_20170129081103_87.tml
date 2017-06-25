@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DIVERSIONS 
+<TEXT type="str">DIVERSIONS 
  
 JUMP START: Writing Prompt Workshop, 3S Artspace, 319 Vaughan St., Portsmouth, Sunday, Jan. 29, 12:30 to 02:30 p.m. Whether you are currently working on a story or memoir, or just want to get started exploring your creativity, Jump Start is a perfect way to kick off the New Year and get into writing, for the first time or again. You&apos;ll be inspired by the relaxed yet productive environment in this two hour writing workshop, where you&apos;ll start with a writing prompt to get your creative side ignited. 
  
@@ -228,9 +228,8 @@ YORK
  
 ART EXHIBIT AT THE VILLAGE GALLERY: 244 York St., (207) 363-4004, thevillagegallery@myfairpoint.net, www.theyorkvillagegallery.com. Featuring the works of Gail Claes, oils; JoAnn Woods, photography; Oleg Kompasov, oils; Barbara Heintz, oils; Rena Rockwell, watercolors and acrylics; Eileen Robert, pastels; Donna Asquith, watercolors and acrylics; Steffanie Antonio, acrylics; Chris Grieco, acrylics, Nina Bisognani, photography; Dave Woodard, ink; Chuck Pineo, custom furniture; Rick Comeau, wood workings; Elise Pratt, jewelry; Betsy Cromley, jewelry; Janet Harris, watercolor and Betty Cioffi, oils. 
  
-COMMUNITY COLLECTS EXHIBITION: The York Public Library, 15 Long Sands Rd., January, February, and March. Featuring the works of the Pine Hill Girls, Gertrude Fiske (1878-1961), Elizabeth Sawtelle (1875-1956), Amy Wentworth Cabot (1871-1952), and Charlotte Butler (1868-1950). a group of four women artists who came to Ogunquit to study with Charles Woodbury at his famed summer art school during the early decades of the 20th century. Tuesdays to Thursdays, 10 to 7, Fridays, 10 to 5, Saturdays, 10 to 2. 207-363-2818, www.york.lib.me.us.</content> 
-<sequenceId type="str">695203751259</sequenceId> 
-<topics type="list"> 
+COMMUNITY COLLECTS EXHIBITION: The York Public Library, 15 Long Sands Rd., January, February, and March. Featuring the works of the Pine Hill Girls, Gertrude Fiske (1878-1961), Elizabeth Sawtelle (1875-1956), Amy Wentworth Cabot (1871-1952), and Charlotte Butler (1868-1950). a group of four women artists who came to Ogunquit to study with Charles Woodbury at his famed summer art school during the early decades of the 20th century. Tuesdays to Thursdays, 10 to 7, Fridays, 10 to 5, Saturdays, 10 to 2. 207-363-2818, www.york.lib.me.us.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -243,7 +242,8 @@ COMMUNITY COLLECTS EXHIBITION: The York Public Library, 15 Long Sands Rd., Janua
 <group type="str">Regional</group> 
 <name type="str">Cuba news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Arts and Entertainment Calendar Jan. 29</title> 
+</TOPICS> 
+<DOCID type="str">695203751259</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Arts and Entertainment Calendar Jan. 29</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DES MOINES, Iowa —  
+<TEXT type="str">DES MOINES, Iowa —  
 A FedEx driver seen in a viral video this week salvaging an American flag from burning will keep his job, the delivery company tweeted on its corporate account Saturday morning. 
 
 An Iowa City Press-Citizen photographer captured the incident in which Matt Uhrin used a fire extinguisher to put out the blaze before taking the flag from protesters. The demonstrators said they were protesting against what they call the Republican agenda, which includes positions on gay rights, civil rights and the controversial Bakken oil pipeline. 
@@ -28,9 +28,8 @@ Conservative commentator Ann Coulter weighed in, tweeting: “I will only use Fe
  
 Uhrin could not be reached for comment but did tell the Press-Citizen his actions were not related to his employer. 
  
-Watch the viral video below (WARNING: Some language may be offensive)</content> 
-<sequenceId type="str">695204081562</sequenceId> 
-<topics type="list"> 
+Watch the viral video below (WARNING: Some language may be offensive)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Logistics news</name> 
@@ -39,7 +38,8 @@ Watch the viral video below (WARNING: Some language may be offensive)</content>
 <group type="str">Companies</group> 
 <name type="str">FedEx news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:58:00Z</estimatedPublishedDate> 
-<title type="str">A FedEx driver will keep job after saving flag from burning</title> 
+</TOPICS> 
+<DOCID type="str">695204081562</DOCID> 
+<DCT type="str">2017-01-29T06:58:00Z</DCT> 
+<TITLE type="str">A FedEx driver will keep job after saving flag from burning</TITLE> 
 </root>

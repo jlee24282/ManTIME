@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CLINTON, Mo. — The Versailles Tigers claimed third place in the Clinton Tournament with a 74-55 win Saturday afternoon against Sherwood. 
+<TEXT type="str">CLINTON, Mo. — The Versailles Tigers claimed third place in the Clinton Tournament with a 74-55 win Saturday afternoon against Sherwood. 
  
 Versailles led 15-12 after one quarter and 42-32 at the half. The Tigers clamped down defensively in the second half, allowing just 23 points on their way to the 19-point victory. 
  
@@ -10,9 +10,8 @@ Wyatt Espinosa added 17 points, while Hunter Edgar chipped in with 12 and Coby W
  
 Randall and Edgar were selected to the 10-player all-tournament team. 
  
-Versailles (9-8) will host Dixon on Tuesday.</content> 
-<sequenceId type="str">695195899375</sequenceId> 
-<topics type="list"> 
+Versailles (9-8) will host Dixon on Tuesday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -25,7 +24,8 @@ Versailles (9-8) will host Dixon on Tuesday.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:40Z</estimatedPublishedDate> 
-<title type="str">Boys Basketball: Versailles 74, Sherwood 55</title> 
+</TOPICS> 
+<DOCID type="str">695195899375</DOCID> 
+<DCT type="str">2017-01-29T07:25:40Z</DCT> 
+<TITLE type="str">Boys Basketball: Versailles 74, Sherwood 55</TITLE> 
 </root>

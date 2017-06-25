@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Baker City couple who employ 54 people at a call center under a state contract are lobbying Gov. Kate Brown to have the state renew their contract to avoid the loss of those jobs next week, but a state official said there are no plans to continue the deal. 
+<TEXT type="str">A Baker City couple who employ 54 people at a call center under a state contract are lobbying Gov. Kate Brown to have the state renew their contract to avoid the loss of those jobs next week, but a state official said there are no plans to continue the deal. 
  
 Richard and Kathleen Chaves, who own Chaves Consulting Inc., are nearing the end of the first year under contract with the Oregon Health Authority. 
  
@@ -72,9 +72,8 @@ Chaves said that’s precisely what he and his wife sought and accomplished when
  
 He said the local residents they hired, a few of whom were living in their cars, have exceeded their expectations. 
  
-“I have never heard an OHA person say that our performance is anything but stellar,” Chaves said. “The people that are working for us really want their jobs and they take a lot of pride in their positions, so they excel.”</content> 
-<sequenceId type="str">695204949856</sequenceId> 
-<topics type="list"> 
+“I have never heard an OHA person say that our performance is anything but stellar,” Chaves said. “The people that are working for us really want their jobs and they take a lot of pride in their positions, so they excel.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Portland news</name> 
@@ -83,7 +82,8 @@ He said the local residents they hired, a few of whom were living in their cars,
 <group type="str">Business</group> 
 <name type="str">Job markets news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:08Z</estimatedPublishedDate> 
-<title type="str">End of call center contract in Baker City will lead to 54 layoffs</title> 
+</TOPICS> 
+<DOCID type="str">695204949856</DOCID> 
+<DCT type="str">2017-01-29T08:33:08Z</DCT> 
+<TITLE type="str">End of call center contract in Baker City will lead to 54 layoffs</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A local state representative has filed legislation prohibiting abortions of an unborn child after 20 weeks except in the case of a medical emergency. 
+<TEXT type="str">A local state representative has filed legislation prohibiting abortions of an unborn child after 20 weeks except in the case of a medical emergency. 
  
 State Rep. Don Hahnfeldt, R- The Villages, and Rep. Joe Gruters, R-Sarasota, filed the “Florida Pain-Capable Unborn Child Protection Act” making it a third-degree felony to perform an abortion after 20 weeks; it also requires physicians to report abortion information to the Department of Health. 
  
@@ -66,9 +66,8 @@ The issue concerning term limits for justices was also the focus of a local bill
  
 Sullivan filed a joint resolution that proposes an amendment to the state Constitution to “limit to 12 consecutive years the number of years supreme court justices and district court judges may hold the same office and prohibiting justices or district judges from being reappointed for one year after leaving office.” 
  
-Despite repeated attempts, Sullivan could not be reached for comment. </content> 
-<sequenceId type="str">695197964887</sequenceId> 
-<topics type="list"> 
+Despite repeated attempts, Sullivan could not be reached for comment. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">South Florida news</name> 
@@ -81,7 +80,8 @@ Despite repeated attempts, Sullivan could not be reached for comment. </content
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Local lawmakers file bills on abortion, religion, guns and more</title> 
+</TOPICS> 
+<DOCID type="str">695197964887</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Local lawmakers file bills on abortion, religion, guns and more</TITLE> 
 </root>

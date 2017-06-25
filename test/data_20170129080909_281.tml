@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tom And Jerry, 52 E - Tom And Jerry In The Hollywood Bowl (195</content> 
-<sequenceId type="str">695199986320</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Tom And Jerry, 52 E - Tom And Jerry In The Hollywood Bowl (195</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:00Z</estimatedPublishedDate> 
-<title type="str">Tom And Jerry E31</title> 
+</TOPICS> 
+<DOCID type="str">695199986320</DOCID> 
+<DCT type="str">2017-01-29T07:33:00Z</DCT> 
+<TITLE type="str">Tom And Jerry E31</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Environmental activists who hung the “RESIST” banner visible above the White House early Wednesday morning were released from police custody Thursday evening. 
+<TEXT type="str">Environmental activists who hung the “RESIST” banner visible above the White House early Wednesday morning were released from police custody Thursday evening. 
  
 Demonstrators climbed a 270-foot crane at the construction site for the new headquarters of the finance and mortgage company Fannie Mae in response to President Trump’s decision to move forward in the construction of the Keystone XL and Dakota Access pipelines. 
  
@@ -27,9 +27,8 @@ Streets were blocked off and firefighters were on standby below the demonstratio
  
 “While we are exhausted today, we feel fully energized by the powerful resistance movement,” said Topakian after her release, according to the Washington Post. “And we’re ready to get back to work building a country and society that protects our most vulnerable.” 
  
-The protesters are due in court again on March 1.</content> 
-<sequenceId type="str">695200254824</sequenceId> 
-<topics type="list"> 
+The protesters are due in court again on March 1.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Francisco Bay Area news</name> 
@@ -58,7 +57,8 @@ The protesters are due in court again on March 1.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:35:57Z</estimatedPublishedDate> 
-<title type="str">SF State alumna arrested for White House “RESIST” banner</title> 
+</TOPICS> 
+<DOCID type="str">695200254824</DOCID> 
+<DCT type="str">2017-01-29T04:35:57Z</DCT> 
+<TITLE type="str">SF State alumna arrested for White House “RESIST” banner</TITLE> 
 </root>

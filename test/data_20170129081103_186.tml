@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A man has died at the Rainbow Serpent Music and Arts Festival overnight. 
+<TEXT type="str">A man has died at the Rainbow Serpent Music and Arts Festival overnight. 
 
 RELATED CONTENT: A 
 
@@ -36,14 +36,14 @@ He said police had responded to the poor behaviour in 2016 by increasing police 
 
 “We detected a number of drug drivers last year. We remind people not to take drugs at the festival and are reminding people to have a designated driver.” 
 
-The story first appeared on The Courier.</content> 
-<sequenceId type="str">695203892824</sequenceId> 
-<topics type="list"> 
+The story first appeared on The Courier.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T21:52:00Z</estimatedPublishedDate> 
-<title type="str">Man dies at Rainbow Serpent</title> 
+</TOPICS> 
+<DOCID type="str">695203892824</DOCID> 
+<DCT type="str">2017-01-28T21:52:00Z</DCT> 
+<TITLE type="str">Man dies at Rainbow Serpent</TITLE> 
 </root>

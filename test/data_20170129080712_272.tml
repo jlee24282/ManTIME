@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jaydan is a full-time Digital News Producer and Social Media Content Coordinator at myGC.com.au. At 17 years young, he was appointed Managing Editor of his local newspaper, the Junee Southern Cross. Since then, he has gone on to work as a Journalist and Content Producer in newsrooms in New South Wales and Queensland and has founded a number of highly-engaging social media channels and digital news sharing networks. With almost ten years experience in both print and digital media, he has developed a passion for reporting the news as it breaks and is committed to working around-the-clock to ensure the best coverage during major events. 
+<TEXT type="str">Jaydan is a full-time Digital News Producer and Social Media Content Coordinator at myGC.com.au. At 17 years young, he was appointed Managing Editor of his local newspaper, the Junee Southern Cross. Since then, he has gone on to work as a Journalist and Content Producer in newsrooms in New South Wales and Queensland and has founded a number of highly-engaging social media channels and digital news sharing networks. With almost ten years experience in both print and digital media, he has developed a passion for reporting the news as it breaks and is committed to working around-the-clock to ensure the best coverage during major events. 
 
 You might also like 
 
@@ -40,9 +40,8 @@ myGC is the official Hot Tomato website and you’ll find all things Hot Tomato 
 
 myGC – the life &amp; soul of the Gold Coast! 
 
-1029 Hot Tomato - playing the best music from the 80s to now!</content> 
-<sequenceId type="str">695195357634</sequenceId> 
-<topics type="list"> 
+1029 Hot Tomato - playing the best music from the 80s to now!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -51,7 +50,8 @@ myGC – the life &amp; soul of the Gold Coast!
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:30Z</estimatedPublishedDate> 
-<title type="str">Police appeal for information after young man dies outside Perth bar</title> 
+</TOPICS> 
+<DOCID type="str">695195357634</DOCID> 
+<DCT type="str">2017-01-29T07:21:30Z</DCT> 
+<TITLE type="str">Police appeal for information after young man dies outside Perth bar</TITLE> 
 </root>

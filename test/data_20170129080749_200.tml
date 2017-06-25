@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">COPYRIGHT
+<TEXT type="str">COPYRIGHT
 
-Get top stories and blog posts emailed to me each day. Newsletters may offer personalized content or advertisements. Learn more</content> 
-<sequenceId type="str">695196714690</sequenceId> 
-<topics type="list"> 
+Get top stories and blog posts emailed to me each day. Newsletters may offer personalized content or advertisements. Learn more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -13,7 +12,8 @@ Get top stories and blog posts emailed to me each day. Newsletters may offer per
 <group type="str">Regional</group> 
 <name type="str">Canada news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:48Z</estimatedPublishedDate> 
-<title type="str">Trudeau To Refugees: &apos;Canadians Will ...</title> 
+</TOPICS> 
+<DOCID type="str">695196714690</DOCID> 
+<DCT type="str">2017-01-29T07:31:48Z</DCT> 
+<TITLE type="str">Trudeau To Refugees: &apos;Canadians Will ...</TITLE> 
 </root>

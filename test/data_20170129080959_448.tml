@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A few readers last week contacted the Union-Tribune to say they didn’t like the play in last Sunday’s paper of the Women’s March in San Diego. They had wanted to see it covered with a big A1 photo. 
+<TEXT type="str">A few readers last week contacted the Union-Tribune to say they didn’t like the play in last Sunday’s paper of the Women’s March in San Diego. They had wanted to see it covered with a big A1 photo. 
  
 A picture from the Women’s March in Washington, D.C., received the lead play — a six-column wide, 6-plus-inch-deep shot. Below it appeared a two-column wide, 2-plus-inch-deep photo of a girl at the San Diego event. The caption teased to a story on the San Diego march on A3 written by three U-T staffers. The story was accompanied by two photos — a six-column-wide shot and one three columns wide. 
  
@@ -28,9 +28,8 @@ A story on A1 Jan. 20 about the weather reported on how much snow was expected t
  
 Gary Mortenson, a former U-T copy editor, did and called in. Mount Laguna is an unincorporated community in the Laguna Mountains. It is not a mountain peak. 
  
-adrian.vore@sduniontribune.com</content> 
-<sequenceId type="str">695202027316</sequenceId> 
-<topics type="list"> 
+adrian.vore@sduniontribune.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Diego news</name> 
@@ -47,7 +46,8 @@ adrian.vore@sduniontribune.com</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Why D.C. Women&apos;s March made the front page</title> 
+</TOPICS> 
+<DOCID type="str">695202027316</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Why D.C. Women&apos;s March made the front page</TITLE> 
 </root>

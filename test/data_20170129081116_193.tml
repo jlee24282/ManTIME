@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Black Sea coast will see up to 4-5 magnitude storm today, - IPN has been informed from Adjara Meteorological Service. 
+<TEXT type="str">The Black Sea coast will see up to 4-5 magnitude storm today, - IPN has been informed from Adjara Meteorological Service. 
 As reported, snow and hurricane are in forecast at the coastal zone as well as in Adjara highlands. 
 
-West wind will also reach 12-17 meters per second. Bad weather will continue till the end of the month.</content> 
-<sequenceId type="str">695204352544</sequenceId> 
-<topics type="list"> 
+West wind will also reach 12-17 meters per second. Bad weather will continue till the end of the month.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -18,7 +17,8 @@ West wind will also reach 12-17 meters per second. Bad weather will continue til
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:36Z</estimatedPublishedDate> 
-<title type="str">Black Sea coast to see 4-5 magnitude storm</title> 
+</TOPICS> 
+<DOCID type="str">695204352544</DOCID> 
+<DCT type="str">2017-01-29T08:28:36Z</DCT> 
+<TITLE type="str">Black Sea coast to see 4-5 magnitude storm</TITLE> 
 </root>

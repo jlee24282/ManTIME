@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Next on  
+<TEXT type="str">Next on  
 S9E6  Escape from Pontypandy Island  S9E6  Today, 8.10am 
  
 S9E8  The Best Sleepover Ever  S9E8  Monday, 7.05am 
@@ -11,14 +11,14 @@ channel 5  Wissper
    
 channel 5  Angels of Jarm  
    
-channel 5  The Funky Valley Show</content> 
-<sequenceId type="str">695195447325</sequenceId> 
-<topics type="list"> 
+channel 5  The Funky Valley Show</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:15Z</estimatedPublishedDate> 
-<title type="str">Fireman Sam S9 E6 7.10am</title> 
+</TOPICS> 
+<DOCID type="str">695195447325</DOCID> 
+<DCT type="str">2017-01-29T07:22:15Z</DCT> 
+<TITLE type="str">Fireman Sam S9 E6 7.10am</TITLE> 
 </root>

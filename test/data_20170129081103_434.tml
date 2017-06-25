@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">With a practically bare, white playing space as a blank 
+<TEXT type="str">With a practically bare, white playing space as a blank 
 canvas, Zoetic Stage’s Stuart Meltzer, his cast and crew have fashioned 
 a gorgeous work of art in the award-winning Miami company’s current 
 production of Stephen Sondheim and James Lapine’s masterpiece 
@@ -81,9 +81,8 @@ Perhaps the lyrics that really draw us into the musical are the following:
 In Zoetic’s production, George sings the lyrics “So many possibilities,” 
 in a whisper, but with an ardent enthusiasm suggesting a treasure 
 chest’s worth of tempting choices. 
-Maybe art’s infinite possibilities make it so tempting to try to create.</content> 
-<sequenceId type="str">695204142756</sequenceId> 
-<topics type="list"> 
+Maybe art’s infinite possibilities make it so tempting to try to create.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -92,7 +91,8 @@ Maybe art’s infinite possibilities make it so tempting to try to create.</cont
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: theater news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:47:14Z</estimatedPublishedDate> 
-<title type="str">Sunday in the Park with George</title> 
+</TOPICS> 
+<DOCID type="str">695204142756</DOCID> 
+<DCT type="str">2017-01-29T02:47:14Z</DCT> 
+<TITLE type="str">Sunday in the Park with George</TITLE> 
 </root>

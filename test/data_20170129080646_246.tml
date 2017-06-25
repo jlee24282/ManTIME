@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">People sometimes make awkward and, unfortunately, unkind comments, because another person&apos;s generosity makes them uncomfortable. 
+<TEXT type="str">People sometimes make awkward and, unfortunately, unkind comments, because another person&apos;s generosity makes them uncomfortable. 
  Amy Dickinson  
 Dear Amy: I am a member of a 50-piece wind ensemble. We have a break for cookies and coffee on practice nights, once a week. I have made homemade cookies for our break for more than 25 years. 
  
@@ -50,9 +50,8 @@ I do appreciate your first piece of advice on this: this is the parents&apos; is
  
 Dear John: I have encountered minor challenges as a parent traveling with a minor child with a different surname (one border guard queried her to determine if I was really her mother — completely understandable). But I agree that this is absolutely manageable. 
  
-— Amy Dickinson is a Tribune Media Service national columnist. Send questions via email to askamy@amydickinson.com or by mail to Ask Amy, Chicago Tribune, TT500, 435 N. Michigan Ave. Chicago, IL 6</content> 
-<sequenceId type="str">695194408913</sequenceId> 
-<topics type="list"> 
+— Amy Dickinson is a Tribune Media Service national columnist. Send questions via email to askamy@amydickinson.com or by mail to Ask Amy, Chicago Tribune, TT500, 435 N. Michigan Ave. Chicago, IL 6</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -61,7 +60,8 @@ Dear John: I have encountered minor challenges as a parent traveling with a mino
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Ask Amy: Snark takes the wind out of wind ensemble</title> 
+</TOPICS> 
+<DOCID type="str">695194408913</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Ask Amy: Snark takes the wind out of wind ensemble</TITLE> 
 </root>

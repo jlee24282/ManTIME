@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Whenever I come home to Philly I go straight to Leo&apos;s. I get another cheesesteak on the way back out of town too. Best in Delco.</content> 
-<sequenceId type="str">695195665078</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Whenever I come home to Philly I go straight to Leo&apos;s. I get another cheesesteak on the way back out of town too. Best in Delco.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Food industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:10Z</estimatedPublishedDate> 
-<title type="str">best cheesesteak in delaware county</title> 
+</TOPICS> 
+<DOCID type="str">695195665078</DOCID> 
+<DCT type="str">2017-01-29T07:12:10Z</DCT> 
+<TITLE type="str">best cheesesteak in delaware county</TITLE> 
 </root>

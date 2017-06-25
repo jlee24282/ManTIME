@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Enterprise Phone Systems 
+<TEXT type="str">Enterprise Phone Systems 
   
 Best Hosted Voip Provider Plans 
    
@@ -80,9 +80,8 @@ email us here
  
 TieTechnology Phone Service Yealink Tutorial 
  
-[embedded content]</content> 
-<sequenceId type="str">695201619668</sequenceId> 
-<topics type="list"> 
+[embedded content]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Phoenix news</name> 
@@ -95,7 +94,8 @@ TieTechnology Phone Service Yealink Tutorial
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:45Z</estimatedPublishedDate> 
-<title type="str">TieTechnology Unveils Expansion with Innovative and Distinctive VoIP Services as an Advanced Hosted VoIP Company</title> 
+</TOPICS> 
+<DOCID type="str">695201619668</DOCID> 
+<DCT type="str">2017-01-29T08:07:45Z</DCT> 
+<TITLE type="str">TieTechnology Unveils Expansion with Innovative and Distinctive VoIP Services as an Advanced Hosted VoIP Company</TITLE> 
 </root>

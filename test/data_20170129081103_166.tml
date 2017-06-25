@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Five Lotto tickets are each now worth $200,000 - sharing Lotto First Division in tonight’s draw. 
+<TEXT type="str">Five Lotto tickets are each now worth $200,000 - sharing Lotto First Division in tonight’s draw. 
  
 They were bought at New World Whanganui, Harris Road Superette and Lotto in Auckland, This That and Lotto in Reefton, Countdown Manurewa in Auckland, and by a MyLotto player from Auckland. 
  
@@ -8,9 +8,8 @@ $115,443 goes to three Strike Four tickets - bought at Harris Road Superette and
  
 Powerball was not struck, and jackpots to Wednesday night. 
  
-Check the winning numbers here .</content> 
-<sequenceId type="str">695203867110</sequenceId> 
-<topics type="list"> 
+Check the winning numbers here .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -23,7 +22,8 @@ Check the winning numbers here .</content>
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:42Z</estimatedPublishedDate> 
-<title type="str">Five tickets share Lotto First Division yesterday</title> 
+</TOPICS> 
+<DOCID type="str">695203867110</DOCID> 
+<DCT type="str">2017-01-29T08:24:42Z</DCT> 
+<TITLE type="str">Five tickets share Lotto First Division yesterday</TITLE> 
 </root>

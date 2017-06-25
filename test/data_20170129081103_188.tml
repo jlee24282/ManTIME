@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On ​Jan. 21, I had the good fortune of attending the Chico Sisters’ March in downtown Chico. The event was extremely well organized and very well attended by the entire community of Chico. I appreciated that my town took the opportunity to peacefully express themselves regarding basic human rights and the direction we’d like to see our country move toward. 
+<TEXT type="str">On ​Jan. 21, I had the good fortune of attending the Chico Sisters’ March in downtown Chico. The event was extremely well organized and very well attended by the entire community of Chico. I appreciated that my town took the opportunity to peacefully express themselves regarding basic human rights and the direction we’d like to see our country move toward. 
  
 In addition to the march organizers, I would also like to thank the Chico Police Department​ for its efficient road closures as our enormous crowd moved through downtown Chico. 
  
@@ -10,9 +10,8 @@ Thank you again.
  
 — Kerry V. Quevedo, Chico 
  
-Advertisement</content> 
-<sequenceId type="str">695203897026</sequenceId> 
-<topics type="list"> 
+Advertisement</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -25,7 +24,8 @@ Advertisement</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:02:00Z</estimatedPublishedDate> 
-<title type="str">Letter: Thanks to Women&apos;s March organizers, Chico police</title> 
+</TOPICS> 
+<DOCID type="str">695203897026</DOCID> 
+<DCT type="str">2017-01-29T07:02:00Z</DCT> 
+<TITLE type="str">Letter: Thanks to Women&apos;s March organizers, Chico police</TITLE> 
 </root>

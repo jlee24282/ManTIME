@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
+<TEXT type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
  SAN DIEGO – When the story of Barack Obama’s presidency is finally written, I hope biographers dedicate a few pages to the 44th president’s abysmal record on the issue that seems to have most baffled him: immigration. 
 Right off the bat, Obama put himself on impossible footing by trying to be simultaneously compassionate and tough. He wanted to please Latinos who identify with immigrants so much that they want to give the undocumented legal status, and also union members who are so afraid of competition that they would prefer to hand them a one-way ticket out of the country. 
  
@@ -44,9 +44,8 @@ While all this was happening, the liberal media seemed not all that interested a
  
 It’s no wonder they’re so fired up now to go after President Trump on his immigration crackdown. After a siesta that lasted eight long years, they’ve got to be well rested. 
  
-Copyright, The Washington Post Writers Group.</content> 
-<sequenceId type="str">695204708173</sequenceId> 
-<topics type="list"> 
+Copyright, The Washington Post Writers Group.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -67,7 +66,8 @@ Copyright, The Washington Post Writers Group.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:20Z</estimatedPublishedDate> 
-<title type="str">Media suffers amnesia regarding Obama’s record on immigration</title> 
+</TOPICS> 
+<DOCID type="str">695204708173</DOCID> 
+<DCT type="str">2017-01-29T08:31:20Z</DCT> 
+<TITLE type="str">Media suffers amnesia regarding Obama’s record on immigration</TITLE> 
 </root>

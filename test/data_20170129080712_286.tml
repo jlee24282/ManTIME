@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- South Jersey Gas, a subsidiary of South Jersey Industries, Inc. (NYSE: SJI), today filed a petition with the New Jersey Board of Public Utilities (NJBPU) requesting an increase of approximately $75 million to its base rates to recognize the infrastructure investments made to maintain the safety and reliability of its natural gas delivery system.  This filing is its first since 2013. 
+<TEXT type="str">- South Jersey Gas, a subsidiary of South Jersey Industries, Inc. (NYSE: SJI), today filed a petition with the New Jersey Board of Public Utilities (NJBPU) requesting an increase of approximately $75 million to its base rates to recognize the infrastructure investments made to maintain the safety and reliability of its natural gas delivery system.  This filing is its first since 2013. 
  
 This case is necessary due to the significant investments South Jersey Gas made in improving its system.  They include investments in the replacement of aging mains, the installation of new mains to meet growing demand, and expenditures to ensure compliance with state and federal system integrity and safety regulations.  Since its last base rate case, the company will have invested approximately $518 million in system improvements that are not currently reflected in base rates.  
  
@@ -21,9 +21,8 @@ South Jersey Gas, subsidiary of South Jersey Industries (NYSE:SJI), delivers saf
  
 TELEPHONE: 609-561-9000 
 Media Contact:  Barbara Del Duke x4108, bdelduke@sjindustries.com 
-             </content> 
-<sequenceId type="str">695195372220</sequenceId> 
-<topics type="list"> 
+             </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -32,7 +31,8 @@ Media Contact:  Barbara Del Duke x4108, bdelduke@sjindustries.com
 <group type="str">Industry</group> 
 <name type="str">Oil and gas news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:35:12Z</estimatedPublishedDate> 
-<title type="str">South Jersey Gas Files Rate Case with the New Jersey Board of Public Utilities</title> 
+</TOPICS> 
+<DOCID type="str">695195372220</DOCID> 
+<DCT type="str">2017-01-29T02:35:12Z</DCT> 
+<TITLE type="str">South Jersey Gas Files Rate Case with the New Jersey Board of Public Utilities</TITLE> 
 </root>

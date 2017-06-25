@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Republican victory in November has changed the rules for getting things done in Washington, D.C. 
+<TEXT type="str">The Republican victory in November has changed the rules for getting things done in Washington, D.C. 
  
 Perhaps surprising to some, this could work to the benefit of both Republicans and Democrats on one issue of importance to the Midland Empire. 
  
@@ -22,9 +22,8 @@ This is where the tide may turn in favor of the public. Graves’ spokesman told
  
 The spokesman adds: “The way to do that is for the city to start the process over, be more transparent with the public from the get-go, and consider every option.” 
  
-Graves is in sync with his constituents on this important issue. It remains to be seen whether boosters of a big airport overhaul are prepared to take a step back, invite the public fully into the process and consider a wider range of options.</content> 
-<sequenceId type="str">695195247064</sequenceId> 
-<topics type="list"> 
+Graves is in sync with his constituents on this important issue. It remains to be seen whether boosters of a big airport overhaul are prepared to take a step back, invite the public fully into the process and consider a wider range of options.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Kansas City news</name> 
@@ -37,7 +36,8 @@ Graves is in sync with his constituents on this important issue. It remains to b
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:45:00Z</estimatedPublishedDate> 
-<title type="str">KCI: Start over, involve public</title> 
+</TOPICS> 
+<DOCID type="str">695195247064</DOCID> 
+<DCT type="str">2017-01-29T05:45:00Z</DCT> 
+<TITLE type="str">KCI: Start over, involve public</TITLE> 
 </root>

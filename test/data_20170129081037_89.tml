@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">During Donald Trump&apos;s presidential campaign, the Mexican peso often tracked his poll numbers, rising when he fell and falling when he surged.
+<TEXT type="str">During Donald Trump&apos;s presidential campaign, the Mexican peso often tracked his poll numbers, rising when he fell and falling when he surged.
 
 And, in keeping with that trend, in the days since he&apos;s taken office the peso has mirrored the seeming deterioration of US-Mexican relations.
 
@@ -100,9 +100,8 @@ Mexican truckers wait years to get permits to cross into the US, joining the flo
 
 &quot;The total impact of all this is hard to gauge at the moment, because it depends a great deal on how these threats are implemented,&quot; Iber told Business Insider of the consequences of Trump&apos;s border policies.
 
-&quot;At the moment, net migration with Mexico is near zero. But if Trump&apos;s policies force Mexico into a depression, we&apos;re likely to get more undocumented immigration to the U.S., not less,&quot; he added. &quot;It&apos;s a complex equilibrium at the moment, full of injustices, that Trump seems determined to make worse.&quot;</content> 
-<sequenceId type="str">695202893430</sequenceId> 
-<topics type="list"> 
+&quot;At the moment, net migration with Mexico is near zero. But if Trump&apos;s policies force Mexico into a depression, we&apos;re likely to get more undocumented immigration to the U.S., not less,&quot; he added. &quot;It&apos;s a complex equilibrium at the moment, full of injustices, that Trump seems determined to make worse.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Diego news</name> 
@@ -123,7 +122,8 @@ Mexican truckers wait years to get permits to cross into the US, joining the flo
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:24Z</estimatedPublishedDate> 
-<title type="str">Civilians already feeling effect of border controversy</title> 
+</TOPICS> 
+<DOCID type="str">695202893430</DOCID> 
+<DCT type="str">2017-01-29T08:17:24Z</DCT> 
+<TITLE type="str">Civilians already feeling effect of border controversy</TITLE> 
 </root>

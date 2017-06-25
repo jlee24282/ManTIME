@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was a day of continued celebration for the Rome Braves Saturday at the team’s annual Hot Stove Gathering at the Forum River Center. 
+<TEXT type="str">It was a day of continued celebration for the Rome Braves Saturday at the team’s annual Hot Stove Gathering at the Forum River Center. 
  
 The event became more than just a way for fans to get their offseason fix of new information on the Atlanta Braves’ organization as executives and officials with both the major and minor league programs signed autographs and spoke about the impact of the Class A affiliate’s 2016 South Atlantic League championship. 
  
@@ -20,9 +20,8 @@ Braves General Manager John Cop­polella also joined the event, as did new Atlan
  
 The event included a proclamation from the City of Rome, presented by commissioner Wendy Davis, extending an appreciation and congratulations to the Rome Braves. 
  
-Pitchers and catchers will report for spring training Feb. 15.</content> 
-<sequenceId type="str">695196267283</sequenceId> 
-<topics type="list"> 
+Pitchers and catchers will report for spring training Feb. 15.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: MLB - Atlanta Braves news</name> 
@@ -31,7 +30,8 @@ Pitchers and catchers will report for spring training Feb. 15.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:14:00Z</estimatedPublishedDate> 
-<title type="str">ROME BRAVES: Hot Stove gives fans, front office moment to reflect on title</title> 
+</TOPICS> 
+<DOCID type="str">695196267283</DOCID> 
+<DCT type="str">2017-01-29T06:14:00Z</DCT> 
+<TITLE type="str">ROME BRAVES: Hot Stove gives fans, front office moment to reflect on title</TITLE> 
 </root>

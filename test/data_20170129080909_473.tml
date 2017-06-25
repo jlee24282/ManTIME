@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Analysis: Building Trump&apos;s Wall   
-Border security and a wall paid for by the Mexican government were centerpieces of President Donald Trump&apos;s campaign but Mexico has said it won&apos;t pay for a barrier, and Mexican the president …</content> 
-<sequenceId type="str">695200180565</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Analysis: Building Trump&apos;s Wall   
+Border security and a wall paid for by the Mexican government were centerpieces of President Donald Trump&apos;s campaign but Mexico has said it won&apos;t pay for a barrier, and Mexican the president …</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -12,7 +11,8 @@ Border security and a wall paid for by the Mexican government were centerpieces 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:45Z</estimatedPublishedDate> 
-<title type="str">Pleas for drivers to slow down as school year returns</title> 
+</TOPICS> 
+<DOCID type="str">695200180565</DOCID> 
+<DCT type="str">2017-01-29T07:57:45Z</DCT> 
+<TITLE type="str">Pleas for drivers to slow down as school year returns</TITLE> 
 </root>

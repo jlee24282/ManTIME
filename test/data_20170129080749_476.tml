@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Call for Beta Testers!
+<TEXT type="str">Call for Beta Testers!
 
 Took us quite a while - but we&apos;re almost there! If everything goes well, we&apos;ll be releasing Typoman for SteamOS + Linux on February 10th!
 
@@ -58,14 +58,14 @@ Visit our website: http://www.typoman.net/
 
 Facebook: https://www.facebook.com/typoman.net
 
-Twitter: https://twitter.com/brainseed_fcty</content> 
-<sequenceId type="str">695196949824</sequenceId> 
-<topics type="list"> 
+Twitter: https://twitter.com/brainseed_fcty</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:39Z</estimatedPublishedDate> 
-<title type="str">Typoman: Revised soon available on SteamOS + Linux</title> 
+</TOPICS> 
+<DOCID type="str">695196949824</DOCID> 
+<DCT type="str">2017-01-29T07:33:39Z</DCT> 
+<TITLE type="str">Typoman: Revised soon available on SteamOS + Linux</TITLE> 
 </root>

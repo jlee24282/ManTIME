@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NOTE: Schedules provided by schools and are subject to change. 
+<TEXT type="str">NOTE: Schedules provided by schools and are subject to change. 
  
 SUNDAY 
  
@@ -136,9 +136,8 @@ Junior college basketball: South Mountain women and men at Central Arizona. Wome
  
 Junior college baseball: Cochise at Central Arizona, doubleheader, noon 
  
-Junior college softball: Central Arizona at Paradise Valley, doubleheader, 1 p.m.</content> 
-<sequenceId type="str">695201245926</sequenceId> 
-<topics type="list"> 
+Junior college softball: Central Arizona at Paradise Valley, doubleheader, 1 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Phoenix news</name> 
@@ -147,7 +146,8 @@ Junior college softball: Central Arizona at Paradise Valley, doubleheader, 1 p.m
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:00Z</estimatedPublishedDate> 
-<title type="str">Area Sports Calendar for Sunday, Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695201245926</DOCID> 
+<DCT type="str">2017-01-29T07:15:00Z</DCT> 
+<TITLE type="str">Area Sports Calendar for Sunday, Jan. 29, 2017</TITLE> 
 </root>

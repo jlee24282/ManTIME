@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">STATE COLLEGE, Pa. — Shep Garner might’ve been selling himself short when he said with a straight face on Saturday he doesn’t consider himself that athletic. 
+<TEXT type="str">STATE COLLEGE, Pa. — Shep Garner might’ve been selling himself short when he said with a straight face on Saturday he doesn’t consider himself that athletic. 
  
 There’s plenty of evidence against that, especially in Penn State’s leading scorer’s wrists. 
  
@@ -42,9 +42,8 @@ UP NEXT
  
 Illinois hosts No. 15 Wisconsin on Tuesday. 
  
-Penn State travels to Indiana on Wednesday.</content> 
-<sequenceId type="str">695202481277</sequenceId> 
-<topics type="list"> 
+Penn State travels to Indiana on Wednesday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -61,7 +60,8 @@ Penn State travels to Indiana on Wednesday.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">College basketball: Banks, Garner lead Penn State over Illinois</title> 
+</TOPICS> 
+<DOCID type="str">695202481277</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">College basketball: Banks, Garner lead Penn State over Illinois</TITLE> 
 </root>

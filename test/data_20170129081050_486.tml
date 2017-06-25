@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The German occupation of my Los Angeles neighborhood began with the SUVs. 
+<TEXT type="str">The German occupation of my Los Angeles neighborhood began with the SUVs. 
 
 Driveways once filled with Honda Accords, Toyota Camrys, and vintage Volvo station wagons began to sprout BMW X3s and X5s and Audi Q3s and Q5s. 
 
@@ -32,9 +32,8 @@ But my goodness is it comfortable. The driver and passenger seats are a marvel o
 
 On the outside, the Q7 isn&apos;t very distinguished. But, what SUVs are? 
 
-To my eye, they almost all have what a friend of mine used to call the &quot;pregnant hamster&quot; look - sporty at the front, but rather thick in the middle and the behind.</content> 
-<sequenceId type="str">695203664435</sequenceId> 
-<topics type="list"> 
+To my eye, they almost all have what a friend of mine used to call the &quot;pregnant hamster&quot; look - sporty at the front, but rather thick in the middle and the behind.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -47,7 +46,8 @@ To my eye, they almost all have what a friend of mine used to call the &quot;pre
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:33:19Z</estimatedPublishedDate> 
-<title type="str">2017 Audi Q7: The pleasures of the pricier people mover</title> 
+</TOPICS> 
+<DOCID type="str">695203664435</DOCID> 
+<DCT type="str">2017-01-29T06:33:19Z</DCT> 
+<TITLE type="str">2017 Audi Q7: The pleasures of the pricier people mover</TITLE> 
 </root>

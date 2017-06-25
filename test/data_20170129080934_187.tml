@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Historic Crests 
+<TEXT type="str">Historic Crests 
 (1) 13.88 ft on 10/29/2012 
 (2) 10.02 ft on 09/12/1960 
 (3) 9.70 ft on 12/11/1992 
@@ -30,9 +30,8 @@ Show More Recent Crests
 (P) : Preliminary values subject to further review. 
 
 Low Water Records 
-Currently none available.</content> 
-<sequenceId type="str">695200884312</sequenceId> 
-<topics type="list"> 
+Currently none available.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -41,7 +40,8 @@ Currently none available.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:24Z</estimatedPublishedDate> 
-<title type="str">Low Water (-0.2 ft) - Observation - BATN6 - New York Harbor at The Battery (New York)</title> 
+</TOPICS> 
+<DOCID type="str">695200884312</DOCID> 
+<DCT type="str">2017-01-29T07:57:24Z</DCT> 
+<TITLE type="str">Low Water (-0.2 ft) - Observation - BATN6 - New York Harbor at The Battery (New York)</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LISBON — A 48-year-old Kensington man’s meth-related drug offenses landed him in prison for two years on Friday.
+<TEXT type="str">LISBON — A 48-year-old Kensington man’s meth-related drug offenses landed him in prison for two years on Friday.
 
 Daryl W. Kibler, 48, Mardis Road, was in Columbiana County Common Pleas Court for sentencing after pleading guilty in November to illegal assembly or possession of chemicals for the manufacture of drugs, possession of drugs and trafficking in drugs.
 
@@ -34,9 +34,8 @@ LISBON — Two men charged in unrelated cases involving child pornography appear
 
 Today&apos;s breaking news and more in your inbox
 
-Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</content> 
-<sequenceId type="str">695204652136</sequenceId> 
-<topics type="list"> 
+Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Illegal drugs news</name> 
@@ -45,7 +44,8 @@ Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, O
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:01Z</estimatedPublishedDate> 
-<title type="str">Kensington man gets 2 years in prison on meth-related offenses</title> 
+</TOPICS> 
+<DOCID type="str">695204652136</DOCID> 
+<DCT type="str">2017-01-29T08:31:01Z</DCT> 
+<TITLE type="str">Kensington man gets 2 years in prison on meth-related offenses</TITLE> 
 </root>

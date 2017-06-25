@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Comments (0)   
+<TEXT type="str">Comments (0)   
 THE BUILDING which is the current home of Scunthorpe&apos;s Honest Lawyer public house and restaurant is used to ringing the changes. 
  
 For the site on Oswald Road was once used by a national retail chain to sell and rent out electronic cash registers. 
@@ -54,9 +54,8 @@ Read today&apos;s top stories
  
 
 
- Follow us on</content> 
-<sequenceId type="str">695196756175</sequenceId> 
-<topics type="list"> 
+ Follow us on</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -65,7 +64,8 @@ Read today&apos;s top stories
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">nickcole published Scunthorpe&apos;s Grand Old Buildings - how the Honest Lawyer once...</title> 
+</TOPICS> 
+<DOCID type="str">695196756175</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">nickcole published Scunthorpe&apos;s Grand Old Buildings - how the Honest Lawyer once...</TITLE> 
 </root>

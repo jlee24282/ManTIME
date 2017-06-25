@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Allardyce stated in his pre-match press conference that he would &quot;..rotate the squad&quot; with the imminence of the Bournemouth match in mind. He then puts out a midfield with at least four &apos;dead men walking&apos; to somewhat prove his point yet plays our best full backs, risking both to injury. Lo and behold, Schlupp picks up an injury! Genius.</content> 
-<sequenceId type="str">695201541157</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Allardyce stated in his pre-match press conference that he would &quot;..rotate the squad&quot; with the imminence of the Bournemouth match in mind. He then puts out a midfield with at least four &apos;dead men walking&apos; to somewhat prove his point yet plays our best full backs, risking both to injury. Lo and behold, Schlupp picks up an injury! Genius.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:41Z</estimatedPublishedDate> 
-<title type="str">Squad Rotation?!</title> 
+</TOPICS> 
+<DOCID type="str">695201541157</DOCID> 
+<DCT type="str">2017-01-29T08:03:41Z</DCT> 
+<TITLE type="str">Squad Rotation?!</TITLE> 
 </root>

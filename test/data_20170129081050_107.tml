@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sanaa (AFP) - Yemen&apos;s Huthi rebels have slammed US President Donald Trump&apos;s decision to impose a temporary order restricting arrivals from seven Muslim majority countries including the Arabian Peninsula country. 
+<TEXT type="str">Sanaa (AFP) - Yemen&apos;s Huthi rebels have slammed US President Donald Trump&apos;s decision to impose a temporary order restricting arrivals from seven Muslim majority countries including the Arabian Peninsula country. 
  
 In a statement issued late Saturday, the rebel-controlled foreign ministry called for the decision taken &quot;under the pretext of fighting terrorism and Islamic radicalism&quot; to be reversed. 
  
@@ -10,9 +10,8 @@ The Iran-backed Shiite rebels seized the capital Sanaa and other parts of Yemen 
  
 The government of President Abedrabbo Mansour Hadi, which is supported by Saudi Arabia, has not yet reacted to Trump&apos;s tough new controls on travellers from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. 
  
-The newly inaugurated US president signed a sweeping executive order on Friday to suspend refugee arrivals and impose tough controls on travellers from the seven countries.</content> 
-<sequenceId type="str">695203301935</sequenceId> 
-<topics type="list"> 
+The newly inaugurated US president signed a sweeping executive order on Friday to suspend refugee arrivals and impose tough controls on travellers from the seven countries.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Yemen news</name> 
@@ -21,7 +20,8 @@ The newly inaugurated US president signed a sweeping executive order on Friday t
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:19Z</estimatedPublishedDate> 
-<title type="str">Yemen rebels slam Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695203301935</DOCID> 
+<DCT type="str">2017-01-29T08:09:19Z</DCT> 
+<TITLE type="str">Yemen rebels slam Trump travel ban</TITLE> 
 </root>

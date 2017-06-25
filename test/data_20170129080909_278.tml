@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Author: kinokompania92 
+<TEXT type="str">Author: kinokompania92 
 Tags: 
-Posted: 29 January 2</content> 
-<sequenceId type="str">695199985745</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -13,7 +12,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:39Z</estimatedPublishedDate> 
-<title type="str">Искусство нового времени engl</title> 
+</TOPICS> 
+<DOCID type="str">695199985745</DOCID> 
+<DCT type="str">2017-01-29T07:33:39Z</DCT> 
+<TITLE type="str">Искусство нового времени engl</TITLE> 
 </root>

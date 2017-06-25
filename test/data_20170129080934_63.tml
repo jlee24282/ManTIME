@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Cohasset boys basketball team may not have won the game, but gave visiting Mashpee a tremendous battle in a 69-62 loss Saturday Jan. 28 at Cohasset High School. 
+<TEXT type="str">The Cohasset boys basketball team may not have won the game, but gave visiting Mashpee a tremendous battle in a 69-62 loss Saturday Jan. 28 at Cohasset High School. 
  
 In a battle of two of the top teams in the South Shore League Tobin Division, it was no surprise that the game would be a tight battle, even if the last meeting wasn’t. 
  
@@ -32,9 +32,8 @@ It wasn’t all luck though, as Mashpee’s Devan Ford had a game high 32 points
  
 For Cohasset, the game is already just a memory. 
  
-“We are already on to Norwell,” Ruggiero said. “This game is over. Tough loss, but its unique about basketball. We play on Tuesday and will need to regroup. I am looking forward as they are to improving reach day.”</content> 
-<sequenceId type="str">695200724230</sequenceId> 
-<topics type="list"> 
+“We are already on to Norwell,” Ruggiero said. “This game is over. Tough loss, but its unique about basketball. We play on Tuesday and will need to regroup. I am looking forward as they are to improving reach day.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -47,7 +46,8 @@ For Cohasset, the game is already just a memory.
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:58:55Z</estimatedPublishedDate> 
-<title type="str">Cohasset boys basketball downed 69-62 by Mashpee in 2 OT</title> 
+</TOPICS> 
+<DOCID type="str">695200724230</DOCID> 
+<DCT type="str">2017-01-29T06:58:55Z</DCT> 
+<TITLE type="str">Cohasset boys basketball downed 69-62 by Mashpee in 2 OT</TITLE> 
 </root>

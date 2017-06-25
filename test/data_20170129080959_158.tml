@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">News bulletin recorded at 9 pm</content> 
-<sequenceId type="str">695201737972</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">News bulletin recorded at 9 pm</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:27Z</estimatedPublishedDate> 
-<title type="str">9 pm Sunday 29 January</title> 
+</TOPICS> 
+<DOCID type="str">695201737972</DOCID> 
+<DCT type="str">2017-01-29T08:08:27Z</DCT> 
+<TITLE type="str">9 pm Sunday 29 January</TITLE> 
 </root>

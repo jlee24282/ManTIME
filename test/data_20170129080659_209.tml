@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Staff 
+<TEXT type="str">By Staff 
 Saturday, January 28, 2017 
  
 Colorado Mesa 63, S.D. Mines 60 
@@ -51,9 +51,8 @@ Rebounds: CMU 29 (Reichle 7), SDMT 31 (Haugen 14). Turnovers: CMU 13, SDMT 17. A
  
 Fouls: CMU 16, SDMT 12. Fouled out: none. Technicals: none. 
  
-A</content> 
-<sequenceId type="str">695194756256</sequenceId> 
-<topics type="list"> 
+A</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -62,7 +61,8 @@ A</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:38:00Z</estimatedPublishedDate> 
-<title type="str">CMU basketball scores, Jan. 28, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194756256</DOCID> 
+<DCT type="str">2017-01-29T04:38:00Z</DCT> 
+<TITLE type="str">CMU basketball scores, Jan. 28, 2017</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">GDANSK, Poland — It was supposed to be the first museum in the world to tell the story of World War II in its entirety by focusing on all the nations caught up in that global conflict. But it has fallen foul of changing political priorities in its Polish home, and as it opened its doors for the first time Monday, it’s facing an uncertain future. After nine years of work, the Museum of the Second World War opened in Gdansk for one day to reporters, historians, museum officials and Polish politicians. Director Pawel Machcewicz hoped the world could get a glimpse of it as he races against the clock to get it finished before he is pushed out of his job, something he believes is inevitable.
+<TEXT type="str">GDANSK, Poland — It was supposed to be the first museum in the world to tell the story of World War II in its entirety by focusing on all the nations caught up in that global conflict. But it has fallen foul of changing political priorities in its Polish home, and as it opened its doors for the first time Monday, it’s facing an uncertain future. After nine years of work, the Museum of the Second World War opened in Gdansk for one day to reporters, historians, museum officials and Polish politicians. Director Pawel Machcewicz hoped the world could get a glimpse of it as he races against the clock to get it finished before he is pushed out of his job, something he believes is inevitable.
 
 The project was launched in 2008 by then-Prime Minister Donald Tusk, who is today one of the European Union’s top leaders. Aside from its global approach, the creators of the state museum say it is different from most other war museums in that it puts civilian suffering — not military campaigns — at the heart of the narrative.
 
@@ -30,9 +30,8 @@ But museum supporters are doing what they can do defend it in its current form.
 
 “Sometimes when politicians look at the museum like this they don’t understand how much conceptual work there was,” said Yale historian Timothy Snyder, who is a member of the museum’s advisory board.
 
-“If this museum is lost, Gdansk, Poland, Europe, the world, loses the only chance we have for an experience of public history, for people from all of the world, not only in Poland, to understand the Second World War. That would be a dreadful civilization lost.”</content> 
-<sequenceId type="str">695203074474</sequenceId> 
-<topics type="list"> 
+“If this museum is lost, Gdansk, Poland, Europe, the world, loses the only chance we have for an experience of public history, for people from all of the world, not only in Poland, to understand the Second World War. That would be a dreadful civilization lost.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -41,7 +40,8 @@ But museum supporters are doing what they can do defend it in its current form.
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:42Z</estimatedPublishedDate> 
-<title type="str">Fate of Polish WWII museum unclear amid battle over history</title> 
+</TOPICS> 
+<DOCID type="str">695203074474</DOCID> 
+<DCT type="str">2017-01-29T08:18:42Z</DCT> 
+<TITLE type="str">Fate of Polish WWII museum unclear amid battle over history</TITLE> 
 </root>

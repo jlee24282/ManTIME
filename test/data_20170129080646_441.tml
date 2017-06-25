@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Geraniums are like the girl-next-door of flowers. They’re nice, unassuming, and efficient. 
+<TEXT type="str">By Geraniums are like the girl-next-door of flowers. They’re nice, unassuming, and efficient. 
  
 Perhaps that — and the fact that they’re everywhere — explains how we routinely look past them. I mean you don’t hear people saying “My geraniums are having a banner year.” And you would never think to transpose the wording “A rose by any other name would smell as sweet” with “geranium.” 
  
@@ -58,14 +58,14 @@ QUOTE: 
  
 The wild wind whirls away.” 
  
--- from Jane Eyre by Charlotte Bronte</content> 
-<sequenceId type="str">695194545761</sequenceId> 
-<topics type="list"> 
+-- from Jane Eyre by Charlotte Bronte</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">The flowers who came in from the cold</title> 
+</TOPICS> 
+<DOCID type="str">695194545761</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">The flowers who came in from the cold</TITLE> 
 </root>

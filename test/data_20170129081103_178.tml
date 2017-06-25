@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TOWER. Rookie Kai Sotto is slowly but surely making his presence felt for Ateneo. 
+<TEXT type="str">TOWER. Rookie Kai Sotto is slowly but surely making his presence felt for Ateneo. 
   
 TEAM STANDINGS 
 Adamson 11-1 
@@ -62,9 +62,8 @@ QUARTER SCORES: 17-22, 26-32, 50-48, 72-59
  
 --- 
  
-Follow this writer on Twitter, @riegogogo.</content> 
-<sequenceId type="str">695203885217</sequenceId> 
-<topics type="list"> 
+Follow this writer on Twitter, @riegogogo.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -73,7 +72,8 @@ Follow this writer on Twitter, @riegogogo.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:50Z</estimatedPublishedDate> 
-<title type="str">UAAP - BASKETBALL Blue Eaglets swoop into last playoff berth</title> 
+</TOPICS> 
+<DOCID type="str">695203885217</DOCID> 
+<DCT type="str">2017-01-29T08:24:50Z</DCT> 
+<TITLE type="str">UAAP - BASKETBALL Blue Eaglets swoop into last playoff berth</TITLE> 
 </root>

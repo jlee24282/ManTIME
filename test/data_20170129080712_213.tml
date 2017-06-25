@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Britt Cox and Matt Graham have claimed twin World Cup victories in Canada, marking the most successful day for the Australian mogul skiing team.
+<TEXT type="str">Britt Cox and Matt Graham have claimed twin World Cup victories in Canada, marking the most successful day for the Australian mogul skiing team.
 
 Overall leader Cox won the women&apos;s event in Calgary - her third triumph of a standout season.
 
@@ -24,9 +24,8 @@ Cox, 22, said she was particularly thrilled to wear her green jacket and the yel
 
 There are seven more World Cups before the world championships in early March in Spain.
 
-In other action, Australian slopestyle skier Russ Henshaw finished third in the World Cup round in Seiser Alm, Italy.</content> 
-<sequenceId type="str">695195239079</sequenceId> 
-<topics type="list"> 
+In other action, Australian slopestyle skier Russ Henshaw finished third in the World Cup round in Seiser Alm, Italy.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Global news</name> 
@@ -43,7 +42,8 @@ In other action, Australian slopestyle skier Russ Henshaw finished third in the 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:08Z</estimatedPublishedDate> 
-<title type="str">Double moguls gold for Australian skiers Britt Cox and Matt Graham</title> 
+</TOPICS> 
+<DOCID type="str">695195239079</DOCID> 
+<DCT type="str">2017-01-29T07:16:08Z</DCT> 
+<TITLE type="str">Double moguls gold for Australian skiers Britt Cox and Matt Graham</TITLE> 
 </root>

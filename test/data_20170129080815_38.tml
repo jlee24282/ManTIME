@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Colombian government is further investing in Barbados’ public service.  
+<TEXT type="str">The Colombian government is further investing in Barbados’ public service.  
  
 Ambassador of the Republic of Colombia, Jaime Alberto Acosta Carvajal disclosed his government’s plan to continue its Spanish language programme for Barbados’ public servants in 2017 “due to the significant success of this course”. 
  
@@ -12,9 +12,8 @@ He added, “The Spanish courses in Barbados are in fact one of the most success
  
 The Ambassador also highlighted the benefit of public servants and locals learning Spanish as a second language. 
  
-“The teaching of Spanish to public servants seeks to strengthen the importance of the learning of Spanish in the region and to fortify the ties between the Caribbean and Latin America. We as a region need to enhance the knowledge our languages to be able to act and collaborate as a block. Our culture is similar in many ways, our challenges too but it is the mutual corporation and elimination of the small barriers that separate us from each other that will make us strong.”</content> 
-<sequenceId type="str">695197394911</sequenceId> 
-<topics type="list"> 
+“The teaching of Spanish to public servants seeks to strengthen the importance of the learning of Spanish in the region and to fortify the ties between the Caribbean and Latin America. We as a region need to enhance the knowledge our languages to be able to act and collaborate as a block. Our culture is similar in many ways, our challenges too but it is the mutual corporation and elimination of the small barriers that separate us from each other that will make us strong.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Caribbean news</name> 
@@ -31,7 +30,8 @@ The Ambassador also highlighted the benefit of public servants and locals learni
 <group type="str">Society</group> 
 <name type="str">Latino news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:59Z</estimatedPublishedDate> 
-<title type="str">Third edition of Spanish language programme to be rolled out</title> 
+</TOPICS> 
+<DOCID type="str">695197394911</DOCID> 
+<DCT type="str">2017-01-29T07:36:59Z</DCT> 
+<TITLE type="str">Third edition of Spanish language programme to be rolled out</TITLE> 
 </root>

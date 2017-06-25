@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Half way home at the Rolex 24 at Daytona International Speedway. Scott Sharp is P4 in the No.2 ESM Nissan Onroak Automotive DPi.</content> 
-<sequenceId type="str">695198843267</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Half way home at the Rolex 24 at Daytona International Speedway. Scott Sharp is P4 in the No.2 ESM Nissan Onroak Automotive DPi.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: motor sports news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:08Z</estimatedPublishedDate> 
-<title type="str">Half way home at the Rolex 24 at Daytona International Speedway. Scott..</title> 
+</TOPICS> 
+<DOCID type="str">695198843267</DOCID> 
+<DCT type="str">2017-01-29T07:47:08Z</DCT> 
+<TITLE type="str">Half way home at the Rolex 24 at Daytona International Speedway. Scott..</TITLE> 
 </root>

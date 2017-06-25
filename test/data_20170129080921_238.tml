@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Yulia Stepanova finished last in the 800 meters before a full house at the Reggie Lewis Center in Boston. Sometimes Yulia Stepanova’s opponents approach her and thank her for trying to clean up their sport.
+<TEXT type="str">Yulia Stepanova finished last in the 800 meters before a full house at the Reggie Lewis Center in Boston. Sometimes Yulia Stepanova’s opponents approach her and thank her for trying to clean up their sport.
 
 Others aren’t so gracious.
 
@@ -36,9 +36,8 @@ Asked if she would ever run under the Russian flag again, she said, “If you as
 
 Running in the first event after the meet’s live TV coverage began, Stepanova started on the inside lane and quickly settled in at the back of the pack. She never fell too far behind the other competitors, but nor did she threaten to make a move, and finished more than 3 seconds behind Lipsey.
 
-“Both me and my coach, we didn’t expect me to break records this indoor season,” Stepanova said. “My coach told me that right now I’m ready to run 2:05, and that’s what I ran today.”</content> 
-<sequenceId type="str">695200410555</sequenceId> 
-<topics type="list"> 
+“Both me and my coach, we didn’t expect me to break records this indoor season,” Stepanova said. “My coach told me that right now I’m ready to run 2:05, and that’s what I ran today.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -51,7 +50,8 @@ Running in the first event after the meet’s live TV coverage began, Stepanova 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:13Z</estimatedPublishedDate> 
-<title type="str">Russian whistleblower Yulia Stepanova returns to competition</title> 
+</TOPICS> 
+<DOCID type="str">695200410555</DOCID> 
+<DCT type="str">2017-01-29T07:56:13Z</DCT> 
+<TITLE type="str">Russian whistleblower Yulia Stepanova returns to competition</TITLE> 
 </root>

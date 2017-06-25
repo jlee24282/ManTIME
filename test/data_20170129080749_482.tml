@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Although Google hasn’t released sales figures, industry researchers say the Pixel has been a hot item since its October debut was greeted with mostly glowing reviews and the biggest marketing blitz in Google’s 18-year history. Google didn’t have enough Pixels available to meet demand. Rather than wait several weeks, many consumers interested in the Pixel probably bought an iPhone, Galaxy or another phone instead. And these people aren’t likely to need a phone replacement for another year or two.
+<TEXT type="str">Although Google hasn’t released sales figures, industry researchers say the Pixel has been a hot item since its October debut was greeted with mostly glowing reviews and the biggest marketing blitz in Google’s 18-year history. Google didn’t have enough Pixels available to meet demand. Rather than wait several weeks, many consumers interested in the Pixel probably bought an iPhone, Galaxy or another phone instead. And these people aren’t likely to need a phone replacement for another year or two.
 
 Google also struck a deal to sell it through just one wireless carrier, Verizon. Although Google’s online store sold Pixels compatible with other wireless networks, most people don’t shop for phones that way.
 
@@ -20,9 +20,8 @@ The numbers provide a clue on how Pixel did. Google’s “other revenue” segm
 
 Doshi estimates Google sold 1 million to 1.5 million Pixels during the fourth quarter. That’s just a sliver of the estimated 77 million that Apple sold and the 15 million Galaxy S7s Samsung sold in the same period.
 
-Still, analysts say the Pixel did exceptionally well for a new phone with little brand recognition.</content> 
-<sequenceId type="str">695196953616</sequenceId> 
-<topics type="list"> 
+Still, analysts say the Pixel did exceptionally well for a new phone with little brand recognition.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -47,7 +46,8 @@ Still, analysts say the Pixel did exceptionally well for a new phone with little
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T20:01:04Z</estimatedPublishedDate> 
-<title type="str">Google learns from Pixel launch</title> 
+</TOPICS> 
+<DOCID type="str">695196953616</DOCID> 
+<DCT type="str">2017-01-28T20:01:04Z</DCT> 
+<TITLE type="str">Google learns from Pixel launch</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Muscat, January 28 (QNA) - Oman won the world s 2017 military football championship by defeating</content> 
-<sequenceId type="str">695201348247</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Muscat, January 28 (QNA) - Oman won the world s 2017 military football championship by defeating</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oman news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:02Z</estimatedPublishedDate> 
-<title type="str">Oman Wins World s 2017 Military Football</title> 
+</TOPICS> 
+<DOCID type="str">695201348247</DOCID> 
+<DCT type="str">2017-01-29T08:06:02Z</DCT> 
+<TITLE type="str">Oman Wins World s 2017 Military Football</TITLE> 
 </root>

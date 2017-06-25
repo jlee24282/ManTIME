@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rapper Fredokiss has fired shots at educated people for their failure to positively contribute towards Malawi which has left the country in tatters. 
+<TEXT type="str">Rapper Fredokiss has fired shots at educated people for their failure to positively contribute towards Malawi which has left the country in tatters. 
 
 Fredo, a graduate of the University of Malawi, believes the country needs God’s intervention and not academic papers if it is to prosper. He expressed his views in a Facebook post on Saturday. 
 
@@ -30,9 +30,8 @@ Website
 
 Notify me of follow-up comments by email. 
 
-Notify me of new posts by email.</content> 
-<sequenceId type="str">695200740511</sequenceId> 
-<topics type="list"> 
+Notify me of new posts by email.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -45,7 +44,8 @@ Notify me of new posts by email.</content>
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:46Z</estimatedPublishedDate> 
-<title type="str">Educated people have done nothing for Malawi – Fredokiss</title> 
+</TOPICS> 
+<DOCID type="str">695200740511</DOCID> 
+<DCT type="str">2017-01-29T07:46:46Z</DCT> 
+<TITLE type="str">Educated people have done nothing for Malawi – Fredokiss</TITLE> 
 </root>

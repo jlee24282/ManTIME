@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">I have a entity-component-based game engine.   
+<TEXT type="str">I have a entity-component-based game engine.   
  
 There are many systems, e.g. System_A , System_B ,... all derived from SystemDefault . 
  
@@ -113,14 +113,14 @@ or (1A only)
 There are a lot of memory pool resources in the internet, but none mention how to use it in practice. 
  
 Here is what I read:- 
- Are we out of memory?                   (a popular article)  C++: Custom memory allocation    (very long, provide usable code)</content> 
-<sequenceId type="str">695194706242</sequenceId> 
-<topics type="list"> 
+ Are we out of memory?                   (a popular article)  C++: Custom memory allocation    (very long, provide usable code)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:04Z</estimatedPublishedDate> 
-<title type="str">Apply memory management &quot;Alloc()&quot; in **real** practice</title> 
+</TOPICS> 
+<DOCID type="str">695194706242</DOCID> 
+<DCT type="str">2017-01-29T07:14:04Z</DCT> 
+<TITLE type="str">Apply memory management &quot;Alloc()&quot; in **real** practice</TITLE> 
 </root>

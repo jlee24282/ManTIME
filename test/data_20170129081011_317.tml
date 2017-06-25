@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Premier League Tournament Tier A, Plate Championship: Moors Sports Club v Bloomfield Cricket and Athletic Club at Kaluthara, Jan 27-29, 2017 
+<TEXT type="str">Premier League Tournament Tier A, Plate Championship: Moors Sports Club v Bloomfield Cricket and Athletic Club at Kaluthara, Jan 27-29, 2017 
          
 Bloomfield 
  
 Moors Sports Club 
  
-Bloomfield Cricket and Athletic Club trail by 156 runs with 10 wickets remaining</content> 
-<sequenceId type="str">695202382421</sequenceId> 
-<topics type="list"> 
+Bloomfield Cricket and Athletic Club trail by 156 runs with 10 wickets remaining</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -17,7 +16,8 @@ Bloomfield Cricket and Athletic Club trail by 156 runs with 10 wickets remaining
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:24Z</estimatedPublishedDate> 
-<title type="str">Moors Sports Club 371/10  v Bloomfield Cricket and Athletic Club 55 &amp;  152/10 *</title> 
+</TOPICS> 
+<DOCID type="str">695202382421</DOCID> 
+<DCT type="str">2017-01-29T08:13:24Z</DCT> 
+<TITLE type="str">Moors Sports Club 371/10  v Bloomfield Cricket and Athletic Club 55 &amp;  152/10 *</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The New England Patriots are in the Super Bowl for the ninth time in the last 31 years, chasing their fifth championship next weekend in Houston. 
+<TEXT type="str">The New England Patriots are in the Super Bowl for the ninth time in the last 31 years, chasing their fifth championship next weekend in Houston. 
  
 No coach or player in the current NFL could have a more palpable been-here-before feeling than Bill Belichick and Tom Brady. All four of their Super Bowl victories have come since the 2001 season with that venerable coach-quarterback pair, with this their seventh appearance together. 
  
@@ -24,9 +24,8 @@ FOREVER YOUNG: Sometimes the result on the field mirrors the imbalance in histor
  
 Steve Young threw six touchdown passes, still a Super Bowl record. He found Jerry Rice for a 44-yard score just three plays into the game against a Chargers team making its only Super Bowl appearance. 
  
-WORTH MENTIONING: Pittsburgh Penguins beat San Jose Sharks in 2016 Stanley Cup finals. North Carolina beats Illinois in 2005 NCAA basketball championship game. Los Angeles Lakers beat Indiana Pacers in 2000 NBA finals. St. Louis Cardinals beat Milwaukee Brewers in 1982 World Series.</content> 
-<sequenceId type="str">695199399763</sequenceId> 
-<topics type="list"> 
+WORTH MENTIONING: Pittsburgh Penguins beat San Jose Sharks in 2016 Stanley Cup finals. North Carolina beats Illinois in 2005 NCAA basketball championship game. Los Angeles Lakers beat Indiana Pacers in 2000 NBA finals. St. Louis Cardinals beat Milwaukee Brewers in 1982 World Series.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Arizona Cardinals news</name> 
@@ -59,7 +58,8 @@ WORTH MENTIONING: Pittsburgh Penguins beat San Jose Sharks in 2016 Stanley Cup f
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:50:00Z</estimatedPublishedDate> 
-<title type="str">Super Bowl: Patriots are latest of trophy inequity</title> 
+</TOPICS> 
+<DOCID type="str">695199399763</DOCID> 
+<DCT type="str">2017-01-29T06:50:00Z</DCT> 
+<TITLE type="str">Super Bowl: Patriots are latest of trophy inequity</TITLE> 
 </root>

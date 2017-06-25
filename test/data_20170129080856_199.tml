@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">. She was born May 9, 1956, in Coffeyville, Kan. She was a banker and worked for BanCorp South. 
+<TEXT type="str">. She was born May 9, 1956, in Coffeyville, Kan. She was a banker and worked for BanCorp South. 
  
 Memorial service will be 10:30 a.m. Wednesday at Woodlawn Memorial Park Chapel. Cremation is under the direction of Fentress Mortuary. 
  
@@ -8,9 +8,8 @@ She is survived by a daughter, Katie Roper of Greenwood; a son, Shaun Smith of F
  
 Visitation will be 5:30–7 p.m. Tuesday at the funeral home. 
  
-Memorials may be sent to the American Cancer Society Northwest Arkansas Office, 5434 Walsh Ln, Suite 100, Rogers, AR 72758, or at http://www.cancer.org/</content> 
-<sequenceId type="str">695199286347</sequenceId> 
-<topics type="list"> 
+Memorials may be sent to the American Cancer Society Northwest Arkansas Office, 5434 Walsh Ln, Suite 100, Rogers, AR 72758, or at http://www.cancer.org/</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -19,7 +18,8 @@ Memorials may be sent to the American Cancer Society Northwest Arkansas Office,�
 <group type="str">Society</group> 
 <name type="str">Obituaries</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:01:00Z</estimatedPublishedDate> 
-<title type="str">Sandra Smith</title> 
+</TOPICS> 
+<DOCID type="str">695199286347</DOCID> 
+<DCT type="str">2017-01-29T05:01:00Z</DCT> 
+<TITLE type="str">Sandra Smith</TITLE> 
 </root>

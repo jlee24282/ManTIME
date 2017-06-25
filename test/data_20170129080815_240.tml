@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Octavio Spencer was a massive fan of the late King of Pop Michael Jackson and has revealed she used to send him fan mail and once got a poster back from the &apos;Thriller&apos; hitmaker.</content> 
-<sequenceId type="str">695197504962</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Octavio Spencer was a massive fan of the late King of Pop Michael Jackson and has revealed she used to send him fan mail and once got a poster back from the &apos;Thriller&apos; hitmaker.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: pop music news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:04Z</estimatedPublishedDate> 
-<title type="str">Octavia Spencer sent letters to idol Michael Jackson</title> 
+</TOPICS> 
+<DOCID type="str">695197504962</DOCID> 
+<DCT type="str">2017-01-29T06:00:04Z</DCT> 
+<TITLE type="str">Octavia Spencer sent letters to idol Michael Jackson</TITLE> 
 </root>

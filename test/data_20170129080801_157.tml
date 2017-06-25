@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Jay Paris ,  
+<TEXT type="str">By Jay Paris ,  
  
 SAN DIEGO — Gian Clavell had the ball in his hands with Colorado State trailing in the final seconds against San Diego State on Saturday night, and Rams coach Larry Eustachy couldn’t have been happier. 
  
@@ -54,9 +54,8 @@ UP NEXT
  
 San Diego State hosts Wyoming on Tuesday. 
  
-Colorado State hosts Boise State on Tuesday.</content> 
-<sequenceId type="str">695197041871</sequenceId> 
-<topics type="list"> 
+Colorado State hosts Boise State on Tuesday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Diego news</name> 
@@ -69,7 +68,8 @@ Colorado State hosts Boise State on Tuesday.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:35Z</estimatedPublishedDate> 
-<title type="str">Gian Clavell scores with 3.8 left; Colorado State edges SDSU</title> 
+</TOPICS> 
+<DOCID type="str">695197041871</DOCID> 
+<DCT type="str">2017-01-29T07:27:35Z</DCT> 
+<TITLE type="str">Gian Clavell scores with 3.8 left; Colorado State edges SDSU</TITLE> 
 </root>

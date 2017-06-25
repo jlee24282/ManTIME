@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
+<TEXT type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
   
 Not many superlatives were needed to describe the University of New Mexico women’s basketball team’s performance against Nevada on Saturday night. 
  
@@ -50,9 +50,8 @@ The NAIA Eagles (11-14) feature 13 players from New Mexico, including leading sc
  
 All tickets for today’s contest will be $2. 
  
-Click here for Saturday night’s box score.</content> 
-<sequenceId type="str">695201449054</sequenceId> 
-<topics type="list"> 
+Click here for Saturday night’s box score.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -61,7 +60,8 @@ Click here for Saturday night’s box score.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:41Z</estimatedPublishedDate> 
-<title type="str">Lobo women get a win that’s &quot;not pretty&quot;</title> 
+</TOPICS> 
+<DOCID type="str">695201449054</DOCID> 
+<DCT type="str">2017-01-29T08:06:41Z</DCT> 
+<TITLE type="str">Lobo women get a win that’s &quot;not pretty&quot;</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">| The ongoing revelations about the president’s potential vulnerability to Russian influence are unprecedented. My personal professional experience may help to place this in some context.
+<TEXT type="str">| The ongoing revelations about the president’s potential vulnerability to Russian influence are unprecedented. My personal professional experience may help to place this in some context.
 
 I served for 30 years in the U.S. Foreign Service, from 1970 to 2000. During that time, my colleagues and I witnessed the transitions of six U.S. presidents and at least eight secretaries of state. I served at three embassies and two consulates on three continents. I worked with intelligence officers at every post, and I think it will be useful to offer a brief description of that function at a U.S. overseas mission.
 
@@ -18,9 +18,8 @@ Regarding sources, I’m amazed at the reluctance to understand why such sources
 
 If any of this sets off alarm bells, it should. For a foreign intelligence officer, compromising a senior U.S. government official, let alone the head of state, would be considered a virtual fantasy. But what I have described above is the precise work that Vladimir Putin did for 30 years.
 
-Dean Dizikes worked for three decades in the U.S. foreign service, serving in embassies in Germany, Iran and other countries. He lives in Petaluma.</content> 
-<sequenceId type="str">695202785503</sequenceId> 
-<topics type="list"> 
+Dean Dizikes worked for three decades in the U.S. foreign service, serving in embassies in Germany, Iran and other countries. He lives in Petaluma.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -29,7 +28,8 @@ Dean Dizikes worked for three decades in the U.S. foreign service, serving in em
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Close to Home: The risk of getting too cozy with Russia</title> 
+</TOPICS> 
+<DOCID type="str">695202785503</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Close to Home: The risk of getting too cozy with Russia</TITLE> 
 </root>

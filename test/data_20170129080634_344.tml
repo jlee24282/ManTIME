@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The former world No 1 missed the cut at the Farmers Insurance Open on Friday – his first PGA Tour appearance in 17 months. The American golfer’s next stop? Dubai.
+<TEXT type="str">The former world No 1 missed the cut at the Farmers Insurance Open on Friday – his first PGA Tour appearance in 17 months. The American golfer’s next stop? Dubai.
 
 Comeback kid 
 
@@ -18,9 +18,8 @@ Augusta build-up
 
 Beginning in Dubai, Woods is playing three times in the next four weeks as he steps up preparation for the Masters on April 6 – the year’s first major. A four-time winner at Augusta, he was generally pleased with his progress at Torrey Pines, saying: &quot;I felt I made some nice strides, just wish I could be playing the weekend because I really love this course. I need to get more rounds under my belt. Just like everybody, I’m trying to get ready for that first week in April.&quot;
 
-jmcauley@thenational.ae</content> 
-<sequenceId type="str">695194160904</sequenceId> 
-<topics type="list"> 
+jmcauley@thenational.ae</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -29,7 +28,8 @@ jmcauley@thenational.ae</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: golf news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:32Z</estimatedPublishedDate> 
-<title type="str">Tiger Woods heads for Omega Dubai Desert Classic after missed cut at Torrey Pines</title> 
+</TOPICS> 
+<DOCID type="str">695194160904</DOCID> 
+<DCT type="str">2017-01-29T07:13:32Z</DCT> 
+<TITLE type="str">Tiger Woods heads for Omega Dubai Desert Classic after missed cut at Torrey Pines</TITLE> 
 </root>

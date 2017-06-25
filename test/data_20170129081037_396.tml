@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Published in Political News 
+<TEXT type="str">Published in Political News 
 
 Subscribe 
 
@@ -60,9 +60,8 @@ WASHINGTON -- President Donald Trump has instructed the Pentagon to carry out a 
 
 Political News / January 27, 2017 
 
-WASHINGTON -- President Donald Trump&apos;s liberal use of executive orders that combine imperial theater with real-world White House clout are spurring mixed emotions among conservative scholars and veterans of past GOP ...Read More</content> 
-<sequenceId type="str">695203157585</sequenceId> 
-<topics type="list"> 
+WASHINGTON -- President Donald Trump&apos;s liberal use of executive orders that combine imperial theater with real-world White House clout are spurring mixed emotions among conservative scholars and veterans of past GOP ...Read More</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -71,7 +70,8 @@ WASHINGTON -- President Donald Trump&apos;s liberal use of executive orders that
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:17Z</estimatedPublishedDate> 
-<title type="str">Analysis: For Trump, a first week both normal and far from it</title> 
+</TOPICS> 
+<DOCID type="str">695203157585</DOCID> 
+<DCT type="str">2017-01-29T08:19:17Z</DCT> 
+<TITLE type="str">Analysis: For Trump, a first week both normal and far from it</TITLE> 
 </root>

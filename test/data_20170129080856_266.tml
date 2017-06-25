@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Once upon a time, the thought of gambling on a pro football game brought gasps of indignation from the NFL offices. And swift action if it was a player who actually placed a bet. 
+<TEXT type="str">Once upon a time, the thought of gambling on a pro football game brought gasps of indignation from the NFL offices. And swift action if it was a player who actually placed a bet. 
  
 Paul Hornung and Alex Karras each were suspended for the 1963 season for gambling on NFL games. When the league suspended Art Schlichter in 1983, then-commissioner Pete Rozelle said the quarterback would not be reinstated “until the league can be solidly assured that the serious violations of cardinal NFL rules he has committed will not be repeated.” 
  
@@ -40,9 +40,8 @@ But how it acts?
  
 When the Raiders moving van backs into that new stadium in the shadow of the Strip, it will mark as sure a sign as ever that the league doesn’t view gambling as the threat it once was. 
  
-“The NFL and people broadcasting the NFL are recognizing that gambling is part of the game,” Starn said. “It’s also a little difficult for them to get on a high moral horse about Las Vegas when it’s so obvious that so much interest in the NFL is driven by gambling and fantasy football.”</content> 
-<sequenceId type="str">695199394711</sequenceId> 
-<topics type="list"> 
+“The NFL and people broadcasting the NFL are recognizing that gambling is part of the game,” Starn said. “It’s also a little difficult for them to get on a high moral horse about Las Vegas when it’s so obvious that so much interest in the NFL is driven by gambling and fantasy football.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -55,7 +54,8 @@ When the Raiders moving van backs into that new stadium in the shadow of the Str
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:50:00Z</estimatedPublishedDate> 
-<title type="str">NFL: Views toward gambling have eased up</title> 
+</TOPICS> 
+<DOCID type="str">695199394711</DOCID> 
+<DCT type="str">2017-01-29T06:50:00Z</DCT> 
+<TITLE type="str">NFL: Views toward gambling have eased up</TITLE> 
 </root>

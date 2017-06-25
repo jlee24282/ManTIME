@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new race to space is on this year — a private-sector one, among the five finalists in the Google Lunar XPRIZE competition. 
+<TEXT type="str">A new race to space is on this year — a private-sector one, among the five finalists in the Google Lunar XPRIZE competition. 
  
 To stay in the race, each team must initiate its moon launch by Dec. 31, 2017. To win, its craft must land on luna — and a probe must move at least 500 meters (1,640 feet) and send hi-resolution images of its exploration back to earth. 
  
@@ -19,14 +19,14 @@ Established in 2007, the competition is meant to push a lowering of the cost of 
 Once this competition is won, it’ll be time for a race to get live astronauts back to luna: It’s been far too long (45 years!) since the late Gene Cernan walked on the moon. 
  
 Government programs alone will never establish a real human presence off-planet: That will require a private sector that can make it pay. The Google Lunar XPRIZE promises a giant step toward that brilliant future. 
-  Share this</content> 
-<sequenceId type="str">695204685951</sequenceId> 
-<topics type="list"> 
+  Share this</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Space science news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:41Z</estimatedPublishedDate> 
-<title type="str">The new space race: Private moon launches by Dec. 31</title> 
+</TOPICS> 
+<DOCID type="str">695204685951</DOCID> 
+<DCT type="str">2017-01-29T08:29:41Z</DCT> 
+<TITLE type="str">The new space race: Private moon launches by Dec. 31</TITLE> 
 </root>

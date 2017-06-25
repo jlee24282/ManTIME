@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695194158715</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Microsoft news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:08:16Z</estimatedPublishedDate> 
-<title type="str">Bill Gates&apos; 3 Secrets to Extraordinary Success</title> 
+</TOPICS> 
+<DOCID type="str">695194158715</DOCID> 
+<DCT type="str">2017-01-29T07:08:16Z</DCT> 
+<TITLE type="str">Bill Gates&apos; 3 Secrets to Extraordinary Success</TITLE> 
 </root>

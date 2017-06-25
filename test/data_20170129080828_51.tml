@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON - The robots of the future will be coming soon, rolling along at a lumbering pace with those goods you just ordered.
+<TEXT type="str">WASHINGTON - The robots of the future will be coming soon, rolling along at a lumbering pace with those goods you just ordered.
 
 The six-wheeled, knee-high robots from startup Starship Technologies are part of a new wave of automated systems taking aim at the &quot;last mile&quot; delivery of goods to consumers.
 
@@ -52,9 +52,8 @@ Harris-Burland said the company&apos;s tests so far in Europe have shown the sys
 
 The lids of the devices are locked until the customer opens it with a smartphone. If anyone tries to steal it, an alarm will sound, and if it is hijacked the company can track it &quot;to the nearest inch,&quot; he said.
 
-AFP</content> 
-<sequenceId type="str">695197858087</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Robotics news</name> 
@@ -63,7 +62,8 @@ AFP</content>
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:00Z</estimatedPublishedDate> 
-<title type="str">New wave of robots set to deliver the goods</title> 
+</TOPICS> 
+<DOCID type="str">695197858087</DOCID> 
+<DCT type="str">2017-01-29T07:36:00Z</DCT> 
+<TITLE type="str">New wave of robots set to deliver the goods</TITLE> 
 </root>

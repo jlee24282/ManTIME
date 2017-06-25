@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump&apos;s travel ban barring citizens of seven predominantly Muslim nations entry into the U.S. has sparked protests around the country. 
+<TEXT type="str">President Donald Trump&apos;s travel ban barring citizens of seven predominantly Muslim nations entry into the U.S. has sparked protests around the country. 
  
 A look at what is happening: 
  
@@ -105,9 +105,8 @@ As motorists honked their support, demonstrators outside San Diego International
    
 Success! An email has been sent with a link to confirm list signup. 
    
-Error! There was an error processing your request.</content> 
-<sequenceId type="str">695200215027</sequenceId> 
-<topics type="list"> 
+Error! There was an error processing your request.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -128,7 +127,8 @@ Error! There was an error processing your request.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:05Z</estimatedPublishedDate> 
-<title type="str">Protests erupt at airports following Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695200215027</DOCID> 
+<DCT type="str">2017-01-29T07:28:05Z</DCT> 
+<TITLE type="str">Protests erupt at airports following Trump travel ban</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump’s sweeping ban on people from seven Muslim-majority countries has sparked confusion and anger at major US airports. 
+<TEXT type="str">President Donald Trump’s sweeping ban on people from seven Muslim-majority countries has sparked confusion and anger at major US airports. 
  
 Protests erupted Saturday at airports in Dallas, Chicago, Boston, Los Angeles, New York and elsewhere after border agents began detaining refugees and immigrants who arrived in the country a day after Trump issued an executive order reshaping the US refugee and immigration policy. 
  
@@ -10,9 +10,8 @@ People who were already mid-flight were detained upon arrival at international a
  
 Families anxiously waited to learn the fate of their loved ones at terminals, while protesters chanted “let them in” and “this is… 
   
-Read more</content> 
-<sequenceId type="str">695203090383</sequenceId> 
-<topics type="list"> 
+Read more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -33,7 +32,8 @@ Read more</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:04Z</estimatedPublishedDate> 
-<title type="str">Trump’s sweeping Muslim ban sparks protests at US airports</title> 
+</TOPICS> 
+<DOCID type="str">695203090383</DOCID> 
+<DCT type="str">2017-01-29T08:13:04Z</DCT> 
+<TITLE type="str">Trump’s sweeping Muslim ban sparks protests at US airports</TITLE> 
 </root>

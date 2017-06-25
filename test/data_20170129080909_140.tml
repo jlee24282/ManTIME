@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Blake Flippe and Mike Stenhouse 
+<TEXT type="str">Blake Flippe and Mike Stenhouse 
 
 This week on ABC6&apos;s &quot;In the Arena&quot; a vigorous discussion about Rhode Island&apos;s corruption.
 
 This week&apos;s show features former Providence Mayor and moderator Joe Paolino and panelists: State Representative Blake Flippe, head of the RI Center for Freedom and Prosperity Mike Stenhouse, former State Representative Ray Rickman, and GoLocal CEO Josh Fenton.
 
-In addition to a discussion about corruption, the panel takes on the proposed Amtrak expansion across South County.</content> 
-<sequenceId type="str">695199794202</sequenceId> 
-<topics type="list"> 
+In addition to a discussion about corruption, the panel takes on the proposed Amtrak expansion across South County.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Providence news</name> 
@@ -21,7 +20,8 @@ In addition to a discussion about corruption, the panel takes on the proposed Am
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:00Z</estimatedPublishedDate> 
-<title type="str">Politics | ABC6’s “In The Arena” - How Corrupt is RI?</title> 
+</TOPICS> 
+<DOCID type="str">695199794202</DOCID> 
+<DCT type="str">2017-01-29T07:30:00Z</DCT> 
+<TITLE type="str">Politics | ABC6’s “In The Arena” - How Corrupt is RI?</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Pineapple buns with cream, BBQ pork buns and grilled squid are among the delicacies hitting the road from Thursday when Hong Kong’s much awaited food truck project comes to fruition. Will it be a hit or a miss? 
+<TEXT type="str">Pineapple buns with cream, BBQ pork buns and grilled squid are among the delicacies hitting the road from Thursday when Hong Kong’s much awaited food truck project comes to fruition. Will it be a hit or a miss? 
  
 What is it? 
  
@@ -38,9 +38,8 @@ Critics said smaller players could balk at the cost as the government estimated 
  
 There was also criticism the government’s red tape meant a lengthy process to win approval. Licences from several different government departments are needed to run a food truck. 
  
-Others questioned the representation of food, with local snacks such as fish balls, wonton noodles and deep-fried bean curd left off the menus.</content> 
-<sequenceId type="str">695198337706</sequenceId> 
-<topics type="list"> 
+Others questioned the representation of food, with local snacks such as fish balls, wonton noodles and deep-fried bean curd left off the menus.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -53,7 +52,8 @@ Others questioned the representation of food, with local snacks such as fish bal
 <group type="str">Regional</group> 
 <name type="str">Hong Kong news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:29Z</estimatedPublishedDate> 
-<title type="str">Food truck scheme set for launch at eight Hong Kong tourist spots</title> 
+</TOPICS> 
+<DOCID type="str">695198337706</DOCID> 
+<DCT type="str">2017-01-29T07:35:29Z</DCT> 
+<TITLE type="str">Food truck scheme set for launch at eight Hong Kong tourist spots</TITLE> 
 </root>

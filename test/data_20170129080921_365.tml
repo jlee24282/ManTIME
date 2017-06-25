@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FOUR 19th century shipwrecks have been discovered by a crew aboard a luxury super yacht after it departed Bundaberg.
+<TEXT type="str">FOUR 19th century shipwrecks have been discovered by a crew aboard a luxury super yacht after it departed Bundaberg.
 
 The wrecks were found 500km off the Queensland coast in the Kenn Reefs.
 
@@ -40,9 +40,8 @@ In January 2009 the team found and identified the colonial government schooner M
 
 Photos View Photo Gallery SILENTWORLD
 
-The 40m luxury vessel was built in Spain in 2006.The yacht can take up to 12 people and eight crew. Features include a full-size jacuzzi, sun deck with teak lounges, cherry wood floors in the main salon and upper deck, marble floors in the bathrooms, a VIP cabin on the upper deck, two seabobs, ski tubes, wakeboards, paddleboards, kayaks, snorkelling and scuba equipment and fishing gear.</content> 
-<sequenceId type="str">695200505969</sequenceId> 
-<topics type="list"> 
+The 40m luxury vessel was built in Spain in 2006.The yacht can take up to 12 people and eight crew. Features include a full-size jacuzzi, sun deck with teak lounges, cherry wood floors in the main salon and upper deck, marble floors in the bathrooms, a VIP cabin on the upper deck, two seabobs, ski tubes, wakeboards, paddleboards, kayaks, snorkelling and scuba equipment and fishing gear.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -51,7 +50,8 @@ The 40m luxury vessel was built in Spain in 2006.The yacht can take up to 12 peo
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:33Z</estimatedPublishedDate> 
-<title type="str">Research team finds four shipwrecks after leaving Bundy</title> 
+</TOPICS> 
+<DOCID type="str">695200505969</DOCID> 
+<DCT type="str">2017-01-29T08:00:33Z</DCT> 
+<TITLE type="str">Research team finds four shipwrecks after leaving Bundy</TITLE> 
 </root>

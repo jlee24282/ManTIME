@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Private companies will be involved in the project, which will also train convicted felons to raise cattle 
+<TEXT type="str">Private companies will be involved in the project, which will also train convicted felons to raise cattle 
  
 JAKARTA — The Indonesian government is planning to develop Nusakambangan, the notorious prison island that houses some of the country’s most fearsome criminals, into a cattle farm next year. 
  
@@ -32,9 +32,8 @@ This year alone Indonesia will need 3.3 million cattle for slaughter, according 
  
 The government’s ban on beef import under a self-sufficiency programme backfired a few years ago as it created a massive beef shortage in the market and forced farmers to slaughter breeding cows to meet demand. 
  
-President Joko Widodo has set a new target of beef self-sufficiency by 2026. Meanwhile, the government plans to bring in more breeding cows from abroad to replenish the domestic population. THE JAKARTA GLOBE</content> 
-<sequenceId type="str">695194889140</sequenceId> 
-<topics type="list"> 
+President Joko Widodo has set a new target of beef self-sufficiency by 2026. Meanwhile, the government plans to bring in more breeding cows from abroad to replenish the domestic population. THE JAKARTA GLOBE</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Indonesia news</name> 
@@ -51,7 +50,8 @@ President Joko Widodo has set a new target of beef self-sufficiency by 2026. Mea
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:02Z</estimatedPublishedDate> 
-<title type="str">Indonesia’s grand prison plan: Turn penal island into a cattle farm</title> 
+</TOPICS> 
+<DOCID type="str">695194889140</DOCID> 
+<DCT type="str">2017-01-29T07:19:02Z</DCT> 
+<TITLE type="str">Indonesia’s grand prison plan: Turn penal island into a cattle farm</TITLE> 
 </root>

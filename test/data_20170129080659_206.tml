@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As lawmakers joined protests against legal permanent U.S. residents and those with visas or refugee status being detained at U.S. airports, a federal judge issued an emergency stay against President Trump&apos;s executive order. 
+<TEXT type="str">As lawmakers joined protests against legal permanent U.S. residents and those with visas or refugee status being detained at U.S. airports, a federal judge issued an emergency stay against President Trump&apos;s executive order. 
  
 That order , issued Friday, stopped entrance to the United States from a handful of Muslim-majority countries -- Iraq, Iran, Libya, Somalia, Sudan, Syria and Yemen -- and froze the refugee resettlement program. 
  
@@ -16,9 +16,8 @@ Donnelly based her stay of Trump&apos;s order on &quot;strong likelihood of succ
  
 There were two more federal cases: In Washington state, U.S. District Judge Thomas Zilly ordered the government to not deport two unnamed people pending a Feb. 3 hearing. In U.S. District Court for the Eastern District of Virginia, Judge Leonie Brinkema blocked deportations of valid visa-holders for the next seven days and ordered that lawyers be granted access to “all legal permanent residents being detained at Dulles International Airport.&quot; 
  
-Activists reported that hours after the order was issued, CBP still wasn&apos;t granting access to the Dulles detainees. Sen. Cory Booker (D-N.J.) joined protesters at the airport</content> 
-<sequenceId type="str">695194754235</sequenceId> 
-<topics type="list"> 
+Activists reported that hours after the order was issued, CBP still wasn&apos;t granting access to the Dulles detainees. Sen. Cory Booker (D-N.J.) joined protesters at the airport</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -31,7 +30,8 @@ Activists reported that hours after the order was issued, CBP still wasn&apos;t 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:50Z</estimatedPublishedDate> 
-<title type="str">Judge Blocks Trump Order After Detentions at Airports</title> 
+</TOPICS> 
+<DOCID type="str">695194754235</DOCID> 
+<DCT type="str">2017-01-29T07:17:50Z</DCT> 
+<TITLE type="str">Judge Blocks Trump Order After Detentions at Airports</TITLE> 
 </root>

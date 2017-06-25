@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Filling up your tank and buying cigarettes could soon mean taking slightly more out of your wallet. 
+<TEXT type="str">Filling up your tank and buying cigarettes could soon mean taking slightly more out of your wallet. 
 
 That’s because Republicans at the Indiana Legislature are discussing doing something they rarely do: raising taxes. 
 
@@ -68,9 +68,8 @@ State Sen. Luke Kenley, a Republican from Noblesville who chairs the Senate Appr
 
 Those retailers currently don’t have to charge sales tax, which studies have shown resulted in a revenue loss of anywhere from $77 million to $195 million in 2012. 
 
-Kenley has authored a bill that would require remote sellers to collect and remit sales tax if their gross annual revenue from sales into Indiana is more than $100,000 or if they make sales into Indiana in more than 200 separate transactions.</content> 
-<sequenceId type="str">695198386980</sequenceId> 
-<topics type="list"> 
+Kenley has authored a bill that would require remote sellers to collect and remit sales tax if their gross annual revenue from sales into Indiana is more than $100,000 or if they make sales into Indiana in more than 200 separate transactions.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Tobacco industry news</name> 
@@ -87,7 +86,8 @@ Kenley has authored a bill that would require remote sellers to collect and remi
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Gas, cigarette tax increases could be on the way</title> 
+</TOPICS> 
+<DOCID type="str">695198386980</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Gas, cigarette tax increases could be on the way</TITLE> 
 </root>

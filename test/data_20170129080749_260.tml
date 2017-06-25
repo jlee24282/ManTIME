@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Kia Motors America is motoring with the idea of affordable luxury. As executed in the 2017 Kia Cadenza Limited sedan, it is more than a good marketing strategy. It is an approach to the U.S. car market that could upset traditional notions of automotive luxury and serve notice to the likes of Infiniti, Lexus and - yes - even BMW and Mercedes-Benz. 
+<TEXT type="str">By Kia Motors America is motoring with the idea of affordable luxury. As executed in the 2017 Kia Cadenza Limited sedan, it is more than a good marketing strategy. It is an approach to the U.S. car market that could upset traditional notions of automotive luxury and serve notice to the likes of Infiniti, Lexus and - yes - even BMW and Mercedes-Benz. 
  
 We are talking in terms of exterior beauty, interior materials and design, structural integrity, and advanced electronic safety and driver assistance technology. 
  
@@ -38,9 +38,8 @@ Mileage: I averaged 22 miles per gallon combined city-highway with lots of idlin
  
 Safety: Standard equipment includes ventilated front disc and solid rear disc brakes; four-wheel anti-lock brake protection; emergency braking assistance; stability and traction control; blind side monitoring and lane-departure warning; post-collision and pre-collision safety systems; side and head air bags. 
  
-Pricing: The 2017 Kia Cadenza Limited starts at $44,390. Price as tested is $45,290, including $900 factory-to-dealer shipment charge.</content> 
-<sequenceId type="str">695196750940</sequenceId> 
-<topics type="list"> 
+Pricing: The 2017 Kia Cadenza Limited starts at $44,390. Price as tested is $45,290, including $900 factory-to-dealer shipment charge.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Hyundai Motor Company news</name> 
@@ -49,7 +48,8 @@ Pricing: The 2017 Kia Cadenza Limited starts at $44,390. Price as tested is $45,
 <group type="str">Companies</group> 
 <name type="str">Volkswagen news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">&apos;Affordable luxury&apos; gets real with Kia&apos;s Cadenza</title> 
+</TOPICS> 
+<DOCID type="str">695196750940</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">&apos;Affordable luxury&apos; gets real with Kia&apos;s Cadenza</TITLE> 
 </root>

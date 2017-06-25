@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  0.45% 
+<TEXT type="str">  0.45% 
  
   SENSEX   27,882.50   0.63% 
  
@@ -26,9 +26,8 @@
  
   NASDAQ   5,660.78   0.10% 
  
-  S&amp;P 500   2,294.69   -</content> 
-<sequenceId type="str">695197567550</sequenceId> 
-<topics type="list"> 
+  S&amp;P 500   2,294.69   -</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -41,7 +40,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:29Z</estimatedPublishedDate> 
-<title type="str">Japanese PM to meet Trump in February</title> 
+</TOPICS> 
+<DOCID type="str">695197567550</DOCID> 
+<DCT type="str">2017-01-29T07:38:29Z</DCT> 
+<TITLE type="str">Japanese PM to meet Trump in February</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donald Trump | Image: ABC News 
+<TEXT type="str">Donald Trump | Image: ABC News 
 
 Protests at US airports but Trump says ban &quot;working nicely&quot; 
 
@@ -28,9 +28,8 @@ There&apos;s been international criticism of the ban, but Mr Trump is standing b
 
 Organisers of the Oscars say it&apos;s &quot;extremely troubling&quot; that the makers of an Iranian film nominated for an award may not be allowed into the US. 
 
-Asghar Farhadi&apos;s movie The Salesman is up for best foreign language film at next month&apos;s ceremony in Los Angeles.</content> 
-<sequenceId type="str">695200339648</sequenceId> 
-<topics type="list"> 
+Asghar Farhadi&apos;s movie The Salesman is up for best foreign language film at next month&apos;s ceremony in Los Angeles.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -39,7 +38,8 @@ Asghar Farhadi&apos;s movie The Salesman is up for best foreign language film at
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:10Z</estimatedPublishedDate> 
-<title type="str">US court overturns part of Trump &quot;Muslim Ban&quot;</title> 
+</TOPICS> 
+<DOCID type="str">695200339648</DOCID> 
+<DCT type="str">2017-01-29T07:59:10Z</DCT> 
+<TITLE type="str">US court overturns part of Trump &quot;Muslim Ban&quot;</TITLE> 
 </root>

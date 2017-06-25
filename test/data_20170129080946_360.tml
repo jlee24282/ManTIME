@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Casablanca - Arab Today   
+<TEXT type="str">Casablanca - Arab Today   
 The Emir of a terrorist cell dismantled earlier this week was arrested on Friday in the city of El-Jadida. A video glorifying his aborted attack was discovered in his hideout. 
  
 Morocco’s Central Bureau of Judicial Investigation (BCIJ) dismantled an ISIS -Affiliated cell that was planning to carry out a dangerous attack in the city of E-Jadida. The Emir of the so-called Moroccan branch of ISIS was arrested on Friday by agents of the BCIJ in El-Jadida. 
@@ -14,9 +14,8 @@ According to French-language news source, Le360, these photos are part of the pr
  
 The same source adds that the video ends with a sentence that reads “do not wait, I will not come back.” At the same time this sentence appears, a song glorifying martyrdom and commonly used in ISIS promotional videos, is heard in the background. 
  
-Source :Morocco World News</content> 
-<sequenceId type="str">695201448017</sequenceId> 
-<topics type="list"> 
+Source :Morocco World News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Morocco news</name> 
@@ -25,7 +24,8 @@ Source :Morocco World News</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:38Z</estimatedPublishedDate> 
-<title type="str">Emir of ISIS-Affiliated Cell Arrested in El-Jadida</title> 
+</TOPICS> 
+<DOCID type="str">695201448017</DOCID> 
+<DCT type="str">2017-01-29T08:06:38Z</DCT> 
+<TITLE type="str">Emir of ISIS-Affiliated Cell Arrested in El-Jadida</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,9 +8,8 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695203504060</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -31,7 +30,8 @@ TIME</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:03Z</estimatedPublishedDate> 
-<title type="str">California Just Threatened To Stop Paying Taxes If Trump Cuts Federal Funding Over Sanctuary City Status</title> 
+</TOPICS> 
+<DOCID type="str">695203504060</DOCID> 
+<DCT type="str">2017-01-29T08:22:03Z</DCT> 
+<TITLE type="str">California Just Threatened To Stop Paying Taxes If Trump Cuts Federal Funding Over Sanctuary City Status</TITLE> 
 </root>

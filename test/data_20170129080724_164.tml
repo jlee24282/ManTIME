@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Real Estate Agent with Berkshire Hathaway HomeServices 01238708 Did you know that Bel Air, CA 90077 has the most expensive home on the market in the entire United States?
+<TEXT type="str">Real Estate Agent with Berkshire Hathaway HomeServices 01238708 Did you know that Bel Air, CA 90077 has the most expensive home on the market in the entire United States?
 
 I am sure by now the word is starting to get out, that nine days ago, in my market, in the Los Angeles Ultra Luxury Real Estate market, we now have the most expensive home available for sale in the United States. The developer who built this home had no intention of living in it. It was built for &quot;spec&quot;. Bruce Makowsky, is the developer who worked tirelessly for the past few years to bring this brand-new home on line, in my market.
 
@@ -24,9 +24,8 @@ On the other hand, if this home does not suit your needs there are other homes i
 
 If none of them meet your specification and would prefer the privacy of almost 25 acres of land, then I have the ideal land to build your ideal home, to your desires. This vacant lot is for sale for only $21.5 million and is directly adjacent to another parcel that is on the market for $1 Billion.
 
-Please check out this video and let’s discuss and determine what is the best choice for your situation. If you are considering buying or selling a home, a luxury home, luxury investment real estate, luxury vacation homes, or luxury beach properties in Southern California, Los Angeles, Century City, Westwood, West Hollywood, Beverly Hills, Marina Del Rey, Venice or Malibu, feel free to contact me at 310.486.1002 (m) or homes@endrebarath.com or visit one of my websites at http://www.endrebarath.com. I am a Pet Friendly Realtor and I contribute a portion of my commission to local animal rescue organizations.</content> 
-<sequenceId type="str">695195756973</sequenceId> 
-<topics type="list"> 
+Please check out this video and let’s discuss and determine what is the best choice for your situation. If you are considering buying or selling a home, a luxury home, luxury investment real estate, luxury vacation homes, or luxury beach properties in Southern California, Los Angeles, Century City, Westwood, West Hollywood, Beverly Hills, Marina Del Rey, Venice or Malibu, feel free to contact me at 310.486.1002 (m) or homes@endrebarath.com or visit one of my websites at http://www.endrebarath.com. I am a Pet Friendly Realtor and I contribute a portion of my commission to local animal rescue organizations.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Real estate news</name> 
@@ -39,7 +38,8 @@ Please check out this video and let’s discuss and determine what is the best c
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T23:10:01Z</estimatedPublishedDate> 
-<title type="str">Did you know that Bel Air, CA 90077 has the most expensive home...</title> 
+</TOPICS> 
+<DOCID type="str">695195756973</DOCID> 
+<DCT type="str">2017-01-28T23:10:01Z</DCT> 
+<TITLE type="str">Did you know that Bel Air, CA 90077 has the most expensive home...</TITLE> 
 </root>

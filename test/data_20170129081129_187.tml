@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SIGN UP FOR OUR NEWSLETTER 
+<TEXT type="str">SIGN UP FOR OUR NEWSLETTER 
   California Democrats are going on the offensive, firing the first shot in their pitched battle with President Donald J. Trump, and threatening to “cut off the Feds” by withholding taxes.  
 According to CBS San Francisco , former State Assembly Speaker Willie Brown, Jr. said: “California could very well become an organized non-payer. … They could recommend non-compliance with the federal tax code.” Democrats are considering the tax revolt as part of what CBS San Francisco called an “all-out war” against the Trump administration, which could also include holding back state transfers of funds to the federal government. 
   
@@ -44,9 +44,8 @@ Author,  Patriot Not Politician: Win or Go Homeless
  
 FaceBook:  https://www.facebook.com/tim.donnelly.12/ 
  
-Twitter:   @PatriotNotPol</content> 
-<sequenceId type="str">695204803660</sequenceId> 
-<topics type="list"> 
+Twitter:   @PatriotNotPol</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -67,7 +66,8 @@ Twitter:   @PatriotNotPol</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:01Z</estimatedPublishedDate> 
-<title type="str">California Democrats Threaten to Stop Paying Federal Taxes</title> 
+</TOPICS> 
+<DOCID type="str">695204803660</DOCID> 
+<DCT type="str">2017-01-29T08:26:01Z</DCT> 
+<TITLE type="str">California Democrats Threaten to Stop Paying Federal Taxes</TITLE> 
 </root>

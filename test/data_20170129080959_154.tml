@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MILWAUKEE - Jae Crowder&apos;s mind went quiet in overtime in Boston&apos;s fourth game in five nights.
+<TEXT type="str">MILWAUKEE - Jae Crowder&apos;s mind went quiet in overtime in Boston&apos;s fourth game in five nights.
 
 &quot;No pressure,&quot; he said.
 
@@ -42,9 +42,8 @@ Crowder said it was an important lesson for the Celtics for the future.
 
 Bucks: Parker had a tough night, going 2 for 13 from the field and finishing with four points. ... It was the first game between these two teams. They&apos;ll play twice more this season in Boston on March 29 and April 12. Celtics: Host Detroit on Monday night to begin a four-game homestand.
 
-Bucks: Visit Utah on Wednesday night to start a three-game Western Conference trip.</content> 
-<sequenceId type="str">695201733983</sequenceId> 
-<topics type="list"> 
+Bucks: Visit Utah on Wednesday night to start a three-game Western Conference trip.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Milwaukee Bucks news</name> 
@@ -57,7 +56,8 @@ Bucks: Visit Utah on Wednesday night to start a three-game Western Conference tr
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:45:15Z</estimatedPublishedDate> 
-<title type="str">Crowder, Celtics get OT win over Bucks</title> 
+</TOPICS> 
+<DOCID type="str">695201733983</DOCID> 
+<DCT type="str">2017-01-29T05:45:15Z</DCT> 
+<TITLE type="str">Crowder, Celtics get OT win over Bucks</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Last Waltz 40 Tour 
+<TEXT type="str">The Last Waltz 40 Tour 
  
 WHEN: Thursday, Feb. 2, 8 p.m. 
  
@@ -94,9 +94,8 @@ Reach Gazette reporter Jeff Wilkin at 395-3124 or at wilkin@dailygazette.com or 
  
   
  
- </content> 
-<sequenceId type="str">695197584326</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New Orleans news</name> 
@@ -109,7 +108,8 @@ Reach Gazette reporter Jeff Wilkin at 395-3124 or at wilkin@dailygazette.com or 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">&quot;Last Waltz&quot; a musical dance for Don Was</title> 
+</TOPICS> 
+<DOCID type="str">695197584326</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">&quot;Last Waltz&quot; a musical dance for Don Was</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">No surprises here.</content> 
-<sequenceId type="str">695198263210</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">No surprises here.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:24Z</estimatedPublishedDate> 
-<title type="str">Guess who Sachin Tendulkar is supporting in the Australian Open final between Federer and Nadal?</title> 
+</TOPICS> 
+<DOCID type="str">695198263210</DOCID> 
+<DCT type="str">2017-01-29T07:38:24Z</DCT> 
+<TITLE type="str">Guess who Sachin Tendulkar is supporting in the Australian Open final between Federer and Nadal?</TITLE> 
 </root>

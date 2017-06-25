@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Film festival offers &apos;priceless&apos; film experiences at bargain price 
+<TEXT type="str">Film festival offers &apos;priceless&apos; film experiences at bargain price 
  
 Kudos to Andy Johns and his board and volunteers for the hugely successful fifth annual Lookout Wild Film Festival, which was held at the Memorial Auditorium&apos;s Community Theatre Jan. 19-22. 
  
@@ -108,9 +108,8 @@ We need thoughtful leadership from someone who knows and values public school ed
  
 The only one playing partisan politics is Alexander. He needs to listen, and answer, to the people who elected him to the office he holds, not the president. 
  
-Sara Wood</content> 
-<sequenceId type="str">695199845444</sequenceId> 
-<topics type="list"> 
+Sara Wood</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -123,7 +122,8 @@ Sara Wood</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:54:59Z</estimatedPublishedDate> 
-<title type="str">Film festival offers &apos;priceless&apos; film experiences at bargain price and more letters to the editors</title> 
+</TOPICS> 
+<DOCID type="str">695199845444</DOCID> 
+<DCT type="str">2017-01-29T07:54:59Z</DCT> 
+<TITLE type="str">Film festival offers &apos;priceless&apos; film experiences at bargain price and more letters to the editors</TITLE> 
 </root>

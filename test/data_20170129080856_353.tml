@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Laughlin Supply Company is a clothing company in Potrero, California known for offering some of the best work clothes 
+<TEXT type="str">Laughlin Supply Company is a clothing company in Potrero, California known for offering some of the best work clothes 
 
 BriefingWire.com, 1/29/2017 -   Potrero, California (January 27, 2017) - Work Wear Headquarters is a clothing firm based in Potrero, California offering a range of work clothes 
 
@@ -20,9 +20,8 @@ Laughlin Supply Company
 
 Contact Name: Lonnie Laughlin 
 
-Address: P.O. Box 2 Potrero CA 91963 USA</content> 
-<sequenceId type="str">695199485207</sequenceId> 
-<topics type="list"> 
+Address: P.O. Box 2 Potrero CA 91963 USA</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -31,7 +30,8 @@ Address: P.O. Box 2 Potrero CA 91963 USA</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:43:02Z</estimatedPublishedDate> 
-<title type="str">&quot;The Best Work Clothes You Will Ever Own&quot; Delivered Right to Your Home</title> 
+</TOPICS> 
+<DOCID type="str">695199485207</DOCID> 
+<DCT type="str">2017-01-29T00:43:02Z</DCT> 
+<TITLE type="str">&quot;The Best Work Clothes You Will Ever Own&quot; Delivered Right to Your Home</TITLE> 
 </root>

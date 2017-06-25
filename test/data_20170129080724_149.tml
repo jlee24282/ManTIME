@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695195744333</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:23Z</estimatedPublishedDate> 
-<title type="str">Bangladesh not beneficiary of climate change fund, says Muhith</title> 
+</TOPICS> 
+<DOCID type="str">695195744333</DOCID> 
+<DCT type="str">2017-01-29T07:24:23Z</DCT> 
+<TITLE type="str">Bangladesh not beneficiary of climate change fund, says Muhith</TITLE> 
 </root>

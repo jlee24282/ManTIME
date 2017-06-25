@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sports Breaking | Top News   
+<TEXT type="str">Sports Breaking | Top News   
 By dreardon@staradvertiser.com 
  
 Posted January 28, 2017 
@@ -24,9 +24,8 @@ Heidegger scored 10 points to lead the Gauchos, who shot 29 percent from the flo
 Hawaii led 37-29 at halftime as Allen scored 15 points and UH shot 54 percent from the floor. Green had eight first-half points, including another 3 on a buzzer-beater headed into the break. 
  
 Gabe Vincent scored all nine of his points for UCSB before intermission. 
- Get the latest news by email  Sign Up</content> 
-<sequenceId type="str">695198332154</sequenceId> 
-<topics type="list"> 
+ Get the latest news by email  Sign Up</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -35,7 +34,8 @@ Gabe Vincent scored all nine of his points for UCSB before intermission.
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:42:00Z</estimatedPublishedDate> 
-<title type="str">Basketball ‘Bows rout UCSB</title> 
+</TOPICS> 
+<DOCID type="str">695198332154</DOCID> 
+<DCT type="str">2017-01-29T07:42:00Z</DCT> 
+<TITLE type="str">Basketball ‘Bows rout UCSB</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Webster might not be best known for its weekly flea market much longer. 
+<TEXT type="str">Webster might not be best known for its weekly flea market much longer. 
  
 It could soon be the hometown of a Super Bowl champion. 
  
@@ -60,9 +60,8 @@ One that could put himself … and Webster … on a much-larger map.
  
 “We’ve been trying to treat this as just another game and preparing for it like we would any other opponent,” Neal said. “But, we know it’s not just another game. It’s the Super Bowl. 
  
-“The most important game I’ve ever played in.”</content> 
-<sequenceId type="str">695200530248</sequenceId> 
-<topics type="list"> 
+“The most important game I’ve ever played in.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Atlanta Falcons news</name> 
@@ -79,7 +78,8 @@ One that could put himself … and Webster … on a much-larger map.
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Webster&apos;s Keanu Neal worked hard to get to Super Bowl</title> 
+</TOPICS> 
+<DOCID type="str">695200530248</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Webster&apos;s Keanu Neal worked hard to get to Super Bowl</TITLE> 
 </root>

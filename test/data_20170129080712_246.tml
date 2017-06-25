@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By David Bradley 
+<TEXT type="str">By David Bradley 
    
 Publisher and Editor 
    
@@ -38,9 +38,8 @@ We left the next day at the front end of the Women’s March on Washington, than
    
 David Bradley is chairman and CEO 
    
-of News-Press &amp; Gazette Co. and publisher and editor of the St. Joseph News-Press.</content> 
-<sequenceId type="str">695195315713</sequenceId> 
-<topics type="list"> 
+of News-Press &amp; Gazette Co. and publisher and editor of the St. Joseph News-Press.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -49,7 +48,8 @@ of News-Press &amp; Gazette Co. and publisher and editor of the St. Joseph News-
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:45:00Z</estimatedPublishedDate> 
-<title type="str">Inaugural trip: eyewitness to history</title> 
+</TOPICS> 
+<DOCID type="str">695195315713</DOCID> 
+<DCT type="str">2017-01-29T05:45:00Z</DCT> 
+<TITLE type="str">Inaugural trip: eyewitness to history</TITLE> 
 </root>

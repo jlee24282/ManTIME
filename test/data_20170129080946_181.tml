@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695201322314</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Boston news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:49Z</estimatedPublishedDate> 
-<title type="str">Matt Ryan was the class of Boston College</title> 
+</TOPICS> 
+<DOCID type="str">695201322314</DOCID> 
+<DCT type="str">2017-01-29T08:05:49Z</DCT> 
+<TITLE type="str">Matt Ryan was the class of Boston College</TITLE> 
 </root>

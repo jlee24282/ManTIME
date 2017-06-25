@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Quinnipiac men’s hockey team was forced to settle for a weekend split following a 4-2 non-conference loss to Arizona State at the TD Bank Sports Center in Hamden on Saturday. 
+<TEXT type="str">The Quinnipiac men’s hockey team was forced to settle for a weekend split following a 4-2 non-conference loss to Arizona State at the TD Bank Sports Center in Hamden on Saturday. 
  
 Tim Clifton had a goal and an assist for the Bobcats, who dropped to 14-11-2 despite outshooting the Sun Devils 55-19. Connor Clifton also scored for Quinnipiac, while Chris Martin added a pair of assists. 
  
@@ -21,9 +21,8 @@ Yale 4, Brown 2 &gt;&gt; At New Haven, Eden Murray, Phoebe Staenz and Krista Yip
  
 Courtney Pensavalle also scored for Yale, which improved to 5-18-0 (3-13-0 ECAC Hockey). 
  
-Brown fell to 5-18-0 (3-13-0 ECAC Hockey).</content> 
-<sequenceId type="str">695194986574</sequenceId> 
-<topics type="list"> 
+Brown fell to 5-18-0 (3-13-0 ECAC Hockey).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -32,7 +31,8 @@ Brown fell to 5-18-0 (3-13-0 ECAC Hockey).</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:39:34Z</estimatedPublishedDate> 
-<title type="str">College roundup: Quinnipiac men&apos;s hockey team falls to Arizona State</title> 
+</TOPICS> 
+<DOCID type="str">695194986574</DOCID> 
+<DCT type="str">2017-01-29T03:39:34Z</DCT> 
+<TITLE type="str">College roundup: Quinnipiac men&apos;s hockey team falls to Arizona State</TITLE> 
 </root>

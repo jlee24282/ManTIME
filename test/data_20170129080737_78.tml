@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Google’s India-born CEO Sundar Pichai today criticised President Donald Trump’s controversial immigration order against people from seven Muslim-majority countries, saying it will create “barriers” to bringing great talent to the US, as the Internet search giant ordered its travelling staff to return to America. 
+<TEXT type="str">Google’s India-born CEO Sundar Pichai today criticised President Donald Trump’s controversial immigration order against people from seven Muslim-majority countries, saying it will create “barriers” to bringing great talent to the US, as the Internet search giant ordered its travelling staff to return to America. 
  
 Pichai in an email to staff said the US ban on foreign nationals from seven Muslim-majority countries will hit at least 187 Google employees. 
  
@@ -36,9 +36,8 @@ Facebook CEO Mark Zuckerberg has also criticised Trump’s decision to severely 
  
 PTI 
  
-Tags:  Donald Trump , Google , Google CEO , immigrants , Sundar Pichai , US President Donald Trump</content> 
-<sequenceId type="str">695196152418</sequenceId> 
-<topics type="list"> 
+Tags:  Donald Trump , Google , Google CEO , immigrants , Sundar Pichai , US President Donald Trump</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -59,7 +58,8 @@ Tags:  Donald Trump , Google , Google CEO , immigrants , Sundar Pichai , US Pres
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:24Z</estimatedPublishedDate> 
-<title type="str">Google CEO Sundar Pichai criticises Trump’s controversial immigration ...</title> 
+</TOPICS> 
+<DOCID type="str">695196152418</DOCID> 
+<DCT type="str">2017-01-29T07:27:24Z</DCT> 
+<TITLE type="str">Google CEO Sundar Pichai criticises Trump’s controversial immigration ...</TITLE> 
 </root>

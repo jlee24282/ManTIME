@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The 56th Oklahoma Legislature convenes Feb. 6.
+<TEXT type="str">The 56th Oklahoma Legislature convenes Feb. 6.
 
-The members will hear Gov. Mary Fallin’s State of the State speech and then turn their attention to more than 2,000 pending bills filed by legislators in recent weeks.</content> 
-<sequenceId type="str">695194815722</sequenceId> 
-<topics type="list"> 
+The members will hear Gov. Mary Fallin’s State of the State speech and then turn their attention to more than 2,000 pending bills filed by legislators in recent weeks.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -13,7 +12,8 @@ The members will hear Gov. Mary Fallin’s State of the State speech and then tu
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Tulsa World editorial: The Tulsa World legislative agenda for 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194815722</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Tulsa World editorial: The Tulsa World legislative agenda for 2017</TITLE> 
 </root>

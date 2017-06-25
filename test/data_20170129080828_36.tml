@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SIGN UP FOR OUR NEWSLETTER 
+<TEXT type="str">SIGN UP FOR OUR NEWSLETTER 
   
 Aden (AFP) – A dawn raid by US drones and helicopters Sunday killed three Yemeni tribal chiefs allegedly linked to Al-Qaeda as well as a number of civilians, tribal and local sources said. 
   
@@ -22,9 +22,8 @@ But it only sporadically reports on a long-running bombing campaign against AQAP
  
 On January 14, the Pentagon announced the killing a senior Al-Qaeda operative in Baida a week earlier in an air strike. 
  
-Al-Qaeda and the Islamic State jihadist group have exploited a power vacuum created by the two-year-old conflict in Yemen between the government and Shiite Huthi rebels, especially in the country’s south and southeast.</content> 
-<sequenceId type="str">695197848278</sequenceId> 
-<topics type="list"> 
+Al-Qaeda and the Islamic State jihadist group have exploited a power vacuum created by the two-year-old conflict in Yemen between the government and Shiite Huthi rebels, especially in the country’s south and southeast.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -37,7 +36,8 @@ Al-Qaeda and the Islamic State jihadist group have exploited a power vacuum crea
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:14Z</estimatedPublishedDate> 
-<title type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</title> 
+</TOPICS> 
+<DOCID type="str">695197848278</DOCID> 
+<DCT type="str">2017-01-29T07:40:14Z</DCT> 
+<TITLE type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</TITLE> 
 </root>

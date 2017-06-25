@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">© Stephanie Keith / AFP 
+<TEXT type="str">© Stephanie Keith / AFP 
 Protestors rally during a demonstration against the new immigration ban issued by President Donald Trump at John F. Kennedy International Airport on January 28, 2017 in New York City 
         A Brooklyn judge issued an emergency stay, temporarily freezing the expulsion of travelers under the newly-signed executive order by President Donald Trump that covers 7 Arab nations, after a habeas corpus petition was filed by the American Civil Liberties Union. 
 Judge Ann Donnelly of the US District Court for the Eastern District of New York issued the ruling after the American Union of Civil Liberties (ACLU) filed a legal challenge on behalf of two Iraqi immigrants, Hameed Khalid Darweesh and Sameer Abdulkhaleq Alshawi. 
@@ -39,9 +39,8 @@ The controversial order led to hundreds of immigrants being stranded at airports
 At least 12 refugees were detained at John F. Kennedy International Airport as a result of the ban, which sparked mass protests there with demonstrators demanding the immediate release of the migrants. 
  
 The executive order called for a pause for all refugee admissions for 120 days and barred travelers from the seven listed countries for at least 90 days. 
-&quot;I&apos;m establishing new vetting measures to keep radical Islamic terrorists out of the United States of America. Don&apos;t want them here,&quot; Trump said on Friday, citing US national security concerns. Diplomatic passport holders are exempt from the order.</content> 
-<sequenceId type="str">695202492655</sequenceId> 
-<topics type="list"> 
+&quot;I&apos;m establishing new vetting measures to keep radical Islamic terrorists out of the United States of America. Don&apos;t want them here,&quot; Trump said on Friday, citing US national security concerns. Diplomatic passport holders are exempt from the order.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -58,7 +57,8 @@ The executive order called for a pause for all refugee admissions for 120 days a
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:03Z</estimatedPublishedDate> 
-<title type="str">Federal judge blocks deportation of detainees over Trump refugee order</title> 
+</TOPICS> 
+<DOCID type="str">695202492655</DOCID> 
+<DCT type="str">2017-01-29T08:08:03Z</DCT> 
+<TITLE type="str">Federal judge blocks deportation of detainees over Trump refugee order</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SAN FRANCISCO -- Cauliflower-based pizza dough. Chocolate-covered quinoa. Bagel balls stuffed with flavored cream cheese. Vegan, paleo, dairy-free frozen dessert that is a bit hard to describe other than to say it is not ice cream. 
+<TEXT type="str">SAN FRANCISCO -- Cauliflower-based pizza dough. Chocolate-covered quinoa. Bagel balls stuffed with flavored cream cheese. Vegan, paleo, dairy-free frozen dessert that is a bit hard to describe other than to say it is not ice cream. 
   
 Elyse Oleksak, a co-founder of Bantam Bagels, hands out samples of her mini-stuffed bagels at the Winter Fancy Food Show in San Francisco, earlier thi... 
   
@@ -46,9 +46,8 @@ As for the Snow Monkey team, Geicke and Ferreira are a startup, working out of t
  
 Their sole employee, Katie Krell, whose title is &quot;director of impact and partnerships,&quot; said, &quot;We are movement-driven -- what you eat can be how you live.&quot; 
  
-SundayMonday Business on 01/29/2</content> 
-<sequenceId type="str">695202394568</sequenceId> 
-<topics type="list"> 
+SundayMonday Business on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -61,7 +60,8 @@ SundayMonday Business on 01/29/2</content>
 <group type="str">Business</group> 
 <name type="str">Entrepreneur news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:58Z</estimatedPublishedDate> 
-<title type="str">Food entrepreneurs cook up own careers</title> 
+</TOPICS> 
+<DOCID type="str">695202394568</DOCID> 
+<DCT type="str">2017-01-29T07:52:58Z</DCT> 
+<TITLE type="str">Food entrepreneurs cook up own careers</TITLE> 
 </root>

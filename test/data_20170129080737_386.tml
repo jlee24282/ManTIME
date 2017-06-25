@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The withdrawal of the US from the Trans-Pacific Partnership came as a huge blow to Australian and New Zealand producers.With the stroke of his pen and a smile, US President Donald Trump lived up to his promise of killing the TPP...</content> 
-<sequenceId type="str">695196425459</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The withdrawal of the US from the Trans-Pacific Partnership came as a huge blow to Australian and New Zealand producers.With the stroke of his pen and a smile, US President Donald Trump lived up to his promise of killing the TPP...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:33Z</estimatedPublishedDate> 
-<title type="str">With the TPP effectively dead, this could be China&apos;s chance to swoop in</title> 
+</TOPICS> 
+<DOCID type="str">695196425459</DOCID> 
+<DCT type="str">2017-01-29T07:29:33Z</DCT> 
+<TITLE type="str">With the TPP effectively dead, this could be China&apos;s chance to swoop in</TITLE> 
 </root>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In Iraq, four Refugees have been killed and eight injured in a bomb blast while trying to flee a Daesh-held area in north of the country. 
+<TEXT type="str">In Iraq, four Refugees have been killed and eight injured in a bomb blast while trying to flee a Daesh-held area in north of the country. 
  
 Meanwhile, fourteen Islamic State militants were killed in Turkish air strikes in northern Syria. 
   
-Third-party Ads</content> 
-<sequenceId type="str">695196907086</sequenceId> 
-<topics type="list"> 
+Third-party Ads</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -15,7 +14,8 @@ Third-party Ads</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:14Z</estimatedPublishedDate> 
-<title type="str">Bomb blast kills 4 Refugees in Iraq</title> 
+</TOPICS> 
+<DOCID type="str">695196907086</DOCID> 
+<DCT type="str">2017-01-29T07:33:14Z</DCT> 
+<TITLE type="str">Bomb blast kills 4 Refugees in Iraq</TITLE> 
 </root>

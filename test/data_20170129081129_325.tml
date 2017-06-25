@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump’s ban on visitors from seven Muslim nations could have a wide impact on international sports, including jeopardizing a warm relationship between the United States and Iran in wrestling competitions and threatening the chances of Los Angeles hosting the 2024 Summer Olympics and of the United States securing soccer’s 2026 World Cup. 
+<TEXT type="str">President Donald Trump’s ban on visitors from seven Muslim nations could have a wide impact on international sports, including jeopardizing a warm relationship between the United States and Iran in wrestling competitions and threatening the chances of Los Angeles hosting the 2024 Summer Olympics and of the United States securing soccer’s 2026 World Cup. 
  
 On Saturday, sports officials struggled to understand the implications of Trump’s executive order, including the question of whether athletes from the prohibited nations could enter the United States to compete, especially in the initial 90-day period of the ban. 
  
@@ -54,9 +54,8 @@ Mo Farah of Britain, who was born in Somalia and has won four Olympic gold medal
  
 Phil Andrews, chief executive of USA Weightlifting, said officials were trying to figure out the impact of Trump’s ban on the world weightlifting championships, scheduled for November in Anaheim, California, and on the U.S. team’s participation at a competition in Iran. 
  
-“Our view is that politics and sport should be separate,” Andrews said, stressing sports diplomacy among nations. “We sincerely hope to peacefully welcome these seven nations to Anaheim this November. It is unimaginable to be able to host a true world event without their participation.”</content> 
-<sequenceId type="str">695204956083</sequenceId> 
-<topics type="list"> 
+“Our view is that politics and sport should be separate,” Andrews said, stressing sports diplomacy among nations. “We sincerely hope to peacefully welcome these seven nations to Anaheim this November. It is unimaginable to be able to host a true world event without their participation.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -73,7 +72,8 @@ Phil Andrews, chief executive of USA Weightlifting, said officials were trying t
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:09Z</estimatedPublishedDate> 
-<title type="str">How will Trump’s ban affect sports? Nobody knows</title> 
+</TOPICS> 
+<DOCID type="str">695204956083</DOCID> 
+<DCT type="str">2017-01-29T08:33:09Z</DCT> 
+<TITLE type="str">How will Trump’s ban affect sports? Nobody knows</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A boat carrying 31 people, including around 20 Chinese tourists, is missing after sailing out from an eastern Malaysian city, Chinese state media said on Sunday. 
+<TEXT type="str">A boat carrying 31 people, including around 20 Chinese tourists, is missing after sailing out from an eastern Malaysian city, Chinese state media said on Sunday. 
  
 The Chinese Consulate General in Kota Kinabalu in the Malaysian state of Sabah said the boat lost contact after leaving Kota Kinabalu on Saturday morning, according to the official Xinhua News Agency said. It was bound for Pulau Mengalum, an island about 60 km west of the city. 
  
@@ -8,9 +8,8 @@ The report cited the Malaysian Maritime Enforcement Agency as saying there were 
  
 Malaysia deployed search and rescue ships and helicopters after receiving a call on Saturday night about the boat’s disappearance, Xinhua reported. 
  
-Calls to the Chinese Consulate rang unanswered on Sunday.</content> 
-<sequenceId type="str">695200266932</sequenceId> 
-<topics type="list"> 
+Calls to the Chinese Consulate rang unanswered on Sunday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Global news</name> 
@@ -31,7 +30,8 @@ Calls to the Chinese Consulate rang unanswered on Sunday.</content>
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:36Z</estimatedPublishedDate> 
-<title type="str">2hrs Boat with 31 mostly Chinese tourists missing in Malaysia</title> 
+</TOPICS> 
+<DOCID type="str">695200266932</DOCID> 
+<DCT type="str">2017-01-29T07:58:36Z</DCT> 
+<TITLE type="str">2hrs Boat with 31 mostly Chinese tourists missing in Malaysia</TITLE> 
 </root>

@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">For many, many years your readers in Fort Walton Beach have had their tax returns prepared for free by Tax-Aide volunteers at the Fort Walton Beach Library. Sadly, to make way for other programs, the library will no longer be hosting this valuable community service. 
+<TEXT type="str">For many, many years your readers in Fort Walton Beach have had their tax returns prepared for free by Tax-Aide volunteers at the Fort Walton Beach Library. Sadly, to make way for other programs, the library will no longer be hosting this valuable community service. 
  
 While there are other sites available in Crestview, Niceville, Destin and Shalimar, the FWB Tax-Aide program was an “orphan” without a location until the First Baptist Church came to the rescue and offered their Christian Life Center to host this free service. 
  
 Kudos to the First Baptist Church of Fort Walton Beach for stepping up and helping out! 
  
-— Otis Alexander, Shalimar</content> 
-<sequenceId type="str">695197863939</sequenceId> 
-<topics type="list"> 
+— Otis Alexander, Shalimar</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -17,7 +16,8 @@ Kudos to the First Baptist Church of Fort Walton Beach for stepping up and helpi
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">LETTER TO THE EDITOR: Free tax preparation</title> 
+</TOPICS> 
+<DOCID type="str">695197863939</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">LETTER TO THE EDITOR: Free tax preparation</TITLE> 
 </root>

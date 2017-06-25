@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">U.S. DEPARTMERNT OF HOMELAND SECURITY SAYS IT WILL &apos;COMPLY WITH
-JUDICIAL ORDERS&apos; BUT TRUMP ORDER REMAINS IN PLACE</content> 
-<sequenceId type="str">695194298526</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">U.S. DEPARTMERNT OF HOMELAND SECURITY SAYS IT WILL &apos;COMPLY WITH
+JUDICIAL ORDERS&apos; BUT TRUMP ORDER REMAINS IN PLACE</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -12,7 +11,8 @@ JUDICIAL ORDERS&apos; BUT TRUMP ORDER REMAINS IN PLACE</content>
 <group type="str">Society</group> 
 <name type="str">US security news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:25Z</estimatedPublishedDate> 
-<title type="str">US Homeland Security says will &apos;comply with judicial orders&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695194298526</DOCID> 
+<DCT type="str">2017-01-29T07:14:25Z</DCT> 
+<TITLE type="str">US Homeland Security says will &apos;comply with judicial orders&apos;</TITLE> 
 </root>

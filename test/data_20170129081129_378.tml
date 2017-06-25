@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">California Young Playwrights Contest: Plays by Young Writers   
-The Playwrights Project presents its 32nd annual festival of plays by writers 18 and under. Contest winners came from 385 plays submitted by students from across the state. The plays come in two programs. Program A: Supermarket of Lost by Cassandra Hsiao; Hackathon, by Eliana Dunn; Turtle on a Rock, by Absinthe McDonald. Program B: The Dumping Ground, by Matthew Maceda; Pros and Cons, by Katie Taylor; A Play on Words, by Samantha Rafter. For specific days and times, consult the Playwright&apos;s Project website, [email protected]</content> 
-<sequenceId type="str">695204972023</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">California Young Playwrights Contest: Plays by Young Writers   
+The Playwrights Project presents its 32nd annual festival of plays by writers 18 and under. Contest winners came from 385 plays submitted by students from across the state. The plays come in two programs. Program A: Supermarket of Lost by Cassandra Hsiao; Hackathon, by Eliana Dunn; Turtle on a Rock, by Absinthe McDonald. Program B: The Dumping Ground, by Matthew Maceda; Pros and Cons, by Katie Taylor; A Play on Words, by Samantha Rafter. For specific days and times, consult the Playwright&apos;s Project website, [email protected]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -16,7 +15,8 @@ The Playwrights Project presents its 32nd annual festival of plays by writers 18
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:16Z</estimatedPublishedDate> 
-<title type="str">Sun 1/29: California Young Playwrights Contest: Plays by Young Writers</title> 
+</TOPICS> 
+<DOCID type="str">695204972023</DOCID> 
+<DCT type="str">2017-01-29T08:33:16Z</DCT> 
+<TITLE type="str">Sun 1/29: California Young Playwrights Contest: Plays by Young Writers</TITLE> 
 </root>

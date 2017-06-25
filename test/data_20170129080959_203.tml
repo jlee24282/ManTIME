@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Every facet of this production is exquisite. 
+<TEXT type="str">Every facet of this production is exquisite. 
  
 
  
@@ -21,9 +21,8 @@ So now you have a chance to make your own reality. Will you stay home to Netflix
 Constellations plays through February 5 . For ticket information and show times, please visit www.repstl.org. 
  
 Photo: Eric Woolsey 
-  Share this</content> 
-<sequenceId type="str">695201804301</sequenceId> 
-<topics type="list"> 
+  Share this</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -32,7 +31,8 @@ Photo: Eric Woolsey
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: theater news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:31:11Z</estimatedPublishedDate> 
-<title type="str">Constellations | The Repertory Theatre of St. Louis</title> 
+</TOPICS> 
+<DOCID type="str">695201804301</DOCID> 
+<DCT type="str">2017-01-29T05:31:11Z</DCT> 
+<TITLE type="str">Constellations | The Repertory Theatre of St. Louis</TITLE> 
 </root>

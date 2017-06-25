@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Expansion represents brand&apos;s first foray into Latin America 
+<TEXT type="str">Expansion represents brand&apos;s first foray into Latin America 
  
 By  |  January 28, 2017 
    
@@ -20,9 +20,8 @@ The Tim Hortons coffee, bakery and sandwich business—named for a Toronto Maple
  
 It currently has more than 4,400 restaurants, mostly in Canada and the United States. 
  
-As of September, RBI had more than 19,000 restaurants including Burger King and Tim Hortons in more than 100 countries.</content> 
-<sequenceId type="str">695198094720</sequenceId> 
-<topics type="list"> 
+As of September, RBI had more than 19,000 restaurants including Burger King and Tim Hortons in more than 100 countries.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Restaurant industry news</name> 
@@ -39,7 +38,8 @@ As of September, RBI had more than 19,000 restaurants including Burger King and 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:05:03Z</estimatedPublishedDate> 
-<title type="str">Tim Hortons heads to Mexico</title> 
+</TOPICS> 
+<DOCID type="str">695198094720</DOCID> 
+<DCT type="str">2017-01-29T03:05:03Z</DCT> 
+<TITLE type="str">Tim Hortons heads to Mexico</TITLE> 
 </root>

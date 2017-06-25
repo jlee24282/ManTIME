@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Admission to “Storks” is free. The Arlanza Library in Riverside will screen the animated flick, “Storks,” at 4 p.m. Monday, Jan. 30. Admission is free.
+<TEXT type="str">Admission to “Storks” is free. The Arlanza Library in Riverside will screen the animated flick, “Storks,” at 4 p.m. Monday, Jan. 30. Admission is free.
 
 Released in 2016, “Storks” is rated PG. The cast includes Andy Samberg, Jennifer Aniston and Kelsey Grammer.
 
@@ -8,9 +8,8 @@ The screening is part of the Arlanza Library’s “Monday at the Movies” seri
 
 Information: 951-826-2217 or riversideca.gov/Library
 
-Contact the writer: community@pe.com</content> 
-<sequenceId type="str">695202672342</sequenceId> 
-<topics type="list"> 
+Contact the writer: community@pe.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
@@ -23,7 +22,8 @@ Contact the writer: community@pe.com</content>
 <group type="str">Media</group> 
 <name type="str">Movie business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:36Z</estimatedPublishedDate> 
-<title type="str">Make Monday movie night; Arlanza Library in Riverside to screen...</title> 
+</TOPICS> 
+<DOCID type="str">695202672342</DOCID> 
+<DCT type="str">2017-01-29T08:15:36Z</DCT> 
+<TITLE type="str">Make Monday movie night; Arlanza Library in Riverside to screen...</TITLE> 
 </root>

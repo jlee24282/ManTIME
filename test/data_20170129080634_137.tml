@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Would you like to receive the following exclusive updates &amp; privileges: 
+<TEXT type="str">Would you like to receive the following exclusive updates &amp; privileges: 
  
 What best describes you and your interests: 
  
@@ -19,10 +19,10 @@ Seniority:
 Monthy Income: 
  
  
-Submit</content> 
-<sequenceId type="str">695193945677</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:06Z</estimatedPublishedDate> 
-<title type="str">Touch of Fun</title> 
+Submit</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695193945677</DOCID> 
+<DCT type="str">2017-01-29T07:12:06Z</DCT> 
+<TITLE type="str">Touch of Fun</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Oscar films are coming thick and fast into Kiwi cinemas, with both Hidden Figures and Manchester By The Sea opening this weekend. 
+<TEXT type="str">The Oscar films are coming thick and fast into Kiwi cinemas, with both Hidden Figures and Manchester By The Sea opening this weekend. 
  
 Casey Affleck has already won the Golden Globe for his performance in the latter and is an Oscar frontrunner. 
  
@@ -36,9 +36,8 @@ Four-and-a-half stars.
  
 :: Release Date: In cinemas now 
  
-Newshub.</content> 
-<sequenceId type="str">695203668960</sequenceId> 
-<topics type="list"> 
+Newshub.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -47,7 +46,8 @@ Newshub.</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:26Z</estimatedPublishedDate> 
-<title type="str">Manchester By The Sea &apos;a little film with a mighty punch&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695203668960</DOCID> 
+<DCT type="str">2017-01-29T08:23:26Z</DCT> 
+<TITLE type="str">Manchester By The Sea &apos;a little film with a mighty punch&apos;</TITLE> 
 </root>

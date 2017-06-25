@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">| News Source: L.A. Times - Africa  Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street. The event - which stretched from Third Street down to Olympic Boulevard - included performances on 10 stages as well as... 
-Original URL: Click here to visit original article</content> 
-<sequenceId type="str">695201598186</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">| News Source: L.A. Times - Africa  Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street. The event - which stretched from Third Street down to Olympic Boulevard - included performances on 10 stages as well as... 
+Original URL: Click here to visit original article</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -16,7 +15,8 @@ Original URL: Click here to visit original article</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:32Z</estimatedPublishedDate> 
-<title type="str">The lights of Broadway shine bright, even in downtown L.A.</title> 
+</TOPICS> 
+<DOCID type="str">695201598186</DOCID> 
+<DCT type="str">2017-01-29T08:07:32Z</DCT> 
+<TITLE type="str">The lights of Broadway shine bright, even in downtown L.A.</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Public Library of Steubenville and Jefferson County’s schedule is as follows: 
+<TEXT type="str">The Public Library of Steubenville and Jefferson County’s schedule is as follows: 
   
 Monday 
  
@@ -44,10 +44,10 @@ Friday
  
 — Stratton parking lot. 
  
-— Riverview Apartments, Toronto.</content> 
-<sequenceId type="str">695200679721</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:26Z</estimatedPublishedDate> 
-<title type="str">Bookmobile</title> 
+— Riverview Apartments, Toronto.</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695200679721</DOCID> 
+<DCT type="str">2017-01-29T08:01:26Z</DCT> 
+<TITLE type="str">Bookmobile</TITLE> 
 </root>

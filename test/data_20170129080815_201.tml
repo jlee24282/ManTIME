@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Welcome To Bay City News Service On-line 
+<TEXT type="str">Welcome To Bay City News Service On-line 
  
 Bay City News Service is a regional, general-interest news wire service which operates 24 hours a day gathering information from in and around the greater San Francisco Bay area. The service, which was established in 1979, has a staff of more than 20 reporters working out of nine bureaus throughout the region. Bay City News provides a real-time news report delivered directly to media organizations, Internet sites, public relations firms and government agencies. The service feeds more than 90 newsrooms via a satellite, dedicated phone line, and Internet network. 
  
@@ -96,14 +96,14 @@ Other custom services are available upon request, including:
 
              A twice-daily fax or e-mail headline service; 
              Custom category e-mail or fax delivery based on a keyword search 
-   Copyright © 2014 by Bay City News, Inc. -- Republication, Rebroadcast or any other Reuse without the express written consent of Bay City News, Inc. is prohibited.</content> 
-<sequenceId type="str">695197482017</sequenceId> 
-<topics type="list"> 
+   Copyright © 2014 by Bay City News, Inc. -- Republication, Rebroadcast or any other Reuse without the express written consent of Bay City News, Inc. is prohibited.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:53Z</estimatedPublishedDate> 
-<title type="str">SEBASTOPOL: BOY SERIOUSLY INJURED AT SKATE PARK</title> 
+</TOPICS> 
+<DOCID type="str">695197482017</DOCID> 
+<DCT type="str">2017-01-29T07:37:53Z</DCT> 
+<TITLE type="str">SEBASTOPOL: BOY SERIOUSLY INJURED AT SKATE PARK</TITLE> 
 </root>

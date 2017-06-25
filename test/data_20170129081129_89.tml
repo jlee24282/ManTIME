@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">https://www.adx.ae/English/News/Pages/20170129113557918-RAKBANK.aspx
+<TEXT type="str">https://www.adx.ae/English/News/Pages/20170129113557918-RAKBANK.aspx
 
-read more</content> 
-<sequenceId type="str">695204702495</sequenceId> 
-<topics type="list"> 
+read more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -17,7 +16,8 @@ read more</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:18Z</estimatedPublishedDate> 
-<title type="str">RAKBANK Celebrates the Launch of 3 New Branches in the UAE</title> 
+</TOPICS> 
+<DOCID type="str">695204702495</DOCID> 
+<DCT type="str">2017-01-29T08:31:18Z</DCT> 
+<TITLE type="str">RAKBANK Celebrates the Launch of 3 New Branches in the UAE</TITLE> 
 </root>

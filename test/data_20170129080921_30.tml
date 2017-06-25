@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Germany is cursed by its own economic strength. 
+<TEXT type="str">Germany is cursed by its own economic strength. 
  
 For eight years, the nation of 83 million people has been the euro area’s growth driver. Now it’s at the forefront of the currency bloc’s reflation, with price increases potentially exceeding 2 percent, and dissatisfaction with the European Central Bank has morphed into outrage. 
  
@@ -40,9 +40,8 @@ His argument is that underlying price pressures are still weak. German companies
  
 More from Bloomberg.com 
  
-Read on bloombergpolitics.com</content> 
-<sequenceId type="str">695200243491</sequenceId> 
-<topics type="list"> 
+Read on bloombergpolitics.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -51,7 +50,8 @@ Read on bloombergpolitics.com</content>
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">German Pride Shifting to Frustration in Role as Motor of Europe</title> 
+</TOPICS> 
+<DOCID type="str">695200243491</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">German Pride Shifting to Frustration in Role as Motor of Europe</TITLE> 
 </root>

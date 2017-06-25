@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">[link]  [138 comments]</content> 
-<sequenceId type="str">695198790164</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">[link]  [138 comments]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Canada news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:24:53Z</estimatedPublishedDate> 
-<title type="str">Canadian PM responds to refugee ban: &apos;Welcome to Canada&apos; [Spiffy]</title> 
+</TOPICS> 
+<DOCID type="str">695198790164</DOCID> 
+<DCT type="str">2017-01-29T01:24:53Z</DCT> 
+<TITLE type="str">Canadian PM responds to refugee ban: &apos;Welcome to Canada&apos; [Spiffy]</TITLE> 
 </root>

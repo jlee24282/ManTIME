@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">World News Categories 
+<TEXT type="str">World News Categories 
  World News Categories 
 Daily World News 
  
@@ -14,9 +14,8 @@ Life Poems at Google Play Store
   
 Easy Branches Search Engine 
  
-Advertising with Easy Branches</content> 
-<sequenceId type="str">695196176171</sequenceId> 
-<topics type="list"> 
+Advertising with Easy Branches</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -25,7 +24,8 @@ Advertising with Easy Branches</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:02Z</estimatedPublishedDate> 
-<title type="str">Trump’s ban on Muslim immigrants draws wide dismay</title> 
+</TOPICS> 
+<DOCID type="str">695196176171</DOCID> 
+<DCT type="str">2017-01-29T07:26:02Z</DCT> 
+<TITLE type="str">Trump’s ban on Muslim immigrants draws wide dismay</TITLE> 
 </root>

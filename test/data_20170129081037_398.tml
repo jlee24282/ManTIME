@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan 29 (Reuters) - Egyptian exchange: 
+<TEXT type="str">Jan 29 (Reuters) - Egyptian exchange: 
     
 * Block trading on Obour Land for Food Industries shares
 implemented on Jan 29 for 9.7 million shares worth EGP 93.8
@@ -9,9 +9,8 @@ million
 Source: ( bit.ly/2kGwpKH )
 Further company coverage: 
 
- )</content> 
-<sequenceId type="str">695203159105</sequenceId> 
-<topics type="list"> 
+ )</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -28,7 +27,8 @@ Further company coverage:
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:19Z</estimatedPublishedDate> 
-<title type="str">BRIEF-Egyptian Exchange says Obour Land executes block trading worth EGP 93.8 mln</title> 
+</TOPICS> 
+<DOCID type="str">695203159105</DOCID> 
+<DCT type="str">2017-01-29T08:19:19Z</DCT> 
+<TITLE type="str">BRIEF-Egyptian Exchange says Obour Land executes block trading worth EGP 93.8 mln</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695201328085</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Y Combinator&apos;s Sam Altman At Airport Protest: This May Be A Defining Moment When People Oppose Trump</title> 
+</TOPICS> 
+<DOCID type="str">695201328085</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Y Combinator&apos;s Sam Altman At Airport Protest: This May Be A Defining Moment When People Oppose Trump</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January 28th 9:19 pm | Molly Dischner, The Bristol Bay Times-Dutch Harbor Fisherman      
+<TEXT type="str">January 28th 9:19 pm | Molly Dischner, The Bristol Bay Times-Dutch Harbor Fisherman      
  
 While many climate change impacts are still being determined, a recent University of Washington study has shown what&apos;s happening to sticklebacks in Lake Aleknagik. 
  
@@ -32,9 +32,8 @@ It&apos;s hard to say whether the stickleback change is unique to Lake Aleknagik
  
 The stickleback study used Alaska Salmon Program data collected at Lake Aleknagik from 1963 to 2015, including some collected by Hovel during the three summers she spent at UW&apos;s Aleknagik research camp. 
  
-Molly Dischner can be reached at mdischner@reportalaska.com.</content> 
-<sequenceId type="str">695196453625</sequenceId> 
-<topics type="list"> 
+Molly Dischner can be reached at mdischner@reportalaska.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -47,7 +46,8 @@ Molly Dischner can be reached at mdischner@reportalaska.com.</content>
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:44Z</estimatedPublishedDate> 
-<title type="str">Study shows sticklebacks are responding to climate change</title> 
+</TOPICS> 
+<DOCID type="str">695196453625</DOCID> 
+<DCT type="str">2017-01-29T07:29:44Z</DCT> 
+<TITLE type="str">Study shows sticklebacks are responding to climate change</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Seattle&apos;s defense had taken charge, and the Seahawks led the 2015 Super Bowl by 10 points. 
+<TEXT type="str">Seattle&apos;s defense had taken charge, and the Seahawks led the 2015 Super Bowl by 10 points. 
  
 Then Tom Brady torched that unit in the fourth quarter — a unit coordinated by Dan Quinn. 
  
@@ -52,9 +52,8 @@ While Quinn assesses those challenges, Belichick dryly explains what his coaches
  
 No one is saying the skills of the head coaches are the same right now, at least judging by the resumes. But one thing to remember about Dan Quinn is that he won&apos;t back off. 
  
-And that&apos;s the best way to take on New England.</content> 
-<sequenceId type="str">695195924205</sequenceId> 
-<topics type="list"> 
+And that&apos;s the best way to take on New England.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -67,7 +66,8 @@ And that&apos;s the best way to take on New England.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:48Z</estimatedPublishedDate> 
-<title type="str">Dan Quinn&apos;s Super Bowl task: matching up with Belichick</title> 
+</TOPICS> 
+<DOCID type="str">695195924205</DOCID> 
+<DCT type="str">2017-01-29T07:25:48Z</DCT> 
+<TITLE type="str">Dan Quinn&apos;s Super Bowl task: matching up with Belichick</TITLE> 
 </root>

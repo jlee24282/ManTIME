@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Published 12:09 a.m. ET Jan. 29, 2017 | Updated 2 hours ago 
+<TEXT type="str">Published 12:09 a.m. ET Jan. 29, 2017 | Updated 2 hours ago 
     
 STK Stock 
   
@@ -38,9 +38,8 @@ Elgin: 6-12-14-8-5-4 - 49
  
 Northmor: 18 FG, 9 FTM, 8 3pt. (Swihart 5, Patterson 2, Boggs 1), 23 rebounds, 14 steals. Scoring: Boggs 3, Wiseman 2. 
  
-Elgin: 15 FG, 13 FTM, 6 3pt. (Hafer 3, Muselin 2, Van Gundy 1). Scoring: Van Gundy 5, Wolf 3, Clark 3.</content> 
-<sequenceId type="str">695196358794</sequenceId> 
-<topics type="list"> 
+Elgin: 15 FG, 13 FTM, 6 3pt. (Hafer 3, Muselin 2, Van Gundy 1). Scoring: Van Gundy 5, Wolf 3, Clark 3.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -49,7 +48,8 @@ Elgin: 15 FG, 13 FTM, 6 3pt. (Hafer 3, Muselin 2, Van Gundy 1). Scoring: Van Gun
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:09:40Z</estimatedPublishedDate> 
-<title type="str">Girls Basketball: Pleasant defeats Buckeye Valley</title> 
+</TOPICS> 
+<DOCID type="str">695196358794</DOCID> 
+<DCT type="str">2017-01-29T05:09:40Z</DCT> 
+<TITLE type="str">Girls Basketball: Pleasant defeats Buckeye Valley</TITLE> 
 </root>

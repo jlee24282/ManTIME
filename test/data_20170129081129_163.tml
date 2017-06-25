@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The report says the Syrian government continues delivering to the sieged regions small supplies of food</content> 
-<sequenceId type="str">695204778240</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The report says the Syrian government continues delivering to the sieged regions small supplies of food</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Syria news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:59Z</estimatedPublishedDate> 
-<title type="str">UN reports dozens killed, injured in Syrian Deir-ez-Zor</title> 
+</TOPICS> 
+<DOCID type="str">695204778240</DOCID> 
+<DCT type="str">2017-01-29T08:31:59Z</DCT> 
+<TITLE type="str">UN reports dozens killed, injured in Syrian Deir-ez-Zor</TITLE> 
 </root>

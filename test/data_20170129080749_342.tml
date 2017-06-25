@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was a step that seemed unimaginable a year ago: the Russian authorities stepping in to stop the country&apos;s currency from getting too strong. 
+<TEXT type="str">It was a step that seemed unimaginable a year ago: the Russian authorities stepping in to stop the country&apos;s currency from getting too strong. 
 
 Back in January 2016 the ruble hit a record low of 85 to the dollar as a combination of plunging oil prices and Western sanctions over Moscow&apos;s actions in Ukraine pounded the Russian economy. 
 
@@ -42,9 +42,8 @@ Oleg Kuzmin from Renaissance Capital, who estimates that the operations will amo
 
 The finance ministry said Putin himself had decided that the surplus oil revenue would not be used for &quot;additional spending&quot; but would go towards buying foreign currencies to bolster the country&apos;s depleted reserve funds. 
 
-That means the Kremlin (IOB: 0Q8D.IL - news ) seems intent, at least for now, on shoring up the state coffers rather than loosening austerity ahead of presidential elections next year.</content> 
-<sequenceId type="str">695196823709</sequenceId> 
-<topics type="list"> 
+That means the Kremlin (IOB: 0Q8D.IL - news ) seems intent, at least for now, on shoring up the state coffers rather than loosening austerity ahead of presidential elections next year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Global news</name> 
@@ -53,7 +52,8 @@ That means the Kremlin (IOB: 0Q8D.IL - news ) seems intent, at least for now, on
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:36Z</estimatedPublishedDate> 
-<title type="str">Ruble&apos;s revival gives Russia an unexpected headache</title> 
+</TOPICS> 
+<DOCID type="str">695196823709</DOCID> 
+<DCT type="str">2017-01-29T07:32:36Z</DCT> 
+<TITLE type="str">Ruble&apos;s revival gives Russia an unexpected headache</TITLE> 
 </root>

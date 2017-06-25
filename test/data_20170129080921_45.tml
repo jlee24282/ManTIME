@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Faculty of Arts &amp; Science 
+<TEXT type="str">Faculty of Arts &amp; Science 
 
-All students are invited to hear the English Honours students present a synopsis of their thesis at the Honours Colloquium. This is a great way to discover what’s involved in writing an Honours thesis.</content> 
-<sequenceId type="str">695200258863</sequenceId> 
-<topics type="list"> 
+All students are invited to hear the English Honours students present a synopsis of their thesis at the Honours Colloquium. This is a great way to discover what’s involved in writing an Honours thesis.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -17,7 +16,8 @@ All students are invited to hear the English Honours students present a synopsis
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:31Z</estimatedPublishedDate> 
-<title type="str">English Honours Colloquium</title> 
+</TOPICS> 
+<DOCID type="str">695200258863</DOCID> 
+<DCT type="str">2017-01-29T07:58:31Z</DCT> 
+<TITLE type="str">English Honours Colloquium</TITLE> 
 </root>

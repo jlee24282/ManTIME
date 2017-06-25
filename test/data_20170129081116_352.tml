@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Trump’s ban on immigration by citizens from seven Muslim-majority countries ran into at least a temporary roadblock Saturday night, after a U.S. District judge in Brooklyn granted an emergency stay sought by immigrants’ rights lawyers. 
+<TEXT type="str">President Trump’s ban on immigration by citizens from seven Muslim-majority countries ran into at least a temporary roadblock Saturday night, after a U.S. District judge in Brooklyn granted an emergency stay sought by immigrants’ rights lawyers. 
  
 The American Civil Liberties Union (ACLU) filed a legal case early on Saturday in response to the order. 
  
@@ -19,9 +19,8 @@ In the state of Virginia, another federal judge issued a temporary restraining o
  
 “President Trump never gave a second thought to how his discriminatory, un-American order would actually play out on the ground,” Virginia Attorney General Mark Herring said after the judge&apos;s ruling. “We will continue to explore any legal options available to the Commonwealth to oppose this misguided effort.” 
  
-The court has set a date to hear the case for the end of February.</content> 
-<sequenceId type="str">695204448542</sequenceId> 
-<topics type="list"> 
+The court has set a date to hear the case for the end of February.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -30,7 +29,8 @@ The court has set a date to hear the case for the end of February.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:21Z</estimatedPublishedDate> 
-<title type="str">U.S. judge bars deportations under Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695204448542</DOCID> 
+<DCT type="str">2017-01-29T08:14:21Z</DCT> 
+<TITLE type="str">U.S. judge bars deportations under Trump travel ban</TITLE> 
 </root>

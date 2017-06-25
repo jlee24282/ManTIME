@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Analysis: Building Trump&apos;s Wall   
-Border security and a wall paid for by the Mexican government were centerpieces of President Donald Trump&apos;s campaign but Mexico has said it won&apos;t pay for a barrier, and Mexican the president …</content> 
-<sequenceId type="str">695204585474</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Analysis: Building Trump&apos;s Wall   
+Border security and a wall paid for by the Mexican government were centerpieces of President Donald Trump&apos;s campaign but Mexico has said it won&apos;t pay for a barrier, and Mexican the president …</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -20,7 +19,8 @@ Border security and a wall paid for by the Mexican government were centerpieces 
 <group type="str">Business</group> 
 <name type="str">Job markets news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:38Z</estimatedPublishedDate> 
-<title type="str">Police recruitment drive to help battle Vic crime wave</title> 
+</TOPICS> 
+<DOCID type="str">695204585474</DOCID> 
+<DCT type="str">2017-01-29T08:30:38Z</DCT> 
+<TITLE type="str">Police recruitment drive to help battle Vic crime wave</TITLE> 
 </root>

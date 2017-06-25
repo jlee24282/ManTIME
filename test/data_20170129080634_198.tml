@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LANGLEY, B.C. — Shayne Jackson scored four times and Randy Staats had three goals and six assists to lead the Georgia Swarm to a 14-12 victory over the Vancouver Stealth on Saturday in National Lacrosse League action. 
+<TEXT type="str">LANGLEY, B.C. — Shayne Jackson scored four times and Randy Staats had three goals and six assists to lead the Georgia Swarm to a 14-12 victory over the Vancouver Stealth on Saturday in National Lacrosse League action. 
  
 Kiel Matisz scored three goals and set up another for Georgia (4-0), Lyle Thompson struck twice and added an assist, Alex Crepinsek had a goal and two helpers and Miles Thompson also scored. 
  
@@ -8,9 +8,8 @@ Logan Schuss led the Stealth (2-4) with three goals and four assists and Rhys Du
  
 Georgia goaltender Mike Poulin made 45 saves. Vancouver&apos;s Tye Belanger made 38 saves in the losing effort. 
  
-The Canadian Press</content> 
-<sequenceId type="str">695194025514</sequenceId> 
-<topics type="list"> 
+The Canadian Press</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Canada news</name> 
@@ -19,7 +18,8 @@ The Canadian Press</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: lacrosse news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:39Z</estimatedPublishedDate> 
-<title type="str">Jackson, Staats lead NLL Swarm in 14-12 win over Vancouver Stealth</title> 
+</TOPICS> 
+<DOCID type="str">695194025514</DOCID> 
+<DCT type="str">2017-01-29T07:12:39Z</DCT> 
+<TITLE type="str">Jackson, Staats lead NLL Swarm in 14-12 win over Vancouver Stealth</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Demonstrators protesting U.S. Donald Trump&apos;s travel ban on Muslim-majority countries greet arriving passengers at Logan Airport in Boston, Massachusetts, January 28, 2017. (Photo by Reuters) 
+<TEXT type="str">Demonstrators protesting U.S. Donald Trump&apos;s travel ban on Muslim-majority countries greet arriving passengers at Logan Airport in Boston, Massachusetts, January 28, 2017. (Photo by Reuters) 
  
 President Donald Trump&apos;s sweeping ban on people from seven Muslim-majority countries has sparked confusion and anger at major US airports. 
  
@@ -24,9 +24,8 @@ ACLU lawyers successfully argued for a temporary stay, allowing detained travele
  
 &quot;The judge, in a nutshell, saw through what the government was doing and gave us what we wanted, which was to block the Trump order and not allow the government to remove anybody who has come and is caught up in the order, nationwide,&quot; Lee Gelernt, deputy legal director of ACLU’s Immigrants Rights Project, told a crowd outside the courthouse. 
  
-Other civil rights and faith advocacy groups as well as Democratic politicians were furious and vowed to fight Trump’s far-reaching executive order.</content> 
-<sequenceId type="str">695200191449</sequenceId> 
-<topics type="list"> 
+Other civil rights and faith advocacy groups as well as Democratic politicians were furious and vowed to fight Trump’s far-reaching executive order.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -39,7 +38,8 @@ Other civil rights and faith advocacy groups as well as Democratic politicians w
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:52Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s Muslim ban sparks outrage at airports</title> 
+</TOPICS> 
+<DOCID type="str">695200191449</DOCID> 
+<DCT type="str">2017-01-29T07:57:52Z</DCT> 
+<TITLE type="str">Trump&apos;s Muslim ban sparks outrage at airports</TITLE> 
 </root>

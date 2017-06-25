@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In signing an executive order imposing tough ethics standards on executive branch employees, President Trump followed a path laid by the two Democratic presidents who preceded him, almost word for word. 
+<TEXT type="str">In signing an executive order imposing tough ethics standards on executive branch employees, President Trump followed a path laid by the two Democratic presidents who preceded him, almost word for word. 
  
 &quot;This is a five-year lobbying ban,&quot; Trump said at the ceremony where he signed this and two other orders. &quot;It&apos;s a two-year ban now, and it&apos;s got full of loopholes, and this is a five-year ban.&quot; 
  
@@ -186,9 +186,8 @@ Clinton:
  
 &quot;(b)  A waiver shall take effect when the certification is signed by the President. 
 &quot;(c)  The waiver certification shall be published in the Federal Register, identifying the name and executive agency position of the person covered by the waiver and the reasons for granting it. 
-&quot;(d)  A copy of the waiver certification shall be furnished to the person covered by the waiver and filed with the head of the agency in which that person is or was appointed to serve.&quot;</content> 
-<sequenceId type="str">695199742755</sequenceId> 
-<topics type="list"> 
+&quot;(d)  A copy of the waiver certification shall be furnished to the person covered by the waiver and filed with the head of the agency in which that person is or was appointed to serve.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -209,7 +208,8 @@ Clinton:
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:54:13Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s Executive Order On Ethics Pulls Word For Word From Obama, Clinton</title> 
+</TOPICS> 
+<DOCID type="str">695199742755</DOCID> 
+<DCT type="str">2017-01-29T07:54:13Z</DCT> 
+<TITLE type="str">Trump&apos;s Executive Order On Ethics Pulls Word For Word From Obama, Clinton</TITLE> 
 </root>

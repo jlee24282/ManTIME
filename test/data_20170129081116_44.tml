@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The public safety officers at Central Oregon Community College should stop pretending to be cops. It’s altogether unclear they have any such authority. 
+<TEXT type="str">The public safety officers at Central Oregon Community College should stop pretending to be cops. It’s altogether unclear they have any such authority. 
  
 Deschutes County District Attorney John Hummel says COCC’s officers do not possess lawful police powers . From his analysis of Oregon law, the officers can enforce campus traffic regulations, but that’s about it. Hummel has told the college that he would initiate criminal charges against it if the officers continue to act without lawful authority. 
  
@@ -14,9 +14,8 @@ COCC President Shirley Metcalf announced several changes in a message to the cam
  
 Those are good steps, though it’s worth asking why it took so long for COCC to change its practices. 
  
-There can be disagreements about interpreting the law. And COCC’s leadership wants to ensure it has a safe campus. But it was clearly more than just possible that COCC was allowing its officers to act without lawful authority. The campus leadership should have put a stop to it immediately until the issue could be sorted out. That is not what happened.</content> 
-<sequenceId type="str">695204260720</sequenceId> 
-<topics type="list"> 
+There can be disagreements about interpreting the law. And COCC’s leadership wants to ensure it has a safe campus. But it was clearly more than just possible that COCC was allowing its officers to act without lawful authority. The campus leadership should have put a stop to it immediately until the issue could be sorted out. That is not what happened.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -29,7 +28,8 @@ There can be disagreements about interpreting the law. And COCC’s leadership w
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:42Z</estimatedPublishedDate> 
-<title type="str">Editorial: No pretend cops on COCC campus</title> 
+</TOPICS> 
+<DOCID type="str">695204260720</DOCID> 
+<DCT type="str">2017-01-29T08:27:42Z</DCT> 
+<TITLE type="str">Editorial: No pretend cops on COCC campus</TITLE> 
 </root>

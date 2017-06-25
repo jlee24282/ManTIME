@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mozambique&apos;s rebel leader Afonso Dhlakama has accused government forces of violating a ceasefire his armed group Renamo had declared following a surge in deadly violence last year.
+<TEXT type="str">Mozambique&apos;s rebel leader Afonso Dhlakama has accused government forces of violating a ceasefire his armed group Renamo had declared following a surge in deadly violence last year.
 
 Dhlakama, who only gives rare interviews by phone from the central Gorongosa mountains where he has been holed-up since October 2015, claimed the government was not taking its ceasefire overtures seriously.
 
@@ -52,9 +52,8 @@ The peace talks with international mediators resumed in May last year but failed
 
 The rebel leader said he will leave his mountain base only to sign a peace agreement.
 
-&quot;We are not going to give up on the truce. But every day someone calls me up to ask me to extend it beyond March 4. And I always tell them that it will depend on the progress of the negotiations.&quot;</content> 
-<sequenceId type="str">695202560549</sequenceId> 
-<topics type="list"> 
+&quot;We are not going to give up on the truce. But every day someone calls me up to ask me to extend it beyond March 4. And I always tell them that it will depend on the progress of the negotiations.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Mozambique news</name> 
@@ -63,7 +62,8 @@ The rebel leader said he will leave his mountain base only to sign a peace agree
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:42Z</estimatedPublishedDate> 
-<title type="str">Mozambique rebel leader accuses soldiers of violating ceasefire</title> 
+</TOPICS> 
+<DOCID type="str">695202560549</DOCID> 
+<DCT type="str">2017-01-29T08:14:42Z</DCT> 
+<TITLE type="str">Mozambique rebel leader accuses soldiers of violating ceasefire</TITLE> 
 </root>

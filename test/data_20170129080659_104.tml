@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">At least 2 people have been killed in a pile-up involving nearly 30 vehicles in Kanota on the outskirts of Jaipur. 36 people have been injured in the accident. Five of them are reported to be in a serious condition.</content> 
-<sequenceId type="str">695194704499</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">At least 2 people have been killed in a pile-up involving nearly 30 vehicles in Kanota on the outskirts of Jaipur. 36 people have been injured in the accident. Five of them are reported to be in a serious condition.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:05Z</estimatedPublishedDate> 
-<title type="str">2 killed in pile-up involving 30 vehicles near Jaipur</title> 
+</TOPICS> 
+<DOCID type="str">695194704499</DOCID> 
+<DCT type="str">2017-01-29T07:17:05Z</DCT> 
+<TITLE type="str">2 killed in pile-up involving 30 vehicles near Jaipur</TITLE> 
 </root>

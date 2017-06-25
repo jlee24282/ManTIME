@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Refugees and immigrants from countries that the Trump administration has listed as security concerns who arrived in the US after Friday evening are still in limbo. 
+<TEXT type="str">Refugees and immigrants from countries that the Trump administration has listed as security concerns who arrived in the US after Friday evening are still in limbo. 
  
 There were protests at airports across the country Saturday. Meanwhile, a federal judge blocked a portion of Trump&apos;s directive in an emergency hearing in Brooklyn. The court ordered that refugees and immigrants with legal documents to enter the US not be returned to their home countries. It effectively paused the program, without ending it. 
  
@@ -62,9 +62,8 @@ Earlier on Saturday, Trump told reporters that his executive order was working w
  
 “It’s not a Muslim ban, but we were totally prepared. It’s working out very nicely. You see it at the airports, you see it all over,” he said, according to a White House press pool report. 
  
-From PRI&apos;s The World ©2016 PRI</content> 
-<sequenceId type="str">695194269514</sequenceId> 
-<topics type="list"> 
+From PRI&apos;s The World ©2016 PRI</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -89,7 +88,8 @@ From PRI&apos;s The World ©2016 PRI</content>
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:49:35Z</estimatedPublishedDate> 
-<title type="str">Federal judge deals Trump administration its first defeat — perhaps temporary — over its immigration restrictions</title> 
+</TOPICS> 
+<DOCID type="str">695194269514</DOCID> 
+<DCT type="str">2017-01-29T05:49:35Z</DCT> 
+<TITLE type="str">Federal judge deals Trump administration its first defeat — perhaps temporary — over its immigration restrictions</TITLE> 
 </root>

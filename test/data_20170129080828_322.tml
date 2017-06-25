@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">While reading Baseball Prospectus’s top prospects list for the St. Louis Cardinals , they noted that there has never been a major-leaguer named “Harrison” before. But Cardinals prospect Harrison Bader could be the first. That is, if Rockies prospect Harrison Musgrave doesn’t beat him to it. (There’s another fun thing about Harrison Musgrave’s name that you can read about in the Baseball Prospectus Annual 2017 .) 
+<TEXT type="str">While reading Baseball Prospectus’s top prospects list for the St. Louis Cardinals , they noted that there has never been a major-leaguer named “Harrison” before. But Cardinals prospect Harrison Bader could be the first. That is, if Rockies prospect Harrison Musgrave doesn’t beat him to it. (There’s another fun thing about Harrison Musgrave’s name that you can read about in the Baseball Prospectus Annual 2017 .) 
  
 Baseball names are fun! Not only might we see two Harrisons for the first time in major-league history this season, but Harrisons Bader and Musgrave could also soon be eligible for an all-time presidential team lineup. 
  
@@ -54,9 +54,8 @@ Manager, Bud Black
  
 Honorary name is also a sentence inclusion, Glenn Braggs 
  
-Baseball names are fun, indeed. Especially in January. Pitchers and catchers report in about two and a half weeks, folks!</content> 
-<sequenceId type="str">695198258476</sequenceId> 
-<topics type="list"> 
+Baseball names are fun, indeed. Especially in January. Pitchers and catchers report in about two and a half weeks, folks!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: MLB - Colorado Rockies news</name> 
@@ -73,7 +72,8 @@ Baseball names are fun, indeed. Especially in January. Pitchers and catchers rep
 <group type="str">Sports</group> 
 <name type="str">Sports: baseball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T17:00:02Z</estimatedPublishedDate> 
-<title type="str">The Colorado Rockies all-time team from Rocky Colavito to Brooks Robinson</title> 
+</TOPICS> 
+<DOCID type="str">695198258476</DOCID> 
+<DCT type="str">2017-01-28T17:00:02Z</DCT> 
+<TITLE type="str">The Colorado Rockies all-time team from Rocky Colavito to Brooks Robinson</TITLE> 
 </root>

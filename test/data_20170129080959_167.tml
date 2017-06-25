@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Trumbull County Sheriff Paul Monroe’s former service as Howland police chief was admirable, and now we urge him to continue along a similar path as sheriff. 
+<TEXT type="str">New Trumbull County Sheriff Paul Monroe’s former service as Howland police chief was admirable, and now we urge him to continue along a similar path as sheriff. 
  
 Monroe began his four-year term as Trumbull County sheriff on Jan. 2 after defeating longtime sheriff Thomas Altiere in the March primary. He was unopposed in November. 
  
@@ -22,9 +22,8 @@ We urge Monroe to keep his focus on fighting crime, providing service and runnin
  
 If he serves well — and we suspect he will — any future political aspirations will follow naturally. 
  
-editorial@tribtoday.com</content> 
-<sequenceId type="str">695201747203</sequenceId> 
-<topics type="list"> 
+editorial@tribtoday.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ editorial@tribtoday.com</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:28Z</estimatedPublishedDate> 
-<title type="str">Keep focus on service, not politics</title> 
+</TOPICS> 
+<DOCID type="str">695201747203</DOCID> 
+<DCT type="str">2017-01-29T08:08:28Z</DCT> 
+<TITLE type="str">Keep focus on service, not politics</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">John Hurt, whose acting career spanned five and a half decades, has died. He was 77. 
+<TEXT type="str">John Hurt, whose acting career spanned five and a half decades, has died. He was 77. 
  
 Hurt was featured in three Harry Potter films as wandmaker Garrick Ollivander, and was also known for his roles in Alien, Hellboy, and dozens of other films and television programs. His role in Midnight Express earned him an Academy Award nomination for Best Supporting Actor in 1978, and in 1980 he was again nominated for an Oscar, this time for Best Actor, for his role in David Lynch&apos;s The Elephant Man. 
  John Hurt as the War Doctor in Doctor Who. 
@@ -12,9 +12,8 @@ In the movie adaptation of George Orwell&apos;s 1984, Hurt took on the role of W
  
 Hurt is survived by his wife Anwen Rees-Myers, and two sons Alexander and Nicholas. 
  
-Seth Macy is IGN&apos;s weekend web producer and just wants to be your friend. Follow him on Twitter @sethmacy , or subscribe to Seth Macy&apos;s YouTube channel.</content> 
-<sequenceId type="str">695204431780</sequenceId> 
-<topics type="list"> 
+Seth Macy is IGN&apos;s weekend web producer and just wants to be your friend. Follow him on Twitter @sethmacy , or subscribe to Seth Macy&apos;s YouTube channel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -27,7 +26,8 @@ Seth Macy is IGN&apos;s weekend web producer and just wants to be your friend. F
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T18:32:23Z</estimatedPublishedDate> 
-<title type="str">Alien and Harry Potter Actor John Hurt Dies</title> 
+</TOPICS> 
+<DOCID type="str">695204431780</DOCID> 
+<DCT type="str">2017-01-28T18:32:23Z</DCT> 
+<TITLE type="str">Alien and Harry Potter Actor John Hurt Dies</TITLE> 
 </root>

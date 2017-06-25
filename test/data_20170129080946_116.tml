@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One can understand the giddiness Republicans must be feeling right now. They have complete control of our federal government. 
+<TEXT type="str">One can understand the giddiness Republicans must be feeling right now. They have complete control of our federal government. 
 
 But giddiness must not fuel decision-making. Every decision Congress makes will have consequences and unintended outcomes. 
 
@@ -48,9 +48,8 @@ I’ll make the first donation.
 
 Rabbi Stephen Grundfast 
 
-Akron</content> 
-<sequenceId type="str">695201279494</sequenceId> 
-<topics type="list"> 
+Akron</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Cleveland news</name> 
@@ -63,7 +62,8 @@ Akron</content>
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:41:25Z</estimatedPublishedDate> 
-<title type="str">Letters to the editor: Desperate civilizations build walls and save the Goodrich stacks — Jan. 29</title> 
+</TOPICS> 
+<DOCID type="str">695201279494</DOCID> 
+<DCT type="str">2017-01-29T01:41:25Z</DCT> 
+<TITLE type="str">Letters to the editor: Desperate civilizations build walls and save the Goodrich stacks — Jan. 29</TITLE> 
 </root>

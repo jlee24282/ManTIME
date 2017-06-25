@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Electoral College’s president 
+<TEXT type="str">Electoral College’s president 
  
 To the editor: In answer to Jan. 8 letter writer Candler Willis’ cry to liberals, “Deal with it” (i.e., the presidential election), I would point out that “the people of America” did not choose the president-elect; the Electoral College did. A plurality of more than 2 million “people of America” chose otherwise. 
  
@@ -90,9 +90,8 @@ After Obamacare is completely repealed, Congress can then pass a second budget f
  
 Jane Bilello 
  
-Hendersonville</content> 
-<sequenceId type="str">695197256792</sequenceId> 
-<topics type="list"> 
+Hendersonville</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -101,7 +100,8 @@ Hendersonville</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Sunday&apos;s letters: Electoral College&apos;s president</title> 
+</TOPICS> 
+<DOCID type="str">695197256792</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Sunday&apos;s letters: Electoral College&apos;s president</TITLE> 
 </root>

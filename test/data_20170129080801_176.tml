@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Iran Press TV
+<TEXT type="str">Iran Press TV
 
 Sat Jan 28, 2017 10:21AM
 
@@ -18,9 +18,8 @@ In mid-January, the militants assassinated a representative of the Syrian govern
 
 According to Syria&apos;s government, the militants fighting in Badi Warada belong to the Jabhat Fateh al-Sham Takfiri terror group. The terrorists were formerly known as al-Nusra Front, al-Qaeda&apos;s branch in Syria, but renamed themselves and alleged breaking away from the Egyptian outfit.
 
-An all-Syria ceasefire, which has been brokered by Russia and Turkey, forbids fighting across the Arab country&apos;s territory. However, Jabhat Fateh al-Sham and its fellow Takfiri terror group of Daesh have been excluded from the agreement due to the barbarity of their actions and their refusal to fall into step with any pacification efforts.</content> 
-<sequenceId type="str">695197067197</sequenceId> 
-<topics type="list"> 
+An all-Syria ceasefire, which has been brokered by Russia and Turkey, forbids fighting across the Arab country&apos;s territory. However, Jabhat Fateh al-Sham and its fellow Takfiri terror group of Daesh have been excluded from the agreement due to the barbarity of their actions and their refusal to fall into step with any pacification efforts.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Syria news</name> 
@@ -33,7 +32,8 @@ An all-Syria ceasefire, which has been brokered by Russia and Turkey, forbids fi
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:33Z</estimatedPublishedDate> 
-<title type="str">&apos;Syria forces retake spring near Damascus&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695197067197</DOCID> 
+<DCT type="str">2017-01-29T07:34:33Z</DCT> 
+<TITLE type="str">&apos;Syria forces retake spring near Damascus&apos;</TITLE> 
 </root>

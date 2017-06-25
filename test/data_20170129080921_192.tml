@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The long-awaited Knights have arrived in Lincoln and the process of transforming them from plain white to dazzling works of art is underway.
+<TEXT type="str">The long-awaited Knights have arrived in Lincoln and the process of transforming them from plain white to dazzling works of art is underway.
 
 The Knights are the follow-up to the hugely successful Lincoln Barons&apos; Charter Trail staged in the city last year to celebrate 800 years of Magna Carta.
 
@@ -34,9 +34,8 @@ Lincoln Market
 
 Daisy Made Ice Cream, Skellingthorpe
 
-Ruddocks shop window – Lincoln High Street.</content> 
-<sequenceId type="str">695200371280</sequenceId> 
-<topics type="list"> 
+Ruddocks shop window – Lincoln High Street.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
@@ -45,7 +44,8 @@ Ruddocks shop window – Lincoln High Street.</content>
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T11:49:00Z</estimatedPublishedDate> 
-<title type="str">Lincoln knights ride into town to remember one of England&apos;s most...</title> 
+</TOPICS> 
+<DOCID type="str">695200371280</DOCID> 
+<DCT type="str">2017-01-28T11:49:00Z</DCT> 
+<TITLE type="str">Lincoln knights ride into town to remember one of England&apos;s most...</TITLE> 
 </root>

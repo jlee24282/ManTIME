@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The following is the latest available news video.
+<TEXT type="str">The following is the latest available news video.
 
 Japan&apos;s research base in Antarctica marks 60th anniversary
 
@@ -10,9 +10,8 @@ Japan&apos;s research base in Antarctica marks 60th anniversary
 
 NOTE: To see and order the video, please go to the URL given. Use of the video is limited to news and other relevant broadcasting.
 
-==Kyodo</content> 
-<sequenceId type="str">695196331347</sequenceId> 
-<topics type="list"> 
+==Kyodo</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -25,7 +24,8 @@ NOTE: To see and order the video, please go to the URL given. Use of the video i
 <group type="str">Regional</group> 
 <name type="str">Antarctic news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:31Z</estimatedPublishedDate> 
-<title type="str">Video Advisory (Jan. 29) Japan&apos;s research base in Antarctica marks 60th anniversary</title> 
+</TOPICS> 
+<DOCID type="str">695196331347</DOCID> 
+<DCT type="str">2017-01-29T07:25:31Z</DCT> 
+<TITLE type="str">Video Advisory (Jan. 29) Japan&apos;s research base in Antarctica marks 60th anniversary</TITLE> 
 </root>

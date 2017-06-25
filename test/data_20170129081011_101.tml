@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cameroon have edged out Senegal from the African Nations Cup race. 
+<TEXT type="str">Cameroon have edged out Senegal from the African Nations Cup race. 
  
 The Cameroonians qualified for the semi-finals, beating Senegal on penalties 5-4, after the two teams played goalless, even after extra time. 
  
@@ -22,9 +22,8 @@ The result means Mane is likely to make a swift return to his club Liverpool, wh
  
 There were striking similarities to this game and 15 years ago, when Cameroon and Senegal met in the 2002 final in Mali. 
  
-On that occasion, Cameroon beat Senegal 3-2 on penalty kicks after a goalless 120 minutes.</content> 
-<sequenceId type="str">695202180595</sequenceId> 
-<topics type="list"> 
+On that occasion, Cameroon beat Senegal 3-2 on penalty kicks after a goalless 120 minutes.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Cameroon news</name> 
@@ -41,7 +40,8 @@ On that occasion, Cameroon beat Senegal 3-2 on penalty kicks after a goalless 12
 <group type="str">Regional</group> 
 <name type="str">Senegal news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:03Z</estimatedPublishedDate> 
-<title type="str">Cameroon, Burkina Faso through to AFCON semis</title> 
+</TOPICS> 
+<DOCID type="str">695202180595</DOCID> 
+<DCT type="str">2017-01-29T08:03:03Z</DCT> 
+<TITLE type="str">Cameroon, Burkina Faso through to AFCON semis</TITLE> 
 </root>

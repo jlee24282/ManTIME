@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">French presidential hopeful Francois Fillon has vowed to fight to the end in the face of allegations his wife was paid for fictitious jobs, saying there are &quot;forces at work to silence me&quot;. 
+<TEXT type="str">French presidential hopeful Francois Fillon has vowed to fight to the end in the face of allegations his wife was paid for fictitious jobs, saying there are &quot;forces at work to silence me&quot;. 
  Source:  
 AFP 
   
@@ -38,9 +38,8 @@ Francois Fillon told the newspaper that he would only &quot;answer to justice&qu
  
 The newspaper alleged that Penelope received the money between 1998 and 2012. 
  
-It also said that in 2012 and 2013, Penelope Fillon was paid 5,000 euros a month at La Revue des Deux Mondes magazine, owned by a friend of Francois Fillon.</content> 
-<sequenceId type="str">695197402911</sequenceId> 
-<topics type="list"> 
+It also said that in 2012 and 2013, Penelope Fillon was paid 5,000 euros a month at La Revue des Deux Mondes magazine, owned by a friend of Francois Fillon.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -49,7 +48,8 @@ It also said that in 2012 and 2013, Penelope Fillon was paid 5,000 euros a month
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:04Z</estimatedPublishedDate> 
-<title type="str">France&apos;s Fillon vows fight &apos;to the end&apos; over wife job scandal</title> 
+</TOPICS> 
+<DOCID type="str">695197402911</DOCID> 
+<DCT type="str">2017-01-29T07:37:04Z</DCT> 
+<TITLE type="str">France&apos;s Fillon vows fight &apos;to the end&apos; over wife job scandal</TITLE> 
 </root>

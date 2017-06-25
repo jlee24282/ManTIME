@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Head of Jubilee’s campaign secretariat Raphael Tuju during an interview at his office
+<TEXT type="str">Head of Jubilee’s campaign secretariat Raphael Tuju during an interview at his office
 
 The Jubilee Party is planning a massive campaign in Nyanza to harvest maximum votes from Opposition leader Raila Odinga’s undisputed stronghold.
 
@@ -38,9 +38,8 @@ Meanwhile, politicians perceived to be loyal to the establishment continued to r
 
 Early this week, Kisumu Central Member of Parliament Ken Obura met a cruel reception in his own constituency as he led a voter mobilisation campaign.
 
-His Karachuonyo counterpart James Rege has also faced rebellion in his home tough since joining Jubilee Party last year.</content> 
-<sequenceId type="str">695205091547</sequenceId> 
-<topics type="list"> 
+His Karachuonyo counterpart James Rege has also faced rebellion in his home tough since joining Jubilee Party last year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -53,7 +52,8 @@ His Karachuonyo counterpart James Rege has also faced rebellion in his home toug
 <group type="str">Regional</group> 
 <name type="str">Kenya news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:22Z</estimatedPublishedDate> 
-<title type="str">Jubilee will hunt for votes from every corner of Nyanza, says Tuju</title> 
+</TOPICS> 
+<DOCID type="str">695205091547</DOCID> 
+<DCT type="str">2017-01-29T08:34:22Z</DCT> 
+<TITLE type="str">Jubilee will hunt for votes from every corner of Nyanza, says Tuju</TITLE> 
 </root>

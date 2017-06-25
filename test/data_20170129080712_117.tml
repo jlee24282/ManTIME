@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Date:  
+<TEXT type="str">Date:  
 Monday, February 13, 2017 
   Time:  
 8:00 pm 
@@ -17,9 +17,8 @@ This public concert represents a component of this performer&apos;s undergraduat
  
 Studio teacher: Gloria Gassi 
  
-Admission is free and open to all.</content> 
-<sequenceId type="str">695195079342</sequenceId> 
-<topics type="list"> 
+Admission is free and open to all.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -32,7 +31,8 @@ Admission is free and open to all.</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:41Z</estimatedPublishedDate> 
-<title type="str">Student Recital: Meghan Chevalier (voice)</title> 
+</TOPICS> 
+<DOCID type="str">695195079342</DOCID> 
+<DCT type="str">2017-01-29T07:20:41Z</DCT> 
+<TITLE type="str">Student Recital: Meghan Chevalier (voice)</TITLE> 
 </root>

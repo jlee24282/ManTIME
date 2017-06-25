@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FanDuel Bargain Bin Conference Championship
+<TEXT type="str">FanDuel Bargain Bin Conference Championship
 
 Each week I search for the cheapest viable options for your FanDuel lineups at every position. The plays are geared toward cash games unless otherwise indicated and I do try to use a price ceiling of $7000 for QB, $6000 for RB/WR, and $5500 for TE, but on this, the last week of NFL DFS, that is simply impossible. So what I’ll do is run through the bargain options at each position and give my thoughts on pros and cons.
 
@@ -38,9 +38,8 @@ Jesse James $5400: As I said for Roethlisberger above, I think the Steelers will
 
 Defense
 
-New England Patriots $4400: With four of the league’s best offenses facing off this weekend, defense is another position I’d rather avoid if I could. New England and Atlanta are tied with the league’s fewest giveaways, while Green Bay and Atlanta allow almost the most passing yards per game in the league. So those defenses are out. New England allowed the third-fewest rushing yards per game and the fewest points per game. With the Steelers coming in the middle of the pack in terms of turnovers, and most of those coming on the road, the Patriots are the best bet. They’re the most expensive unit this week, but their price makes them a value relative to the most expensive defenses we had during the regular season (which were typically $5k+).</content> 
-<sequenceId type="str">695196448763</sequenceId> 
-<topics type="list"> 
+New England Patriots $4400: With four of the league’s best offenses facing off this weekend, defense is another position I’d rather avoid if I could. New England and Atlanta are tied with the league’s fewest giveaways, while Green Bay and Atlanta allow almost the most passing yards per game in the league. So those defenses are out. New England allowed the third-fewest rushing yards per game and the fewest points per game. With the Steelers coming in the middle of the pack in terms of turnovers, and most of those coming on the road, the Patriots are the best bet. They’re the most expensive unit this week, but their price makes them a value relative to the most expensive defenses we had during the regular season (which were typically $5k+).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - New England Patriots news</name> 
@@ -57,7 +56,8 @@ New England Patriots $4400: With four of the league’s best offenses facing off
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:39Z</estimatedPublishedDate> 
-<title type="str">Daily Archives - Bargain Bin Conference Round</title> 
+</TOPICS> 
+<DOCID type="str">695196448763</DOCID> 
+<DCT type="str">2017-01-29T07:29:39Z</DCT> 
+<TITLE type="str">Daily Archives - Bargain Bin Conference Round</TITLE> 
 </root>

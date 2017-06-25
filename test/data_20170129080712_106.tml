@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On Saturday afternoon, the Colorado State Rams (14-8, 6-3) defeated the San Diego State Aztecs (11-9, 3-5 MW) at home 78-77 in a thriller. Coming into this matchup, the Aztecs were plagued by more injuries as forward Zylan Cheatham sat out and was in a walking boot during shootaround. 
+<TEXT type="str">On Saturday afternoon, the Colorado State Rams (14-8, 6-3) defeated the San Diego State Aztecs (11-9, 3-5 MW) at home 78-77 in a thriller. Coming into this matchup, the Aztecs were plagued by more injuries as forward Zylan Cheatham sat out and was in a walking boot during shootaround. 
  
 In the first half, the two teams looked evenly matched as they traded baskets in the opening minutes of the game. The momentum shifted when highly touted Malik Pope took the ball full court for a slam dunk that forced the Rams to call a timeout and put the Aztecs crowd on their feet with 12:01. 
  
@@ -20,9 +20,8 @@ Up Next:
  
 SDSU: The Aztecs will look to bounce back after another loss and face Wyoming at home on Tuesday night. 
  
-CSU: The Rams will look to win their fourth straight when they face Boise State on Tuesday at home.</content> 
-<sequenceId type="str">695195055884</sequenceId> 
-<topics type="list"> 
+CSU: The Rams will look to win their fourth straight when they face Boise State on Tuesday at home.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -31,7 +30,8 @@ CSU: The Rams will look to win their fourth straight when they face Boise State 
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:07:33Z</estimatedPublishedDate> 
-<title type="str">SDSU vs. Colorado State Recap: Rams outlast and shock Aztecs at home</title> 
+</TOPICS> 
+<DOCID type="str">695195055884</DOCID> 
+<DCT type="str">2017-01-29T06:07:33Z</DCT> 
+<TITLE type="str">SDSU vs. Colorado State Recap: Rams outlast and shock Aztecs at home</TITLE> 
 </root>

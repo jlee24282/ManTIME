@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Follow @edarabia  
+<TEXT type="str">Follow @edarabia  
 
  
 Abu Dhabi, UAE: Thirty Harvard University students were in the UAE last week to learn about the country’s best practices in government innovation. 
@@ -50,9 +50,8 @@ The exchange of knowledge and education, she said, was ­vital in fighting terro
 “Education is the core and key to fighting extremism.” 
  
 © The National 
- Jan 2</content> 
-<sequenceId type="str">695193877315</sequenceId> 
-<topics type="list"> 
+ Jan 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -69,7 +68,8 @@ The exchange of knowledge and education, she said, was ­vital in fighting terro
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:36Z</estimatedPublishedDate> 
-<title type="str">Harvard students’ visit to UAE focuses on government innovation</title> 
+</TOPICS> 
+<DOCID type="str">695193877315</DOCID> 
+<DCT type="str">2017-01-29T07:11:36Z</DCT> 
+<TITLE type="str">Harvard students’ visit to UAE focuses on government innovation</TITLE> 
 </root>

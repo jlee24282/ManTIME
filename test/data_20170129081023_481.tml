@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new report has been launched by Doctor Rokhsar, the Long Island liposuction expert at New York Cosmetic, Skin &amp; Laser Surgery. It explains that liposuction and liposculpture can be used to help hone patients bodies to the image they want.
+<TEXT type="str">A new report has been launched by Doctor Rokhsar, the Long Island liposuction expert at New York Cosmetic, Skin &amp; Laser Surgery. It explains that liposuction and liposculpture can be used to help hone patients bodies to the image they want.
 
 Brooklyn, United States – January 29, 2017 /PressCable/ 
 
@@ -32,9 +32,8 @@ For more information, please visit http://www.virtualheroics.com
 
 Source: PressCable
 
-Release ID: 1652</content> 
-<sequenceId type="str">695202817645</sequenceId> 
-<topics type="list"> 
+Release ID: 1652</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -43,7 +42,8 @@ Release ID: 1652</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:00Z</estimatedPublishedDate> 
-<title type="str">Long Island Liposculpture New York Cosmetic Surgery Melt Fat Report Launched</title> 
+</TOPICS> 
+<DOCID type="str">695202817645</DOCID> 
+<DCT type="str">2017-01-29T08:06:00Z</DCT> 
+<TITLE type="str">Long Island Liposculpture New York Cosmetic Surgery Melt Fat Report Launched</TITLE> 
 </root>

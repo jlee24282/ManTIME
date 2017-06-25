@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Leeds United head coach Garry Monk is promising to make a number of changes to his side for the FA Cup tie at Sutton United. 
+<TEXT type="str">Leeds United head coach Garry Monk is promising to make a number of changes to his side for the FA Cup tie at Sutton United. 
 
 With Leeds back in Championship action at Blackburn Rovers in midweek, Monk will once again rotate his squad for the potential banana-skin cup-tie. 
 
@@ -34,9 +34,8 @@ Vital Leeds on:
 
 Join Vital Leeds 
 
-It&apos;s easy to REGISTER HERE , simply click the link and enjoy getting involved!</content> 
-<sequenceId type="str">695199468745</sequenceId> 
-<topics type="list"> 
+It&apos;s easy to REGISTER HERE , simply click the link and enjoy getting involved!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ It&apos;s easy to REGISTER HERE , simply click the link and enjoy getting involv
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:00Z</estimatedPublishedDate> 
-<title type="str">LUFC Monk - We Will Have To Make Changes</title> 
+</TOPICS> 
+<DOCID type="str">695199468745</DOCID> 
+<DCT type="str">2017-01-29T07:30:00Z</DCT> 
+<TITLE type="str">LUFC Monk - We Will Have To Make Changes</TITLE> 
 </root>

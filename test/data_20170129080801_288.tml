@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Andrew Lock) This post is the next in a series of posts on the authentication and authorisation infrastructure in ASP.NET Core . In the previous post we showed the basic framework for authorisation in ASP.NET Core i.e. restricting access to parts of your application depending on the current authent 
+<TEXT type="str">(Andrew Lock) This post is the next in a series of posts on the authentication and authorisation infrastructure in ASP.NET Core . In the previous post we showed the basic framework for authorisation in ASP.NET Core i.e. restricting access to parts of your application depending on the current authent 
 
-Read More - Register for Free Membership</content> 
-<sequenceId type="str">695197148323</sequenceId> 
-<topics type="list"> 
+Read More - Register for Free Membership</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">ASP news</name> 
@@ -13,7 +12,8 @@ Read More - Register for Free Membership</content>
 <group type="str">Technology</group> 
 <name type="str">Tech policy news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Custom authorisation policies and requirements in ASP.NET Core</title> 
+</TOPICS> 
+<DOCID type="str">695197148323</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Custom authorisation policies and requirements in ASP.NET Core</TITLE> 
 </root>

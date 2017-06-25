@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DE SOTO, Mo. – Potosi wrestler Ben Turnbough survived an extreme test on Saturday to continue his unbeaten season at the Bob Georger Classic. 
+<TEXT type="str">DE SOTO, Mo. – Potosi wrestler Ben Turnbough survived an extreme test on Saturday to continue his unbeaten season at the Bob Georger Classic. 
    
 The junior standout earned a narrow 8-7 decision over Warren Sheppard of Lexington to win the 182-pound bracket and improve to 29-0 overall. 
    
@@ -28,9 +28,8 @@ Hayden Sprenkel netted 33 points to pace North County (12-7). The junior guard s
    
 Hunter Johnson added 14 points for the Raiders, who closed to within 33-28 at halftime and made 12-of-17 free throws overall. 
    
-Antione Williams tallied 18 points while Sam Richardson had 13 and Jeremiah Turner scored 11 for Hancock.</content> 
-<sequenceId type="str">695204367883</sequenceId> 
-<topics type="list"> 
+Antione Williams tallied 18 points while Sam Richardson had 13 and Jeremiah Turner scored 11 for Hancock.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -39,7 +38,8 @@ Antione Williams tallied 18 points while Sam Richardson had 13 and Jeremiah Turn
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:44Z</estimatedPublishedDate> 
-<title type="str">Roundup: Potosi wrestler stays unbeaten</title> 
+</TOPICS> 
+<DOCID type="str">695204367883</DOCID> 
+<DCT type="str">2017-01-29T08:28:44Z</DCT> 
+<TITLE type="str">Roundup: Potosi wrestler stays unbeaten</TITLE> 
 </root>

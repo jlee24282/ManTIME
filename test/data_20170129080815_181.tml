@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Rohit Vaid  
+<TEXT type="str">By Rohit Vaid  
   
 Mumbai, Jan 29 (IANS): The Indian equities markets are expected to be volatile as investors look forward to more policy reforms, sops and tax breaks from the Union Budget. 
  
@@ -52,9 +52,8 @@ Last week, the key domestic indices zoomed by more than 3 per cent as resurgence
  
 The barometer 30-scrip Sensitive Index (Sensex) of the BSE augmented by 847.96 points or 3.14 per cent to 27,882.46 points. 
  
-Similarly, the wider 51-scrip Nifty of the National Stock Exchange (NSE) climbed by 291.9 points or 3.50 per cent to 8,641.25 points.</content> 
-<sequenceId type="str">695197466046</sequenceId> 
-<topics type="list"> 
+Similarly, the wider 51-scrip Nifty of the National Stock Exchange (NSE) climbed by 291.9 points or 3.50 per cent to 8,641.25 points.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Equity markets news</name> 
@@ -63,7 +62,8 @@ Similarly, the wider 51-scrip Nifty of the National Stock Exchange (NSE) climbed
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:44Z</estimatedPublishedDate> 
-<title type="str">Budgetary expectations to keep equities markets volatile</title> 
+</TOPICS> 
+<DOCID type="str">695197466046</DOCID> 
+<DCT type="str">2017-01-29T07:37:44Z</DCT> 
+<TITLE type="str">Budgetary expectations to keep equities markets volatile</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The declining fortunes of African countries effect is being reflected on the  ratings of its richest citizens as the number of billionaires in the continent  and the size of their fortunes continues to drop. 
+<TEXT type="str">The declining fortunes of African countries effect is being reflected on the  ratings of its richest citizens as the number of billionaires in the continent  and the size of their fortunes continues to drop. 
  
 Two of Nigeria&apos;s billionaires were dropped off the 2017 FORBES list. 
  
@@ -20,9 +20,8 @@ Luxury goods tycoon Johann Rupert and retail magnate Christoffel Wiese are tied 
  
 Egypt&apos;s richest billionaire is Nassef Sawiris, whose $5.3 billion fortune is up $400 million since November 2015. Sawiris runs OCI, one of the world&apos;s largest nitrogen fertilizers. The country&apos;s next richest person is his brother Naguib Sawiris, who was Egypt&apos;s biggest gainer on the list. His net worth increased $700 million to $3.7 billion. In December 2016, Naguib Sawiris announced that he would be stepping down as CEO of his telecom company, Orasom Telecom Media &amp; Technology. 
  
-FORBES counts only two female billionaires in Africa: Angola&apos;s Isabel dos Santos - Africa&apos;s richest woman with a $3.2 billion fortune, and Nigeria&apos;s Alakija. Dos Santos is the daughter of Angola&apos;s president, who appointed her as head of Angola&apos;s state oil firm Sonangol in June 2016. Alakija is the vice chair of Nigerian oil exploration company, Famfa Oil</content> 
-<sequenceId type="str">695202181484</sequenceId> 
-<topics type="list"> 
+FORBES counts only two female billionaires in Africa: Angola&apos;s Isabel dos Santos - Africa&apos;s richest woman with a $3.2 billion fortune, and Nigeria&apos;s Alakija. Dos Santos is the daughter of Angola&apos;s president, who appointed her as head of Angola&apos;s state oil firm Sonangol in June 2016. Alakija is the vice chair of Nigerian oil exploration company, Famfa Oil</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -43,7 +42,8 @@ FORBES counts only two female billionaires in Africa: Angola&apos;s Isabel dos S
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:18Z</estimatedPublishedDate> 
-<title type="str">Dangote remains richest African – Forbes</title> 
+</TOPICS> 
+<DOCID type="str">695202181484</DOCID> 
+<DCT type="str">2017-01-29T08:07:18Z</DCT> 
+<TITLE type="str">Dangote remains richest African – Forbes</TITLE> 
 </root>

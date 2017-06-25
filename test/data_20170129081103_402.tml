@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arsenal are reported to have joined Manchester United in the race to sign Atletico Madrid forward Antoine Griezmann.</content> 
-<sequenceId type="str">695204099142</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Arsenal are reported to have joined Manchester United in the race to sign Atletico Madrid forward Antoine Griezmann.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:45Z</estimatedPublishedDate> 
-<title type="str">Arsenal: Gunners join Griezmann battle</title> 
+</TOPICS> 
+<DOCID type="str">695204099142</DOCID> 
+<DCT type="str">2017-01-29T08:14:45Z</DCT> 
+<TITLE type="str">Arsenal: Gunners join Griezmann battle</TITLE> 
 </root>

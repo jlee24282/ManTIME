@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Pictures Videos 
+<TEXT type="str">Pictures Videos 
  
 DUBAI, 29th January, 2017 (WAM) -- Dubai Airports and Chinese airlines that operate into Dubai International, DXB, yesterday celebrated Chinese New Year with passengers by serving cake and showcasing Chinese culture with a traditional Dragon Dance in DXB’s Concourse D. 
  
@@ -10,9 +10,8 @@ China is a fast growing and important market for Dubai Airports with 2.86 millio
  
 In 2016, four new services were launched from DXB, including Air China’s service to Chongqing, China Southern Airlines’ flight to Wuhan, Emirates’ flight to Yinchuan and Sichuan Airlines’ service to Chengdu. 
  
-WAM/Esraa/Moran</content> 
-<sequenceId type="str">695203668588</sequenceId> 
-<topics type="list"> 
+WAM/Esraa/Moran</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -37,7 +36,8 @@ WAM/Esraa/Moran</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:26Z</estimatedPublishedDate> 
-<title type="str">Dubai Airports celebrates Chinese New Year</title> 
+</TOPICS> 
+<DOCID type="str">695203668588</DOCID> 
+<DCT type="str">2017-01-29T08:23:26Z</DCT> 
+<TITLE type="str">Dubai Airports celebrates Chinese New Year</TITLE> 
 </root>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One person has died while at least 28 others are injured on Jaipur-Agra highway as more than 50 vehicles collided with each other due to dense fog.</content> 
-<sequenceId type="str">695195830290</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">One person has died while at least 28 others are injured on Jaipur-Agra highway as more than 50 vehicles collided with each other due to dense fog.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:08Z</estimatedPublishedDate> 
-<title type="str">Jaipur-Agra highway: 50 vehicles collide due to dense fog; 1 dead, 28 injured</title> 
+</TOPICS> 
+<DOCID type="str">695195830290</DOCID> 
+<DCT type="str">2017-01-29T07:16:08Z</DCT> 
+<TITLE type="str">Jaipur-Agra highway: 50 vehicles collide due to dense fog; 1 dead, 28 injured</TITLE> 
 </root>

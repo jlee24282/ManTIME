@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Association of Heads of Independent Schools of Australia 
+<TEXT type="str">Association of Heads of Independent Schools of Australia 
  
 AHISA MEDIA RELEASE 
  
@@ -32,9 +32,8 @@ AHISA is a professional association of 425 Heads of independent schools. Its mem
  
 AHISA National Office: 17/71 Constitution Avenue, Campbell ACT 2612; telephone (02)  6247 7300; email  enquiries@ahisa.edu.au ; web www.ahisa.edu.au. 
  
- </content> 
-<sequenceId type="str">695195425376</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -59,7 +58,8 @@ AHISA National Office: 17/71 Constitution Avenue, Campbell ACT 2612; telephone (
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:02Z</estimatedPublishedDate> 
-<title type="str">Federal Minister for Education&apos;s first steps toward compulsory Year 1 assessment show commendable caution</title> 
+</TOPICS> 
+<DOCID type="str">695195425376</DOCID> 
+<DCT type="str">2017-01-29T07:22:02Z</DCT> 
+<TITLE type="str">Federal Minister for Education&apos;s first steps toward compulsory Year 1 assessment show commendable caution</TITLE> 
 </root>

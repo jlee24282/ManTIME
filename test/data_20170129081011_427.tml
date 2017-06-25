@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Adam Lallana &amp; Liverpool 
+<TEXT type="str">Adam Lallana &amp; Liverpool 
 
 One of the transfer stories which has popped up over the past few weeks has centred on Liverpool midfielder Adam Lallana
 
@@ -38,9 +38,8 @@ Lallana’s current contract expires in 2019 while he’s scored seven Premier L
 
  
 
-Hopefully this news will lift the spirits of Liverpool fans who have seen their side win just one of their last eight matches as they’ve been knocked out the EFL Cup and FA Cup in back to back matches</content> 
-<sequenceId type="str">695202443630</sequenceId> 
-<topics type="list"> 
+Hopefully this news will lift the spirits of Liverpool fans who have seen their side win just one of their last eight matches as they’ve been knocked out the EFL Cup and FA Cup in back to back matches</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
@@ -49,7 +48,8 @@ Hopefully this news will lift the spirits of Liverpool fans who have seen their 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:59Z</estimatedPublishedDate> 
-<title type="str">Major update on Adam Lallana’s Liverpool future as Spurs circle</title> 
+</TOPICS> 
+<DOCID type="str">695202443630</DOCID> 
+<DCT type="str">2017-01-29T08:13:59Z</DCT> 
+<TITLE type="str">Major update on Adam Lallana’s Liverpool future as Spurs circle</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump&apos;s proposed border wall faces many obstacles. One of the tallest: building it without undocumented workers. 
+<TEXT type="str">President Donald Trump&apos;s proposed border wall faces many obstacles. One of the tallest: building it without undocumented workers. 
  
 A labor shortage has left few hands to build houses and factories in the region, where wages have already been rising and projects delayed. Now, the president&apos;s plan for &quot;immediate construction of a border wall&quot; will force the government to find legal builders for a project that could employ thousands if not tens of thousands. 
  
@@ -34,9 +34,8 @@ Still, young people think &quot;swinging a hammer&quot; is for unaccomplished pe
  
 &quot;Eight to 10 years ago people were beating down their doors looking for jobs,&quot; she said. 
  
-SundayMonday Business on 01/29/2</content> 
-<sequenceId type="str">695202404092</sequenceId> 
-<topics type="list"> 
+SundayMonday Business on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Construction news</name> 
@@ -45,7 +44,8 @@ SundayMonday Business on 01/29/2</content>
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:33Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s plan to build wall facing labor pinch</title> 
+</TOPICS> 
+<DOCID type="str">695202404092</DOCID> 
+<DCT type="str">2017-01-29T07:55:33Z</DCT> 
+<TITLE type="str">Trump&apos;s plan to build wall facing labor pinch</TITLE> 
 </root>

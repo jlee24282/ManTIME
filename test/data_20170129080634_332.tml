@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">An Australian tourism campaign launched, and the new slogan is causing quite the stir on social media. 
+<TEXT type="str">An Australian tourism campaign launched, and the new slogan is causing quite the stir on social media. 
  
 Photo:  CU in the NT Facebook 
   An Australian tourism campaign launched, and the new slogan is causing quite the stir on social media. 
@@ -166,9 +166,8 @@ But, given Trump’s reputation as being thin-skinned about criticism and for tw
   
 Source 
  
-The post An old Trump Hotels tweet got new life after Muslim ban appeared first on Houston News Info .</content> 
-<sequenceId type="str">695194156732</sequenceId> 
-<topics type="list"> 
+The post An old Trump Hotels tweet got new life after Muslim ban appeared first on Houston News Info .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Retail industry news</name> 
@@ -197,7 +196,8 @@ The post An old Trump Hotels tweet got new life after Muslim ban appeared first 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:06:21Z</estimatedPublishedDate> 
-<title type="str">An old Trump Hotels tweet got new life after Muslim ban</title> 
+</TOPICS> 
+<DOCID type="str">695194156732</DOCID> 
+<DCT type="str">2017-01-29T07:06:21Z</DCT> 
+<TITLE type="str">An old Trump Hotels tweet got new life after Muslim ban</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Repetition has been key for Eddie Jones Eddie Jones believes using the same tactic of repetition that Donald Trump employs has played a key role in his bid to get England back to the top of world rugby.
+<TEXT type="str">Repetition has been key for Eddie Jones Eddie Jones believes using the same tactic of repetition that Donald Trump employs has played a key role in his bid to get England back to the top of world rugby.
 
 The Australian has overseen a tremendous turnaround of England&apos;s fortunes since replacing Stuart Lancaster after the 2015 World Cup, and next weekend looks to start a repeat of last year&apos;s Six Nations Grand Slam.
 
@@ -14,9 +14,8 @@ Jones says that repetition of a particular message has been key to his unbeaten 
 
 &quot;People on the television say, &quot;I think he can make America great again.&quot; There&apos;s no evidence he can; but he&apos;s convinced them. He&apos;s changed mindsets. That&apos;s how you win. And having super-talented players.&quot;
 
-England&apos;s Six Nations defence starts against France at Twickenham on Saturday.</content> 
-<sequenceId type="str">695199898083</sequenceId> 
-<topics type="list"> 
+England&apos;s Six Nations defence starts against France at Twickenham on Saturday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
@@ -29,7 +28,8 @@ England&apos;s Six Nations defence starts against France at Twickenham on Saturd
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:16Z</estimatedPublishedDate> 
-<title type="str">Eddie Jones: Repetition the key to England success</title> 
+</TOPICS> 
+<DOCID type="str">695199898083</DOCID> 
+<DCT type="str">2017-01-29T07:55:16Z</DCT> 
+<TITLE type="str">Eddie Jones: Repetition the key to England success</TITLE> 
 </root>

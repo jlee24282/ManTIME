@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January 28th 9:22 pm | Jim Paulin, The Bristol Bay Times-Dutch Harbor Fisherman      
+<TEXT type="str">January 28th 9:22 pm | Jim Paulin, The Bristol Bay Times-Dutch Harbor Fisherman      
  
 A longtime and troubled presence at the docks in Unalaska is under new ownership, according to the Seattle Times. 
  
@@ -60,9 +60,8 @@ The third Fishing Company of Alaska vessel also will continue to operate.
  
 O&apos;Hara said it will be one of five that his company uses in Bering Sea harvests, and that his company is devoted to upgrading the vessels. 
  
-In a statement released to The Seattle Times, O&apos;Hara wrote, &quot;best of luck to the Adler family ... their crew and ships are in good hands between Ocean Peace Inc. and O&apos;Hara Corporation.&quot;</content> 
-<sequenceId type="str">695196456564</sequenceId> 
-<topics type="list"> 
+In a statement released to The Seattle Times, O&apos;Hara wrote, &quot;best of luck to the Adler family ... their crew and ships are in good hands between Ocean Peace Inc. and O&apos;Hara Corporation.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Fishing industry news</name> 
@@ -83,7 +82,8 @@ In a statement released to The Seattle Times, O&apos;Hara wrote, &quot;best of l
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:45Z</estimatedPublishedDate> 
-<title type="str">Troubled FCA sells to two seafood companies</title> 
+</TOPICS> 
+<DOCID type="str">695196456564</DOCID> 
+<DCT type="str">2017-01-29T07:29:45Z</DCT> 
+<TITLE type="str">Troubled FCA sells to two seafood companies</TITLE> 
 </root>

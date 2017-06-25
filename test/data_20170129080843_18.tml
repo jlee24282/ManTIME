@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Today is Sunday, Jan. 29, the 29th day of 2017. There are 336 days left in the year. 
+<TEXT type="str">Today is Sunday, Jan. 29, the 29th day of 2017. There are 336 days left in the year. 
  
 On Jan. 29, 1820, King George III, the British monarch whose 59-year reign included the loss of the American colonies, died at Windsor Castle at age 81; he was succeeded by his son, who became King George IV. 
  
@@ -28,14 +28,14 @@ In 1990, former Exxon Valdez skipper Joseph Hazelwood went on trial in Anchorage
  
 In 1995, the San Francisco 49ers became the first team in NFL history to win five Super Bowl titles, beating the San Diego Chargers, 49-26, in Super Bowl XXIX. 
  
-In 1998, a bomb rocked an abortion clinic in Birmingham, Alabama, killing security guard Robert Sanderson and critically injuring nurse Emily Lyons. (The bomber, Eric Rudolph, was captured in May 2003 and is serving a life sentence.)</content> 
-<sequenceId type="str">695198473511</sequenceId> 
-<topics type="list"> 
+In 1998, a bomb rocked an abortion clinic in Birmingham, Alabama, killing security guard Robert Sanderson and critically injuring nurse Emily Lyons. (The bomber, Eric Rudolph, was captured in May 2003 and is serving a life sentence.)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:01:00Z</estimatedPublishedDate> 
-<title type="str">Today in history: Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695198473511</DOCID> 
+<DCT type="str">2017-01-29T06:01:00Z</DCT> 
+<TITLE type="str">Today in history: Jan. 29, 2017</TITLE> 
 </root>

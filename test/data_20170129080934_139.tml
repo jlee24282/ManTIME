@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new study led by researchers at UC Berkeley and Clinica de Salud del Valle Salinas has demonstrated how taking even a short break from various cosmetics, shampoos, and other personal care products can lead to a substantial drop in the levels of hormone-disrupting chemicals present within the body.... 
+<TEXT type="str">A new study led by researchers at UC Berkeley and Clinica de Salud del Valle Salinas has demonstrated how taking even a short break from various cosmetics, shampoos, and other personal care products can lead to a substantial drop in the levels of hormone-disrupting chemicals present within the body.... 
  
-Time to ditch harmful cosmetic products people...</content> 
-<sequenceId type="str">695200792125</sequenceId> 
-<topics type="list"> 
+Time to ditch harmful cosmetic products people...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -13,7 +12,8 @@ Time to ditch harmful cosmetic products people...</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:19Z</estimatedPublishedDate> 
-<title type="str">Collective Evolution - 2017-1-29 16:00</title> 
+</TOPICS> 
+<DOCID type="str">695200792125</DOCID> 
+<DCT type="str">2017-01-29T08:02:19Z</DCT> 
+<TITLE type="str">Collective Evolution - 2017-1-29 16:00</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Luke Mayville 
+<TEXT type="str">Luke Mayville 
 
 is the author of &quot;John Adams and the Fear of American Oligarchy&quot; (Princeton University Press) 
 
@@ -32,9 +32,8 @@ John Adams did fear populism, and he sought institutions that would contain the 
 
 This fact makes his legacy all the more important in our time. If Donald Trump campaigned as a populist firebrand, he is governing as oligarch-in-chief, a billionaire who refuses to resolve conflicts of interest and who has appointed a cabinet of billionaires and multimillionaires whose net wealth is greater than the combined GDP of the world&apos;s poorest 39 countries. 
 
-&quot;One of the great concerns that I have,&quot; Bernie Sanders exclaimed a few days after the November election, &quot;is that we are moving toward an oligarchic form of society.&quot; If that concern seems outside of the American mainstream, it is only because we have forgotten our history.</content> 
-<sequenceId type="str">695201058169</sequenceId> 
-<topics type="list"> 
+&quot;One of the great concerns that I have,&quot; Bernie Sanders exclaimed a few days after the November election, &quot;is that we are moving toward an oligarchic form of society.&quot; If that concern seems outside of the American mainstream, it is only because we have forgotten our history.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -43,7 +42,8 @@ This fact makes his legacy all the more important in our time. If Donald Trump c
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Commentary: Adams saw power of wealth as threat to the nation</title> 
+</TOPICS> 
+<DOCID type="str">695201058169</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">Commentary: Adams saw power of wealth as threat to the nation</TITLE> 
 </root>

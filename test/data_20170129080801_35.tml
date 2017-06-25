@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This year’s mayoral election is shaping up to be an expensive, hard-fought race, with Mayor Jean Stothert starting the year with nearly $1 million in the bank and challenger Heath Mello drawing contributions from some of Omaha’s biggest-name business leaders. 
+<TEXT type="str">This year’s mayoral election is shaping up to be an expensive, hard-fought race, with Mayor Jean Stothert starting the year with nearly $1 million in the bank and challenger Heath Mello drawing contributions from some of Omaha’s biggest-name business leaders. 
  
 In total, Stothert has raised about $1.5 million in preparation for the May 9 election, and Mello has raised about $530,000, according to their 2016 end-of-year reports. 
  
@@ -106,14 +106,14 @@ About Mello’s Republican donors, Stothert said: “Some people aren’t used t
  
 Said Mello: “I’m the leading challenger who has a vision for the city, running against a mayor with no vision.” 
  
-roseann.moring@owh.com , 402-444-1</content> 
-<sequenceId type="str">695196982483</sequenceId> 
-<topics type="list"> 
+roseann.moring@owh.com , 402-444-1</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Local government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Omaha&apos;s Stothert-Mello mayoral race looks to be competitive, costly</title> 
+</TOPICS> 
+<DOCID type="str">695196982483</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Omaha&apos;s Stothert-Mello mayoral race looks to be competitive, costly</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Milan&apos;s Suso believes former Coach Sinisa Mihajlovic &apos;didn&apos;t like him,&apos; but praises Vincenzo Montella&apos;s style of play. 
+<TEXT type="str">Milan&apos;s Suso believes former Coach Sinisa Mihajlovic &apos;didn&apos;t like him,&apos; but praises Vincenzo Montella&apos;s style of play. 
  
 The 23-year-old arrived at San Siro from Liverpool in 2015 - when Pippo Inzaghi was still in charge of the Diavolo - but was frozen out when the Serbian became boss. He eventually joining Genoa on loan. 
  
@@ -30,9 +30,8 @@ Suso then discussed his relationship with Montella, saying that though he has ne
  
 &quot;I like him because his style of play is mine. He doesn&apos;t want long balls, he wants us to manouvre the ball. And he isn&apos;t scared to play young players.&quot; 
  
-Keep up to date with the latest news and action from Spain&apos;s Primera Division with Football Espana - from the team behind Football Italia.</content> 
-<sequenceId type="str">695203474401</sequenceId> 
-<topics type="list"> 
+Keep up to date with the latest news and action from Spain&apos;s Primera Division with Football Espana - from the team behind Football Italia.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -41,7 +40,8 @@ Keep up to date with the latest news and action from Spain&apos;s Primera Divisi
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:02Z</estimatedPublishedDate> 
-<title type="str">Suso: &apos;Miha didn&apos;t like me&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695203474401</DOCID> 
+<DCT type="str">2017-01-29T08:09:02Z</DCT> 
+<TITLE type="str">Suso: &apos;Miha didn&apos;t like me&apos;</TITLE> 
 </root>

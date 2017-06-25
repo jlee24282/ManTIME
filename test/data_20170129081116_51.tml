@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A dozen years ago, Oregonians staged a property-rights rebellion. It went by the name of Measure 37, and it passed in 35 of the state’s 36 counties. It even won in famously liberal Multnomah County despite opposition from a who’s who of public employee unions, environmental groups and Democratic politicians. 
+<TEXT type="str">A dozen years ago, Oregonians staged a property-rights rebellion. It went by the name of Measure 37, and it passed in 35 of the state’s 36 counties. It even won in famously liberal Multnomah County despite opposition from a who’s who of public employee unions, environmental groups and Democratic politicians. 
  
 The measure was a crude weapon aimed at uncompensated property “takings,” which in plain English means regulations that reduce a property’s value for which the owner isn’t compensated. Aimed at Oregon’s restrictive land use system, the measure allowed property owners to develop their land under rules in effect at they time they bought it. Otherwise, they were entitled to compensation for lost value. 
  
@@ -28,9 +28,8 @@ What it says is that at least some lawmakers seem to have forgotten the lessons 
  
 Still, the property interests of unpopular people deserve protection, too. It’s too bad some legislators seem to think otherwise. 
  
-— Erik Lukens is editor of The Bulletin</content> 
-<sequenceId type="str">695204262838</sequenceId> 
-<topics type="list"> 
+— Erik Lukens is editor of The Bulletin</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Portland news</name> 
@@ -47,7 +46,8 @@ Still, the property interests of unpopular people deserve protection, too. It’
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:44Z</estimatedPublishedDate> 
-<title type="str">Erik Lukens column: Oregon landlords could use a Dorothy English</title> 
+</TOPICS> 
+<DOCID type="str">695204262838</DOCID> 
+<DCT type="str">2017-01-29T08:27:44Z</DCT> 
+<TITLE type="str">Erik Lukens column: Oregon landlords could use a Dorothy English</TITLE> 
 </root>

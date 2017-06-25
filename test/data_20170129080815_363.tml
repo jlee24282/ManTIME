@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">COLLEGE BASKETBALL - MEN 
+<TEXT type="str">COLLEGE BASKETBALL - MEN 
  
 South Carolina 63, Missouri 53 
  
@@ -86,14 +86,14 @@ Eldon 71, Marquette 45
  
 Tuscumbia 61, Vienna 47 
  
-Iberia 44, Jamestown 29</content> 
-<sequenceId type="str">695197665992</sequenceId> 
-<topics type="list"> 
+Iberia 44, Jamestown 29</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:51Z</estimatedPublishedDate> 
-<title type="str">Area Sports Scores - January 28, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695197665992</DOCID> 
+<DCT type="str">2017-01-29T07:38:51Z</DCT> 
+<TITLE type="str">Area Sports Scores - January 28, 2017</TITLE> 
 </root>

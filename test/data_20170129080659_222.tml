@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January 27th-28th 2017 Seattle, Washington, United States 
+<TEXT type="str">January 27th-28th 2017 Seattle, Washington, United States 
 
 ReportBlock 
 
@@ -110,9 +110,8 @@ Blogs
 
 2007 
 
-Hashtags:#washington #uw-indoor #uw-invitational #uw-invite #dempsey-indoor #huskies</content> 
-<sequenceId type="str">695194765197</sequenceId> 
-<topics type="list"> 
+Hashtags:#washington #uw-indoor #uw-invitational #uw-invite #dempsey-indoor #huskies</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -121,7 +120,8 @@ Hashtags:#washington #uw-indoor #uw-invitational #uw-invite #dempsey-indoor #hus
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:02:00Z</estimatedPublishedDate> 
-<title type="str">Video - Jeshua Anderson 2nd Men&apos;s 60m Hurdles - Washington Indoor Invitational 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194765197</DOCID> 
+<DCT type="str">2017-01-29T05:02:00Z</DCT> 
+<TITLE type="str">Video - Jeshua Anderson 2nd Men&apos;s 60m Hurdles - Washington Indoor Invitational 2017</TITLE> 
 </root>

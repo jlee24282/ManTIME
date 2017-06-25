@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Aurinia Pharmaceuticals Inc (NASDAQ:AUPH) (TSE:AUP) saw a large decline in short interest during the month of January. As of January 13th, there was short interest totalling 1,654,835 shares, a decline of 31.4% from the December 30th total of 2,413,050 shares. Approximately 12.7% of the company’s shares are sold short. Based on an average trading volume…</content> 
-<sequenceId type="str">695198203442</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Aurinia Pharmaceuticals Inc (NASDAQ:AUPH) (TSE:AUP) saw a large decline in short interest during the month of January. As of January 13th, there was short interest totalling 1,654,835 shares, a decline of 31.4% from the December 30th total of 2,413,050 shares. Approximately 12.7% of the company’s shares are sold short. Based on an average trading volume…</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Pharma industry news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:42:08Z</estimatedPublishedDate> 
-<title type="str">Aurinia Pharmaceuticals Inc (AUPH) Short Interest Down 31.4% in January</title> 
+</TOPICS> 
+<DOCID type="str">695198203442</DOCID> 
+<DCT type="str">2017-01-29T07:42:08Z</DCT> 
+<TITLE type="str">Aurinia Pharmaceuticals Inc (AUPH) Short Interest Down 31.4% in January</TITLE> 
 </root>

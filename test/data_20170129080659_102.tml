@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Article Attribution and Read More at: Article Source 
+<TEXT type="str">Article Attribution and Read More at: Article Source 
 
 Carl Frampton lost for the first time in his professional career as Leo Santa Cruz beat him on points in Las Vegas to regain the WBA featherweight title. 
 
@@ -64,9 +64,8 @@ No excuses, it was a nip-and-tuck fight. I think we will get Santa Cruz again, a
 
 Reaction on social media 
 
-Read More At:  Article Source</content> 
-<sequenceId type="str">695194700435</sequenceId> 
-<topics type="list"> 
+Read More At:  Article Source</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Las Vegas news</name> 
@@ -83,7 +82,8 @@ Read More At:  Article Source</content>
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:28Z</estimatedPublishedDate> 
-<title type="str">Carl Frampton v Leo Santa Cruz: Mexican wins Las Vegas rematch</title> 
+</TOPICS> 
+<DOCID type="str">695194700435</DOCID> 
+<DCT type="str">2017-01-29T07:17:28Z</DCT> 
+<TITLE type="str">Carl Frampton v Leo Santa Cruz: Mexican wins Las Vegas rematch</TITLE> 
 </root>

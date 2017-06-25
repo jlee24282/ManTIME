@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Liverpool , Jan 29: Jurgen Klopp accepted responsibility for Liverpool&apos;s stunning FA Cup fourth round exit as Championship club Wolves earned a shock 2-1 win at Anfield. 
+<TEXT type="str">Liverpool , Jan 29: Jurgen Klopp accepted responsibility for Liverpool&apos;s stunning FA Cup fourth round exit as Championship club Wolves earned a shock 2-1 win at Anfield. 
  
 All leagues special site 
  
@@ -44,9 +44,8 @@ Not until the 86th minute could Liverpool finally break down Wolves&apos; resili
  
 &quot;I&apos;ve never been beaten here - that&apos;s with Celtic, Villa, Norwich - but that one is the best,&quot; Lambert said. &quot;That surpasses everything because of the gulf in leagues, the gulf in players. But what we&apos;ve got is incredible team spirit and really good young players.&quot; 
  
-AFP</content> 
-<sequenceId type="str">695195155512</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
@@ -59,7 +58,8 @@ AFP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:15:29Z</estimatedPublishedDate> 
-<title type="str">Jurgen Klopp takes blame on himself after Liverpool crash out of FA Cup</title> 
+</TOPICS> 
+<DOCID type="str">695195155512</DOCID> 
+<DCT type="str">2017-01-29T04:15:29Z</DCT> 
+<TITLE type="str">Jurgen Klopp takes blame on himself after Liverpool crash out of FA Cup</TITLE> 
 </root>

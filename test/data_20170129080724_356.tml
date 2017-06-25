@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By news@seacoastonline.com  
+<TEXT type="str">By news@seacoastonline.com  
 An amended proposal to aid state dairy farmers is expected to go before the New Hampshire Senate this week. 
  
 The amendment, brought forward by the measure’s original sponsor, Sen. Jeb Bradley, R-Wolfeboro, will reduce the originally proposed $3.6 million to $2 million, and will greatly simplify calculations and applications for aid. Bradley said it can also provide funds to farmers earlier in spring, “assuring that they can feed their herds until the cows can eat grass again.” 
@@ -25,9 +25,8 @@ He also believes the bill has a good chance of passing the Senate.
  
 Dairy farmer Harold “Hal” Bodmar III of Kensington is among those who have cut back operations. He sold 370 cows last year, leaving just 40 for him to feed this winter. He said he has seen three consecutive years of drought, with 2016 being the worst. Bodmar doesn’t want to close the dairy farm created by his grandfather and also operated by his father, but he is exploring specialty products such as grass-fed beef, and is looking at other sales options. 
  
-State Agriculture Commissioner Lorraine Merrill wrote during this summer’s drought: “Cows don’t like hot weather, and they respond by eating less and making less milk.” She also reported severe crop losses among forage crops such as alfalfa, grass and corn. Merrill, whose family operates a dairy farm in Stratham, has recused herself from administering the aid. Should the bill pass, the Department of Agriculture would appoint a staff member for the task.</content> 
-<sequenceId type="str">695195912479</sequenceId> 
-<topics type="list"> 
+State Agriculture Commissioner Lorraine Merrill wrote during this summer’s drought: “Cows don’t like hot weather, and they respond by eating less and making less milk.” She also reported severe crop losses among forage crops such as alfalfa, grass and corn. Merrill, whose family operates a dairy farm in Stratham, has recused herself from administering the aid. Should the bill pass, the Department of Agriculture would appoint a staff member for the task.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Agriculture news</name> 
@@ -44,7 +43,8 @@ State Agriculture Commissioner Lorraine Merrill wrote during this summer’s dro
 <group type="str">Society</group> 
 <name type="str">US Federal Government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">NH Senate to take up bill to help dairy farmers</title> 
+</TOPICS> 
+<DOCID type="str">695195912479</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">NH Senate to take up bill to help dairy farmers</TITLE> 
 </root>

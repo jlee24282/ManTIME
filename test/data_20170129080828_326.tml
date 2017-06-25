@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bad weather has hampered search effort for the boat carrying mostly Chinese tourists that went missing off Malaysia&apos;s Sabah state, authorities said Sunday. 
+<TEXT type="str">Bad weather has hampered search effort for the boat carrying mostly Chinese tourists that went missing off Malaysia&apos;s Sabah state, authorities said Sunday. 
  
 Senior official of Malaysian Maritime Enforcement Agency Rahim Ramli said the rescue personnel faced strong winds and choppy waters, according to the local Star newspaper. 
  
@@ -10,9 +10,8 @@ The Chinese Consulate General&apos;s office has confirmed at least some 20 passe
  
 The MMEA received a call about the boat&apos;s disappearance on Saturday night and a search and rescue operation was launched to cover an area of 400 square nautical miles. The operation was jointly conducted by MMEA, the Malaysian Navy and Air Force. 
  
-　　</content> 
-<sequenceId type="str">695198262408</sequenceId> 
-<topics type="list"> 
+　　</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -33,7 +32,8 @@ The MMEA received a call about the boat&apos;s disappearance on Saturday night a
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:42:29Z</estimatedPublishedDate> 
-<title type="str">Bad weather hampers search effort for boat carrying Chinese tourists in Malaysia</title> 
+</TOPICS> 
+<DOCID type="str">695198262408</DOCID> 
+<DCT type="str">2017-01-29T07:42:29Z</DCT> 
+<TITLE type="str">Bad weather hampers search effort for boat carrying Chinese tourists in Malaysia</TITLE> 
 </root>

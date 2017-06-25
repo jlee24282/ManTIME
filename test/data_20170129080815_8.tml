@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WHEATON, Ill. — The Heidelberg wrestling team finished the weekend 11th at the Pete Willson Invitational. 
+<TEXT type="str">WHEATON, Ill. — The Heidelberg wrestling team finished the weekend 11th at the Pete Willson Invitational. 
  
 Three Princes placed in the invite with two podium finishes and a seventh. 
  
@@ -72,9 +72,8 @@ Khaleal McCormick padded the stat sheet as he led all scorers with 25 points, gr
  
 Austin Adams supported McCormick’s efforts with 18 points followed by Alex Brown and Juwan Johnson each with 13. 
  
-The Cavaliers were lead by Trey Fletcher’s 22 points followed by Zac Carter with 16. Jameel Moore and Conor Keck each chipped in 11.</content> 
-<sequenceId type="str">695197367125</sequenceId> 
-<topics type="list"> 
+The Cavaliers were lead by Trey Fletcher’s 22 points followed by Zac Carter with 16. Jameel Moore and Conor Keck each chipped in 11.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -83,7 +82,8 @@ The Cavaliers were lead by Trey Fletcher’s 22 points followed by Zac Carter wi
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:45Z</estimatedPublishedDate> 
-<title type="str">Heidelberg wrestling places three at Pete Willson Invite</title> 
+</TOPICS> 
+<DOCID type="str">695197367125</DOCID> 
+<DCT type="str">2017-01-29T07:36:45Z</DCT> 
+<TITLE type="str">Heidelberg wrestling places three at Pete Willson Invite</TITLE> 
 </root>

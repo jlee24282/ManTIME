@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
+<TEXT type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
  
 WASHINGTON — A federal judge’s emergency order has temporarily barred the U.S. from deporting people from nations subject to President Donald Trump’s travel ban. The judge said travelers who had been detained had a strong argument that their legal rights had been violated. 
  
@@ -9,9 +9,8 @@ U.S. District Judge Ann Donnelly in New York issued the emergency order Saturday
 The Department of Homeland Security said the court ruling would not affect the overall implementation of the White House order and affected a relatively small number of travelers inconvenienced by security procedures. 
   
  
-Continue reading</content> 
-<sequenceId type="str">695204416464</sequenceId> 
-<topics type="list"> 
+Continue reading</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -20,7 +19,8 @@ Continue reading</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:37Z</estimatedPublishedDate> 
-<title type="str">Updated: US judge bars deportations under Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695204416464</DOCID> 
+<DCT type="str">2017-01-29T08:22:37Z</DCT> 
+<TITLE type="str">Updated: US judge bars deportations under Trump travel ban</TITLE> 
 </root>

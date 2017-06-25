@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">London has set a modern record for pollution after cold windless weather trapped emissions over the city.
+<TEXT type="str">London has set a modern record for pollution after cold windless weather trapped emissions over the city.
 
 For several moments between 17 to 24 January air quality was worse in the UK capital than in Beijing, which is infamous for smog.
 
@@ -16,9 +16,8 @@ This year London reached its annual limit for pollution in just five days.
 
 A text message warning from City Hall sent to people in affected boroughs read: “High air pollution forecast for Thursday. Consider spending less time outdoors, take medication. If unwell contact GP.”
 
-City Hall is taking steps to address the problem. More hybrid buses are set to be used in the capital and if individuals wish to drive high-polluting vehicles there are set to be extra costs to do so.</content> 
-<sequenceId type="str">695196433982</sequenceId> 
-<topics type="list"> 
+City Hall is taking steps to address the problem. More hybrid buses are set to be used in the capital and if individuals wish to drive high-polluting vehicles there are set to be extra costs to do so.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -35,7 +34,8 @@ City Hall is taking steps to address the problem. More hybrid buses are set to b
 <group type="str">Regional</group> 
 <name type="str">London news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:32Z</estimatedPublishedDate> 
-<title type="str">London sets modern pollution record after emissions trapped over city</title> 
+</TOPICS> 
+<DOCID type="str">695196433982</DOCID> 
+<DCT type="str">2017-01-29T07:29:32Z</DCT> 
+<TITLE type="str">London sets modern pollution record after emissions trapped over city</TITLE> 
 </root>

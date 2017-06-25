@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arsenal manager Arsene Wenger has been hit with another blow as it has been stated that three of his players are out injured. 
+<TEXT type="str">Arsenal manager Arsene Wenger has been hit with another blow as it has been stated that three of his players are out injured. 
 
 The Gunners legend Martin Keown claimed that the trio of Mesut Ozil, Aaron Ramsey and Francis Coquelin missed the club&apos;s emphatic 5-0 victory over Southampton in the 4th round of the FA Cup played on Saturday, January 28, 2017 due to injuries. 
 
@@ -12,9 +12,8 @@ Wenger, 67, who watched the match from the stands as a result of the four-match 
 
 Meanwhile, Arsenal are yet to make any official statement regarding the current status of these three players. 
 
-Arsenal currently occupy second position on the Premier League standings with 47 points after 22 games played this term.</content> 
-<sequenceId type="str">695200411117</sequenceId> 
-<topics type="list"> 
+Arsenal currently occupy second position on the Premier League standings with 47 points after 22 games played this term.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -27,7 +26,8 @@ Arsenal currently occupy second position on the Premier League standings with 47
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:56Z</estimatedPublishedDate> 
-<title type="str">Another trouble for Wenger as three Arsenal stars are reportedly injured</title> 
+</TOPICS> 
+<DOCID type="str">695200411117</DOCID> 
+<DCT type="str">2017-01-29T07:59:56Z</DCT> 
+<TITLE type="str">Another trouble for Wenger as three Arsenal stars are reportedly injured</TITLE> 
 </root>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Eli Tomac won the AMA Supercross race in Arizona</content> 
-<sequenceId type="str">695197524318</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Eli Tomac won the AMA Supercross race in Arizona</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:43:33Z</estimatedPublishedDate> 
-<title type="str">Eli Tomac wins AMA Supercross race in Arizona</title> 
+</TOPICS> 
+<DOCID type="str">695197524318</DOCID> 
+<DCT type="str">2017-01-29T05:43:33Z</DCT> 
+<TITLE type="str">Eli Tomac wins AMA Supercross race in Arizona</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Octavia Spencer 
+<TEXT type="str">Octavia Spencer 
  
 Octavia Spencer used to send fan mail to Michael Jackson . 
  
@@ -26,9 +26,8 @@ And the actress will drop everything if one of her favourite movies is on TV, ev
  
 She said: &quot;There are three I&apos;ve seen more than any other, &apos;The Color Purple, &apos;The Shawshank Redemption&apos; and &apos;Driving Miss Daisy&apos;. 
  
-&quot;No matter when they&apos;re on, I&apos;m going to have to watch them and I&apos;m going to be late.&quot;</content> 
-<sequenceId type="str">695196051457</sequenceId> 
-<topics type="list"> 
+&quot;No matter when they&apos;re on, I&apos;m going to have to watch them and I&apos;m going to be late.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: pop music news</name> 
@@ -41,7 +40,8 @@ She said: &quot;There are three I&apos;ve seen more than any other, &apos;The Co
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:46Z</estimatedPublishedDate> 
-<title type="str">29 January 2017 Octavia Spencer sent letters to idol Michael Jackson</title> 
+</TOPICS> 
+<DOCID type="str">695196051457</DOCID> 
+<DCT type="str">2017-01-29T07:26:46Z</DCT> 
+<TITLE type="str">29 January 2017 Octavia Spencer sent letters to idol Michael Jackson</TITLE> 
 </root>

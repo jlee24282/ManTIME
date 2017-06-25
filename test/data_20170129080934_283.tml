@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cornwall could spend an extra three-quarters of a million pounds to help rough sleepers.
+<TEXT type="str">Cornwall could spend an extra three-quarters of a million pounds to help rough sleepers.
 
 That is how much the Council has recommended is spent on increasing support.
 
@@ -30,9 +30,8 @@ Last year, figures from the homeless charity Crisis showed almost 80% of people 
 
 Jon Sparkes, chief executive of the charity, said: &quot;Behind these statistics are thousands of desperate people sleeping in doorways, bin shelters, stations and parks - anywhere they can find to stay safe and escape the elements.
 
-&quot;Rough sleeping ruins lives, leaving people vulnerable to violence and abuse, and taking a dreadful toll on their mental and physical health.&quot;</content> 
-<sequenceId type="str">695200975177</sequenceId> 
-<topics type="list"> 
+&quot;Rough sleeping ruins lives, leaving people vulnerable to violence and abuse, and taking a dreadful toll on their mental and physical health.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -41,7 +40,8 @@ Jon Sparkes, chief executive of the charity, said: &quot;Behind these statistics
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:20Z</estimatedPublishedDate> 
-<title type="str">WATCH: More Support For The Homeless In Cornwall</title> 
+</TOPICS> 
+<DOCID type="str">695200975177</DOCID> 
+<DCT type="str">2017-01-29T08:03:20Z</DCT> 
+<TITLE type="str">WATCH: More Support For The Homeless In Cornwall</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The police say the Palestinians hurled rocks at the Israeli troops, who responded with fire.</content> 
-<sequenceId type="str">695203078398</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The police say the Palestinians hurled rocks at the Israeli troops, who responded with fire.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:25Z</estimatedPublishedDate> 
-<title type="str">Palestinians: 17-year-old shot dead in clashes with Israel</title> 
+</TOPICS> 
+<DOCID type="str">695203078398</DOCID> 
+<DCT type="str">2017-01-29T08:10:25Z</DCT> 
+<TITLE type="str">Palestinians: 17-year-old shot dead in clashes with Israel</TITLE> 
 </root>

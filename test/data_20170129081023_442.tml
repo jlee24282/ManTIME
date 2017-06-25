@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(1 of ) Leonard Pitts | A few thoughts on the lonely death of Naika Venant.
+<TEXT type="str">(1 of ) Leonard Pitts | A few thoughts on the lonely death of Naika Venant.
 
 As you may have heard, Naika, a Miami teenager, hanged herself in the dark hours of a Sunday morning. She did this live on Facebook. We’ll likely never know why she chose to do it that way. Perhaps she felt invisible. Perhaps she wanted to be seen.
 
@@ -26,9 +26,8 @@ No, that behavior speaks to moral stupidity, to the objectification of other peo
 
 Yes, a thousand people watched her die. Then they clicked their browsers to see what else was on.
 
-Leonard Pitts is a columnist for the Miami Herald.</content> 
-<sequenceId type="str">695202784869</sequenceId> 
-<topics type="list"> 
+Leonard Pitts is a columnist for the Miami Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">South Florida news</name> 
@@ -41,7 +40,8 @@ Leonard Pitts is a columnist for the Miami Herald.</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">The lonely death of Naika Venant</title> 
+</TOPICS> 
+<DOCID type="str">695202784869</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">The lonely death of Naika Venant</TITLE> 
 </root>

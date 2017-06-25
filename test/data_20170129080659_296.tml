@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">What&apos;s a community newspaper to do?
+<TEXT type="str">What&apos;s a community newspaper to do?
 
 At the end of this column is an invitation to readers. But first, let&apos;s discuss the past few days.
 
@@ -34,9 +34,8 @@ Finally, we will maintain an open dialogue about the news with our readers. To t
 
 I look forward to hearing from you, and thanks for reading.
 
-— Rice is The News-Journal&apos;s editor. His email is Pat.Rice@news-jrnl.com.</content> 
-<sequenceId type="str">695194822774</sequenceId> 
-<topics type="list"> 
+— Rice is The News-Journal&apos;s editor. His email is Pat.Rice@news-jrnl.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -49,7 +48,8 @@ I look forward to hearing from you, and thanks for reading.
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">PAT RICE: Trump, alternative facts, and an invitation to readers</title> 
+</TOPICS> 
+<DOCID type="str">695194822774</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">PAT RICE: Trump, alternative facts, and an invitation to readers</TITLE> 
 </root>

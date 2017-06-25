@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Herald-Dispatch 
+<TEXT type="str">The Herald-Dispatch 
    
 HUNTINGTON - Freshman Safiyyah Mitchell of Huntington picked up her first collegiate win Saturday, hitting the tape first in the 60-meter hurdles (8.64 seconds) to give Marshall its one win in the Thundering Herd Invitational at the Jeff Small Track at the Chris Cline Athletic Complex. 
    
@@ -32,9 +32,8 @@ Rowe set the 50-yard freestyle pool record with a time of 23.23 seconds.
    
 Bendiewicz won the 200-yard freestyle (1:51.83) and Rowe won the 100-yard backstroke (56.22). Rowe also won the 100-yard freestyle (52.53). Caroline Wanner was first in the 200-yard backstroke (2:05.59). 
    
-Parsemain placed first in the 100-yard butterfly (55.16).</content> 
-<sequenceId type="str">695201423829</sequenceId> 
-<topics type="list"> 
+Parsemain placed first in the 100-yard butterfly (55.16).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Oklahoma City Thunder news</name> 
@@ -47,7 +46,8 @@ Parsemain placed first in the 100-yard butterfly (55.16).</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:01:00Z</estimatedPublishedDate> 
-<title type="str">Mitchell gets a win for Marshall at Thundering Herd Invitational</title> 
+</TOPICS> 
+<DOCID type="str">695201423829</DOCID> 
+<DCT type="str">2017-01-29T05:01:00Z</DCT> 
+<TITLE type="str">Mitchell gets a win for Marshall at Thundering Herd Invitational</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The warm applause that greeted Wycombe Wanderers as they left the pitch was of little consolation for Gareth Ainsworth. The side from League Two had come agonisingly close to pulling off one of the great FA Cup upsets and causing severe embarrassment for Tottenham Hotspur in the process. 
+<TEXT type="str">The warm applause that greeted Wycombe Wanderers as they left the pitch was of little consolation for Gareth Ainsworth. The side from League Two had come agonisingly close to pulling off one of the great FA Cup upsets and causing severe embarrassment for Tottenham Hotspur in the process. 
  
 They led by two goals at half-time, then had one foot in the fifth round when Garry Thompson restored their lead with six minutes left, and it beggared belief that Ainsworth looked like he wanted the earth to swallow him at the end of an impossibly entertaining contest. 
  
@@ -40,9 +40,8 @@ Up went the fourth official’s board, showing six minutes of stoppage time. Wyc
  
 This article was written by Jacob Steinberg at White Hart Lane, for The Observer on Saturday 28th January 2017 17.23 Europe/London 
  
-guardian.co.uk © Guardian News and Media Limited 2</content> 
-<sequenceId type="str">695197489767</sequenceId> 
-<topics type="list"> 
+guardian.co.uk © Guardian News and Media Limited 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -51,7 +50,8 @@ guardian.co.uk © Guardian News and Media Limited 2</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:46Z</estimatedPublishedDate> 
-<title type="str">Son Heung-min shines as Tottenham come from behind to beat Wycombe</title> 
+</TOPICS> 
+<DOCID type="str">695197489767</DOCID> 
+<DCT type="str">2017-01-29T07:36:46Z</DCT> 
+<TITLE type="str">Son Heung-min shines as Tottenham come from behind to beat Wycombe</TITLE> 
 </root>

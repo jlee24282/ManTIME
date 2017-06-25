@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CLOSE      
+<TEXT type="str">CLOSE      
 Protests flared as President Trump&apos;s executive order blocked refugees from entering U.S. airports, including travelers who already had valid visas. USA TODAY NETWORK 
       
 Protesters at John F. Kennedy International Airport on Saturday. (Photo: Keldy Ortiz/NorthJersey.com) 
@@ -169,9 +169,8 @@ Immigrants with affected family fearful of ban
    
 Trump refugee ban prompts outrage 
     
-Read or Share this story: http://usat.ly/2jJfvuI</content> 
-<sequenceId type="str">695204982008</sequenceId> 
-<topics type="list"> 
+Read or Share this story: http://usat.ly/2jJfvuI</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -196,7 +195,8 @@ Read or Share this story: http://usat.ly/2jJfvuI</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:22Z</estimatedPublishedDate> 
-<title type="str">Protests erupt at U.S. airports over ban on refugees</title> 
+</TOPICS> 
+<DOCID type="str">695204982008</DOCID> 
+<DCT type="str">2017-01-29T08:33:22Z</DCT> 
+<TITLE type="str">Protests erupt at U.S. airports over ban on refugees</TITLE> 
 </root>

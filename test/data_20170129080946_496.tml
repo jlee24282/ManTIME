@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ROGER Federer and Rafael Nadal have turned back the clock and will face off in the men’s final of the Australian Open on Sunday night.</content> 
-<sequenceId type="str">695201576942</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">ROGER Federer and Rafael Nadal have turned back the clock and will face off in the men’s final of the Australian Open on Sunday night.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:25Z</estimatedPublishedDate> 
-<title type="str">Federer v Nadal: Time to decide the GOAT</title> 
+</TOPICS> 
+<DOCID type="str">695201576942</DOCID> 
+<DCT type="str">2017-01-29T08:07:25Z</DCT> 
+<TITLE type="str">Federer v Nadal: Time to decide the GOAT</TITLE> 
 </root>

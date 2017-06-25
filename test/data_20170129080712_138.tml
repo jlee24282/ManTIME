@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WWE and Triple H are sending tennis icon Serena Williams a custom plated WWE Championship belt after her win at the Australian Open.  Serena Williams has won the Australian Open  
+<TEXT type="str">WWE and Triple H are sending tennis icon Serena Williams a custom plated WWE Championship belt after her win at the Australian Open.  Serena Williams has won the Australian Open  
 What’s the story?  
  
 Triple H will be sending tennis legend Serena Williams a custom championship title belt on behalf of the WWE, after the American pro defeated her sister Venus Williams to win the Australian Open for the seventh time. 
@@ -39,9 +39,8 @@ Sending WWE titles to famous stars right at the height of their popularity, foll
  
 Send us news tips at fightclub@sportskeeda.com 
  
-Fetching more content...</content> 
-<sequenceId type="str">695195097345</sequenceId> 
-<topics type="list"> 
+Fetching more content...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -50,7 +49,8 @@ Fetching more content...</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T21:27:09Z</estimatedPublishedDate> 
-<title type="str">WWE News: Triple H sending custom WWE Championship to Serena Williams</title> 
+</TOPICS> 
+<DOCID type="str">695195097345</DOCID> 
+<DCT type="str">2017-01-28T21:27:09Z</DCT> 
+<TITLE type="str">WWE News: Triple H sending custom WWE Championship to Serena Williams</TITLE> 
 </root>

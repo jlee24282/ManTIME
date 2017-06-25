@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rudy Giuliani said Donald Trump came to him for guidance on implementing a so-called “Muslim ban” and from that, he helped construct the controversial order crippling international travel from predominantly Muslim countries. 
+<TEXT type="str">Rudy Giuliani said Donald Trump came to him for guidance on implementing a so-called “Muslim ban” and from that, he helped construct the controversial order crippling international travel from predominantly Muslim countries. 
  
 The ex-NYC mayor said he pitched the ban, not as a religious prohibition, but one focused on “danger,” he said on Fox News late Saturday. 
  
@@ -23,9 +23,8 @@ The Trump surrogate gave Saudi Arabia the benefit of the doubt, despite overseei
 He then confused President Trump for his predecessor and said &quot;President Obama is dealing with the new Saudi Arabia.&quot; 
  
 Giuliani failed to elaborate on why Pakistan was not mentioned in Trump&apos;s ban. 
- Send a Letter to the Editor  Join the Conversation:  facebook  Tweet</content> 
-<sequenceId type="str">695198736446</sequenceId> 
-<topics type="list"> 
+ Send a Letter to the Editor  Join the Conversation:  facebook  Tweet</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -54,7 +53,8 @@ Giuliani failed to elaborate on why Pakistan was not mentioned in Trump&apos;s b
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:38Z</estimatedPublishedDate> 
-<title type="str">Rudy Giuliani says Trump tasked him to craft &apos;Muslim ban&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695198736446</DOCID> 
+<DCT type="str">2017-01-29T07:37:38Z</DCT> 
+<TITLE type="str">Rudy Giuliani says Trump tasked him to craft &apos;Muslim ban&apos;</TITLE> 
 </root>

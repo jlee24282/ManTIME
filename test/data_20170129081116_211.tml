@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Kings are firmly back in the playoff picture after this afternoon&apos;s comprehensive 84-57 trouncing of the New Zealand Breakers in Sydney. 
+<TEXT type="str">The Kings are firmly back in the playoff picture after this afternoon&apos;s comprehensive 84-57 trouncing of the New Zealand Breakers in Sydney. 
     
 The Breakers look on dejected. 
  
@@ -39,9 +39,8 @@ Breakers coach Paul Henare basically said his team gave up.
    
 &quot;There&apos;s an underlying &apos;quit&apos; in us when things get tough and that&apos;s concerning,&quot; Henare said. 
    
-&quot;If we go to Adelaide next week and play like that, we&apos;ll get beat by 5</content> 
-<sequenceId type="str">695204362290</sequenceId> 
-<topics type="list"> 
+&quot;If we go to Adelaide next week and play like that, we&apos;ll get beat by 5</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Asia-Pacific stories</name> 
@@ -74,7 +73,8 @@ Breakers coach Paul Henare basically said his team gave up.
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:40Z</estimatedPublishedDate> 
-<title type="str">Breakers&apos; NBL playoff hopes over after 27 point thrashing from Sydney Kings</title> 
+</TOPICS> 
+<DOCID type="str">695204362290</DOCID> 
+<DCT type="str">2017-01-29T08:28:40Z</DCT> 
+<TITLE type="str">Breakers&apos; NBL playoff hopes over after 27 point thrashing from Sydney Kings</TITLE> 
 </root>

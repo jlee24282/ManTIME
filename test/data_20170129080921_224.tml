@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PHILADELPHIA -- While this country braces for a battle over the Affordable Care Act, one startup is staking its future on health care for a consumer sector that doesn&apos;t hold much sway in Washington. A constituency that has more bark than bite, more meow than scratch, if you will. 
+<TEXT type="str">PHILADELPHIA -- While this country braces for a battle over the Affordable Care Act, one startup is staking its future on health care for a consumer sector that doesn&apos;t hold much sway in Washington. A constituency that has more bark than bite, more meow than scratch, if you will. 
  
 PetCoach&apos;s goal is to become the go-to source for pet care. 
  
@@ -40,9 +40,8 @@ He doesn&apos;t expect it to reduce the times he treats Weatherup&apos;s 5-year-
  
 Weatherup said he also calls. 
  
-SundayMonday Business on 01/29/2</content> 
-<sequenceId type="str">695200393861</sequenceId> 
-<topics type="list"> 
+SundayMonday Business on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: pets news</name> 
@@ -59,7 +58,8 @@ SundayMonday Business on 01/29/2</content>
 <group type="str">Business</group> 
 <name type="str">Entrepreneur news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:18Z</estimatedPublishedDate> 
-<title type="str">Startup entrepreneur&apos;s firm offers information on pet care</title> 
+</TOPICS> 
+<DOCID type="str">695200393861</DOCID> 
+<DCT type="str">2017-01-29T07:46:18Z</DCT> 
+<TITLE type="str">Startup entrepreneur&apos;s firm offers information on pet care</TITLE> 
 </root>

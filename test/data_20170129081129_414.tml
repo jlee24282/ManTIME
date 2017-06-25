@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Moscow and Washington spoke positively about the first conversation between Vladimir Putin and Donald Trump, who was sworn in as the U.S. president slightly more than a week ago. The leaders discussed a wide range of global and international issues in a &quot;positive and business-like atmosphere&quot; and agreed to keep in touch, the Kremlin press service said. 
+<TEXT type="str">Moscow and Washington spoke positively about the first conversation between Vladimir Putin and Donald Trump, who was sworn in as the U.S. president slightly more than a week ago. The leaders discussed a wide range of global and international issues in a &quot;positive and business-like atmosphere&quot; and agreed to keep in touch, the Kremlin press service said. 
  
 &quot;The positive call was a significant start to improving the relationship between the United States and Russia that is in need of repair,&quot; the White House said in a statement , commenting on the results of the conversation. 
  Partners in the struggle against terror  
@@ -32,9 +32,8 @@ Konstantin Kosachev, who heads the International Affairs Committee of the Russia
  
 Vyacheslav Nikonov also described the phone talk as &quot;a very good start.&quot; &quot;They set the bar very high at the talks,&quot; he said. &quot;The fact that they managed to discuss this (wide range of issues) in 45 minutes means that there were no major disagreements.&quot; 
  
-Source</content> 
-<sequenceId type="str">695205006123</sequenceId> 
-<topics type="list"> 
+Source</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -51,7 +50,8 @@ Source</content>
 <group type="str">Society</group> 
 <name type="str">US security news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:00Z</estimatedPublishedDate> 
-<title type="str">Putin, Trump seek to give fresh start to ailing Russian-U.S. ties – experts</title> 
+</TOPICS> 
+<DOCID type="str">695205006123</DOCID> 
+<DCT type="str">2017-01-29T08:11:00Z</DCT> 
+<TITLE type="str">Putin, Trump seek to give fresh start to ailing Russian-U.S. ties – experts</TITLE> 
 </root>

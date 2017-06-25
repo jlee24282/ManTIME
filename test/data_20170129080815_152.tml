@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump speaks following the ceremonial swearing-in of James Mattis (R) as secretary of defense on January 27, 2016 at the Pentagon in Washington, DC. (Photo by AFP) 
+<TEXT type="str">US President Donald Trump speaks following the ceremonial swearing-in of James Mattis (R) as secretary of defense on January 27, 2016 at the Pentagon in Washington, DC. (Photo by AFP) 
  
 US President Donald Trump has signed yet another executive order directing the military’s Joint Chiefs of Staff to devise a plan within 30 days to destroy the Daesh (ISIL) terrorist group. 
  
@@ -26,9 +26,8 @@ It also quoted Trump as saying that the change would bring “a lot of efficienc
  
 However, it was not immediately clear on Saturday what impact Trump’s executive order halting entry of migrants and legal US residents from Iraq and other Muslim-majority nations would have on Washington’s partnership with the Iraqi government in the battle against ISIL. Iraqi lawmakers have urged the country’s Foreign Ministry to explain how the measure will affect Iraq. 
  
-Daesh terrorists, who were initially trained by the CIA in Jordan in 2012 to destabilize the government of Syrian President Bashar al-Assad, now control large parts of Syria and Iraq. They have been engaged in crimes against humanity in the areas under their control.</content> 
-<sequenceId type="str">695197450273</sequenceId> 
-<topics type="list"> 
+Daesh terrorists, who were initially trained by the CIA in Jordan in 2012 to destabilize the government of Syrian President Bashar al-Assad, now control large parts of Syria and Iraq. They have been engaged in crimes against humanity in the areas under their control.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -37,7 +36,8 @@ Daesh terrorists, who were initially trained by the CIA in Jordan in 2012 to des
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:31Z</estimatedPublishedDate> 
-<title type="str">Trump wants ISIL defeat plan in 30 days 4hr</title> 
+</TOPICS> 
+<DOCID type="str">695197450273</DOCID> 
+<DCT type="str">2017-01-29T07:37:31Z</DCT> 
+<TITLE type="str">Trump wants ISIL defeat plan in 30 days 4hr</TITLE> 
 </root>

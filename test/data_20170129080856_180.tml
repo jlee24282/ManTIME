@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Perhaps distressed by the repeated use of &quot;false&quot; &quot;and &quot;untrue&quot; in most articles bearing his name, Donald Trump struck back at the New York Times, saying : 
+<TEXT type="str">Perhaps distressed by the repeated use of &quot;false&quot; &quot;and &quot;untrue&quot; in most articles bearing his name, Donald Trump struck back at the New York Times, saying : 
   
 The failing @nytimes has been wrong about me from the very beginning. Said I would lose the primaries, then the general election. FAKE NEWS! 
    
@@ -62,9 +62,8 @@ So while the Times is technically correct, Donald Trump was correct in the large
  
 Expect it to sink more and more into irrelevance as Trump&apos;s narrative, that the Times is &quot;false news,&quot; becomes more accepted. 
  
-Ed Straker is the senior writer at NewsMachete.com .</content> 
-<sequenceId type="str">695199278212</sequenceId> 
-<topics type="list"> 
+Ed Straker is the senior writer at NewsMachete.com .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -77,7 +76,8 @@ Ed Straker is the senior writer at NewsMachete.com .</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:24Z</estimatedPublishedDate> 
-<title type="str">Trump is right: The New York Times is failing financially</title> 
+</TOPICS> 
+<DOCID type="str">695199278212</DOCID> 
+<DCT type="str">2017-01-29T07:50:24Z</DCT> 
+<TITLE type="str">Trump is right: The New York Times is failing financially</TITLE> 
 </root>

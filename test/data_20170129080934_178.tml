@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The following people have filed for a marriage license in La Crosse County:
+<TEXT type="str">The following people have filed for a marriage license in La Crosse County:
 
 Forrest Breeden, San Angelo, and Brooke Candahl, Onalaska
 
@@ -8,14 +8,14 @@ Micheal Bullock and Angela Key, both of La Crosse
 
 Matthew Hengel and Hnin Pwint, both of La Crosse
 
-Craig Jackson and Katherine Troendle, both of West Salem</content> 
-<sequenceId type="str">695200866907</sequenceId> 
-<topics type="list"> 
+Craig Jackson and Katherine Troendle, both of West Salem</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: lacrosse news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Marriage licenses for Sunday, Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695200866907</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Marriage licenses for Sunday, Jan. 29, 2017</TITLE> 
 </root>

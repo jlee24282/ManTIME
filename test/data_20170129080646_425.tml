@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">For author Anne Soares, her latest book is more than just a fun story. It is a labor of love allows Soares to put her money where her heart is. 
+<TEXT type="str">For author Anne Soares, her latest book is more than just a fun story. It is a labor of love allows Soares to put her money where her heart is. 
  
 A portion of every sale of “Chuck’s Journey Home” goes to animal shelters and dog rescue operations, for which Soares is also willing to assist with setting up fundraising programs upon request. 
  
@@ -24,9 +24,8 @@ The book is written for readers aged six to nine.
  
 “Chuck&apos;s Journey Home” can be purchased through SDP Publishing, Amazon, Barnes and Noble, and at most online retailers. It can also be found at www.LabTales.com. 
  
-Lab Tales can be followed on Twitter @Lab_Tales, on Instagram at ChucksLabTales and at www.</content> 
-<sequenceId type="str">695194532764</sequenceId> 
-<topics type="list"> 
+Lab Tales can be followed on Twitter @Lab_Tales, on Instagram at ChucksLabTales and at www.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -35,7 +34,8 @@ Lab Tales can be followed on Twitter @Lab_Tales, on Instagram at ChucksLabTales 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Soares&apos; new book raising funds to help dogs</title> 
+</TOPICS> 
+<DOCID type="str">695194532764</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Soares&apos; new book raising funds to help dogs</TITLE> 
 </root>

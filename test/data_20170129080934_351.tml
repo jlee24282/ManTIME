@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">8:55pm: That wraps up the Wellington Sevens for another year. A fantastic tournament for the likes of Scotland and Canada but a poor finish for the All Blacks Sevens after showing such promise yesterday. The series now heads to Sydney next weekend with South Africa well and truly sitting top of the table after a commanding weekend. 
+<TEXT type="str">8:55pm: That wraps up the Wellington Sevens for another year. A fantastic tournament for the likes of Scotland and Canada but a poor finish for the All Blacks Sevens after showing such promise yesterday. The series now heads to Sydney next weekend with South Africa well and truly sitting top of the table after a commanding weekend. 
 
    The new kid on the All Blacks Sevens&apos; block is already proving he&apos;s one to watch. 
 Source: SKY   
@@ -210,9 +210,8 @@ NZ team for Wellington: Scott Curry (captain), Dylan Collier, DJ Forbes, Iopu Io
  
 1.18pm - New Zealand 5 v Fiji 26 - Cup QF 
  
-1.18pm - New Zealand 5 v Fiji 26 - Cup QF</content> 
-<sequenceId type="str">695201039486</sequenceId> 
-<topics type="list"> 
+1.18pm - New Zealand 5 v Fiji 26 - Cup QF</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Fiji news</name> 
@@ -249,7 +248,8 @@ NZ team for Wellington: Scott Curry (captain), Dylan Collier, DJ Forbes, Iopu Io
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:46Z</estimatedPublishedDate> 
-<title type="str">As it happened: Blitzboks claim Wellington title for first time since 2002, All Blacks Sevens slump to sixth</title> 
+</TOPICS> 
+<DOCID type="str">695201039486</DOCID> 
+<DCT type="str">2017-01-29T08:03:46Z</DCT> 
+<TITLE type="str">As it happened: Blitzboks claim Wellington title for first time since 2002, All Blacks Sevens slump to sixth</TITLE> 
 </root>

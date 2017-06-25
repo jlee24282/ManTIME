@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Matt Scully,  A bond-market startup is a step closer to reviving crisis-era derivatives that let investors bet on U.S. homeowner defaults. 
+<TEXT type="str">By Matt Scully,  A bond-market startup is a step closer to reviving crisis-era derivatives that let investors bet on U.S. homeowner defaults. 
  
 JPMorgan Chase, Bank of America and Credit Suisse Group have given price data to the startup, New York-based Vista Capital Advisors, which rolled out the latest version of its pilot initiative this month, according to a person with knowledge of the matter. Vista has been working on the project for the past few years with Intercontinental Exchange Inc. 
  
@@ -30,9 +30,8 @@ But there is also a potential drawback to the derivatives, he said: investors ma
  
 “That’s definitely a risk,” Reynolds said. 
  
-Bloomberg writer Joe Light contributed to this report.</content> 
-<sequenceId type="str">695198008985</sequenceId> 
-<topics type="list"> 
+Bloomberg writer Joe Light contributed to this report.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Mortgage industry news</name> 
@@ -45,7 +44,8 @@ Bloomberg writer Joe Light contributed to this report.</content>
 <group type="str">Business</group> 
 <name type="str">Regulatory news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:28Z</estimatedPublishedDate> 
-<title type="str">Remember those risky subprime mortgage wagers? Something similar may return to the market</title> 
+</TOPICS> 
+<DOCID type="str">695198008985</DOCID> 
+<DCT type="str">2017-01-29T07:37:28Z</DCT> 
+<TITLE type="str">Remember those risky subprime mortgage wagers? Something similar may return to the market</TITLE> 
 </root>

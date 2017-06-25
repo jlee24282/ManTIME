@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January 28, 2017  
+<TEXT type="str">January 28, 2017  
 Dyslexia is a common language-based disorder which is affecting a large number of people around the globe, making the process of reading, writing, and spelling almost unbearable . 
 In Kuwait, the issue is far greater especially with the lack of awareness about Dyslexia . 
 For Kuwaiti citizen Mohammad Al-Qatami Dyslexia is very personal issue due to the fact that his son suffered from this disorder . 
@@ -11,9 +11,8 @@ Al-Qatami said that discussions with Minister of Education and Minister of Highe
 On their parts, the Association official Theiya Al-Rasheed and Health Ministry pediatric consultant Dr. Nahed Abdulrazzak both affirmed that there were various ways to diagnose whether a person was suffering from the disorder . 
 They also said it was paramount to treat Dyslexia in a professional manner, otherwise, the situation might get further complicated. 
 
-KUNA</content> 
-<sequenceId type="str">695198705482</sequenceId> 
-<topics type="list"> 
+KUNA</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
@@ -22,7 +21,8 @@ KUNA</content>
 <group type="str">Regional</group> 
 <name type="str">Kuwait news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:45Z</estimatedPublishedDate> 
-<title type="str">Dyslexia in Kuwait... problems, solutions</title> 
+</TOPICS> 
+<DOCID type="str">695198705482</DOCID> 
+<DCT type="str">2017-01-29T07:45:45Z</DCT> 
+<TITLE type="str">Dyslexia in Kuwait... problems, solutions</TITLE> 
 </root>

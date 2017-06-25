@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Flashes of sunlight broke through the clouds at forty thousand feet.  He engaged the after burners and the powerful jet engine responded.  Not too many men, past or present, commanded as much power as he simply by pushing a throttle. 
+<TEXT type="str">Flashes of sunlight broke through the clouds at forty thousand feet.  He engaged the after burners and the powerful jet engine responded.  Not too many men, past or present, commanded as much power as he simply by pushing a throttle. 
   
 It was a test flight with no stringent maneuvers or flight formations.  Check out the maintenance chart, then free flying until fuel ran low.  As a young cadet, he used to envy the senior officers that enjoyed this freedom.  Now he knew what he had been missing.  He started a barrel roll to full throttle, smiling at his unlimited freedom.  Next stop – the universe!  The words of a poem, “and he reached out and touched the face of God” , danced through his mind. 
  
@@ -10,9 +10,8 @@ The landing strip in sight, he felt a slight surge of excitement as he lowered h
  
 He visualized the inside of the tank.  Dead empty.  Seconds to touchdown.  Everything has to be timed just right.  A devilish smiled crossed his lips.  How great to be in such control! 
  
-Runway in full view, he thought he must be seeing a mirage.  The runway rolled and tossed as if a blanket in the wind.  Tiny matchstick figures ran off in all directions.  The control tower began to sway.  A jumbled jargon of words came over his headset.  “Earthquake!  Abandoning tower!  All planes divert or stay in pattern as long as possible!”</content> 
-<sequenceId type="str">695194360387</sequenceId> 
-<topics type="list"> 
+Runway in full view, he thought he must be seeing a mirage.  The runway rolled and tossed as if a blanket in the wind.  Tiny matchstick figures ran off in all directions.  The control tower began to sway.  A jumbled jargon of words came over his headset.  “Earthquake!  Abandoning tower!  All planes divert or stay in pattern as long as possible!”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -21,7 +20,8 @@ Runway in full view, he thought he must be seeing a mirage.  The runway rolled 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:46Z</estimatedPublishedDate> 
-<title type="str">Are we ever truly in charge?</title> 
+</TOPICS> 
+<DOCID type="str">695194360387</DOCID> 
+<DCT type="str">2017-01-29T07:14:46Z</DCT> 
+<TITLE type="str">Are we ever truly in charge?</TITLE> 
 </root>

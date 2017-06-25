@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Several portions of the 23-page report were deleted before the CIA decided to release it.</content> 
-<sequenceId type="str">695203240333</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Several portions of the 23-page report were deleted before the CIA decided to release it.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Society</group> 
 <name type="str">US security news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:08Z</estimatedPublishedDate> 
-<title type="str">CIA releases report assessing Rajiv Gandhi&apos;s assassination 5 years before he was killed</title> 
+</TOPICS> 
+<DOCID type="str">695203240333</DOCID> 
+<DCT type="str">2017-01-29T08:19:08Z</DCT> 
+<TITLE type="str">CIA releases report assessing Rajiv Gandhi&apos;s assassination 5 years before he was killed</TITLE> 
 </root>

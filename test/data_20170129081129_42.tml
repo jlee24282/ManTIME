@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Houston: An Indian-origin teacher has been suspended after a video of a controversial classroom stunt that shows her firing a water gun at an image of President Donald Trump and yelling “die” went viral online. 
+<TEXT type="str">Houston: An Indian-origin teacher has been suspended after a video of a controversial classroom stunt that shows her firing a water gun at an image of President Donald Trump and yelling “die” went viral online. 
  
 Payal Modi, an art teacher at Adamson High School in Dallas, Texas, was caught on camera shooting a squirt gun as a video of President Trump at his Inauguration ceremony projected onto a whiteboard. 
  
@@ -26,9 +26,8 @@ Adamson High School junior Leslie Jaimes said she was in Modi’s second-period 
  
 “Trump came out and she shot at him, but like, it was just a water gun,” Jaimes said. “It’s no big deal”. 
  
-PTI</content> 
-<sequenceId type="str">695204645610</sequenceId> 
-<topics type="list"> 
+PTI</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -45,7 +44,8 @@ PTI</content>
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:53Z</estimatedPublishedDate> 
-<title type="str">Video: Indian-origin teacher suspended for ‘mock Trump assassination’</title> 
+</TOPICS> 
+<DOCID type="str">695204645610</DOCID> 
+<DCT type="str">2017-01-29T08:29:53Z</DCT> 
+<TITLE type="str">Video: Indian-origin teacher suspended for ‘mock Trump assassination’</TITLE> 
 </root>

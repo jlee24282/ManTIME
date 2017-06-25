@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The doctor is in, and I’m self-diagnosing: I have a bad case of the winter doldrums, and the fever is raging. The only cure is sunshine, warmer weather and a blooming garden.
+<TEXT type="str">The doctor is in, and I’m self-diagnosing: I have a bad case of the winter doldrums, and the fever is raging. The only cure is sunshine, warmer weather and a blooming garden.
 
 Short of a tropical vacation, I’ll just have to suck it up, buttercup, and conjure up mental images of lush gardens in place of gray skies and dirty snow. One of my favorite visions is ethereal cosmos fluttering in a summer breeze.
 
@@ -38,9 +38,8 @@ Here are some classic cosmos worth growing:
 
 “Rose Bonbon.” Fully double, rosy pink blooms with yellow eyes.
 
-“Antiquity.” Single blooms in mauve, copper and blush pink.</content> 
-<sequenceId type="str">695200697164</sequenceId> 
-<topics type="list"> 
+“Antiquity.” Single blooms in mauve, copper and blush pink.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -49,7 +48,8 @@ Here are some classic cosmos worth growing:
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:32Z</estimatedPublishedDate> 
-<title type="str">Cosmos, the flower, not cocktail, is a cure-all for cabin fever</title> 
+</TOPICS> 
+<DOCID type="str">695200697164</DOCID> 
+<DCT type="str">2017-01-29T08:01:32Z</DCT> 
+<TITLE type="str">Cosmos, the flower, not cocktail, is a cure-all for cabin fever</TITLE> 
 </root>

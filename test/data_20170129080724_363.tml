@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A smoothie can be a great meal substitute, as it’s delicious, easy-to-make and healthy. Blending together various organic ingredients such as vegetables, seeds and dairy to make a beverage can provide you with various nutrients without the hassle of cooking. 
+<TEXT type="str">A smoothie can be a great meal substitute, as it’s delicious, easy-to-make and healthy. Blending together various organic ingredients such as vegetables, seeds and dairy to make a beverage can provide you with various nutrients without the hassle of cooking. 
  
 However, that doesn’t mean you can just throw whatever ingredients you have into your blender and call it a smoothie. A smoothie requires careful research and experimentation to get the flavor and nutrients just right. 
  
@@ -44,9 +44,8 @@ Next:
  Gut-Healing Coconut and Ginger Kefir    Share Your Healthy Recipes with Dr. Mercola  
 Do you have an all-original recipe that’s certified delicious and nutritious? Whether it’s an appetizer, a main dish, a soup, a dessert, a thirst-quenching beverage, or a healthy smoothie, I’d definitely love to hear all about it! 
   
-Click Here to Submit Your Recipe</content> 
-<sequenceId type="str">695195919933</sequenceId> 
-<topics type="list"> 
+Click Here to Submit Your Recipe</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: green news</name> 
@@ -55,7 +54,8 @@ Click Here to Submit Your Recipe</content>
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: health news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Green Energy-Boosting Smoothie Recipe</title> 
+</TOPICS> 
+<DOCID type="str">695195919933</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Green Energy-Boosting Smoothie Recipe</TITLE> 
 </root>

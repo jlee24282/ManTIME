@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US president Donald Trump has abandoned the Trans-Pacific Partnership (TPP), leaving the ambitious trade agreement in limbo. Here are some key questions about the pact which supporters said would write the rules for 21st-century commerce: 
+<TEXT type="str">US president Donald Trump has abandoned the Trans-Pacific Partnership (TPP), leaving the ambitious trade agreement in limbo. Here are some key questions about the pact which supporters said would write the rules for 21st-century commerce: 
  
 What is the TPP? 
  
@@ -36,9 +36,8 @@ Yes. The Beijing-backed Regional Comprehensive Economic Partnership now being ne
  
 Something of a mirror image to TPP, it includes six of the Washington-led grouping’s 12 members but not the US, and would encompass more than 3billion people. 
  
-The Regional Comprehensive Economic Partnership is generally seen as less ambitious on issues like employment and environmental protection. – AFP</content> 
-<sequenceId type="str">695200376298</sequenceId> 
-<topics type="list"> 
+The Regional Comprehensive Economic Partnership is generally seen as less ambitious on issues like employment and environmental protection. – AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -47,7 +46,8 @@ The Regional Comprehensive Economic Partnership is generally seen as less ambiti
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:32Z</estimatedPublishedDate> 
-<title type="str">Free-trade deal in limbo</title> 
+</TOPICS> 
+<DOCID type="str">695200376298</DOCID> 
+<DCT type="str">2017-01-29T07:59:32Z</DCT> 
+<TITLE type="str">Free-trade deal in limbo</TITLE> 
 </root>

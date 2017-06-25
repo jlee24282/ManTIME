@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">•’ICPC threatened to jail us for paying for outsourced services’ 
+<TEXT type="str">•’ICPC threatened to jail us for paying for outsourced services’ 
 
 Professor Thomas Agan is the Chief Medical Director of University of Calabar Teaching Hospital, UCTH, and the Chairman, Committee of Chief Medical Directors of Tertiary Hospitals in Nigeria.  In this interview,  Agan speaks on the challenges facing teaching hospitals in the country. 
 
@@ -50,9 +50,8 @@ They are not only instigating resident doctors, they are instigating other staff
 
 The Minister issued a directive on the detention of patients following inability to pay hospitals bills.  As  the Chairman of the Committee of  CMDs, what is your response? 
 
-The truth of the matter is that people are not ready to pay; it is not that there is no money to pay. Nigerians want to be treated free, not that they don’t have the money. Now we insist that anybody that comes must pay deposit unless the person comes unconscious, and they are paying. Nobody should deceive you that they don’t have money; they will tell the public that they are being detained but they are not being detained by anybody.</content> 
-<sequenceId type="str">695200455830</sequenceId> 
-<topics type="list"> 
+The truth of the matter is that people are not ready to pay; it is not that there is no money to pay. Nigerians want to be treated free, not that they don’t have the money. Now we insist that anybody that comes must pay deposit unless the person comes unconscious, and they are paying. Nobody should deceive you that they don’t have money; they will tell the public that they are being detained but they are not being detained by anybody.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
@@ -61,7 +60,8 @@ The truth of the matter is that people are not ready to pay; it is not that ther
 <group type="str">Business</group> 
 <name type="str">Sponsorship news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:29:00Z</estimatedPublishedDate> 
-<title type="str">I was blackmailed for allegedly putting UCTH funds in MMM— Prof. Agan, CMD</title> 
+</TOPICS> 
+<DOCID type="str">695200455830</DOCID> 
+<DCT type="str">2017-01-29T04:29:00Z</DCT> 
+<TITLE type="str">I was blackmailed for allegedly putting UCTH funds in MMM— Prof. Agan, CMD</TITLE> 
 </root>

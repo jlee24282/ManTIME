@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump has signed an executive order directing the US military to develop a preliminary plan to defeat Islamic State in both Iraq and Syria. He discussed the issue earlier in a telephone conversation with Russian President Vladimir Putin. Read Full Article at RT.com</content> 
-<sequenceId type="str">695194835213</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">President Donald Trump has signed an executive order directing the US military to develop a preliminary plan to defeat Islamic State in both Iraq and Syria. He discussed the issue earlier in a telephone conversation with Russian President Vladimir Putin. Read Full Article at RT.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Syria news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:35Z</estimatedPublishedDate> 
-<title type="str">Trump gives Pentagon 30 days to develop strategy to defeat ISIS in Iraq &amp; Syria</title> 
+</TOPICS> 
+<DOCID type="str">695194835213</DOCID> 
+<DCT type="str">2017-01-29T07:18:35Z</DCT> 
+<TITLE type="str">Trump gives Pentagon 30 days to develop strategy to defeat ISIS in Iraq &amp; Syria</TITLE> 
 </root>

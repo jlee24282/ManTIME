@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Subscribe today for full access on your desktop, tablet, and mobile device. 
+<TEXT type="str">Subscribe today for full access on your desktop, tablet, and mobile device. 
  Subscribe Now              Share This Story!  
 Let friends in your social network know what you are reading about 
   How to watch tonight&apos;s NFL Pro Bowl game in Orlando  
@@ -65,9 +65,8 @@ On mobile? Tap here for live updates.
 0) { %&gt; 
 
 0) { %&gt; 
-]]&gt;</content> 
-<sequenceId type="str">695196223363</sequenceId> 
-<topics type="list"> 
+]]&gt;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -80,7 +79,8 @@ On mobile? Tap here for live updates.
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:47Z</estimatedPublishedDate> 
-<title type="str">How to watch tonight&apos;s NFL Pro Bowl game in Orlando</title> 
+</TOPICS> 
+<DOCID type="str">695196223363</DOCID> 
+<DCT type="str">2017-01-29T07:27:47Z</DCT> 
+<TITLE type="str">How to watch tonight&apos;s NFL Pro Bowl game in Orlando</TITLE> 
 </root>

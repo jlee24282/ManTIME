@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Related Story: 
+<TEXT type="str">Related Story: 
        Trump order halting some Muslim immigrants hits roadblock   Related Story: 
        In pictures: protesters descend on US airports   
 As the reality of US President Donald Trump&apos;s executive order on immigration hits, immigrants and their relatives grow anxious about what it means for their loved ones. 
@@ -49,9 +49,8 @@ Ali&apos;s story is another example of the global ripple effect of Mr Trump&apos
 Social media responds with #NoBanNoWall 
 Social media has erupted in panic, with many people concerned about what this will mean for their families and future freedom. 
  External Link: Storify: Social media erupts over #muslimban  
-ABC/wires</content> 
-<sequenceId type="str">695201847445</sequenceId> 
-<topics type="list"> 
+ABC/wires</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -84,7 +83,8 @@ ABC/wires</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:22Z</estimatedPublishedDate> 
-<title type="str">Muslim ban leaves residents feeling like &apos;prisoners&apos; in the US</title> 
+</TOPICS> 
+<DOCID type="str">695201847445</DOCID> 
+<DCT type="str">2017-01-29T07:44:22Z</DCT> 
+<TITLE type="str">Muslim ban leaves residents feeling like &apos;prisoners&apos; in the US</TITLE> 
 </root>

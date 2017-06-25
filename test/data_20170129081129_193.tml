@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Melody Belle has sprung an upset in the $1 million Karaka Million for two-year-olds at Ellerslie. 
+<TEXT type="str">Melody Belle has sprung an upset in the $1 million Karaka Million for two-year-olds at Ellerslie. 
  
 Opie Bosson has steered Melody Belle to an upset win in the $1 million Karaka Million at Ellerslie, New Zealand&apos;s richest race for two-year-olds. 
  
@@ -14,9 +14,8 @@ Raced by Te Akau Racing and Fortuna Bloodstock, Melody Belle had been stakes pla
  
 The other equal favourite Padraig, ridden by Hugh Bowman, finished sixth after getting a long way back early. 
  
-The day was still a success for the leading Sydney jockey who rode two winners on the program.</content> 
-<sequenceId type="str">695204811609</sequenceId> 
-<topics type="list"> 
+The day was still a success for the leading Sydney jockey who rode two winners on the program.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -25,7 +24,8 @@ The day was still a success for the leading Sydney jockey who rode two winners o
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:13Z</estimatedPublishedDate> 
-<title type="str">Melody Belle in tune in Karaka Million</title> 
+</TOPICS> 
+<DOCID type="str">695204811609</DOCID> 
+<DCT type="str">2017-01-29T08:32:13Z</DCT> 
+<TITLE type="str">Melody Belle in tune in Karaka Million</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Music Run By Old Mutual PHOTO: 
+<TEXT type="str">The Music Run By Old Mutual PHOTO: 
 
 YOU MIGHT ALSO LIKE {{item.title}} 
 
@@ -88,9 +88,8 @@ Many people across the Pacific region began celebrating the arrival Saturday of 
 
 Public health concerns over air pollution have grown and the government has found no source ... 
 
-PanARMENIAN.Net - Jamaican Usain Bolt says it is rough losing one of his nine Olympic ...</content> 
-<sequenceId type="str">695201297829</sequenceId> 
-<topics type="list"> 
+PanARMENIAN.Net - Jamaican Usain Bolt says it is rough losing one of his nine Olympic ...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
@@ -99,7 +98,8 @@ PanARMENIAN.Net - Jamaican Usain Bolt says it is rough losing one of his nine Ol
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:37Z</estimatedPublishedDate> 
-<title type="str">Sorted Five things to get you out and about this week</title> 
+</TOPICS> 
+<DOCID type="str">695201297829</DOCID> 
+<DCT type="str">2017-01-29T08:05:37Z</DCT> 
+<TITLE type="str">Sorted Five things to get you out and about this week</TITLE> 
 </root>

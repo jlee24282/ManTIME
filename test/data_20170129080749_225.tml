@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo: DOUG MILLS /NYT  
+<TEXT type="str">Photo: DOUG MILLS /NYT  
   
 Image 1 of / 1 
   
@@ -49,9 +49,8 @@ Another red line?
  
 As ex-president, Barrack Obama says he will step up and speak out if President Donald Trump misbehaves. So Obama has drawn a red line in Trump’s sandbox? 
  
-Pat McMillan</content> 
-<sequenceId type="str">695196732527</sequenceId> 
-<topics type="list"> 
+Pat McMillan</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -60,7 +59,8 @@ Pat McMillan</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Your Turn: Jan. 30</title> 
+</TOPICS> 
+<DOCID type="str">695196732527</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Your Turn: Jan. 30</TITLE> 
 </root>

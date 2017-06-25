@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The New York Taxi Workers Alliance, a nonprofit that works with the metropolis&apos; more than 50,000 licensed yellow taxi drivers, called for a one-hour work stoppage at John F. Kennedy International Airport in protest of President Donald Trump&apos;s executive order banning all refugees for 120 days and suspending re-entry for valid visa and green card holders from seven Muslim-majority countries.
+<TEXT type="str">The New York Taxi Workers Alliance, a nonprofit that works with the metropolis&apos; more than 50,000 licensed yellow taxi drivers, called for a one-hour work stoppage at John F. Kennedy International Airport in protest of President Donald Trump&apos;s executive order banning all refugees for 120 days and suspending re-entry for valid visa and green card holders from seven Muslim-majority countries.
 
 &quot;We cannot be silent,&quot; the NYTWA wrote on Twitter. &quot;We go to work to welcome people to a land that once welcomed us. We will not be divided.&quot;
 
@@ -8,9 +8,8 @@ We cannot be silent. We go to work to welcome people to a land that once welcome
 
 No cabs in this line at JFK terminal 4. #NoBanNoWall #RefugeesWelcome
 
-In a statement, the NYTWA cited professional drivers&apos; higher risk of being murdered on the job to stand in solidarity with those being denied entry to the country, adding that as a union &quot;whose membership is largely Muslim, a workforce that&apos;s almost universally immigrant and a working-class movement that is rooted in the defense of the oppressed, we say no to this inhumane and unconstitutional ban. As reports of individuals being detained by law enforcement officials at JFK International Airport began to circulate, hundreds of protesters congregated outside the terminals to demand they be allowed to enter the country. Dozens of incidents of individuals and families being refused entry in accordance with their valid visa or green card credentials have been reported across the U.S., and the ACLU is organizing further demonstrations at airports throughout the country.</content> 
-<sequenceId type="str">695202883312</sequenceId> 
-<topics type="list"> 
+In a statement, the NYTWA cited professional drivers&apos; higher risk of being murdered on the job to stand in solidarity with those being denied entry to the country, adding that as a union &quot;whose membership is largely Muslim, a workforce that&apos;s almost universally immigrant and a working-class movement that is rooted in the defense of the oppressed, we say no to this inhumane and unconstitutional ban. As reports of individuals being detained by law enforcement officials at JFK International Airport began to circulate, hundreds of protesters congregated outside the terminals to demand they be allowed to enter the country. Dozens of incidents of individuals and families being refused entry in accordance with their valid visa or green card credentials have been reported across the U.S., and the ACLU is organizing further demonstrations at airports throughout the country.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -23,7 +22,8 @@ In a statement, the NYTWA cited professional drivers&apos; higher risk of being 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:19Z</estimatedPublishedDate> 
-<title type="str">NYC taxi union on strike in protest of Muslim ban</title> 
+</TOPICS> 
+<DOCID type="str">695202883312</DOCID> 
+<DCT type="str">2017-01-29T08:17:19Z</DCT> 
+<TITLE type="str">NYC taxi union on strike in protest of Muslim ban</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tourists visit the temple fair in Ditan Park in Beijing, capital of China, Jan. 28, 2017. According to data from the China National Tourism Administration, on Saturday, the number of tourists received in China reached 65.2 million, generating income totaled 76 billion yuan (around 11.1 billion U.S. dollars). [Photo: Xinhua] 
+<TEXT type="str">Tourists visit the temple fair in Ditan Park in Beijing, capital of China, Jan. 28, 2017. According to data from the China National Tourism Administration, on Saturday, the number of tourists received in China reached 65.2 million, generating income totaled 76 billion yuan (around 11.1 billion U.S. dollars). [Photo: Xinhua] 
  
 Beijing&apos;s 11 municipal parks and the Museum of Chinese Garden and Landscape Architecture received a total of 180,000 tourists on Saturday, the first day of the Lunar New Year, or Spring Festival. 
  
@@ -8,9 +8,8 @@ During the Spring Festival public holiday, a string of events and activities, su
  
 Taoranting Park reported 40,000 visitors, while the Temple of Heaven Park and the Summer Palace saw 30,000 tourists each, according to the Beijing parks office. 
  
-Spring Festival is the most important festival in China.</content> 
-<sequenceId type="str">695198431690</sequenceId> 
-<topics type="list"> 
+Spring Festival is the most important festival in China.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -23,7 +22,8 @@ Spring Festival is the most important festival in China.</content>
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:36Z</estimatedPublishedDate> 
-<title type="str">Beijing parks receive 180,000 tourists on Spring Festival</title> 
+</TOPICS> 
+<DOCID type="str">695198431690</DOCID> 
+<DCT type="str">2017-01-29T07:43:36Z</DCT> 
+<TITLE type="str">Beijing parks receive 180,000 tourists on Spring Festival</TITLE> 
 </root>

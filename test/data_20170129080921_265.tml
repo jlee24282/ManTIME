@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The federal government has approved 1.2 billion US dollars for the construction of the Kano-Kaduna standard gauge railway project. 
+<TEXT type="str">The federal government has approved 1.2 billion US dollars for the construction of the Kano-Kaduna standard gauge railway project. 
 
 Minister of Transport, Rotimi Amechi, disclosed this in Kano yesterday when he visited Gov. Abdullahi Ganduje at the Government House, Kano. 
 
@@ -24,9 +24,8 @@ About Article Author
 
 Chuka (Webby) Aniemeka 
 
-Chuka is an experienced certified web developer with an extensive background in computer science and 18+ years in web design &amp;development. His previous experience ranges from redesigning existing website to solving complex technical problems with object-oriented programming. Very experienced with Microsoft SQL Server, PHP and advanced JavaScript. He loves to travel and watch movies.</content> 
-<sequenceId type="str">695200436146</sequenceId> 
-<topics type="list"> 
+Chuka is an experienced certified web developer with an extensive background in computer science and 18+ years in web design &amp;development. His previous experience ranges from redesigning existing website to solving complex technical problems with object-oriented programming. Very experienced with Microsoft SQL Server, PHP and advanced JavaScript. He loves to travel and watch movies.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Rail transport news</name> 
@@ -39,7 +38,8 @@ Chuka is an experienced certified web developer with an extensive background in 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:09:00Z</estimatedPublishedDate> 
-<title type="str">FG approves $1.2 Billion for Kano-Kaduna rail project</title> 
+</TOPICS> 
+<DOCID type="str">695200436146</DOCID> 
+<DCT type="str">2017-01-29T05:09:00Z</DCT> 
+<TITLE type="str">FG approves $1.2 Billion for Kano-Kaduna rail project</TITLE> 
 </root>

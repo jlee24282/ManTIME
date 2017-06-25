@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Can I?  Should I?  How do I? 
+<TEXT type="str">Can I?  Should I?  How do I? 
  
 At some stage if you are any good as a rider, and if you love what you do, and simply cannot imagine doing anything else the thought comes to you: “Maybe I can become a professional at this…” 
  
@@ -50,9 +50,8 @@ You can make money as a professional rider.  You can live a good lifestyle as a
  
 Read Turning Pro Part 2 here 
  
-About the author: Anita Marchesani built a successful retail business from scratch with her credit card, and then sold it to the perfect new owner.  Now she is helping other small businesses to their own version of success, which usually involved having more time to ride!  Get FREE business resources from her website, here</content> 
-<sequenceId type="str">695195399401</sequenceId> 
-<topics type="list"> 
+About the author: Anita Marchesani built a successful retail business from scratch with her credit card, and then sold it to the perfect new owner.  Now she is helping other small businesses to their own version of success, which usually involved having more time to ride!  Get FREE business resources from her website, here</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -61,7 +60,8 @@ About the author: Anita Marchesani built a successful retail business from scrat
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:47Z</estimatedPublishedDate> 
-<title type="str">Turning Pro - Part 1</title> 
+</TOPICS> 
+<DOCID type="str">695195399401</DOCID> 
+<DCT type="str">2017-01-29T07:21:47Z</DCT> 
+<TITLE type="str">Turning Pro - Part 1</TITLE> 
 </root>

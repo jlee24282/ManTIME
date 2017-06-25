@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ATLANTA (TNS) — Georgia Tech is not to be trifled with. 
+<TEXT type="str">ATLANTA (TNS) — Georgia Tech is not to be trifled with. 
    
 The Yellow Jackets took down their third top-25 team Saturday, dropping No. 14 Notre Dame by a 62-60 score at McCamish Pavilion. 
    
@@ -50,9 +50,8 @@ Duke forced the Demon Deacons into a shot clock violation after Woods airballed 
    
 The Blue Devils worked to find an open shot, with Grayson Allen draining a 3-pointer with 52.5 seconds left leaving Wake Forest up 83-82. 
    
-Wood misfired on a contested 3-pointer with 23 seconds left, setting the stage for Kennard’s 3-pointer with 6.6 left that gave Duke an 85-83 lead.</content> 
-<sequenceId type="str">695204176495</sequenceId> 
-<topics type="list"> 
+Wood misfired on a contested 3-pointer with 23 seconds left, setting the stage for Kennard’s 3-pointer with 6.6 left that gave Duke an 85-83 lead.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -61,7 +60,8 @@ Wood misfired on a contested 3-pointer with 23 seconds left, setting the stage f
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:02:00Z</estimatedPublishedDate> 
-<title type="str">Georgia Tech stuns No. 14 Notre Dame at buzzer</title> 
+</TOPICS> 
+<DOCID type="str">695204176495</DOCID> 
+<DCT type="str">2017-01-29T00:02:00Z</DCT> 
+<TITLE type="str">Georgia Tech stuns No. 14 Notre Dame at buzzer</TITLE> 
 </root>

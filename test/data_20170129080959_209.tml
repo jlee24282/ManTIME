@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Keen to spend a weekend away in the great outdoors? Here are five excellent camping options that are driving distance from Dubai…  White Sands Beach  
+<TEXT type="str">Keen to spend a weekend away in the great outdoors? Here are five excellent camping options that are driving distance from Dubai…  White Sands Beach  
 Perfect for: Beach-loving campers 
  
 Photo: Pete Maloney 
@@ -93,9 +93,8 @@ The Danat Jebel Dhanna Resort, near Sir Bani Yas Island, is one of several hotel
       Active   
 What’s On tells you the best places to run in Dubai, featuring running tracks in Dubai at Al Barsha Park, Bay Avenue Park, JBR The Beach and Jumeirah Corniche. 
       Active   
-Next to the Al Qudra cycling track, a cluster of manmade lakes – home to hundreds of exotic birds – is waiting to be explored.</content> 
-<sequenceId type="str">695201814676</sequenceId> 
-<topics type="list"> 
+Next to the Al Qudra cycling track, a cluster of manmade lakes – home to hundreds of exotic birds – is waiting to be explored.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -112,7 +111,8 @@ Next to the Al Qudra cycling track, a cluster of manmade lakes – home to hundr
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:53Z</estimatedPublishedDate> 
-<title type="str">Five amazing places to camp in the UAE and beyond</title> 
+</TOPICS> 
+<DOCID type="str">695201814676</DOCID> 
+<DCT type="str">2017-01-29T08:08:53Z</DCT> 
+<TITLE type="str">Five amazing places to camp in the UAE and beyond</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Albert Einstein was a cad. No amount of history can gloss over that fact.
+<TEXT type="str">Albert Einstein was a cad. No amount of history can gloss over that fact.
 
 If you find that notion intriguing, puzzling or even infuriating — “The Other Einstein,” by Pittsburgh-based writer Marie Benedict, is worth a read.
 
@@ -24,9 +24,8 @@ In a sad twist of fate, it is her hunger for knowledge that puts her in the path
 
 However, unlike “Jane Eyre,” our heroine’s story does not end in redemption. Readers will find that the book is easily digestible, as Ms. Benedict breezes through even the most traumatic events. This can be frustrating, as Maric’s story is so unique and rich, and has been ignored for so long, that many will want to delve deeper into her motivations, thoughts and sorrows. However, “The Other Einstein” is a compelling read, and offers up a moral that many can appreciate: brilliance of mind does not equal excellence of character.
 
-Mia Bencivenga is a writer and editor based in Pittsburgh. You can contact her at miabencivenga14@gmail.com</content> 
-<sequenceId type="str">695200251096</sequenceId> 
-<topics type="list"> 
+Mia Bencivenga is a writer and editor based in Pittsburgh. You can contact her at miabencivenga14@gmail.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -39,7 +38,8 @@ Mia Bencivenga is a writer and editor based in Pittsburgh. You can contact her a
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book reviews</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Book review: Book explores the dark side of Einstein</title> 
+</TOPICS> 
+<DOCID type="str">695200251096</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Book review: Book explores the dark side of Einstein</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LOS ANGELES Jan 28 (Reuters) - Hollywood producers named
+<TEXT type="str">LOS ANGELES Jan 28 (Reuters) - Hollywood producers named
 the musical &quot;La La Land&quot; the best film of 2016 on Saturday at a
 ceremony marked by criticism of President Donald Trump&apos;s
 immigration policies. 
@@ -58,14 +58,14 @@ directors, actors and actresses by the Academy of Motion Picture
 Arts and Sciences.
 
  (Reporting by Rollo Ross and Lisa Richwine in Los Angeles and
-Chris Michaud in New York; Editing by Susan Fenton)</content> 
-<sequenceId type="str">695205090048</sequenceId> 
-<topics type="list"> 
+Chris Michaud in New York; Editing by Susan Fenton)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Movie business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:22Z</estimatedPublishedDate> 
-<title type="str">Hollywood producers name &quot;La La Land&quot; the year&apos;s best film</title> 
+</TOPICS> 
+<DOCID type="str">695205090048</DOCID> 
+<DCT type="str">2017-01-29T08:34:22Z</DCT> 
+<TITLE type="str">Hollywood producers name &quot;La La Land&quot; the year&apos;s best film</TITLE> 
 </root>

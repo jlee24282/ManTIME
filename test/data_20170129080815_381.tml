@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">To read the full article or to get the complete feed from this publication, please Contact Us. 
+<TEXT type="str">To read the full article or to get the complete feed from this publication, please Contact Us. 
 
 HTDS Content Services 
 
@@ -18,9 +18,8 @@ Sector-30, Delhi-Jaipur Highway,
 
 Gurgaon - 122001 
 
-: Rajesh Sharma</content> 
-<sequenceId type="str">695197704348</sequenceId> 
-<topics type="list"> 
+: Rajesh Sharma</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Police news</name> 
@@ -33,7 +32,8 @@ Gurgaon - 122001
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:54Z</estimatedPublishedDate> 
-<title type="str">Bhubaneswar: Commissionerate Police arrests two accused in connection with Bankuala youth murder case</title> 
+</TOPICS> 
+<DOCID type="str">695197704348</DOCID> 
+<DCT type="str">2017-01-29T07:38:54Z</DCT> 
+<TITLE type="str">Bhubaneswar: Commissionerate Police arrests two accused in connection with Bankuala youth murder case</TITLE> 
 </root>

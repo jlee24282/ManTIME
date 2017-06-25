@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">University of California students and community members from seven majority-Muslim countries targeted by an executive order from President Donald Trump should not leave the country, the University advised Saturday. 
+<TEXT type="str">University of California students and community members from seven majority-Muslim countries targeted by an executive order from President Donald Trump should not leave the country, the University advised Saturday. 
  
 The University also advised visa holders or green card holders from the affected countries who are abroad to contact the International Studies Office at each campus . 
  
@@ -26,9 +26,8 @@ Activists, protesters and lawyers flocked to Los Angeles International Airport, 
  
 The American Civil Liberties Union filed a lawsuit against the executive order, arguing it violated the Due Process and Equal Protection clauses of the Constitution. 
  
-Protesters, including UCLA students, plan to rally at the international terminal at LAX against Trump’s executive order Sunday.</content> 
-<sequenceId type="str">695203417989</sequenceId> 
-<topics type="list"> 
+Protesters, including UCLA students, plan to rally at the international terminal at LAX against Trump’s executive order Sunday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
@@ -49,7 +48,8 @@ Protesters, including UCLA students, plan to rally at the international terminal
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:25Z</estimatedPublishedDate> 
-<title type="str">UC responds to Trump’s executive order on immigration, refugees</title> 
+</TOPICS> 
+<DOCID type="str">695203417989</DOCID> 
+<DCT type="str">2017-01-29T07:57:25Z</DCT> 
+<TITLE type="str">UC responds to Trump’s executive order on immigration, refugees</TITLE> 
 </root>

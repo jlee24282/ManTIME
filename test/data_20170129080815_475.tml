@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">There were plenty of young Chelsea footballers playing alongside Cesc Fabregas in Saturday’s FA Cup win and it was their contribution and the team’s overall commitment that earned the Spaniard’s praise after the game. 
+<TEXT type="str">There were plenty of young Chelsea footballers playing alongside Cesc Fabregas in Saturday’s FA Cup win and it was their contribution and the team’s overall commitment that earned the Spaniard’s praise after the game. 
  
 The three open-play goals that preceded Michy Batshuayi ’s penalty in the 4-0 win over Brentford were scored by the more senior Willian , Pedro and Branislav Ivanovic but Nathan Ake , back from loan, joined fellow Chelsea Academy products Ruben Loftus-Cheek and Nathaniel Chalobah in the starting line-up. 
  
@@ -15,9 +15,8 @@ Fabregas pointed out that the team could have done better in certain aspects aga
 Next up it is our turn to take on Liverpool. 
  
 ‘We have three days to prepare well and I am sure the manager and the team will do the best we can to prepare for what I hope will be a fantastic game and a win for us.’   
- </content> 
-<sequenceId type="str">695197809074</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -38,7 +37,8 @@ Next up it is our turn to take on Liverpool.
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:46Z</estimatedPublishedDate> 
-<title type="str">Fabregas: Different faces do well</title> 
+</TOPICS> 
+<DOCID type="str">695197809074</DOCID> 
+<DCT type="str">2017-01-29T07:39:46Z</DCT> 
+<TITLE type="str">Fabregas: Different faces do well</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Air force warplanes, including South Korean-made FA50 fighter jets deployed in a combat mission for the first time, unleashed 225-kilogram bombs on Wednesday and Thursday.</content> 
-<sequenceId type="str">695196959359</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Air force warplanes, including South Korean-made FA50 fighter jets deployed in a combat mission for the first time, unleashed 225-kilogram bombs on Wednesday and Thursday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Philippines news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:08Z</estimatedPublishedDate> 
-<title type="str">Philippine airstrikes kill suspected Indonesian militant</title> 
+</TOPICS> 
+<DOCID type="str">695196959359</DOCID> 
+<DCT type="str">2017-01-29T07:31:08Z</DCT> 
+<TITLE type="str">Philippine airstrikes kill suspected Indonesian militant</TITLE> 
 </root>

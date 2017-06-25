@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">title  
+<TEXT type="str">title  
 Content Goes Here 
  ok       Create New Playlist   {{collection.name}}  {{(collection.tracks).length}} songs      Save songs from Q93 to your playlist  Instantly replay songs from the radio  Unlimited skips  Listen offline  Create unlimited playlists  Play millions of songs on demand     
-An error occurred. Please try again.</content> 
-<sequenceId type="str">695203552526</sequenceId> 
-<topics type="list"> 
+An error occurred. Please try again.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:21Z</estimatedPublishedDate> 
-<title type="str">&quot;The Mexican President has a message for President TRUMP&quot;</title> 
+</TOPICS> 
+<DOCID type="str">695203552526</DOCID> 
+<DCT type="str">2017-01-29T08:22:21Z</DCT> 
+<TITLE type="str">&quot;The Mexican President has a message for President TRUMP&quot;</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Having gone from expansion to the MLS Cup championship in eight seasons, the trick for the Seattle Sounders FC, now, is to discover ways to sustain the magic and fire and competitive edge that got them here. 
+<TEXT type="str">Having gone from expansion to the MLS Cup championship in eight seasons, the trick for the Seattle Sounders FC, now, is to discover ways to sustain the magic and fire and competitive edge that got them here. 
 
 The “messaging” regarding the fight against complacency started from the first day of preseason training, coach Brian Schmetzer assured last week. 
  
@@ -48,9 +48,8 @@ Alonso nodded, and tapped his heart.
 
 And inspirational. 
 
-If anybody needs an example of how dramatically sports can change a person’s life, or how far dedication and hard work can take one, or what it means to have the heart of a champion, they need only consider the experience of Osvaldo Alonso.</content> 
-<sequenceId type="str">695196400069</sequenceId> 
-<topics type="list"> 
+If anybody needs an example of how dramatically sports can change a person’s life, or how far dedication and hard work can take one, or what it means to have the heart of a champion, they need only consider the experience of Osvaldo Alonso.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -59,7 +58,8 @@ If anybody needs an example of how dramatically sports can change a person’s l
 <group type="str">Sports</group> 
 <name type="str">Sports: MLS news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:54Z</estimatedPublishedDate> 
-<title type="str">The irrepressible heart of midfielder Osvaldo Alonso</title> 
+</TOPICS> 
+<DOCID type="str">695196400069</DOCID> 
+<DCT type="str">2017-01-29T07:23:54Z</DCT> 
+<TITLE type="str">The irrepressible heart of midfielder Osvaldo Alonso</TITLE> 
 </root>

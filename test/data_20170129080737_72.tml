@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A team of scientists has used artificial intelligence (AI) to gain insight into the biophysics of cancer with their machine-learning platform predicting a trio of reagents that generated a cancer-like phenotype in tadpoles. 
+<TEXT type="str">A team of scientists has used artificial intelligence (AI) to gain insight into the biophysics of cancer with their machine-learning platform predicting a trio of reagents that generated a cancer-like phenotype in tadpoles. 
  
 The research, reported in journal Scientific Reports, showed that during these extensive experiments, the biologists observed that all the melanocytes — a mature melanin-forming cell — in a single frog larva either converted to the cancer-like form or remained completely normal. 
  
@@ -20,9 +20,8 @@ He said that the team now wanted to do something different — cure a disease, c
  
 IANS 
  
-Tags:  AI , Artificial Intelligence , Cancer Research , machine learning , ML</content> 
-<sequenceId type="str">695196143999</sequenceId> 
-<topics type="list"> 
+Tags:  AI , Artificial Intelligence , Cancer Research , machine learning , ML</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Robotics news</name> 
@@ -31,7 +30,8 @@ Tags:  AI , Artificial Intelligence , Cancer Research , machine learning , ML</c
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:23Z</estimatedPublishedDate> 
-<title type="str">Artificial intelligence used to gather insights into cancer with machine-learning platform</title> 
+</TOPICS> 
+<DOCID type="str">695196143999</DOCID> 
+<DCT type="str">2017-01-29T07:27:23Z</DCT> 
+<TITLE type="str">Artificial intelligence used to gather insights into cancer with machine-learning platform</TITLE> 
 </root>

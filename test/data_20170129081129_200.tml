@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON (Reuters) - President Donald Trump’s travel ban barring citizens of seven predominantly Muslim nations entry into the U.S. has sparked protests around the country. 
+<TEXT type="str">WASHINGTON (Reuters) - President Donald Trump’s travel ban barring citizens of seven predominantly Muslim nations entry into the U.S. has sparked protests around the country. 
  
 A look at what is happening: 
  
@@ -102,9 +102,8 @@ Hundreds of protesters blocked the street outside at San Francisco International
  
 SAN DIEGO 
  
-As motorists honked their support, demonstrators outside San Diego International Airport chanted &quot;No hate, no fear, everyone is welcome here.&quot; </content> 
-<sequenceId type="str">695204826353</sequenceId> 
-<topics type="list"> 
+As motorists honked their support, demonstrators outside San Diego International Airport chanted &quot;No hate, no fear, everyone is welcome here.&quot; </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -125,7 +124,8 @@ As motorists honked their support, demonstrators outside San Diego International
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:22Z</estimatedPublishedDate> 
-<title type="str">Protests erupt at US airports following Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695204826353</DOCID> 
+<DCT type="str">2017-01-29T08:32:22Z</DCT> 
+<TITLE type="str">Protests erupt at US airports following Trump travel ban</TITLE> 
 </root>

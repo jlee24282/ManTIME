@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TEHRAN, Jan. 28 (MNA) – NITC head announced that 35 Iranian tankers have been leased out to oil companies in Europe like Spain’s Cepsa and Eni of Italy. 
+<TEXT type="str">TEHRAN, Jan. 28 (MNA) – NITC head announced that 35 Iranian tankers have been leased out to oil companies in Europe like Spain’s Cepsa and Eni of Italy. 
  
 New Managing Director of the National Iranian Tanker Company (NITC) Sirous Kianersi described latest status of oil displacement agreements between NITC and huge European oil companies saying “so far, 35 contracts have been inked with European sides for taking out leases on 35 Iranian tankers.” 
  
@@ -12,9 +12,8 @@ In view of post-JCPOA conditions and removal of restrictions, more agreements wi
  
 Last week, Kianersi had reported on berthing of Iranian oil tankers at EU oil terminals stressing that the first Iranian tanker had tied up at a Spanish socking site. 
  
-For the first time ever, an Iranian tanker, which has been lent out to a large Spanish oil company, moored at Algeciras port of the European state.</content> 
-<sequenceId type="str">695195540651</sequenceId> 
-<topics type="list"> 
+For the first time ever, an Iranian tanker, which has been lent out to a large Spanish oil company, moored at Algeciras port of the European state.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">European Union news</name> 
@@ -27,7 +26,8 @@ For the first time ever, an Iranian tanker, which has been lent out to a large S
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:56Z</estimatedPublishedDate> 
-<title type="str">IOTC lends out 35 tankers to European...</title> 
+</TOPICS> 
+<DOCID type="str">695195540651</DOCID> 
+<DCT type="str">2017-01-29T07:22:56Z</DCT> 
+<TITLE type="str">IOTC lends out 35 tankers to European...</TITLE> 
 </root>

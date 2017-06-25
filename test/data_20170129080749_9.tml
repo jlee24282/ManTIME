@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(FOX5) -</content> 
-<sequenceId type="str">695196492691</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">(FOX5) -</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Restaurant industry news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Charities news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:48:00Z</estimatedPublishedDate> 
-<title type="str">Non-profit Henderson restaurant focuses on at-risk youth</title> 
+</TOPICS> 
+<DOCID type="str">695196492691</DOCID> 
+<DCT type="str">2017-01-29T06:48:00Z</DCT> 
+<TITLE type="str">Non-profit Henderson restaurant focuses on at-risk youth</TITLE> 
 </root>

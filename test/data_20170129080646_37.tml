@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">6:45 AM GMT   
+<TEXT type="str">6:45 AM GMT   
 SALT LAKE CITY -- Much has changed for Memphis Grizzlies franchise cornerstone Zach Randolph this season. He has a new role for a new coach in a new system. 
  
 But he’s still the same, ol&apos; Z-Bo, even at the ripe old age of 35. 
@@ -45,9 +45,8 @@ That’s true regardless of who’s guarding Randolph. There certainly aren’t 
  
 Randolph raved about Gobert’s impact as a defender after the game, but he certainly wasn’t surprised to have some success against the Jazz big man. 
  
-“I’ve been doing it my whole career,” Randolph said as he strolled to the Grizzlies’ bus. “Anybody. It don’t matter.”</content> 
-<sequenceId type="str">695194242441</sequenceId> 
-<topics type="list"> 
+“I’ve been doing it my whole career,” Randolph said as he strolled to the Grizzlies’ bus. “Anybody. It don’t matter.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Memphis Grizzlies news</name> 
@@ -60,7 +59,8 @@ Randolph raved about Gobert’s impact as a defender after the game, but he cert
 <group type="str">Sports</group> 
 <name type="str">Sports: NBA news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:56Z</estimatedPublishedDate> 
-<title type="str">Old-school Zach Randolph is rolling for the Grizzlies</title> 
+</TOPICS> 
+<DOCID type="str">695194242441</DOCID> 
+<DCT type="str">2017-01-29T07:13:56Z</DCT> 
+<TITLE type="str">Old-school Zach Randolph is rolling for the Grizzlies</TITLE> 
 </root>

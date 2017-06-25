@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">HTTP Error 400. The request URL is invalid.</content> 
-<sequenceId type="str">695202210888</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">HTTP Error 400. The request URL is invalid.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:15Z</estimatedPublishedDate> 
-<title type="str">US judge bars deportations under Trump\&apos;s travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695202210888</DOCID> 
+<DCT type="str">2017-01-29T08:12:15Z</DCT> 
+<TITLE type="str">US judge bars deportations under Trump\&apos;s travel ban</TITLE> 
 </root>

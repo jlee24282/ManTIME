@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CASA GRANDE — An open casting call has been announced for the upcoming Senior Follies talent show. 
+<TEXT type="str">CASA GRANDE — An open casting call has been announced for the upcoming Senior Follies talent show. 
  
 The show, which features the talents of senior citizens in the area, is produced each year by the Dorothy Powell Senior Adult Center. This is the seventh year of the show.  
  
@@ -12,14 +12,14 @@ The selected acts will go on to perform in front of a live audience on Wednesday
  
 Presale tickets for the performances are on sale and may be purchased for $7 each at the center. Tickets will be $10 at the door. 
  
-For more information call Raylene Johns at 421-8677, ext. 4523.</content> 
-<sequenceId type="str">695194367279</sequenceId> 
-<topics type="list"> 
+For more information call Raylene Johns at 421-8677, ext. 4523.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: seniors news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:45:00Z</estimatedPublishedDate> 
-<title type="str">Talented seniors needed for CG show</title> 
+</TOPICS> 
+<DOCID type="str">695194367279</DOCID> 
+<DCT type="str">2017-01-29T06:45:00Z</DCT> 
+<TITLE type="str">Talented seniors needed for CG show</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WARRENSBURG, Mo. — The Helias Crusaders finished in third place with 135 points and boasted a pair of individual champions Saturday at the Warrensburg Tournament. 
+<TEXT type="str">WARRENSBURG, Mo. — The Helias Crusaders finished in third place with 135 points and boasted a pair of individual champions Saturday at the Warrensburg Tournament. 
  
 Evan Winder (37-6) placed first at 106 pounds, winning all five of his matches by fall. Four of Winder&apos;s pins came in the first period. 
  
@@ -20,9 +20,8 @@ For the Helias JV team, Aleksey Salaz finished third at 106 with a 3-2 record. S
  
 Colden Imhoff (1-3) finished fourth at 160B. 
  
-Helias will compete in a tri-dual Tuesday at Waynesville with Springfield Central.</content> 
-<sequenceId type="str">695195902330</sequenceId> 
-<topics type="list"> 
+Helias will compete in a tri-dual Tuesday at Waynesville with Springfield Central.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -31,7 +30,8 @@ Helias will compete in a tri-dual Tuesday at Waynesville with Springfield Centra
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:41Z</estimatedPublishedDate> 
-<title type="str">Wrestling: Crusaders finish third</title> 
+</TOPICS> 
+<DOCID type="str">695195902330</DOCID> 
+<DCT type="str">2017-01-29T07:25:41Z</DCT> 
+<TITLE type="str">Wrestling: Crusaders finish third</TITLE> 
 </root>

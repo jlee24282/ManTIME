@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street. 
+<TEXT type="str">Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street. 
 
 The event — which stretched from Third Street down to Olympic Boulevard — included performances on 10 stages as well as a variety of attractions. 
 https://twitter.com/JoshuaBaum93/status/825569881797980160 
@@ -11,9 +11,8 @@ https://twitter.com/csaillant2/status/825525297588039682
 Most of the theater closed as demographic change swept downtown L.A. after World War II. But in recent years, Broadway has seen a revitalization that brought new restaurants and shops, notably the revival of Grand Central Market. 
 
 There are now plans to build a streetcar on Broadway. 
-https://twitter.com/NightOnBwayLA/status/825543062579339265 https://twitter.com/NightOnBwayLA/status/825574643327119360 https://twitter.com/NightOnBwayLA/status/825585991163326464 https://twitter.com/LAPDMarcReina/status/825572974442917888</content> 
-<sequenceId type="str">695197309257</sequenceId> 
-<topics type="list"> 
+https://twitter.com/NightOnBwayLA/status/825543062579339265 https://twitter.com/NightOnBwayLA/status/825574643327119360 https://twitter.com/NightOnBwayLA/status/825585991163326464 https://twitter.com/LAPDMarcReina/status/825572974442917888</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -22,7 +21,8 @@ https://twitter.com/NightOnBwayLA/status/825543062579339265 https://twitter.com/
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">The lights of Broadway shine bright, even in downtown L.A.</title> 
+</TOPICS> 
+<DOCID type="str">695197309257</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">The lights of Broadway shine bright, even in downtown L.A.</TITLE> 
 </root>

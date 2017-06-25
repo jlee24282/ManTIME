@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi [India], Jan 29 : Construction major Larsen and Toubro on Saturday announced its consolidated profit in Q3, which has increased 39 percent year-on-year to Rs. 
+<TEXT type="str">New Delhi [India], Jan 29 : Construction major Larsen and Toubro on Saturday announced its consolidated profit in Q3, which has increased 39 percent year-on-year to Rs. 
 972.4 crore. The company announced a slash in its full year revenue growth guidance to 10 percent from 12-15 percent earlier due to challenging business conditions. 
 
 It recorded consolidated revenue for the quarter at Rs. 26,286 crore, a growth of only 1.4 percent on yearly basis due to delay in execution of projects despite healthy order book. 
@@ -15,9 +15,8 @@ The engineering major garnered fresh orders worth Rs. 34,885 crore in the quarte
 
 Power business slipped 22.84 percent to Rs. 1,632.96 crore due to low order book, and its EBIT plunged sharply by 88.6 percent to Rs. 11.90 crore compared with year-ago period. Heavy engineering revenue declined 6.3 percent year-on-year to Rs. 870.33 crore but the segment turned profitable at EBIT level with income of Rs. 126.17 crore against loss of Rs. 11.82 crore in corresponding quarter of last fiscal. The hydrocarbon business during the quarter rose by 13.4 percent to Rs. 2,402.28 crore and its EBIT stood at Rs. 148.42 crore against loss of Rs. 4.55 crore in year-ago period. On standalone basis, profit jumped 24.2 percent year-on-year to Rs. 954.17 crore and operating profit grew by 52 percent to Rs. 1,351 crore with margin expansion of 280 basis points but revenue increased only 0.5 percent to Rs. 15,946.20 crore in the quarter gone by.. 
 
-Source</content> 
-<sequenceId type="str">695194086558</sequenceId> 
-<topics type="list"> 
+Source</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Stockwatch</name> 
@@ -30,7 +29,8 @@ Source</content>
 <group type="str">Finance</group> 
 <name type="str">Earnings news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:09:34Z</estimatedPublishedDate> 
-<title type="str">L (and) T Q3 profit up 39 pct, cuts FY17 revenue growth guidance to 10 pct</title> 
+</TOPICS> 
+<DOCID type="str">695194086558</DOCID> 
+<DCT type="str">2017-01-29T07:09:34Z</DCT> 
+<TITLE type="str">L (and) T Q3 profit up 39 pct, cuts FY17 revenue growth guidance to 10 pct</TITLE> 
 </root>

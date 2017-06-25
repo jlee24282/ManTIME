@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New year, new you. New job? New business? 
+<TEXT type="str">New year, new you. New job? New business? 
  
 While 2016 was the year of the unexpected superlatives with Leicester City, Brexit and Trump, 2017 will be a year for businesses in Cornwall to drive growth and put all their woes behind them. 
 
@@ -283,9 +283,8 @@ Seasalt has grown quickly, and is increasingly recognised as a sustainable fashi
  
 It supplies wholesale to about 350 stockists with exclusive collections at 28 John Lewis stores, at JohnLewis.com and at 10 Fenwick stores. It has a thriving online presence, increased by 27% this year and has an ever expanding range that now includes home and footwear. 
  
-More Cornish News</content> 
-<sequenceId type="str">695203209379</sequenceId> 
-<topics type="list"> 
+More Cornish News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Consumer durables news</name> 
@@ -302,7 +301,8 @@ More Cornish News</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Cornwall growth businesses: 17 of the fastest growing Cornish...</title> 
+</TOPICS> 
+<DOCID type="str">695203209379</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Cornwall growth businesses: 17 of the fastest growing Cornish...</TITLE> 
 </root>

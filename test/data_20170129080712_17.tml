@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">RILEY McGree scored a stunning goal to open his A-League account but then Tom Doyle stole his thunder with a screamer.</content> 
-<sequenceId type="str">695194983211</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">RILEY McGree scored a stunning goal to open his A-League account but then Tom Doyle stole his thunder with a screamer.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:52Z</estimatedPublishedDate> 
-<title type="str">Wow! Five Reds beaten before stunning equaliser</title> 
+</TOPICS> 
+<DOCID type="str">695194983211</DOCID> 
+<DCT type="str">2017-01-29T07:19:52Z</DCT> 
+<TITLE type="str">Wow! Five Reds beaten before stunning equaliser</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NSW students returning to school this week face extreme heat on Monday and Tuesday with temperatures reaching into the 40s for much of the state. 
+<TEXT type="str">NSW students returning to school this week face extreme heat on Monday and Tuesday with temperatures reaching into the 40s for much of the state. 
 
 School students across NSW will sweat through their first days back at school, with scorching temperatures tipped to reach 42 degrees in Penrith and Richmond on Monday.
 
@@ -36,9 +36,8 @@ Elsewhere in the state, Moree is in the middle of a remarkable hot streak, with 
 
 &quot;The forecast for the next seven days is pretty horrific,&quot; Mr Taggart said. &quot;That heat is completely unrelenting.&quot;
 
-&quot;The forecast seems bad for Richmond and Sydney, but it&apos;s nothing compared to Moree.&quot; The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695204378296</sequenceId> 
-<topics type="list"> 
+&quot;The forecast seems bad for Richmond and Sydney, but it&apos;s nothing compared to Moree.&quot; The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -59,7 +58,8 @@ Elsewhere in the state, Moree is in the middle of a remarkable hot streak, with 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:24Z</estimatedPublishedDate> 
-<title type="str">NSW weather: Heatwave, severe fire danger as students return to school</title> 
+</TOPICS> 
+<DOCID type="str">695204378296</DOCID> 
+<DCT type="str">2017-01-29T08:05:24Z</DCT> 
+<TITLE type="str">NSW weather: Heatwave, severe fire danger as students return to school</TITLE> 
 </root>

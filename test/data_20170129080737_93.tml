@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Home  German News Share the joy 
+<TEXT type="str">Home  German News Share the joy 
                                  
 France and Germany are “concerned” over a number of decisions by US President Donald Trump, particularly his move to restrict refugee arrivals, French Foreign Minister Jean-Marc Ayrault said on Saturday. 
 The Local 
-    Previous article    Next article</content> 
-<sequenceId type="str">695196174374</sequenceId> 
-<topics type="list"> 
+    Previous article    Next article</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -19,7 +18,8 @@ The Local
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:46Z</estimatedPublishedDate> 
-<title type="str">France and Germany ‘concerned’ at Trump refugee ban</title> 
+</TOPICS> 
+<DOCID type="str">695196174374</DOCID> 
+<DCT type="str">2017-01-29T07:24:46Z</DCT> 
+<TITLE type="str">France and Germany ‘concerned’ at Trump refugee ban</TITLE> 
 </root>

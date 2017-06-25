@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It’s like Christmas, but a month late. The Sundance Film Festival is everything film buffs want: 10 days of pure movie heaven, with American and international filmmakers, Q&amp;As and bragging rights that you saw the Oscar nominees, like, a whole year ago. 
+<TEXT type="str">It’s like Christmas, but a month late. The Sundance Film Festival is everything film buffs want: 10 days of pure movie heaven, with American and international filmmakers, Q&amp;As and bragging rights that you saw the Oscar nominees, like, a whole year ago. 
  
 Every year, press from New York and industry players from Los Angeles flock to Park City, Utah. Be careful what you say in public, because you just might be sitting next to the cinematographer whose movie you thought was out of focus. Bidding wars for the most coveted films get heated, with multimillion-dollar rights contracts as the result. And the price tags seem to keep going up — last year, Birth of a Nation broke records with a $17.5 million deal. This year, The Big Sick sold early, at $12.5 million. Not bad for a comedy. 
  
@@ -15,9 +15,8 @@ The biggest films premiere at Eccles Theatre, a venue that seats more than a tho
  
 The name “Eccles Theatre” may sound grandiose — perhaps even foreign, or plucked from history — but the theater itself is attached to a high school, so it’s basically an upscale auditorium. Similarly, the “MARC” in MARC Theatre stands for “Municipal Athletic &amp; Recreation Center.” Not very Hollywood. But really, what’d you expect? How many ski towns do you know of that can accommodate nearly 50,000 moviegoers (according to last year’s estimates) over the span of 10 days using only traditional movie theaters? The best part about the festival is its informality. There’s no stuckupitude whatsoever. 
  
-So if you do snag a ticket or credentials (green means press; purple means industry; red means you paid for total access, no ticket required, you moneybags, you), stay warm, and may the ticketing be ever in your favor.</content> 
-<sequenceId type="str">695199358641</sequenceId> 
-<topics type="list"> 
+So if you do snag a ticket or credentials (green means press; purple means industry; red means you paid for total access, no ticket required, you moneybags, you), stay warm, and may the ticketing be ever in your favor.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -26,7 +25,8 @@ So if you do snag a ticket or credentials (green means press; purple means indus
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:58Z</estimatedPublishedDate> 
-<title type="str">The Insider&apos;s Guide to Sundance</title> 
+</TOPICS> 
+<DOCID type="str">695199358641</DOCID> 
+<DCT type="str">2017-01-29T07:50:58Z</DCT> 
+<TITLE type="str">The Insider&apos;s Guide to Sundance</TITLE> 
 </root>

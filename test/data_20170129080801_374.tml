@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Israeli forces shot and killed a Palestinian during a clash on Sunday in the occupied West Bank, acc</content> 
-<sequenceId type="str">695197266309</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Israeli forces shot and killed a Palestinian during a clash on Sunday in the occupied West Bank, acc</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:56Z</estimatedPublishedDate> 
-<title type="str">Israeli troops kill Palestinian in West Bank clash - officials</title> 
+</TOPICS> 
+<DOCID type="str">695197266309</DOCID> 
+<DCT type="str">2017-01-29T07:35:56Z</DCT> 
+<TITLE type="str">Israeli troops kill Palestinian in West Bank clash - officials</TITLE> 
 </root>

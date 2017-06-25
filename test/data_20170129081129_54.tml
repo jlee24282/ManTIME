@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arsenal manager Arsene Wenger was delighted with his side&apos;s 5-0 thrashing of Southampton in the FA Cup 
+<TEXT type="str">Arsenal manager Arsene Wenger was delighted with his side&apos;s 5-0 thrashing of Southampton in the FA Cup 
 
 Arsene Wenger admitted he was pleasantly surprised with Danny Welbeck&apos;s powers of recovery after the striker netted a double in the 5-0 win at Southampton. 
 
@@ -46,9 +46,8 @@ February 4, 2017, 11:30am
 
 Live on 
 
-Get Sky Sports Get a Sky Sports pass</content> 
-<sequenceId type="str">695204651750</sequenceId> 
-<topics type="list"> 
+Get Sky Sports Get a Sky Sports pass</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -65,7 +64,8 @@ Get Sky Sports Get a Sky Sports pass</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:02Z</estimatedPublishedDate> 
-<title type="str">Wenger hails Welbeck recovery</title> 
+</TOPICS> 
+<DOCID type="str">695204651750</DOCID> 
+<DCT type="str">2017-01-29T08:31:02Z</DCT> 
+<TITLE type="str">Wenger hails Welbeck recovery</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Pitch Project and Brenner Brewing are pleased to present . Coinciding with the gallery’s current photographic exhibition, Mariela Sancari’s Moisés/Landscape, we are gathering local and regional artists, designers, and makers alike to showcase and celebrate all forms of book as object and art form. 
+<TEXT type="str">The Pitch Project and Brenner Brewing are pleased to present . Coinciding with the gallery’s current photographic exhibition, Mariela Sancari’s Moisés/Landscape, we are gathering local and regional artists, designers, and makers alike to showcase and celebrate all forms of book as object and art form. 
  
 Free and open to the public, The Pitch Project Art Book Fair is an incredible event for artist’s books, catalogs, monographs, periodicals, and zines presented by more than 25 independent presses, artists, collectives, and universities from 10 cities. 
  
@@ -34,9 +34,8 @@ Skylark Editions, Chicago, IL
 Spudnik Press, Chicago, IL 
 TBW books, Oakland, CA 
 The Pitch Project Gallery and Artist Studios 
-Yale MFA, New Haven, CT</content> 
-<sequenceId type="str">695196891935</sequenceId> 
-<topics type="list"> 
+Yale MFA, New Haven, CT</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -49,7 +48,8 @@ Yale MFA, New Haven, CT</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:05Z</estimatedPublishedDate> 
-<title type="str">The Pitch Project Artist Book Fair</title> 
+</TOPICS> 
+<DOCID type="str">695196891935</DOCID> 
+<DCT type="str">2017-01-29T07:33:05Z</DCT> 
+<TITLE type="str">The Pitch Project Artist Book Fair</TITLE> 
 </root>

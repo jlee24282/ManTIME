@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Geelong - Germany&apos;s Nikias Arndt won the Cadel Evans Great Ocean Road Race on Sunday after a tight sprint to the finish line that saw him narrowly beat Australians Simon Gerrans and Cameron Meyer.
+<TEXT type="str">Geelong - Germany&apos;s Nikias Arndt won the Cadel Evans Great Ocean Road Race on Sunday after a tight sprint to the finish line that saw him narrowly beat Australians Simon Gerrans and Cameron Meyer.
 
 Arndt (SUN) took the third edition of the 174-kilometre (108-mile) race in Geelong, Victoria, in four hours, 19 minutes and 15 seconds.
 
@@ -18,9 +18,8 @@ Meyer attacked with about 800 metres to go and Arndt said he was not sure if he 
 
 Three-time Tour de France champion Chris Froome finished 43 seconds behind Arndt.
 
-Dutch rider Annemiek van Vleuten (ORS) won the women&apos;s race on Saturday with a time of three hours, four minutes and 13 seconds.</content> 
-<sequenceId type="str">695204488907</sequenceId> 
-<topics type="list"> 
+Dutch rider Annemiek van Vleuten (ORS) won the women&apos;s race on Saturday with a time of three hours, four minutes and 13 seconds.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -37,7 +36,8 @@ Dutch rider Annemiek van Vleuten (ORS) won the women&apos;s race on Saturday wit
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:57Z</estimatedPublishedDate> 
-<title type="str">Germany&apos;s Arndt wins Australian road race</title> 
+</TOPICS> 
+<DOCID type="str">695204488907</DOCID> 
+<DCT type="str">2017-01-29T08:29:57Z</DCT> 
+<TITLE type="str">Germany&apos;s Arndt wins Australian road race</TITLE> 
 </root>

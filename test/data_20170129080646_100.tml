@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Carl Frampton (right) was making the first defence of the WBA world featherweight title 
+<TEXT type="str">Carl Frampton (right) was making the first defence of the WBA world featherweight title 
 Carl Frampton lost for the first time in his professional career as Leo Santa Cruz beat him on points in Las Vegas to regain the WBA featherweight title. 
 
 Mexico&apos;s Santa Cruz, 28, got a deserved verdict in an all-action contest, and afterwards promised to fight Northern Ireland&apos;s Frampton for a third time. 
@@ -60,9 +60,8 @@ The best man won but what a great fight it was.
 Radio 5 live boxing correspondent Mike Costello 
 
 It was desperately close once again but Santa Cruz has won it on two judges&apos; scorecards. He&apos;s come back and wrested his belt back. That&apos;s the measure of a great champion. Everything about this suggests a trilogy. 
-Reaction on social media</content> 
-<sequenceId type="str">695194319886</sequenceId> 
-<topics type="list"> 
+Reaction on social media</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -71,7 +70,8 @@ Reaction on social media</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:32Z</estimatedPublishedDate> 
-<title type="str">Frampton loses all-action rematch with Santa Cruz</title> 
+</TOPICS> 
+<DOCID type="str">695194319886</DOCID> 
+<DCT type="str">2017-01-29T07:14:32Z</DCT> 
+<TITLE type="str">Frampton loses all-action rematch with Santa Cruz</TITLE> 
 </root>

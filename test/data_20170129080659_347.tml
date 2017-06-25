@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695194850783</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Food industry news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: health news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:42Z</estimatedPublishedDate> 
-<title type="str">DuPont Nutrition &amp; Health expanding probiotics capacity</title> 
+</TOPICS> 
+<DOCID type="str">695194850783</DOCID> 
+<DCT type="str">2017-01-29T07:18:42Z</DCT> 
+<TITLE type="str">DuPont Nutrition &amp; Health expanding probiotics capacity</TITLE> 
 </root>

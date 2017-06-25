@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CONVERSE — Oak Hill’s wrestling team held on to its claim on sectional hardware Saturday, winning the Oak Hill Sectional by the slimmest margin since 2008. 
+<TEXT type="str">CONVERSE — Oak Hill’s wrestling team held on to its claim on sectional hardware Saturday, winning the Oak Hill Sectional by the slimmest margin since 2008. 
  
 The Golden Eagles won their fourth straight sectional title in a three-team race that came down to the final weights. Oak Hill finished with 231 points, followed by Western at 226.5 and Eastern at 212. Kokomo was fifth with 162.5 points and Taylor ninth with 16. 
  
@@ -38,9 +38,8 @@ Also advancing for Kokomo are Nigel Lenoir (third, 106), Seth Johnson (fourth, 1
  
 “We only had five guys seeded so those guys are expected to get out [to the regional],” Kokomo coach Ryan Wells said. “To get seven out — everybody wrestled at or above their seeds and that’s a great thing. For [Lopez and Johnson] that’s absolutely great for them. Their records aren’t as stellar as some of those other guys, to punch their ticket to the regional is pretty special for them. 
  
-“We had four guys in the final, we had three champs. Gavin being a 2 seed and winning, he avenged a loss to Fuller from Oak Hill, he wrestled real well. Jabin is just lights out right now, he’s up by 15 points and pins the kid. He’s just really, really looking good. Fox looked great in the finals, tech falls his kid, a tough kid from Eastbrook. DaShaun, he’s winning the entire [final] match, he won 5:45 of that match and gave up [points] at the end. He’s good enough to beat anybody in the state. We firmly believe that and next week he’ll get another shot at him.”</content> 
-<sequenceId type="str">695199153375</sequenceId> 
-<topics type="list"> 
+“We had four guys in the final, we had three champs. Gavin being a 2 seed and winning, he avenged a loss to Fuller from Oak Hill, he wrestled real well. Jabin is just lights out right now, he’s up by 15 points and pins the kid. He’s just really, really looking good. Fox looked great in the finals, tech falls his kid, a tough kid from Eastbrook. DaShaun, he’s winning the entire [final] match, he won 5:45 of that match and gave up [points] at the end. He’s good enough to beat anybody in the state. We firmly believe that and next week he’ll get another shot at him.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -49,7 +48,8 @@ Also advancing for Kokomo are Nigel Lenoir (third, 106), Seth Johnson (fourth, 1
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:45:00Z</estimatedPublishedDate> 
-<title type="str">WRESTLING: Oak Hill edges Western, Eastern in tense sectional</title> 
+</TOPICS> 
+<DOCID type="str">695199153375</DOCID> 
+<DCT type="str">2017-01-29T06:45:00Z</DCT> 
+<TITLE type="str">WRESTLING: Oak Hill edges Western, Eastern in tense sectional</TITLE> 
 </root>

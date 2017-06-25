@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">YAKIMA, Wash. -- The Yakima City Council is toying with the concept of creating a multicultural center that would highlight Latino influence on local culture and the economy. 
+<TEXT type="str">YAKIMA, Wash. -- The Yakima City Council is toying with the concept of creating a multicultural center that would highlight Latino influence on local culture and the economy. 
    
 Because the idea is in its conceptual stage, there’s no firm sense of cost, location or even exactly what might be featured at a center. 
    
@@ -20,9 +20,8 @@ City economic development director Sean Hawkins said the organizations involved 
    
 In talking with residents, Coffey said, she has seen a lot of community support for including the center in the city’s economic development plan. 
    
-The council is expected to vote on a city economic development plan, which includes the multicultural center concept, at their Feb. 7 meeting. Including the center in the plan would merely add it to a list of economic priority goals. It would not set aside funding nor designate a timeline for development.</content> 
-<sequenceId type="str">695198227737</sequenceId> 
-<topics type="list"> 
+The council is expected to vote on a city economic development plan, which includes the multicultural center concept, at their Feb. 7 meeting. Including the center in the plan would merely add it to a list of economic priority goals. It would not set aside funding nor designate a timeline for development.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Latino news</name> 
@@ -31,7 +30,8 @@ The council is expected to vote on a city economic development plan, which inclu
 <group type="str">Society</group> 
 <name type="str">Local government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:42:15Z</estimatedPublishedDate> 
-<title type="str">Yakima council considers creation of Latino-focused multicultural center</title> 
+</TOPICS> 
+<DOCID type="str">695198227737</DOCID> 
+<DCT type="str">2017-01-29T07:42:15Z</DCT> 
+<TITLE type="str">Yakima council considers creation of Latino-focused multicultural center</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Oscar-winning singer-songwriter John Legend implored Hollywood Saturday to stand against Donald Trump, telling the Producers Guild Awards the Republican president’s political outlook was anti-American.
+<TEXT type="str">Oscar-winning singer-songwriter John Legend implored Hollywood Saturday to stand against Donald Trump, telling the Producers Guild Awards the Republican president’s political outlook was anti-American.
 
 Legend, 38, was at the glitzy ceremony in Beverly Hills to represent the musical “La La Land,” in which he stars opposite Ryan Gosling and Emma Stone.
 
@@ -24,9 +24,8 @@ Instead, he said, he decided to make a donation to the American Civil Liberties 
 
 “Let’s all continue to stand up together for what is right.”
 
--AFP</content> 
-<sequenceId type="str">695196922537</sequenceId> 
-<topics type="list"> 
+-AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -35,7 +34,8 @@ Instead, he said, he decided to make a donation to the American Civil Liberties 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:46Z</estimatedPublishedDate> 
-<title type="str">John Legend: America has to be ‘better’ than Trump</title> 
+</TOPICS> 
+<DOCID type="str">695196922537</DOCID> 
+<DCT type="str">2017-01-29T07:30:46Z</DCT> 
+<TITLE type="str">John Legend: America has to be ‘better’ than Trump</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">&apos;What you have done is shameful. It&apos;s un-American&apos; 
+<TEXT type="str">&apos;What you have done is shameful. It&apos;s un-American&apos; 
 
 Updated: Jan 29, 2017 02:18 AM CST 
 
@@ -62,9 +62,8 @@ Lucia Martinez told KATU she used to be a &quot;hashtag activist&quot; but felt 
 
 A group of community activists, attorneys and others gathered at O&apos;Hare International Airport in Chicago. 
 
-Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey.</content> 
-<sequenceId type="str">695204281827</sequenceId> 
-<topics type="list"> 
+Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -93,7 +92,8 @@ Protests also took place at airports in Boston; San Francisco, Denver, Dallas an
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:58Z</estimatedPublishedDate> 
-<title type="str">Protests against Trump&apos;s &apos;Muslim ban&apos; continue</title> 
+</TOPICS> 
+<DOCID type="str">695204281827</DOCID> 
+<DCT type="str">2017-01-29T08:27:58Z</DCT> 
+<TITLE type="str">Protests against Trump&apos;s &apos;Muslim ban&apos; continue</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US Representative Sheila Jackson Lee speaks to protesters at George Bush Intercontinental Airport in Houston January 28, 2017. ― Reuters pic WASHINGTON, Jan 29 ― A group of state attorneys general are discussing whether to file their own court challenge against President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries entering the United States, officials in three states told Reuters. 
+<TEXT type="str">US Representative Sheila Jackson Lee speaks to protesters at George Bush Intercontinental Airport in Houston January 28, 2017. ― Reuters pic WASHINGTON, Jan 29 ― A group of state attorneys general are discussing whether to file their own court challenge against President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries entering the United States, officials in three states told Reuters. 
  
 Democrat attorneys general are expected to be a source of fierce resistance to Trump, much as Republican AGs opposed former President Barack Obama. A lawsuit brought by states would heighten the legal stakes surrounding the president&apos;s executive order, signed late on Friday, as courtroom challenges to the ban have so far mostly been filed by individuals. 
  
@@ -18,9 +18,8 @@ Trump, a businessman who successfully tapped into American fears about terror at
  
 However, his order hit a roadblock late yesterday when a federal judge in New York said stranded travelers could stay in the country. The American Civil Liberties Union, which sought the emergency court order, said it would help 100 to 200 people with valid visas or refugee status who found themselves detained in transit or at US airports after Trump signed the order. 
  
-The Department of Homeland Security said in a statement it would comply with judicial orders but that Trump&apos;s immigration restrictions remained in effect. ― Reuters</content> 
-<sequenceId type="str">695200664446</sequenceId> 
-<topics type="list"> 
+The Department of Homeland Security said in a statement it would comply with judicial orders but that Trump&apos;s immigration restrictions remained in effect. ― Reuters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ The Department of Homeland Security said in a statement it would comply with jud
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:00Z</estimatedPublishedDate> 
-<title type="str">US states discussing lawsuit over Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695200664446</DOCID> 
+<DCT type="str">2017-01-29T07:43:00Z</DCT> 
+<TITLE type="str">US states discussing lawsuit over Trump immigration order</TITLE> 
 </root>

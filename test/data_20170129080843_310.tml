@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- American Hockey League (AHL) - Iowa Wild News Release 
+<TEXT type="str">- American Hockey League (AHL) - Iowa Wild News Release 
  
 ROCKFORD, Ill, - The Iowa Wild (22-19-4-1, 49 points) defeated the Rockford IceHogs (14-23-5-3, 36 points) 5-1 in front of 5,944 fans on Saturday night at the BMO Harris Bank Center. Rookie Alex Tuch scored twice and goalie Alex Stalock made 34 saves as the Wild racked up its seventh straight road victory. Stalock improved to 13-10-4 and helped Wild move to 13-7-2-0 on the road this season. Forward Zack Mitchell also scored and added an assist in the victory. The Wild now have points in 10 of its last 11 games (8-1-2-0). Defenseman Maxime Fortunus and Teemu Pulkkinen also scored for Iowa. Hogs goalie Jeff Glass (2-4-1) stopped 24 of 29 shots in defeat. After the All-Star Break, Iowa plays in Cleveland on Friday at 6 PM CT. 
  
@@ -28,9 +28,8 @@ Fans may purchase single-game tickets multiple ways, either through the team&apo
 Tweet 
 
  
-The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</content> 
-<sequenceId type="str">695198815557</sequenceId> 
-<topics type="list"> 
+The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NHL - Minnesota Wild news</name> 
@@ -47,7 +46,8 @@ The opinions expressed in this release are those of the organization issuing it,
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:59:00Z</estimatedPublishedDate> 
-<title type="str">Wild Rolls into All-Star Break After Roasting the Hogs 5-1</title> 
+</TOPICS> 
+<DOCID type="str">695198815557</DOCID> 
+<DCT type="str">2017-01-29T02:59:00Z</DCT> 
+<TITLE type="str">Wild Rolls into All-Star Break After Roasting the Hogs 5-1</TITLE> 
 </root>

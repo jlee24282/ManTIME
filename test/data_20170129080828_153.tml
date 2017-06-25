@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:30am Roger Federer and Rafael Nadal will collide in a hugely anticipated Australian Open final on Sunday after both veterans beat the odds to open a new chapter in their thrilling Grand Slam rivalry. 
+<TEXT type="str">:30am Roger Federer and Rafael Nadal will collide in a hugely anticipated Australian Open final on Sunday after both veterans beat the odds to open a new chapter in their thrilling Grand Slam rivalry. 
  
 Federer, 35, will become the oldest Grand Slam finalist in 43 years, while Nadal, 30, has defied a series of injuries to reach his first major title match since he won the 2014 French Open. 
  
@@ -38,9 +38,8 @@ He has thrilled his many fans with his revival, having not figured in a Grand Sl
  
 Federer can become the first man to win five or more titles at three Grand Slam events, while Nadal stands to become the only man in the Open era to win all the majors at least twice. 
  
-AFP</content> 
-<sequenceId type="str">695197932718</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -49,7 +48,8 @@ AFP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:00Z</estimatedPublishedDate> 
-<title type="str">Federer, Nadal clash in blockbuster Aussie final</title> 
+</TOPICS> 
+<DOCID type="str">695197932718</DOCID> 
+<DCT type="str">2017-01-29T07:30:00Z</DCT> 
+<TITLE type="str">Federer, Nadal clash in blockbuster Aussie final</TITLE> 
 </root>

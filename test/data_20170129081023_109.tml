@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new series of medical profession courses has been launched by Bleu Medical, the learning facility. All courses are taught in accordance with the American Heart Association guidelines.
+<TEXT type="str">A new series of medical profession courses has been launched by Bleu Medical, the learning facility. All courses are taught in accordance with the American Heart Association guidelines.
 
 Los Angeles, United States – January 29, 2017 /PressCable/ 
 
@@ -36,14 +36,14 @@ For more information, please visit http://bleumedical.com/
 
 Source: PressCable
 
-Release ID: 165219</content> 
-<sequenceId type="str">695202554030</sequenceId> 
-<topics type="list"> 
+Release ID: 165219</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">South Pacific Islands news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:00Z</estimatedPublishedDate> 
-<title type="str">Medical Course AHA Guideline Pediatric Emergency Respirator Training Launched</title> 
+</TOPICS> 
+<DOCID type="str">695202554030</DOCID> 
+<DCT type="str">2017-01-29T08:06:00Z</DCT> 
+<TITLE type="str">Medical Course AHA Guideline Pediatric Emergency Respirator Training Launched</TITLE> 
 </root>

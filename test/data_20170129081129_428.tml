@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A recent study was undertaken to assist in regulating the islands national tourism strategy for 2017-2030 has revealed serious weaknesses in the ‘Cyprus brand’ as well as the recognition of Cyprus as a tourist destination. 
+<TEXT type="str">A recent study was undertaken to assist in regulating the islands national tourism strategy for 2017-2030 has revealed serious weaknesses in the ‘Cyprus brand’ as well as the recognition of Cyprus as a tourist destination. 
  
 The study undertaken by the Spanish THR-Innovative Advisors has recommended that the identity of a new ‘brand’ should be agreed on by all the parties involved – both state and private. They should then later work to build on the basic elements of the brand’s identity as outlined in the study. 
  
@@ -26,9 +26,8 @@ In light of this, the National Tourism Authority must be restructured to impleme
  
 The programme followed by the Authority will be decided by the four bodies, while a system must be devised to monitor developments in the sector. 
  
-Finally, the study calls for the creation of a Competitions Unit with the aim of improving productivity in the sector by promoting the use of new technology and innovations through specialised programmes.</content> 
-<sequenceId type="str">695205029580</sequenceId> 
-<topics type="list"> 
+Finally, the study calls for the creation of a Competitions Unit with the aim of improving productivity in the sector by promoting the use of new technology and innovations through specialised programmes.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Travel industry news</name> 
@@ -45,7 +44,8 @@ Finally, the study calls for the creation of a Competitions Unit with the aim of
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:48Z</estimatedPublishedDate> 
-<title type="str">Cyprus tourism sector needs to restructure for bigger gains</title> 
+</TOPICS> 
+<DOCID type="str">695205029580</DOCID> 
+<DCT type="str">2017-01-29T08:21:48Z</DCT> 
+<TITLE type="str">Cyprus tourism sector needs to restructure for bigger gains</TITLE> 
 </root>

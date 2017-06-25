@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Etna&apos;s Matti Hartman and Bow&apos;s Shelby Herrington each offered production for the Northeastern University women&apos;s hockey team in Saturday&apos;s 6-0 shutout of the UNH on Saturday at the Whittemore Center in Durham. 
+<TEXT type="str">Etna&apos;s Matti Hartman and Bow&apos;s Shelby Herrington each offered production for the Northeastern University women&apos;s hockey team in Saturday&apos;s 6-0 shutout of the UNH on Saturday at the Whittemore Center in Durham. 
 
 Hartman scored one of three third-period goals for the Huskies (16-9-3, 12-7-2 WHEA) while Herrington assisted on both of Kasidy Anderson&apos;s goals. Manchester&apos;s Paige Capistran was also in on the act for the Huskies, as the starting defenseman helped blank the Wildcats (11-14-1, 9-8-1 WHEA), who failed to convert despite getting off 29 shots. 
 
@@ -59,9 +59,8 @@ UMass Boston 3, Daniel Webster 0: In Nashua, Daniel Webster goalie Anthony D&apo
 Dartmouth 4, Cornell 2: At Ithaca, N.Y., Alex Jasiek scored two third-period power play goals 62 seconds apart to lead the Big Green. Troy Crema added an empty-netter, and Cam Roth scored for Dartmouth (8-11-3, 5-8-2 ECAC). 
 
 Matt Nuttle and Matt Buckles scored first-period goals for Cornell. 
-..</content> 
-<sequenceId type="str">695193865236</sequenceId> 
-<topics type="list"> 
+..</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -70,7 +69,8 @@ Matt Nuttle and Matt Buckles scored first-period goals for Cornell.
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:55:00Z</estimatedPublishedDate> 
-<title type="str">NH College Roundup NH trio leads Northeastern over Wildcats</title> 
+</TOPICS> 
+<DOCID type="str">695193865236</DOCID> 
+<DCT type="str">2017-01-29T05:55:00Z</DCT> 
+<TITLE type="str">NH College Roundup NH trio leads Northeastern over Wildcats</TITLE> 
 </root>

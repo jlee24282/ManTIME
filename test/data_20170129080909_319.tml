@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The free heart surgery for needy children, run by the University Medical Center Ho Chi Minh City and sponsored by different charity organizations and businesses since 2007, has saved more than 2,000 children in many provinces and cities across Vietnam. 
+<TEXT type="str">The free heart surgery for needy children, run by the University Medical Center Ho Chi Minh City and sponsored by different charity organizations and businesses since 2007, has saved more than 2,000 children in many provinces and cities across Vietnam. 
  
 Today, the University Medical Center Ho Chi Minh City is cooperating with the Dai Nam Corp. in providing free heart surgery and cardiac treatment for kids aged one to six; or those from seven to 16 years old living in poverty or suffering severe medical conditions. 
  
@@ -34,9 +34,8 @@ A nurse takes care of a kid patient.
  
 A kid patient after a surgery 
  
-Like us on</content> 
-<sequenceId type="str">695200010039</sequenceId> 
-<topics type="list"> 
+Like us on</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Vietnam news</name> 
@@ -45,7 +44,8 @@ Like us on</content>
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:10Z</estimatedPublishedDate> 
-<title type="str">A heart for you</title> 
+</TOPICS> 
+<DOCID type="str">695200010039</DOCID> 
+<DCT type="str">2017-01-29T07:56:10Z</DCT> 
+<TITLE type="str">A heart for you</TITLE> 
 </root>

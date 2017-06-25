@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CHICAGO – Shoppers in Chicago will soon have to pay a checkout tax of 7 cents per bag at all retailers in the city unless they bring their own bags to stores. 
+<TEXT type="str">CHICAGO – Shoppers in Chicago will soon have to pay a checkout tax of 7 cents per bag at all retailers in the city unless they bring their own bags to stores. 
    
 The tax, which starts Wednesday, is the city’s latest attempt to cut down on the use of disposable bags, which are usually given for free at checkout and often end up in landfills, the Chicago Tribune reported . 
  
@@ -19,9 +19,8 @@ On Saturday, Jewel-Osco will give out reusable bags to the first 100 shoppers at
 On Wednesday, Target will give out bags to the first 200 shoppers at each store, and Whole Foods will give bags to the first 1,000 customers at each store. 
  
 The tax doesn’t apply to bags used to carry items bought with federal food stamp benefits. 
-   Comments</content> 
-<sequenceId type="str">695195718480</sequenceId> 
-<topics type="list"> 
+   Comments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Retail industry news</name> 
@@ -38,7 +37,8 @@ The tax doesn’t apply to bags used to carry items bought with federal food sta
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:02:00Z</estimatedPublishedDate> 
-<title type="str">Chicago shoppers will soon pay tax for paper, plastic bags</title> 
+</TOPICS> 
+<DOCID type="str">695195718480</DOCID> 
+<DCT type="str">2017-01-29T05:02:00Z</DCT> 
+<TITLE type="str">Chicago shoppers will soon pay tax for paper, plastic bags</TITLE> 
 </root>

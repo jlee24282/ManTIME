@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TENNISNOW.COM 
+<TEXT type="str">TENNISNOW.COM 
 News 
 Blogs 
 Vlogs 
@@ -26,9 +26,8 @@ Tennis Lessons Online with Tom Avery
 Fuzzy Yellow Balls - Video Tennis Lessons 
 
 Tennis Gear 
-Tennis Express - Racquets, Shoes, and Apparel</content> 
-<sequenceId type="str">695203211462</sequenceId> 
-<topics type="list"> 
+Tennis Express - Racquets, Shoes, and Apparel</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -37,7 +36,8 @@ Tennis Express - Racquets, Shoes, and Apparel</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:40Z</estimatedPublishedDate> 
-<title type="str">Australian Open Men&apos;s Final Live Blog</title> 
+</TOPICS> 
+<DOCID type="str">695203211462</DOCID> 
+<DCT type="str">2017-01-29T08:19:40Z</DCT> 
+<TITLE type="str">Australian Open Men&apos;s Final Live Blog</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Monday has been declared a total fire ban day across the state, with emergency services expecting their worst conditions so far this season. Monday has been declared a total fire ban day across the state, with emergency services expecting their worst conditions so far this season. Temperatures are forecast to hit 42 degrees in parts of Victoria, prompting a health warning in some districts. 
+<TEXT type="str">Monday has been declared a total fire ban day across the state, with emergency services expecting their worst conditions so far this season. Monday has been declared a total fire ban day across the state, with emergency services expecting their worst conditions so far this season. Temperatures are forecast to hit 42 degrees in parts of Victoria, prompting a health warning in some districts. 
 
 First state-wide Total Fire Ban https://t.co/hAY8WKmY5F— CFA Updates (@CFA_Updates) January 29, 2017
 
@@ -50,9 +50,8 @@ A cool change in the evening will see the temperature drop to the mid-teens.
 
 For information on what is permitted on a total fire ban day, check the Can I and Can&apos;t I page on the CFA website.
 
-For bushfire and grass fire warning visit www.emergency.vic.gov.au. The story first appeared on The Age.</content> 
-<sequenceId type="str">695204053774</sequenceId> 
-<topics type="list"> 
+For bushfire and grass fire warning visit www.emergency.vic.gov.au. The story first appeared on The Age.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -61,7 +60,8 @@ For bushfire and grass fire warning visit www.emergency.vic.gov.au. The story fi
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:35Z</estimatedPublishedDate> 
-<title type="str">Melbourne weather: Total fire ban declared across the state</title> 
+</TOPICS> 
+<DOCID type="str">695204053774</DOCID> 
+<DCT type="str">2017-01-29T07:29:35Z</DCT> 
+<TITLE type="str">Melbourne weather: Total fire ban declared across the state</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A stamp duty jackpot for the state&apos;s coffers 
+<TEXT type="str">A stamp duty jackpot for the state&apos;s coffers 
 
 Sydney&apos;s booming spring property market has delivered the new Berejiklian government a budget windfall.
 
@@ -36,9 +36,8 @@ Residential stamp duty alone accounted for about 9 per cent of the state governm
 
 The half-yearly review of the NSW budget, released last month, lifted the forecast for the state&apos;s budget surplus for this financial year by about $300 million to $4 billion.
 
-The story Boom bolsters Berejiklian&apos;s bottom line first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695197274696</sequenceId> 
-<topics type="list"> 
+The story Boom bolsters Berejiklian&apos;s bottom line first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -47,7 +46,8 @@ The story Boom bolsters Berejiklian&apos;s bottom line first appeared on The Syd
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:37Z</estimatedPublishedDate> 
-<title type="str">Boom bolsters Berejiklian&apos;s bottom line</title> 
+</TOPICS> 
+<DOCID type="str">695197274696</DOCID> 
+<DCT type="str">2017-01-29T06:59:37Z</DCT> 
+<TITLE type="str">Boom bolsters Berejiklian&apos;s bottom line</TITLE> 
 </root>

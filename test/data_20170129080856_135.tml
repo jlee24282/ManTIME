@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">She says her street is particularly bad for dog muck with people leaving it as they walk their pets down the street towards the river.
+<TEXT type="str">She says her street is particularly bad for dog muck with people leaving it as they walk their pets down the street towards the river.
 
 It comes after another estate in Sleaford was plagued with huge amounts of excrement. READ MORE: Jude Dalkins, 52, who lives in New Street, Sleaford, said she regularly washes the front of her property and has even tried using pepper to deter the animals.
 
@@ -34,9 +34,8 @@ The 32-year-old said: &quot;You don&apos;t want it in your house. Luckily we hav
 
 This comes after residents complained of dog poo problems on an estate of Grantham Road.
 
-Faeces were being left on the pavement and some were put in a bag and hanged from a branch just metres from a bin.</content> 
-<sequenceId type="str">695199242861</sequenceId> 
-<topics type="list"> 
+Faeces were being left on the pavement and some were put in a bag and hanged from a branch just metres from a bin.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ Faeces were being left on the pavement and some were put in a bag and hanged fro
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">&apos;Absolutely disgusting&apos; - complaints at MORE dogdirt lying around</title> 
+</TOPICS> 
+<DOCID type="str">695199242861</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">&apos;Absolutely disgusting&apos; - complaints at MORE dogdirt lying around</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CRYSTAL BALL 
+<TEXT type="str">CRYSTAL BALL 
 
 Meeting between Channel Seven and Tennis Australia,
 
@@ -92,9 +92,8 @@ Tsonga muttered about Wawrinka giving him greasy looks.
 
 &quot;There&apos;s no worries,&quot; Tsonga said. But plainly there is.
 
-The pair both live in Switzerland and had been close but things went awry a few years ago after Stan&apos;s first slam when Tsonga was quoted in L&apos;Equipe saying &quot;If Stan can win a slam, then I deserve one too&quot;. And with that we bid adieu to Australian Open 2017. Welcome back next year when Pat Rafter and Pete Sampras are favourites to play in the final on a green court.</content> 
-<sequenceId type="str">695203533900</sequenceId> 
-<topics type="list"> 
+The pair both live in Switzerland and had been close but things went awry a few years ago after Stan&apos;s first slam when Tsonga was quoted in L&apos;Equipe saying &quot;If Stan can win a slam, then I deserve one too&quot;. And with that we bid adieu to Australian Open 2017. Welcome back next year when Pat Rafter and Pete Sampras are favourites to play in the final on a green court.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -103,7 +102,8 @@ The pair both live in Switzerland and had been close but things went awry a few 
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:18Z</estimatedPublishedDate> 
-<title type="str">The hits and misses of the tournament</title> 
+</TOPICS> 
+<DOCID type="str">695203533900</DOCID> 
+<DCT type="str">2017-01-29T08:22:18Z</DCT> 
+<TITLE type="str">The hits and misses of the tournament</TITLE> 
 </root>

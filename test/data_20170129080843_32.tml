@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan 29 (Reuters) - Eastern Co 
+<TEXT type="str">Jan 29 (Reuters) - Eastern Co 
     
 * H1 net profit EGP 890.4 million versus EGP 809.2 million
 year ago 
@@ -9,9 +9,8 @@ year ago
 ago
 
 Source: ( bit.ly/2jDS48x )
-Further company coverage:</content> 
-<sequenceId type="str">695198501542</sequenceId> 
-<topics type="list"> 
+Further company coverage:</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Stockwatch</name> 
@@ -36,7 +35,8 @@ Further company coverage:</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:20Z</estimatedPublishedDate> 
-<title type="str">BRIEF-Egypt&apos;s Eastern Co H1 profit rises</title> 
+</TOPICS> 
+<DOCID type="str">695198501542</DOCID> 
+<DCT type="str">2017-01-29T07:44:20Z</DCT> 
+<TITLE type="str">BRIEF-Egypt&apos;s Eastern Co H1 profit rises</TITLE> 
 </root>

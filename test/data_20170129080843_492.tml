@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Source: goaztecs.com 
+<TEXT type="str">Source: goaztecs.com 
  
 Photo courtesy goaztecs.com 
  
@@ -28,9 +28,8 @@ The Scarlet and Black will stay on the road, heading to Wyoming on Wednesday, Fe
  
 Play by play 
  
-Box</content> 
-<sequenceId type="str">695198997765</sequenceId> 
-<topics type="list"> 
+Box</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Diego news</name> 
@@ -39,7 +38,8 @@ Box</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:32Z</estimatedPublishedDate> 
-<title type="str">SDSU WOMEN&apos;S HOOPS STYMIED BY LEAGUE-LEADING COLORADO STATE</title> 
+</TOPICS> 
+<DOCID type="str">695198997765</DOCID> 
+<DCT type="str">2017-01-29T07:14:32Z</DCT> 
+<TITLE type="str">SDSU WOMEN&apos;S HOOPS STYMIED BY LEAGUE-LEADING COLORADO STATE</TITLE> 
 </root>

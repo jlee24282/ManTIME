@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This year’s Winterfest theme is hanging out with Harry Potter, and the plan is to turn Carson High School into Hogwarts with teachers creating a Hogwarts themed door followed by a door decorating contest. And who posited the Harry Potter Winterfest week? CHS’ own Anya Woodbury, a Leadership student who wants to make sure her senior year is unforgettable. 
+<TEXT type="str">This year’s Winterfest theme is hanging out with Harry Potter, and the plan is to turn Carson High School into Hogwarts with teachers creating a Hogwarts themed door followed by a door decorating contest. And who posited the Harry Potter Winterfest week? CHS’ own Anya Woodbury, a Leadership student who wants to make sure her senior year is unforgettable. 
  
 According to Woodbury, “I mean, I’ve always loved Harry Potter books, so I thought why not have Harry Potter as a theme? Many students have supported the idea, and now it already looks to be a success.” 
  
@@ -45,9 +45,8 @@ SENIOR SPOTLIGHT
  
 The featured student for this week’s Senior Spotlight is Christian Okamoto. Christian has taken a total of 15 AP and honors classes throughout his high school years, consistently challenging himself to work harder. Despite the rigor of his schedule he maintains a GPA of 4.7 and is currently working on his final course to complete the engineering pathway and earn his certificate. Through his involvement in engineering, he competed in the AASHTO Bridge Building Competition where, as part of a team, they designed and built a bridge, did a seven-minute presentation for the judges, and tested their final product. The team was awarded an honorable mention for their efforts. Christian has participated and taken leadership roles in many clubs and activities over the years. He is currently the events coordinator for National Honor Society, Public Relations Officer for Interact, and a Link Crew director. He has also participated in Key Club, SkillsUSA, and the golf team. He volunteers his time for various organizations including the Humane Society, the Greenhouse Project, the CHS craft fair, and the CHS blood drive. He has been a math tutor for Solutions and volunteers as a tutor at one of the CCSD elementary schools. In his free time, he plays guitar. Christian wants to attend university to study engineering. He has been accepted to Texas A&amp;M, Penn State, and University of Colorado-Boulder; he is still waiting to hear from two others. CHS is certain Christian will find success no matter where he ends up, is very proud of his accomplishments, and wishes him the best of luck in his future. 
  
-Phil Brady is an English teacher at CHS.</content> 
-<sequenceId type="str">695201310480</sequenceId> 
-<topics type="list"> 
+Phil Brady is an English teacher at CHS.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -64,7 +63,8 @@ Phil Brady is an English teacher at CHS.</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:00Z</estimatedPublishedDate> 
-<title type="str">Harry Potter coming to Carson High School for Winterfest | Senator Square</title> 
+</TOPICS> 
+<DOCID type="str">695201310480</DOCID> 
+<DCT type="str">2017-01-29T07:27:00Z</DCT> 
+<TITLE type="str">Harry Potter coming to Carson High School for Winterfest | Senator Square</TITLE> 
 </root>

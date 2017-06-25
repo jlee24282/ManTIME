@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was a tough week for the U.S. and Mexico.  It started with talk of President Peña-Nieto visiting the U.S., but it ended with a cancelation of the visit.    
+<TEXT type="str">It was a tough week for the U.S. and Mexico.  It started with talk of President Peña-Nieto visiting the U.S., but it ended with a cancelation of the visit.    
  
 To be honest, I think President Trump pushed President Peña-Nieto into a corner.  It was wrong, but both sides will get over it.  Mexico and the U.S. need each other a lot. 
   
@@ -66,9 +66,8 @@ Time will tell where this story goes.  We are entering into a new period of U.S
  
 It could be good or bad.  I guess it depends on Mr. Trump and how far he wants to fight with Mexico.  I hope Mr. Trump lowers the volume because we have much bigger problems in this world than Mexico. 
  
-P.S. You can listen to my show ( Canto Talk ) and follow me  on Twitter .</content> 
-<sequenceId type="str">695199270439</sequenceId> 
-<topics type="list"> 
+P.S. You can listen to my show ( Canto Talk ) and follow me  on Twitter .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Central America news</name> 
@@ -81,7 +80,8 @@ P.S. You can listen to my show ( Canto Talk ) and follow me  on Twitter .</cont
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:21Z</estimatedPublishedDate> 
-<title type="str">President Trump needs to lower the volume on Mexico</title> 
+</TOPICS> 
+<DOCID type="str">695199270439</DOCID> 
+<DCT type="str">2017-01-29T07:50:21Z</DCT> 
+<TITLE type="str">President Trump needs to lower the volume on Mexico</TITLE> 
 </root>

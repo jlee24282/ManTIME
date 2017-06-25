@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The White House provided a thin readout on the call, saying it was “a significant start to improving the relationship between the United States and Russia that is in need of repair.”
+<TEXT type="str">The White House provided a thin readout on the call, saying it was “a significant start to improving the relationship between the United States and Russia that is in need of repair.”
 
 The two leaders discussed “a range in topics from mutual cooperation in defeating ISIS to efforts in working together to achieve more peace throughout the world including Syria,” the White House statement said.
 
@@ -18,9 +18,8 @@ In 2014, Russia annexed Ukraine’s Crimea region and backed separatists fightin
 
 In response, sanctions were implemented against sectors of Russia’s economy, including financial services, energy, mining and defense. The Obama administration also sanctioned people in Putin’s inner circle.
 
-Shortly before leaving office, President Barack Obama also ordered sanctions on Russian spy agencies, closed two Russian compounds in the United States and expelled 35 diplomats that he said were really spies. These sanctions followed an assessment by U.S. intelligence that Moscow meddled in the 2016 election to help Trump become president.</content> 
-<sequenceId type="str">695202193692</sequenceId> 
-<topics type="list"> 
+Shortly before leaving office, President Barack Obama also ordered sanctions on Russian spy agencies, closed two Russian compounds in the United States and expelled 35 diplomats that he said were really spies. These sanctions followed an assessment by U.S. intelligence that Moscow meddled in the 2016 election to help Trump become president.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ Shortly before leaving office, President Barack Obama also ordered sanctions on 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:00:27Z</estimatedPublishedDate> 
-<title type="str">Trump, Putin talk peace, ISIS</title> 
+</TOPICS> 
+<DOCID type="str">695202193692</DOCID> 
+<DCT type="str">2017-01-28T22:00:27Z</DCT> 
+<TITLE type="str">Trump, Putin talk peace, ISIS</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan. 29, 9:41 am Agence France-Presse: Ruble’s revival gives Russia an unexpected headache  
+<TEXT type="str">Jan. 29, 9:41 am Agence France-Presse: Ruble’s revival gives Russia an unexpected headache  
   
 Jan. 29, 6:15 am New York Times: Trump and Putin connect, but avoid talk of lifting US sanctions  
   
@@ -14,9 +14,8 @@ Jan. 28, 11:37 am Voice of America: Trump sought, failed to secure lucrative Rus
   
 Jan. 28, 9:52 am The Hill: McCain warns Trump he’ll fight on lifting Russian sanctions  
   
-Jan. 28, 9:44 am New York Times: Russians charged with treason worked in office linked to …</content> 
-<sequenceId type="str">695201026786</sequenceId> 
-<topics type="list"> 
+Jan. 28, 9:44 am New York Times: Russians charged with treason worked in office linked to …</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -37,7 +36,8 @@ Jan. 28, 9:44 am New York Times: Russians charged with treason worked in office 
 <group type="str">Society</group> 
 <name type="str">International relations news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:49Z</estimatedPublishedDate> 
-<title type="str">Reuters: Trump, Merkel agree NATO members must pay fair share</title> 
+</TOPICS> 
+<DOCID type="str">695201026786</DOCID> 
+<DCT type="str">2017-01-29T07:53:49Z</DCT> 
+<TITLE type="str">Reuters: Trump, Merkel agree NATO members must pay fair share</TITLE> 
 </root>

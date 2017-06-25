@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SIOUX CITY (KTIV) - 
+<TEXT type="str">SIOUX CITY (KTIV) - 
 
 We started our Saturday with a little sunshine but gradually the clouds moved back in and we even got some light snow showers going by the afternoon hours.
 
@@ -8,14 +8,14 @@ We&apos;ll continue to see a few of these track through the area tonight.
 
 There will be little to no accumulation with these snow showers.
 
-They will end overnight with Sunday dry but cloudy with highs near average in the mid 3</content> 
-<sequenceId type="str">695198181101</sequenceId> 
-<topics type="list"> 
+They will end overnight with Sunday dry but cloudy with highs near average in the mid 3</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:21:00Z</estimatedPublishedDate> 
-<title type="str">Chance for light snow showers through the evening hours</title> 
+</TOPICS> 
+<DOCID type="str">695198181101</DOCID> 
+<DCT type="str">2017-01-29T00:21:00Z</DCT> 
+<TITLE type="str">Chance for light snow showers through the evening hours</TITLE> 
 </root>

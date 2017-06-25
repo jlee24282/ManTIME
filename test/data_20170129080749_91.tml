@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">I was going to write this letter regarding the cabinet nominations, then I was going to write about that farce of a press conference, but as the news has been so fast and fluid every day, I decided to go in a different direction. 
+<TEXT type="str">I was going to write this letter regarding the cabinet nominations, then I was going to write about that farce of a press conference, but as the news has been so fast and fluid every day, I decided to go in a different direction. 
  
 My name is Barbara Davis and I am a founding member of the Jefferson County Progressive Democratic Coalition. We started this organization after the election in November, as we felt the real and honest values of our party and of democracy were under attack. We are not only focused on local issues and candidates but also those on the national front. 
  
@@ -14,14 +14,14 @@ The road ahead may seem dark but we can be the light and hope for others to foll
  
 Barbara Davis 
  
-Wintersville</content> 
-<sequenceId type="str">695196561942</sequenceId> 
-<topics type="list"> 
+Wintersville</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:46Z</estimatedPublishedDate> 
-<title type="str">Coalition looks to make difference</title> 
+</TOPICS> 
+<DOCID type="str">695196561942</DOCID> 
+<DCT type="str">2017-01-29T07:30:46Z</DCT> 
+<TITLE type="str">Coalition looks to make difference</TITLE> 
 </root>

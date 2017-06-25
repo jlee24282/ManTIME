@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tennis – Australian Open   
+<TEXT type="str">Tennis – Australian Open   
 Rafael Nadal set up dream final with old foe Roger Federer at the Australian Open after beating Grigor Dimitrov in a five-set thriller. 
  
 A day after the 35-year-old Swiss legend continued to roll back the years in Melbourne by defeating Stan Wawrinka in a deciding set, Nadal followed suit with an equally epic victory over a player once nicknamed ‘Baby Fed’. 
@@ -41,9 +41,8 @@ There were two more break points apiece before finally Dimitrov submitted at 4-4
  
 Serving for the match, Nadal delivered an ace for match point, called out but shown to have nicked the line on review. Dimitrov saved one with an ice-cool smash and then another with a blistering forehand. 
  
-A third match point proved beyond him, however, as a weary backhand drifted past the baseline. Nadal fell to his knees in celebration after an enthralling four hours and 56 minutes.</content> 
-<sequenceId type="str">695200485382</sequenceId> 
-<topics type="list"> 
+A third match point proved beyond him, however, as a weary backhand drifted past the baseline. Nadal fell to his knees in celebration after an enthralling four hours and 56 minutes.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -52,7 +51,8 @@ A third match point proved beyond him, however, as a weary backhand drifted past
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:53:04Z</estimatedPublishedDate> 
-<title type="str">Nadal sets up Federer final</title> 
+</TOPICS> 
+<DOCID type="str">695200485382</DOCID> 
+<DCT type="str">2017-01-29T00:53:04Z</DCT> 
+<TITLE type="str">Nadal sets up Federer final</TITLE> 
 </root>

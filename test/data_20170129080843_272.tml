@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The demonstration mirrored others at airports nationwide, following Trump&apos;s executive action barring entry to the U.S. for immigrants from seven Muslim countries and all refugees.</content> 
-<sequenceId type="str">695198789493</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The demonstration mirrored others at airports nationwide, following Trump&apos;s executive action barring entry to the U.S. for immigrants from seven Muslim countries and all refugees.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:36Z</estimatedPublishedDate> 
-<title type="str">How the protest against Trump’s refugee ban unfolded at Sea-Tac</title> 
+</TOPICS> 
+<DOCID type="str">695198789493</DOCID> 
+<DCT type="str">2017-01-29T07:46:36Z</DCT> 
+<TITLE type="str">How the protest against Trump’s refugee ban unfolded at Sea-Tac</TITLE> 
 </root>

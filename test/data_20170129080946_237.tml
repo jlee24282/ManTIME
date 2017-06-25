@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The White House has described Donald Trump’s first conversation with Vladimir Putin since his inauguration as &quot;positive&quot;. 
+<TEXT type="str">The White House has described Donald Trump’s first conversation with Vladimir Putin since his inauguration as &quot;positive&quot;. 
  
 
  
@@ -32,14 +32,14 @@ French President Francois Hollande also had a telephone conversation with Mr Tru
  
 In an unstable and uncertain world, turning inward would be a dead end, Mr Hollande told Mr Trump in their first official telephone conversation, according to a statement from the French President’s office. 
  http://video.news.sky.com/video/h264/vod/700/2017/01/DIGIMilamOnTrumpSWeekPKG1485567700337700.mp4 
-(c) Sky News 2017: skynews</content> 
-<sequenceId type="str">695201350269</sequenceId> 
-<topics type="list"> 
+(c) Sky News 2017: skynews</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Donald Trump and Vladimir Putin want ‘real coordination’ against IS – Kremlin</title> 
+</TOPICS> 
+<DOCID type="str">695201350269</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Donald Trump and Vladimir Putin want ‘real coordination’ against IS – Kremlin</TITLE> 
 </root>

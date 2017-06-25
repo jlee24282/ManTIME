@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">“Here&apos;s to the crazy ones. The misfits. The rebels. The troublemakers. The ones who see things differently. They&apos;re not fond of rules.You can quote them, disagree with them, glorify or vilify them. About the only thing you can&apos;t do is ignore them. Because they change things. And while some may see them as the crazy ones, we see genius.” 
+<TEXT type="str">“Here&apos;s to the crazy ones. The misfits. The rebels. The troublemakers. The ones who see things differently. They&apos;re not fond of rules.You can quote them, disagree with them, glorify or vilify them. About the only thing you can&apos;t do is ignore them. Because they change things. And while some may see them as the crazy ones, we see genius.” 
  
   
  
@@ -20,9 +20,8 @@ And with that, let’s understand who gives a certain political group the right 
  
   
  
-Dear Goons, stop shoving your chauvinism to protect what’s not even yours to protect. As for Bhansali, 12 years ago he had made a play on Padmini which put her on the world map. Let’s not teach him how to do his job. Don’t try to curb his creative freedom or humiliate him for taking the modern Indian generation to a part of history they aren’t well acquainted with. The Government of India, which has bestowed him with National Awards four times over, surely believe the man is competent enough to do his job. Spare Bollywood for a change and find a worthwhile war to wage. In a developing nation like ours, the sidelined issues are aplenty.</content> 
-<sequenceId type="str">695201490388</sequenceId> 
-<topics type="list"> 
+Dear Goons, stop shoving your chauvinism to protect what’s not even yours to protect. As for Bhansali, 12 years ago he had made a play on Padmini which put her on the world map. Let’s not teach him how to do his job. Don’t try to curb his creative freedom or humiliate him for taking the modern Indian generation to a part of history they aren’t well acquainted with. The Government of India, which has bestowed him with National Awards four times over, surely believe the man is competent enough to do his job. Spare Bollywood for a change and find a worthwhile war to wage. In a developing nation like ours, the sidelined issues are aplenty.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -31,7 +30,8 @@ Dear Goons, stop shoving your chauvinism to protect what’s not even yours to p
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: Bollywood news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:35Z</estimatedPublishedDate> 
-<title type="str">#WeStandWithSLB Padmavati&apos;s set attack is a red flag that reflects how Bollywood’s creative freedom is drying up!</title> 
+</TOPICS> 
+<DOCID type="str">695201490388</DOCID> 
+<DCT type="str">2017-01-29T07:51:35Z</DCT> 
+<TITLE type="str">#WeStandWithSLB Padmavati&apos;s set attack is a red flag that reflects how Bollywood’s creative freedom is drying up!</TITLE> 
 </root>

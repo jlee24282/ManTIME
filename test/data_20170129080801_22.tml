@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">There have been jubilant and emotional scenes at airports in the US, as passengers emerged from detention to cheers from protesters. 
+<TEXT type="str">There have been jubilant and emotional scenes at airports in the US, as passengers emerged from detention to cheers from protesters. 
  
 A federal judge today blocked part of President Donald Trump&apos;s temporary immigration ban, ordering authorities to stop deporting refugees and other travelers stuck at US airports. 
  
@@ -83,9 +83,8 @@ With AFP.
 Email 
  contact@9news.com.au    
 Large files 
- 9news.wetransfer.com    You can remain anonymous. Click here for more information.  Property News:  Follow these tips to become a master negotiator - realestate.com.au  Property news:  How to set a realistic sale price for your home - realestate.com.au</content> 
-<sequenceId type="str">695196972054</sequenceId> 
-<topics type="list"> 
+ 9news.wetransfer.com    You can remain anonymous. Click here for more information.  Property News:  Follow these tips to become a master negotiator - realestate.com.au  Property news:  How to set a realistic sale price for your home - realestate.com.au</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -110,7 +109,8 @@ Large files
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:51Z</estimatedPublishedDate> 
-<title type="str">Emotional reception for detainees released from US airports in wake of Trump’s travel crackdown</title> 
+</TOPICS> 
+<DOCID type="str">695196972054</DOCID> 
+<DCT type="str">2017-01-29T07:33:51Z</DCT> 
+<TITLE type="str">Emotional reception for detainees released from US airports in wake of Trump’s travel crackdown</TITLE> 
 </root>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Author: Mamoru-3 
+<TEXT type="str">Author: Mamoru-3 
 Tags: 170128  tofu  pro  wrestling  #02  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695200103293</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -13,7 +12,8 @@ Posted: 29 January 2</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:15Z</estimatedPublishedDate> 
-<title type="str">170128 Tofu Pro Wrestling #02</title> 
+</TOPICS> 
+<DOCID type="str">695200103293</DOCID> 
+<DCT type="str">2017-01-29T07:33:15Z</DCT> 
+<TITLE type="str">170128 Tofu Pro Wrestling #02</TITLE> 
 </root>

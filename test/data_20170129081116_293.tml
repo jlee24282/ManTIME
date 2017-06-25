@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Saw: Legacy, the eight installment in Lionsgate&apos;s horror franchise, will star Laura Vandervoort and Hannah Anderson. 
+<TEXT type="str">Saw: Legacy, the eight installment in Lionsgate&apos;s horror franchise, will star Laura Vandervoort and Hannah Anderson. 
  
 As reported by Variety , Vandervoort and Anderson are the first two cast members to have been announced for the upcoming film. Saw: Legacy was filmed this past November and is currently in post-production. 
  
@@ -12,9 +12,8 @@ Peter and Michael Spierig (the brothers who helmed Daybreakers and Predestinatio
  
 Saw: Legacy opens in U.S. theaters on October 27, 2017. An international release is planned for sometime in early 2018. 
  
-Alex Osborn is a freelance writer for IGN. You can follow him on Twitter and subscribe to his YouTube channel.</content> 
-<sequenceId type="str">695204421874</sequenceId> 
-<topics type="list"> 
+Alex Osborn is a freelance writer for IGN. You can follow him on Twitter and subscribe to his YouTube channel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -27,7 +26,8 @@ Alex Osborn is a freelance writer for IGN. You can follow him on Twitter and sub
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:03Z</estimatedPublishedDate> 
-<title type="str">Saw: Legacy to Star Laura Vandervoort</title> 
+</TOPICS> 
+<DOCID type="str">695204421874</DOCID> 
+<DCT type="str">2017-01-29T07:18:03Z</DCT> 
+<TITLE type="str">Saw: Legacy to Star Laura Vandervoort</TITLE> 
 </root>

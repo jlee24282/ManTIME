@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">[embedded content] 
+<TEXT type="str">[embedded content] 
  
 Download Slide Deck: ▸ Here 
  
@@ -128,9 +128,8 @@ Our Top 100 Sponsors and the Leading &quot;Digital Transformation&quot; Companie
 About SYS-CON Media &amp; Events 
 SYS-CON Media ( www.sys-con.com ) has since 1994 been connecting technology companies and customers through a comprehensive content stream - featuring over forty focused subject areas, from Cloud Computing to Web Security - interwoven with market-leading full-scale conferences produced by SYS-CON Events. The company&apos;s internationally recognized brands include among others  Cloud Expo ® ( @CloudExpo ),  Big Data Expo ® ( @BigDataExpo ),  DevOps Summit ( @DevOpsSummit ),  @ThingsExpo ® ( @ThingsExpo ),  Containers Expo ( @ContainersExpo ) and  Microservices Expo ( @MicroservicesE ). 
  
-Cloud Expo ® ,  Big Data Expo ® and @ThingsExpo ® are registered trademarks of Cloud Expo, Inc., a SYS-CON Events company.</content> 
-<sequenceId type="str">695204060425</sequenceId> 
-<topics type="list"> 
+Cloud Expo ® ,  Big Data Expo ® and @ThingsExpo ® are registered trademarks of Cloud Expo, Inc., a SYS-CON Events company.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Telecom news</name> 
@@ -147,7 +146,8 @@ Cloud Expo ® ,  Big Data Expo ® and @ThingsExpo ® are registered trademarks o
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:11Z</estimatedPublishedDate> 
-<title type="str">[slides] #WebRTC for the #IoT | @CloudExpo @MontesLu #M2M #AI #Telecom</title> 
+</TOPICS> 
+<DOCID type="str">695204060425</DOCID> 
+<DCT type="str">2017-01-29T08:26:11Z</DCT> 
+<TITLE type="str">[slides] #WebRTC for the #IoT | @CloudExpo @MontesLu #M2M #AI #Telecom</TITLE> 
 </root>

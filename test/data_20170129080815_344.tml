@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Warriors 123, Vipers 115 
+<TEXT type="str">Warriors 123, Vipers 115 
  
 Up Next: Iowa at Warriors 
  
@@ -53,9 +53,8 @@ The Vipers, who are in third place in the Southwest Division, fall to 17-13.
  
 Warriors guard Phil Pressey on the other hand recorded a triple-double as he finished with 15 points, 13 assists and 14 rebounds. A total of six different players finished with double-digits stats in points: Hamilton (20), Dennis Clifford (18), James Southerland (11) and LaDontae Henton (10). 
  
-“It was a typical RGV game,” Hill said. “Just trying to make sure that these guys (Warriors) stayed focused on the right things. ... It was stressful but I love coaching those types of games, I love them.”</content> 
-<sequenceId type="str">695197603457</sequenceId> 
-<topics type="list"> 
+“It was a typical RGV game,” Hill said. “Just trying to make sure that these guys (Warriors) stayed focused on the right things. ... It was stressful but I love coaching those types of games, I love them.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -64,7 +63,8 @@ Warriors guard Phil Pressey on the other hand recorded a triple-double as he fin
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T08:01:00Z</estimatedPublishedDate> 
-<title type="str">D-League Basketball: Warriors hold off Vipers</title> 
+</TOPICS> 
+<DOCID type="str">695197603457</DOCID> 
+<DCT type="str">2017-01-28T08:01:00Z</DCT> 
+<TITLE type="str">D-League Basketball: Warriors hold off Vipers</TITLE> 
 </root>

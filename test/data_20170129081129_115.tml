@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">San Francisco: The US technology industry, a major employer of foreign workers, hit back at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American. 
+<TEXT type="str">San Francisco: The US technology industry, a major employer of foreign workers, hit back at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American. 
  
 Trump&apos;s order temporarily bars citizens of seven majority-Muslim countries from entering the United States even if they hold valid visas or permanent residence permits, a move that caught many companies off-guard. 
  
@@ -40,9 +40,8 @@ Uber Technologies Inc CEO Travis Kalanick, who has faced criticism from some emp
  
 &quot;This ban will impact many innocent people - an issue that I will raise this coming Friday when I go to Washington for President Trump’s first business advisory group meeting,&quot; Kalanick said. 
  
-Facebook Inc CEO Mark Zuckerberg said in a post on Friday that was &quot;concerned&quot; about the order and voiced support for immigrants.</content> 
-<sequenceId type="str">695204721813</sequenceId> 
-<topics type="list"> 
+Facebook Inc CEO Mark Zuckerberg said in a post on Friday that was &quot;concerned&quot; about the order and voiced support for immigrants.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
@@ -55,7 +54,8 @@ Facebook Inc CEO Mark Zuckerberg said in a post on Friday that was &quot;concern
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:28Z</estimatedPublishedDate> 
-<title type="str">Tim Cook, Elon Musk Sound Alarm Over Trump Immigration Order</title> 
+</TOPICS> 
+<DOCID type="str">695204721813</DOCID> 
+<DCT type="str">2017-01-29T08:31:28Z</DCT> 
+<TITLE type="str">Tim Cook, Elon Musk Sound Alarm Over Trump Immigration Order</TITLE> 
 </root>

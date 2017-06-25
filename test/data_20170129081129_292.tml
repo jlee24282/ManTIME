@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tottenham Hotspur are reportedly hoping to sign Crystal Palace wide man Wilfried Zaha . 
+<TEXT type="str">Tottenham Hotspur are reportedly hoping to sign Crystal Palace wide man Wilfried Zaha . 
  
 [embedded content] 
  
@@ -34,9 +34,8 @@ With 80 successful dribbles, he has more than double Son&apos;s record in this c
  
 Zaha is still improving his end product, but the stats suggest that he&apos;s the natural winger that Tottenham have been lacking at times, and whether it&apos;s this month or in the summer, he should be a player kept firmly on Pochettino&apos;s wish list. 
  
-Would you like to see Spurs sign Zaha?</content> 
-<sequenceId type="str">695204931925</sequenceId> 
-<topics type="list"> 
+Would you like to see Spurs sign Zaha?</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Crystal Palace news</name> 
@@ -49,7 +48,8 @@ Would you like to see Spurs sign Zaha?</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:00Z</estimatedPublishedDate> 
-<title type="str">Report: Spurs plotting new £25m bid for Premier League winger; better than Sissoko and Son?</title> 
+</TOPICS> 
+<DOCID type="str">695204931925</DOCID> 
+<DCT type="str">2017-01-29T08:30:00Z</DCT> 
+<TITLE type="str">Report: Spurs plotting new £25m bid for Premier League winger; better than Sissoko and Son?</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Thousands have said they plan to support Muslim Americans and demonstrate in Copley Square Sunday afternoon in opposition to Presdent Trump’s immigration order. 
+<TEXT type="str">Thousands have said they plan to support Muslim Americans and demonstrate in Copley Square Sunday afternoon in opposition to Presdent Trump’s immigration order. 
 
 The Massachusetts chapter of the Council on American Islamic Relations (CAIR), a Muslim civil rights organization, will host a rally at 1 p.m., according to a statement on the group’s website. , more than 12,000 people were planning to attend as of Saturday night, with another 23,000 people expressing interest in going. 
 
@@ -17,9 +17,8 @@ Earlier on Saturday, hundreds rallied in Chinatown and marched toward the State 
 
 The rally will also include a Muslim prayer at 2:30 p.m., and CAIR says all are encouraged to attend. 
 
-CAIR’s stated mission is “to enhance the understanding of Islam, encourage dialogue, protect civil liberties, empower American Muslims, and build coalitions that promote social justice and mutual understanding.”</content> 
-<sequenceId type="str">695203024441</sequenceId> 
-<topics type="list"> 
+CAIR’s stated mission is “to enhance the understanding of Islam, encourage dialogue, protect civil liberties, empower American Muslims, and build coalitions that promote social justice and mutual understanding.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -40,7 +39,8 @@ CAIR’s stated mission is “to enhance the understanding of Islam, encourage d
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:29Z</estimatedPublishedDate> 
-<title type="str">Rally for Muslims could draw thousands to Copley Square on Sunday</title> 
+</TOPICS> 
+<DOCID type="str">695203024441</DOCID> 
+<DCT type="str">2017-01-29T08:18:29Z</DCT> 
+<TITLE type="str">Rally for Muslims could draw thousands to Copley Square on Sunday</TITLE> 
 </root>

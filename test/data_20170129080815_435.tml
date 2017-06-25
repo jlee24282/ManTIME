@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LOS ANGELES - Frans Nielsen might not be as well-known as Pittsburgh Penguins star Sidney Crosby but he&apos;s got skills. 
+<TEXT type="str">LOS ANGELES - Frans Nielsen might not be as well-known as Pittsburgh Penguins star Sidney Crosby but he&apos;s got skills. 
  
 Nielsen took part in his first skills competition at the Staples Center Saturday afternoon, helping the Atlantic Division to the victory over the Metropolitan, Central and Pacific divisions. 
   
@@ -52,9 +52,8 @@ That meant the Atlantic Division won, earning the right to decide which team the
  
 It was certainly a win for Nielsen in the first day of his first All-Star experience. 
  
-&quot;I don&apos;t know if there&apos;s one specific thing, for sure the thing I was a part of out there,&quot; Nielsen said. &quot;But just the whole experience, everything. It was awesome. It was just great, all these great players. It was just a blast out here.&quot;</content> 
-<sequenceId type="str">695197771526</sequenceId> 
-<topics type="list"> 
+&quot;I don&apos;t know if there&apos;s one specific thing, for sure the thing I was a part of out there,&quot; Nielsen said. &quot;But just the whole experience, everything. It was awesome. It was just great, all these great players. It was just a blast out here.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
@@ -67,7 +66,8 @@ It was certainly a win for Nielsen in the first day of his first All-Star experi
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:24Z</estimatedPublishedDate> 
-<title type="str">Nielsen shows passing ability in skills competition</title> 
+</TOPICS> 
+<DOCID type="str">695197771526</DOCID> 
+<DCT type="str">2017-01-29T07:39:24Z</DCT> 
+<TITLE type="str">Nielsen shows passing ability in skills competition</TITLE> 
 </root>

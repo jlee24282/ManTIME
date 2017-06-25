@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">RUGBY SEVENS: Kenya has managed to end its 15-match drought against Australia. 
+<TEXT type="str">RUGBY SEVENS: Kenya has managed to end its 15-match drought against Australia. 
  
 And time could almost be up too for the World Sevens being hosted by Wellington. 
  
@@ -24,9 +24,8 @@ Less than 10,000 fans showed up over both Saturday and yesterday, leaving Westpa
  
 South Africa and Fiji clashed in last night&apos;s final. 
  
-The World Sevens heads to Sydney next weekend.</content> 
-<sequenceId type="str">695197762087</sequenceId> 
-<topics type="list"> 
+The World Sevens heads to Sydney next weekend.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -43,7 +42,8 @@ The World Sevens heads to Sydney next weekend.</content>
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Kenyans secure rare sevens victory over Australia</title> 
+</TOPICS> 
+<DOCID type="str">695197762087</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Kenyans secure rare sevens victory over Australia</TITLE> 
 </root>

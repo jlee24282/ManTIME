@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">by Rob Lever 
+<TEXT type="str">by Rob Lever 
 Washington (AFP) | 29 January 2017 6:13 
  
 The six-wheeled, knee-high robots from startup Starship Technologies are part of a new wave of automated systems taking aim at the “last mile” delivery of goods to consumers. 
@@ -55,9 +55,8 @@ Harris-Burland said the company’s tests so far in Europe have shown the system
  
 The lids of the devices are locked until the customer opens it with a smartphone. If anyone tries to steal it, an alarm will sound, and if it is hijacked the company can track it “to the nearest inch,” he said. 
  
-© 2017 AFP</content> 
-<sequenceId type="str">695199991706</sequenceId> 
-<topics type="list"> 
+© 2017 AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Robotics news</name> 
@@ -66,7 +65,8 @@ The lids of the devices are locked until the customer opens it with a smartphone
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:57Z</estimatedPublishedDate> 
-<title type="str">New wave of robots set to deliver the goods</title> 
+</TOPICS> 
+<DOCID type="str">695199991706</DOCID> 
+<DCT type="str">2017-01-29T07:55:57Z</DCT> 
+<TITLE type="str">New wave of robots set to deliver the goods</TITLE> 
 </root>

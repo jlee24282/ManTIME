@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A demonstrator holds a sign reading &quot;#NoBanNoWall&quot; during a rally in Harvard Square Friday night opposing recent immigration policy changes.   UPDATED: January 28, 2017 at 9:56 p.m. Hours after President Donald Trump closed off America’s borders to Syrian refugees and suspended immigration from several predominantly Muslim countries, over 150 Harvard affiliates assembled in the Square Friday evening in an “emergency protest” of Trump’s policies. 
+<TEXT type="str">A demonstrator holds a sign reading &quot;#NoBanNoWall&quot; during a rally in Harvard Square Friday night opposing recent immigration policy changes.   UPDATED: January 28, 2017 at 9:56 p.m. Hours after President Donald Trump closed off America’s borders to Syrian refugees and suspended immigration from several predominantly Muslim countries, over 150 Harvard affiliates assembled in the Square Friday evening in an “emergency protest” of Trump’s policies. 
 Gathered at the corner of JFK St. and Massachusetts Ave., students and faculty brandished homemade posters and chanted slogans in protest of an executive order Trump signed Friday halting the entry of all refugees into the United States for 120 days. The order suspends immigration from seven Middle Eastern countries for 90 days, and bars Syrians—including refugees—from entering the United States indefinitely. 
  
 The protest also came two days after Trump ordered a wall be built on the border between the United States and Mexico. 
@@ -53,9 +53,8 @@ Harvard Affiliates, Boston Residents to Protest Bannon&apos;s Visit
  
 Harvard affiliates and residents from across the Boston area are organizing efforts to protest top Donald Trump adviser Stephen K. Bannon’s visit to the Institute of Politics this week. 
    
-After Inauguration, Activists Present Demands to Faust</content> 
-<sequenceId type="str">695196492208</sequenceId> 
-<topics type="list"> 
+After Inauguration, Activists Present Demands to Faust</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -72,7 +71,8 @@ After Inauguration, Activists Present Demands to Faust</content>
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:07Z</estimatedPublishedDate> 
-<title type="str">Over 150 Join &apos;Emergency Protest&apos; of Immigration Order</title> 
+</TOPICS> 
+<DOCID type="str">695196492208</DOCID> 
+<DCT type="str">2017-01-29T07:30:07Z</DCT> 
+<TITLE type="str">Over 150 Join &apos;Emergency Protest&apos; of Immigration Order</TITLE> 
 </root>

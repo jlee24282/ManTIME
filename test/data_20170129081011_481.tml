@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PNN/ Jenin/ 
+<TEXT type="str">PNN/ Jenin/ 
  
 A Palestinian teenager was killed and five others were injured in clashes that broke out after Israeli Occupation Forces (IOF) stormed Jenin refugee camp, Sunday morning. 
  
@@ -12,9 +12,8 @@ They also said that some soldiers were injured during armed clashes with resista
  
 A few days ago, an Israeli military force stormed the house of Abu Khalifa in the camp and kidnapped his uncles Mohamed and Ahmed Abu Khalifa. 
  
-They also ransacked other homes and brutalized local residents during that campaign.</content> 
-<sequenceId type="str">695202468883</sequenceId> 
-<topics type="list"> 
+They also ransacked other homes and brutalized local residents during that campaign.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -27,7 +26,8 @@ They also ransacked other homes and brutalized local residents during that campa
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:14Z</estimatedPublishedDate> 
-<title type="str">Palestinian teen killed, five injured during Israeli raid on Jenin camp</title> 
+</TOPICS> 
+<DOCID type="str">695202468883</DOCID> 
+<DCT type="str">2017-01-29T07:49:14Z</DCT> 
+<TITLE type="str">Palestinian teen killed, five injured during Israeli raid on Jenin camp</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695197279010</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:15:15Z</estimatedPublishedDate> 
-<title type="str">Martial aims for FA Cup boost with United</title> 
+</TOPICS> 
+<DOCID type="str">695197279010</DOCID> 
+<DCT type="str">2017-01-29T00:15:15Z</DCT> 
+<TITLE type="str">Martial aims for FA Cup boost with United</TITLE> 
 </root>

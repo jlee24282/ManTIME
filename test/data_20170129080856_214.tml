@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dick Richard Jeffery, 45, of Fort Smith died Jan. 25, 2017. He was born March 31, 1971, in Paducah, Ky. 
+<TEXT type="str">Dick Richard Jeffery, 45, of Fort Smith died Jan. 25, 2017. He was born March 31, 1971, in Paducah, Ky. 
  
 Graveside service will be 1 p.m. Monday at Forrest Park Cemetery in Fort Smith under direction of Lewis-Roberts Funeral Chapel in Fort Smith. 
  
 He is survived by a sister, Molly Stainfield of Temple, Ga.; and a brother, Walter Jeffrey of Fort Smith. 
  
-Viewing will be 11a.m.-12:30 p.m. Monday at the funeral home.</content> 
-<sequenceId type="str">695199298753</sequenceId> 
-<topics type="list"> 
+Viewing will be 11a.m.-12:30 p.m. Monday at the funeral home.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -17,7 +16,8 @@ Viewing will be 11a.m.-12:30 p.m. Monday at the funeral home.</content>
 <group type="str">Society</group> 
 <name type="str">Obituaries</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:01:00Z</estimatedPublishedDate> 
-<title type="str">Dick Jeffery</title> 
+</TOPICS> 
+<DOCID type="str">695199298753</DOCID> 
+<DCT type="str">2017-01-29T05:01:00Z</DCT> 
+<TITLE type="str">Dick Jeffery</TITLE> 
 </root>

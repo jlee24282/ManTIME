@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Almost all of Kim Kardashian Wests stolen jewels have been melted down. 
+<TEXT type="str">Almost all of Kim Kardashian Wests stolen jewels have been melted down. 
 
 The reality TV star was robbed at gunpoint in her Paris hotel by a gang last year and after they made off with millions worth of jewels, the gang decided to get them melted down so that they could not be traced, with only Kim&apos;s diamond engagement ring still intact. 
 
@@ -16,9 +16,8 @@ And Khedache admitted planning the robbery was easy, because Kim was so open abo
 
 He said: &quot;The jewels were shown on the internet, and (she said) that she didn&apos;t wear fakes... the time she would arrive in France, you just had to look at the internet and you knew everything, absolutely everything. 
 
-&quot;We had very precise information about her movements that we got from someone who was very close to her.&quot;</content> 
-<sequenceId type="str">695197092231</sequenceId> 
-<topics type="list"> 
+&quot;We had very precise information about her movements that we got from someone who was very close to her.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -27,7 +26,8 @@ He said: &quot;The jewels were shown on the internet, and (she said) that she di
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: fashion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Kim Kardashian West&apos;s stolen jewels melted and sold</title> 
+</TOPICS> 
+<DOCID type="str">695197092231</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Kim Kardashian West&apos;s stolen jewels melted and sold</TITLE> 
 </root>

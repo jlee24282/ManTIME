@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TOKYO (Kyodo) -- Nineteen-year-old Ippei Watanabe broke the world record in the men&apos;s 200-meter breaststroke, swimming the distance in 2 minute, 6.67 seconds at the Kosuke Kitajima Cup on Sunday. 
+<TEXT type="str">TOKYO (Kyodo) -- Nineteen-year-old Ippei Watanabe broke the world record in the men&apos;s 200-meter breaststroke, swimming the distance in 2 minute, 6.67 seconds at the Kosuke Kitajima Cup on Sunday. 
  
 Swimming at at Tatsumi International Swimming Center, Watanabe, who swam for Japan at the Rio Olympics last summer, took 0.34 seconds off the previous mark, held for four years by compatriot Akihiro Yamaguchi. 
  
-Watanabe set an Olympic record of 2:07.22 in the Rio semifinals, but the Waseda University student finished sixth in the final.</content> 
-<sequenceId type="str">695202962355</sequenceId> 
-<topics type="list"> 
+Watanabe set an Olympic record of 2:07.22 in the Rio semifinals, but the Waseda University student finished sixth in the final.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -15,7 +14,8 @@ Watanabe set an Olympic record of 2:07.22 in the Rio semifinals, but the Waseda 
 <group type="str">Sports</group> 
 <name type="str">Sports: swimming news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:02Z</estimatedPublishedDate> 
-<title type="str">Swimming: Watanabe, 19, sets world record in men&apos;s 200 breaststroke (2017/1/29)</title> 
+</TOPICS> 
+<DOCID type="str">695202962355</DOCID> 
+<DCT type="str">2017-01-29T08:18:02Z</DCT> 
+<TITLE type="str">Swimming: Watanabe, 19, sets world record in men&apos;s 200 breaststroke (2017/1/29)</TITLE> 
 </root>

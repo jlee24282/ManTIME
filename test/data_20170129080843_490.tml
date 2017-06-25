@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Greeley’s police department is investigating whether officials at Salida del Sol Academy broke the law by failing to report a sex-related complaint involving an eighth-grade girl and a male teacher. 
+<TEXT type="str">Greeley’s police department is investigating whether officials at Salida del Sol Academy broke the law by failing to report a sex-related complaint involving an eighth-grade girl and a male teacher. 
  
 We don’t need to wait for the investigation to wonder what the heck Executive Director Joe Melendez and school security guard Anthony Antuna were thinking. 
  
@@ -19,9 +19,8 @@ The thing is, that’s not Salida’s decision to make, and that’s not the dec
 We say it’s mostly too late. There’s still one outcome we hope happens soon. It would be inappropriate for us to root for criminal charges, but we at least look forward to the police department completing a fair, accurate and scouring investigation of the school board, Melendez and Antuna. Most of all, we want it to be as public as possible. That’s exactly the kind of embarrassment they wanted the school to avoid. The only difference now is that they’re the ones who caused it. 
  
  
-— The Tribune Editorial Board</content> 
-<sequenceId type="str">695198992558</sequenceId> 
-<topics type="list"> 
+— The Tribune Editorial Board</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Media latest</name> 
@@ -34,7 +33,8 @@ We say it’s mostly too late. There’s still one outcome we hope happens soon.
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:05:03Z</estimatedPublishedDate> 
-<title type="str">Tribune Opinion: Salida del Sol Academy put our children in danger by investigating sex-related compliant without calling police</title> 
+</TOPICS> 
+<DOCID type="str">695198992558</DOCID> 
+<DCT type="str">2017-01-29T07:05:03Z</DCT> 
+<TITLE type="str">Tribune Opinion: Salida del Sol Academy put our children in danger by investigating sex-related compliant without calling police</TITLE> 
 </root>

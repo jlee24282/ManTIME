@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MIL OSI USA – 
+<TEXT type="str">MIL OSI USA – 
 
 Source: US Department of Homeland Security Headline: For Immediate Release
 
@@ -14,9 +14,8 @@ Approximately 80 million international travelers enter the United States every y
 
 The Department of Homeland Security will faithfully execute the immigration laws, and we will treat all of those we encounter humanely and with professionalism. No foreign national in a foreign land, without ties to the United States, has any unfettered right to demand entry into the United States or to demand immigration benefits in the United States. The Department of Homeland Security will comply with judicial orders; faithfully enforce our immigration laws, and implement President Trump’s Executive Orders to ensure that those entering the United States do not pose a threat to our country or the American people.
 
-# # #</content> 
-<sequenceId type="str">695197155959</sequenceId> 
-<topics type="list"> 
+# # #</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">US security news</name> 
@@ -25,7 +24,8 @@ The Department of Homeland Security will faithfully execute the immigration laws
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:48Z</estimatedPublishedDate> 
-<title type="str">Department Of Homeland Security Response To Recent Litigation</title> 
+</TOPICS> 
+<DOCID type="str">695197155959</DOCID> 
+<DCT type="str">2017-01-29T07:32:48Z</DCT> 
+<TITLE type="str">Department Of Homeland Security Response To Recent Litigation</TITLE> 
 </root>

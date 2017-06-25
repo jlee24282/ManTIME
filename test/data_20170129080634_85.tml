@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DERRY — A historic move to pay its top leader and a surprising call from the departing chairman to end opposition to same-sex marriage sparked a lively annual meeting of the Republican State Committee here Saturday. 
+<TEXT type="str">DERRY — A historic move to pay its top leader and a surprising call from the departing chairman to end opposition to same-sex marriage sparked a lively annual meeting of the Republican State Committee here Saturday. 
  
 
 The GOP ended a decade-long debate with a 268-90 vote for its Executive Committee to craft a salary package for the new chairman, former Senate Finance Committee Chairman Jeanie Forrester of Meredith. The vote cleared a required, two-thirds threshold. 
@@ -88,9 +88,8 @@ The GOP upheld Horn’s suspension of Joe Barton of Newmarket as a state committ
  
 
 klandrigan@unionleader.com 
-.</content> 
-<sequenceId type="str">695193870103</sequenceId> 
-<topics type="list"> 
+.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -111,7 +110,8 @@ klandrigan@unionleader.com
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:03:00Z</estimatedPublishedDate> 
-<title type="str">NH GOP votes to pay new chairman departing chair calls for GOP to embrace gay marriage</title> 
+</TOPICS> 
+<DOCID type="str">695193870103</DOCID> 
+<DCT type="str">2017-01-29T05:03:00Z</DCT> 
+<TITLE type="str">NH GOP votes to pay new chairman departing chair calls for GOP to embrace gay marriage</TITLE> 
 </root>

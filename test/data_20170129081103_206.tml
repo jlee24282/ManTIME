@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mathieu Valbuena tried to smash it into the net from six meters out and it hit the crossbar. After spectacular goals lately, Lyon winger Mathieu Valbuena produced a contender for the French league’s best miss when he fluffed an open goal as they lost at home to Lille 2-1 on Saturday.
+<TEXT type="str">Mathieu Valbuena tried to smash it into the net from six meters out and it hit the crossbar. After spectacular goals lately, Lyon winger Mathieu Valbuena produced a contender for the French league’s best miss when he fluffed an open goal as they lost at home to Lille 2-1 on Saturday.
 
 Following good work down the right from substitute Maxwell Cornet, the ball fizzed across the area and landed perfectly for Valbuena with no defenders around him. But he tried to smash it into the net from six meters out and it hit the crossbar.
 
@@ -34,9 +34,8 @@ Last-place Lorient looked set for a much-needed win before conceding two late go
 
 But Angers moved away from the relegation zone after a 2-1 home win against Metz, which had two players sent off, while in the other match Corsican side Bastia drew with fellow struggler Caen 1-1.
 
-On Sunday, PSG faces league leader Monaco in Paris and second-place Nice plays Guingamp. Also, Toulouse meets Saint-Etienne.</content> 
-<sequenceId type="str">695203923607</sequenceId> 
-<topics type="list"> 
+On Sunday, PSG faces league leader Monaco in Paris and second-place Nice plays Guingamp. Also, Toulouse meets Saint-Etienne.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -45,7 +44,8 @@ On Sunday, PSG faces league leader Monaco in Paris and second-place Nice plays G
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:34Z</estimatedPublishedDate> 
-<title type="str">Mathieu Valbuena misses open goal as Lyon lose 2-1 at home to Lille</title> 
+</TOPICS> 
+<DOCID type="str">695203923607</DOCID> 
+<DCT type="str">2017-01-29T08:23:34Z</DCT> 
+<TITLE type="str">Mathieu Valbuena misses open goal as Lyon lose 2-1 at home to Lille</TITLE> 
 </root>

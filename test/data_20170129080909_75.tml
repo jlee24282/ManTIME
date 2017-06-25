@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">THE brother of the man accused of killing five people in the tragic CBD massacre 10 days ago has expressed his remorse to the families affected.
+<TEXT type="str">THE brother of the man accused of killing five people in the tragic CBD massacre 10 days ago has expressed his remorse to the families affected.
 
 Angelo Gargasoulas wrote on Facebook his thoughts were with everyone involved in the January 20 tragedy and said no one could have seen it coming.
 
@@ -30,9 +30,8 @@ Dimitrious Gargasoulas, 26, of Windsor has been charged with five counts of murd
 
 Gargasoulas will reappear in Melbourne Magistrates’ Court in August.
 
-Originally published as</content> 
-<sequenceId type="str">695199721129</sequenceId> 
-<topics type="list"> 
+Originally published as</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -41,7 +40,8 @@ Originally published as</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:00Z</estimatedPublishedDate> 
-<title type="str">‘No one could’ve predicted what Jimmy did’</title> 
+</TOPICS> 
+<DOCID type="str">695199721129</DOCID> 
+<DCT type="str">2017-01-29T07:47:00Z</DCT> 
+<TITLE type="str">‘No one could’ve predicted what Jimmy did’</TITLE> 
 </root>

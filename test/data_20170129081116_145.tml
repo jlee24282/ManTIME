@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Be ready to make choices if the standoff between Cable One and KAYU FOX has you considering cutting your cable service. 
+<TEXT type="str">Be ready to make choices if the standoff between Cable One and KAYU FOX has you considering cutting your cable service. 
  
 KAYU FOX, the network carrying this year&apos;s Super Bowl, hasn&apos;t aired through Cable One in the Lewiston-Clarkston Valley since Jan. 1 because of a disagreement over retransmission fees. 
  
@@ -34,9 +34,8 @@ A: Offerings such as DISH and DIRECTV can cost as little as $40 per month and pr
  
 --- 
  
-Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</content> 
-<sequenceId type="str">695204323981</sequenceId> 
-<topics type="list"> 
+Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -45,7 +44,8 @@ Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Ready to cut the cable?</title> 
+</TOPICS> 
+<DOCID type="str">695204323981</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Ready to cut the cable?</TITLE> 
 </root>

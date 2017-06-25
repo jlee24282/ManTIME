@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Italian trial set for Berlusconi
+<TEXT type="str">New Italian trial set for Berlusconi
 
 ROME -- A Milan judge on Saturday ordered Silvio Berlusconi to be tried on corruption charges, damping the former Italian premier&apos;s hopes of running soon for office again after being sidelined by a tax-fraud conviction.
 
@@ -34,9 +34,8 @@ A rescue operation was started immediately despite hostile weather, Indian army 
 
 Authorities in Indian-controlled Kashmir have issued avalanche warnings for many parts of the region, especially along the de facto frontier.
 
-Two avalanches on Wednesday buried a military post and swept away a patrol in Gurez, burying 21 soldiers, seven of whom were rescued. The bodies of the 14 others were recovered in two days.</content> 
-<sequenceId type="str">695194011752</sequenceId> 
-<topics type="list"> 
+Two avalanches on Wednesday buried a military post and swept away a patrol in Gurez, burying 21 soldiers, seven of whom were rescued. The bodies of the 14 others were recovered in two days.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Malta news</name> 
@@ -45,7 +44,8 @@ Two avalanches on Wednesday buried a military post and swept away a patrol in Gu
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Pope writes to stress order&apos;s sovereignty</title> 
+</TOPICS> 
+<DOCID type="str">695194011752</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Pope writes to stress order&apos;s sovereignty</TITLE> 
 </root>

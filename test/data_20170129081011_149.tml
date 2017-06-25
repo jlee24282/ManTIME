@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">About 1,000 people attended the Donegal Education and Training Board’s Further Education and Training Fair, which had a special focus on the wide range of courses and training the ETB provides. 
+<TEXT type="str">About 1,000 people attended the Donegal Education and Training Board’s Further Education and Training Fair, which had a special focus on the wide range of courses and training the ETB provides. 
 Also on hand were Letterkenny Institute of Technology, North West Regional College in Derry, Sligo IT, St. Angela’s College in Sligo and NUI Galway, as well as Student Universal Support Ireland (Susi), Department of Social Protection, Citizens Information and other support services. 
 This was the third ETB fair since incorporating training into their work, and included some of the extensive many opportunities – electrical, plumbing and welding, hairdressing and beauty therapy, software development and construction. 
 The ETB also offers programmes for anyone who needs to update basic skills in literacy, numeracy or maths. 
 All the programmes on offer can be found online at www.donegaletb.ie. 
-The ETB also offers a guidance service with offices in Letterkenny and outreach across the county. The service is open to everyone and one-to-one guidance is available to people who have not reached third level. For more on counselling, ring 074 9188</content> 
-<sequenceId type="str">695202214753</sequenceId> 
-<topics type="list"> 
+The ETB also offers a guidance service with offices in Letterkenny and outreach across the county. The service is open to everyone and one-to-one guidance is available to people who have not reached third level. For more on counselling, ring 074 9188</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -20,7 +19,8 @@ The ETB also offers a guidance service with offices in Letterkenny and outreach 
 <group type="str">Regional</group> 
 <name type="str">Ireland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:20Z</estimatedPublishedDate> 
-<title type="str">Huge attendance at Donegal ETB&apos;s Further Education and Training Fair</title> 
+</TOPICS> 
+<DOCID type="str">695202214753</DOCID> 
+<DCT type="str">2017-01-29T08:12:20Z</DCT> 
+<TITLE type="str">Huge attendance at Donegal ETB&apos;s Further Education and Training Fair</TITLE> 
 </root>

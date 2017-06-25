@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SALT LAKE CITY — Amid the controversy swirling around President Trump&apos;s executive order banning refugees from seven Muslim countries, the LDS Church issued a statement late Saturday night urging solutions that relieve refugee suffering. 
+<TEXT type="str">SALT LAKE CITY — Amid the controversy swirling around President Trump&apos;s executive order banning refugees from seven Muslim countries, the LDS Church issued a statement late Saturday night urging solutions that relieve refugee suffering. 
  
 &quot;The Church of Jesus Christ of Latter-day Saints is concerned about the temporal and spiritual welfare of all of God&apos;s children across the earth,&quot; the statement said, &quot;with special concern for those who are fleeing physical violence, war and religious persecution. The church urges all people and governments to cooperate fully in seeking the best solutions to meet human needs and relieve suffering.&quot; 
  
@@ -32,9 +32,8 @@ He said the plight of the world&apos;s 60 million refugees should generate outra
  
 Finally, Elder Holland made a clear reference to the faith&apos;s &quot; I Was a Stranger &quot; program, launched last spring . The program called on Mormons, especially the women of the faith&apos;s global Relief Society, to help individual refugees resettling in their communities. 
  
-&quot;We need to encourage local citizens to welcome (refugees) into their everyday lives,&quot; he said.</content> 
-<sequenceId type="str">695195049551</sequenceId> 
-<topics type="list"> 
+&quot;We need to encourage local citizens to welcome (refugees) into their everyday lives,&quot; he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -47,7 +46,8 @@ Finally, Elder Holland made a clear reference to the faith&apos;s &quot; I Was a
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:07:00Z</estimatedPublishedDate> 
-<title type="str">LDS Church issues statement after Trump orders ban on refugees</title> 
+</TOPICS> 
+<DOCID type="str">695195049551</DOCID> 
+<DCT type="str">2017-01-29T06:07:00Z</DCT> 
+<TITLE type="str">LDS Church issues statement after Trump orders ban on refugees</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bayern Munich edged past Werder Bremen 2-1 yesterday for a Bundesliga record 13th consecutive win over them to stay three points clear at the top of the table. 
+<TEXT type="str">Bayern Munich edged past Werder Bremen 2-1 yesterday for a Bundesliga record 13th consecutive win over them to stay three points clear at the top of the table. 
  
 Bayern never hit top form but are now on 45 points with promoted RB Leipzig on 42 after they ended Hoffenheim’s unbeaten run this season with a 2-1 win. 
  
@@ -30,9 +30,8 @@ B. L’rkusen vs B. Mgladbach - 2-3
  
 Playing today 
 Freiburg vs Hertha Berlin - 15.30 
-Mainz vs B. Dortmund - 17.3</content> 
-<sequenceId type="str">695201461125</sequenceId> 
-<topics type="list"> 
+Mainz vs B. Dortmund - 17.3</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
@@ -45,7 +44,8 @@ Mainz vs B. Dortmund - 17.3</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Bundesliga news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:01Z</estimatedPublishedDate> 
-<title type="str">Bayern Munich beat Werder for record 13th straight time</title> 
+</TOPICS> 
+<DOCID type="str">695201461125</DOCID> 
+<DCT type="str">2017-01-29T07:41:01Z</DCT> 
+<TITLE type="str">Bayern Munich beat Werder for record 13th straight time</TITLE> 
 </root>

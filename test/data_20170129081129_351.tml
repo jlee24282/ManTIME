@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 8 a.m. to 4 p.m. 
+<TEXT type="str">, 8 a.m. to 4 p.m. 
  
 Where: Ocean Beach Pier, 5091 Niagara Avenue, San Diego 
  
@@ -11,9 +11,8 @@ Age limit: All ages
 Description: 
 The first San Diego Yoga Festival features over 100 classes, non-stop, offered for four days throughout Ocean Beach. Classes consist of instruction-based workouts, workshops, certification programs, and CEUs (continuing education credits) covering all styles of yoga including energy work and shamanic experiences plus So-Cal-unique surf, skate, and beach and water activities. 
  
-Three-day festival pass $333; one-day festival pass $222; three-class pass $88; one-class pass $44.</content> 
-<sequenceId type="str">695204964640</sequenceId> 
-<topics type="list"> 
+Three-day festival pass $333; one-day festival pass $222; three-class pass $88; one-class pass $44.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Diego news</name> 
@@ -26,7 +25,8 @@ Three-day festival pass $333; one-day festival pass $222; three-class pass $88; 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:15Z</estimatedPublishedDate> 
-<title type="str">Sun 1/29: San Diego Yoga Festival</title> 
+</TOPICS> 
+<DOCID type="str">695204964640</DOCID> 
+<DCT type="str">2017-01-29T08:33:15Z</DCT> 
+<TITLE type="str">Sun 1/29: San Diego Yoga Festival</TITLE> 
 </root>

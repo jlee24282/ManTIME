@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In 2016 the crew of a Don-2N radar facility, one of many keeping an eye on the skies over Moscow and the Central Industrial Region, registered nearly a dozen ballistic and space rocket launches, Rossiiskaya Gazeta reported, citing the Defense Ministry&apos;s press service in Moscow. Also in 2016, air and missile defense units stationed outside Moscow conducted a series of drills to spot, track and &quot;destroy&quot; hundreds of hypothetical aircraft and missiles. &quot;There are over 200 radar operators taking ...</content> 
-<sequenceId type="str">695201210865</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">In 2016 the crew of a Don-2N radar facility, one of many keeping an eye on the skies over Moscow and the Central Industrial Region, registered nearly a dozen ballistic and space rocket launches, Rossiiskaya Gazeta reported, citing the Defense Ministry&apos;s press service in Moscow. Also in 2016, air and missile defense units stationed outside Moscow conducted a series of drills to spot, track and &quot;destroy&quot; hundreds of hypothetical aircraft and missiles. &quot;There are over 200 radar operators taking ...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Moscow news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:34:12Z</estimatedPublishedDate> 
-<title type="str">Moscow&apos;s air defense registered a dozen missile launches in 2016</title> 
+</TOPICS> 
+<DOCID type="str">695201210865</DOCID> 
+<DCT type="str">2017-01-29T01:34:12Z</DCT> 
+<TITLE type="str">Moscow&apos;s air defense registered a dozen missile launches in 2016</TITLE> 
 </root>

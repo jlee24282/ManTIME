@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo by Jeff Baughan Jon Corra displays the current type of card being used with the Operation Transportation program with the Easy Rider bus system.   Photo by Jeff Baughan Kimberly Griffey, who works with the Operation Transportation Joining Community Forces initiative, stands in front of a fleet of buses at the Easy Rider bus terminal in Parkersburg.  
+<TEXT type="str">Photo by Jeff Baughan Jon Corra displays the current type of card being used with the Operation Transportation program with the Easy Rider bus system.   Photo by Jeff Baughan Kimberly Griffey, who works with the Operation Transportation Joining Community Forces initiative, stands in front of a fleet of buses at the Easy Rider bus terminal in Parkersburg.  
   
 Photo by Jeff Baughan Jon Corra displays the current type of card being used with the Operation Transportation program with the Easy Rider bus system. 
  
@@ -54,9 +54,8 @@ Corra is the Community Outreach Specialist and Social Media Specialist for Parke
  
 The group will have to continue raising funds, Griffey said. 
  
-“We are always going to have to raise funds to keep this going, but people have always been very supportive of the military in this area,” Griffey said. “We’ll make a go of this for a while and continue to work to make it a smooth running operation.”</content> 
-<sequenceId type="str">695195779687</sequenceId> 
-<topics type="list"> 
+“We are always going to have to raise funds to keep this going, but people have always been very supportive of the military in this area,” Griffey said. “We’ll make a go of this for a while and continue to work to make it a smooth running operation.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
@@ -65,7 +64,8 @@ The group will have to continue raising funds, Griffey said.
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:38Z</estimatedPublishedDate> 
-<title type="str">Easy Rider in Parkersburg offers free pass for military service</title> 
+</TOPICS> 
+<DOCID type="str">695195779687</DOCID> 
+<DCT type="str">2017-01-29T07:24:38Z</DCT> 
+<TITLE type="str">Easy Rider in Parkersburg offers free pass for military service</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SAN DIEGO – Ken Hartle, who as a Navy diver during World War II had the grim task of retrieving bodies from ships sunk by the Japanese at Pearl Harbor, has died. He was 103. 
+<TEXT type="str">SAN DIEGO – Ken Hartle, who as a Navy diver during World War II had the grim task of retrieving bodies from ships sunk by the Japanese at Pearl Harbor, has died. He was 103. 
  
 Hartle died Tuesday afternoon at an Escondido, California, center for people with Alzheimer’s disease or dementia, the San Diego Union-Tribune reported Friday . A reporter was at his bedside with Hartle’s son and daughter three hours before his death. 
  
@@ -24,9 +24,8 @@ His son said Hartle managed to cheat death several times, beginning at age 3 whe
  
 He had colon and prostate cancer, six heart bypass surgeries, and broke his shoulder falling from a ladder while trimming trees when he was 97. 
  
-“He was from a generation of people who were amazingly tough,” said his daughter and longtime caregiver, Karen Dahl, 66. “He had a lot of problems with pain from the work he did in his younger life, but he never complained.”</content> 
-<sequenceId type="str">695203624282</sequenceId> 
-<topics type="list"> 
+“He was from a generation of people who were amazingly tough,” said his daughter and longtime caregiver, Karen Dahl, 66. “He had a lot of problems with pain from the work he did in his younger life, but he never complained.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -35,7 +34,8 @@ He had colon and prostate cancer, six heart bypass surgeries, and broke his shou
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:12Z</estimatedPublishedDate> 
-<title type="str">Navy diver who salvaged bodies from Pearl Harbor dies at 103 - Sat, 28 Jan 2017 PST</title> 
+</TOPICS> 
+<DOCID type="str">695203624282</DOCID> 
+<DCT type="str">2017-01-29T07:56:12Z</DCT> 
+<TITLE type="str">Navy diver who salvaged bodies from Pearl Harbor dies at 103 - Sat, 28 Jan 2017 PST</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  
+<TEXT type="str">  
  
 executive order temporarily restricting entry to the U.S. by citizens from seven countriesA Federal Judge in New York on Saturday night granted a stay order on President Donald Trump’s executive order temporarily restricting entry to the U.S. by citizens from seven countries. 
  
@@ -46,9 +46,8 @@ He said the group believes around 200 people will be directly affected by Saturd
  
 “Clearly this is just the first day of what will be a very long battle,” Romero said. 
  
-He said the onus was now on the Trump administration to prove the executive order is constitutional. (NAN)</content> 
-<sequenceId type="str">695197940060</sequenceId> 
-<topics type="list"> 
+He said the onus was now on the Trump administration to prove the executive order is constitutional. (NAN)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
@@ -57,7 +56,8 @@ He said the onus was now on the Trump administration to prove the executive orde
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:50Z</estimatedPublishedDate> 
-<title type="str">Judge grants stay against Trump Refugee Order</title> 
+</TOPICS> 
+<DOCID type="str">695197940060</DOCID> 
+<DCT type="str">2017-01-29T07:40:50Z</DCT> 
+<TITLE type="str">Judge grants stay against Trump Refugee Order</TITLE> 
 </root>

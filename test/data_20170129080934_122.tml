@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The White House confirmed it purposely excluded Jewish people from its statement on Holocaust Remembrance Day on Friday. 
+<TEXT type="str">The White House confirmed it purposely excluded Jewish people from its statement on Holocaust Remembrance Day on Friday. 
   By Lucas Grindley  
 January 29 2017 2:10 AM EST 
    
@@ -40,9 +40,8 @@ Others pointed out that minimizing the suffering of the Jewish people reeks of R
   
 Exactly. Russians have a long history of trying to erase Jewish deaths from Holocaust. https://t.co/5uvgA6txSQ 
  
-— Robbie Kaplan (@kaplanrobbie) January 29, 2</content> 
-<sequenceId type="str">695200771177</sequenceId> 
-<topics type="list"> 
+— Robbie Kaplan (@kaplanrobbie) January 29, 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -55,7 +54,8 @@ Exactly. Russians have a long history of trying to erase Jewish deaths from Holo
 <group type="str">Society</group> 
 <name type="str">Jewish news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:10:09Z</estimatedPublishedDate> 
-<title type="str">Trump Invokes &apos;All Lives Matter&apos; Logic to Erase Jews from Holocaust</title> 
+</TOPICS> 
+<DOCID type="str">695200771177</DOCID> 
+<DCT type="str">2017-01-29T07:10:09Z</DCT> 
+<TITLE type="str">Trump Invokes &apos;All Lives Matter&apos; Logic to Erase Jews from Holocaust</TITLE> 
 </root>

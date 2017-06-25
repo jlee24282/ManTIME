@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 6:17 pm 
+<TEXT type="str">, 6:17 pm 
   
   Queenstown. Photo:   
   
@@ -16,9 +16,8 @@ Worksafe NZ and the Civil Aviation Authority are investigating the accident and 
 
 Sasa Jojic is the company&apos;s operations manager. He has made more than 29,000 skydives and is a double Yugoslavian champion with a record five years on his home country&apos;s skydiving team, according to the company&apos;s website. He has been with the company since 1998. 
 
-The company will be operating again on Monday, weather permitting.</content> 
-<sequenceId type="str">695195733998</sequenceId> 
-<topics type="list"> 
+The company will be operating again on Monday, weather permitting.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
@@ -31,7 +30,8 @@ The company will be operating again on Monday, weather permitting.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: extreme sports news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:03Z</estimatedPublishedDate> 
-<title type="str">Injured Queenstown skydiver &apos;has made more than 29,000 jumps&apos; (NZ Newswire)</title> 
+</TOPICS> 
+<DOCID type="str">695195733998</DOCID> 
+<DCT type="str">2017-01-29T07:17:03Z</DCT> 
+<TITLE type="str">Injured Queenstown skydiver &apos;has made more than 29,000 jumps&apos; (NZ Newswire)</TITLE> 
 </root>

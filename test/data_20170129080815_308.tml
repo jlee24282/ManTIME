@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Similar legal rulings were made in Virginia and Washington state after the New York ruling was made. 
+<TEXT type="str">Similar legal rulings were made in Virginia and Washington state after the New York ruling was made. 
 
 &quot;The Department of Homeland Security will comply with judicial orders; faithfully enforce our immigration laws, and implement the president&apos;s Executive Orders to ensure that those entering the United States do not pose a threat to our country or the American people,&quot; the department said. 
  
@@ -98,9 +98,8 @@ After the federal orders were issued, the department said it &quot;will continue
  
 &quot;The president&apos;s Executive Order affects a minor portion of international travelers, and is a first step towards reestablishing control over America&apos;s borders and national security.&quot; 
  
-CNN&apos;s Kevin Bohn, Ellie Kaufman, Patricia Pedraza, Sheena Jones, Mohammed Tawfeeq, Rachel Crane, Chris Welch and Sarah Jorgensen contributed to this report.</content> 
-<sequenceId type="str">695197559466</sequenceId> 
-<topics type="list"> 
+CNN&apos;s Kevin Bohn, Ellie Kaufman, Patricia Pedraza, Sheena Jones, Mohammed Tawfeeq, Rachel Crane, Chris Welch and Sarah Jorgensen contributed to this report.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -121,7 +120,8 @@ CNN&apos;s Kevin Bohn, Ellie Kaufman, Patricia Pedraza, Sheena Jones, Mohammed T
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:19Z</estimatedPublishedDate> 
-<title type="str">Homeland Security to comply with orders not to deport travelers</title> 
+</TOPICS> 
+<DOCID type="str">695197559466</DOCID> 
+<DCT type="str">2017-01-29T07:14:19Z</DCT> 
+<TITLE type="str">Homeland Security to comply with orders not to deport travelers</TITLE> 
 </root>

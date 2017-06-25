@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Author: captain-lejournaldepattaya 
+<TEXT type="str">Author: captain-lejournaldepattaya 
 Tags: 
-Posted: 29 January 2</content> 
-<sequenceId type="str">695196001753</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: pop music news</name> 
@@ -13,7 +12,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:28Z</estimatedPublishedDate> 
-<title type="str">Rolling Stones - with Lady Gaga　 Gimme Shelter</title> 
+</TOPICS> 
+<DOCID type="str">695196001753</DOCID> 
+<DCT type="str">2017-01-29T07:18:28Z</DCT> 
+<TITLE type="str">Rolling Stones - with Lady Gaga　 Gimme Shelter</TITLE> 
 </root>

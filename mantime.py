@@ -25,6 +25,7 @@ from mantime.attributes_extractor import FullExtractor
 
 
 def main():
+    #test ./test english
     """ It annotates documents in a specific folder.
     """
     logging.basicConfig(format='%(asctime)s: %(message)s',

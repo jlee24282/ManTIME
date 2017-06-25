@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It&apos;s a tale of romance straight from the script of a Jeremy Kyle Show and it stars... Jeremy Kyle. 
+<TEXT type="str">It&apos;s a tale of romance straight from the script of a Jeremy Kyle Show and it stars... Jeremy Kyle. 
  
 The TV host famed for grilling people over romantic entanglements has fallen for his children’s former nanny. 
  
@@ -122,14 +122,14 @@ He started his career on local radio before getting his break broadcasting on na
  
 In 2004 he ran a similar Confessions Show on London’s Capital FM. 
  
-It proved so popular he was poached by TV bosses and in 2007 The Jeremy Kyle Show began.</content> 
-<sequenceId type="str">695203953536</sequenceId> 
-<topics type="list"> 
+It proved so popular he was poached by TV bosses and in 2007 The Jeremy Kyle Show began.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:01:00Z</estimatedPublishedDate> 
-<title type="str">Jeremy Kyle finds love with his children&apos;s nanny after torment of marriage split</title> 
+</TOPICS> 
+<DOCID type="str">695203953536</DOCID> 
+<DCT type="str">2017-01-29T00:01:00Z</DCT> 
+<TITLE type="str">Jeremy Kyle finds love with his children&apos;s nanny after torment of marriage split</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Miguel Angel Samudio helped Club America to a 1-0 win over Veracruz. Week 4 in the 2017 Liga M</content> 
-<sequenceId type="str">695202074327</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Miguel Angel Samudio helped Club America to a 1-0 win over Veracruz. Week 4 in the 2017 Liga M</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Central America news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:06Z</estimatedPublishedDate> 
-<title type="str">Chivas Guadalajara, Club America nab key wins on Liga MX matchday four</title> 
+</TOPICS> 
+<DOCID type="str">695202074327</DOCID> 
+<DCT type="str">2017-01-29T08:11:06Z</DCT> 
+<TITLE type="str">Chivas Guadalajara, Club America nab key wins on Liga MX matchday four</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump’s executive activity has been frantic in the first days of his term. He has moved to keep a number of the scary promises that were easier to dismiss as unfeasible during the campaign than to accept as actual policies in the real world. But the big stories he has generated have had nothing to do with these actions. 
+<TEXT type="str">President Donald Trump’s executive activity has been frantic in the first days of his term. He has moved to keep a number of the scary promises that were easier to dismiss as unfeasible during the campaign than to accept as actual policies in the real world. But the big stories he has generated have had nothing to do with these actions. 
    
 According to data collected by BuzzSumo.com , the most widely shared CNN news story about Donald Trump since Jan. 21 was one about his press secretary, Sean Spicer, attacking the media for their reporting on inauguration attendance. It was shared 169,700 times on Facebook. A story on Trump’s executive order to start rolling back Obamacare clocked just 71,100 shares. On The New York Times’ website, the most widely shared story debunked Spicer’s “alternative facts.” It showed up on Facebook 170,900 times. The New York Times piece about Trump’s executive order abandoning the Trans-Pacific Partnership got 44,600 shares. 
    
@@ -20,9 +20,8 @@ Just as it was unimportant how many people attended the inauguration, it doesn�
    
 Trump’s and his team’s communications look awkward, inept, gallingly primitive. It’s time to wise up: These people know what they’re doing. They want their political opponents to be confused, to flail at windmills, to expend emotions on meaningless scandals to distract them from any targeted, coordinated action against specific threats. There are going to be many of these: Trump appears intent on keeping his promises. Calm concentration is needed to counteract dangerous policies. 
    
-- Bershidsky is a Bloomberg View columnist.</content> 
-<sequenceId type="str">695195347960</sequenceId> 
-<topics type="list"> 
+- Bershidsky is a Bloomberg View columnist.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -31,7 +30,8 @@ Trump’s and his team’s communications look awkward, inept, gallingly primiti
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Trump a master of diversionary tactics</title> 
+</TOPICS> 
+<DOCID type="str">695195347960</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Trump a master of diversionary tactics</TITLE> 
 </root>

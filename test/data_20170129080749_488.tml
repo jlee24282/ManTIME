@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The New Philadelphia Science Club is back with another science question in The Times-Reporter. 
+<TEXT type="str">The New Philadelphia Science Club is back with another science question in The Times-Reporter. 
  
 The New Philadelphia Science Club is back with another science question in The Times-Reporter. Each week a new science-related question will be given, and everyone is invited to participate by either mailing the answer to the club at the address below or simply emailing the answer to the address given. At the end of the school year several winners will be chosen from all the correct entries submitted to receive a prize. To participate in this drawing, send your answer to: 
  
@@ -26,14 +26,14 @@ B. Myocytes  
  
 C. Motor Neurons 
  
-D. Small Intestine Cells</content> 
-<sequenceId type="str">695196956787</sequenceId> 
-<topics type="list"> 
+D. Small Intestine Cells</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Applied Science: What is the longest cell type in the human body?</title> 
+</TOPICS> 
+<DOCID type="str">695196956787</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Applied Science: What is the longest cell type in the human body?</TITLE> 
 </root>

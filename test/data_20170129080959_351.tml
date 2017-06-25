@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Prime Minister Justin Trudeau welcomed those fleeing war and persecution on Saturday even as Canadian airlines said they would turn back US-bound passengers to comply with an immigration ban on people from seven Muslim-majority countries. 
+<TEXT type="str">Prime Minister Justin Trudeau welcomed those fleeing war and persecution on Saturday even as Canadian airlines said they would turn back US-bound passengers to comply with an immigration ban on people from seven Muslim-majority countries. 
  
 In pointed tweets a day after US President Donald Trump put a four-month hold on allowing refugees into the United States and temporarily barred travellers from the seven countries, Trudeau said refugees were welcome in Canada. 
  
@@ -32,9 +32,8 @@ In Vancouver, an employee at the American Airlines counter said one person trave
  
 Air Canada said it was complying with the order but did not comment on whether it had denied anyone travel. 
  
-A Porter Airlines spokesman said the Toronto-based carrier will be restricting passengers from travelling to the United States from the listed countries until further notice.</content> 
-<sequenceId type="str">695201929718</sequenceId> 
-<topics type="list"> 
+A Porter Airlines spokesman said the Toronto-based carrier will be restricting passengers from travelling to the United States from the listed countries until further notice.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -51,7 +50,8 @@ A Porter Airlines spokesman said the Toronto-based carrier will be restricting p
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:56Z</estimatedPublishedDate> 
-<title type="str">Canada welcomes refugees; US-bound passengers turned away</title> 
+</TOPICS> 
+<DOCID type="str">695201929718</DOCID> 
+<DCT type="str">2017-01-29T08:09:56Z</DCT> 
+<TITLE type="str">Canada welcomes refugees; US-bound passengers turned away</TITLE> 
 </root>

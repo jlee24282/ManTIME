@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi: The India U19 team was stunned on Sunday morning in Mumbai as the news broke of their physical fitness trainer being dead. The team is presently preparing for a five-match ODI series against the touring England U19 team. 
+<TEXT type="str">New Delhi: The India U19 team was stunned on Sunday morning in Mumbai as the news broke of their physical fitness trainer being dead. The team is presently preparing for a five-match ODI series against the touring England U19 team. 
  
 With the first ODI scheduled to take place tomorrow, the fitness trainer Rajesh Sawant&apos;s death sent shockwaves across the entire camp and indeed the Indian cricket fraternity. 
  
@@ -12,9 +12,8 @@ Board of Control for Cricket in India (BCCI) then got into action and joint secr
  
 Rajesh Sawant was without a doubt one of the best trainers in Indian domestic circuit and his demise is a huge loss for the young cricketers. 
  
-(More to follow)</content> 
-<sequenceId type="str">695197096017</sequenceId> 
-<topics type="list"> 
+(More to follow)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -27,7 +26,8 @@ Rajesh Sawant was without a doubt one of the best trainers in Indian domestic ci
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:00Z</estimatedPublishedDate> 
-<title type="str">India U19 fitness trainer Rajesh Sawant found dead in his hotel room</title> 
+</TOPICS> 
+<DOCID type="str">695197096017</DOCID> 
+<DCT type="str">2017-01-29T07:29:00Z</DCT> 
+<TITLE type="str">India U19 fitness trainer Rajesh Sawant found dead in his hotel room</TITLE> 
 </root>

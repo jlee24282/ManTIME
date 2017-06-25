@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">America’s immigration system has been plunged into chaos and confusion in the wake of strict travel restrictions on people from seven Muslim-majority nations. 
+<TEXT type="str">America’s immigration system has been plunged into chaos and confusion in the wake of strict travel restrictions on people from seven Muslim-majority nations. 
  
 President Trump’s sweeping executive order for “extreme vetting” means no visas are being issued for 90 days to migrants or visitors from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. 
  
@@ -47,9 +47,8 @@ Apple chief executive Tim Cook said his company does not support the policy. In 
 Google has urged its employees from the seven countries affected to cancel any travel plans outside the US. 
  
 The impact on foreign students is also unclear. Figures from the Homeland Security Department suggest that 17,000 students from the blacklisted countries were allowed into the US in 2015/16. 
- © Sky News, 2017, All Rights Reserved.</content> 
-<sequenceId type="str">695204408829</sequenceId> 
-<topics type="list"> 
+ © Sky News, 2017, All Rights Reserved.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -62,7 +61,8 @@ The impact on foreign students is also unclear. Figures from the Homeland Securi
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:57:20Z</estimatedPublishedDate> 
-<title type="str">Trump’s immigration ban sparks ‘chaos and cruelty’ worldwide</title> 
+</TOPICS> 
+<DOCID type="str">695204408829</DOCID> 
+<DCT type="str">2017-01-29T05:57:20Z</DCT> 
+<TITLE type="str">Trump’s immigration ban sparks ‘chaos and cruelty’ worldwide</TITLE> 
 </root>

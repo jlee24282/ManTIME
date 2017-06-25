@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ユーザー名 wanko 
+<TEXT type="str">ユーザー名 wanko 
 
 214 回再生 
 
@@ -8,14 +8,14 @@
 
 ユーザー名 wanko 
 
-26</content> 
-<sequenceId type="str">695194763927</sequenceId> 
-<topics type="list"> 
+26</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:50:37Z</estimatedPublishedDate> 
-<title type="str">MY  NEME</title> 
+</TOPICS> 
+<DOCID type="str">695194763927</DOCID> 
+<DCT type="str">2017-01-29T06:50:37Z</DCT> 
+<TITLE type="str">MY  NEME</TITLE> 
 </root>

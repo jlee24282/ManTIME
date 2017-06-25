@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">[embedded content]  
+<TEXT type="str">[embedded content]  
 Kilmarnock scored in the first minute and the last as they beat Ross County 3-2 in a thriller at Rugby Park in the SPFL Ladbrokes Premiership. Kris Boyd scored inside ten seconds but Christopher Routis and Alex Schalk turned the match around before half time. Gary Dicker levelled in the second half before Sean Longstaff struck at the death. 
  
 Kilmarnock v Ross County | 28/01/2017 ko 15:00:00 
@@ -17,9 +17,8 @@ Subscribe to the SPFL YouTube channel for free by clicking here: http://goo.gl/j
  
 Like us on Facebook: http://www.facebook.com/spflofficial 
  
-Follow us on Twitter: https://twitter.com/spfl &amp; https://twitter.com/spflnews</content> 
-<sequenceId type="str">695204336884</sequenceId> 
-<topics type="list"> 
+Follow us on Twitter: https://twitter.com/spfl &amp; https://twitter.com/spflnews</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -28,7 +27,8 @@ Follow us on Twitter: https://twitter.com/spfl &amp; https://twitter.com/spflnew
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:00:00Z</estimatedPublishedDate> 
-<title type="str">Late winner as Killie beat Staggies in thriller</title> 
+</TOPICS> 
+<DOCID type="str">695204336884</DOCID> 
+<DCT type="str">2017-01-28T22:00:00Z</DCT> 
+<TITLE type="str">Late winner as Killie beat Staggies in thriller</TITLE> 
 </root>

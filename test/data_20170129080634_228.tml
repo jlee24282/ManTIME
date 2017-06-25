@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MIL OSI China – 
+<TEXT type="str">MIL OSI China – 
 
 Source: China State Council Information Office 
 
@@ -12,9 +12,8 @@ As of 9 a.m., 18 expressways in the province, including the section that links n
 
 Most highway coach stations in Liaoning are also closed as a result of the snow.
 
-The local meteorological station forecast snow to continue in most parts of Liaoning throughout Sunday.</content> 
-<sequenceId type="str">695194043900</sequenceId> 
-<topics type="list"> 
+The local meteorological station forecast snow to continue in most parts of Liaoning throughout Sunday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -27,7 +26,8 @@ The local meteorological station forecast snow to continue in most parts of Liao
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:07:38Z</estimatedPublishedDate> 
-<title type="str">Heavy snow disrupts traffic in NE China</title> 
+</TOPICS> 
+<DOCID type="str">695194043900</DOCID> 
+<DCT type="str">2017-01-29T07:07:38Z</DCT> 
+<TITLE type="str">Heavy snow disrupts traffic in NE China</TITLE> 
 </root>

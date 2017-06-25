@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ticket Information 
+<TEXT type="str">Ticket Information 
  
 SANTA CLARA, Calif. – Santa Clara men&apos;s basketball was in position for its second upset in as many games, but No. 21/21 Saint Mary&apos;s made enough plays down the stretch to hold on for a 72-59 victory on Saturday. 
 
@@ -50,9 +50,8 @@ Connect with the Broncos on Social Media
  
 Athletics:  Facebook  |  Twitter  |  Instagram  |  YouTube 
  
-Men&apos;s Basketball: Twitter  |  Instagram |  YouTube | Snapchat (SantaClaraHoops)</content> 
-<sequenceId type="str">695199577721</sequenceId> 
-<topics type="list"> 
+Men&apos;s Basketball: Twitter  |  Instagram |  YouTube | Snapchat (SantaClaraHoops)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -69,7 +68,8 @@ Men&apos;s Basketball: Twitter  |  Instagram |  YouTube | Snapchat (SantaClar
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:33Z</estimatedPublishedDate> 
-<title type="str">Men’s Basketball Has Gritty Effort, But No. 21/21 Saint Mary’s Prevails 72-59</title> 
+</TOPICS> 
+<DOCID type="str">695199577721</DOCID> 
+<DCT type="str">2017-01-29T07:52:33Z</DCT> 
+<TITLE type="str">Men’s Basketball Has Gritty Effort, But No. 21/21 Saint Mary’s Prevails 72-59</TITLE> 
 </root>

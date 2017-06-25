@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ELNORA — North Daviess got a game-high 21 points from Caleb Wagler Saturday night as the Cougars turned back Orleans, 53-42.
+<TEXT type="str">ELNORA — North Daviess got a game-high 21 points from Caleb Wagler Saturday night as the Cougars turned back Orleans, 53-42.
 
 North Daviess started the season off 5-0 before injuries began to take their toll, but with everybody now back and healthy the Cougars (9-7) are rolling once again.
 
@@ -46,9 +46,8 @@ Orleans 10 6 10 16—42North Daviess 17 12 9 15—53
 
 Team Fouls: Orleans 16; North Daviess 12.
 
-3-Point Goals: Orleans 7 (Johnson 2, Gerkin 2, Stalker 2, Moore 1); North Daviess 6 (Major 3, Phillips 1, C.Wagler 1, Trueblood 1).</content> 
-<sequenceId type="str">695202675981</sequenceId> 
-<topics type="list"> 
+3-Point Goals: Orleans 7 (Johnson 2, Gerkin 2, Stalker 2, Moore 1); North Daviess 6 (Major 3, Phillips 1, C.Wagler 1, Trueblood 1).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -57,7 +56,8 @@ Team Fouls: Orleans 16; North Daviess 12.
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Cougars chase off Bulldogs, 53-42</title> 
+</TOPICS> 
+<DOCID type="str">695202675981</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Cougars chase off Bulldogs, 53-42</TITLE> 
 </root>

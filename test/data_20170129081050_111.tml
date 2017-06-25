@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Western Sydney coach said the Kearyn Baccus incident has already been put to rest and was stunned to leave Brisbane without a point on Saturday night. 
+<TEXT type="str">The Western Sydney coach said the Kearyn Baccus incident has already been put to rest and was stunned to leave Brisbane without a point on Saturday night. 
 
 Western Sydney Wanderers coach Tony Popovic has dismissed the midweek drama surrounding midfielder Kearyn Baccus as a factor in their 2-1 defeat at the hands of Brisbane Roar on Saturday night.
 
@@ -26,9 +26,8 @@ Popovic was sympathetic but said he felt his stopper had little work to do prior
 
 &quot;It&apos;s part of football. He&apos;s been fantastic since he&apos;s come in. He had very little to do today. He saved a few balls from outside the box. They had many shots from outside the box, which shows how good our structure was,&quot; he said.
 
-&quot;In the end, it was a shot from outside the box that was our undoing. That&apos;s how it goes sometimes. For us at the moment, an unfortunate error like that from the goalkeeper results in a goal. An outfield player can make a mistake and recover.&quot; The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695203305377</sequenceId> 
-<topics type="list"> 
+&quot;In the end, it was a shot from outside the box that was our undoing. That&apos;s how it goes sometimes. For us at the moment, an unfortunate error like that from the goalkeeper results in a goal. An outfield player can make a mistake and recover.&quot; The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -37,7 +36,8 @@ Popovic was sympathetic but said he felt his stopper had little work to do prior
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:27:54Z</estimatedPublishedDate> 
-<title type="str">Off-field drama had no bearing on Wanderers performance, says Tony Popovic</title> 
+</TOPICS> 
+<DOCID type="str">695203305377</DOCID> 
+<DCT type="str">2017-01-29T03:27:54Z</DCT> 
+<TITLE type="str">Off-field drama had no bearing on Wanderers performance, says Tony Popovic</TITLE> 
 </root>

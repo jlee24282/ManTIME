@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Miguel Angel Samudio helped Club America to a 1-0 win over Veracruz. 
+<TEXT type="str">Miguel Angel Samudio helped Club America to a 1-0 win over Veracruz. 
 Week 4 in the 2017 Liga MX Clausura brought victories for Chivas and Club America, while Monterrey continues to struggle. 
  
 Here&apos;s a look at the biggest talking points of the weekend: 
@@ -44,9 +44,8 @@ Martin Rodriguez&apos;s miss in the first half could&apos;ve changed the course 
  
 Jemez&apos;s take is a perfectly rational way of looking at the game and his team&apos;s lack of luck over the last two weeks; it&apos;s just that things at Cruz Azul have rarely been rational over the last few years. There will inevitably be talk about crisis and such, as unfair as that will seem to Jemez. 
  
-Tom Marshall covers Liga MX and the Mexican national team for ESPN FC. Twitter: @MexicoWorldCup.</content> 
-<sequenceId type="str">695200963584</sequenceId> 
-<topics type="list"> 
+Tom Marshall covers Liga MX and the Mexican national team for ESPN FC. Twitter: @MexicoWorldCup.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -55,7 +54,8 @@ Tom Marshall covers Liga MX and the Mexican national team for ESPN FC. Twitter: 
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:14Z</estimatedPublishedDate> 
-<title type="str">Chivas Guadalajara, Club America nab key wins on Liga MX matchday four</title> 
+</TOPICS> 
+<DOCID type="str">695200963584</DOCID> 
+<DCT type="str">2017-01-29T08:03:14Z</DCT> 
+<TITLE type="str">Chivas Guadalajara, Club America nab key wins on Liga MX matchday four</TITLE> 
 </root>

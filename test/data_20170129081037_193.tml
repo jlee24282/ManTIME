@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CELEBRITIES are used to being fawned over on red carpets … so we decided to shake things up a bit.</content> 
-<sequenceId type="str">695202976451</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">CELEBRITIES are used to being fawned over on red carpets … so we decided to shake things up a bit.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: celebrity gossip</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:08Z</estimatedPublishedDate> 
-<title type="str">Red carpet fails: Aussie stars punished with Vegemite</title> 
+</TOPICS> 
+<DOCID type="str">695202976451</DOCID> 
+<DCT type="str">2017-01-29T08:18:08Z</DCT> 
+<TITLE type="str">Red carpet fails: Aussie stars punished with Vegemite</TITLE> 
 </root>

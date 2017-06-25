@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DON&apos;T MISS: &quot;The 23rd Annual Screen Actors Guild Awards&quot; - Yes, it&apos;s another excuse for movie and TV stars to get all dressed up and wear sparkly things. At least his celebration of top performances should offer some clues as to who might collect Oscars a few weeks from now. Will &quot;La La Land&quot; dance off with lots of trophies? Will &quot;Moonlight&quot; shine extra brightly? Hard to say. What we do know is that Lily Tomlin will be honored with a Lifetime Achievement Award. 8 p.m. Sunday, TNT and TBS.
+<TEXT type="str">DON&apos;T MISS: &quot;The 23rd Annual Screen Actors Guild Awards&quot; - Yes, it&apos;s another excuse for movie and TV stars to get all dressed up and wear sparkly things. At least his celebration of top performances should offer some clues as to who might collect Oscars a few weeks from now. Will &quot;La La Land&quot; dance off with lots of trophies? Will &quot;Moonlight&quot; shine extra brightly? Hard to say. What we do know is that Lily Tomlin will be honored with a Lifetime Achievement Award. 8 p.m. Sunday, TNT and TBS.
 
 Other bets:
 
@@ -24,9 +24,8 @@ FRIDAY: As the final season of &quot;Grimm&quot; continues, a new Wesen with a d
 
 SATURDAY: Airing on the eve of the Super Bowl, &quot;NFL Honors&quot; is a celebration of the 2016-17 season. NFL stars and celebrities gather to present an array of awards, including MVP, Coach of the Year and Walter Payton Man of the Year. The new Hall of Fame class is also revealed. 8 p.m., Fox.
 
-(Email Chuck Barney at cbarney@bayareanewsgroup.com.)</content> 
-<sequenceId type="str">695202372980</sequenceId> 
-<topics type="list"> 
+(Email Chuck Barney at cbarney@bayareanewsgroup.com.)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -35,7 +34,8 @@ SATURDAY: Airing on the eve of the Super Bowl, &quot;NFL Honors&quot; is a celeb
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Around the remote: Chuck Barney&apos;s TV picks for Jan. 29-Feb. 4</title> 
+</TOPICS> 
+<DOCID type="str">695202372980</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Around the remote: Chuck Barney&apos;s TV picks for Jan. 29-Feb. 4</TITLE> 
 </root>

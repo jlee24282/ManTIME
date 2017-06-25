@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Irit Schaffer, author of the book “Good Blood: A Journal of Healing,” will discuss her book and her experiences as a child of Holocaust survivors.  
+<TEXT type="str">Irit Schaffer, author of the book “Good Blood: A Journal of Healing,” will discuss her book and her experiences as a child of Holocaust survivors.  
  
 
 What: Author Irit Schaffer 
 When: 9 a.m. Jan. 29 
 Where: Beth Tikvah Synagogue, 45 Oak St., Westborough 
-How much: Free, but reservations requested at www.bethtikvahsynagogue.org</content> 
-<sequenceId type="str">695196748948</sequenceId> 
-<topics type="list"> 
+How much: Free, but reservations requested at www.bethtikvahsynagogue.org</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -21,7 +20,8 @@ How much: Free, but reservations requested at www.bethtikvahsynagogue.org</conte
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Author Irit Schaffer to speak Jan. 29 at Beth Tikvah Synagogue</title> 
+</TOPICS> 
+<DOCID type="str">695196748948</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Author Irit Schaffer to speak Jan. 29 at Beth Tikvah Synagogue</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">So much for that shooting slump.
+<TEXT type="str">So much for that shooting slump.
 
 Seven different players connected on 3-pointers and the Boise State men’s basketball team finished with 12 made shots from beyond the arc in an impressive 80-65 road win at Wyoming on Saturday evening.
 
@@ -32,14 +32,14 @@ Boise State improved to 4-1 on the road in Mountain West play. It’s the third 
 
 Boise State and Colorado State are tied for second place in Mountain West at 6-3, one game behind 7-2 Nevada.
 
-Tip off on Tuesday night is scheduled for 7 p.m. and the game will be streamed on ESPN3.</content> 
-<sequenceId type="str">695201774401</sequenceId> 
-<topics type="list"> 
+Tip off on Tuesday night is scheduled for 7 p.m. and the game will be streamed on ESPN3.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:50:00Z</estimatedPublishedDate> 
-<title type="str">Boise State hits 12 3-pointers in impressive road win at Wyoming</title> 
+</TOPICS> 
+<DOCID type="str">695201774401</DOCID> 
+<DCT type="str">2017-01-29T03:50:00Z</DCT> 
+<TITLE type="str">Boise State hits 12 3-pointers in impressive road win at Wyoming</TITLE> 
 </root>

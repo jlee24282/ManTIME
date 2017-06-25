@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Looks like you&apos;re already verified. 
+<TEXT type="str">Looks like you&apos;re already verified. 
  
 If you still have trouble signing in, you probably need a new confirmation link email. 
   
@@ -59,10 +59,10 @@ Sign in to complete account merge {* #tradAuthenticateMergeForm *} {* traditiona
 Change password {* newPasswordForm *} {* newPassword *} {* newPasswordConfirm *} {* submitButton *} {* /newPasswordForm *} 
  Your password has been changed  Sign in  
 Create a new password {* #forgotPasswordForm *} {* forgotPassword_emailAddress *} {* forgotPassword_sendButton *} {* /forgotPasswordForm *} 
- Create a new password  Close  Thanks for verifying your email address.   {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</content> 
-<sequenceId type="str">695203239959</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:59Z</estimatedPublishedDate> 
-<title type="str">Reggae, soft rock help dogs relax, study says</title> 
+ Create a new password  Close  Thanks for verifying your email address.   {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695203239959</DOCID> 
+<DCT type="str">2017-01-29T08:19:59Z</DCT> 
+<TITLE type="str">Reggae, soft rock help dogs relax, study says</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Katie Langford 
+<TEXT type="str">By Katie Langford 
 Saturday, January 28, 2017 
  
 What do a fruit grower, a high school student, a mayor, a teacher and a college student have in common? 
@@ -37,9 +37,8 @@ There were a few moments of visible frustration, and one audience member vocally
  
 But overall, attendants and speakers spoke of the need for unity. 
  
-“It takes each and every one of us to do it, and it takes a lot of hard work,” Norris said.</content> 
-<sequenceId type="str">695194734605</sequenceId> 
-<topics type="list"> 
+“It takes each and every one of us to do it, and it takes a lot of hard work,” Norris said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -48,7 +47,8 @@ But overall, attendants and speakers spoke of the need for unity.
 <group type="str">Regional</group> 
 <name type="str">Nepal news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:03:00Z</estimatedPublishedDate> 
-<title type="str">Community shares views on immigration</title> 
+</TOPICS> 
+<DOCID type="str">695194734605</DOCID> 
+<DCT type="str">2017-01-29T05:03:00Z</DCT> 
+<TITLE type="str">Community shares views on immigration</TITLE> 
 </root>

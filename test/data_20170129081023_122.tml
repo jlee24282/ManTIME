@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Same matchup. Same meet. Same venue.
+<TEXT type="str">Same matchup. Same meet. Same venue.
 
 One year later, Adam Velasquez of Pitman High and Brandon Rhoads of Clovis tumbled into a wrestling deja vu Saturday at the 13th Rumble In the Jungle. They collided in the 132-pound title much, repeating their summit meeting at Pitman High in 2016.
 
@@ -20,9 +20,8 @@ Garcia, a senior, edged Gilroy freshman Nick Villareal 3-2 for his fifth win of 
 
 Oakdale’s Ricky Torres (134) settled for runner-up after he was beaten 9-1 by Poway’s Scott Kiyono, who’s ranked fourth in the state. A third by Jake Ryan and a fourth by Bronson Harmon pushed the Mustangs toward a fourth-place finish in team standings.
 
-Ron Agostini: 209-578-2302, @ModBeeSports</content> 
-<sequenceId type="str">695202559223</sequenceId> 
-<topics type="list"> 
+Ron Agostini: 209-578-2302, @ModBeeSports</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -31,7 +30,8 @@ Ron Agostini: 209-578-2302, @ModBeeSports</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:05Z</estimatedPublishedDate> 
-<title type="str">Wrestling deja vu: Pitman’s Velasquez wins another belt at Rumble</title> 
+</TOPICS> 
+<DOCID type="str">695202559223</DOCID> 
+<DCT type="str">2017-01-29T08:09:05Z</DCT> 
+<TITLE type="str">Wrestling deja vu: Pitman’s Velasquez wins another belt at Rumble</TITLE> 
 </root>

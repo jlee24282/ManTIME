@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DAYTONA BEACH, Fla. – The new Cadillac DPi-V.R has controlled the opening 12 hours of the 55th Rolex 24 at Daytona, with the No. 10 Konica Minolta Cadillac leading most of it. Ricky and Jordan Taylor, Max Angelelli and Jeff Gordon sahre the car. 
+<TEXT type="str">DAYTONA BEACH, Fla. – The new Cadillac DPi-V.R has controlled the opening 12 hours of the 55th Rolex 24 at Daytona, with the No. 10 Konica Minolta Cadillac leading most of it. Ricky and Jordan Taylor, Max Angelelli and Jeff Gordon sahre the car. 
  “The Cadillac is very good,” Ricky Taylor said. “Our DPi-V.R is pretty good drive in the drizzle conditions. We are in the lead and we want to hold it as long as we can. That helps keep you motivated in the car. We want to keep the lead into the morning. It looks we will be racing the No. 5 Cadillac.  We are going to try and hold the gap and keep it clean for the next several hours.”  
 Ford has been up front for most of the race in the GT Le Mans class, but it’s Porsche that has moved ahead with its new 911 RSR at Hour 12. 
  
@@ -12,9 +12,8 @@ There have been eight full-course cautions and six race retirements, all in the 
  
 Track conditions are treacherous with rain causing a slick track surface. 
  
-Follow @TonyDiZinno</content> 
-<sequenceId type="str">695201441093</sequenceId> 
-<topics type="list"> 
+Follow @TonyDiZinno</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -23,7 +22,8 @@ Follow @TonyDiZinno</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:37Z</estimatedPublishedDate> 
-<title type="str">IMSA: Cadillac dominant at 2017 Rolex 24 halfway point</title> 
+</TOPICS> 
+<DOCID type="str">695201441093</DOCID> 
+<DCT type="str">2017-01-29T08:06:37Z</DCT> 
+<TITLE type="str">IMSA: Cadillac dominant at 2017 Rolex 24 halfway point</TITLE> 
 </root>

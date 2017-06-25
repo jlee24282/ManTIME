@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States sparked confusion and anger on Saturday after immigrants and refugees were kept off flights and left stranded in airports. 
+<TEXT type="str">President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States sparked confusion and anger on Saturday after immigrants and refugees were kept off flights and left stranded in airports. 
  
 In his most sweeping decision since taking office a week ago, Trump, a Republican, put a four-month hold on allowing refugees into the United States and temporarily barred travelers from Syria and six other countries. 
  
@@ -80,9 +80,8 @@ US officials, speaking on condition of anonymity, said they were not consulted o
  
 At the State Department, a senior official said lawyers were working to interpret the executive order, which allows entry to people affected by the order when it is in the &quot;national interest.&quot; 
  
-However, a federal law enforcement official said: &quot;It&apos;s unclear at this point what the threshold of national interest is.&quot;</content> 
-<sequenceId type="str">695196633109</sequenceId> 
-<topics type="list"> 
+However, a federal law enforcement official said: &quot;It&apos;s unclear at this point what the threshold of national interest is.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -99,7 +98,8 @@ However, a federal law enforcement official said: &quot;It&apos;s unclear at thi
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:23Z</estimatedPublishedDate> 
-<title type="str">Chaos, anger as Trump order halts some Muslim immigrants</title> 
+</TOPICS> 
+<DOCID type="str">695196633109</DOCID> 
+<DCT type="str">2017-01-29T07:00:23Z</DCT> 
+<TITLE type="str">Chaos, anger as Trump order halts some Muslim immigrants</TITLE> 
 </root>

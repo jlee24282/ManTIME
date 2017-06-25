@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Sacramento Kings defeated the Charlotte Hornets 109 to 106 on January 28, 2017 at Time Warner Cable Arena. The game&apos;s stat leaders were all Kings teammates. DeMarcus Cousins led the game in scoring with 35 points on 13 for 22 shooting. Cousins also cleaned up the glass, pulling down 7 offensive rebounds and 11 defensive rebounds. Ty Lawson led the game in assists, with 9.</content> 
-<sequenceId type="str">695200115766</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The Sacramento Kings defeated the Charlotte Hornets 109 to 106 on January 28, 2017 at Time Warner Cable Arena. The game&apos;s stat leaders were all Kings teammates. DeMarcus Cousins led the game in scoring with 35 points on 13 for 22 shooting. Cousins also cleaned up the glass, pulling down 7 offensive rebounds and 11 defensive rebounds. Ty Lawson led the game in assists, with 9.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - New Orleans Hornets news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: NBA news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:38:13Z</estimatedPublishedDate> 
-<title type="str">Sacramento Kings at Charlotte Hornets</title> 
+</TOPICS> 
+<DOCID type="str">695200115766</DOCID> 
+<DCT type="str">2017-01-29T02:38:13Z</DCT> 
+<TITLE type="str">Sacramento Kings at Charlotte Hornets</TITLE> 
 </root>

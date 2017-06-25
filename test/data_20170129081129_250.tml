@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mikey Garcia produced a &apos;Knockout of the Year&apos; contender as he stopped Dejan Zlaticanin with a thunderous right hand 
+<TEXT type="str">Mikey Garcia produced a &apos;Knockout of the Year&apos; contender as he stopped Dejan Zlaticanin with a thunderous right hand 
 
 Mikey Garcia produced an unbelievable knockout to take the WBC lightweight title away from Dejan Zlaticanin. 
 
@@ -18,9 +18,8 @@ It means &apos;Mikey&apos; has won world titles at three weights and proved he c
 
 To see Garcia&apos;s latest crushing KO, simply click play at the top of the article. 
 
-Mikey Garcia won the WBC lightweight title in brutal fashion</content> 
-<sequenceId type="str">695204870008</sequenceId> 
-<topics type="list"> 
+Mikey Garcia won the WBC lightweight title in brutal fashion</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -29,7 +28,8 @@ Mikey Garcia won the WBC lightweight title in brutal fashion</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:00Z</estimatedPublishedDate> 
-<title type="str">WATCH: Mikey Garcia&apos;s third-round KO of Dejan Zlaticanin</title> 
+</TOPICS> 
+<DOCID type="str">695204870008</DOCID> 
+<DCT type="str">2017-01-29T08:30:00Z</DCT> 
+<TITLE type="str">WATCH: Mikey Garcia&apos;s third-round KO of Dejan Zlaticanin</TITLE> 
 </root>

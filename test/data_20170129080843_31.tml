@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">* Federal judge blocks deportation of dozens from US 
+<TEXT type="str">* Federal judge blocks deportation of dozens from US 
     
 * Two Iraqis say connections to US forces make them targets 
     
@@ -38,9 +38,8 @@ previously approved refugees as well as &quot;approved holders of
 valid immigrant and non-immigrant visas and other individuals
 ... legally authorized to enter the United States&quot; from the
 countries targeted in Trump&apos;s order.
-  Continued...</content> 
-<sequenceId type="str">695198501253</sequenceId> 
-<topics type="list"> 
+  Continued...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -49,7 +48,8 @@ countries targeted in Trump&apos;s order.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:20Z</estimatedPublishedDate> 
-<title type="str">UPDATE 4-Two Iraqis lead legal fight against Trump order blocking entry</title> 
+</TOPICS> 
+<DOCID type="str">695198501253</DOCID> 
+<DCT type="str">2017-01-29T07:44:20Z</DCT> 
+<TITLE type="str">UPDATE 4-Two Iraqis lead legal fight against Trump order blocking entry</TITLE> 
 </root>

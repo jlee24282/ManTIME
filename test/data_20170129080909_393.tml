@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">India A and Under-19 cricket team&apos;s trainer Rajesh Sawant was found dead in his hotel room in Mumbai on Sunday morning. 
+<TEXT type="str">India A and Under-19 cricket team&apos;s trainer Rajesh Sawant was found dead in his hotel room in Mumbai on Sunday morning. 
  
 Sawant, 40, was supposed to report to training ahead of India&apos;s first ODI against England, but since he did not appear, people began looking for him after which he was found dead in his room. 
  
@@ -8,9 +8,8 @@ However, BCCI sources confirmed that Sawant died due to cardiac arrest. Meanwhil
  
 The India U-19 team is scheduled to play five, 50-over games and two four-day games against England. The ODI series will begin from January 30 at the Wankhede Stadium and will end on February 8 at the same ground. 
  
-The 40-year-old had worked as team trainer for the Afghanistan national cricket team as well as with the India A squad.</content> 
-<sequenceId type="str">695200110621</sequenceId> 
-<topics type="list"> 
+The 40-year-old had worked as team trainer for the Afghanistan national cricket team as well as with the India A squad.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -31,7 +30,8 @@ The 40-year-old had worked as team trainer for the Afghanistan national cricket 
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:16Z</estimatedPublishedDate> 
-<title type="str">Physical trainer of India Under-19 cricket team found dead in Mumbai hotel room</title> 
+</TOPICS> 
+<DOCID type="str">695200110621</DOCID> 
+<DCT type="str">2017-01-29T07:51:16Z</DCT> 
+<TITLE type="str">Physical trainer of India Under-19 cricket team found dead in Mumbai hotel room</TITLE> 
 </root>

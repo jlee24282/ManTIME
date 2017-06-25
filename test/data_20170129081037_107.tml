@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Texas, Jan 29: The prestigious battle royal has just got bigger this year with WWE celebrating its 30th anniversary of it, this year. 
+<TEXT type="str">Texas, Jan 29: The prestigious battle royal has just got bigger this year with WWE celebrating its 30th anniversary of it, this year. 
  
 Superstars like Goldberg, Brock Lesnar, The Undertaker and more will be seen participating in the Royal Rumble match. The PPV is scheduled to take place at the Alamodome in San Antonio, Texas. 
   
@@ -46,14 +46,14 @@ Braun Strowman might eliminate Big Show to start their rivalry. Furthermore, Gol
  
 As for surprises, we can expect names like Kurt Angle, Finn Balor, Kenny Omega, Rey Mysterio etc. 
  
-OneIndia News</content> 
-<sequenceId type="str">695202909498</sequenceId> 
-<topics type="list"> 
+OneIndia News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:09:33Z</estimatedPublishedDate> 
-<title type="str">WWE Royal Rumble 2017: Preview, prediction and schedule</title> 
+</TOPICS> 
+<DOCID type="str">695202909498</DOCID> 
+<DCT type="str">2017-01-29T07:09:33Z</DCT> 
+<TITLE type="str">WWE Royal Rumble 2017: Preview, prediction and schedule</TITLE> 
 </root>

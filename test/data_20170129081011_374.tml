@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Spark says mobile issues that have plagued its network today should be resolved. 
+<TEXT type="str">Spark says mobile issues that have plagued its network today should be resolved. 
    
 &quot;Mobile issues including data all resolved now. Thanks for your patience today, we appreciate it,&quot; the company said on Twitter. 
    
@@ -23,9 +23,8 @@ There was allegedly a three hour wait to speak to someone, customer Jess Bollen 
    
 &quot;I cant make any phone calls, not even to Spark and can&apos;t get data either,&quot; another customer, Soph Moore, said. 
    
-The outage was causing problems for those at a joint state of the nation event by Labour and the Greens in Auckland. </content> 
-<sequenceId type="str">695202411276</sequenceId> 
-<topics type="list"> 
+The outage was causing problems for those at a joint state of the nation event by Labour and the Greens in Auckland. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -42,7 +41,8 @@ The outage was causing problems for those at a joint state of the nation event b
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:42Z</estimatedPublishedDate> 
-<title type="str">Spark says mobile problems fixed after frustrating day for customers</title> 
+</TOPICS> 
+<DOCID type="str">695202411276</DOCID> 
+<DCT type="str">2017-01-29T08:13:42Z</DCT> 
+<TITLE type="str">Spark says mobile problems fixed after frustrating day for customers</TITLE> 
 </root>

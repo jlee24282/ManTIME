@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Carl Frampton (Right) loses to Santa Cruz in a rematch 
+<TEXT type="str">Carl Frampton (Right) loses to Santa Cruz in a rematch 
 Carl Frampton suffered the first defeat of his professional career as Leo Santa Cruz won on points to regain the WBA featherweight title in Las Vegas. 
  
 The 28-year-old Mexican got a deserved narrow points verdict in an all-action contest and afterwards promised to fight Frampton for a third time. 
@@ -35,9 +35,8 @@ Santa Cruz said: “I worked hard and did what I had to.
  
 “I am a man of my word. We are both great fighters, we deserve it and let’s go again.” 
  
-Read more</content> 
-<sequenceId type="str">695197555345</sequenceId> 
-<topics type="list"> 
+Read more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -46,7 +45,8 @@ Read more</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:27Z</estimatedPublishedDate> 
-<title type="str">Cruz humbles Frampton in boxing rematch</title> 
+</TOPICS> 
+<DOCID type="str">695197555345</DOCID> 
+<DCT type="str">2017-01-29T07:38:27Z</DCT> 
+<TITLE type="str">Cruz humbles Frampton in boxing rematch</TITLE> 
 </root>

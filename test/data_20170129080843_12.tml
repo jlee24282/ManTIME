@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Terrebonne Fine Arts Guild has selected Sam Richardson as Artist of the Month for February. 
+<TEXT type="str">The Terrebonne Fine Arts Guild has selected Sam Richardson as Artist of the Month for February. 
  
 His exhibit will be on display Feb. 1-24 at Downtown Art Gallery 630, 630 Belanger St. in Houma. Gallery hours are Tuesdays to Fridays from 10 a.m. to 4 p.m. Entry to the gallery is always free. 
  
@@ -20,9 +20,8 @@ The 54th Annual Regional Spring Art Show is scheduled for March 26 through April
  
 Social media: Visit our website at www.TFAG.org. On Facebook, the guild has two sites: Downtown Gallery 630 and Terrebonne Fine Arts Guild. 
  
-Join us: Artists and art lovers are invited to join the guild. Call the gallery at 851-2198 or stop by.</content> 
-<sequenceId type="str">695198469281</sequenceId> 
-<topics type="list"> 
+Join us: Artists and art lovers are invited to join the guild. Call the gallery at 851-2198 or stop by.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -31,7 +30,8 @@ Join us: Artists and art lovers are invited to join the guild. Call the gallery 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:01:00Z</estimatedPublishedDate> 
-<title type="str">Artistes du Terrebonne: Our Artist of the Month loves landscapes</title> 
+</TOPICS> 
+<DOCID type="str">695198469281</DOCID> 
+<DCT type="str">2017-01-29T06:01:00Z</DCT> 
+<TITLE type="str">Artistes du Terrebonne: Our Artist of the Month loves landscapes</TITLE> 
 </root>

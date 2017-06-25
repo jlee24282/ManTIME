@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Victoria has been issued with a total fire ban from midnight tonight. (Country Fire Authority) 
+<TEXT type="str">Victoria has been issued with a total fire ban from midnight tonight. (Country Fire Authority) 
  
 Victoria is bracing itself for an extremely hot and dry day on Monday, with conditions that are feared could lead to serious fires. 
  
@@ -29,9 +29,8 @@ Melbourne can expect a top of 34C with a late cool change and a 40 per cent chan
 Email 
  contact@9news.com.au    
 Large files 
- 9news.wetransfer.com    You can remain anonymous. Click here for more information.  Property News:  Follow these tips to become a master negotiator - realestate.com.au  Property news:  How to set a realistic sale price for your home - realestate.com.au</content> 
-<sequenceId type="str">695199908852</sequenceId> 
-<topics type="list"> 
+ 9news.wetransfer.com    You can remain anonymous. Click here for more information.  Property News:  Follow these tips to become a master negotiator - realestate.com.au  Property news:  How to set a realistic sale price for your home - realestate.com.au</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -40,7 +39,8 @@ Large files
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:14Z</estimatedPublishedDate> 
-<title type="str">Vic to swelter on Monday amid fire fears</title> 
+</TOPICS> 
+<DOCID type="str">695199908852</DOCID> 
+<DCT type="str">2017-01-29T07:55:14Z</DCT> 
+<TITLE type="str">Vic to swelter on Monday amid fire fears</TITLE> 
 </root>

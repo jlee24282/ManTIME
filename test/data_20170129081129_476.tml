@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Queen is to make history when she becomes the first British monarch to reach their Sapphire Jubilee. 
+<TEXT type="str">The Queen is to make history when she becomes the first British monarch to reach their Sapphire Jubilee. 
  
 On February 6 - the anniversary of the day she became Queen  - Elizabeth II will have reigned for 65 years. 
  
@@ -34,14 +34,14 @@ A 41-gun salute will be fired by the King&apos;s Troop Royal Horse Artillery in 
  
 The Band of the Royal Artillery will play a selection of celebratory music close to the firing position, and 89 horses will pull six First World War-era 13-pounder field guns into position in the park. 
  
-A 62-gun salute by the Honourable Artillery Company will be fired at the Tower of London at 1pm.</content> 
-<sequenceId type="str">695205075875</sequenceId> 
-<topics type="list"> 
+A 62-gun salute by the Honourable Artillery Company will be fired at the Tower of London at 1pm.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:14Z</estimatedPublishedDate> 
-<title type="str">Queen to reach Sapphire Jubilee</title> 
+</TOPICS> 
+<DOCID type="str">695205075875</DOCID> 
+<DCT type="str">2017-01-29T08:34:14Z</DCT> 
+<TITLE type="str">Queen to reach Sapphire Jubilee</TITLE> 
 </root>

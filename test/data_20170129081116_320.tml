@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LONDON: British Prime Minister Theresa May does “not agree” with President Donald Trump’s refugee ban and will appeal to the US if the “extreme vetting” affects British citizens, the Downing Street has said. 
+<TEXT type="str">LONDON: British Prime Minister Theresa May does “not agree” with President Donald Trump’s refugee ban and will appeal to the US if the “extreme vetting” affects British citizens, the Downing Street has said. 
  
 May on Saturday was criticised for refusing to condemn Trump’s executive order banning refugees from seven Muslim-majority countries, the BBC reported. 
  
@@ -14,9 +14,8 @@ Heidi Allen, Conservative MP for South Cambridgeshire, tweeted: “Strong leader
  
 Labour Party’s Jeremy Corbyn said the Prime Minister showed “weak failure” in standing up for British values, adding Trump’s order as shocking and appalling. 
  
-–IANS</content> 
-<sequenceId type="str">695204431215</sequenceId> 
-<topics type="list"> 
+–IANS</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -25,7 +24,8 @@ Labour Party’s Jeremy Corbyn said the Prime Minister showed “weak failure”
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:40Z</estimatedPublishedDate> 
-<title type="str">Theresa May finally speaks, says does ‘not agree’ with US ban on refugees</title> 
+</TOPICS> 
+<DOCID type="str">695204431215</DOCID> 
+<DCT type="str">2017-01-29T08:00:40Z</DCT> 
+<TITLE type="str">Theresa May finally speaks, says does ‘not agree’ with US ban on refugees</TITLE> 
 </root>

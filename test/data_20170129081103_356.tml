@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LONDON — Since Brits voted to leave the European Union last June, all manner of different Brexit models — Swiss, Norwegian, Canadian, Hard, Soft, red, white and blue — have been mentioned, but a whole new type of deal has now been suggested by think-tank, the Centre for European Policy. 
+<TEXT type="str">LONDON — Since Brits voted to leave the European Union last June, all manner of different Brexit models — Swiss, Norwegian, Canadian, Hard, Soft, red, white and blue — have been mentioned, but a whole new type of deal has now been suggested by think-tank, the Centre for European Policy. 
  
 In a new research paper, the organisation suggests that the UK could follow a so-called &quot;Ukraine Plus&quot; model and establish a relationship with the EU similar to that of the Eastern European state. 
  
@@ -34,9 +34,8 @@ Roughly  13,500 companies use financial passporting  in relation to the UK with
  
 &quot;The agreement with the Ukraine is unlikely to satisfy the United Kingdom as regards the scope of trade liberalisation because it contains numerous restrictions on market access particularly for cross-border services. The United Kingdom will probably require better access to the EU internal market, primarily in the interests of the British finance industry,&quot; the report notes. 
  
-That&apos;s where the &quot;Plus&quot; comes in, with the UK creating a bespoke deal that includes many of the features of the Ukrainian agreement, but also includes concessions to the banking and finance sectors.</content> 
-<sequenceId type="str">695204057319</sequenceId> 
-<topics type="list"> 
+That&apos;s where the &quot;Plus&quot; comes in, with the UK creating a bespoke deal that includes many of the features of the Ukrainian agreement, but also includes concessions to the banking and finance sectors.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -61,7 +60,8 @@ That&apos;s where the &quot;Plus&quot; comes in, with the UK creating a bespoke 
 <group type="str">Business</group> 
 <name type="str">UK business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:00Z</estimatedPublishedDate> 
-<title type="str">Britain could strike a &apos;Ukraine Plus&apos; style Brexit deal</title> 
+</TOPICS> 
+<DOCID type="str">695204057319</DOCID> 
+<DCT type="str">2017-01-29T08:19:00Z</DCT> 
+<TITLE type="str">Britain could strike a &apos;Ukraine Plus&apos; style Brexit deal</TITLE> 
 </root>

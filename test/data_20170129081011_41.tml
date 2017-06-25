@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arsenal ran riot against Southampton as Danny Welbeck scored a brace for the Gunners after returning to the lineup from a long injury layoff.  
+<TEXT type="str">Arsenal ran riot against Southampton as Danny Welbeck scored a brace for the Gunners after returning to the lineup from a long injury layoff.  
 The English international suffered two consecutive knee injuries that kept him out of the side for a long period of time and only made a return to action this month after  nearly a year out of the game. 
    
 Theo Walcott picked up a rare hat-trick while Welbeck scored a brace as Arsenal completely dominated a team that was running high on confidence having just knocked Liverpool out of the EFL Cup with an impressive performance. 
@@ -19,9 +19,8 @@ Welbeck is a popular figure both inside and outside of Arsenal and many neutrals
  
 Theo Walcott’s hat-trick will also provide some cheer to Arsenal fans after the winger’s fine form this season was interrupted by a string of injuries. Arsene Wenger will be hoping the Englishman can stay fit for the rest of the season. 
   
-It was a good night for the Gunners and despite Wenger having to watch from the stands there were plenty of smiles all around.</content> 
-<sequenceId type="str">695202113805</sequenceId> 
-<topics type="list"> 
+It was a good night for the Gunners and despite Wenger having to watch from the stands there were plenty of smiles all around.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -46,7 +45,8 @@ It was a good night for the Gunners and despite Wenger having to watch from the 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:43Z</estimatedPublishedDate> 
-<title type="str">Arsene Wenger hails Danny Welbeck after Arsenal thrash Southampton 5-0</title> 
+</TOPICS> 
+<DOCID type="str">695202113805</DOCID> 
+<DCT type="str">2017-01-29T07:46:43Z</DCT> 
+<TITLE type="str">Arsene Wenger hails Danny Welbeck after Arsenal thrash Southampton 5-0</TITLE> 
 </root>

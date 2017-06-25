@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Norwegian Air may be flying out of Providence to Ireland for as little as $69 each way.
+<TEXT type="str">Norwegian Air may be flying out of Providence to Ireland for as little as $69 each way.
 
 A story in the Irish Central wrote, &quot;Low-cost Norwegian Air will be starting their flights to Ireland from July…the announcement will be made in the next few weeks with last-minute details to work out.&quot;
 
@@ -10,9 +10,8 @@ As GoLocal wrote in December about Ahmad, &quot;This September, the Rhode Island
 
 Ahmad is seen as one of the 17 to Watch in 2017 (See Below).
 
-&quot;There appears to be three airports under consideration for the Boston area flights TF Green Airport in Warwick Rhode Island, Bradley International Airport in Windsor Locks, Conn., and Portsmouth International Airport in New Hampshire,&quot; writes the Irish Central.</content> 
-<sequenceId type="str">695198455390</sequenceId> 
-<topics type="list"> 
+&quot;There appears to be three airports under consideration for the Boston area flights TF Green Airport in Warwick Rhode Island, Bradley International Airport in Windsor Locks, Conn., and Portsmouth International Airport in New Hampshire,&quot; writes the Irish Central.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Providence news</name> 
@@ -37,7 +36,8 @@ Ahmad is seen as one of the 17 to Watch in 2017 (See Below).
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:00Z</estimatedPublishedDate> 
-<title type="str">Providence On Short List for Norwegian Air Flights to Ireland for $69 Each Way</title> 
+</TOPICS> 
+<DOCID type="str">695198455390</DOCID> 
+<DCT type="str">2017-01-29T07:22:00Z</DCT> 
+<TITLE type="str">Providence On Short List for Norwegian Air Flights to Ireland for $69 Each Way</TITLE> 
 </root>

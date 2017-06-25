@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Why did The Neighborhood Center succeed? Because like Hope Place, it had its ducks in a row.
+<TEXT type="str">Why did The Neighborhood Center succeed? Because like Hope Place, it had its ducks in a row.
 
 Last week, the local leaders responsible for Hope Place, a new facility in Daytona Beach for homeless families with children, held a groundbreaking ceremony at the former Hurst Elementary School. It was symbolically important, not just for what it means for Hope Place, but also for showing the community what can — and must — be accomplished with regard to other sectors of homelessness.
 
@@ -22,9 +22,8 @@ Why did The Neighborhood Center succeed? Because like Hope Place, it had its duc
 
 Meanwhile, Daytona Beach, the county, other municipalities and the social services community continue to be fractured over a solution for the hardcore homeless, such as whether it should be a comprehensive shelter (and where it would be located) or a housing-first approach. Plenty of ideas have been batted around, but there’s been no consensus. No leader has emerged to rally stakeholders around a strategy, and until that happens there will be no funding available.
 
-As its name implies, Hope Place provides optimism for those in need. But it also provides the prospect that its template can be used to effect positive change in other areas of homelessness.</content> 
-<sequenceId type="str">695194827475</sequenceId> 
-<topics type="list"> 
+As its name implies, Hope Place provides optimism for those in need. But it also provides the prospect that its template can be used to effect positive change in other areas of homelessness.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -33,7 +32,8 @@ As its name implies, Hope Place provides optimism for those in need. But it also
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">OUR VIEW: Hope for the homeless</title> 
+</TOPICS> 
+<DOCID type="str">695194827475</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">OUR VIEW: Hope for the homeless</TITLE> 
 </root>

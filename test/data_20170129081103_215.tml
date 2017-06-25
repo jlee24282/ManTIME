@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One dead and five injured after fleeing driver accident in Auckland. 
+<TEXT type="str">One dead and five injured after fleeing driver accident in Auckland. 
   
 Police have named 32-year-old Eden Hoey as the victim of a  on Saturday night. 
  
@@ -26,14 +26,14 @@ Singh said at least three police cars were still at the scene, and Great South R
  
 The crash came after another in Gore, . 
  
- </content> 
-<sequenceId type="str">695203932008</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:11Z</estimatedPublishedDate> 
-<title type="str">Three-car crash kills one man</title> 
+</TOPICS> 
+<DOCID type="str">695203932008</DOCID> 
+<DCT type="str">2017-01-29T08:25:11Z</DCT> 
+<TITLE type="str">Three-car crash kills one man</TITLE> 
 </root>

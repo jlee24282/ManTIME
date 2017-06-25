@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Recent events hosted by the ANC, along with its women’s and youth leagues, have been marred by controversies centred mainly on unpaid service providers. 
+<TEXT type="str">Recent events hosted by the ANC, along with its women’s and youth leagues, have been marred by controversies centred mainly on unpaid service providers. 
  
 At times, payments were made late; at other times, not at all. 
  
@@ -34,9 +34,8 @@ As is evident already, the loss of the Tshwane, Johannesburg and Nelson Mandela 
  
 Should the ANC lose control of more provinces, it will also lose the patronage it was able to dish out to businesses amenable to the party. Such businesses are unlikely to survive. 
  
-Follow me on Twitter @DumisaneLubisi</content> 
-<sequenceId type="str">695198443086</sequenceId> 
-<topics type="list"> 
+Follow me on Twitter @DumisaneLubisi</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -45,7 +44,8 @@ Follow me on Twitter @DumisaneLubisi</content>
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:43Z</estimatedPublishedDate> 
-<title type="str">What will ANC’s quid pro quo be after 2019?</title> 
+</TOPICS> 
+<DOCID type="str">695198443086</DOCID> 
+<DCT type="str">2017-01-29T07:43:43Z</DCT> 
+<TITLE type="str">What will ANC’s quid pro quo be after 2019?</TITLE> 
 </root>

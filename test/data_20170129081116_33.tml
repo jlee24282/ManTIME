@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Phoenix star Roly Bonevacia. 
+<TEXT type="str">Phoenix star Roly Bonevacia. 
    
 The Phoenix head to Australia with high hopes of a win against competition straggler Adelaide. 
  
- </content> 
-<sequenceId type="str">695204253844</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:32Z</estimatedPublishedDate> 
-<title type="str">Recap: Phoenix v Adelaide Utd</title> 
+</TOPICS> 
+<DOCID type="str">695204253844</DOCID> 
+<DCT type="str">2017-01-29T08:27:32Z</DCT> 
+<TITLE type="str">Recap: Phoenix v Adelaide Utd</TITLE> 
 </root>

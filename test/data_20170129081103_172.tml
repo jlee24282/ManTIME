@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Russian President Vladimir Putin and his U.S. counterpart Donald Trump had a phone conversation during which they planned to meet in person, NY Times reported. 
+<TEXT type="str">Russian President Vladimir Putin and his U.S. counterpart Donald Trump had a phone conversation during which they planned to meet in person, NY Times reported. 
  
 The “congratulatory call” with Putin lasted an hour, during which the sides talked about stabilizing the relationship between the two nations and several other subjects. Trump and Putin discussed “partnership” on a wide range of international issues, including wars in the Middle East, the Israeli-Palestinian conflict, Iran’s nuclear program. Some of the other issues included restoring trade ties, international terrorism, the situations in Ukraine and the Korean Peninsula, and the coordination of military action against ISIS and other terrorist groups in Syria. 
  
@@ -9,9 +9,8 @@ The Kremlin call didn&apos;t specifically mention U.S. sanctions against Russia.
 “Donald Trump asked to convey wishes of happiness and prosperity to the Russian people, mentioning that the American people hold Russia and her citizens in sympathetic regard,” the Kremlin said. 
  
 Vladimir Putin, for his part, emphasized that in Russia there are analogous feelings toward Americans He recalled that for the span of two centuries our nation had supported America, been allies in two world wars, and now views the US as its most important partner in the fight against international terrorism. 
- Armenia News - NEWS.am</content> 
-<sequenceId type="str">695203871673</sequenceId> 
-<topics type="list"> 
+ Armenia News - NEWS.am</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -20,7 +19,8 @@ Vladimir Putin, for his part, emphasized that in Russia there are analogous feel
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:13Z</estimatedPublishedDate> 
-<title type="str">What Trump and Putin discuss?</title> 
+</TOPICS> 
+<DOCID type="str">695203871673</DOCID> 
+<DCT type="str">2017-01-29T05:00:13Z</DCT> 
+<TITLE type="str">What Trump and Putin discuss?</TITLE> 
 </root>

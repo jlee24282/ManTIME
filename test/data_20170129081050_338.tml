@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cape Town A man was shot dead after he and two accomplices hijacked an Audi in Rosettenville, Johannesburg metro police said on Saturday. The three had hijacked the vehicle in Phillips Street on Friday evening before speeding off, Chief Superintendent Wayne Minnaar said. Start the conversation, or Read more at News24. Source link</content> 
-<sequenceId type="str">695203523145</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Cape Town A man was shot dead after he and two accomplices hijacked an Audi in Rosettenville, Johannesburg metro police said on Saturday. The three had hijacked the vehicle in Phillips Street on Friday evening before speeding off, Chief Superintendent Wayne Minnaar said. Start the conversation, or Read more at News24. Source link</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Johannesburg news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:12:57Z</estimatedPublishedDate> 
-<title type="str">.com | Hijacker with fake gun shot dead in Joburg – News24</title> 
+</TOPICS> 
+<DOCID type="str">695203523145</DOCID> 
+<DCT type="str">2017-01-29T00:12:57Z</DCT> 
+<TITLE type="str">.com | Hijacker with fake gun shot dead in Joburg – News24</TITLE> 
 </root>

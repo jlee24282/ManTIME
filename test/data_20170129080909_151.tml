@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695199802595</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:08:50Z</estimatedPublishedDate> 
-<title type="str">The eyes have it: Juggling-ballet act debuts in US</title> 
+</TOPICS> 
+<DOCID type="str">695199802595</DOCID> 
+<DCT type="str">2017-01-29T00:08:50Z</DCT> 
+<TITLE type="str">The eyes have it: Juggling-ballet act debuts in US</TITLE> 
 </root>

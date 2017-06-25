@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Loading Map.... 
+<TEXT type="str">Loading Map.... 
  Alumni Gymnasium inside Sutcliffe Hall 
 309 S. College Street - Danville 
 Details  
@@ -18,9 +18,8 @@ Categories
   
 CONFERENCE GAME 
 Come out and cheer on our Colonels! 
- </content> 
-<sequenceId type="str">695203571852</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ Come out and cheer on our Colonels!
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:33Z</estimatedPublishedDate> 
-<title type="str">Women’s Basketball vs. Millsaps College</title> 
+</TOPICS> 
+<DOCID type="str">695203571852</DOCID> 
+<DCT type="str">2017-01-29T08:22:33Z</DCT> 
+<TITLE type="str">Women’s Basketball vs. Millsaps College</TITLE> 
 </root>

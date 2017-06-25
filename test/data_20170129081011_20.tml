@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Manchester United captain Wayne Rooney is entering the latter stages of an illustrious playing career.
+<TEXT type="str">Manchester United captain Wayne Rooney is entering the latter stages of an illustrious playing career.
 
 The 31-year-old, who last week scored a club record 250th goal for United, admits he is tempted by a career in management.
 
@@ -10,9 +10,8 @@ And Dublin thinks Rooney’s experience at the top of the game makes him a credi
 
 “From the make-up in players that we’ve seen over the years, you think ‘I’m not sure he’ll be a manager’,” Dublin told Football Focus.
 
-“I never thought Paul Ince would be...</content> 
-<sequenceId type="str">695202096694</sequenceId> 
-<topics type="list"> 
+“I never thought Paul Ince would be...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester United news</name> 
@@ -29,7 +28,8 @@ And Dublin thinks Rooney’s experience at the top of the game makes him a credi
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:25Z</estimatedPublishedDate> 
-<title type="str">Pundit makes big prediction about Manchester United captain Wayne Rooney</title> 
+</TOPICS> 
+<DOCID type="str">695202096694</DOCID> 
+<DCT type="str">2017-01-29T08:11:25Z</DCT> 
+<TITLE type="str">Pundit makes big prediction about Manchester United captain Wayne Rooney</TITLE> 
 </root>

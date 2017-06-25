@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was reported earlier that US President Donald Trump had to give up his Android device for a secure, Secret Service-vetted mobile device. It turns out however, that Trump has in fact decided to continue using his Android phone . 
+<TEXT type="str">It was reported earlier that US President Donald Trump had to give up his Android device for a secure, Secret Service-vetted mobile device. It turns out however, that Trump has in fact decided to continue using his Android phone . 
  
 The exact model of Trump’s phone is unknown, but it’s speculated to be a Samsung Galaxy S3. If you’re interested, the S3 has a 4.8-inch Amoled display with an HD resolution. The device up to 64GB of onboard memory, a 1.4GHz Exynos 4412 SoC and 1GB of RAM. 
  
@@ -18,9 +18,8 @@ The White House and the Secret Service have apparently refused to comment on the
  
 If that’s not bad enough, two of Trump’s advisors have been reported (by Newsweek ) to be using private email servers for all their emails, including official ones. It was on the charge of using a private email server that Hillary Clinton was investigated by the FBI. 
  
-Tags:  Android , android phone , Android Security , CIA , Donald Trump , FBI , Secret Service , US President</content> 
-<sequenceId type="str">695196153435</sequenceId> 
-<topics type="list"> 
+Tags:  Android , android phone , Android Security , CIA , Donald Trump , FBI , Secret Service , US President</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -41,7 +40,8 @@ Tags:  Android , android phone , Android Security , CIA , Donald Trump , FBI , S
 <group type="str">Technology</group> 
 <name type="str">Android news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:25Z</estimatedPublishedDate> 
-<title type="str">Donald Trump’s unsecured Android phone can be turned into a spy cam: ...</title> 
+</TOPICS> 
+<DOCID type="str">695196153435</DOCID> 
+<DCT type="str">2017-01-29T07:27:25Z</DCT> 
+<TITLE type="str">Donald Trump’s unsecured Android phone can be turned into a spy cam: ...</TITLE> 
 </root>

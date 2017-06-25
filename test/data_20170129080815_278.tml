@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In his first week in office, United States President Donald Trump signalled his intent to tighten control on federal funding for and public dissemination of scientific research, a move that appears to be aimed primarily at climate change and energy policy. 
+<TEXT type="str">In his first week in office, United States President Donald Trump signalled his intent to tighten control on federal funding for and public dissemination of scientific research, a move that appears to be aimed primarily at climate change and energy policy. 
 
 By the end of the week, fears that a media blackout was in the works had softened a bit. But the continuing prospect of a funding freeze for grants and contracts of the United States Environmental Protection Agency, or EPA, threatens to &quot;disrupt core operations ranging from toxic clean-ups to water quality testing&quot;, according to ProPublica, a non-profit news organisation. 
 
@@ -44,9 +44,8 @@ Scientists around the country began planning to protest Trump&apos;s anti-scienc
 
 &quot;Politicians who devalue expertise risk making decisions that do not reflect reality and must be held accountable. An American government that ignores science to pursue ideological agendas endangers the world.&quot; 
 
-Organisers said they would provide details and updates by Monday 30 January.</content> 
-<sequenceId type="str">695197536604</sequenceId> 
-<topics type="list"> 
+Organisers said they would provide details and updates by Monday 30 January.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Climate change news</name> 
@@ -55,7 +54,8 @@ Organisers said they would provide details and updates by Monday 30 January.</co
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-27T15:42:54Z</estimatedPublishedDate> 
-<title type="str">Trump to tighten control of research and dissemination</title> 
+</TOPICS> 
+<DOCID type="str">695197536604</DOCID> 
+<DCT type="str">2017-01-27T15:42:54Z</DCT> 
+<TITLE type="str">Trump to tighten control of research and dissemination</TITLE> 
 </root>

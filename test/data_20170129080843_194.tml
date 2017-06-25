@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Kuwait bourse’s rally lost steam on Thursday as it wound up the week with modest gains. The price index climbed 33.21 pts in volatile trade to 6,852.3 pts even as profit taking dragged some of the heavyweights even as some of the mid and small caps shone on speculative buying. 
+<TEXT type="str">Kuwait bourse’s rally lost steam on Thursday as it wound up the week with modest gains. The price index climbed 33.21 pts in volatile trade to 6,852.3 pts even as profit taking dragged some of the heavyweights even as some of the mid and small caps shone on speculative buying. 
 
 The KSX 15 benchmark fell 4.91 pts to 987.7 pts trimming the month’s gains to 102 points while weighted index edged 0.38 pts lower. The volume turnover meanwhile swelled again after Wednesday’s pull back. 783.9 million shares changed hands — 9.33 pct rise from Wednesday. 
 
@@ -52,9 +52,8 @@ Jeeran Holding Co has logged a net profit of KD 431,750 and earnings per share o
 
 Kuwait Building Materials Mfg has registered a net profit of KD 159,204 and earnings per share of 5.3 fils in the January-September period as against net profit of KD 363,059 and earnings per share of 12 fils in the same period last year. 
 
-Hilal Cement Company has logged a net loss of KD 3,709 and loss per share of 0.04 fil in the January-September period of 2016 narrowing from a net loss of KD 117,151 and LPS of 1.39 fils in same period in 2</content> 
-<sequenceId type="str">695198712268</sequenceId> 
-<topics type="list"> 
+Hilal Cement Company has logged a net loss of KD 3,709 and loss per share of 0.04 fil in the January-September period of 2016 narrowing from a net loss of KD 117,151 and LPS of 1.39 fils in same period in 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Real estate news</name> 
@@ -83,7 +82,8 @@ Hilal Cement Company has logged a net loss of KD 3,709 and loss per share of 0.0
 <group type="str">Business</group> 
 <name type="str">Middle Eastern business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:52Z</estimatedPublishedDate> 
-<title type="str">Kuwait’s bourse rally slackens; volume up – Gulf Bank slips 10 fils; Portland Cement gains</title> 
+</TOPICS> 
+<DOCID type="str">695198712268</DOCID> 
+<DCT type="str">2017-01-29T07:45:52Z</DCT> 
+<TITLE type="str">Kuwait’s bourse rally slackens; volume up – Gulf Bank slips 10 fils; Portland Cement gains</TITLE> 
 </root>

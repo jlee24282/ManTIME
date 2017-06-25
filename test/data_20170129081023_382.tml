@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump will speak by phone with the leaders of Saudi Arabia and the United A</content> 
-<sequenceId type="str">695202738778</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">US President Donald Trump will speak by phone with the leaders of Saudi Arabia and the United A</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">South Korea news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:13Z</estimatedPublishedDate> 
-<title type="str">Trump Sets Calls with Leaders of Saudi Arabia, UAE, SKorea</title> 
+</TOPICS> 
+<DOCID type="str">695202738778</DOCID> 
+<DCT type="str">2017-01-29T08:16:13Z</DCT> 
+<TITLE type="str">Trump Sets Calls with Leaders of Saudi Arabia, UAE, SKorea</TITLE> 
 </root>

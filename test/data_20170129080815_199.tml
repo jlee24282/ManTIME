@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Stay is a partial block to order, with judge not ruling on the constitutionality of new law A federal judge in the US has granted a stay on deportations for people who arrived in the US with valid visas but were detained on entry, following president Donald Trump’s executive order to halt travel from seven Muslim-majority countries.
+<TEXT type="str">Stay is a partial block to order, with judge not ruling on the constitutionality of new law A federal judge in the US has granted a stay on deportations for people who arrived in the US with valid visas but were detained on entry, following president Donald Trump’s executive order to halt travel from seven Muslim-majority countries.
 
 The stay is only a partial block to the broader executive order, with the judge stopping short of a broader ruling on its constitutionality. 
 
@@ -80,9 +80,8 @@ Several hundred people waited for the verdict outside the courthouse, holding si
 
 Similar protests were replicated at more than a dozen airports around the country. Hundreds of people gathered to demonstrate at Kennedy airport in New York and the international ports in Los Angeles, San Francisco, Houston, Philadelphia and other cities where people were detained and families separated overnight. 
 
-Multiple immigration lawyers were also at airports, offering their services pro-bono to those detained. The Guardian</content> 
-<sequenceId type="str">695197479996</sequenceId> 
-<topics type="list"> 
+Multiple immigration lawyers were also at airports, offering their services pro-bono to those detained. The Guardian</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -99,7 +98,8 @@ Multiple immigration lawyers were also at airports, offering their services pro-
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:41Z</estimatedPublishedDate> 
-<title type="str">Trump Muslim country travel ban: judge temporarily halts deportations</title> 
+</TOPICS> 
+<DOCID type="str">695197479996</DOCID> 
+<DCT type="str">2017-01-29T07:32:41Z</DCT> 
+<TITLE type="str">Trump Muslim country travel ban: judge temporarily halts deportations</TITLE> 
 </root>

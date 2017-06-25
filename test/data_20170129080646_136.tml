@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arsenal boss, Arsene Wenger, has praised Danny Welbeck after the England striker’s fine performance, in their 5-0 win over Southampton in the FA Cup on Saturday. 
+<TEXT type="str">Arsenal boss, Arsene Wenger, has praised Danny Welbeck after the England striker’s fine performance, in their 5-0 win over Southampton in the FA Cup on Saturday. 
  
 Welbeck, who was making his first start in eight months, scored the first two goals and set up the third, as the Gunners cruised to victory at St Marys Stadium. 
  
@@ -18,9 +18,8 @@ The Frenchman said: “Danny Welbeck was very sharp because he has been working 
  
 On watching his team play from the stands, Wenger added: “You miss something. I have spent so much time on the bench that physically it is difficult to be far away, but the most important thing is Arsenal to win.” 
  
-Top Stories</content> 
-<sequenceId type="str">695194349626</sequenceId> 
-<topics type="list"> 
+Top Stories</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -29,7 +28,8 @@ Top Stories</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:07:01Z</estimatedPublishedDate> 
-<title type="str">Wenger hails &quot;marvellous&quot; Welbeck after striker&apos;s display against Southampton</title> 
+</TOPICS> 
+<DOCID type="str">695194349626</DOCID> 
+<DCT type="str">2017-01-29T07:07:01Z</DCT> 
+<TITLE type="str">Wenger hails &quot;marvellous&quot; Welbeck after striker&apos;s display against Southampton</TITLE> 
 </root>

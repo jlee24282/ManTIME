@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LOS ANGELES &gt;&gt; The NHL is likely to skip the Pyeongchang Olympics unless something big changes in the next few months. 
+<TEXT type="str">LOS ANGELES &gt;&gt; The NHL is likely to skip the Pyeongchang Olympics unless something big changes in the next few months. 
  
 The league’s owners are still leaning against allowing the world’s top hockey players to participate in the Olympics next year, NHL deputy commissioner Bill Daly said Saturday. 
  
@@ -31,9 +31,8 @@ The players gathered in Los Angeles for All-Star weekend are unanimously hopeful
  
 Washington Capitals captain Alex Ovechkin has previously said that he would play for Russia in Pyeongchang even if the league didn’t shut down. He didn’t repeat that declaration Saturday, one day after being recognized as one of the 100 greatest players in NHL history, but he left no doubt he wants to be there. 
  
-“I’m pretty sure everybody wants to go,” Ovechkin said. “When I talk to the guys from my team in Washington, everybody wants to go. I think it’s great for hockey, great for us and great for our countries.”</content> 
-<sequenceId type="str">695194917933</sequenceId> 
-<topics type="list"> 
+“I’m pretty sure everybody wants to go,” Ovechkin said. “When I talk to the guys from my team in Washington, everybody wants to go. I think it’s great for hockey, great for us and great for our countries.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
@@ -50,7 +49,8 @@ Washington Capitals captain Alex Ovechkin has previously said that he would play
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:35:37Z</estimatedPublishedDate> 
-<title type="str">NHL brass still leaning against Olympic shutdown in 2018</title> 
+</TOPICS> 
+<DOCID type="str">695194917933</DOCID> 
+<DCT type="str">2017-01-29T00:35:37Z</DCT> 
+<TITLE type="str">NHL brass still leaning against Olympic shutdown in 2018</TITLE> 
 </root>

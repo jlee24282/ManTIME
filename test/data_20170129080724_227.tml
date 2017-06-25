@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Area codes are 518 unless noted. See more calendar listings at www.troyrecord.com/community. Submit items two weeks in advance to calendar@troyrecord.com. 
+<TEXT type="str">Area codes are 518 unless noted. See more calendar listings at www.troyrecord.com/community. Submit items two weeks in advance to calendar@troyrecord.com. 
  
 conditions. 
  Sunday, Jan. 29  
@@ -255,9 +255,8 @@ SUNY POLY CMOST: Did you know that SUNY Poly’s Children’s Museum of Science 
  
 Thursday, Feb. 23 
  
-SUNY POLY CMOST: Help your child improve motor skills and increase his or her understanding of how the world works. Join SUNY Poly’s Children’s Museum of Science and Technology in the GE Junior Discovery room for a hands-on sensory science activity. February 23, “Color Wonders,” 10 a.m. to 11:30 a.m. No pre-registration required, activity included with museum admission. For ages 2-6. 250 Jordan Road, Troy.</content> 
-<sequenceId type="str">695195823662</sequenceId> 
-<topics type="list"> 
+SUNY POLY CMOST: Help your child improve motor skills and increase his or her understanding of how the world works. Join SUNY Poly’s Children’s Museum of Science and Technology in the GE Junior Discovery room for a hands-on sensory science activity. February 23, “Color Wonders,” 10 a.m. to 11:30 a.m. No pre-registration required, activity included with museum admission. For ages 2-6. 250 Jordan Road, Troy.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Belgium news</name> 
@@ -274,7 +273,8 @@ SUNY POLY CMOST: Help your child improve motor skills and increase his or her un
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:25:00Z</estimatedPublishedDate> 
-<title type="str">Troy community calendar for Jan. 29</title> 
+</TOPICS> 
+<DOCID type="str">695195823662</DOCID> 
+<DCT type="str">2017-01-29T06:25:00Z</DCT> 
+<TITLE type="str">Troy community calendar for Jan. 29</TITLE> 
 </root>

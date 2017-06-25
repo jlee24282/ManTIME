@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">.
+<TEXT type="str">.
 
-Judalon was a resident of Lakeland, Florida at the time of her passing.</content> 
-<sequenceId type="str">695196758154</sequenceId> 
-<topics type="list"> 
+Judalon was a resident of Lakeland, Florida at the time of her passing.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Tampa Bay Area news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Judalon Wagner Ryan, 63, Lakeland, Florida</title> 
+</TOPICS> 
+<DOCID type="str">695196758154</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Judalon Wagner Ryan, 63, Lakeland, Florida</TITLE> 
 </root>

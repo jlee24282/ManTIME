@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A diet of corn is turning wild hamsters in northeastern France into deranged cannibals that devour their offspring, alarmed researchers have reported. 
+<TEXT type="str">A diet of corn is turning wild hamsters in northeastern France into deranged cannibals that devour their offspring, alarmed researchers have reported. 
  
 “There’s clearly an imbalance,” Gerard Baumgart, President of the Research Centre for Environmental Protection in Alsace, and an expert on the European hamster, said. 
  
@@ -58,9 +58,8 @@ Vitamin B3 deficiency has been linked to ‘black-tongue’ syndrome in dogs, an
  
 Pellagra is thought to have decimated some three million people in North America and Europe from the mid-18th to the mid-20th century. 
  
-The dire consequences of the B3-deficient corn diet, the scientists concluded, stemmed not from reduced maternal hormones, but rather a change in the nervous system that induced the same “dementia-like” behaviour diagnosed in humans.</content> 
-<sequenceId type="str">695200512695</sequenceId> 
-<topics type="list"> 
+The dire consequences of the B3-deficient corn diet, the scientists concluded, stemmed not from reduced maternal hormones, but rather a change in the nervous system that induced the same “dementia-like” behaviour diagnosed in humans.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Agriculture news</name> 
@@ -73,7 +72,8 @@ The dire consequences of the B3-deficient corn diet, the scientists concluded, s
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:08Z</estimatedPublishedDate> 
-<title type="str">Corn may be turning French hamsters into deranged cannibals</title> 
+</TOPICS> 
+<DOCID type="str">695200512695</DOCID> 
+<DCT type="str">2017-01-29T07:57:08Z</DCT> 
+<TITLE type="str">Corn may be turning French hamsters into deranged cannibals</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dave, a Liverpool fan, was outraged. Ringing a national radio station after the midweek defeat by Southampton, he called for Jurgen Klopp to be sacked. 
+<TEXT type="str">Dave, a Liverpool fan, was outraged. Ringing a national radio station after the midweek defeat by Southampton, he called for Jurgen Klopp to be sacked. 
  
 With an accent that sounded more Thames Estuary than Scouse, it was difficult to know if it was a gigantic wind-up. 
  
@@ -76,9 +76,8 @@ But if Liverpool’s boss doesn’t act, he will find more echoing the same.
   
 poll loading 
  Liverpool fans, is top four good enough this season?  0+ VOTES SO FAR  
-YES  NO</content> 
-<sequenceId type="str">695203094537</sequenceId> 
-<topics type="list"> 
+YES  NO</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
@@ -87,7 +86,8 @@ YES  NO</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:34Z</estimatedPublishedDate> 
-<title type="str">Jurgen Klopp MUST discover some defensive resolve or more Liverpool fans will start losing faith</title> 
+</TOPICS> 
+<DOCID type="str">695203094537</DOCID> 
+<DCT type="str">2017-01-29T08:07:34Z</DCT> 
+<TITLE type="str">Jurgen Klopp MUST discover some defensive resolve or more Liverpool fans will start losing faith</TITLE> 
 </root>

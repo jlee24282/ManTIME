@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Scientists have found a 38,000-year-old engraved art in a rockshelter - bearing the image of a wild cow surrounded by rows of dots - that offers a window into the lives of modern humans during the period.</content> 
-<sequenceId type="str">695198884936</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Scientists have found a 38,000-year-old engraved art in a rockshelter - bearing the image of a wild cow surrounded by rows of dots - that offers a window into the lives of modern humans during the period.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Science</group> 
 <name type="str">Human science news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:14Z</estimatedPublishedDate> 
-<title type="str">38k-yr-old cave art may be window to early modern human life</title> 
+</TOPICS> 
+<DOCID type="str">695198884936</DOCID> 
+<DCT type="str">2017-01-29T07:35:14Z</DCT> 
+<TITLE type="str">38k-yr-old cave art may be window to early modern human life</TITLE> 
 </root>

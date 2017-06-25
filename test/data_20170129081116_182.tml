@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WILDER, Idaho - A 20-year-old city councilor who was one of the youngest people ever elected in Idaho, has died after being involved in a car accident. 
+<TEXT type="str">WILDER, Idaho - A 20-year-old city councilor who was one of the youngest people ever elected in Idaho, has died after being involved in a car accident. 
  
 Wilder City Councilor Ismael Fernandez died Friday in a collision in Canyon County, according to the Idaho Press-Tribune. 
  
@@ -20,14 +20,14 @@ Wilder has about 1,500 residents and is located in southwestern Idaho near the O
  
 Fernandez was traveling west on Highway 19 when he crossed the center line and crashed into a truck hauling two trailers loaded with beets, the Idaho State Police said. 
  
-He was ejected from his car despite wearing a seat belt and died a short time later at Saint Alphonsus Regional Medical Center in Boise.</content> 
-<sequenceId type="str">695204348867</sequenceId> 
-<topics type="list"> 
+He was ejected from his car despite wearing a seat belt and died a short time later at Saint Alphonsus Regional Medical Center in Boise.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Local government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Wilder city councilor dies in crash</title> 
+</TOPICS> 
+<DOCID type="str">695204348867</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Wilder city councilor dies in crash</TITLE> 
 </root>

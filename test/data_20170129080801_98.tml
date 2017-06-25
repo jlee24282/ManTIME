@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Trump&apos;s action limiting refugee flow challenged after leaving refugees hoping to enter US legally in limbo  
+<TEXT type="str">President Trump&apos;s action limiting refugee flow challenged after leaving refugees hoping to enter US legally in limbo  
 World Bulletin / News Desk 
  
 Pro-immigration lawyers in New York City sued Saturday to stall a travel ban enacted by President Donald Trump after two Iraqis were detained at John F. Kennedy International Airport and denied entry into the country despite having legal visas. 
@@ -15,9 +15,8 @@ It wasn&apos;t immediately clear Saturday morning how many people scheduled to a
  
 Trump signed an executive action Wednesday to deport undocumented immigrants involved in criminal activity, and another Friday that limits the flow of refugees into the U.S. as a measure against what he called &quot;radical Islamic terrorists&quot;. 
  
-The second action reportedly involves a months-long entry ban on people from several blacklisted Middle Eastern countries, although President Trump said Christians living in Muslim-majority nations would be given priority to enter the U.S.</content> 
-<sequenceId type="str">695197015420</sequenceId> 
-<topics type="list"> 
+The second action reportedly involves a months-long entry ban on people from several blacklisted Middle Eastern countries, although President Trump said Christians living in Muslim-majority nations would be given priority to enter the U.S.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -34,7 +33,8 @@ The second action reportedly involves a months-long entry ban on people from sev
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:17Z</estimatedPublishedDate> 
-<title type="str">Denied US entry, 2 Iraqis sue against executive order</title> 
+</TOPICS> 
+<DOCID type="str">695197015420</DOCID> 
+<DCT type="str">2017-01-29T07:34:17Z</DCT> 
+<TITLE type="str">Denied US entry, 2 Iraqis sue against executive order</TITLE> 
 </root>

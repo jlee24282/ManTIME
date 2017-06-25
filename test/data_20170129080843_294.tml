@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- American Hockey League (AHL) - Utica Comets News Release 
+<TEXT type="str">- American Hockey League (AHL) - Utica Comets News Release 
  
 Utica, NY - The Utica Comets suffered a 4-3 shootout loss to the Syracuse Crunch Saturday night at the Utica Memorial Auditorium. 
  
@@ -26,9 +26,8 @@ For the latest Comets news visit www.uticacomets.com or follow the team on Faceb
 Tweet 
 
  
-The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</content> 
-<sequenceId type="str">695198805950</sequenceId> 
-<topics type="list"> 
+The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
@@ -37,7 +36,8 @@ The opinions expressed in this release are those of the organization issuing it,
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:03:00Z</estimatedPublishedDate> 
-<title type="str">Comets Fall in Shooutout to Crunch</title> 
+</TOPICS> 
+<DOCID type="str">695198805950</DOCID> 
+<DCT type="str">2017-01-29T03:03:00Z</DCT> 
+<TITLE type="str">Comets Fall in Shooutout to Crunch</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The angry Facebook post was more of an opportunity to vent than anything else. 
+<TEXT type="str">The angry Facebook post was more of an opportunity to vent than anything else. 
  
 After arriving at the former Holy Trinity Church on Falls Street Monday night and finding a statue of the Virgin Mary missing, Marg Domagolski just wanted to let the world know how awful she felt. 
  
@@ -36,9 +36,8 @@ The entire incident was a lesson in the power of social media for Domagolski.
  
 She was both surprised in the response her initial posting generated and feels whomever took the statue had second thoughts after all the attention it drew. They then left the Virgin Mary on the Falls Street sidewalk so it could easily be found. 
  
-&quot;I have a strong faith,&quot; she said, &quot;that&apos;s my belief — God works in his way.&quot;</content> 
-<sequenceId type="str">695203665626</sequenceId> 
-<topics type="list"> 
+&quot;I have a strong faith,&quot; she said, &quot;that&apos;s my belief — God works in his way.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Buffalo-Niagara Falls news</name> 
@@ -51,7 +50,8 @@ She was both surprised in the response her initial posting generated and feels w
 <group type="str">Internet</group> 
 <name type="str">Social media news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:38:00Z</estimatedPublishedDate> 
-<title type="str">A look back at how social media saved the day for Holy Trinity</title> 
+</TOPICS> 
+<DOCID type="str">695203665626</DOCID> 
+<DCT type="str">2017-01-28T22:38:00Z</DCT> 
+<TITLE type="str">A look back at how social media saved the day for Holy Trinity</TITLE> 
 </root>

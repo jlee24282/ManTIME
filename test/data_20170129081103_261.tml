@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In the wake of the Bourke Street rampage, prison breakouts and a youth crime wave, Victoria&apos;s police have been under scrutiny for being &apos;risk averse&apos;. 
+<TEXT type="str">In the wake of the Bourke Street rampage, prison breakouts and a youth crime wave, Victoria&apos;s police have been under scrutiny for being &apos;risk averse&apos;. 
  
 Chief Commissioner Graham Ashton says it&apos;s a myth that police are anything but tough on crime and his officers put themselves in harm&apos;s way 
  
@@ -36,9 +36,8 @@ The CAA has a 70-point plan, advocating for a police education program to be rei
  
 The state announced a police recruitment drive on Sunday that will bring an extra 3000 frontline police onto the state&apos;s streets. 
  
-AAP</content> 
-<sequenceId type="str">695203971008</sequenceId> 
-<topics type="list"> 
+AAP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -51,7 +50,8 @@ AAP</content>
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:33Z</estimatedPublishedDate> 
-<title type="str">Ashton vows police are tough on crime</title> 
+</TOPICS> 
+<DOCID type="str">695203971008</DOCID> 
+<DCT type="str">2017-01-29T08:25:33Z</DCT> 
+<TITLE type="str">Ashton vows police are tough on crime</TITLE> 
 </root>

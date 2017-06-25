@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CLOSE      
+<TEXT type="str">CLOSE      
 Lawyers say dozens of travelers from countries named in President Trump&apos;s recent executive order were held at John F. Kennedy International Airport and other airports Saturday amid confusion about whether they could legally enter the country. Time 
       
 Protesters gather at JFK International Airport&apos;s Terminal 4 on Jan. 28, 2017, to demonstrate against President Trump&apos;s executive order to suspend refugee arrivals. (Photo: Bryan R. Smith, AFP/) 
@@ -252,9 +252,8 @@ Immigrants with affected family fearful of ban
    
 Trump refugee ban prompts outrage 
     
-Read or Share this story: http://usat.ly/2kEJdFv</content> 
-<sequenceId type="str">695197840800</sequenceId> 
-<topics type="list"> 
+Read or Share this story: http://usat.ly/2kEJdFv</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -279,7 +278,8 @@ Read or Share this story: http://usat.ly/2kEJdFv</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:09Z</estimatedPublishedDate> 
-<title type="str">News Court grants temporary, emergency stay of Trump&apos;s immigration ban</title> 
+</TOPICS> 
+<DOCID type="str">695197840800</DOCID> 
+<DCT type="str">2017-01-29T07:40:09Z</DCT> 
+<TITLE type="str">News Court grants temporary, emergency stay of Trump&apos;s immigration ban</TITLE> 
 </root>

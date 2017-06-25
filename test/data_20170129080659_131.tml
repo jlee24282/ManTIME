@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">If the Breakers do indeed miss the Australian NBL playoffs - which now appears fait accompli - tonight&apos;s disaster in Sydney will explain why.It wasn&apos;t just the record defeat against the Kings being incredibly damaging in a vacuum;...</content> 
-<sequenceId type="str">695194728963</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">If the Breakers do indeed miss the Australian NBL playoffs - which now appears fait accompli - tonight&apos;s disaster in Sydney will explain why.It wasn&apos;t just the record defeat against the Kings being incredibly damaging in a vacuum;...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:07:05Z</estimatedPublishedDate> 
-<title type="str">Basketball: Another injury and another loss for flailing Breakers</title> 
+</TOPICS> 
+<DOCID type="str">695194728963</DOCID> 
+<DCT type="str">2017-01-29T06:07:05Z</DCT> 
+<TITLE type="str">Basketball: Another injury and another loss for flailing Breakers</TITLE> 
 </root>

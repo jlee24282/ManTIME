@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695202951605</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:54Z</estimatedPublishedDate> 
-<title type="str">Why are Judy Garland\&apos;s remains leaving N.Y. for Hollywood?</title> 
+</TOPICS> 
+<DOCID type="str">695202951605</DOCID> 
+<DCT type="str">2017-01-29T08:17:54Z</DCT> 
+<TITLE type="str">Why are Judy Garland\&apos;s remains leaving N.Y. for Hollywood?</TITLE> 
 </root>

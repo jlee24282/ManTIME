@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Carolyn Hax is away. The following originally appeared in September 2005. 
+<TEXT type="str">Carolyn Hax is away. The following originally appeared in September 2005. 
  
 DEAR CAROLYN: This may seem like an odd question, but if someone doesn&apos;t like an aspect of your personality, how would you know when you&apos;re in the wrong as opposed to someone just not liking that aspect for their own reasons? 
  
@@ -68,14 +68,14 @@ Chat online with Carolyn at 11 a.m. Central time each Friday at washingtonpost.c
  
 tellme@washpost.com 
  
-Style on 01/29/2</content> 
-<sequenceId type="str">695202399175</sequenceId> 
-<topics type="list"> 
+Style on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:54Z</estimatedPublishedDate> 
-<title type="str">Life fact: Personalities clash</title> 
+</TOPICS> 
+<DOCID type="str">695202399175</DOCID> 
+<DCT type="str">2017-01-29T08:04:54Z</DCT> 
+<TITLE type="str">Life fact: Personalities clash</TITLE> 
 </root>

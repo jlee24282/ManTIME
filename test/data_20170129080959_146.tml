@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Home  Top News Share the joy 
+<TEXT type="str">Home  Top News Share the joy 
                                  
 Drone footage shows the damage in the central region of Maule in Chile from devastating wildfires. 
 BBC News – Latin America &amp; Caribbean 
-   Previous article</content> 
-<sequenceId type="str">695201711563</sequenceId> 
-<topics type="list"> 
+   Previous article</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Natural disasters news</name> 
@@ -19,7 +18,8 @@ BBC News – Latin America &amp; Caribbean
 <group type="str">Regional</group> 
 <name type="str">South America news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:03Z</estimatedPublishedDate> 
-<title type="str">Chile wildfires: Drone footage reveals devastation</title> 
+</TOPICS> 
+<DOCID type="str">695201711563</DOCID> 
+<DCT type="str">2017-01-29T08:08:03Z</DCT> 
+<TITLE type="str">Chile wildfires: Drone footage reveals devastation</TITLE> 
 </root>

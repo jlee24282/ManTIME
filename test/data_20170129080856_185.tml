@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As I was growing up, I lost my faith in both God and the Church.  There are many things that made me lose my faith, among them terrible stories I heard about the Catholic Church’s past. 
+<TEXT type="str">As I was growing up, I lost my faith in both God and the Church.  There are many things that made me lose my faith, among them terrible stories I heard about the Catholic Church’s past. 
  
 Most of today’s pagan youth imagine people being burnt at the stake whenever they hear people talk about Catholicism.  They are wrong, but it’s not their fault.  The Church’s enemies, among them the communists, have spread lies about the history of the Church and the content of the faith. 
   
@@ -38,9 +38,8 @@ The Church also helped in the creation of the international laws and other thin
  
 Some people say that we would be better off if the Church did not exist.  Is that so?                              
  
-Iohanan A. Carvalho is a Brazilian writer.</content> 
-<sequenceId type="str">695199280031</sequenceId> 
-<topics type="list"> 
+Iohanan A. Carvalho is a Brazilian writer.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -49,7 +48,8 @@ Iohanan A. Carvalho is a Brazilian writer.</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:20Z</estimatedPublishedDate> 
-<title type="str">The Catholic Church You Never Heard Of</title> 
+</TOPICS> 
+<DOCID type="str">695199280031</DOCID> 
+<DCT type="str">2017-01-29T07:50:20Z</DCT> 
+<TITLE type="str">The Catholic Church You Never Heard Of</TITLE> 
 </root>

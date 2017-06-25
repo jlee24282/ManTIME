@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Kings bounce back from tough loss  
+<TEXT type="str">Kings bounce back from tough loss  
 The Kings beat Charlotte on the road a night after a tough loss to the Pacers in Indianapolis. 
 Belinelli finds a home  
 Marco Belinelli struggled with Sacramento last season. This season, he is thriving with the Hornets. 
@@ -31,9 +31,8 @@ Stat leaders
 Sports Extra  
 View the day’s summaries, game recaps, standings and more in The Sacramento Bee e-Edition. 
 On the air  
-Plan your daily sports viewing with the latest TV listings.</content> 
-<sequenceId type="str">695194073192</sequenceId> 
-<topics type="list"> 
+Plan your daily sports viewing with the latest TV listings.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Sacramento Kings news</name> 
@@ -46,7 +45,8 @@ Plan your daily sports viewing with the latest TV listings.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:37Z</estimatedPublishedDate> 
-<title type="str">Sports Night: Big road win for Kings</title> 
+</TOPICS> 
+<DOCID type="str">695194073192</DOCID> 
+<DCT type="str">2017-01-29T07:01:37Z</DCT> 
+<TITLE type="str">Sports Night: Big road win for Kings</TITLE> 
 </root>

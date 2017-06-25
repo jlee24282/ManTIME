@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695200032146</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:42:17Z</estimatedPublishedDate> 
-<title type="str">Trump orders ISIS plan, talks with Putin and gives Bannon national security role</title> 
+</TOPICS> 
+<DOCID type="str">695200032146</DOCID> 
+<DCT type="str">2017-01-29T06:42:17Z</DCT> 
+<TITLE type="str">Trump orders ISIS plan, talks with Putin and gives Bannon national security role</TITLE> 
 </root>

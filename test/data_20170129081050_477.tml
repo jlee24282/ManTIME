@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Canberra United crowned W-League premiers, but could be forced away from their home ground for semi. 
+<TEXT type="str">Canberra United crowned W-League premiers, but could be forced away from their home ground for semi. 
 
 Newly-crowned W-League premiers Canberra United face being forced away from Fortress McKellar to play their do-or-die semi-final and a hit to their hip pocket in the process.
 
@@ -58,9 +58,8 @@ Canberra United v Melbourne City
 
 A-LEAGUE ROUND 18
 
-Sunday: Central Coast Mariners v Adelaide United at Canberra Stadium, 5pm. Tickets available from Ticketek. The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695203662120</sequenceId> 
-<topics type="list"> 
+Sunday: Central Coast Mariners v Adelaide United at Canberra Stadium, 5pm. Tickets available from Ticketek. The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Media latest</name> 
@@ -73,7 +72,8 @@ Sunday: Central Coast Mariners v Adelaide United at Canberra Stadium, 5pm. Ticke
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:39Z</estimatedPublishedDate> 
-<title type="str">Premiers Canberra United face costly move to Canberra Stadium for W-League semi-final</title> 
+</TOPICS> 
+<DOCID type="str">695203662120</DOCID> 
+<DCT type="str">2017-01-29T07:35:39Z</DCT> 
+<TITLE type="str">Premiers Canberra United face costly move to Canberra Stadium for W-League semi-final</TITLE> 
 </root>

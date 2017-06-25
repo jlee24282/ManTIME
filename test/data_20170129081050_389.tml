@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Passengers have waited more than seven hours on a Singapore Airlines flight after it aborted its take-off because of a wheel issue. 
+<TEXT type="str">Passengers have waited more than seven hours on a Singapore Airlines flight after it aborted its take-off because of a wheel issue. 
  
 Photo: AFP 
   
@@ -16,9 +16,8 @@ Meanwhile, an Emirates flight from Dubai, via Melbourne, due to land at Auckland
  
 Auckland Airport is still waiting to hear from the airline why flight EK-406 - also an A380 - was diverted. 
  
-It landed in Auckland just before 6.3</content> 
-<sequenceId type="str">695203588791</sequenceId> 
-<topics type="list"> 
+It landed in Auckland just before 6.3</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -27,7 +26,8 @@ It landed in Auckland just before 6.3</content>
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:41Z</estimatedPublishedDate> 
-<title type="str">Passengers stuck on plane for seven hours</title> 
+</TOPICS> 
+<DOCID type="str">695203588791</DOCID> 
+<DCT type="str">2017-01-29T08:22:41Z</DCT> 
+<TITLE type="str">Passengers stuck on plane for seven hours</TITLE> 
 </root>

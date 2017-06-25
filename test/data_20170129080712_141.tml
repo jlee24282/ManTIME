@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Indo-Croatian pair succumbed to a straight sets defeat.  Cabal and Spears celebrate their first Grand Slam title as a pair  
+<TEXT type="str">The Indo-Croatian pair succumbed to a straight sets defeat.  Cabal and Spears celebrate their first Grand Slam title as a pair  
 2nd-seeded pair of Sania Mirza and Ivan Dodig went down to unseeded Abigail Spears and Juan Sebastian Cabal in the final of the Australian Open mixed doubles event. 
  
 Sania was gunning for her 4th Grand Slam mixed doubles title, and her 7th one overall. On the other hand, Dodig was looking for his first mixed doubles Grand Slam trophy. 
@@ -45,9 +45,8 @@ Dodig&apos;s serve absolutely deserted him in the next game. He served three dou
  
 The Colombian did that without a hiccup, ending Mirza and Dodig&apos;s dreams of claiming the trophy. 
  
-Fetching more content...</content> 
-<sequenceId type="str">695195098376</sequenceId> 
-<topics type="list"> 
+Fetching more content...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -56,7 +55,8 @@ Fetching more content...</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:19:54Z</estimatedPublishedDate> 
-<title type="str">Australian Open 2017: Sania Mirza-Ivan Dodig go down in mixed doubles final</title> 
+</TOPICS> 
+<DOCID type="str">695195098376</DOCID> 
+<DCT type="str">2017-01-29T06:19:54Z</DCT> 
+<TITLE type="str">Australian Open 2017: Sania Mirza-Ivan Dodig go down in mixed doubles final</TITLE> 
 </root>

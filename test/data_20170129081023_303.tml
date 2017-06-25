@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PRWeb  
+<TEXT type="str">PRWeb  
 DATAMARK, Inc., a global provider of business process outsourcing (BPO) and contact center services, today announced the promotion of Nina Brown to Vice President of Sales and Marketing. 
  
 Brown, who has served for many years as DATAMARK&apos;s technical sales specialist in support of the company&apos;s business development activities, will have primary responsibility for the company&apos;s Sales and Marketing departments. She has been with DATAMARK for 17 years, starting her career with the company in 2000 as a software developer. 
@@ -26,9 +26,8 @@ DATAMARK, Inc. is a leading business process outsourcing company specializing in
 Headquartered in El Paso, Texas, DATAMARK employs nearly 2,000 people in its U.S., Mexico and India facilities. For more information, visit http://www.datamark.net or contact Marketing Manager Martin Rocha at info(at)datamark(dot)net. 
  
 Read the full story at http://www.prweb.com/releases/2017/01/prweb14023835.htm 
- PRWeb.com</content> 
-<sequenceId type="str">695202692815</sequenceId> 
-<topics type="list"> 
+ PRWeb.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
@@ -41,7 +40,8 @@ Read the full story at http://www.prweb.com/releases/2017/01/prweb14023835.htm
 <group type="str">Business</group> 
 <name type="str">Executive moves news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:47Z</estimatedPublishedDate> 
-<title type="str">DATAMARK Announces Promotion of Nina Brown to Vice President of Sales and Marketing</title> 
+</TOPICS> 
+<DOCID type="str">695202692815</DOCID> 
+<DCT type="str">2017-01-29T08:15:47Z</DCT> 
+<TITLE type="str">DATAMARK Announces Promotion of Nina Brown to Vice President of Sales and Marketing</TITLE> 
 </root>

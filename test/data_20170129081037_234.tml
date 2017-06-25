@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A judge has temporarily ruled in favor of two University of Massachusetts Dartmouth associate professors, both Iranian nationals and Muslim, who were detained for hours Saturday at Logan International Airport — a result of President Trump’s recent executive order on imigration. 
+<TEXT type="str">A judge has temporarily ruled in favor of two University of Massachusetts Dartmouth associate professors, both Iranian nationals and Muslim, who were detained for hours Saturday at Logan International Airport — a result of President Trump’s recent executive order on imigration. 
 
 The decision, which will remain in effect for seven days, stated that individuals may be not detained or removed “by any manner or means” if they have an approved refugee application, a valid immigrant or non-immigrant visa, or are a permanent resident.
 
@@ -23,9 +23,8 @@ Lawyer Sue Finegan left gala to come to the court. Susan Cohen ditched a 60th bi
 
 “We all raced over to help,” Finegan said.
 
-Lawyer Kerry Doyle carried a copy of the Immigrant and Nationality Act under her arm, and lawyer Melissa Smith handed out Girl Scout cookies — Thin Mints — for sustenance.</content> 
-<sequenceId type="str">695203028382</sequenceId> 
-<topics type="list"> 
+Lawyer Kerry Doyle carried a copy of the Immigrant and Nationality Act under her arm, and lawyer Melissa Smith handed out Girl Scout cookies — Thin Mints — for sustenance.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Boston news</name> 
@@ -42,7 +41,8 @@ Lawyer Kerry Doyle carried a copy of the Immigrant and Nationality Act under her
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:32Z</estimatedPublishedDate> 
-<title type="str">Boston judge also puts hold on deportations</title> 
+</TOPICS> 
+<DOCID type="str">695203028382</DOCID> 
+<DCT type="str">2017-01-29T08:18:32Z</DCT> 
+<TITLE type="str">Boston judge also puts hold on deportations</TITLE> 
 </root>

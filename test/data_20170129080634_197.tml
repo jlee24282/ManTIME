@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Construction on the area around the port of entry from Mexico to the United States continues next to the border wall in San Ysidro, California, US, January 25, 2017. (Photo by Reuters) 
+<TEXT type="str">Construction on the area around the port of entry from Mexico to the United States continues next to the border wall in San Ysidro, California, US, January 25, 2017. (Photo by Reuters) 
  
 Mexico has lashed out at the Israeli regime for applauding the new US administration’s contentious plan to erect a wall along the Mexico border in a sweeping crackdown on immigration. 
  
@@ -28,9 +28,8 @@ Tel Aviv began building a barrier fence on its border with Egypt’s Sinai Penin
  
 The regime has under heavy criticism for its ill-treatment of some 45,000 African refugees, mostly from Eritrea and Sudan, thousands of whom are kept in detention facilities. 
  
-Israel has also set up barriers around the blockaded Gaza Strip and along much of the occupied West Bank, what Palestinian call the Apartheid Wall.</content> 
-<sequenceId type="str">695194023385</sequenceId> 
-<topics type="list"> 
+Israel has also set up barriers around the blockaded Gaza Strip and along much of the occupied West Bank, what Palestinian call the Apartheid Wall.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
@@ -59,7 +58,8 @@ Israel has also set up barriers around the blockaded Gaza Strip and along much o
 <group type="str">Society</group> 
 <name type="str">US immigration news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:37Z</estimatedPublishedDate> 
-<title type="str">Mexico raps Israeli support for US border wall 7min</title> 
+</TOPICS> 
+<DOCID type="str">695194023385</DOCID> 
+<DCT type="str">2017-01-29T07:12:37Z</DCT> 
+<TITLE type="str">Mexico raps Israeli support for US border wall 7min</TITLE> 
 </root>

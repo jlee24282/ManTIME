@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON – President Donald Trump on Saturday ordered the Pentagon to devise a strategy to defeat the Islamic State group, restructured the National Security Council to include his controversial top political adviser and forged a partnership with Russian President Vladimir Putin in their first official phone call. 
+<TEXT type="str">WASHINGTON – President Donald Trump on Saturday ordered the Pentagon to devise a strategy to defeat the Islamic State group, restructured the National Security Council to include his controversial top political adviser and forged a partnership with Russian President Vladimir Putin in their first official phone call. 
  
 Trump and Putin spoke for one hour and vowed to join forces to fight terrorism in Syria and elsewhere, according to the White House and the Kremlin, signaling a potential shift in U.S.-Russian relations that have been marked by high tension. 
  
@@ -56,9 +56,8 @@ U.S. lawmakers from both parties – as well as some of Trump’s Cabinet nomine
  
 Also on Saturday, Trump signed an executive order finalizing new lobbying rules that had been informally established during the transition period. It stipulates that administration officials cannot register as lobbyists for five years after leaving the government – and can never lobby on behalf of a foreign government. 
  
-“Most of the people standing behind me won’t be able to go to work or do anything adverse to our wonderful country,” Trump said, as the aides standing behind him in the Oval Office laughed.</content> 
-<sequenceId type="str">695200735532</sequenceId> 
-<topics type="list"> 
+“Most of the people standing behind me won’t be able to go to work or do anything adverse to our wonderful country,” Trump said, as the aides standing behind him in the Oval Office laughed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -79,7 +78,8 @@ Also on Saturday, Trump signed an executive order finalizing new lobbying rules 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:58Z</estimatedPublishedDate> 
-<title type="str">Trump orders ISIS plan, talks with Putin and gives Bannon national security role - Sat, 28 Jan 2017 PST</title> 
+</TOPICS> 
+<DOCID type="str">695200735532</DOCID> 
+<DCT type="str">2017-01-29T07:52:58Z</DCT> 
+<TITLE type="str">Trump orders ISIS plan, talks with Putin and gives Bannon national security role - Sat, 28 Jan 2017 PST</TITLE> 
 </root>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">© 2017 iHeartMedia, Inc.
+<TEXT type="str">© 2017 iHeartMedia, Inc.
 
-Content Goes Here</content> 
-<sequenceId type="str">695199538564</sequenceId> 
-<topics type="list"> 
+Content Goes Here</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:12Z</estimatedPublishedDate> 
-<title type="str">Rick Astley Closes iHeart80s Party With Greatest Hits Performance (VIDEOS)</title> 
+</TOPICS> 
+<DOCID type="str">695199538564</DOCID> 
+<DCT type="str">2017-01-29T07:52:12Z</DCT> 
+<TITLE type="str">Rick Astley Closes iHeart80s Party With Greatest Hits Performance (VIDEOS)</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DeWitt 62, Charlotte 41
+<TEXT type="str">DeWitt 62, Charlotte 41
 
 Grand Rapids Covenant Christian 66, Wyoming Kelloggsville 57
 
@@ -44,14 +44,14 @@ East Lansing 52, Muskegon 34
 
 Grand Rapids Catholic Central 42, Marshall 34
 
-Grand Rapids Christian 34, Kent City 32</content> 
-<sequenceId type="str">695204882313</sequenceId> 
-<topics type="list"> 
+Grand Rapids Christian 34, Kent City 32</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:00Z</estimatedPublishedDate> 
-<title type="str">Saturday&apos;s Scores</title> 
+</TOPICS> 
+<DOCID type="str">695204882313</DOCID> 
+<DCT type="str">2017-01-29T08:32:00Z</DCT> 
+<TITLE type="str">Saturday&apos;s Scores</TITLE> 
 </root>

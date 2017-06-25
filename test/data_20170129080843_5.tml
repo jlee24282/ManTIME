@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">​Abigail Spears and Juan Sebastian Cabal have combined to beat second-seeded Sania Mirza and Ivan Dodig 6-2, 6-4 to win the Australian Open mixed doubles title. 
+<TEXT type="str">​Abigail Spears and Juan Sebastian Cabal have combined to beat second-seeded Sania Mirza and Ivan Dodig 6-2, 6-4 to win the Australian Open mixed doubles title. 
 The defeat denied the Indian tennis ace her seventh major title. 
  
 The 35-year-old Spears played her part at the Australian Open golden oldies party with her win. 
@@ -13,9 +13,8 @@ Meanwhile, Mirza and Dodig pairing failed to lift the trophy in their second Gra
  
 The duo lost the French Open title clash to Leander Paes and Martina Hingis last season. 
  Images: AP  
-Inputs: AP/SIFY</content> 
-<sequenceId type="str">695198463669</sequenceId> 
-<topics type="list"> 
+Inputs: AP/SIFY</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -28,7 +27,8 @@ Inputs: AP/SIFY</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:57Z</estimatedPublishedDate> 
-<title type="str">Sania settles for mixed doubles runners-up trophy</title> 
+</TOPICS> 
+<DOCID type="str">695198463669</DOCID> 
+<DCT type="str">2017-01-29T07:43:57Z</DCT> 
+<TITLE type="str">Sania settles for mixed doubles runners-up trophy</TITLE> 
 </root>

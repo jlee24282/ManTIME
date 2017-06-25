@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A crowd waits outside Denver’s Central Library on cold winter mornings, many of them homeless, their backpacks and wheeled luggage carts heavy with necessities of life on the street. 
+<TEXT type="str">A crowd waits outside Denver’s Central Library on cold winter mornings, many of them homeless, their backpacks and wheeled luggage carts heavy with necessities of life on the street. 
  
 When the doors open at 10 a.m., they rush inside to spend hours reading, resting and using computers to look for work or do other research. 
  
@@ -74,9 +74,8 @@ Hardy said she tries to impress on others how resilient the homeless are. By the
  
 Whether they are sleeping on the street or in a shelter, they are likely to be awakened at 4:30 or 5 a.m. They have to pack up belongings, and carry them with them throughout the day, and they must find something to eat, and decide where they will spend the day. 
  
-“When we open at 10 every morning they have already had a full day,” Hardy said. “Just to recognize that is huge.”</content> 
-<sequenceId type="str">695198916777</sequenceId> 
-<topics type="list"> 
+“When we open at 10 every morning they have already had a full day,” Hardy said. “Just to recognize that is huge.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Denver-Aurora news</name> 
@@ -85,7 +84,8 @@ Whether they are sleeping on the street or in a shelter, they are likely to be a
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:36Z</estimatedPublishedDate> 
-<title type="str">Homeless spending days at Denver’s libraries find help in the stacks</title> 
+</TOPICS> 
+<DOCID type="str">695198916777</DOCID> 
+<DCT type="str">2017-01-29T07:44:36Z</DCT> 
+<TITLE type="str">Homeless spending days at Denver’s libraries find help in the stacks</TITLE> 
 </root>

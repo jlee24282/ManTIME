@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">RENO – Pretty in pink. 
+<TEXT type="str">RENO – Pretty in pink. 
  
 Nevada donned pink uniforms this week as part of the Coaches vs. Cancer fundraiser, and the Pack put together two of its most dominating performances of the season, including Saturday’s 82-65 demolition of New Mexico before a crowd of 10,727 at Lawlor Events Center and a national television audience. 
  
@@ -54,9 +54,8 @@ The Lobos got 18 each from Elijah Brown and Tim Williams, but nobody else had mo
  
 Brown had eight quick points in the first half, but Nevada settled in defensively and made the lefty guard work hard for everything he got. Williams went 8-for-12 shooting. 
  
-“We played kind of a hybrid trap,” Musselman said. “We had a couple of days to work on it. We wanted to take the ball out of Brown’s hands and Williams’ hands as much as possible.”</content> 
-<sequenceId type="str">695201303638</sequenceId> 
-<topics type="list"> 
+“We played kind of a hybrid trap,” Musselman said. “We had a couple of days to work on it. We wanted to take the ball out of Brown’s hands and Williams’ hands as much as possible.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -69,7 +68,8 @@ Brown had eight quick points in the first half, but Nevada settled in defensivel
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:02Z</estimatedPublishedDate> 
-<title type="str">Nevada Wolf Pack makes statement win against New Mexico</title> 
+</TOPICS> 
+<DOCID type="str">695201303638</DOCID> 
+<DCT type="str">2017-01-29T07:19:02Z</DCT> 
+<TITLE type="str">Nevada Wolf Pack makes statement win against New Mexico</TITLE> 
 </root>

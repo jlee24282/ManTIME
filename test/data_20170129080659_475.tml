@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In a tri-meet in Greeley, the CSU-Pueblo swimming &amp; diving team defeated University of Nebraska Kearney 149-69, but couldn’t upset Division I foe University of Northern Colorado, dropping a 143-71 decision on Saturday. 
+<TEXT type="str">In a tri-meet in Greeley, the CSU-Pueblo swimming &amp; diving team defeated University of Nebraska Kearney 149-69, but couldn’t upset Division I foe University of Northern Colorado, dropping a 143-71 decision on Saturday. 
  
 The ThunderWolves defeated the Lopers in 11 of 13 events. Northern Colorado swimmers won 10 events overall. 
  
@@ -16,9 +16,8 @@ Jade Irick won the 200 butterfly with a mark of 2:27.00. She alwo was the Pack�
  
 Freshman Phoebe Pontious picked up two fourth place finishes. 
  
-CSU-Pueblo finished its dual season with a 2-6 record. The ThunderWolves won three meets overall in their regular season.</content> 
-<sequenceId type="str">695194966904</sequenceId> 
-<topics type="list"> 
+CSU-Pueblo finished its dual season with a 2-6 record. The ThunderWolves won three meets overall in their regular season.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -31,7 +30,8 @@ CSU-Pueblo finished its dual season with a 2-6 record. The ThunderWolves won thr
 <group type="str">Sports</group> 
 <name type="str">Sports: swimming news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:50:02Z</estimatedPublishedDate> 
-<title type="str">COLLEGE SWIMMING: Pack swim team wins, loses</title> 
+</TOPICS> 
+<DOCID type="str">695194966904</DOCID> 
+<DCT type="str">2017-01-29T05:50:02Z</DCT> 
+<TITLE type="str">COLLEGE SWIMMING: Pack swim team wins, loses</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Week 15 Games Played
+<TEXT type="str">Week 15 Games Played
 
 4 Games: BOS, BRK, DEN, DET, MEM, MIN, OKC, ORL, PHI, PHX, SAC, TOR
 
@@ -30,9 +30,8 @@ Iman Shumpert Cavaliers 28% - Shumpert had scored in double figures in six strai
 
 Gary Harris Nuggets 63% - Harris came through on Saturday with 15 points, eight rebounds, four assists, two steals and a 3-pointers, but the Suns typically give it up to opposing guards. He’s averaging 11 points, 3.2 rebounds, 2.0 assists, 0.8 steals and 1.2 3-pointers on 45 percent shooting over his last five games, but he’d have a lot more fantasy appeal if Will Barton wasn’t getting at least 20 minutes night.
 
-Garrett Temple Kings 25% (and Arron Afflalo) - I’m not a big Temple guy and there’s really no one from the Kings that I love filling in for Rudy Gay, who’s out for the season with a blown Achilles. But Temple appears to be the best of the bunch, getting 32 minutes with 8.0 points, 2.2 rebounds, 2.6 assists, 2.0 steals and 0.8 3-points on 34 percent shooting over his last five games. Teammate Arron Afflalo might be a better flier, as he’s coming on and averaging 14 points, 1.3 rebounds, 2.3 assists and 3.0 3-pointers over his last three games, knocking down 9-of-15 shots in 34 minutes a night in the process.</content> 
-<sequenceId type="str">695202082400</sequenceId> 
-<topics type="list"> 
+Garrett Temple Kings 25% (and Arron Afflalo) - I’m not a big Temple guy and there’s really no one from the Kings that I love filling in for Rudy Gay, who’s out for the season with a blown Achilles. But Temple appears to be the best of the bunch, getting 32 minutes with 8.0 points, 2.2 rebounds, 2.6 assists, 2.0 steals and 0.8 3-points on 34 percent shooting over his last five games. Teammate Arron Afflalo might be a better flier, as he’s coming on and averaging 14 points, 1.3 rebounds, 2.3 assists and 3.0 3-pointers over his last three games, knocking down 9-of-15 shots in 34 minutes a night in the process.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ Garrett Temple Kings 25% (and Arron Afflalo) - I’m not a big Temple guy and th
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:12Z</estimatedPublishedDate> 
-<title type="str">Wired: Top NBA Pickups Week 15</title> 
+</TOPICS> 
+<DOCID type="str">695202082400</DOCID> 
+<DCT type="str">2017-01-29T08:11:12Z</DCT> 
+<TITLE type="str">Wired: Top NBA Pickups Week 15</TITLE> 
 </root>

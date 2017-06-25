@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(AFP) Canadian Prime Minister Justin Trudeau welcomed immigrants Saturday in a sunny Twitter and Facebook message written in stark contrast to Donald Trump&apos;s order temporarily banning all refugees and many Muslims from travelling to the United States. 
+<TEXT type="str">(AFP) Canadian Prime Minister Justin Trudeau welcomed immigrants Saturday in a sunny Twitter and Facebook message written in stark contrast to Donald Trump&apos;s order temporarily banning all refugees and many Muslims from travelling to the United States. 
  
 &quot;To those fleeing persecution, terror &amp; war, Canadians will welcome you, regardless of your faith. Diversity is our strength #WelcomeToCanada,&quot; Trudeau posted on Twitter. 
    
@@ -35,9 +35,8 @@ According to the latest Canadian census, from 2011, one out of five people in th
  
 Canada has welcomed more than 39,670 Syrian refugees between November 2015 and the beginning of this January, according to government figures. 
  
-Get the latest news by signing up to our newsletter , following us on</content> 
-<sequenceId type="str">695200343033</sequenceId> 
-<topics type="list"> 
+Get the latest news by signing up to our newsletter , following us on</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Blogging news</name> 
@@ -58,7 +57,8 @@ Get the latest news by signing up to our newsletter , following us on</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:10Z</estimatedPublishedDate> 
-<title type="str">Justin Trudeau welcomes all immigrants to Canada in sunny Twitter message</title> 
+</TOPICS> 
+<DOCID type="str">695200343033</DOCID> 
+<DCT type="str">2017-01-29T07:59:10Z</DCT> 
+<TITLE type="str">Justin Trudeau welcomes all immigrants to Canada in sunny Twitter message</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Fireworks illuminate the sky at the opening ceremony of a lantern show to celebrate the Spring Festi</content> 
-<sequenceId type="str">695199422596</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Fireworks illuminate the sky at the opening ceremony of a lantern show to celebrate the Spring Festi</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:16Z</estimatedPublishedDate> 
-<title type="str">Tourists visit lantern show to mark Spring Festival, SE China</title> 
+</TOPICS> 
+<DOCID type="str">695199422596</DOCID> 
+<DCT type="str">2017-01-29T07:51:16Z</DCT> 
+<TITLE type="str">Tourists visit lantern show to mark Spring Festival, SE China</TITLE> 
 </root>

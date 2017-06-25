@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">London, Jan 29: Pep Guardiola said he had seen a vision of Manchester City &apos;s future after 19-year-old Gabriel Jesus inspired his side to a 3-0 FA Cup victory at Crystal Palace . 
+<TEXT type="str">London, Jan 29: Pep Guardiola said he had seen a vision of Manchester City &apos;s future after 19-year-old Gabriel Jesus inspired his side to a 3-0 FA Cup victory at Crystal Palace . 
  
 All leagues special site 
  
@@ -46,9 +46,8 @@ Allardyce confirmed Palace were close to completing a move for Sunderland left-b
  
 &quot;I&apos;ve no idea what the situation is with Andros other than the chairman has told me there has not been any type of bid whatsoever from Newcastle. So that&apos;s not even in the back of my mind.&quot; 
  
-AFP</content> 
-<sequenceId type="str">695197222297</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester City news</name> 
@@ -61,7 +60,8 @@ AFP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:15:27Z</estimatedPublishedDate> 
-<title type="str">Pep Guardiola revels in glimpse of Manchester City&apos;s future</title> 
+</TOPICS> 
+<DOCID type="str">695197222297</DOCID> 
+<DCT type="str">2017-01-29T04:15:27Z</DCT> 
+<TITLE type="str">Pep Guardiola revels in glimpse of Manchester City&apos;s future</TITLE> 
 </root>

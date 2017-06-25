@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WARRIOR RUN HIGH SCHOOL 
+<TEXT type="str">WARRIOR RUN HIGH SCHOOL 
  
 DISTINGUISHED 
  
@@ -354,9 +354,8 @@ Taylor Williams
  
 David Witmer 
    
-We have recently upgraded our commenting system. If you wish to comment please login using your social ID or create a new account.</content> 
-<sequenceId type="str">695196183780</sequenceId> 
-<topics type="list"> 
+We have recently upgraded our commenting system. If you wish to comment please login using your social ID or create a new account.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -365,7 +364,8 @@ We have recently upgraded our commenting system. If you wish to comment please l
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Warrior Run High School second marking period honor roll</title> 
+</TOPICS> 
+<DOCID type="str">695196183780</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Warrior Run High School second marking period honor roll</TITLE> 
 </root>

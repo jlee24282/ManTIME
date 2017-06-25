@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan. 29 --Natural gas prices are rising for the first time in years, as a colder-than-average winter remains in the forecast and energy companies are withdrawing more natural gas from storage. 
+<TEXT type="str">Jan. 29 --Natural gas prices are rising for the first time in years, as a colder-than-average winter remains in the forecast and energy companies are withdrawing more natural gas from storage. 
  
 Analysts expect that natural gas spot prices will average $3.55 per million British thermal units in 2017 and $3.73 in 2018, up from 2.51 in 2016. If the colder winter forecast holds, it would be the first rise in average natural gas prices since 2014. 
  
@@ -30,9 +30,8 @@ ___
  
 Visit the Houston Chronicle at www.chron.com 
  
-Distributed by Tribune Content Agency, LLC.</content> 
-<sequenceId type="str">695195369755</sequenceId> 
-<topics type="list"> 
+Distributed by Tribune Content Agency, LLC.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -41,7 +40,8 @@ Distributed by Tribune Content Agency, LLC.</content>
 <group type="str">Industry</group> 
 <name type="str">Oil and gas news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:35:12Z</estimatedPublishedDate> 
-<title type="str">Natural gas prices climbing for first time in years</title> 
+</TOPICS> 
+<DOCID type="str">695195369755</DOCID> 
+<DCT type="str">2017-01-29T02:35:12Z</DCT> 
+<TITLE type="str">Natural gas prices climbing for first time in years</TITLE> 
 </root>

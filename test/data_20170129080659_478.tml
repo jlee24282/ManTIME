@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Search by city or zip code. Press enter or select the go button to submit request 
+<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
               
 Auto Refresh: OFF  
      
@@ -47,10 +47,10 @@ Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  62 ft  Interp
 (gauge height = 0)  Elevation 
 (gauge height = flood stage)  Elevation information source  NAVD88  Not Available  62  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  0.73  62.73  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available     
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</content> 
-<sequenceId type="str">695194967559</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:23Z</estimatedPublishedDate> 
-<title type="str">Action (55.86 ft) - Observation - WTMF1 - Withlacoochee River near Madison (SR 6) (Florida)</title> 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695194967559</DOCID> 
+<DCT type="str">2017-01-29T07:17:23Z</DCT> 
+<TITLE type="str">Action (55.86 ft) - Observation - WTMF1 - Withlacoochee River near Madison (SR 6) (Florida)</TITLE> 
 </root>

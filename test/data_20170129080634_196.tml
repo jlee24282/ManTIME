@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Protesters marched to the British parliament in London on Saturday, demanding that the UK government cease to carry out cuts to the National Health Service (NHS). 
+<TEXT type="str">Protesters marched to the British parliament in London on Saturday, demanding that the UK government cease to carry out cuts to the National Health Service (NHS). 
  
 A large number of people have staged a demonstration in the British capital to protest against the government’s policy on the National Health Service (NHS). 
  
@@ -26,9 +26,8 @@ The figure shows that &quot;national performance against response time targets �
  
 The report came days after Prime Minister May denied allegations by Labour Leader Jeremy Corbyn that the NHS was facing a crisis. 
  
-The British Red Cross warned earlier this month that the NHS was facing a “humanitarian crisis” as hospitals and ambulance services struggled to keep up with rising demand.</content> 
-<sequenceId type="str">695194022085</sequenceId> 
-<topics type="list"> 
+The British Red Cross warned earlier this month that the NHS was facing a “humanitarian crisis” as hospitals and ambulance services struggled to keep up with rising demand.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">NHS news</name> 
@@ -45,7 +44,8 @@ The British Red Cross warned earlier this month that the NHS was facing a “hum
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:36Z</estimatedPublishedDate> 
-<title type="str">Brits protest govt. handling of health service 1hr</title> 
+</TOPICS> 
+<DOCID type="str">695194022085</DOCID> 
+<DCT type="str">2017-01-29T07:12:36Z</DCT> 
+<TITLE type="str">Brits protest govt. handling of health service 1hr</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Manchester United have allowed midfielder Sean Goss to move on after he joined Queens Park Rangers for an undisclosed fee.</content> 
-<sequenceId type="str">695199682468</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Manchester United have allowed midfielder Sean Goss to move on after he joined Queens Park Rangers for an undisclosed fee.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester United news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:14Z</estimatedPublishedDate> 
-<title type="str">Manchester United: Reds starlet moves on</title> 
+</TOPICS> 
+<DOCID type="str">695199682468</DOCID> 
+<DCT type="str">2017-01-29T07:49:14Z</DCT> 
+<TITLE type="str">Manchester United: Reds starlet moves on</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IRBIL, Iraq — Children detained by Iraq&apos;s Kurdistan Regional Government on suspicion that they have connections to the Islamic State group are alleging they were tortured, according to a report from an international human rights group published Sunday. 
+<TEXT type="str">IRBIL, Iraq — Children detained by Iraq&apos;s Kurdistan Regional Government on suspicion that they have connections to the Islamic State group are alleging they were tortured, according to a report from an international human rights group published Sunday. 
  
 
 	The children — who have not been formally charged with a crime — recount being held in stress positions, burned with cigarettes, shocked with electricity and beaten with plastic pipes, according to Human Rights Watch, a New York based international watchdog. 
@@ -21,9 +21,8 @@
 	&quot;Policies like torture, enforced disappearances, destruction of property and displacement are and will continue to (be) drivers for victims&apos; families to join extremist groups,&quot; she added. 
  
 
-	Iraqi forces have pushed IS out of nearly all the cities and towns the group once held in Iraq. Mosul is the last major urban center IS holds in Iraq and Iraqi forces have retaken half the city since the operation was officially launched in October.</content> 
-<sequenceId type="str">695202701820</sequenceId> 
-<topics type="list"> 
+	Iraqi forces have pushed IS out of nearly all the cities and towns the group once held in Iraq. Mosul is the last major urban center IS holds in Iraq and Iraqi forces have retaken half the city since the operation was officially launched in October.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -36,7 +35,8 @@
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:42Z</estimatedPublishedDate> 
-<title type="str">Report: Children held by Kurdish forces allege torture</title> 
+</TOPICS> 
+<DOCID type="str">695202701820</DOCID> 
+<DCT type="str">2017-01-29T08:03:42Z</DCT> 
+<TITLE type="str">Report: Children held by Kurdish forces allege torture</TITLE> 
 </root>

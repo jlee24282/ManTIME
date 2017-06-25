@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump’s first week hasn’t been much of a honeymoon, and it’s mostly his fault. 
+<TEXT type="str">President Donald Trump’s first week hasn’t been much of a honeymoon, and it’s mostly his fault. 
  
 But there is one major accomplishment – however inadvertent – for which he deserves some credit: He has been the catalyst for the mainstream media to rediscover their role as a watchdog instead of a lapdog. 
  
@@ -58,9 +58,8 @@ Whether they were sick of it or not, the press endlessly replayed that line, so 
  
 Most Americans, including Trump supporters, want the press to do its job. But if those in the media want to restore some credibility, they need to admit that they didn’t do it very well for the past eight years. 
  
-Taylor Armerding is an independent columnist. Contact him at t.armerding@verizon.net</content> 
-<sequenceId type="str">695202511282</sequenceId> 
-<topics type="list"> 
+Taylor Armerding is an independent columnist. Contact him at t.armerding@verizon.net</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -69,7 +68,8 @@ Taylor Armerding is an independent columnist. Contact him at t.armerding@verizon
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:25Z</estimatedPublishedDate> 
-<title type="str">ARMERDING: Press finds a president it will scrutinize</title> 
+</TOPICS> 
+<DOCID type="str">695202511282</DOCID> 
+<DCT type="str">2017-01-29T08:14:25Z</DCT> 
+<TITLE type="str">ARMERDING: Press finds a president it will scrutinize</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Adam Lallana has agreed a new four-year deal to remain at Liverpool. 
+<TEXT type="str">Adam Lallana has agreed a new four-year deal to remain at Liverpool. 
 
 Express Sport understands the winger will pocket £120,000 a week on his new contract after committing his future to the Merseyside outfit.
 
@@ -8,9 +8,8 @@ Jurgen Klopp is keen to use the winger as part of his plans going forward and La
 
 Liverpool are hoping to sign Roma star Leandro Paredes before the transfer window shuts, according to reports.
 
-Klopp is desperate for reinforcements after seeing his side record one win in eight games in 2</content> 
-<sequenceId type="str">695195975985</sequenceId> 
-<topics type="list"> 
+Klopp is desperate for reinforcements after seeing his side record one win in eight games in 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -23,7 +22,8 @@ Klopp is desperate for reinforcements after seeing his side record one win in ei
 <group type="str">Sports</group> 
 <name type="str">Sports: Bundesliga news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:14Z</estimatedPublishedDate> 
-<title type="str">Liverpool Transfer News: Four-year deal agreed, £26.5m bid planned, £10m Bundesliga raid</title> 
+</TOPICS> 
+<DOCID type="str">695195975985</DOCID> 
+<DCT type="str">2017-01-29T07:26:14Z</DCT> 
+<TITLE type="str">Liverpool Transfer News: Four-year deal agreed, £26.5m bid planned, £10m Bundesliga raid</TITLE> 
 </root>

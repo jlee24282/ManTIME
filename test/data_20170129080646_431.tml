@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Charges will be filed against the mother of a baby boy who was abandoned in a drain. 
+<TEXT type="str">Charges will be filed against the mother of a baby boy who was abandoned in a drain. 
  
 The newborn baby boy was discovered in a drain in Sydney, Australia. He may have been there for as many as five days. 
   Popular Video  This inmate walked out of his cell and started viciously beating a guard. But then...  
@@ -34,9 +34,8 @@ The baby boy is currently in serious but stable condition at the Children’s Ho
  
 While attempted murder charges are expected against the mother, she has yet to be formally charged. 
  
-Sources:  ABC ,  The Daily Mail  / Photo Source:  The Daily Mail</content> 
-<sequenceId type="str">695194536278</sequenceId> 
-<topics type="list"> 
+Sources:  ABC ,  The Daily Mail  / Photo Source:  The Daily Mail</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -45,7 +44,8 @@ Sources:  ABC ,  The Daily Mail  / Photo Source:  The Daily Mail</content>
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:02:02Z</estimatedPublishedDate> 
-<title type="str">Mom Does Something Awful To Newborn Baby (Photos)</title> 
+</TOPICS> 
+<DOCID type="str">695194536278</DOCID> 
+<DCT type="str">2017-01-29T07:02:02Z</DCT> 
+<TITLE type="str">Mom Does Something Awful To Newborn Baby (Photos)</TITLE> 
 </root>

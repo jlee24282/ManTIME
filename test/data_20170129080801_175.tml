@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Iran Press TV
+<TEXT type="str">Iran Press TV
 
 Sat Jan 28, 2017 1:5AM
 
@@ -16,9 +16,8 @@ On January 21, Saudi-owned daily Asharq al-Awsat claimed in a report that the Sy
 
 Some other media outlets further claimed that Assad had suffered a stroke and had been taken to a Damascus hospital for treatment.
 
-The Friday statement went on to say that the spread of such unfounded claims have coincided with the change in the political and battlefield situation in favor of the Syrian nation against terrorists, adding that such rumors were &quot;hopes in the imagination of those who made them up.&quot;</content> 
-<sequenceId type="str">695197066699</sequenceId> 
-<topics type="list"> 
+The Friday statement went on to say that the spread of such unfounded claims have coincided with the change in the political and battlefield situation in favor of the Syrian nation against terrorists, adding that such rumors were &quot;hopes in the imagination of those who made them up.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -27,7 +26,8 @@ The Friday statement went on to say that the spread of such unfounded claims hav
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:33Z</estimatedPublishedDate> 
-<title type="str">Assad in excellent health: Presidential office</title> 
+</TOPICS> 
+<DOCID type="str">695197066699</DOCID> 
+<DCT type="str">2017-01-29T07:34:33Z</DCT> 
+<TITLE type="str">Assad in excellent health: Presidential office</TITLE> 
 </root>

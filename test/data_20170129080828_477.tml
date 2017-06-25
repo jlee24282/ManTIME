@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">·           Global energy demand to increase by around 30% to 2035, driven by increasing prosperity in developing countries, partially offset by rapid gains in energy efficiency 
+<TEXT type="str">·           Global energy demand to increase by around 30% to 2035, driven by increasing prosperity in developing countries, partially offset by rapid gains in energy efficiency 
  
 ·           Technological improvements and environmental concerns are changing the mix of primary energy demand but oil and gas, together with coal, remain the main source of energy to 2035 
 ·           Gas grows faster than either oil or coal; the rapid expansion of LNG is likely to lead to a globally integrated gas market, anchored by US gas prices 
@@ -73,9 +73,8 @@ Further information:
  
 © Press Release 2017 
  
-© Copyright Zawya. All Rights Reserved.</content> 
-<sequenceId type="str">695198444984</sequenceId> 
-<topics type="list"> 
+© Copyright Zawya. All Rights Reserved.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -100,7 +99,8 @@ Further information:
 <group type="str">Business</group> 
 <name type="str">European business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:00Z</estimatedPublishedDate> 
-<title type="str">BP Energy Outlook: An energy transition is underway</title> 
+</TOPICS> 
+<DOCID type="str">695198444984</DOCID> 
+<DCT type="str">2017-01-29T07:15:00Z</DCT> 
+<TITLE type="str">BP Energy Outlook: An energy transition is underway</TITLE> 
 </root>

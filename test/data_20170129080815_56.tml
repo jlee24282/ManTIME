@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Search by city or zip code. Press enter or select the go button to submit request 
+<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
               
 Auto Refresh: OFF  
       
@@ -56,10 +56,10 @@ Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  16 ft  Interp
 (gauge height = 0)  Elevation 
 (gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  775.09 ft  781.09 ft     
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</content> 
-<sequenceId type="str">695197405248</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:35Z</estimatedPublishedDate> 
-<title type="str">Action (14.53 ft) - Observation - FATW3 - Rock River at Fort Atkinson (Wisconsin)</title> 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695197405248</DOCID> 
+<DCT type="str">2017-01-29T07:32:35Z</DCT> 
+<TITLE type="str">Action (14.53 ft) - Observation - FATW3 - Rock River at Fort Atkinson (Wisconsin)</TITLE> 
 </root>

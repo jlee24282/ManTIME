@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">* Jan 29, Colombo: A worker at &apos;s Bogala Graphite mine in Kegalle has been killed when the mine collapsed yesterday, the police said. 
+<TEXT type="str">* Jan 29, Colombo: A worker at &apos;s Bogala Graphite mine in Kegalle has been killed when the mine collapsed yesterday, the police said. 
 
 The incident occurred Saturday morning, according to police. A 42-year-old man injured in the accident has died upon admission to the Karawanella Base hospital. Two others, who were injured in the mishap have been admitted to the hospital. 
 
 The graphite mine is temporarily closed until preliminary police investigations are completed, a spokesman for the Bogala Graphite PLC said. 
 
-Pindeniya Police are conducting further investigations.</content> 
-<sequenceId type="str">695198810002</sequenceId> 
-<topics type="list"> 
+Pindeniya Police are conducting further investigations.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Mining industry news</name> 
@@ -21,7 +20,8 @@ Pindeniya Police are conducting further investigations.</content>
 <group type="str">Regional</group> 
 <name type="str">Sri Lanka news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:49Z</estimatedPublishedDate> 
-<title type="str">Sri Lanka&apos;s Bogala graphite mine collapses killing worker</title> 
+</TOPICS> 
+<DOCID type="str">695198810002</DOCID> 
+<DCT type="str">2017-01-29T07:46:49Z</DCT> 
+<TITLE type="str">Sri Lanka&apos;s Bogala graphite mine collapses killing worker</TITLE> 
 </root>

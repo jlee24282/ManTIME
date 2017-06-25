@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump speaks at the Pentagon in Washington, DC, on January 27, 2016. (Photo by AFP) 
+<TEXT type="str">US President Donald Trump speaks at the Pentagon in Washington, DC, on January 27, 2016. (Photo by AFP) 
  
 Prominent rights groups in the United States are taking action against US President Donald Trump’s recent ban on Muslims. 
  
@@ -30,9 +30,8 @@ Trump’s order would impose a 90-day ban on entry from citizens of Iran, Iraq, 
  
 “We don’t want them here,” Trump said as he signed the order. “We want to ensure that we are not admitting into our country the very threats our soldiers are fighting overseas. We only want to admit those into our country who will support our country and love deeply our people.” 
  
-Violating the First Amendment, the measure  amounts to “treason”  against the United States Constitution, according to American author Kevin Barret.</content> 
-<sequenceId type="str">695194718118</sequenceId> 
-<topics type="list"> 
+Violating the First Amendment, the measure  amounts to “treason”  against the United States Constitution, according to American author Kevin Barret.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
@@ -41,7 +40,8 @@ Violating the First Amendment, the measure  amounts to “treason”  against th
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:34Z</estimatedPublishedDate> 
-<title type="str">Rights groups take on Trump&apos;s Muslim ban 9hr</title> 
+</TOPICS> 
+<DOCID type="str">695194718118</DOCID> 
+<DCT type="str">2017-01-29T07:17:34Z</DCT> 
+<TITLE type="str">Rights groups take on Trump&apos;s Muslim ban 9hr</TITLE> 
 </root>

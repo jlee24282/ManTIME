@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ANCHORAGE (KTUU) - An Anchorage man is facing charges of second degree murder and second degree assault for the fatal shooting of 19-year-old Tiwan Johnson Jr. at a parking lot in Muldoon early Tuesday morning. 
+<TEXT type="str">ANCHORAGE (KTUU) - An Anchorage man is facing charges of second degree murder and second degree assault for the fatal shooting of 19-year-old Tiwan Johnson Jr. at a parking lot in Muldoon early Tuesday morning. 
   
 Prosecutors say 23-year-old Christopher Birotte fired multiple rounds at a car full of people in Muldoon early Tuesday morning, killing Johnson and seriously injuring another occupant named Eric Miller. 
  
@@ -32,14 +32,14 @@ At the arraignment hearing on Saturday the judge set Birotte’s appearance bond
  
 Johnson’s mother, who attended the hearing telephonically, urged the judge to set his bail higher. 
  
-“I think it’s too low in my opinion because there’s no price for my child’s life,” she said. “He’s gone. I’m leaving out of state right now to go bury my son.”</content> 
-<sequenceId type="str">695197205022</sequenceId> 
-<topics type="list"> 
+“I think it’s too low in my opinion because there’s no price for my child’s life,” she said. “He’s gone. I’m leaving out of state right now to go bury my son.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:30Z</estimatedPublishedDate> 
-<title type="str">Suspect in deadly Muldoon shooting faces judge</title> 
+</TOPICS> 
+<DOCID type="str">695197205022</DOCID> 
+<DCT type="str">2017-01-29T07:35:30Z</DCT> 
+<TITLE type="str">Suspect in deadly Muldoon shooting faces judge</TITLE> 
 </root>

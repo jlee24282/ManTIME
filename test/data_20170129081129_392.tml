@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 1 p.m. to 4 p.m. 
+<TEXT type="str">, 1 p.m. to 4 p.m. 
  
 Where: Soapmaking Studio, 7301 Mount Vernon Street, Lemon Grove 
  
@@ -9,9 +9,8 @@ Cost: $79
 Age limit: All ages 
  
 Description: 
-Soap Business 350 is designed for both students who currently have confusing or low-performing websites and for students who do not have websites. In this understandable and thorough class, learn about domain names and hosting packages. Also, learn to create your own website for free, optimize keywords, rank high on search engines, and verify your site code is valid.</content> 
-<sequenceId type="str">695204982240</sequenceId> 
-<topics type="list"> 
+Soap Business 350 is designed for both students who currently have confusing or low-performing websites and for students who do not have websites. In this understandable and thorough class, learn about domain names and hosting packages. Also, learn to create your own website for free, optimize keywords, rank high on search engines, and verify your site code is valid.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -24,7 +23,8 @@ Soap Business 350 is designed for both students who currently have confusing or 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:22Z</estimatedPublishedDate> 
-<title type="str">Sun 1/29: Website Design and Internet Commerce</title> 
+</TOPICS> 
+<DOCID type="str">695204982240</DOCID> 
+<DCT type="str">2017-01-29T08:33:22Z</DCT> 
+<TITLE type="str">Sun 1/29: Website Design and Internet Commerce</TITLE> 
 </root>

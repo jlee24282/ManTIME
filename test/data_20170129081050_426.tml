@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">INVESTIGATORS who helped to convict the former boss of Torbay Hospital of fraud have warned they will press for the strongest possible sentence when she comes back to court. 
+<TEXT type="str">INVESTIGATORS who helped to convict the former boss of Torbay Hospital of fraud have warned they will press for the strongest possible sentence when she comes back to court. 
  
 Paula Vasco-Knight CBE, the ex chief executive of Torbay Hospital and NHS England&apos;s former national lead for equality, has admitted committing an £11,000 fraud involving her husband and an abuse of position. 
  
@@ -29,9 +29,8 @@ Paula Vasco-Knight was employed as Chief Executive Officer of South Devon Health
 At the end of the hearing the judge warned Ms Vasco-Knight she could be sent to jail. 
  
 The pair will be sentenced on March 10. 
- MORE NEWS</content> 
-<sequenceId type="str">695203612210</sequenceId> 
-<topics type="list"> 
+ MORE NEWS</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -40,7 +39,8 @@ The pair will be sentenced on March 10.
 <group type="str">Society</group> 
 <name type="str">NHS news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Disgraced Torbay Hospital boss Vasco-Knight should face strong...</title> 
+</TOPICS> 
+<DOCID type="str">695203612210</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Disgraced Torbay Hospital boss Vasco-Knight should face strong...</TITLE> 
 </root>

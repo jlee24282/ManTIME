@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(CNN) – More angry protests against President Donald Trump’s immigration policies are set for Sunday across the country after hundreds of demonstrators converged on airports the day before.. 
+<TEXT type="str">(CNN) – More angry protests against President Donald Trump’s immigration policies are set for Sunday across the country after hundreds of demonstrators converged on airports the day before.. 
  
 Protests are scheduled today in Washington, Orlando, Boston, Philadelphia, Atlanta, Seattle, and Chicago, mostly at airports. 
  
@@ -54,9 +54,8 @@ A group of community activists, attorneys and others gathered at O’Hare Intern
  
 Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey. 
  
-Click here to read full story »</content> 
-<sequenceId type="str">695204727182</sequenceId> 
-<topics type="list"> 
+Click here to read full story »</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -77,7 +76,8 @@ Click here to read full story »</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:55Z</estimatedPublishedDate> 
-<title type="str">More protests against Trump’s immigration policies planned</title> 
+</TOPICS> 
+<DOCID type="str">695204727182</DOCID> 
+<DCT type="str">2017-01-29T07:46:55Z</DCT> 
+<TITLE type="str">More protests against Trump’s immigration policies planned</TITLE> 
 </root>

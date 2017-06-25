@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Area police reports indicated: 
+<TEXT type="str">Area police reports indicated: 
  
 Killeen 
   
@@ -22,10 +22,10 @@ A burglary was reported at 12:59 p.m. Friday near the 400 block of Cove Terrace.
  
 A vehicle burglary was reported at 9:28 p.m. Friday near the 100 block of Third Street. 
  
-Compiled by Quinton Lilley</content> 
-<sequenceId type="str">695195574113</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:00Z</estimatedPublishedDate> 
-<title type="str">1-29-17 Police blotter</title> 
+Compiled by Quinton Lilley</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695195574113</DOCID> 
+<DCT type="str">2017-01-29T07:15:00Z</DCT> 
+<TITLE type="str">1-29-17 Police blotter</TITLE> 
 </root>

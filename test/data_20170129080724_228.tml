@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ZTE Hawkeye is an interesting crowd-sourced handset project that might not see the light of day even if the Kickstarter campaign was successful. But that doesn&apos;t meant that the innovative smartphone that ZTE presented to the world won&apos;t be released at some point. 
+<TEXT type="str">ZTE Hawkeye is an interesting crowd-sourced handset project that might not see the light of day even if the Kickstarter campaign was successful. But that doesn&apos;t meant that the innovative smartphone that ZTE presented to the world won&apos;t be released at some point. 
  
 When ZTE launched the Kickstarter campaign for the Hawkeye, it wanted to make the smartphone available in just about every country, which is why it put mid-range specs inside and a similar price: $199. 
  
@@ -20,9 +20,8 @@ Yee also said that his company is most likely to pull down the Kickstarter pager
  
 ZTE asked backers to provide their feedback and tell the company what would they want to see packed inside a high-end Hawkeye smartphone. 
  
-The good news is ZTE has already committing to at least adding a high-end spec to the phone, but it will be interesting to see what the phone&apos;s specs list will look like in the end.</content> 
-<sequenceId type="str">695195826223</sequenceId> 
-<topics type="list"> 
+The good news is ZTE has already committing to at least adding a high-end spec to the phone, but it will be interesting to see what the phone&apos;s specs list will look like in the end.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Wireless industry news</name> 
@@ -35,7 +34,8 @@ The good news is ZTE has already committing to at least adding a high-end spec t
 <group type="str">Technology</group> 
 <name type="str">Telecom news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:00Z</estimatedPublishedDate> 
-<title type="str">ZTE Hawkeye Smartphone Could Become High-end, Kickstarter Page to Be Pulled Down</title> 
+</TOPICS> 
+<DOCID type="str">695195826223</DOCID> 
+<DCT type="str">2017-01-29T07:19:00Z</DCT> 
+<TITLE type="str">ZTE Hawkeye Smartphone Could Become High-end, Kickstarter Page to Be Pulled Down</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The ashes of sports broadcaster Norman May have been scattered on a Sydney beach in a ceremony attended by family and friends. 
+<TEXT type="str">The ashes of sports broadcaster Norman May have been scattered on a Sydney beach in a ceremony attended by family and friends. 
  
 May, an Australian Sports Hall of Fame member, died last September aged 88. 
  
@@ -12,9 +12,8 @@ Australian Olympic Committee and close friend John Coates as well as Mark Tonell
  
 May&apos;s broadcasting career began by chance in 1957 when, working as an insurance clerk, he was asked to commentate on a surf lifesaving event in Sydney. 
  
-AAP</content> 
-<sequenceId type="str">695194644601</sequenceId> 
-<topics type="list"> 
+AAP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -27,7 +26,8 @@ AAP</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:00Z</estimatedPublishedDate> 
-<title type="str">Norman May&apos;s ashes scattered in Sydney</title> 
+</TOPICS> 
+<DOCID type="str">695194644601</DOCID> 
+<DCT type="str">2017-01-29T07:17:00Z</DCT> 
+<TITLE type="str">Norman May&apos;s ashes scattered in Sydney</TITLE> 
 </root>

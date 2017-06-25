@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The country’s decision is in response to President Donald Trump’s executive order limiting immigration from seven Muslim-majority countries
+<TEXT type="str">The country’s decision is in response to President Donald Trump’s executive order limiting immigration from seven Muslim-majority countries
 
 &quot;The US decision to restrict travel for Muslims to the US even if for a temporary period of three months is an obvious insult to the Islamic world and in particular to the great nation of Iran&quot; the statement said
 
@@ -12,9 +12,8 @@ Iran is among seven countries whose nationals are barred from entering the Unite
 
 The other six countries listed in the executive order are Iraq Syria Libya Somalia Sudan and Yemen Other nations may be added
 
-The order which exempts diplomats and members of international organizations also stops the admission of all refugees to the United States for four months Top Stories</content> 
-<sequenceId type="str">695199711225</sequenceId> 
-<topics type="list"> 
+The order which exempts diplomats and members of international organizations also stops the admission of all refugees to the United States for four months Top Stories</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -27,7 +26,8 @@ The order which exempts diplomats and members of international organizations als
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:57Z</estimatedPublishedDate> 
-<title type="str">Trump’s order: Iran retaliates, bans US citizens</title> 
+</TOPICS> 
+<DOCID type="str">695199711225</DOCID> 
+<DCT type="str">2017-01-29T07:53:57Z</DCT> 
+<TITLE type="str">Trump’s order: Iran retaliates, bans US citizens</TITLE> 
 </root>

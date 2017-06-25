@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Follow @edarabia  
+<TEXT type="str">Follow @edarabia  
 
  
 Dubai, UAE: The message of a teenager who launched an anti-bullying campaign after he was the victim of abuse has gone worldwide thanks to social media. 
@@ -54,9 +54,8 @@ Sally Faisal, a biology teacher at Abu Dhabi International School taught Yazan a
 “Every pupil was listening to what these children were saying and I think many more understand how damaging bullying can be.” 
  
 © The National 
- Jan 2</content> 
-<sequenceId type="str">695193875793</sequenceId> 
-<topics type="list"> 
+ Jan 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -77,7 +76,8 @@ Sally Faisal, a biology teacher at Abu Dhabi International School taught Yazan a
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:36Z</estimatedPublishedDate> 
-<title type="str">Dubai teen’s Bullying Is Not Okay campaign tells victims to speak up</title> 
+</TOPICS> 
+<DOCID type="str">695193875793</DOCID> 
+<DCT type="str">2017-01-29T07:11:36Z</DCT> 
+<TITLE type="str">Dubai teen’s Bullying Is Not Okay campaign tells victims to speak up</TITLE> 
 </root>

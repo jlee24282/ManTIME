@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">‘Our freedom of speech and democracy are at risk’
+<TEXT type="str">‘Our freedom of speech and democracy are at risk’
 
 I want to thank you for your recent editorial in this past Sunday’s newspaper about the attacks on the media.
 
@@ -58,9 +58,8 @@ My point to all of this is that we didn’t put in all this hard work only to ha
 
 The next time you need help, don’t call on us.
 
-Jerry Sievers, Council Bluffs</content> 
-<sequenceId type="str">695202808281</sequenceId> 
-<topics type="list"> 
+Jerry Sievers, Council Bluffs</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -73,7 +72,8 @@ Jerry Sievers, Council Bluffs</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Your Views: ‘Our freedom of speech and democracy are at risk&apos;; Steps must be taken to return religious freedoms to citizens; ‘The next time you need help, don’t call on us’</title> 
+</TOPICS> 
+<DOCID type="str">695202808281</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Your Views: ‘Our freedom of speech and democracy are at risk&apos;; Steps must be taken to return religious freedoms to citizens; ‘The next time you need help, don’t call on us’</TITLE> 
 </root>

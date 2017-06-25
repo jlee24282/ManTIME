@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This is the first time Rahul Gandhi and Akhilesh Yadav are appearing together after the alliance between the Congress and the Samajwadi Party was announced.      
+<TEXT type="str">This is the first time Rahul Gandhi and Akhilesh Yadav are appearing together after the alliance between the Congress and the Samajwadi Party was announced.      
 Uttar Pradesh Chief Minister Akhilesh Yadav and Congress vice president Rahul Gandhi are addressing the press in Lucknow right now ahead of their scheduled road show.  
  
 The two leaders, whose respective parties recently announced an alliance for the Uttar Pradesh Assembly election, are appearing together for the first time since the the alliance between the Congress and the Samajwadi Party was announced. 
@@ -11,9 +11,8 @@ Here are the latest updates:
  
 Also read: After Priyanka Gandhi speaks to Akhilesh Yadav, Congress to contest all 10 seats in Amethi, Rae Bareli 
  
-Watch video</content> 
-<sequenceId type="str">695201215011</sequenceId> 
-<topics type="list"> 
+Watch video</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -22,7 +21,8 @@ Watch video</content>
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:54Z</estimatedPublishedDate> 
-<title type="str">UP Assembly election LIVE: Brothers in arms, Rahul Gandhi, Ahilesh Yadav release poll song</title> 
+</TOPICS> 
+<DOCID type="str">695201215011</DOCID> 
+<DCT type="str">2017-01-29T08:04:54Z</DCT> 
+<TITLE type="str">UP Assembly election LIVE: Brothers in arms, Rahul Gandhi, Ahilesh Yadav release poll song</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">&quot;The harvest mouse and its majestic prehensile tail...&quot;  
+<TEXT type="str">&quot;The harvest mouse and its majestic prehensile tail...&quot;  
    
  &quot;The Ocellated Turkey and its iridescent feathers...&quot;  
    
@@ -10,14 +10,14 @@
    
  &quot;Baby Margays deserve more appreciation...&quot;  
    
- &quot;Kittens photobombed by mama cat...&quot; :) - The Meta Picture</content> 
-<sequenceId type="str">695202165826</sequenceId> 
-<topics type="list"> 
+ &quot;Kittens photobombed by mama cat...&quot; :) - The Meta Picture</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:53Z</estimatedPublishedDate> 
-<title type="str">&quot;Glorious fox colors...&quot; - The Meta Picture</title> 
+</TOPICS> 
+<DOCID type="str">695202165826</DOCID> 
+<DCT type="str">2017-01-29T08:11:53Z</DCT> 
+<TITLE type="str">&quot;Glorious fox colors...&quot; - The Meta Picture</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Auckland Council is taking back the administration and management of Motukorea Browns Island from the Department of Conservation (DOC) after an agreement with the New Zealand Government. 
+<TEXT type="str">Auckland Council is taking back the administration and management of Motukorea Browns Island from the Department of Conservation (DOC) after an agreement with the New Zealand Government. 
  
 Auckland Council Environment and Community Committee Chair Councillor Penny Hulse says the move is important for Auckland, explaining “the 60 hectare island is one of the least modified and best preserved volcanic cones in the Auckland area and the nearest island in the Hauraki Gulf to the Auckland isthmus. 
  
@@ -36,9 +36,8 @@ Councillor Chris Fletcher, a long-time advocate for the Hauraki Gulf, added “M
  
 16th June 2010 -  NATIONAL OCEAN WATER SPORTS CENTRE FOR TAKAPUNA BEACH 
  
- </content> 
-<sequenceId type="str">695197562242</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -47,7 +46,8 @@ Councillor Chris Fletcher, a long-time advocate for the Hauraki Gulf, added “M
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:28Z</estimatedPublishedDate> 
-<title type="str">Auckland Council takes back control of Motukorea Browns Island</title> 
+</TOPICS> 
+<DOCID type="str">695197562242</DOCID> 
+<DCT type="str">2017-01-29T07:38:28Z</DCT> 
+<TITLE type="str">Auckland Council takes back control of Motukorea Browns Island</TITLE> 
 </root>

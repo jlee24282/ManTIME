@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">   
+<TEXT type="str">   
 One of the missing kids 
  
 As revealed by Assistant Commissioner of Police, ACP Ebong Eyibio, who is the Area Commander of Kafanchan, Southern Kaduna, Kaduna State, two kids are missing in the region. 
@@ -21,9 +21,8 @@ Upvotes percentage: 0.000000%
  
 Downvotes: 0 
  
-Downvotes percentage: 0.0</content> 
-<sequenceId type="str">695194448952</sequenceId> 
-<topics type="list"> 
+Downvotes percentage: 0.0</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
@@ -36,7 +35,8 @@ Downvotes percentage: 0.0</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:15Z</estimatedPublishedDate> 
-<title type="str">Two Kids Disappeared on Their Way to School in Kafanchan, Southern Kaduna (Photos)</title> 
+</TOPICS> 
+<DOCID type="str">695194448952</DOCID> 
+<DCT type="str">2017-01-29T07:15:15Z</DCT> 
+<TITLE type="str">Two Kids Disappeared on Their Way to School in Kafanchan, Southern Kaduna (Photos)</TITLE> 
 </root>

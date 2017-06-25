@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK — With the start of tax season, stress levels are rising at many small businesses. 
+<TEXT type="str">NEW YORK — With the start of tax season, stress levels are rising at many small businesses. 
  
 Even owners who are organized, keep good books and stay in touch with their accountants can find compiling returns to be a painful process. One reason is that tax laws change often, said Rosamaria Bravo, a certified public accountant with the firm MBAF in Miami. 
  
@@ -58,9 +58,8 @@ For example, Chandler said, depreciation laws are shifting annually, and the hea
  
 Occasionally, the company gets additional tax bills, which raise a question for Chandler and his chief financial officer. 
  
-“Do we send it to our CPA [to handle] for $200 or $300 an hour, or just pay the bill?” he said.</content> 
-<sequenceId type="str">695194343519</sequenceId> 
-<topics type="list"> 
+“Do we send it to our CPA [to handle] for $200 or $300 an hour, or just pay the bill?” he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -77,7 +76,8 @@ Occasionally, the company gets additional tax bills, which raise a question for 
 <group type="str">Business</group> 
 <name type="str">Small business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:40Z</estimatedPublishedDate> 
-<title type="str">Taxes often a headache for small businesses</title> 
+</TOPICS> 
+<DOCID type="str">695194343519</DOCID> 
+<DCT type="str">2017-01-29T07:14:40Z</DCT> 
+<TITLE type="str">Taxes often a headache for small businesses</TITLE> 
 </root>

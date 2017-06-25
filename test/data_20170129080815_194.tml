@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Saudi warplanes have targeted a civilian vehicle carrying 14 passengers in Yemen’s Southwestern Province of Ta’izz, martyring all of its occupants. 
+<TEXT type="str">Saudi warplanes have targeted a civilian vehicle carrying 14 passengers in Yemen’s Southwestern Province of Ta’izz, martyring all of its occupants. 
  
 According to Press TV, the charred bodies of the victims were discovered after the Saudi airstrike late on Friday. 
  
@@ -16,9 +16,8 @@ The Saudi war has also taken a heavy toll on the country’s facilities and infr
  
 Stephen O’Brien, the United Nations (UN)’s Under-Secretary-General for Humanitarian Affairs, on Thursday warned of the dire humanitarian situation in Yemen in the wake of the nearly two-year-old Saudi war in the impoverished Arab country. He said Yemen could face famine this year. 
  
-ME</content> 
-<sequenceId type="str">695197474471</sequenceId> 
-<topics type="list"> 
+ME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Saudi Arabia news</name> 
@@ -31,7 +30,8 @@ ME</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:50Z</estimatedPublishedDate> 
-<title type="str">Saudi airstrike martyrs 14 civilians in Yemen</title> 
+</TOPICS> 
+<DOCID type="str">695197474471</DOCID> 
+<DCT type="str">2017-01-29T07:37:50Z</DCT> 
+<TITLE type="str">Saudi airstrike martyrs 14 civilians in Yemen</TITLE> 
 </root>

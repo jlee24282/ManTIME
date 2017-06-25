@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Victoria: An early-morning fire Saturday destroyed a Texas mosque that was a target of hatred several years ago and experienced a burglary just a week ago. 
+<TEXT type="str">Victoria: An early-morning fire Saturday destroyed a Texas mosque that was a target of hatred several years ago and experienced a burglary just a week ago. 
  
 A clerk at a convenience store spotted smoke and flames billowing from the Islamic Center of Victoria at around 2 a.m. and called the fire department. 
  
@@ -32,9 +32,8 @@ The Texas office of the Council on American-Islamic Relations said like that bla
  
 There’s been no determination yet for the Austin blaze, Diane Kanawati, with CAIR-Austin, said Saturday. 
  
-In December, a man was sentenced to four years in prison for setting fire to a Houston mosque where he worshipped. Gary Nathaniel Moore pleaded guilty to arson and using a fire as a deadly weapon in a Dec. 25, 2015, blaze that caused significant damage at the Islamic Society of Greater Houston mosque.</content> 
-<sequenceId type="str">695204957085</sequenceId> 
-<topics type="list"> 
+In December, a man was sentenced to four years in prison for setting fire to a Houston mosque where he worshipped. Gary Nathaniel Moore pleaded guilty to arson and using a fire as a deadly weapon in a Dec. 25, 2015, blaze that caused significant damage at the Islamic Society of Greater Houston mosque.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Austin news</name> 
@@ -43,7 +42,8 @@ In December, a man was sentenced to four years in prison for setting fire to a H
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:10Z</estimatedPublishedDate> 
-<title type="str">US: Texas mosque goes up in flames hours after Trump’s Muslim ban</title> 
+</TOPICS> 
+<DOCID type="str">695204957085</DOCID> 
+<DCT type="str">2017-01-29T08:33:10Z</DCT> 
+<TITLE type="str">US: Texas mosque goes up in flames hours after Trump’s Muslim ban</TITLE> 
 </root>

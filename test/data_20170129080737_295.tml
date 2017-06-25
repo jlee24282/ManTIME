@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Donegal Democrat has been informed of the following deaths: 
+<TEXT type="str">The Donegal Democrat has been informed of the following deaths: 
  
 - Paul Mc Gill, Teach Ban, Magheraclogher, Bunbeg &amp; formerly of Derry 
  
@@ -65,9 +65,8 @@ Requiem Mass on Tuesday morning at 11am at St Patrick&apos;s Church, interment i
  
 All enquiries to Patrick McKenna Funeral Directors, Ballyshannon on 087 2485819. 
  
-* If you wish to have a death notice included, please e-mail: editorial@donegaldemocrat.com and include a contact telephone number for verification.</content> 
-<sequenceId type="str">695196355050</sequenceId> 
-<topics type="list"> 
+* If you wish to have a death notice included, please e-mail: editorial@donegaldemocrat.com and include a contact telephone number for verification.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -76,7 +75,8 @@ All enquiries to Patrick McKenna Funeral Directors, Ballyshannon on 087 2485819.
 <group type="str">Regional</group> 
 <name type="str">Ireland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:52Z</estimatedPublishedDate> 
-<title type="str">Donegal deaths, Sunday 29th January, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695196355050</DOCID> 
+<DCT type="str">2017-01-29T07:28:52Z</DCT> 
+<TITLE type="str">Donegal deaths, Sunday 29th January, 2017</TITLE> 
 </root>

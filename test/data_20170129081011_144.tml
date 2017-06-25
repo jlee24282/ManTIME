@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The nations targeted for new visitation restrictions by President Donald Trump on Friday all have something in common: They are places he does not appear to have any business interests.
+<TEXT type="str">The nations targeted for new visitation restrictions by President Donald Trump on Friday all have something in common: They are places he does not appear to have any business interests.
 
 The executive order he signed bars entry for the next 90 days by travelers from Syria, Iran, Iraq, Yemen, Sudan, Somalia and Libya. Excluded are several majority-Muslim nations where the Trump Organization is active and which in some cases have faced issues with terrorism.
 
@@ -36,9 +36,8 @@ The executive order makes no mention of Saudi Arabia, home of 15 of the 19 terro
 
 Excluded as well is Indonesia, the world’s largest majority-Muslim nation, where there are two Trump-branded resorts underway.
 
-“To be blunt, we really don’t know what to make of which motives are driving this president’s decisions,” said Kamal Essaheb, director of policy and advocacy for the National Immigration Law Center. “From what we could tell from his campaign and his actions since he became president, what seems to be first and foremost on his mind is his own self-interest and an obsession with his brand.”</content> 
-<sequenceId type="str">695202211791</sequenceId> 
-<topics type="list"> 
+“To be blunt, we really don’t know what to make of which motives are driving this president’s decisions,” said Kamal Essaheb, director of policy and advocacy for the National Immigration Law Center. “From what we could tell from his campaign and his actions since he became president, what seems to be first and foremost on his mind is his own self-interest and an obsession with his brand.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
@@ -59,7 +58,8 @@ Excluded as well is Indonesia, the world’s largest majority-Muslim nation, whe
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">ANALYSIS: Countries where Trump does business are not hit by new travel restrictions</title> 
+</TOPICS> 
+<DOCID type="str">695202211791</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">ANALYSIS: Countries where Trump does business are not hit by new travel restrictions</TITLE> 
 </root>

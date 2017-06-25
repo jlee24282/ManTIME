@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Australian Greens has issued a slap down to the formation of formal factions just weeks after the establishment of the controversial anti-capitalist group Left Renewal within its ranks. 
+<TEXT type="str">The Australian Greens has issued a slap down to the formation of formal factions just weeks after the establishment of the controversial anti-capitalist group Left Renewal within its ranks. 
  
 A statement issued by the Australian Greens National Council on Sunday declares formal factions &quot;incompatible&quot; with the party&apos;s principles. 
   
@@ -52,9 +52,8 @@ In its statement, which was emailed to every Greens member, the National Counci
  
 &quot;We reject, as fundamentally inconsistent with our principles of egalitarian and collaborative consensus-based decision making, the formation of formal factions in the party,&quot; it said. 
  
-&quot;Furthermore, the formation of formal factions is incompatible with our party structure and rules&quot;.</content> 
-<sequenceId type="str">695194827082</sequenceId> 
-<topics type="list"> 
+&quot;Furthermore, the formation of formal factions is incompatible with our party structure and rules&quot;.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Australia stories</name> 
@@ -67,7 +66,8 @@ In its statement, which was emailed to every Greens member, the National Counci
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:46Z</estimatedPublishedDate> 
-<title type="str">Australian Greens national council says factions &apos;incompatible&apos; with its principles</title> 
+</TOPICS> 
+<DOCID type="str">695194827082</DOCID> 
+<DCT type="str">2017-01-29T07:11:46Z</DCT> 
+<TITLE type="str">Australian Greens national council says factions &apos;incompatible&apos; with its principles</TITLE> 
 </root>

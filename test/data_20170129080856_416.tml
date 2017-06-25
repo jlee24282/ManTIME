@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A report claims recordings of conversations detail intentions to discredit opposition parties in a campaign costing R50 million. 
+<TEXT type="str">A report claims recordings of conversations detail intentions to discredit opposition parties in a campaign costing R50 million. 
 
 JOHANNESBURG – The City Press has revealed that secret recordings of an African National Congress (ANC) meeting show exactly who was involved in the war room allegedly set up to discredit other parties ahead of the 2016 local government elections.
 
@@ -18,14 +18,14 @@ However, the recordings show there was a problem with raising the required fundi
 
 Jacobs repeatedly asked for updated reports from Bolani. 
 
-Questions have been asked about ANC members’ knowledge of the war room and to what extent it was supported.</content> 
-<sequenceId type="str">695199588142</sequenceId> 
-<topics type="list"> 
+Questions have been asked about ANC members’ knowledge of the war room and to what extent it was supported.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:44Z</estimatedPublishedDate> 
-<title type="str">News of secret recordings as the ANC war room scandal refuses to go away</title> 
+</TOPICS> 
+<DOCID type="str">695199588142</DOCID> 
+<DCT type="str">2017-01-29T07:35:44Z</DCT> 
+<TITLE type="str">News of secret recordings as the ANC war room scandal refuses to go away</TITLE> 
 </root>

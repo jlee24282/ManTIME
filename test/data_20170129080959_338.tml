@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump&apos;s executive orders on immigration are not sitting well with many leaders in the business community, particularly in the tech industry. 
+<TEXT type="str">President Donald Trump&apos;s executive orders on immigration are not sitting well with many leaders in the business community, particularly in the tech industry. 
 
 These titans of industry -- who largely hail from the Silicon Valley area -- not only view the travel ban on immigration from seven predominantly Muslim countries as discriminatory, but also detrimental to economic and technological growth, as well as their staffing needs. 
 
@@ -38,9 +38,8 @@ AARON LEVIE, BOX
 
 The CEO of Palo Alto, California-based enterprise cloud company Box, Levie tweeted, &quot;On every level -moral, humanitarian, economic, logical, etc.- this ban is wrong and is completely antithetical to the principles of America.&quot; On every level -moral, humanitarian, economic, logical, etc.- this ban is wrong and is completely antithetical to the principles of America.— Aaron Levie (@levie) DREW HOUSTON, DROPBOX 
 
-&quot;Executive orders affecting world&apos;s most vulnerable are un-American,&quot; tweeted Drew Houston, CEO of Dropbox, the San Francisco-based file sharing service. &quot;Dropbox embraces people from all countries and faiths.&quot; Executive orders affecting world&apos;s most vulnerable are un-American. Dropbox embraces people from all countries and faiths— Drew Houston (@drewhouston) ABC News&apos; Zunaira Zaki contributed to this report.</content> 
-<sequenceId type="str">695201921523</sequenceId> 
-<topics type="list"> 
+&quot;Executive orders affecting world&apos;s most vulnerable are un-American,&quot; tweeted Drew Houston, CEO of Dropbox, the San Francisco-based file sharing service. &quot;Dropbox embraces people from all countries and faiths.&quot; Executive orders affecting world&apos;s most vulnerable are un-American. Dropbox embraces people from all countries and faiths— Drew Houston (@drewhouston) ABC News&apos; Zunaira Zaki contributed to this report.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -69,7 +68,8 @@ The CEO of Palo Alto, California-based enterprise cloud company Box, Levie tweet
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:24Z</estimatedPublishedDate> 
-<title type="str">CEOs Slam Trump Travel Ban, Vow to Support Affected Employees</title> 
+</TOPICS> 
+<DOCID type="str">695201921523</DOCID> 
+<DCT type="str">2017-01-29T07:58:24Z</DCT> 
+<TITLE type="str">CEOs Slam Trump Travel Ban, Vow to Support Affected Employees</TITLE> 
 </root>

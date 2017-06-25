@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In these uncertain times, working families need the safety and security of health coverage more than ever. Some members of Congress are discussing major changes to our health system, including a repeal of the Affordable Care Act, without a replacement. They are also discussing major, damaging changes to Medicaid, the Children’s Health Insurance Program and Medicare. 
+<TEXT type="str">In these uncertain times, working families need the safety and security of health coverage more than ever. Some members of Congress are discussing major changes to our health system, including a repeal of the Affordable Care Act, without a replacement. They are also discussing major, damaging changes to Medicaid, the Children’s Health Insurance Program and Medicare. 
  
 I support our legislators&apos; continued efforts to oppose this repeal, and encourage them to continue to take a strong stand on this issue. 
  
@@ -12,9 +12,8 @@ In order to keep our families safe and our economy and communities healthy we mu
  
 Shira Hirshberg 
  
-Providence</content> 
-<sequenceId type="str">695195706487</sequenceId> 
-<topics type="list"> 
+Providence</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
@@ -31,7 +30,8 @@ Providence</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Shira Hirshberg: Repeal of health-care law will add to costs</title> 
+</TOPICS> 
+<DOCID type="str">695195706487</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Shira Hirshberg: Repeal of health-care law will add to costs</TITLE> 
 </root>

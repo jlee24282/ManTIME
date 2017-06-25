@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mitchell Starc has only played one international match in New Zealand, but it&apos;s no secret he&apos;s a fan of the country&apos;s swinging conditions. 
+<TEXT type="str">Mitchell Starc has only played one international match in New Zealand, but it&apos;s no secret he&apos;s a fan of the country&apos;s swinging conditions. 
  
 The left-arm quick will return to the scene of his finest World Cup hour when Australia take on New Zealand at Eden Park in the Chappell-Hadlee series opener on Monday.                
  
@@ -32,9 +32,8 @@ But Starc said the experience of their replacements Shaun Marsh and Aaron Finch 
  
 Meanwhile New Zealand have confirmed they will play an extra batsman, with Tom Latham taking the gloves to make for a deeper lineup on the bowler-friendly wicket. 
  
-AAP </content> 
-<sequenceId type="str">695198462543</sequenceId> 
-<topics type="list"> 
+AAP </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -43,7 +42,8 @@ AAP </content>
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:58Z</estimatedPublishedDate> 
-<title type="str">Starc aims to repeat World Cup mayhem</title> 
+</TOPICS> 
+<DOCID type="str">695198462543</DOCID> 
+<DCT type="str">2017-01-29T07:43:58Z</DCT> 
+<TITLE type="str">Starc aims to repeat World Cup mayhem</TITLE> 
 </root>

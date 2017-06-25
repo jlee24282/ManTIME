@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Pictures Videos 
+<TEXT type="str">Pictures Videos 
   
 ABU DHABI, 29th January, 2017 (WAM) -- A UAE newspaper has said that the three-day visit of His Highness Sheikh Mohamed bin Zayed Al Nahyan, Crown Prince of Abu Dhabi and Deputy Supreme Commander of the UAE Armed Forces, to New Delhi, has come to an end, but the relationship between the UAE and India is now beginning a new chapter. 
  
@@ -16,9 +16,8 @@ The paper went on to say, &quot;For centuries, the region’s relationship with 
  
 &quot;One can’t easily replicate the tight bonds that we share with India. In the face of an uncertain global future, redoubling our bonds will prepare both countries and the region as a whole to address any challenge from a position of strength and solidarity,&quot; concluded the Abu Dhabi-based daily. 
  
-WAM/Esraa/Moran</content> 
-<sequenceId type="str">695196428960</sequenceId> 
-<topics type="list"> 
+WAM/Esraa/Moran</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -39,7 +38,8 @@ WAM/Esraa/Moran</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:38:01Z</estimatedPublishedDate> 
-<title type="str">UAE and India have a shared history and a shared future: paper</title> 
+</TOPICS> 
+<DOCID type="str">695196428960</DOCID> 
+<DCT type="str">2017-01-29T05:38:01Z</DCT> 
+<TITLE type="str">UAE and India have a shared history and a shared future: paper</TITLE> 
 </root>

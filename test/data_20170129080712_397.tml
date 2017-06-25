@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Latest on Sunday at the Australian Open (all times local): 
+<TEXT type="str">The Latest on Sunday at the Australian Open (all times local): 
 
 5:30 p.m. 
 
@@ -38,9 +38,8 @@ The last time Roger Federer and Rafael Nadal met in a major final was at the Fre
 
 Federer, with a leading 17 Grand Slam men&apos;s singles titles, has gone further in the tournament than he ever expected after being out for six months with a left knee injury. Nadal, too, spent extended injury time on the sidelines in 2016. 
 
-The mixed doubles final will open the action at Rod Laver, with American Abigail Spears and Juan Sebastian Cabal playing Sania Mirza of India and Ivan Dodig.</content> 
-<sequenceId type="str">695195462316</sequenceId> 
-<topics type="list"> 
+The mixed doubles final will open the action at Rod Laver, with American Abigail Spears and Juan Sebastian Cabal playing Sania Mirza of India and Ivan Dodig.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -49,7 +48,8 @@ The mixed doubles final will open the action at Rod Laver, with American Abigail
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:42:03Z</estimatedPublishedDate> 
-<title type="str">The Latest: Spears and Cabal win Aussie mixed doubles title</title> 
+</TOPICS> 
+<DOCID type="str">695195462316</DOCID> 
+<DCT type="str">2017-01-29T06:42:03Z</DCT> 
+<TITLE type="str">The Latest: Spears and Cabal win Aussie mixed doubles title</TITLE> 
 </root>

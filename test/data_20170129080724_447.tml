@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Subscribe today for full access on your desktop, tablet, and mobile device. 
+<TEXT type="str">Subscribe today for full access on your desktop, tablet, and mobile device. 
  Subscribe Now              Share This Story!  
 Let friends in your social network know what you are reading about 
   Around the Big Country w/Ron: Cisco, Albany, Comanche  
@@ -61,9 +61,8 @@ Read or Share this story: http://arnne.ws/2kcznKk
 0) { %&gt; 
 
 0) { %&gt; 
-]]&gt;</content> 
-<sequenceId type="str">695195983762</sequenceId> 
-<topics type="list"> 
+]]&gt;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Communications equipment news</name> 
@@ -84,7 +83,8 @@ Read or Share this story: http://arnne.ws/2kcznKk
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-27T23:54:12Z</estimatedPublishedDate> 
-<title type="str">Around the Big Country w/Ron: Cisco, Albany, Comanche</title> 
+</TOPICS> 
+<DOCID type="str">695195983762</DOCID> 
+<DCT type="str">2017-01-27T23:54:12Z</DCT> 
+<TITLE type="str">Around the Big Country w/Ron: Cisco, Albany, Comanche</TITLE> 
 </root>

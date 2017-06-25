@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">French Socialists are set to choose their candidate for this year&apos;s presidential election today in a runoff pitting pro-business ex-premier Manuel Valls against hard-left lawmaker Benoit Hamon. Hamon, who is often compared to British Labour leader Jeremy Corbyn , is favourite to beat Valls in the primary&apos;s head-to-head vote, but has little chance of winning the presidential race proper after five years of unpopular Socialist rule.</content> 
-<sequenceId type="str">695195667103</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">French Socialists are set to choose their candidate for this year&apos;s presidential election today in a runoff pitting pro-business ex-premier Manuel Valls against hard-left lawmaker Benoit Hamon. Hamon, who is often compared to British Labour leader Jeremy Corbyn , is favourite to beat Valls in the primary&apos;s head-to-head vote, but has little chance of winning the presidential race proper after five years of unpopular Socialist rule.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:10Z</estimatedPublishedDate> 
-<title type="str">French Left picks presidential candidate as Socialist rebel faces ex PM Valls</title> 
+</TOPICS> 
+<DOCID type="str">695195667103</DOCID> 
+<DCT type="str">2017-01-29T07:19:10Z</DCT> 
+<TITLE type="str">French Left picks presidential candidate as Socialist rebel faces ex PM Valls</TITLE> 
 </root>

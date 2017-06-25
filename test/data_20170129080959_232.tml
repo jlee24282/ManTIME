@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The post appeared first on Daily News Egypt.... 
+<TEXT type="str">The post appeared first on Daily News Egypt.... 
 
 Published By: dailynewsegypt - Yesterday 
 
@@ -12,9 +12,8 @@ Will Donald Trump allow African despots to fool him?
 
 Chaos, anger as Trump order halts some Muslim immigrants 
 
-How Trump&apos;s immigration order could affect NBA</content> 
-<sequenceId type="str">695201841558</sequenceId> 
-<topics type="list"> 
+How Trump&apos;s immigration order could affect NBA</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -43,7 +42,8 @@ How Trump&apos;s immigration order could affect NBA</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T20:30:26Z</estimatedPublishedDate> 
-<title type="str">Trump’s presidency bolsters autocrats as Egypt designates soccer icon a terrorist</title> 
+</TOPICS> 
+<DOCID type="str">695201841558</DOCID> 
+<DCT type="str">2017-01-28T20:30:26Z</DCT> 
+<TITLE type="str">Trump’s presidency bolsters autocrats as Egypt designates soccer icon a terrorist</TITLE> 
 </root>

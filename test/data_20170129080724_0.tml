@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Next of kin notifying processes for the person who died in a car crash near Gore, Southland, on Saturday are on-going. 
+<TEXT type="str">Next of kin notifying processes for the person who died in a car crash near Gore, Southland, on Saturday are on-going. 
  
 Police were called to the scene just before 8pm on Saturday on Donald Rd, in Maitland, about 17km from Gore. 
  
@@ -14,9 +14,8 @@ No other vehicles were involved, she said.
  
 The Serious Crash Unit was investigating the incident and the road was closed while the scene was cleared.  
  
- </content> 
-<sequenceId type="str">695195568756</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -25,7 +24,8 @@ The Serious Crash Unit was investigating the incident and the road was closed w
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:08Z</estimatedPublishedDate> 
-<title type="str">One killed in Gore crash</title> 
+</TOPICS> 
+<DOCID type="str">695195568756</DOCID> 
+<DCT type="str">2017-01-29T07:23:08Z</DCT> 
+<TITLE type="str">One killed in Gore crash</TITLE> 
 </root>

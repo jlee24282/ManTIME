@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695194159685</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Bangladesh news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T13:06:33Z</estimatedPublishedDate> 
-<title type="str">Chinese Spring Festival at Le Meridien Dhaka</title> 
+</TOPICS> 
+<DOCID type="str">695194159685</DOCID> 
+<DCT type="str">2017-01-28T13:06:33Z</DCT> 
+<TITLE type="str">Chinese Spring Festival at Le Meridien Dhaka</TITLE> 
 </root>

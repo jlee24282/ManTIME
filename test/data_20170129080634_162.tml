@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cape Town – The Blitzboks and Fiji will contest the final of the Wellington Sevens after beating Canada and Scotland in their respective semi-finals. 
+<TEXT type="str">Cape Town – The Blitzboks and Fiji will contest the final of the Wellington Sevens after beating Canada and Scotland in their respective semi-finals. 
  
 After crushing France 45-0 in the quarter-finals, South Africa proved too strong for a gallant Canadian side.  
  
@@ -16,9 +16,8 @@ Canada managed to get on the board a minute before the end of the match with Ada
  
 The match ended 21-5 and South Africa will face their pool opponents Fiji, who they defeated easily enough on Saturday. The final, however, is sure to be a different matter. 
  
-The match will take place at 9:23 (SA Time).</content> 
-<sequenceId type="str">695193982934</sequenceId> 
-<topics type="list"> 
+The match will take place at 9:23 (SA Time).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Fiji news</name> 
@@ -39,7 +38,8 @@ The match will take place at 9:23 (SA Time).</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:07:06Z</estimatedPublishedDate> 
-<title type="str">Blitzboks, Fiji to contest Wellington Sevens final</title> 
+</TOPICS> 
+<DOCID type="str">695193982934</DOCID> 
+<DCT type="str">2017-01-29T05:07:06Z</DCT> 
+<TITLE type="str">Blitzboks, Fiji to contest Wellington Sevens final</TITLE> 
 </root>

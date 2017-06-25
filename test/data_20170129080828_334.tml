@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">| www.wokv.com   
+<TEXT type="str">| www.wokv.com   
 
    
 View mobile site 
@@ -52,10 +52,10 @@ To sign in you must verify your email address. Fill out the form below and we&ap
 {* #resendVerificationForm *} {* resendVerification_emailAddress *} 
 {* newPasswordFormButton *} 
 {* /resendVerificationForm *}     
-Check your email for a link to verify your email address.</content> 
-<sequenceId type="str">695198264870</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:21Z</estimatedPublishedDate> 
-<title type="str">Dog listening to music</title> 
+Check your email for a link to verify your email address.</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695198264870</DOCID> 
+<DCT type="str">2017-01-29T07:19:21Z</DCT> 
+<TITLE type="str">Dog listening to music</TITLE> 
 </root>

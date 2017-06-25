@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Pictures Videos 
+<TEXT type="str">Pictures Videos 
  
 DUBAI, 29th January, 2017 (WAM) -- The Islamic Information Centre, a leading division of the 37-year-old Dar Al Ber Society, DABS, has announce that it printed, published and distributed 854,230 religious, social, and cultural books, locally and abroad, last year. 
  
@@ -20,9 +20,8 @@ Rashid Al Junaibi, Manager of the Islamic Information Centre, said they enlighte
  
 The centre was also active on social media, Al Junaibi pointed out. &quot;We posted and shared up to 1,635 tweets on the Dar Al Ber Society official Twitter account, along with 640 posts on Facebook.&quot; 
  
-WAM/Ahlam/Moran</content> 
-<sequenceId type="str">695203674292</sequenceId> 
-<topics type="list"> 
+WAM/Ahlam/Moran</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
@@ -31,7 +30,8 @@ WAM/Ahlam/Moran</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:28Z</estimatedPublishedDate> 
-<title type="str">Islamic Information Centre distributes 854,230 books in 2016</title> 
+</TOPICS> 
+<DOCID type="str">695203674292</DOCID> 
+<DCT type="str">2017-01-29T08:23:28Z</DCT> 
+<TITLE type="str">Islamic Information Centre distributes 854,230 books in 2016</TITLE> 
 </root>

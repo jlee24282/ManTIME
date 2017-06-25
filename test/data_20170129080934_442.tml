@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">El Paso, TX - All five starters reached double figures in scoring and UTEP used a huge second quarter to power past Marshall, 84-74, at the Don Haskins Center Saturday afternoon. The Thundering Herd (12-8, 4-5 C-USA) led 17-12 after 10 minutes of action but the Miners (6-14, 3-5 C-USA) had a +20 differential (30-10) in the second quarter to cruise into the locker room armed with a 42-27 advantage. The cushion swelled to as many as 21 (56-35, 4:40 3Q) and the visitors never truly threatened the rest of way. 
+<TEXT type="str">El Paso, TX - All five starters reached double figures in scoring and UTEP used a huge second quarter to power past Marshall, 84-74, at the Don Haskins Center Saturday afternoon. The Thundering Herd (12-8, 4-5 C-USA) led 17-12 after 10 minutes of action but the Miners (6-14, 3-5 C-USA) had a +20 differential (30-10) in the second quarter to cruise into the locker room armed with a 42-27 advantage. The cushion swelled to as many as 21 (56-35, 4:40 3Q) and the visitors never truly threatened the rest of way. 
  
   
  
@@ -40,9 +40,8 @@ The visitors had aspirations of mounting a comeback, but UTEP kept its composure
  
   
  
-The Miners will now face the daunting task of playing four straight league road games for the first time since 2005-06 (initial year in C-USA). Upon conclusion of the trip, UTEP will have had seven of nine away from home. The sequence starts at UAB at 6 p.m. MST/7 p.m. CST Thursday, with Duke Keith on the call for 600 ESPN El Paso.</content> 
-<sequenceId type="str">695201106323</sequenceId> 
-<topics type="list"> 
+The Miners will now face the daunting task of playing four straight league road games for the first time since 2005-06 (initial year in C-USA). Upon conclusion of the trip, UTEP will have had seven of nine away from home. The sequence starts at UAB at 6 p.m. MST/7 p.m. CST Thursday, with Duke Keith on the call for 600 ESPN El Paso.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -51,7 +50,8 @@ The Miners will now face the daunting task of playing four straight league road 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:23Z</estimatedPublishedDate> 
-<title type="str">UTEP WBB Thunders Past Marshall, 84-74</title> 
+</TOPICS> 
+<DOCID type="str">695201106323</DOCID> 
+<DCT type="str">2017-01-29T08:04:23Z</DCT> 
+<TITLE type="str">UTEP WBB Thunders Past Marshall, 84-74</TITLE> 
 </root>

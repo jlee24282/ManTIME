@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The dean’s list recognizes undergraduate students who earn a grade point average of 3.5 or above for the academic term. The local students who were named to the dean’s list are listed below. 
+<TEXT type="str">The dean’s list recognizes undergraduate students who earn a grade point average of 3.5 or above for the academic term. The local students who were named to the dean’s list are listed below. 
  
 • Students from Bluff City include Katherine Harrell, Bethany Lady, Doc Maines and Shannon Reed. 
  
@@ -32,9 +32,8 @@
  
 Also among local dean’s list students are Abigail Morris from Milligan College, Kaitlyn Sell from Piney Flats and Amanda Largent from Roan Mountain. 
  
-To learn more about Milligan, visit www.milligan.edu .</content> 
-<sequenceId type="str">695201969094</sequenceId> 
-<topics type="list"> 
+To learn more about Milligan, visit www.milligan.edu .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -43,7 +42,8 @@ To learn more about Milligan, visit www.milligan.edu .</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:16Z</estimatedPublishedDate> 
-<title type="str">Locals named to Milligan dean’s list</title> 
+</TOPICS> 
+<DOCID type="str">695201969094</DOCID> 
+<DCT type="str">2017-01-29T08:10:16Z</DCT> 
+<TITLE type="str">Locals named to Milligan dean’s list</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">At least 15 Indian soldiers lost their lives in two separate avalanches in Gurez and Sonmarg on Wednesday.</content> 
-<sequenceId type="str">695201946624</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">At least 15 Indian soldiers lost their lives in two separate avalanches in Gurez and Sonmarg on Wednesday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:10Z</estimatedPublishedDate> 
-<title type="str">Army Chief pays tribute to Major Amit Sagar who lost life in J&amp;K avalanche</title> 
+</TOPICS> 
+<DOCID type="str">695201946624</DOCID> 
+<DCT type="str">2017-01-29T08:08:10Z</DCT> 
+<TITLE type="str">Army Chief pays tribute to Major Amit Sagar who lost life in J&amp;K avalanche</TITLE> 
 </root>

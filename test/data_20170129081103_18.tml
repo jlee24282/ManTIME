@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A social media resistance movement is taking shape against the Trump administration, inspired by the new president s efforts to control information.</content> 
-<sequenceId type="str">695203691536</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A social media resistance movement is taking shape against the Trump administration, inspired by the new president s efforts to control information.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:39Z</estimatedPublishedDate> 
-<title type="str">News24.com | US resistance movement coalesces... on Twitter</title> 
+</TOPICS> 
+<DOCID type="str">695203691536</DOCID> 
+<DCT type="str">2017-01-29T08:23:39Z</DCT> 
+<TITLE type="str">News24.com | US resistance movement coalesces... on Twitter</TITLE> 
 </root>

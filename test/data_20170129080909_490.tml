@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As the reality of US President Donald Trump&apos;s executive order on immigration hits, immigrants and their relatives grow anxious about what it means for their loved ones. 
+<TEXT type="str">As the reality of US President Donald Trump&apos;s executive order on immigration hits, immigrants and their relatives grow anxious about what it means for their loved ones. 
 
 The executive order lists a list of seven Muslim-majority countries, temporarily banning travellers with passports from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. This includes green card holders, who travel to the US for work. 
 
@@ -50,9 +50,8 @@ Social media responds with #NoBanNoWall
 
 Social media has erupted in panic, with many people concerned about what this will mean for their families and future freedom.
 
-ABC/wires</content> 
-<sequenceId type="str">695200193421</sequenceId> 
-<topics type="list"> 
+ABC/wires</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -69,7 +68,8 @@ ABC/wires</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:35Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s Muslim ban leaves residents feeing li...</title> 
+</TOPICS> 
+<DOCID type="str">695200193421</DOCID> 
+<DCT type="str">2017-01-29T07:53:35Z</DCT> 
+<TITLE type="str">Trump&apos;s Muslim ban leaves residents feeing li...</TITLE> 
 </root>

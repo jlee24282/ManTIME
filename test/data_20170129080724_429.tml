@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TCU is now 14-7 on the season after falling to Auburn in a non-conference matchup Saturday night. 
+<TEXT type="str">TCU is now 14-7 on the season after falling to Auburn in a non-conference matchup Saturday night. 
  
 For yet another night on the hardwood, the Horned Frogs failed to play a full, competitive sixty minutes, losing to the Auburn Tigers 88-80 Saturday night at the Ed and Rae Schollmaier Arena in Fort Worth. 
  
@@ -54,9 +54,8 @@ Up Next
  
 Normal 0 false false false EN-US JA X-NONE 
  
-The Frogs’ next chance to get back in the win column will be Wednesday night, as the team heads up to Manhattan, Kansas to take on the Kansas State Wildcats (15-6). Tip-off at the Fred Bramlage Coliseum is set for 6:30 p.m. CDT.</content> 
-<sequenceId type="str">695195973082</sequenceId> 
-<topics type="list"> 
+The Frogs’ next chance to get back in the win column will be Wednesday night, as the team heads up to Manhattan, Kansas to take on the Kansas State Wildcats (15-6). Tip-off at the Fred Bramlage Coliseum is set for 6:30 p.m. CDT.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -65,7 +64,8 @@ The Frogs’ next chance to get back in the win column will be Wednesday night, 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:12:17Z</estimatedPublishedDate> 
-<title type="str">Auburn: 88  TCU: 80</title> 
+</TOPICS> 
+<DOCID type="str">695195973082</DOCID> 
+<DCT type="str">2017-01-29T03:12:17Z</DCT> 
+<TITLE type="str">Auburn: 88  TCU: 80</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump has signed an executive order directing the US military to develop a preliminary plan to defeat Islamic State in both Iraq and Syria. He discussed the issue earlier in a telephone conversation with Russian President Vladimir Putin. 
+<TEXT type="str">President Donald Trump has signed an executive order directing the US military to develop a preliminary plan to defeat Islamic State in both Iraq and Syria. He discussed the issue earlier in a telephone conversation with Russian President Vladimir Putin. 
   
 “It is the policy of the United States that ISIS be defeated,” reads the order  published on the White House website on Saturday. “Within 30 days, a preliminary draft of the Plan to defeat ISIS shall be submitted to the President by the Secretary of Defense.”  
  
@@ -18,9 +18,8 @@ Putin emphasized that “for over two centuries Russia has supported the United 
  
 Both leaders have also agreed to work out a time and venue for a possible meeting, according to the statement. 
   
-Via RT . This piece was reprinted by RINF Alternative News with permission or license.</content> 
-<sequenceId type="str">695202296429</sequenceId> 
-<topics type="list"> 
+Via RT . This piece was reprinted by RINF Alternative News with permission or license.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Syria news</name> 
@@ -41,7 +40,8 @@ Via RT . This piece was reprinted by RINF Alternative News with permission or li
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:06Z</estimatedPublishedDate> 
-<title type="str">Trump gives Pentagon 30 days to develop strategy to defeat ISIS in Iraq &amp; Syria</title> 
+</TOPICS> 
+<DOCID type="str">695202296429</DOCID> 
+<DCT type="str">2017-01-29T08:07:06Z</DCT> 
+<TITLE type="str">Trump gives Pentagon 30 days to develop strategy to defeat ISIS in Iraq &amp; Syria</TITLE> 
 </root>

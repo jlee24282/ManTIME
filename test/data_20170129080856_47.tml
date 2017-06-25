@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">“I’m anxious. Scared. I don’t know if I will have health insurance next week.” This is how Edgerton... 
+<TEXT type="str">“I’m anxious. Scared. I don’t know if I will have health insurance next week.” This is how Edgerton... 
   
 Thank you for visiting. 
  
@@ -14,9 +14,8 @@ Not signed up yet? View Membership Options
  
 No thank you 
   
-TO READ THIS ARTICLE, please Sign In or Sign up .</content> 
-<sequenceId type="str">695199145337</sequenceId> 
-<topics type="list"> 
+TO READ THIS ARTICLE, please Sign In or Sign up .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health insurance news</name> 
@@ -37,7 +36,8 @@ TO READ THIS ARTICLE, please Sign In or Sign up .</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:07Z</estimatedPublishedDate> 
-<title type="str">Our Views: On Obamacare, don’t make any rash cuts</title> 
+</TOPICS> 
+<DOCID type="str">695199145337</DOCID> 
+<DCT type="str">2017-01-29T07:49:07Z</DCT> 
+<TITLE type="str">Our Views: On Obamacare, don’t make any rash cuts</TITLE> 
 </root>

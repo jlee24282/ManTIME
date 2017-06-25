@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Is it too late to say sorry? 
+<TEXT type="str">Is it too late to say sorry? 
 
 Justin Bieber got an NHL-sized welcome to the Celebrity Shootout game on Saturday, when 6-foot-6 monster Chris Pronger plastered the Canadian pop star up against the glass to create one of the greatest hockey photos of all time. 
  
@@ -22,9 +22,8 @@ Bieber, a big fan of the Leafs, also got to play with Blackhawks star Patrick Ka
  
 Patrick Kane on Justin Bieber: &quot;He’s got a lot of good songs. I don’t know if I could say that around the locker room, but I’m a big fan.&quot; 
  
-— Mark Lazerus (@MarkLazerus) January 28, 2</content> 
-<sequenceId type="str">695199955059</sequenceId> 
-<topics type="list"> 
+— Mark Lazerus (@MarkLazerus) January 28, 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
@@ -37,7 +36,8 @@ Patrick Kane on Justin Bieber: &quot;He’s got a lot of good songs. I don’t k
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:29:26Z</estimatedPublishedDate> 
-<title type="str">Bieber thrown into glass at NHL celebrity game (Yahoo Sports)</title> 
+</TOPICS> 
+<DOCID type="str">695199955059</DOCID> 
+<DCT type="str">2017-01-29T00:29:26Z</DCT> 
+<TITLE type="str">Bieber thrown into glass at NHL celebrity game (Yahoo Sports)</TITLE> 
 </root>

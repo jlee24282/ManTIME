@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Have questions about entering the Business Plan Challenge? Want to meet some past winners and finalists? Or do you just want to mingle and  
+<TEXT type="str">Have questions about entering the Business Plan Challenge? Want to meet some past winners and finalists? Or do you just want to mingle and  
 
 network with some like-minded entrepreneurs? 
 
@@ -12,9 +12,8 @@ WHERE: CIC Miami at Converge Miami (formerly University of Miami Life Science an
 
 WHY: We want to meet you and answer your questions. Past contestants of the Challenge are welcome, too, and we’d love to hear how you’re doing. 
 
-MORE INFORMATION:  http://venturecafemiami.org/calendar-2</content> 
-<sequenceId type="str">695201691832</sequenceId> 
-<topics type="list"> 
+MORE INFORMATION:  http://venturecafemiami.org/calendar-2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">South Florida news</name> 
@@ -27,7 +26,8 @@ MORE INFORMATION:  http://venturecafemiami.org/calendar-2</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:34:34Z</estimatedPublishedDate> 
-<title type="str">Meet the Business Plan Challenge at networking event</title> 
+</TOPICS> 
+<DOCID type="str">695201691832</DOCID> 
+<DCT type="str">2017-01-29T04:34:34Z</DCT> 
+<TITLE type="str">Meet the Business Plan Challenge at networking event</TITLE> 
 </root>

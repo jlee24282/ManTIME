@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States sparked confusion and anger on Saturday after immigrants and refugees were kept off flights and left stranded in airports.</content> 
-<sequenceId type="str">695203078591</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States sparked confusion and anger on Saturday after immigrants and refugees were kept off flights and left stranded in airports.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:13Z</estimatedPublishedDate> 
-<title type="str">WRAPUP 6-Chaos, anger as Trump order halts some Muslim immigrants</title> 
+</TOPICS> 
+<DOCID type="str">695203078591</DOCID> 
+<DCT type="str">2017-01-29T08:10:13Z</DCT> 
+<TITLE type="str">WRAPUP 6-Chaos, anger as Trump order halts some Muslim immigrants</TITLE> 
 </root>

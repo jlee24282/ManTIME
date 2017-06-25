@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dear Amy: I am a member of a 50-piece wind ensemble. We have a break for cookies and coffee on practice nights, once a week. I have made homemade cookies for our break for more than 25 years. 
+<TEXT type="str">Dear Amy: I am a member of a 50-piece wind ensemble. We have a break for cookies and coffee on practice nights, once a week. I have made homemade cookies for our break for more than 25 years. 
  
 In May, we have an outdoor concert. I have brought cookies each year for after our performance. This year one of the newer band members asked me if I had “rat poison” in them! 
  
@@ -46,14 +46,14 @@ I do appreciate your first piece of advice on this: this is the parents’ issue
  
 — John D. Faucher 
  
-Dear John: I have encountered minor challenges as a parent traveling with a minor child with a different surname (one border guard queried her to determine if I was really her mother — completely understandable). But I agree that this is absolutely manageable.</content> 
-<sequenceId type="str">695200679108</sequenceId> 
-<topics type="list"> 
+Dear John: I have encountered minor challenges as a parent traveling with a minor child with a different surname (one border guard queried her to determine if I was really her mother — completely understandable). But I agree that this is absolutely manageable.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:56Z</estimatedPublishedDate> 
-<title type="str">Ask Amy: Snark takes the wind out of wind ensemble</title> 
+</TOPICS> 
+<DOCID type="str">695200679108</DOCID> 
+<DCT type="str">2017-01-29T08:00:56Z</DCT> 
+<TITLE type="str">Ask Amy: Snark takes the wind out of wind ensemble</TITLE> 
 </root>

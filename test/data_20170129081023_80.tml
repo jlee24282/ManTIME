@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DAYTONA BEACH, Fla. — The Latest on the Rolex 24 at Daytona (all times local): 
+<TEXT type="str">DAYTONA BEACH, Fla. — The Latest on the Rolex 24 at Daytona (all times local): 
  
 2:30 a.m. 
  
@@ -148,9 +148,8 @@ Four-time NASCAR champion Jeff Gordon started the race in the pits, with Wayne T
  
 Chip Ganassi Racing, which has dominated the Rolex in recent years, has two entries. One of them includes Joey Hand, Dirk Mueller and Sebastien Bourdais, who won their class at the 24 Hours of Le Mans last year. 
  
-More AP auto racing: www.racing.ap.org</content> 
-<sequenceId type="str">695202521342</sequenceId> 
-<topics type="list"> 
+More AP auto racing: www.racing.ap.org</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Consumer non-durables news</name> 
@@ -167,7 +166,8 @@ More AP auto racing: www.racing.ap.org</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: NASCAR news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:27Z</estimatedPublishedDate> 
-<title type="str">The Latest: Jeff Gordon, Taylor Racing halfway home to Rolex</title> 
+</TOPICS> 
+<DOCID type="str">695202521342</DOCID> 
+<DCT type="str">2017-01-29T08:14:27Z</DCT> 
+<TITLE type="str">The Latest: Jeff Gordon, Taylor Racing halfway home to Rolex</TITLE> 
 </root>

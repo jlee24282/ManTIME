@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">shows former Italian prime minister Silvio Berlusconi. (By AFP) 
+<TEXT type="str">shows former Italian prime minister Silvio Berlusconi. (By AFP) 
  
 A court in Italy has ordered a new trial for three-time ex-premier Silvio Berlusconi on corruption charges, creating a new obstacle to his bid to return to office. 
  
@@ -16,9 +16,8 @@ Last year, Berlusconi was tried for a sexual relationship with an underage teena
  
 A 2013 tax fraud conviction forced him out of his Senate seat and barred him from holding public office for the next few years. Berlusconi has challenged the ban, taking his case to the European Court of Human Rights. 
  
-Berlusconi eyes participating in Italy’s national elections, due in 2018, but his hopes for running for office may be dashed with the newly-scheduled trial.</content> 
-<sequenceId type="str">695198285578</sequenceId> 
-<topics type="list"> 
+Berlusconi eyes participating in Italy’s national elections, due in 2018, but his hopes for running for office may be dashed with the newly-scheduled trial.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -31,7 +30,8 @@ Berlusconi eyes participating in Italy’s national elections, due in 2018, but 
 <group type="str">Regional</group> 
 <name type="str">Italy news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:42:30Z</estimatedPublishedDate> 
-<title type="str">Italy’s ex-PM Berlusconi faces new trial 2hr</title> 
+</TOPICS> 
+<DOCID type="str">695198285578</DOCID> 
+<DCT type="str">2017-01-29T07:42:30Z</DCT> 
+<TITLE type="str">Italy’s ex-PM Berlusconi faces new trial 2hr</TITLE> 
 </root>

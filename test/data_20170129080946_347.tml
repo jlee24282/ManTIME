@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">There is a good chance that by the time you read this, Dimitri Payet will no longer be a West Ham United player. Failing that, he will almost certainly be an ex-Hammer by close of business on Tuesday. 
+<TEXT type="str">There is a good chance that by the time you read this, Dimitri Payet will no longer be a West Ham United player. Failing that, he will almost certainly be an ex-Hammer by close of business on Tuesday. 
  
 Which is a pity. 
  
@@ -87,9 +87,8 @@ At the beginning of the season I wondered if Ranieri might have been better quit
 As I said, he is one of the nice guys of football, and his legacy would be tarnished forever if he ended up being the first coach in Premier League history to relegate the champions. 
  
 [email protected] 
-Twitter: @maltablade</content> 
-<sequenceId type="str">695201438987</sequenceId> 
-<topics type="list"> 
+Twitter: @maltablade</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
@@ -102,7 +101,8 @@ Twitter: @maltablade</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:47:02Z</estimatedPublishedDate> 
-<title type="str">Another spoilt player all set to get his way</title> 
+</TOPICS> 
+<DOCID type="str">695201438987</DOCID> 
+<DCT type="str">2017-01-29T00:47:02Z</DCT> 
+<TITLE type="str">Another spoilt player all set to get his way</TITLE> 
 </root>

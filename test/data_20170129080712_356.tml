@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">. It has many features. 
+<TEXT type="str">. It has many features. 
 AppLock: Lock Everything - Lock up your Facebook, Whatsapp, Messenger and other important apps which may leak your privacy. - Nobody can open locked apps without entering the right password. - Pin code or pattern lock, two types of password with interesting applock theme. - Delicate themes to decorate your applock screen - Customize your lock mode, lock different apps under different circumstances. 
-What&apos;s more, LEO Privacy can automatically and intelligently lock apps by time or location. .It&apos;s a vault .</content> 
-<sequenceId type="str">695195426653</sequenceId> 
-<topics type="list"> 
+What&apos;s more, LEO Privacy can automatically and intelligently lock apps by time or location. .It&apos;s a vault .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Apps news</name> 
@@ -13,7 +12,8 @@ What&apos;s more, LEO Privacy can automatically and intelligently lock apps by t
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:02Z</estimatedPublishedDate> 
-<title type="str">I use an all-in-one security app-LEO Privacy</title> 
+</TOPICS> 
+<DOCID type="str">695195426653</DOCID> 
+<DCT type="str">2017-01-29T07:22:02Z</DCT> 
+<TITLE type="str">I use an all-in-one security app-LEO Privacy</TITLE> 
 </root>

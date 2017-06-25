@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">       
+<TEXT type="str">       
 A new report has been launched by Doctor Rokhsar, the Long Island liposuction expert at New York Cosmetic, Skin &amp; Laser Surgery. It explains that liposuction and liposculpture can be used to help hone patients bodies to the image they want. 
  
 Brooklyn, United States - January 29, 2017 /PressCable/ -- 
@@ -41,9 +41,8 @@ Hemp Genix Announces Partnership with NutraFuels for Manufacturing CBD Oil Spray
  
 Satellite Suites Announces Upgrade to ADA Plus 2 Restroom Trailers (Sat 28th Jan 17) 
  
-24 Hour Self Storage Launched Online Rental Pay 49445 49442 Muskegon (Sat 28th Jan 17)</content> 
-<sequenceId type="str">695200846024</sequenceId> 
-<topics type="list"> 
+24 Hour Self Storage Launched Online Rental Pay 49445 49442 Muskegon (Sat 28th Jan 17)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -52,7 +51,8 @@ Satellite Suites Announces Upgrade to ADA Plus 2 Restroom Trailers (Sat 28th Jan
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:39Z</estimatedPublishedDate> 
-<title type="str">Long Island Liposculpture New York Cosmetic Surgery Melt Fat Report Launched</title> 
+</TOPICS> 
+<DOCID type="str">695200846024</DOCID> 
+<DCT type="str">2017-01-29T08:02:39Z</DCT> 
+<TITLE type="str">Long Island Liposculpture New York Cosmetic Surgery Melt Fat Report Launched</TITLE> 
 </root>

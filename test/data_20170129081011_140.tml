@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New York — New York City’s Kennedy airport became a scene of anguish and desperation Saturday for the families of people detained after arriving in the US from nations subject to President Donald Trump’s travel ban. Many flights to the US already were in the air Friday when the president’s order barred entry to citizens […]</content> 
-<sequenceId type="str">695202210508</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">New York — New York City’s Kennedy airport became a scene of anguish and desperation Saturday for the families of people detained after arriving in the US from nations subject to President Donald Trump’s travel ban. Many flights to the US already were in the air Friday when the president’s order barred entry to citizens […]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:41:31Z</estimatedPublishedDate> 
-<title type="str">Airport becomes scene of anguish after Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695202210508</DOCID> 
+<DCT type="str">2017-01-29T05:41:31Z</DCT> 
+<TITLE type="str">Airport becomes scene of anguish after Trump travel ban</TITLE> 
 </root>

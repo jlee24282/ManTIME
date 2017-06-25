@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">– Showtime Boxing and the Premier Boxing Champions were at the MGM Grand on Saturday, January 28th with a huge night of boxing headlined by the WBA featherweight world title rematch between Carl Frampton and Leo Santa Cruz. 
+<TEXT type="str">– Showtime Boxing and the Premier Boxing Champions were at the MGM Grand on Saturday, January 28th with a huge night of boxing headlined by the WBA featherweight world title rematch between Carl Frampton and Leo Santa Cruz. 
  
 The atmosphere in the MGM Grand for this “Ireland vs Mexico” match-up was electric, and the two men picked up where their last fight left off in this one. The two men are a contrast in many ways but they are very evenly matched and both men took the experience of the first fight into the ring with them. The first match ended in a majority decision in Frampton’s favor back in July and after another twelve rounds last night, Santa Cruz was judged to have won a majority decision, setting up the inevitable trilogy. 
  
@@ -22,9 +22,8 @@ Saturday, January 28th, 2017 – MGM Grand, Las Vegas, Nevada
 118 LBS 4 RDS: Antonio Santa Cruz def Victor Torres via UD (38-37,38-37,38-37) 
 126 LBS 4 RDS: Luis Gerardo Perez def Javier Cepeda via KO in RD 2. 
  
-Frampton vs Santa Cruz Results From Vegas / Check out more boxing news on video at The Boxing Channel .</content> 
-<sequenceId type="str">695195310660</sequenceId> 
-<topics type="list"> 
+Frampton vs Santa Cruz Results From Vegas / Check out more boxing news on video at The Boxing Channel .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -33,7 +32,8 @@ Frampton vs Santa Cruz Results From Vegas / Check out more boxing news on video 
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:11Z</estimatedPublishedDate> 
-<title type="str">Frampton vs Santa Cruz Results From Vegas</title> 
+</TOPICS> 
+<DOCID type="str">695195310660</DOCID> 
+<DCT type="str">2017-01-29T07:21:11Z</DCT> 
+<TITLE type="str">Frampton vs Santa Cruz Results From Vegas</TITLE> 
 </root>

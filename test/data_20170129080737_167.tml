@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Manchester United defender Phil Jones insists that &quot;winning the FA Cup is not enough&quot; and that his side should be looking to be victorious in every match. 
+<TEXT type="str">Manchester United defender Phil Jones insists that &quot;winning the FA Cup is not enough&quot; and that his side should be looking to be victorious in every match. 
  
-Jose Mourinho&apos;s side snuck through to the EF</content> 
-<sequenceId type="str">695196247522</sequenceId> 
-<topics type="list"> 
+Jose Mourinho&apos;s side snuck through to the EF</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester United news</name> 
@@ -21,7 +20,8 @@ Jose Mourinho&apos;s side snuck through to the EF</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:18:06Z</estimatedPublishedDate> 
-<title type="str">Phil Jones Winning the FA Cup is not enough for a club like Manchester United</title> 
+</TOPICS> 
+<DOCID type="str">695196247522</DOCID> 
+<DCT type="str">2017-01-29T01:18:06Z</DCT> 
+<TITLE type="str">Phil Jones Winning the FA Cup is not enough for a club like Manchester United</TITLE> 
 </root>

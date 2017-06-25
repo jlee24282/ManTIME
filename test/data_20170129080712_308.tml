@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PARK CITY, Utah — In 1994, “Reality Bites” caused a stir at Sundance. In 2017, it’s virtual reality. 
+<TEXT type="str">PARK CITY, Utah — In 1994, “Reality Bites” caused a stir at Sundance. In 2017, it’s virtual reality. 
  
 Over the past few days, VR has dropped me in the middle of 1862’s Battle of Antietam and in the living room of a gay man as he’s being disowned by his family. At Sundance, you can even become a tree if you’re so inclined. 
  
@@ -22,9 +22,8 @@ Much like “Chasing Coral: The VR Experience,” in which you can watch the Gre
  
 “What we thought with this piece is not to have the standard climate change piece where we are telling some statistics and scaring you,” Zec says. “We actually want you … to see it from the perspective of nature. There are no words in this piece. You just get to be a tree. And we thought maybe if we evoke emotions through that, if you connect with the tree, maybe you’ll get to feel more for climate change.” 
  
-Contact Christopher Lawrence at clawrence@reviewjournal.com . On Twitter: @life_onthecouch</content> 
-<sequenceId type="str">695195385091</sequenceId> 
-<topics type="list"> 
+Contact Christopher Lawrence at clawrence@reviewjournal.com . On Twitter: @life_onthecouch</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -33,7 +32,8 @@ Contact Christopher Lawrence at clawrence@reviewjournal.com . On Twitter: @life_
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:04Z</estimatedPublishedDate> 
-<title type="str">Virtual reality films are Sundance’s latest sensation</title> 
+</TOPICS> 
+<DOCID type="str">695195385091</DOCID> 
+<DCT type="str">2017-01-29T07:14:04Z</DCT> 
+<TITLE type="str">Virtual reality films are Sundance’s latest sensation</TITLE> 
 </root>

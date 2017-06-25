@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Carl Frampton has opened the door to a deciding fight with Leo Santa Cruz - quite literally. 
+<TEXT type="str">Carl Frampton has opened the door to a deciding fight with Leo Santa Cruz - quite literally. 
  
 On a desperately disappointing night for the Jackal in Las Vegas he surrendered his WBA featherweight crown to Leo Santa Cruz as the rivals&apos; rematch was every bit as brilliant as their classic first battle last summer.  
  
@@ -38,9 +38,8 @@ When joined at the post-fight dais by his conquerer, Frampton appeared more at e
  
 “Before the fight I said I wanted revenge and I wanted to work hard. I went to the gym and I worked hard and I did what I had to do. 
  
-“My head was telling me to go forward and pressure him, but my dad and corner were telling me to box him. That’s what I had to do.&quot;</content> 
-<sequenceId type="str">695194121549</sequenceId> 
-<topics type="list"> 
+“My head was telling me to go forward and pressure him, but my dad and corner were telling me to box him. That’s what I had to do.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -49,7 +48,8 @@ When joined at the post-fight dais by his conquerer, Frampton appeared more at e
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:07:08Z</estimatedPublishedDate> 
-<title type="str">Frampton and Santa Cruz talk up trilogy in Belfast</title> 
+</TOPICS> 
+<DOCID type="str">695194121549</DOCID> 
+<DCT type="str">2017-01-29T07:07:08Z</DCT> 
+<TITLE type="str">Frampton and Santa Cruz talk up trilogy in Belfast</TITLE> 
 </root>

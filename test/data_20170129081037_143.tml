@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jon Hamm is worried about being replaced by a hologram.
+<TEXT type="str">Jon Hamm is worried about being replaced by a hologram.
 
 The 45-year-old actor plays a hologram of a long-dead man in new movie &apos;Marjorie Prime&apos; but admitted that some technological advances scare him.
 
@@ -18,14 +18,14 @@ He told Us Weekly: &apos;&apos;It&apos;s always weird. Because inevitably, you&a
 
 The &apos;Mad Men&apos; actor will also star in action comedy &apos;Baby Driver&apos; later this year, alongside Ansel Elgort, Jamie Foxx, Kevin Spacey and Lily James, and he can&apos;t wait for the stunts.
 
-He said: &apos;&apos;I get to roll around and crash cars and shoot &apos;em up. Fun stuff.&apos;&apos;</content> 
-<sequenceId type="str">695202939221</sequenceId> 
-<topics type="list"> 
+He said: &apos;&apos;I get to roll around and crash cars and shoot &apos;em up. Fun stuff.&apos;&apos;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:31Z</estimatedPublishedDate> 
-<title type="str">Jon Hamm&apos;s hologram fears</title> 
+</TOPICS> 
+<DOCID type="str">695202939221</DOCID> 
+<DCT type="str">2017-01-29T08:12:31Z</DCT> 
+<TITLE type="str">Jon Hamm&apos;s hologram fears</TITLE> 
 </root>

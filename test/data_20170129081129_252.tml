@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON/NEW YORK President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States sparked confusion and anger on Saturday after immigrants and refugees were kept off flights and left stranded in airports. 
+<TEXT type="str">WASHINGTON/NEW YORK President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States sparked confusion and anger on Saturday after immigrants and refugees were kept off flights and left stranded in airports. 
   
 In his most sweeping decision since taking office a week ago, Trump, a Republican, put a four-month hold on allowing refugees into the United States and temporarily barred travellers from Syria and six other countries. 
   
@@ -92,9 +92,8 @@ MOSCOW Russian President Vladimir Putin and U.S. President Donald Trump agreed t
     Trump bars door to refugees, visitors from seven mainly Muslim nations  
 WASHINGTON/CAIRO Five Iraqi passengers and one Yemeni were barred from boarding an EgyptAir flight from Cairo to New York on Saturday after President Donald Trump halted the entry of citizens from seven Muslim-majority countries, sources at Cairo airport said. 
     In Turkey visit, May pushes trade, mentions human rights  
-ANKARA British Prime Minister Theresa May signed a $125 million (£100 million) fighter jet deal with Turkey on Saturday and briefly cautioned Ankara on human rights following last year&apos;s failed coup, in a visit squarely aimed at boosting trade between the NATO allies.</content> 
-<sequenceId type="str">695204871601</sequenceId> 
-<topics type="list"> 
+ANKARA British Prime Minister Theresa May signed a $125 million (£100 million) fighter jet deal with Turkey on Saturday and briefly cautioned Ankara on human rights following last year&apos;s failed coup, in a visit squarely aimed at boosting trade between the NATO allies.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -123,7 +122,8 @@ ANKARA British Prime Minister Theresa May signed a $125 million (£100 million) 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:34Z</estimatedPublishedDate> 
-<title type="str">RPT-WRAPUP 6-Chaos, anger as Trump order halts some Muslim immigrants</title> 
+</TOPICS> 
+<DOCID type="str">695204871601</DOCID> 
+<DCT type="str">2017-01-29T08:32:34Z</DCT> 
+<TITLE type="str">RPT-WRAPUP 6-Chaos, anger as Trump order halts some Muslim immigrants</TITLE> 
 </root>

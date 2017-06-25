@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump’s travel ban barring citizens of seven predominantly Muslim nations entry into the U.S. has sparked protests around the country.
+<TEXT type="str">President Donald Trump’s travel ban barring citizens of seven predominantly Muslim nations entry into the U.S. has sparked protests around the country.
 
 A look at what is happening:
 
@@ -84,9 +84,8 @@ SAN DIEGO
 
 As motorists honked their support, demonstrators outside San Diego International Airport chanted “No hate, no fear, everyone is welcome here.”
 
-... Tell is a complete voice of the world&apos;s media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</content> 
-<sequenceId type="str">695202073270</sequenceId> 
-<topics type="list"> 
+... Tell is a complete voice of the world&apos;s media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -115,7 +114,8 @@ As motorists honked their support, demonstrators outside San Diego International
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:05Z</estimatedPublishedDate> 
-<title type="str">Trump Immigration Order Prompts Protests at Airports Across US</title> 
+</TOPICS> 
+<DOCID type="str">695202073270</DOCID> 
+<DCT type="str">2017-01-29T08:11:05Z</DCT> 
+<TITLE type="str">Trump Immigration Order Prompts Protests at Airports Across US</TITLE> 
 </root>

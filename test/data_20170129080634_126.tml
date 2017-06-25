@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">From the section Health Image copyright Science Photo Library Image caption Tamoxifen is used to treat breast cancer UK prices for generic cancer drugs have risen sharply in the past five years, restricting their use in treating NHS patients, research from the European Cancer Congress has found.
+<TEXT type="str">From the section Health Image copyright Science Photo Library Image caption Tamoxifen is used to treat breast cancer UK prices for generic cancer drugs have risen sharply in the past five years, restricting their use in treating NHS patients, research from the European Cancer Congress has found.
 
 Drugs such as tamoxifen and bulsufan are now 10 times more expensive despite no longer being under patent.
 
@@ -58,9 +58,8 @@ There is a similar situation in other European countries.
 
 In Spain and Italy, failure to accept the high prices demanded for some generic treatments has led to warnings from companies that they could stop their supply.
 
-&quot;At a time when cancer patients are living longer and better lives due to effective treatments, this situation is particularly worrying,&quot; Dr Hill said.</content> 
-<sequenceId type="str">695193926101</sequenceId> 
-<topics type="list"> 
+&quot;At a time when cancer patients are living longer and better lives due to effective treatments, this situation is particularly worrying,&quot; Dr Hill said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Pharma industry news</name> 
@@ -77,7 +76,8 @@ In Spain and Italy, failure to accept the high prices demanded for some generic 
 <group type="str">Society</group> 
 <name type="str">NHS news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:47:33Z</estimatedPublishedDate> 
-<title type="str">Cancer drugs price rise &apos;costing NHS millions&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695193926101</DOCID> 
+<DCT type="str">2017-01-29T06:47:33Z</DCT> 
+<TITLE type="str">Cancer drugs price rise &apos;costing NHS millions&apos;</TITLE> 
 </root>

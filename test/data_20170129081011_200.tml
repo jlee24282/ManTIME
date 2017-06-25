@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">All Times EST  OHIO VALLEY CONFERENCE   Conference  All  Games   W  L  PCT  W  L  PCT  Belmont  9  0  1.000  15  4  .789  Murray St.  6  3  .667  12  11  .522  SE Missouri  6  3  .667  11  13  .458  Morehead St.  6  3  .667  10  12  .455  UT Martin  5  4  .556  15  9  .625  Jacksonville St.  5  4  .556  13  11  .542  Tennessee Tech  5  4  .556  9  15  .375  Tennessee St.  4  5  .444  13  9  .591  E. Kentucky  3  6  .333  10  14  .417  Austin Peay  3  6  .333  7  16  .304  E. Illinois  2  7  .222  10  12  .455  SIU-Edwardsville  0  9  .000  5  18  .217  Saturday’s Games  
+<TEXT type="str">All Times EST  OHIO VALLEY CONFERENCE   Conference  All  Games   W  L  PCT  W  L  PCT  Belmont  9  0  1.000  15  4  .789  Murray St.  6  3  .667  12  11  .522  SE Missouri  6  3  .667  11  13  .458  Morehead St.  6  3  .667  10  12  .455  UT Martin  5  4  .556  15  9  .625  Jacksonville St.  5  4  .556  13  11  .542  Tennessee Tech  5  4  .556  9  15  .375  Tennessee St.  4  5  .444  13  9  .591  E. Kentucky  3  6  .333  10  14  .417  Austin Peay  3  6  .333  7  16  .304  E. Illinois  2  7  .222  10  12  .455  SIU-Edwardsville  0  9  .000  5  18  .217  Saturday’s Games  
 Morehead St. 72, Jacksonville St. 69 
  
 E. Illinois 75, SIU-Edwardsville 60 
@@ -165,9 +165,8 @@ CS Bakersfield 74, UMKC 63
  
 New Mexico St. 74, Utah Valley 69 
  
-Seattle 96, Rio Grande 84</content> 
-<sequenceId type="str">695202291608</sequenceId> 
-<topics type="list"> 
+Seattle 96, Rio Grande 84</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Austin news</name> 
@@ -176,7 +175,8 @@ Seattle 96, Rio Grande 84</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:46Z</estimatedPublishedDate> 
-<title type="str">BC-BKC--BKC Glance,2nd Add</title> 
+</TOPICS> 
+<DOCID type="str">695202291608</DOCID> 
+<DCT type="str">2017-01-29T08:12:46Z</DCT> 
+<TITLE type="str">BC-BKC--BKC Glance,2nd Add</TITLE> 
 </root>

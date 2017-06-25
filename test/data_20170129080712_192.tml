@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Author: waqtnews 
+<TEXT type="str">Author: waqtnews 
 Tags: 
-Posted: 29 January 2</content> 
-<sequenceId type="str">695195212101</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:23Z</estimatedPublishedDate> 
-<title type="str">Waqtnews Headlines 11:00 AM 29 January 2017</title> 
+</TOPICS> 
+<DOCID type="str">695195212101</DOCID> 
+<DCT type="str">2017-01-29T07:19:23Z</DCT> 
+<TITLE type="str">Waqtnews Headlines 11:00 AM 29 January 2017</TITLE> 
 </root>

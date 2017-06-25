@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A federal judge blocked the deportation on Saturday of dozens of travelers and refugees from seven Muslim-majority nations, stranded at U. S. airports under an order from President Donald Trump, after a lawsuit filed on behalf of two Iraqis with ties to U. S. security forces.</content> 
-<sequenceId type="str">695201038677</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A federal judge blocked the deportation on Saturday of dozens of travelers and refugees from seven Muslim-majority nations, stranded at U. S. airports under an order from President Donald Trump, after a lawsuit filed on behalf of two Iraqis with ties to U. S. security forces.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:14Z</estimatedPublishedDate> 
-<title type="str">UPDATE 4-Two Iraqis lead legal fight against Trump order blocking entry</title> 
+</TOPICS> 
+<DOCID type="str">695201038677</DOCID> 
+<DCT type="str">2017-01-29T07:57:14Z</DCT> 
+<TITLE type="str">UPDATE 4-Two Iraqis lead legal fight against Trump order blocking entry</TITLE> 
 </root>

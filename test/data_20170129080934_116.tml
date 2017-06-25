@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">From the section UK Media captionTheresa May: &quot;Well, the United States is responsible for the United States policy on refugees&quot; 
+<TEXT type="str">From the section UK Media captionTheresa May: &quot;Well, the United States is responsible for the United States policy on refugees&quot; 
 
 Theresa May does &quot;not agree&quot; with Donald Trump&apos;s refugee ban and will appeal to the US if it affects British citizens, Downing Street has said.
 
@@ -56,9 +56,8 @@ At a news conference in Ankara with Turkish Prime Minister Benali Yildirim on Sa
 
 She added: &quot;The United Kingdom is responsible for the United Kingdom&apos;s policy on refugees.
 
-&quot;[This] is to have a number of voluntary schemes to bring Syrian refugees into the country, particularly those who are most vulnerable, but also to provide significant financial contributions to support refugees in countries surrounding Syria.&quot;</content> 
-<sequenceId type="str">695200767950</sequenceId> 
-<topics type="list"> 
+&quot;[This] is to have a number of voluntary schemes to bring Syrian refugees into the country, particularly those who are most vulnerable, but also to provide significant financial contributions to support refugees in countries surrounding Syria.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Scotland news</name> 
@@ -87,7 +86,8 @@ She added: &quot;The United Kingdom is responsible for the United Kingdom&apos;s
 <group type="str">Society</group> 
 <name type="str">UK immigration news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:40Z</estimatedPublishedDate> 
-<title type="str">UK&apos;s May &apos;disagrees&apos; with US refugee ban</title> 
+</TOPICS> 
+<DOCID type="str">695200767950</DOCID> 
+<DCT type="str">2017-01-29T07:57:40Z</DCT> 
+<TITLE type="str">UK&apos;s May &apos;disagrees&apos; with US refugee ban</TITLE> 
 </root>

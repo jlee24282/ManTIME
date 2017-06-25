@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,9 +8,8 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695200920969</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: parenting news</name> 
@@ -27,7 +26,8 @@ TIME</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:01Z</estimatedPublishedDate> 
-<title type="str">Check Out the Kids&apos; Reactions for Stephen Curry - Warriors vs Clippers - Jan 28, 2017 NBA</title> 
+</TOPICS> 
+<DOCID type="str">695200920969</DOCID> 
+<DCT type="str">2017-01-29T08:03:01Z</DCT> 
+<TITLE type="str">Check Out the Kids&apos; Reactions for Stephen Curry - Warriors vs Clippers - Jan 28, 2017 NBA</TITLE> 
 </root>

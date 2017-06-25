@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Question: My husband and I work at home together and get along exceptionally well - until we don&apos;t. Once in a great long while, we will have a huge blow-up. It doesn&apos;t get physical, but my husband will start dropping the F-bomb. Last night, such a dispute occurred - he swore and stomped around, and the kids could hear. We have household rules about cussing - but he lost his temper. 
+<TEXT type="str">Question: My husband and I work at home together and get along exceptionally well - until we don&apos;t. Once in a great long while, we will have a huge blow-up. It doesn&apos;t get physical, but my husband will start dropping the F-bomb. Last night, such a dispute occurred - he swore and stomped around, and the kids could hear. We have household rules about cussing - but he lost his temper. 
 
 He is under stress at work, and I think this contributes a great deal to his loss of control. 
 
@@ -42,9 +42,8 @@ Inappropriate reactions get crickets, always.
 
 If any blame lands on you, that&apos;s on your husband - it&apos;s his job to be the dropcloth for their parental fits. Stay calm and be assured: Their demands are not, not, about you. 
 
-tellme@washpost.com .</content> 
-<sequenceId type="str">695201053690</sequenceId> 
-<topics type="list"> 
+tellme@washpost.com .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: parenting news</name> 
@@ -53,7 +52,8 @@ tellme@washpost.com .</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">What to tell the kids after dad throws a tantrum</title> 
+</TOPICS> 
+<DOCID type="str">695201053690</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">What to tell the kids after dad throws a tantrum</TITLE> 
 </root>

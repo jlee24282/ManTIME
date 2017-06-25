@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Strictly Come Dancing star Karen Clifton recharged her batteries in the Maldives following the last season, and stayed at the Sun Siyam Iru Fushi resort with her husband Kevin.</content> 
-<sequenceId type="str">695194027432</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Strictly Come Dancing star Karen Clifton recharged her batteries in the Maldives following the last season, and stayed at the Sun Siyam Iru Fushi resort with her husband Kevin.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Maldives news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:50:31Z</estimatedPublishedDate> 
-<title type="str">Strictly Come Dancing&apos;s Karen Clifton in the Maldives</title> 
+</TOPICS> 
+<DOCID type="str">695194027432</DOCID> 
+<DCT type="str">2017-01-29T00:50:31Z</DCT> 
+<TITLE type="str">Strictly Come Dancing&apos;s Karen Clifton in the Maldives</TITLE> 
 </root>

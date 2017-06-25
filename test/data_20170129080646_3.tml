@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Wolves took control in the third quarter and cruised to a win over the Nets. 
+<TEXT type="str">The Wolves took control in the third quarter and cruised to a win over the Nets. 
 
 by  Eric in Madison and John Meyer  Jan 28, 2017, 11:55pm CST 
 
@@ -78,9 +78,8 @@ Gorgui Dieng
 
 On the team’s current play: 
 
-“We’re getting better. We’re getting better as a team. Coach is going to throw a lot of stuff at you and we are starting to pick it up and understand all of his terminology and the stuff he wants to do on the court. Long process, keep learning and getting better. 7 out of 10, that’s good. If you keep scratching wins like this, like four wins, five wins, we have a chance.”</content> 
-<sequenceId type="str">695194224067</sequenceId> 
-<topics type="list"> 
+“We’re getting better. We’re getting better as a team. Coach is going to throw a lot of stuff at you and we are starting to pick it up and understand all of his terminology and the stuff he wants to do on the court. Long process, keep learning and getting better. 7 out of 10, that’s good. If you keep scratching wins like this, like four wins, five wins, we have a chance.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Brooklyn Nets news</name> 
@@ -105,7 +104,8 @@ On the team’s current play:
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:55:15Z</estimatedPublishedDate> 
-<title type="str">Wolves Roll Over Nets, 129-109</title> 
+</TOPICS> 
+<DOCID type="str">695194224067</DOCID> 
+<DCT type="str">2017-01-29T05:55:15Z</DCT> 
+<TITLE type="str">Wolves Roll Over Nets, 129-109</TITLE> 
 </root>

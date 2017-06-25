@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A journal editor reveals the most common mistakes academics make when they submit manuscripts 
+<TEXT type="str">A journal editor reveals the most common mistakes academics make when they submit manuscripts 
 
 The pressure to publish is a fact of daily life in academe, not only in research universities but increasingly in teaching-focused colleges. Professors are expected to demonstrate that they are active researchers and that their work has been vetted by peers and disseminated in reputable scholarly forums. 
 
@@ -64,9 +64,8 @@ Most of the concerns I have mentioned are unlikely to cause an editor to reject 
 
 Remember, when you submit a manuscript to a scholarly journal, you have two audiences to satisfy: first the editor and external reviewers, and then the journal&apos;s readers. You need to satisfy that first group so you can have the opportunity to appeal to the second. 
 
-Lynn Worsham is a professor of English at Illinois State University and editor of JAC, a quarterly journal of rhetoric, writing, culture, and politics.</content> 
-<sequenceId type="str">695199684020</sequenceId> 
-<topics type="list"> 
+Lynn Worsham is a professor of English at Illinois State University and editor of JAC, a quarterly journal of rhetoric, writing, culture, and politics.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Media latest</name> 
@@ -83,7 +82,8 @@ Lynn Worsham is a professor of English at Illinois State University and editor o
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:35Z</estimatedPublishedDate> 
-<title type="str">What Editors Want</title> 
+</TOPICS> 
+<DOCID type="str">695199684020</DOCID> 
+<DCT type="str">2017-01-29T07:53:35Z</DCT> 
+<TITLE type="str">What Editors Want</TITLE> 
 </root>

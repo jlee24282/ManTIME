@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695194192132</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Technology</group> 
 <name type="str">Wireless industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:08:36Z</estimatedPublishedDate> 
-<title type="str">Dafodil launches own mobile brand &apos;DCL&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695194192132</DOCID> 
+<DCT type="str">2017-01-29T07:08:36Z</DCT> 
+<TITLE type="str">Dafodil launches own mobile brand &apos;DCL&apos;</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Engineers say data from Twitter and other social media platforms can help improve event planning, route scheduling, crowd regulations and subway operations. 
+<TEXT type="str">Engineers say data from Twitter and other social media platforms can help improve event planning, route scheduling, crowd regulations and subway operations. 
  
 “Social media offers a cost-effective way to obtain real-time data on monitoring subway passenger flow,” said the study’s corresponding author Qing He from the University of Buffalo. 
  
@@ -18,9 +18,8 @@ Using six different computer models, the researchers then analysed the data and 
  
 IANS 
  
-Tags:  intelligent transportation , real time data , Subway operations , Twitter , Twitter real time data , Twitter users</content> 
-<sequenceId type="str">695198855531</sequenceId> 
-<topics type="list"> 
+Tags:  intelligent transportation , real time data , Subway operations , Twitter , Twitter real time data , Twitter users</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -37,7 +36,8 @@ Tags:  intelligent transportation , real time data , Subway operations , Twitter
 <group type="str">Internet</group> 
 <name type="str">Social media news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:17Z</estimatedPublishedDate> 
-<title type="str">Twitter real-time data could be useful for planning, route scheduling on subway operations</title> 
+</TOPICS> 
+<DOCID type="str">695198855531</DOCID> 
+<DCT type="str">2017-01-29T07:47:17Z</DCT> 
+<TITLE type="str">Twitter real-time data could be useful for planning, route scheduling on subway operations</TITLE> 
 </root>

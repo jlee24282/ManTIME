@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Thursday, Jan. 26 -  The Seymour Junior-varsity boys will lost to Marshfield tonight 43-33 in the Mountain Grove Junior Varsity Classic Tournament. Leading scorer for the Tigers was Carson Sturdefant with 10, Dee Garner and Ryan Johnson each scored 8, Steele Johnson chipped in 3, and Levi Ipock and Skyler Newman each had 2. 
+<TEXT type="str">Thursday, Jan. 26 -  The Seymour Junior-varsity boys will lost to Marshfield tonight 43-33 in the Mountain Grove Junior Varsity Classic Tournament. Leading scorer for the Tigers was Carson Sturdefant with 10, Dee Garner and Ryan Johnson each scored 8, Steele Johnson chipped in 3, and Levi Ipock and Skyler Newman each had 2. 
  
 Monday, Jan. 23 -  The Seymour Junior-varsity boys lost to Licking 62-56 in the first round of the Mountain Grove Junior Varsity Classic Tournament. Leading scorer for the Tigers was Carson Sturdefant with 20, Steele Johnson scored 13, Ryan Johnson chipped in 8, Dee Garner and Skyler Newman each scored 6 and Brandon Young had 3. 
  
@@ -46,9 +46,8 @@ Junior varsity won 40-39.
  
 Friday, Nov. 18 - Tigers, 98 vs Bradleyville, 83 at home. JV lost 28-31. Top scorer was Cy Yates with 40; Brian Pearce scored 21; Justin Herion had 16; Eric Helms chipped in 12; Brady Brooke had 8 and Brock Scott had 1. Junior varsity lost in 2 quarters of play 31-28. 
   
-© 2017 Webster County Citizen. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</content> 
-<sequenceId type="str">695197489193</sequenceId> 
-<topics type="list"> 
+© 2017 Webster County Citizen. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -61,7 +60,8 @@ Friday, Nov. 18 - Tigers, 98 vs Bradleyville, 83 at home. JV lost 28-31. Top sco
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T03:00:00Z</estimatedPublishedDate> 
-<title type="str">Seymour Tigers boys&apos; basketball UPDATE: Tigers 70, Norwood 60</title> 
+</TOPICS> 
+<DOCID type="str">695197489193</DOCID> 
+<DCT type="str">2017-01-28T03:00:00Z</DCT> 
+<TITLE type="str">Seymour Tigers boys&apos; basketball UPDATE: Tigers 70, Norwood 60</TITLE> 
 </root>

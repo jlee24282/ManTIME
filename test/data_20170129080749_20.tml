@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Canberra tennis star faces the decision of whether he wants to be great. 
+<TEXT type="str">The Canberra tennis star faces the decision of whether he wants to be great. 
 
 Former world No.4 Brad Gilbert says Nick Kyrgios could be world No.1, but only if he gets a coach and a good team around him.
 
@@ -40,9 +40,8 @@ If he wanted to be great, like the Australian Open men&apos;s singles finalists 
 
 &quot;It&apos;s kind of like when someone&apos;s an alcoholic, at some point your family and friends around you are saying you&apos;ve got to stop drinking, but at some point you&apos;re the one that has to make the decision to do it.
 
-&quot;And he has to make the decision in himself that he wants to be great and it&apos;s hard being a great tennis player.&quot; The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695196496101</sequenceId> 
-<topics type="list"> 
+&quot;And he has to make the decision in himself that he wants to be great and it&apos;s hard being a great tennis player.&quot; The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Media latest</name> 
@@ -55,7 +54,8 @@ If he wanted to be great, like the Australian Open men&apos;s singles finalists 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:56Z</estimatedPublishedDate> 
-<title type="str">Brad Gilbert says Nick Kyrgios can be world No.1 - if he gets a coach</title> 
+</TOPICS> 
+<DOCID type="str">695196496101</DOCID> 
+<DCT type="str">2017-01-29T06:59:56Z</DCT> 
+<TITLE type="str">Brad Gilbert says Nick Kyrgios can be world No.1 - if he gets a coach</TITLE> 
 </root>

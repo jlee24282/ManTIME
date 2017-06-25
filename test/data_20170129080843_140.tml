@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The New England Patriots are in the Super Bowl for the ninth time in the last 31 years, chasing their fifth championship next weekend in Houston. 
+<TEXT type="str">The New England Patriots are in the Super Bowl for the ninth time in the last 31 years, chasing their fifth championship next weekend in Houston. 
  
 No coach or player in the current NFL could have a more palpable been-here-before feeling than Bill Belichick and Tom Brady. All four of their Super Bowl victories have come since the 2001 season with that venerable coach-quarterback pair, with this their seventh appearance together. 
  
@@ -28,9 +28,8 @@ WORTH MENTIONING: Pittsburgh Penguins beat San Jose Sharks in 2016 Stanley Cup f
  
 ___ 
  
-For more NFL coverage: http://www.pro32.ap.org and http://www.twitter.com/AP_NFL</content> 
-<sequenceId type="str">695198651455</sequenceId> 
-<topics type="list"> 
+For more NFL coverage: http://www.pro32.ap.org and http://www.twitter.com/AP_NFL</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Arizona Cardinals news</name> 
@@ -59,7 +58,8 @@ For more NFL coverage: http://www.pro32.ap.org and http://www.twitter.com/AP_NFL
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:27Z</estimatedPublishedDate> 
-<title type="str">Patriots-Falcons, the latest case of trophy inequity</title> 
+</TOPICS> 
+<DOCID type="str">695198651455</DOCID> 
+<DCT type="str">2017-01-29T07:45:27Z</DCT> 
+<TITLE type="str">Patriots-Falcons, the latest case of trophy inequity</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Bloomberg) -- President Donald Trump promised Theresa May that the U.K. will be able to continue to trade with the U.S. on the same terms it does now when it leaves the European Union, according to the prime minister’s office. 
+<TEXT type="str">(Bloomberg) -- President Donald Trump promised Theresa May that the U.K. will be able to continue to trade with the U.S. on the same terms it does now when it leaves the European Union, according to the prime minister’s office. 
    
 The offer, made over lunch Friday at the White House after their joint news conference, is designed to offer businesses certainty as they prepare for Brexit. The leaders also agreed to begin work on a trade negotiation agreement, preparing the ground for a deal once Britain is allowed to make its own arrangements -- something it cannot do while still a member of the EU. The U.S. is Britain’s biggest national trading partner. 
    
@@ -14,9 +14,8 @@ The U.S. and U.K. will establish joint working groups to scope out what can be a
    
 May’s office said that the conversation over lunch had focused on the Brexit vote, which Trump told May was going to be wonderful for Britain. They also discussed at length the relationship between their respective countries’ 1980s leaders Ronald Reagan and Margaret Thatcher. 
    
-At the end of the lunch, according to May’s office, Trump told the U.K. premier that he liked to keep menu cards as souvenirs. He then handed that day’s card to a member of staff with instructions to keep it safe, in memory of the time he had lunch with the British prime minister.</content> 
-<sequenceId type="str">695200410201</sequenceId> 
-<topics type="list"> 
+At the end of the lunch, according to May’s office, Trump told the U.K. premier that he liked to keep menu cards as souvenirs. He then handed that day’s card to a member of staff with instructions to keep it safe, in memory of the time he had lunch with the British prime minister.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ At the end of the lunch, according to May’s office, Trump told the U.K. premie
 <group type="str">Business</group> 
 <name type="str">UK business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:55Z</estimatedPublishedDate> 
-<title type="str">Trump Tells May He’ll Maintain Trade Terms For U.K. After Brexit</title> 
+</TOPICS> 
+<DOCID type="str">695200410201</DOCID> 
+<DCT type="str">2017-01-29T07:59:55Z</DCT> 
+<TITLE type="str">Trump Tells May He’ll Maintain Trade Terms For U.K. After Brexit</TITLE> 
 </root>

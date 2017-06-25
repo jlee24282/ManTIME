@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump will hold telephone talks Saturday with Russian President Vladimir Putin , French President Francois Hollande and German Chancellor Angela Merkel , the White House said on Friday. 
+<TEXT type="str">US President Donald Trump will hold telephone talks Saturday with Russian President Vladimir Putin , French President Francois Hollande and German Chancellor Angela Merkel , the White House said on Friday. 
  
 The Trump-Putin call will be their first official contact since the Republican took office a week ago. 
  
@@ -19,9 +19,8 @@ As for Merkel and Hollande, the two leaders have not made their concern regardin
  
 Hollande travelled to Germany this week and, together, he and Merkel called for EU unity over Trump and Brexit. According to Euronews, Merkel spoke of the new economic challenges facing the EU in terms of defending “free trade” and a “free society.” She also stressed the importance of recognizing that “the world changes radically and quickly.” 
  
-Source :Morocco World News</content> 
-<sequenceId type="str">695201941350</sequenceId> 
-<topics type="list"> 
+Source :Morocco World News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -38,7 +37,8 @@ Source :Morocco World News</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:00Z</estimatedPublishedDate> 
-<title type="str">Trump Schedules Saturday Talks with Putin, Merkel…</title> 
+</TOPICS> 
+<DOCID type="str">695201941350</DOCID> 
+<DCT type="str">2017-01-29T08:10:00Z</DCT> 
+<TITLE type="str">Trump Schedules Saturday Talks with Putin, Merkel…</TITLE> 
 </root>

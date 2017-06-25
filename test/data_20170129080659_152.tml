@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Patti Arnold 
+<TEXT type="str">By Patti Arnold 
 Saturday, January 28, 2017 
  
 College isn’t cheap, and even though Colorado Mesa is one of the most affordable universities in Colorado, when you’re an international student, the costs add up. 
@@ -39,9 +39,8 @@ Along with eligibility and compliance, Kaiser’s duties include student service
  
 “It all starts with them oftentimes coming into my office and sitting down and kind of having a heart-to-heart conversation, this is what I need. I’d be lying if I said it’s every single one of them every single day. It’s pretty rare, but nonetheless that’s where it starts. 
  
-“They can come in here and shut the door and say whatever needs to be said. From there, I can say I think it is in your best interest to see this person. I’ll help set up appointments, make phone calls, referrals, whatever it is.”</content> 
-<sequenceId type="str">695194734255</sequenceId> 
-<topics type="list"> 
+“They can come in here and shut the door and say whatever needs to be said. From there, I can say I think it is in your best interest to see this person. I’ll help set up appointments, make phone calls, referrals, whatever it is.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -50,7 +49,8 @@ Along with eligibility and compliance, Kaiser’s duties include student service
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:48:00Z</estimatedPublishedDate> 
-<title type="str">Attending Mesa not cheap for foreign athletes</title> 
+</TOPICS> 
+<DOCID type="str">695194734255</DOCID> 
+<DCT type="str">2017-01-29T04:48:00Z</DCT> 
+<TITLE type="str">Attending Mesa not cheap for foreign athletes</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Serena Williams says she is in the form of her life Australian Open champion Serena Williams believes she is playing the best tennis of her entire career.
+<TEXT type="str">Serena Williams says she is in the form of her life Australian Open champion Serena Williams believes she is playing the best tennis of her entire career.
 
 Williams overcame her sister Venus 6-4 6-4 on Saturday to claim her seventh Melbourne crown and secure an Open-era record 23rd grand slam title.
 
@@ -56,9 +56,8 @@ To avoid adding any extra pressure, however, Mouratoglou told his charge at the 
 
 &quot;Patrick said, &apos;no, no, no.&apos; So I was like whatever. Then on the court when they were said, &apos;and number one&apos;, I was like, &apos;whoa, really&apos;?&quot; 
 
-Williams later added: &quot;Kerber played unbelievable, she definitely deserved to have that position. I t didn&apos;t hurt or p*** me off, to me it just looked weird. I&apos;d never felt like number two.&quot;</content> 
-<sequenceId type="str">695199899810</sequenceId> 
-<topics type="list"> 
+Williams later added: &quot;Kerber played unbelievable, she definitely deserved to have that position. I t didn&apos;t hurt or p*** me off, to me it just looked weird. I&apos;d never felt like number two.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -67,7 +66,8 @@ Williams later added: &quot;Kerber played unbelievable, she definitely deserved 
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:17Z</estimatedPublishedDate> 
-<title type="str">Serena Williams: I&apos;m in the best form of my life after 23rd grand slam</title> 
+</TOPICS> 
+<DOCID type="str">695199899810</DOCID> 
+<DCT type="str">2017-01-29T07:55:17Z</DCT> 
+<TITLE type="str">Serena Williams: I&apos;m in the best form of my life after 23rd grand slam</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">KOKOMO — It might be hard to pack up and move to another country, but students in the Kokomo School Corp.’s international student program say it’s worth it.
+<TEXT type="str">KOKOMO — It might be hard to pack up and move to another country, but students in the Kokomo School Corp.’s international student program say it’s worth it.
 
 Students come to the program from around the world, including China, Albania and Mexico. For many, life in the U.S. is different from life in their home countries.
 
@@ -38,9 +38,8 @@ The students said they are grateful for the experience to attend school in Kokom
 
 Some of them, including Tran and Braja, are hoping to graduate from Kokomo High School and attend college in the U.S. Tran hopes to move to Texas, where some of his family members live, and Braja hopes to move to New York for the same reason.
 
-“It’s good to get used to another culture,” Tran said. “I thought I would be homesick, but I don’t think about it anymore. This feels like home now.”</content> 
-<sequenceId type="str">695195618312</sequenceId> 
-<topics type="list"> 
+“It’s good to get used to another culture,” Tran said. “I thought I would be homesick, but I don’t think about it anymore. This feels like home now.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -49,7 +48,8 @@ Some of them, including Tran and Braja, are hoping to graduate from Kokomo High 
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Holidays, cuisine pique international students&apos; interest</title> 
+</TOPICS> 
+<DOCID type="str">695195618312</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Holidays, cuisine pique international students&apos; interest</TITLE> 
 </root>

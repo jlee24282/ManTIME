@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">They are seeking donations, setting priorities and reviewing laws that could be the basis of lawsuits against Trump policies concerning climate change, endangered wildlife, pollution and other issues.</content> 
-<sequenceId type="str">695196962051</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">They are seeking donations, setting priorities and reviewing laws that could be the basis of lawsuits against Trump policies concerning climate change, endangered wildlife, pollution and other issues.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:13Z</estimatedPublishedDate> 
-<title type="str">Environmentalists preparing to battle Trump, GOP in court</title> 
+</TOPICS> 
+<DOCID type="str">695196962051</DOCID> 
+<DCT type="str">2017-01-29T07:31:13Z</DCT> 
+<TITLE type="str">Environmentalists preparing to battle Trump, GOP in court</TITLE> 
 </root>

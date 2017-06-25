@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ORLANDO, Fla. — Like most of the players at the Pro Bowl, Richie Incognito hears the criticism. 
+<TEXT type="str">ORLANDO, Fla. — Like most of the players at the Pro Bowl, Richie Incognito hears the criticism. 
  
 The game lacks intensity. There’s not enough drama. It’s not real NFL football. 
  
@@ -38,9 +38,8 @@ Oakland Raiders general manager Reggie McKenzie acknowledges being torn when his
  
 McKenzie would be in favor of more of skills challenge than a game where key players can be injured. 
  
-“It’s a risk,” said McKenzie, who will have four players representing the AFC on Sunday. “I cringe every time I go to practice, but it’s the nature of the game. It’s what it is. But you do everything you can to set your safety-type precautions. What else can you do? Not play? I don’t think that’ right.”</content> 
-<sequenceId type="str">695202502561</sequenceId> 
-<topics type="list"> 
+“It’s a risk,” said McKenzie, who will have four players representing the AFC on Sunday. “I cringe every time I go to practice, but it’s the nature of the game. It’s what it is. But you do everything you can to set your safety-type precautions. What else can you do? Not play? I don’t think that’ right.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -53,7 +52,8 @@ McKenzie would be in favor of more of skills challenge than a game where key pla
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">NFL: Pro Bowl tries to strike balance between fun and competition</title> 
+</TOPICS> 
+<DOCID type="str">695202502561</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">NFL: Pro Bowl tries to strike balance between fun and competition</TITLE> 
 </root>

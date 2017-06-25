@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Washington: US President Donald Trump on Saturday ordered the Pentagon to devise a strategy to defeat Islamic State and restructured the National Security Council to include his controversial top political adviser, as he forged a partnership with Russian President Vladimir Putin in their first official phone call.
+<TEXT type="str">Washington: US President Donald Trump on Saturday ordered the Pentagon to devise a strategy to defeat Islamic State and restructured the National Security Council to include his controversial top political adviser, as he forged a partnership with Russian President Vladimir Putin in their first official phone call.
 
 Trump and Putin spoke for an hour and vowed to join forces to fight terrorism in Syria and elsewhere, according to the White House and the Kremlin, signaling a potential shift in US-Russian relations that have been marked by high tension.
 
@@ -48,9 +48,8 @@ Also on Saturday, Trump signed an executive order finalising new lobbying rules 
 
 &quot;Most of the people standing behind me won&apos;t be able to go to work or do anything adverse to our wonderful country,&quot; Trump said, as the aides standing behind him in the Oval Office laughed.
 
-Washington Post, Reuters</content> 
-<sequenceId type="str">695196415018</sequenceId> 
-<topics type="list"> 
+Washington Post, Reuters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -67,7 +66,8 @@ Washington Post, Reuters</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:24Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s busy day: Islamic State, Putin and Stephen Bannon</title> 
+</TOPICS> 
+<DOCID type="str">695196415018</DOCID> 
+<DCT type="str">2017-01-29T07:29:24Z</DCT> 
+<TITLE type="str">Trump&apos;s busy day: Islamic State, Putin and Stephen Bannon</TITLE> 
 </root>

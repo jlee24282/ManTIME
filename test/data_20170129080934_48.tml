@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">London, Jan 28 : England National Cricket Selectors have named 14-man squad for the tour of the Caribbean, where they will contest a three-match One-Day International (ODI) series against West Indies</content> 
-<sequenceId type="str">695200716992</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">London, Jan 28 : England National Cricket Selectors have named 14-man squad for the tour of the Caribbean, where they will contest a three-match One-Day International (ODI) series against West Indies</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Caribbean news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T15:37:31Z</estimatedPublishedDate> 
-<title type="str">England selectors announce squad for West Indies series</title> 
+</TOPICS> 
+<DOCID type="str">695200716992</DOCID> 
+<DCT type="str">2017-01-28T15:37:31Z</DCT> 
+<TITLE type="str">England selectors announce squad for West Indies series</TITLE> 
 </root>

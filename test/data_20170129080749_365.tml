@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Letters must not exceed 250 words and must include the author&apos;s full name, address and telephone number for authentication. No anonymous letters will be published. The Pueblo Chieftain reserves the right to edit letters to length, taste and clarity.</content> 
-<sequenceId type="str">695196855794</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Letters must not exceed 250 words and must include the author&apos;s full name, address and telephone number for authentication. No anonymous letters will be published. The Pueblo Chieftain reserves the right to edit letters to length, taste and clarity.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:02:04Z</estimatedPublishedDate> 
-<title type="str">CARTOON: Worrisome</title> 
+</TOPICS> 
+<DOCID type="str">695196855794</DOCID> 
+<DCT type="str">2017-01-29T06:02:04Z</DCT> 
+<TITLE type="str">CARTOON: Worrisome</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Halifax, Nova Scotia, B3M 2J6</content> 
-<sequenceId type="str">695200260301</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Halifax, Nova Scotia, B3M 2J6</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:31Z</estimatedPublishedDate> 
-<title type="str">Study break week</title> 
+</TOPICS> 
+<DOCID type="str">695200260301</DOCID> 
+<DCT type="str">2017-01-29T07:58:31Z</DCT> 
+<TITLE type="str">Study break week</TITLE> 
 </root>

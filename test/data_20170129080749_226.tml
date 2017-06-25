@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">San Francisco had better buckle up, because we are in for one rough ride with President Trump. 
+<TEXT type="str">San Francisco had better buckle up, because we are in for one rough ride with President Trump. 
  
 To a businessman like Trump, money is both a tool and a weapon. He has no problem with using federal funding for either purpose. 
  
@@ -62,9 +62,8 @@ Among the best: “Super-callous-fascist-racist-extra-braggadocious.” Could no
  
 And I showed up with: “Maybe all of you should have voted.” 
  
-Want to sound off? Email wbrown@sfchronicle.com</content> 
-<sequenceId type="str">695196733149</sequenceId> 
-<topics type="list"> 
+Want to sound off? Email wbrown@sfchronicle.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Francisco Bay Area news</name> 
@@ -73,7 +72,8 @@ Want to sound off? Email wbrown@sfchronicle.com</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:01Z</estimatedPublishedDate> 
-<title type="str">SF could be at the top of Trump’s enemies list</title> 
+</TOPICS> 
+<DOCID type="str">695196733149</DOCID> 
+<DCT type="str">2017-01-29T07:32:01Z</DCT> 
+<TITLE type="str">SF could be at the top of Trump’s enemies list</TITLE> 
 </root>

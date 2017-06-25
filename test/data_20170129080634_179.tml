@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">12:47 a.m. CST 
+<TEXT type="str">12:47 a.m. CST 
  
 By Jonathan Allen and Brendan O&apos;Brien 
  
@@ -90,9 +90,8 @@ That can create some agonizing dilemmas.
  
 &quot;A Syrian doctor who has a dying mother in Europe cannot go visit her not knowing that he will be able to get back into the United States,” Leopold said. 
  
-(Additional reporting by John Walcott, Jeff Mason, Mica Rosenberg, Lesley Wroughton, Jeffrey Dastin, Yara Bayoumy and Yeganeh Torbati; Writing by Brian Thevenot; Editing by Kieran Murray and Bill Rigby)</content> 
-<sequenceId type="str">695194004669</sequenceId> 
-<topics type="list"> 
+(Additional reporting by John Walcott, Jeff Mason, Mica Rosenberg, Lesley Wroughton, Jeffrey Dastin, Yara Bayoumy and Yeganeh Torbati; Writing by Brian Thevenot; Editing by Kieran Murray and Bill Rigby)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -117,7 +116,8 @@ That can create some agonizing dilemmas.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:47:13Z</estimatedPublishedDate> 
-<title type="str">How Trump&apos;s abrupt immigration ban sowed confusion at airports, agencies</title> 
+</TOPICS> 
+<DOCID type="str">695194004669</DOCID> 
+<DCT type="str">2017-01-29T06:47:13Z</DCT> 
+<TITLE type="str">How Trump&apos;s abrupt immigration ban sowed confusion at airports, agencies</TITLE> 
 </root>

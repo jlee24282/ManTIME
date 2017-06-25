@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Missouri Court of Appeals, Western District.  
+<TEXT type="str">Missouri Court of Appeals, Western District.  
 HEALTH CARE FOUNDATION OF GREATER KANSAS CITY, Respondent, v. HM ACQUISITION, LLC and HCA, INC., Appellants. 
  WD 79340      Decided: January 17, 2017  Before Division IV: Mark D. Pfeiffer, Chief Judge, and Thomas H. Newton and Cynthia L. Martin, Judges 
 HM Acquisition, LLC (“HM Acquisition”) and HCA, Inc. (“HCA”) appeal from the judgment entered by the Circuit Court of Jackson County, Missouri (“trial court”), after a bench trial, in favor of Health Care Foundation of Greater Kansas City (“Foundation”) on the Foundation&apos;s petition for declaratory judgment, accounting, and specific performance. The trial court&apos;s judgment is affirmed in part, reversed in part, and modified. 
@@ -251,9 +251,8 @@ FOOTNOTES
  
 1 .   Section 14.2 of the Asset Purchase Agreement (“APA”) provides that: “The divisions of this Agreement into sections and subsections and the use of captions and headings in connection therewith are solely for convenience and shall have no legal effect in construing the provisions of this Agreement.” 
  
-2 .   In 2003, Health Midwest amended its articles of incorporation and became known as Community Health </content> 
-<sequenceId type="str">695196428561</sequenceId> 
-<topics type="list"> 
+2 .   In 2003, Health Midwest amended its articles of incorporation and became known as Community Health </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
@@ -278,7 +277,8 @@ FOOTNOTES
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:34Z</estimatedPublishedDate> 
-<title type="str">HEALTH CARE FOUNDATION OF GREATER KANSAS CITY v. HM ACQUISITION LLC HCA INC</title> 
+</TOPICS> 
+<DOCID type="str">695196428561</DOCID> 
+<DCT type="str">2017-01-29T07:29:34Z</DCT> 
+<TITLE type="str">HEALTH CARE FOUNDATION OF GREATER KANSAS CITY v. HM ACQUISITION LLC HCA INC</TITLE> 
 </root>

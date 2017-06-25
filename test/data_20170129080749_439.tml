@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Newly-crowned W-League premiers Canberra United face being forced away from Fortress McKellar to play their do-or-die semi-final and a hit to their hip pocket in the process. 
+<TEXT type="str">Newly-crowned W-League premiers Canberra United face being forced away from Fortress McKellar to play their do-or-die semi-final and a hit to their hip pocket in the process. 
  
 United coach Rae Dower says they&apos;ve earned the right to host their semi against Melbourne City at their home ground, rather than have to play it as part of a double-header with the A-League clash between Central Coast Mariners and Adelaide United at Canberra Stadium on Sunday. 
  Canberra United coach Rae Dower says they&apos;ve earned the right to play their semi at McKellar Park.  Photo: Melissa Adams  
@@ -58,9 +58,8 @@ Canberra United v Melbourne City
  
 A-LEAGUE ROUND 18 
  
-Sunday: Central Coast Mariners v Adelaide United at Canberra Stadium, 5pm. Tickets available from Ticketek .</content> 
-<sequenceId type="str">695196919806</sequenceId> 
-<topics type="list"> 
+Sunday: Central Coast Mariners v Adelaide United at Canberra Stadium, 5pm. Tickets available from Ticketek .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Australia stories</name> 
@@ -77,7 +76,8 @@ Sunday: Central Coast Mariners v Adelaide United at Canberra Stadium, 5pm. Ticke
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:34Z</estimatedPublishedDate> 
-<title type="str">Premiers Canberra United face costly move to Canberra Stadium for W-League semi-final</title> 
+</TOPICS> 
+<DOCID type="str">695196919806</DOCID> 
+<DCT type="str">2017-01-29T07:29:34Z</DCT> 
+<TITLE type="str">Premiers Canberra United face costly move to Canberra Stadium for W-League semi-final</TITLE> 
 </root>

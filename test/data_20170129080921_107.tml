@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(CNN) 
+<TEXT type="str">(CNN) 
  
 The Department of Homeland Security said on Sunday it will comply with federal orders not to deport detained travelers. 
  
@@ -98,9 +98,8 @@ After the federal orders were issued, the department said it &quot;will continue
  
 &quot;The president&apos;s Executive Order affects a minor portion of international travelers, and is a first step towards reestablishing control over America&apos;s borders and national security.&quot; 
  
-© Distributed by LAKANA. This material may not be published, broadcast, rewritten or redistributed.</content> 
-<sequenceId type="str">695200310812</sequenceId> 
-<topics type="list"> 
+© Distributed by LAKANA. This material may not be published, broadcast, rewritten or redistributed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -129,7 +128,8 @@ After the federal orders were issued, the department said it &quot;will continue
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:57Z</estimatedPublishedDate> 
-<title type="str">DHS complies with judge to limit &apos;Muslim ban&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695200310812</DOCID> 
+<DCT type="str">2017-01-29T07:58:57Z</DCT> 
+<TITLE type="str">DHS complies with judge to limit &apos;Muslim ban&apos;</TITLE> 
 </root>

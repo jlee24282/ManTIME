@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SQ286 was meant to depart for Singapore this afternoon but was forced to abort its departure at the last minute. 
+<TEXT type="str">SQ286 was meant to depart for Singapore this afternoon but was forced to abort its departure at the last minute. 
     
 A Singapore Airlines flight has finally departed from Auckland Airport following a lengthy delay due to a potential fault with the aircraft. 
  
@@ -44,9 +44,8 @@ Meanwhile, Emirates flight 345 to Brisbane and Dubai was also delayed on the tar
  
 It was supposed to depart at 6.10pm, but it&apos;s understood a passenger on board fell ill, and the flight eventually left at 7.55pm. 
  
- </content> 
-<sequenceId type="str">695204882128</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -71,7 +70,8 @@ It was supposed to depart at 6.10pm, but it&apos;s understood a passenger on b
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:57Z</estimatedPublishedDate> 
-<title type="str">Stranded Singapore Airlines flight leaves Auckland Airport after seven-hour wait</title> 
+</TOPICS> 
+<DOCID type="str">695204882128</DOCID> 
+<DCT type="str">2017-01-29T08:26:57Z</DCT> 
+<TITLE type="str">Stranded Singapore Airlines flight leaves Auckland Airport after seven-hour wait</TITLE> 
 </root>

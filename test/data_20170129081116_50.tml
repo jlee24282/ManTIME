@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LONDON — 
+<TEXT type="str">LONDON — 
  
 I’ve actually been watching the early Trump presidency from London. (I would have gone to the moon, but I couldn’t get a ride.) Even from here I have vertigo. 
  
@@ -26,9 +26,8 @@ Another of Trump’s jobs fallacies is that regulation always holds companies ba
  
 In sum, Democrats should and can take the language of “strength” away from Trump and own it themselves. They should be for strong workers, not strong walls; for building strong communities, not relying on a strongman to strong-arm employers; and for strong standards to create strong companies. Those would be my fightin’ words. 
  
-— Thomas Friedman is a columnist for The New York Times.</content> 
-<sequenceId type="str">695204262621</sequenceId> 
-<topics type="list"> 
+— Thomas Friedman is a columnist for The New York Times.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ In sum, Democrats should and can take the language of “strength” away from T
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:44Z</estimatedPublishedDate> 
-<title type="str">Column: Smart approaches, not strong-arm tactics, to jobs</title> 
+</TOPICS> 
+<DOCID type="str">695204262621</DOCID> 
+<DCT type="str">2017-01-29T08:27:44Z</DCT> 
+<TITLE type="str">Column: Smart approaches, not strong-arm tactics, to jobs</TITLE> 
 </root>

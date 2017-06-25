@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Subscribe today for full access on your desktop, tablet, and mobile device. 
+<TEXT type="str">Subscribe today for full access on your desktop, tablet, and mobile device. 
  Subscribe Now              Share This Story!  
 Let friends in your social network know what you are reading about 
   How to watch today&apos;s NHL All-Star Game in Los Angeles  
@@ -69,9 +69,8 @@ On mobile? Tap here for live updates.
 0) { %&gt; 
 
 0) { %&gt; 
-]]&gt;</content> 
-<sequenceId type="str">695197222512</sequenceId> 
-<topics type="list"> 
+]]&gt;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NHL - Detroit Red Wings news</name> 
@@ -88,7 +87,8 @@ On mobile? Tap here for live updates.
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:34Z</estimatedPublishedDate> 
-<title type="str">How to watch today&apos;s NHL All-Star Game in Los Angeles</title> 
+</TOPICS> 
+<DOCID type="str">695197222512</DOCID> 
+<DCT type="str">2017-01-29T07:35:34Z</DCT> 
+<TITLE type="str">How to watch today&apos;s NHL All-Star Game in Los Angeles</TITLE> 
 </root>

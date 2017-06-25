@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Comedian Mark Dolan has found an extra layer of protection. Olympic gymnast Louis Smith has revealed his outfit on winter sports show The Jump makes him feel like a Power Ranger.
+<TEXT type="str">Comedian Mark Dolan has found an extra layer of protection. Olympic gymnast Louis Smith has revealed his outfit on winter sports show The Jump makes him feel like a Power Ranger.
 
 The 27-year-old will be joined by a host of fellow athletes and celebrities on the Channel 4 show, including Sir Bradley Wiggins, Jade Jones and Kadeena Cox.
 
@@ -38,9 +38,8 @@ Ex-rugby player Jason Robinson, who won the World Cup with England in 2003, and 
 
 They will be joined by television personalities Spencer Matthews, Lydia Bright and Josie Gibson, American model and businesswoman Caprice Bourret, and Irish model Vogue Williams.
 
-The Jump begins on Channel 4 on Sunday February 5.</content> 
-<sequenceId type="str">695194925092</sequenceId> 
-<topics type="list"> 
+The Jump begins on Channel 4 on Sunday February 5.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -49,7 +48,8 @@ The Jump begins on Channel 4 on Sunday February 5.</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:21Z</estimatedPublishedDate> 
-<title type="str">The Jump contestants reveal almost everything as they discuss the show&apos;s skin-tight outfits</title> 
+</TOPICS> 
+<DOCID type="str">695194925092</DOCID> 
+<DCT type="str">2017-01-29T07:19:21Z</DCT> 
+<TITLE type="str">The Jump contestants reveal almost everything as they discuss the show&apos;s skin-tight outfits</TITLE> 
 </root>

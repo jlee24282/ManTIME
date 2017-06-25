@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mark Zuckerberg has broken his silence about President Trump&apos;s restrictive immigration policies in a heartfelt Facebook post.The billionaire wrote of his vehement disagreement with Trump&apos;s promise to build a wall at the Mexican border, and his signing of an executive order banning Syrian refugees and preventing immigrants from selected countries from entering the United States.Zuckerberg, who is married to a first generation immigrant, wrote about his own European nationality and his hope that t...</content> 
-<sequenceId type="str">695195921930</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Mark Zuckerberg has broken his silence about President Trump&apos;s restrictive immigration policies in a heartfelt Facebook post.The billionaire wrote of his vehement disagreement with Trump&apos;s promise to build a wall at the Mexican border, and his signing of an executive order banning Syrian refugees and preventing immigrants from selected countries from entering the United States.Zuckerberg, who is married to a first generation immigrant, wrote about his own European nationality and his hope that t...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Internet</group> 
 <name type="str">Facebook news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:47Z</estimatedPublishedDate> 
-<title type="str">Mark Zuckerberg Tells Trump, We Are A Nation Of Immigrants</title> 
+</TOPICS> 
+<DOCID type="str">695195921930</DOCID> 
+<DCT type="str">2017-01-29T07:25:47Z</DCT> 
+<TITLE type="str">Mark Zuckerberg Tells Trump, We Are A Nation Of Immigrants</TITLE> 
 </root>

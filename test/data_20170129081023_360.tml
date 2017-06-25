@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Starbucks Corp.&apos;s much-ballyhooed mobile-ordering system has brought a painful side effect to the coffee giant: traffic jams at the pickup counter. 
+<TEXT type="str">Starbucks Corp.&apos;s much-ballyhooed mobile-ordering system has brought a painful side effect to the coffee giant: traffic jams at the pickup counter. 
  
 Because customers are now able to order and pay for coffee via their phones, many of them now head directly to the part of the cafe where beverages are handed out. That&apos;s created pileups at Starbucks and frustrated some customers enough that they&apos;ve canceled their orders, said Chief Operating Officer Kevin Johnson. 
  
@@ -16,9 +16,8 @@ The stock fell as much as 4.8 percent to $55.65 in New York on Friday after the 
  
 Johnson is taking the reins from Howard Schultz, who served two stints as CEO and built Starbucks into a global coffee empire. Johnson inherits a company with &quot;outsized expectations&quot; for performance, said Jennifer Bartashus, an analyst at Bloomberg Intelligence. Against that backdrop, the company&apos;s 3 percent same-store sales growth last quarter wasn&apos;t good enough. 
  
-&quot;In the realm of restaurants in general, 3 percent is not a bad result,&quot; she said. &quot;But Starbucks is considered more of a premium brand. There was an expectation that they would be slightly higher.&quot;</content> 
-<sequenceId type="str">695202719971</sequenceId> 
-<topics type="list"> 
+&quot;In the realm of restaurants in general, 3 percent is not a bad result,&quot; she said. &quot;But Starbucks is considered more of a premium brand. There was an expectation that they would be slightly higher.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Beverages industry news</name> 
@@ -39,7 +38,8 @@ Johnson is taking the reins from Howard Schultz, who served two stints as CEO an
 <group type="str">Companies</group> 
 <name type="str">Starbucks news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:00Z</estimatedPublishedDate> 
-<title type="str">Downside to Starbucks mobile orders? Congestion at pickup counter</title> 
+</TOPICS> 
+<DOCID type="str">695202719971</DOCID> 
+<DCT type="str">2017-01-29T08:16:00Z</DCT> 
+<TITLE type="str">Downside to Starbucks mobile orders? Congestion at pickup counter</TITLE> 
 </root>

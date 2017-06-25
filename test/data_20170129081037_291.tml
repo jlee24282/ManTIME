@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cloudy skies. A few flurries are possible. High 38F. Winds WNW at 10 to 15 mph.. 
+<TEXT type="str">Cloudy skies. A few flurries are possible. High 38F. Winds WNW at 10 to 15 mph.. 
 
-Clear skies with a few passing clouds. Low 29F. Winds W at 10 to 2</content> 
-<sequenceId type="str">695203091910</sequenceId> 
-<topics type="list"> 
+Clear skies with a few passing clouds. Low 29F. Winds W at 10 to 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:17Z</estimatedPublishedDate> 
-<title type="str">Travel ban affects citizens of 7 Muslim-majority nations</title> 
+</TOPICS> 
+<DOCID type="str">695203091910</DOCID> 
+<DCT type="str">2017-01-29T07:39:17Z</DCT> 
+<TITLE type="str">Travel ban affects citizens of 7 Muslim-majority nations</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dan White 
+<TEXT type="str">Dan White 
 
 is a senior economist at Moody&apos;s Analytics in West Chester and an adjunct professor of economics at Villanova University 
 
@@ -38,9 +38,8 @@ So even if none of the specific policy measures put forth by the more extreme po
 
 President Trump, as a newcomer the likes of which the Oval Office has never before seen, has the potential to play a unique role in reconciling populist aims with establishment means. Establishment forces in Congress, of both parties, have the potential to refocus mainstream political arguments toward the most pressing concerns of everyday Americans. If the so-called political establishment can use 2016 as a wake-up call instead of a call to arms, it might be just what we needed to awaken us from the floundering status quo. 
 
-@DanWhiteEcon daniel.white@moodys.com .</content> 
-<sequenceId type="str">695202153862</sequenceId> 
-<topics type="list"> 
+@DanWhiteEcon daniel.white@moodys.com .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -49,7 +48,8 @@ President Trump, as a newcomer the likes of which the Oval Office has never befo
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Commentary: Can Trump reconcile populist aims with establishment means?</title> 
+</TOPICS> 
+<DOCID type="str">695202153862</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">Commentary: Can Trump reconcile populist aims with establishment means?</TITLE> 
 </root>

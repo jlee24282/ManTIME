@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It&apos;s tax season, which means your stress level could be higher than normal. Keeping up with changes to the U.S. tax code could add to your stress. 
+<TEXT type="str">It&apos;s tax season, which means your stress level could be higher than normal. Keeping up with changes to the U.S. tax code could add to your stress. 
  
 Unfortunately, these changes aren&apos;t the only things that we need to worry about. This time of year also brings out an abundance of scammers. 
  
@@ -38,9 +38,8 @@ Please share this information with everyone. Just click on any of these social m
           
 Previous Happening Now  How to disable this iPhone setting that could cost you money  
      
-Next Happening Now  What’s in and out of Netflix in February</content> 
-<sequenceId type="str">695200420735</sequenceId> 
-<topics type="list"> 
+Next Happening Now  What’s in and out of Netflix in February</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -49,7 +48,8 @@ Next Happening Now  What’s in and out of Netflix in February</content>
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: seniors news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:25Z</estimatedPublishedDate> 
-<title type="str">Top Story: Tax scams preying on senior citizens - Warn your loved ones!</title> 
+</TOPICS> 
+<DOCID type="str">695200420735</DOCID> 
+<DCT type="str">2017-01-29T07:00:25Z</DCT> 
+<TITLE type="str">Top Story: Tax scams preying on senior citizens - Warn your loved ones!</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The ongoing contest between the Hillary Clinton wing and Bernie Sanders wing of the Democratic Party continues to divide Democrats. It&apos;s urgent Democrats stop squabbling and recognize seven basic truths: 
+<TEXT type="str">The ongoing contest between the Hillary Clinton wing and Bernie Sanders wing of the Democratic Party continues to divide Democrats. It&apos;s urgent Democrats stop squabbling and recognize seven basic truths: 
   
 The Party is on life support. Democrats are in the minority in both the House and Senate, with no end in sight. Since the start of the Obama Administration they&apos;ve lost 1,034 state and federal seats. They hold only governorships, and face 32 state legislatures fully under GOP control. No one speaks for the party as a whole. The Party&apos;s top leaders are aging, and the back bench is thin. 
    
@@ -38,9 +38,8 @@ And drawing more people into politics is the only hope going forward.
  
 Robert B. Reich is Chancellor&apos;s Professor of Public Policy at the University of California at Berkeley and Senior Fellow at the Blum Center for Developing Economies who served as Secretary of Labor in the Clinton administration. 
  
-Editorial on 01/29/2</content> 
-<sequenceId type="str">695204167515</sequenceId> 
-<topics type="list"> 
+Editorial on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -49,7 +48,8 @@ Editorial on 01/29/2</content>
 <group type="str">Society</group> 
 <name type="str">US politics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:00Z</estimatedPublishedDate> 
-<title type="str">Seven truths for Democrats</title> 
+</TOPICS> 
+<DOCID type="str">695204167515</DOCID> 
+<DCT type="str">2017-01-29T08:10:00Z</DCT> 
+<TITLE type="str">Seven truths for Democrats</TITLE> 
 </root>

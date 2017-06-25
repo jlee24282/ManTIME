@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Brie has been healthy since November. She has been training with Kate Grace for NorCal.</content> 
-<sequenceId type="str">695194764648</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Brie has been healthy since November. She has been training with Kate Grace for NorCal.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:28:00Z</estimatedPublishedDate> 
-<title type="str">Video - Brie Felnagle 1st Women&apos;s Mile 4:27.27 World Leader! - Washington Indoor Invitational 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194764648</DOCID> 
+<DCT type="str">2017-01-29T05:28:00Z</DCT> 
+<TITLE type="str">Video - Brie Felnagle 1st Women&apos;s Mile 4:27.27 World Leader! - Washington Indoor Invitational 2017</TITLE> 
 </root>

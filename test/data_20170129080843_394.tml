@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Home  Business News Share the joy 
+<TEXT type="str">Home  Business News Share the joy 
                                  
 As per the Global Auto Report released by Scotiabank in January 2017, global car sales are likely to be on the upward rising curve for a record eighth consecutive year. Car sales saw a sharp increase globally in the final months of 2016, which is a good indicator of what is to come in the present year for the auto industry. 
  
@@ -28,9 +28,8 @@ The post Global Car Sales to See an Upward Trend in 2017 appeared first on Value
  
 
 ValueWalk 
-    Previous article    Next article</content> 
-<sequenceId type="str">695198880192</sequenceId> 
-<topics type="list"> 
+    Previous article    Next article</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -39,7 +38,8 @@ ValueWalk
 <group type="str">Companies</group> 
 <name type="str">Volkswagen news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:21Z</estimatedPublishedDate> 
-<title type="str">Global Car Sales to See an Upward Trend in 2017</title> 
+</TOPICS> 
+<DOCID type="str">695198880192</DOCID> 
+<DCT type="str">2017-01-29T07:44:21Z</DCT> 
+<TITLE type="str">Global Car Sales to See an Upward Trend in 2017</TITLE> 
 </root>

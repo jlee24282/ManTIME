@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The 45-year-old admitted to The Sun that she was &apos;embarrassed&apos; to tell anyone of her troubles, so forced herself to spend several nights on a park bench in North London at rock bottom.</content> 
-<sequenceId type="str">695194026151</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The 45-year-old admitted to The Sun that she was &apos;embarrassed&apos; to tell anyone of her troubles, so forced herself to spend several nights on a park bench in North London at rock bottom.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Bankruptcy news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:50:04Z</estimatedPublishedDate> 
-<title type="str">Gail Porter reveals she slept on a bench during bankruptcy</title> 
+</TOPICS> 
+<DOCID type="str">695194026151</DOCID> 
+<DCT type="str">2017-01-29T01:50:04Z</DCT> 
+<TITLE type="str">Gail Porter reveals she slept on a bench during bankruptcy</TITLE> 
 </root>

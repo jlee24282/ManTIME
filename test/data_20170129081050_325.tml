@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Catholic Schools Week starts today.
+<TEXT type="str">Catholic Schools Week starts today.
 
 The Aberdeen Catholic School System is celebrating all week with the following events: • Sock Hop, 1-3 p.m., at Roncalli Elementary for preschoolers to sixth-graders and their families. • Book fair at Roncalli Elementary and Roncalli Primary, 8 a.m. to 3:30 p.m.
 
@@ -24,9 +24,8 @@ The Aberdeen Catholic School System is celebrating all week with the following e
 
 • Roncalli Elementary Cavs Olympics, 9 to 10:30 a.m.
 
-• Boys’ basketball against Sisseton, Roncalli High School, varsity plays at 8 p.m.</content> 
-<sequenceId type="str">695203508676</sequenceId> 
-<topics type="list"> 
+• Boys’ basketball against Sisseton, Roncalli High School, varsity plays at 8 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -39,7 +38,8 @@ The Aberdeen Catholic School System is celebrating all week with the following e
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Catholic Schools Week kicks off today in Aberdeen</title> 
+</TOPICS> 
+<DOCID type="str">695203508676</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Catholic Schools Week kicks off today in Aberdeen</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Melbourne: Sania Mirza&apos;s aim for her seventh major tennis title ended in despair as she and Croatian partner Ivan Dodig were beaten 2-6, 4-6 by unseeded American Abigail Spears and Colombian Juan Sebastian Cabal in the Australian Open mixed doubles final here on Sunday. 
+<TEXT type="str">Melbourne: Sania Mirza&apos;s aim for her seventh major tennis title ended in despair as she and Croatian partner Ivan Dodig were beaten 2-6, 4-6 by unseeded American Abigail Spears and Colombian Juan Sebastian Cabal in the Australian Open mixed doubles final here on Sunday. 
  
 The Indo-Croatian pair accepted defeat in one hour and three minutes. 
  
@@ -36,9 +36,8 @@ The Indo-Croatian pair played their second grand slam final, having lost the Fre
  
 Sania-Dodig had overcome a tough one-hour-18-minute battle in the semi-final against Aussies Samantha Stosur and Sam Groth 6-4, 2-6, (10-5) Friday. 
  
-Abigail and Cabal had defeated Elina Svitolina of Ukraine and Aussie Chris Guiccione 7-6 (1), 6-2 in the last four stage.</content> 
-<sequenceId type="str">695195607179</sequenceId> 
-<topics type="list"> 
+Abigail and Cabal had defeated Elina Svitolina of Ukraine and Aussie Chris Guiccione 7-6 (1), 6-2 in the last four stage.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -51,7 +50,8 @@ Abigail and Cabal had defeated Elina Svitolina of Ukraine and Aussie Chris Guicc
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:21Z</estimatedPublishedDate> 
-<title type="str">Unseeded Spears-Cabal stun Sania Mirza-Dodig in mixed doubles final</title> 
+</TOPICS> 
+<DOCID type="str">695195607179</DOCID> 
+<DCT type="str">2017-01-29T07:23:21Z</DCT> 
+<TITLE type="str">Unseeded Spears-Cabal stun Sania Mirza-Dodig in mixed doubles final</TITLE> 
 </root>

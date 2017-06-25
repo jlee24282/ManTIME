@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A story I remember well bears retelling now that Donald Trump is president and leading a post-truth administration based on alternative facts, prejudices and random sightings of millions of illegal voters and overwhelming crowds. 
+<TEXT type="str">A story I remember well bears retelling now that Donald Trump is president and leading a post-truth administration based on alternative facts, prejudices and random sightings of millions of illegal voters and overwhelming crowds. 
  
 I remember, in my youth, accompanying my mother on weekly shopping expeditions down Manchester’s Elm Street. Occasionally, while waiting in check-out lines, she would be drawn to the tabloids displayed there, with their garish headlines about celebrities, perversities, conspiracies and aliens with three breasts. 
  
@@ -70,9 +70,8 @@ It is We the People – we are at risk.
  
 Robert Azzi is a photographer and writer who lives in Exeter. He can be reached at theother.azzi@gmail.com and his columns are archived at theotherazzi.wordpress.com 
  
-On Monday, Jan. 30, Azzi will be offering a two-part presentation at the Portsmouth Public Library on Islam in America and “Ask a Muslim Anything.” For more information, visit www.cityofportsmouth.com/library/AskAMuslimAnythingBrief.pdf.</content> 
-<sequenceId type="str">695197007250</sequenceId> 
-<topics type="list"> 
+On Monday, Jan. 30, Azzi will be offering a two-part presentation at the Portsmouth Public Library on Islam in America and “Ask a Muslim Anything.” For more information, visit www.cityofportsmouth.com/library/AskAMuslimAnythingBrief.pdf.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -85,7 +84,8 @@ On Monday, Jan. 30, Azzi will be offering a two-part presentation at the Portsmo
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">We the People are at risk</title> 
+</TOPICS> 
+<DOCID type="str">695197007250</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">We the People are at risk</TITLE> 
 </root>

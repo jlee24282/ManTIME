@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">John Legend: America Has To Be &apos;better&apos; Than Trump  
+<TEXT type="str">John Legend: America Has To Be &apos;better&apos; Than Trump  
 
  
 John Legend 
@@ -36,9 +36,8 @@ John Legend: America Has To Be &apos;better&apos; Than Trump
 John Legend: America Has To Be &apos;better&apos; Than Trump 
 John Legend: America Has To Be &apos;better&apos; Than Trump 
 John Legend: America Has To Be &apos;better&apos; Than Trump 
- John Legend: America Has To Be &apos;better&apos; Than Trump  John Legend: America Has To Be &apos;better&apos; Than Trump</content> 
-<sequenceId type="str">695203369215</sequenceId> 
-<topics type="list"> 
+ John Legend: America Has To Be &apos;better&apos; Than Trump  John Legend: America Has To Be &apos;better&apos; Than Trump</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -47,7 +46,8 @@ John Legend: America Has To Be &apos;better&apos; Than Trump
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:20:48Z</estimatedPublishedDate> 
-<title type="str">John Legend: America has to be ‘better’ than Trump</title> 
+</TOPICS> 
+<DOCID type="str">695203369215</DOCID> 
+<DCT type="str">2017-01-29T08:20:48Z</DCT> 
+<TITLE type="str">John Legend: America has to be ‘better’ than Trump</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WHAT were your favourite moments of 2016? 
+<TEXT type="str">WHAT were your favourite moments of 2016? 
 
 According to a poll of 2,000 Brits, Andy Murray&apos;s Wimbledon triumph was top of the list. 
 
@@ -30,9 +30,8 @@ There were plenty of other momentous moments - here to prove it are some of the 
 
 15. England’s Rugby Union team going unbeaten for a whole year. 
 
-The list was compiled from a survey commissioned for GalaBingo.</content> 
-<sequenceId type="str">695203242656</sequenceId> 
-<topics type="list"> 
+The list was compiled from a survey commissioned for GalaBingo.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
@@ -45,7 +44,8 @@ The list was compiled from a survey commissioned for GalaBingo.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:00Z</estimatedPublishedDate> 
-<title type="str">Andy Murray, Ed Balls and Leicester City - see who made the top 10 of 2016&apos;s best moments</title> 
+</TOPICS> 
+<DOCID type="str">695203242656</DOCID> 
+<DCT type="str">2017-01-29T07:50:00Z</DCT> 
+<TITLE type="str">Andy Murray, Ed Balls and Leicester City - see who made the top 10 of 2016&apos;s best moments</TITLE> 
 </root>

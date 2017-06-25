@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump had a “positive call” with Russian President Vladimir Putin on Saturday, during which the two promised to cooperate on destroying ISIS in Syrian and repair U.S. and Russian relations. 
+<TEXT type="str">President Donald Trump had a “positive call” with Russian President Vladimir Putin on Saturday, during which the two promised to cooperate on destroying ISIS in Syrian and repair U.S. and Russian relations. 
  
 The discussion was part of a diplomatic effort to connect over the phone with foreign leaders from countries including Japan, Germany, France and Australia. 
  
@@ -52,9 +52,8 @@ Chief of Staff Reince Priebus, Press Secretary Sean Spicer, National Security ad
  
 Translators were used during the conversation with Putin, Abe, Merkel and Hollande. 
  
-After signing three executive orders in the late afternoon, Trump started his call with Australian Prime Minister Malcolm Turnbull.</content> 
-<sequenceId type="str">695198658016</sequenceId> 
-<topics type="list"> 
+After signing three executive orders in the late afternoon, Trump started his call with Australian Prime Minister Malcolm Turnbull.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -75,7 +74,8 @@ After signing three executive orders in the late afternoon, Trump started his ca
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:12Z</estimatedPublishedDate> 
-<title type="str">Trump and Putin connect over Middle East and repairing relationship</title> 
+</TOPICS> 
+<DOCID type="str">695198658016</DOCID> 
+<DCT type="str">2017-01-29T07:43:12Z</DCT> 
+<TITLE type="str">Trump and Putin connect over Middle East and repairing relationship</TITLE> 
 </root>

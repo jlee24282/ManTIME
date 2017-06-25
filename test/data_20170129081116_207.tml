@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WHAT: Keep Tampa Bay Beautiful, Tampa Bay Dive Against Debris, North 
+<TEXT type="str">WHAT: Keep Tampa Bay Beautiful, Tampa Bay Dive Against Debris, North 
 American Marine Environment Protection Association (NAMEPA), and the 
 City of Tampa’s Department of Solid Waste and Environmental Program 
 Management (COT-Solid Waste) will sponsor the 7th Annual Day-After 
@@ -34,14 +34,14 @@ and side streets throughout Bayshore Blvd which were used as both the
 float staging area and parade route, focusing on both trash and recyclable 
 items. This will support the reduction of waste and the impact of the 
 waste along the parade route while continuing the traditional celebration 
-of Gasparilla.</content> 
-<sequenceId type="str">695204359752</sequenceId> 
-<topics type="list"> 
+of Gasparilla.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Tampa Bay Area news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:38Z</estimatedPublishedDate> 
-<title type="str">Day-After Gasparilla Cleanup</title> 
+</TOPICS> 
+<DOCID type="str">695204359752</DOCID> 
+<DCT type="str">2017-01-29T08:28:38Z</DCT> 
+<TITLE type="str">Day-After Gasparilla Cleanup</TITLE> 
 </root>

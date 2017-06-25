@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Some are describing it as the most anticipated match in tennis history, at least certainly of the modern era. 
+<TEXT type="str">Some are describing it as the most anticipated match in tennis history, at least certainly of the modern era. 
 
-FAKE BODY The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695204380478</sequenceId> 
-<topics type="list"> 
+FAKE BODY The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -17,7 +16,8 @@ FAKE BODY The story first appeared on The Sydney Morning Herald.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:33Z</estimatedPublishedDate> 
-<title type="str">Australian Open 2017 Men&apos;s Final Live: Roger Federer vs Rafael Nadal</title> 
+</TOPICS> 
+<DOCID type="str">695204380478</DOCID> 
+<DCT type="str">2017-01-29T07:29:33Z</DCT> 
+<TITLE type="str">Australian Open 2017 Men&apos;s Final Live: Roger Federer vs Rafael Nadal</TITLE> 
 </root>

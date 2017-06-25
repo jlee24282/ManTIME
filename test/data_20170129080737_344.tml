@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">2:18 a.m. EST 
+<TEXT type="str">2:18 a.m. EST 
  
 (Reuters) - German sprinter Nikias Arndt was the surprise winner of the Cadel Evans Great Ocean Road Race in Victoria on Sunday after he pipped Australian Cameron Meyer on the line to claim his first one-day win at World Tour level. 
  
@@ -20,9 +20,8 @@ With the climbers unable to make significant ground on the inclines, the large l
  
 Tour Down Under winner Porte finished 21st and three-times Tour de France champion Froome faded after his audacious lone bid for victory and crossed the line in 49th place in his first major race of the season. 
  
-(Writing by Simon Jennings in Bengaluru; Editing by John O&apos;Brien)</content> 
-<sequenceId type="str">695196394647</sequenceId> 
-<topics type="list"> 
+(Writing by Simon Jennings in Bengaluru; Editing by John O&apos;Brien)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -35,7 +34,8 @@ Tour Down Under winner Porte finished 21st and three-times Tour de France champi
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:08Z</estimatedPublishedDate> 
-<title type="str">German Arndt overhauls Meyer to win UCI event in Geelong</title> 
+</TOPICS> 
+<DOCID type="str">695196394647</DOCID> 
+<DCT type="str">2017-01-29T07:29:08Z</DCT> 
+<TITLE type="str">German Arndt overhauls Meyer to win UCI event in Geelong</TITLE> 
 </root>

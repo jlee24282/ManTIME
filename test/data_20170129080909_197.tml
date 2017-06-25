@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Bloomberg) -- For Mark Carney, better won’t be good enough. 
+<TEXT type="str">(Bloomberg) -- For Mark Carney, better won’t be good enough. 
  
 The Bank of England governor, overseeing an economy recording solid expansion and accelerating inflation, will probably raise near term projections for both this week, according to economists. At the same time, he may highlight potential longer-term threats from Brexit that may damp any speculation about tighter policy. 
  
@@ -30,9 +30,8 @@ To contact the reporter on this story: Scott Hamilton in London at shamilton8@bl
  
 To contact the editors responsible for this story: Paul Gordon at pgordon6@bloomberg.net, Brian Swint, Fergal O&apos;Brien 
  
-©2017 Bloomberg L.P.</content> 
-<sequenceId type="str">695199856242</sequenceId> 
-<topics type="list"> 
+©2017 Bloomberg L.P.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -45,7 +44,8 @@ To contact the editors responsible for this story: Paul Gordon at pgordon6@bloom
 <group type="str">Finance</group> 
 <name type="str">Central banks news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:04Z</estimatedPublishedDate> 
-<title type="str">Better Forecasts Not Enough for Carney in Brexit&apos;s Long Shadow</title> 
+</TOPICS> 
+<DOCID type="str">695199856242</DOCID> 
+<DCT type="str">2017-01-29T07:55:04Z</DCT> 
+<TITLE type="str">Better Forecasts Not Enough for Carney in Brexit&apos;s Long Shadow</TITLE> 
 </root>

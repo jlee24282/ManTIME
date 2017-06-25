@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Hamilton Harrison &amp; Mathews is one of Kenya’s highly acclaimed law firms, with a tradition of... 
+<TEXT type="str">Hamilton Harrison &amp; Mathews is one of Kenya’s highly acclaimed law firms, with a tradition of... 
 
-&gt;&gt; &gt;&gt;CLICK on the BLUE TITLE ABOVE for details&gt;&gt;&gt;</content> 
-<sequenceId type="str">695204707687</sequenceId> 
-<topics type="list"> 
+&gt;&gt; &gt;&gt;CLICK on the BLUE TITLE ABOVE for details&gt;&gt;&gt;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Kenya news</name> 
@@ -13,7 +12,8 @@
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:26Z</estimatedPublishedDate> 
-<title type="str">Corporate Senior Associates Jobs in Kenya (2 Posts)</title> 
+</TOPICS> 
+<DOCID type="str">695204707687</DOCID> 
+<DCT type="str">2017-01-29T08:23:26Z</DCT> 
+<TITLE type="str">Corporate Senior Associates Jobs in Kenya (2 Posts)</TITLE> 
 </root>

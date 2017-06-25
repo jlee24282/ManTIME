@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A group of state attorneys general are discussing whether to file their own court challenge against President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries entering the United States, officials in three states told Reuters.</content> 
-<sequenceId type="str">695194222494</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A group of state attorneys general are discussing whether to file their own court challenge against President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries entering the United States, officials in three states told Reuters.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:06:07Z</estimatedPublishedDate> 
-<title type="str">U.S. states discussing lawsuit over Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695194222494</DOCID> 
+<DCT type="str">2017-01-29T07:06:07Z</DCT> 
+<TITLE type="str">U.S. states discussing lawsuit over Trump immigration order</TITLE> 
 </root>

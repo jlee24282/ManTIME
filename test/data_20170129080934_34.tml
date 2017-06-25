@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Carl Frampton faces Leo Santa Cruz in the eagerly anticipated rematch in Las Vegas.</content> 
-<sequenceId type="str">695200699967</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Carl Frampton faces Leo Santa Cruz in the eagerly anticipated rematch in Las Vegas.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Frampton v Santa Cruz II</title> 
+</TOPICS> 
+<DOCID type="str">695200699967</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Frampton v Santa Cruz II</TITLE> 
 </root>

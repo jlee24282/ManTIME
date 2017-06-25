@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Government is working on a policy framework for development of e-Commerce and digital trade in the country. 
+<TEXT type="str">The Government is working on a policy framework for development of e-Commerce and digital trade in the country. 
  
 According to official sources, different working groups are working on the proposed policy to address the issues involved and their final reports are expected by the middle of next month. 
  
@@ -8,9 +8,8 @@ One of the key aspects of the policy framework is enactment of national law on c
  
 The sources said e-Commerce in Pakistan is currently at an initial but evolving stage. The past few years have seen a rising trend of domestic online shopping owing to the availability of required infrastructure for e-Commerce in the country. 
   
-Third-party Ads</content> 
-<sequenceId type="str">695194132822</sequenceId> 
-<topics type="list"> 
+Third-party Ads</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech policy news</name> 
@@ -19,7 +18,8 @@ Third-party Ads</content>
 <group type="str">Internet</group> 
 <name type="str">E-commerce news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:24Z</estimatedPublishedDate> 
-<title type="str">Govt working on policy framework for development of e-Commerce, digital trade</title> 
+</TOPICS> 
+<DOCID type="str">695194132822</DOCID> 
+<DCT type="str">2017-01-29T07:13:24Z</DCT> 
+<TITLE type="str">Govt working on policy framework for development of e-Commerce, digital trade</TITLE> 
 </root>

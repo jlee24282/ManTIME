@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump is arguably Twitter&apos;s most prominent user. But, as many outlets have reported over the past couple of days, the people operating his administration&apos;s Twitter accounts may not be using all their security options to the fullest. As CNN reported, a hacker specifically wrote to the president with tips on how to lock hackers out of his official Twitter account. 
+<TEXT type="str">President Donald Trump is arguably Twitter&apos;s most prominent user. But, as many outlets have reported over the past couple of days, the people operating his administration&apos;s Twitter accounts may not be using all their security options to the fullest. As CNN reported, a hacker specifically wrote to the president with tips on how to lock hackers out of his official Twitter account. 
  
 Although your own Twitter account may not be as sought-after as the president&apos;s, the hubbub over the security of the White House&apos;s accounts is a good reminder for all Twitter users to take a spin through their settings. Below are some tips. 
  
@@ -22,9 +22,8 @@ The @VP account is no longer linked to a Gmail account. Nor is the @POTUS Twitte
  
 Since that news broke, the account has been changed to link to two different accounts, which appear to have the government &quot;who.eop.gov&quot; domain. As of time of writing, it still did not have the personal information requirement enabled. 
  
-This tip won&apos;t always work, though. If you -- like many politicians and journalists -- must use a work account for Twitter to be verified, then that will generally make it pretty easy to figure out your address. In that case, two-factor is the way to go.</content> 
-<sequenceId type="str">695202718816</sequenceId> 
-<topics type="list"> 
+This tip won&apos;t always work, though. If you -- like many politicians and journalists -- must use a work account for Twitter to be verified, then that will generally make it pretty easy to figure out your address. In that case, two-factor is the way to go.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -37,7 +36,8 @@ This tip won&apos;t always work, though. If you -- like many politicians and jou
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:00Z</estimatedPublishedDate> 
-<title type="str">Twitter security tips we can learn from the Trump administration</title> 
+</TOPICS> 
+<DOCID type="str">695202718816</DOCID> 
+<DCT type="str">2017-01-29T08:16:00Z</DCT> 
+<TITLE type="str">Twitter security tips we can learn from the Trump administration</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TOKYO, Jan. 29 (Xinhua) -- Chinese Spring Festival, the most important traditional festival for Chinese society, has been celebrated all over Japan, attracting appreciation for Chinese culture among both local people and visitors from all over the world.
+<TEXT type="str">TOKYO, Jan. 29 (Xinhua) -- Chinese Spring Festival, the most important traditional festival for Chinese society, has been celebrated all over Japan, attracting appreciation for Chinese culture among both local people and visitors from all over the world.
 
 The Spring Festival is celebrated at the turn of the traditional lunisolar Chinese calendar. Celebrations traditionally run from the evening preceding the first day, to the Lantern Festival on the 15th day of the first calendar month.
 
@@ -114,9 +114,8 @@ Overseas Chinese have been holding Chinese Lunar New Year celebrations in Nagoya
 
 Copyright © 2000 - 2015 XINHUANET.com 
 
-All Rights Reserved.</content> 
-<sequenceId type="str">695204425159</sequenceId> 
-<topics type="list"> 
+All Rights Reserved.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Global news</name> 
@@ -133,7 +132,8 @@ All Rights Reserved.</content>
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:26Z</estimatedPublishedDate> 
-<title type="str">Spotlight: Spring Festival celebrations in Japan attract appreciation for Chinese culture</title> 
+</TOPICS> 
+<DOCID type="str">695204425159</DOCID> 
+<DCT type="str">2017-01-29T08:29:26Z</DCT> 
+<TITLE type="str">Spotlight: Spring Festival celebrations in Japan attract appreciation for Chinese culture</TITLE> 
 </root>

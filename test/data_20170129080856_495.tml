@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Serena Williams beat older sister Venus in Melbourne today in two straight sets 6-4 6-4 to pick her record 23rd Grand Slam title and her 7th in Australia. 
+<TEXT type="str">Serena Williams beat older sister Venus in Melbourne today in two straight sets 6-4 6-4 to pick her record 23rd Grand Slam title and her 7th in Australia. 
  
 Williams 35, and her sister who is 36 already made records as the oldest finalists in the Australian Open. 
  
@@ -45,9 +45,8 @@ In the meantime, she was more than happy to give kudos to her younger sister aft
 “It was great to have an opportunity to play for the title. That’s exactly where I want to be standing during these Grand Slams, is on finals day, having an opportunity. That’s the highlight of all this, is to be in that moment.” 
  
 “There’s no way I would be here at 23 without her,” Serena Williams said of her sister. “There’s no way I would be at one without her. She’s the only reason that I’m standing here today. She’s the only reason that the Williams sisters exist.” 
-  Share this</content> 
-<sequenceId type="str">695199672667</sequenceId> 
-<topics type="list"> 
+  Share this</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -56,7 +55,8 @@ In the meantime, she was more than happy to give kudos to her younger sister aft
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:35:46Z</estimatedPublishedDate> 
-<title type="str">Serena Williams beats Venus to set slam record</title> 
+</TOPICS> 
+<DOCID type="str">695199672667</DOCID> 
+<DCT type="str">2017-01-29T04:35:46Z</DCT> 
+<TITLE type="str">Serena Williams beats Venus to set slam record</TITLE> 
 </root>

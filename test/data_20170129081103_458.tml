@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In an Australian Open dominated by players in their 30s, the two oldest remaining fell just short of adding the men&apos;s doubles title to their generation&apos;s haul. 
+<TEXT type="str">In an Australian Open dominated by players in their 30s, the two oldest remaining fell just short of adding the men&apos;s doubles title to their generation&apos;s haul. 
  
 American twins Bob and Mike Bryan, 38, lost the men&apos;s doubles final Saturday evening to Henri Kontinen, 26, and John Peers, 28, with the Finnish-Australian team prevailing 7-5, 7-5. 
  
@@ -28,9 +28,8 @@ From there, the Padres have announced they will donate the clothing items to tho
  
 Obviously, the Chargers leaving town is a big negative for sports fans in San Diego and the community as a whole, but at least the Padres have found one creative way to draw something positive from it. 
  
-Sports on 01/29/2</content> 
-<sequenceId type="str">695204159996</sequenceId> 
-<topics type="list"> 
+Sports on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -39,7 +38,8 @@ Sports on 01/29/2</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:53Z</estimatedPublishedDate> 
-<title type="str">In tennis, age is like love -- it&apos;s nothing</title> 
+</TOPICS> 
+<DOCID type="str">695204159996</DOCID> 
+<DCT type="str">2017-01-29T08:14:53Z</DCT> 
+<TITLE type="str">In tennis, age is like love -- it&apos;s nothing</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MELBOURNE - Roger Federer and Rafael Nadal will collide in a hugely anticipated Australian Open final on Sunday after both veterans beat the odds to open a new chapter in their thrilling Grand Slam rivalry.
+<TEXT type="str">MELBOURNE - Roger Federer and Rafael Nadal will collide in a hugely anticipated Australian Open final on Sunday after both veterans beat the odds to open a new chapter in their thrilling Grand Slam rivalry.
 
 Swiss tennis player Roger Federer and Spaniard Rafael Nadal at the opening of the Rafa Nadal Academy in Manacor, Spain on October 19 2016. 
 
@@ -46,9 +46,8 @@ Anyone else massively excited about this happening all over again!?? ------ #Aus
 
 And now, waiting for #Nadal making the dream final come true #AusOpen #FedererNadal #sleepisfortheweak @AustralianOpen pic.twitter.com/gDiofbfVPd
 
-AFP</content> 
-<sequenceId type="str">695194420507</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -57,7 +56,8 @@ AFP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:19:47Z</estimatedPublishedDate> 
-<title type="str">PREVIEW: Federer, Nadal clash in blockbuster final</title> 
+</TOPICS> 
+<DOCID type="str">695194420507</DOCID> 
+<DCT type="str">2017-01-29T06:19:47Z</DCT> 
+<TITLE type="str">PREVIEW: Federer, Nadal clash in blockbuster final</TITLE> 
 </root>

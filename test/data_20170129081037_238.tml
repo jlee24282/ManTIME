@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The rugby was heating up at the Wellington Sevens as the tournament headed into the semifinals stage. 
+<TEXT type="str">The rugby was heating up at the Wellington Sevens as the tournament headed into the semifinals stage. 
    
 All the action from finals day at Westpac Stadium in the Wellington Sevens on the World Rugby World Series circuit. 
  
- </content> 
-<sequenceId type="str">695203040995</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:33Z</estimatedPublishedDate> 
-<title type="str">Recap: Wellington Sevens - finals day</title> 
+</TOPICS> 
+<DOCID type="str">695203040995</DOCID> 
+<DCT type="str">2017-01-29T08:18:33Z</DCT> 
+<TITLE type="str">Recap: Wellington Sevens - finals day</TITLE> 
 </root>

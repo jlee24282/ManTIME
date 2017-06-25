@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">12:47AM ET) 
+<TEXT type="str">12:47AM ET) 
 
 www.investing.com/analysis/sp-500-weekly-earnings-update:-year-over-year-%E2%80%9Cexpected%E2%80%9D-growth-now-8-200173891 By Brian Gilmartin | 2 hours ago (Jan 29, 2017 12:47AM ET) 
 
@@ -48,9 +48,8 @@ Personally I’d love to see y/t growth rate in the forward estimate of 10% – 
 
 What is truly interesting about the data is that – even prior to the US Presidential election – the S&amp;P 500 forward earnings estimate was starting to rise rapidly. 
 
-There are several earnings-related articles in the pipeline.</content> 
-<sequenceId type="str">695203141892</sequenceId> 
-<topics type="list"> 
+There are several earnings-related articles in the pipeline.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Stockwatch</name> 
@@ -63,7 +62,8 @@ There are several earnings-related articles in the pipeline.</content>
 <group type="str">Finance</group> 
 <name type="str">Earnings news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">SPX Earnings Update: Year-Over-Year “Expected” Growth Now +8%</title> 
+</TOPICS> 
+<DOCID type="str">695203141892</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">SPX Earnings Update: Year-Over-Year “Expected” Growth Now +8%</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bahraini religious scholars have called on people from all walks of life to participate in nationwide rallies to express their solidarity with prominent Shia cleric Sheikh Isa Qassim, whom the Ale Khalifah regime has stripped of his citizenship and is set to put on trial. 
+<TEXT type="str">Bahraini religious scholars have called on people from all walks of life to participate in nationwide rallies to express their solidarity with prominent Shia cleric Sheikh Isa Qassim, whom the Ale Khalifah regime has stripped of his citizenship and is set to put on trial. 
  
 According to Press TV, the clergymen, in a statement released on Saturday and entitled “In Defense of Our Faith and Pride,” urged Bahrainis to take to streets on Sunday in protest at the Manama regime’s ongoing persecution of Shia Muslim majority in the Persian Gulf kingdom. 
  
@@ -20,9 +20,8 @@ On January 26, Manama regime’s mercenaries attacked a sit-in near Sheikh Qassi
  
 Bahraini authorities stripped Sheikh Qassim, who is spiritual leader of the al-Wefaq opposition group, of his nationality on June 20, 2016. 
  
-ME</content> 
-<sequenceId type="str">695197472080</sequenceId> 
-<topics type="list"> 
+ME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Bahrain news</name> 
@@ -31,7 +30,8 @@ ME</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:50Z</estimatedPublishedDate> 
-<title type="str">Bahraini clerics call for rallies in solidarity with Sheikh Isa Qassim</title> 
+</TOPICS> 
+<DOCID type="str">695197472080</DOCID> 
+<DCT type="str">2017-01-29T07:37:50Z</DCT> 
+<TITLE type="str">Bahraini clerics call for rallies in solidarity with Sheikh Isa Qassim</TITLE> 
 </root>

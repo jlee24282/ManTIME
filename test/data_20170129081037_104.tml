@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FARNHAM resident Diane Vasey is enjoying her new home for the next four months, as she puts herself forward as a volunteer in India, with WAGGGS, the World Association of Girl Guides and Girl Scouts. 
+<TEXT type="str">FARNHAM resident Diane Vasey is enjoying her new home for the next four months, as she puts herself forward as a volunteer in India, with WAGGGS, the World Association of Girl Guides and Girl Scouts. 
  
 The association supports girls and young women to develop their full potential as leaders and active citizens of the world. 
  
@@ -17,9 +17,8 @@ The centre provides a unique and cultural experience for all those who choose to
 “This time my work is slightly different I am assisting in the reception services, taking familiarisation trips around Pune, delivering sessions to girl guides staying with us from all corners of the world. 
  
 “If anyone is thinking of volunteering with WAGGS, I would really recommend it – age is no barrier, I’m 62 years young.” 
- Add Comment</content> 
-<sequenceId type="str">695202908220</sequenceId> 
-<topics type="list"> 
+ Add Comment</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -28,7 +27,8 @@ The centre provides a unique and cultural experience for all those who choose to
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:29Z</estimatedPublishedDate> 
-<title type="str">Volunteer loving her time in India</title> 
+</TOPICS> 
+<DOCID type="str">695202908220</DOCID> 
+<DCT type="str">2017-01-29T08:17:29Z</DCT> 
+<TITLE type="str">Volunteer loving her time in India</TITLE> 
 </root>

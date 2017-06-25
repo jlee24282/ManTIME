@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tweet on Twitter 
+<TEXT type="str">Tweet on Twitter 
        
 
  
@@ -8,9 +8,8 @@ Dr R Seetharaman, Doha Bank CEO, said: “The IFM Awards celebrates excellence i
  
 Recognition 
  
-Seetharaman said: “It is recognition of our strong, unwavering commitment to supporting the financing needs of business enterprises in Qatar. This award also recognizes and honors Doha Bank for adding value to our customers and making a significant difference in Qatar.”</content> 
-<sequenceId type="str">695194747508</sequenceId> 
-<topics type="list"> 
+Seetharaman said: “It is recognition of our strong, unwavering commitment to supporting the financing needs of business enterprises in Qatar. This award also recognizes and honors Doha Bank for adding value to our customers and making a significant difference in Qatar.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -39,7 +38,8 @@ Seetharaman said: “It is recognition of our strong, unwavering commitment to s
 <group type="str">Business</group> 
 <name type="str">Middle Eastern business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:48Z</estimatedPublishedDate> 
-<title type="str">Doha Bank receives `Best Commercial Bank Qatar, 2016’ award in Dubai</title> 
+</TOPICS> 
+<DOCID type="str">695194747508</DOCID> 
+<DCT type="str">2017-01-29T07:17:48Z</DCT> 
+<TITLE type="str">Doha Bank receives `Best Commercial Bank Qatar, 2016’ award in Dubai</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Hundreds of passengers have been waiting for more than seven hours on the tarmac at Auckland Airport after a problem with the nose wheel of a plane forced it to abort take-off.Witnesses saw smoke and smelt &quot;burning rubber&quot; coming...</content> 
-<sequenceId type="str">695201052165</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Hundreds of passengers have been waiting for more than seven hours on the tarmac at Auckland Airport after a problem with the nose wheel of a plane forced it to abort take-off.Witnesses saw smoke and smelt &quot;burning rubber&quot; coming...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -31,7 +30,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:28:13Z</estimatedPublishedDate> 
-<title type="str">Singapore Airlines passengers stuck on the Auckland Airport tarmac for more than seven hours</title> 
+</TOPICS> 
+<DOCID type="str">695201052165</DOCID> 
+<DCT type="str">2017-01-29T04:28:13Z</DCT> 
+<TITLE type="str">Singapore Airlines passengers stuck on the Auckland Airport tarmac for more than seven hours</TITLE> 
 </root>

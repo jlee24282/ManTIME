@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Salem Historical Society is accepting nominations for the 2017 “Citizens of Honor” 
+<TEXT type="str">The Salem Historical Society is accepting nominations for the 2017 “Citizens of Honor” 
 
 7 and 1 Club meets for games SALEM — The Seven and One Club met Wednesday evening at the home of Mrs. John ...
 
@@ -12,9 +12,8 @@ YOUNGSTOWN — More than 680 students were awarded undergraduate, graduate and d
 
 Today&apos;s breaking news and more in your inbox
 
-Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</content> 
-<sequenceId type="str">695204650392</sequenceId> 
-<topics type="list"> 
+Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Cleveland news</name> 
@@ -23,7 +22,8 @@ Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, O
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:00Z</estimatedPublishedDate> 
-<title type="str">Salem Historical Society accepting nominations for Citizens of the Year</title> 
+</TOPICS> 
+<DOCID type="str">695204650392</DOCID> 
+<DCT type="str">2017-01-29T08:31:00Z</DCT> 
+<TITLE type="str">Salem Historical Society accepting nominations for Citizens of the Year</TITLE> 
 </root>

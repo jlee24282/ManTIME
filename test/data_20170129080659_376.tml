@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Fiona Mullen 
+<TEXT type="str">By Fiona Mullen 
  
 The Cyprus News Agency (CNA) reported this week that the cost of the EastMed pipeline from Israel to Cyprus, Crete, the Peloponnese in Greece and then Italy would be $6bn. This is close to the $5.7bn figure cited by Globes a few months ago. 
  
@@ -33,9 +33,8 @@ European gas import prices have been rising lately, reaching $5.50/mmbtu at the 
  
 We can wait that long, or we can solve the Cyprus problem. A shorter pipeline to Turkey would be viable at a price of just above $4/mmbtu according to my model. 
  
-The writer is Director of Sapienta Economics and author of the monthly Sapienta Country Analysis Cyprus www.sapientaeconomics.com</content> 
-<sequenceId type="str">695194871978</sequenceId> 
-<topics type="list"> 
+The writer is Director of Sapienta Economics and author of the monthly Sapienta Country Analysis Cyprus www.sapientaeconomics.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -60,7 +59,8 @@ The writer is Director of Sapienta Economics and author of the monthly Sapienta 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:05Z</estimatedPublishedDate> 
-<title type="str">Is the EastMed gas pipeline an option for Cyprus?</title> 
+</TOPICS> 
+<DOCID type="str">695194871978</DOCID> 
+<DCT type="str">2017-01-29T07:00:05Z</DCT> 
+<TITLE type="str">Is the EastMed gas pipeline an option for Cyprus?</TITLE> 
 </root>

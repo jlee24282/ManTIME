@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">GAINESVILLE - Little Jake Mitchell figures he has about 100 suits back at his house, including a couple that come complete with matching capes. That’s fitting for a man sometimes known as “Mr. Excitement,” and it’s a sign of respect, he says, for what’s driven him for most of his 70-plus years on Earth. Singing.
+<TEXT type="str">GAINESVILLE - Little Jake Mitchell figures he has about 100 suits back at his house, including a couple that come complete with matching capes. That’s fitting for a man sometimes known as “Mr. Excitement,” and it’s a sign of respect, he says, for what’s driven him for most of his 70-plus years on Earth. Singing.
 
 Singing since he was 5, when as a boy he regularly won talent shows sponsored by the Holsum Bread Company, which paid in bread. That came in handy at home in the Tampa projects.
 
@@ -74,9 +74,8 @@ Little Jake and the Soul Searchers
 
 7 p.m. Saturday at Mudville Listening Room, 3105 Beach Blvd.
 
-$15-$20 Read/post comments</content> 
-<sequenceId type="str">695203075622</sequenceId> 
-<topics type="list"> 
+$15-$20 Read/post comments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -89,7 +88,8 @@ $15-$20 Read/post comments</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:44Z</estimatedPublishedDate> 
-<title type="str">At 72, Little Jake is still singing sweet soul music</title> 
+</TOPICS> 
+<DOCID type="str">695203075622</DOCID> 
+<DCT type="str">2017-01-29T08:18:44Z</DCT> 
+<TITLE type="str">At 72, Little Jake is still singing sweet soul music</TITLE> 
 </root>

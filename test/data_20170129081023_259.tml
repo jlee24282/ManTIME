@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Review 
+<TEXT type="str">Review 
   
 Raees Movie Review: Nawaz takes the spotlight away from King Khan in this mediocre crime drama 
    
@@ -162,9 +162,8 @@ Sunday Special! Jacqueline Fernandez enjoys a horse riding session in the city
     
 Box Office Report: Shah Rukh Khan&apos;s Raees continues its dream run, witnesses growth on Day 4! 
     
-Nakuul Mehta and wife Jankee celebrate their 5-year wedding anniversary with these sweet messages!</content> 
-<sequenceId type="str">695202667304</sequenceId> 
-<topics type="list"> 
+Nakuul Mehta and wife Jankee celebrate their 5-year wedding anniversary with these sweet messages!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -173,7 +172,8 @@ Nakuul Mehta and wife Jankee celebrate their 5-year wedding anniversary with the
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: Bollywood news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:24Z</estimatedPublishedDate> 
-<title type="str">This star kid finds himself stuck between his possessive mother and girlfriend! Guess who?</title> 
+</TOPICS> 
+<DOCID type="str">695202667304</DOCID> 
+<DCT type="str">2017-01-29T08:11:24Z</DCT> 
+<TITLE type="str">This star kid finds himself stuck between his possessive mother and girlfriend! Guess who?</TITLE> 
 </root>

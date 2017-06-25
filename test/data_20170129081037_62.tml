@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Melissa Majchrzak NBAE/ 
+<TEXT type="str">Melissa Majchrzak NBAE/ 
   
 As usual, the Jazz and Grizzlies went back and forth in a grind-it-out matchup, but Utah came up just short in the end, falling to Memphis 102-95 Saturday night in Salt Lake City. 
  
@@ -44,9 +44,8 @@ After struggling from the line (55.8 percent) the past six games, Gobert went a 
  
 Up Next 
  
-The Jazz will have a few days off before they host the Milwaukee Bucks on Wednesday. Tipoff is set for 7 p.m. MT, and the game will be broadcast on ROOT SPORTS.</content> 
-<sequenceId type="str">695202871271</sequenceId> 
-<topics type="list"> 
+The Jazz will have a few days off before they host the Milwaukee Bucks on Wednesday. Tipoff is set for 7 p.m. MT, and the game will be broadcast on ROOT SPORTS.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Utah Jazz news</name> 
@@ -71,7 +70,8 @@ The Jazz will have a few days off before they host the Milwaukee Bucks on Wednes
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:22:35Z</estimatedPublishedDate> 
-<title type="str">The Roundup—Jazz 95, Grizzlies 102</title> 
+</TOPICS> 
+<DOCID type="str">695202871271</DOCID> 
+<DCT type="str">2017-01-29T05:22:35Z</DCT> 
+<TITLE type="str">The Roundup—Jazz 95, Grizzlies 102</TITLE> 
 </root>

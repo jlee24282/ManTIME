@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:26 
+<TEXT type="str">:26 
    Tweet     
 Miguel Berchelt dethroned previously unbeaten Francisco Vargas on Saturday, stopping him in the 11th round to seize the World Boxing Council super featherweight title in a showdown of Mexican rivals. 
  
@@ -38,9 +38,8 @@ Roman suffered a cut over his left eye in the eighth on an accidental head-butt 
  
 Miura knocked down Roman late in the 10th with a sledgehammer left hand to the body and dropped Roman again in the 11th with a flurry of body punches. 
  
-Early in the 12th round, Miura landed a left to the head that left Roman lying on the canvas and referee Tom Taylor counted him out.</content> 
-<sequenceId type="str">695199616469</sequenceId> 
-<topics type="list"> 
+Early in the 12th round, Miura landed a left to the head that left Roman lying on the canvas and referee Tom Taylor counted him out.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -49,7 +48,8 @@ Early in the 12th round, Miura landed a left to the head that left Roman lying o
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:23Z</estimatedPublishedDate> 
-<title type="str">Berchelt dethrones Vargas</title> 
+</TOPICS> 
+<DOCID type="str">695199616469</DOCID> 
+<DCT type="str">2017-01-29T07:38:23Z</DCT> 
+<TITLE type="str">Berchelt dethrones Vargas</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In his retirement, Brian Schaab was a keen rose grower. 
+<TEXT type="str">In his retirement, Brian Schaab was a keen rose grower. 
    
 When he was just a kid, Cameron Schaab watched his dad leave for Washington DC with hair samples in an envelope and a dogged determination to find the truth. 
  
@@ -40,9 +40,8 @@ He was influential and had major involvement in the armed offenders squad in the
  
 Schaab is survived by four children. 
  
- </content> 
-<sequenceId type="str">695202657858</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -51,7 +50,8 @@ Schaab is survived by four children.
 <group type="str">Society</group> 
 <name type="str">Police news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:30Z</estimatedPublishedDate> 
-<title type="str">Cop who caught Teresa&apos;s killer dies</title> 
+</TOPICS> 
+<DOCID type="str">695202657858</DOCID> 
+<DCT type="str">2017-01-29T08:15:30Z</DCT> 
+<TITLE type="str">Cop who caught Teresa&apos;s killer dies</TITLE> 
 </root>

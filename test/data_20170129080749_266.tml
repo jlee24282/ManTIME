@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By WARE - It’s got a bit of “banquet” in its feel as well as its name, Teresa’s Restaurant &amp; Banquet. “Feast” is also part of the feeling you get watching a parade of plastic bags filled with myriad Styrofoam containers makes its to the parking lot in a processional march. 
+<TEXT type="str">By WARE - It’s got a bit of “banquet” in its feel as well as its name, Teresa’s Restaurant &amp; Banquet. “Feast” is also part of the feeling you get watching a parade of plastic bags filled with myriad Styrofoam containers makes its to the parking lot in a processional march. 
  
 But we can’t omit “Italy” or “family” from the recipe of feelings that attach to this nearly 37-year-old community icon along Route 32 in the south of Ware. Romanesque arches run in lines along the textured walls of much of the dining area, matched by mirrors of the same shape and size in the remaining portion. The cityscape and still-life paintings between the arched openings, like Teresa’s food offerings, wear the Ferrentino family’s birthplace proudly. The dark wooden tables add a rustic vibe. 
  
@@ -24,9 +24,8 @@ An adequate tiramisu was $6 at the top end of a dessert selection of cannoli, ic
  
 It could have been a busier night, as evidenced by the squad of servers seeming to await a Saturday-night full house that never arrived. While there were families and young children aplenty as well as elder parties, a swath may have been held away by a Patriots playoff game running at the same time. 
  
-To say Teresa’s was ready and able to serve would be a vast understatement; it’s known also as a banquet and special events place, remember? But seven days a week, even the casual evening diner can simply be ready to be well taken care of.</content> 
-<sequenceId type="str">695196752731</sequenceId> 
-<topics type="list"> 
+To say Teresa’s was ready and able to serve would be a vast understatement; it’s known also as a banquet and special events place, remember? But seven days a week, even the casual evening diner can simply be ready to be well taken care of.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -35,7 +34,8 @@ To say Teresa’s was ready and able to serve would be a vast understatement; it
 <group type="str">Regional</group> 
 <name type="str">Italy news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Dining Review: Italian flavor overarches diners at Teresa’s</title> 
+</TOPICS> 
+<DOCID type="str">695196752731</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Dining Review: Italian flavor overarches diners at Teresa’s</TITLE> 
 </root>

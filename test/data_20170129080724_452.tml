@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,14 +8,14 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695195990997</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:20Z</estimatedPublishedDate> 
-<title type="str">Trump says his refugee ban is about protecting America. It&apos;s really about Islamophobia.</title> 
+</TOPICS> 
+<DOCID type="str">695195990997</DOCID> 
+<DCT type="str">2017-01-29T07:26:20Z</DCT> 
+<TITLE type="str">Trump says his refugee ban is about protecting America. It&apos;s really about Islamophobia.</TITLE> 
 </root>

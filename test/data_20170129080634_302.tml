@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Craig Watson was part of a group that had a stall a Christian music festival Festival One. The group was told to take down all references to sexuality and LBGT. 
+<TEXT type="str">Craig Watson was part of a group that had a stall a Christian music festival Festival One. The group was told to take down all references to sexuality and LBGT. 
   
 A conversation about sexuality and gender diversity has been hushed at a Christian music festival. 
  
@@ -38,9 +38,8 @@ Watson, who is a gay Christian, said Festival One was a great place to start a 
  
 &quot;For me it&apos;s just a sign that we are still not there, we are still quite judgmental when it comes to Christians and churches accepting people with different views.&quot; 
  
- </content> 
-<sequenceId type="str">695194123321</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -53,7 +52,8 @@ Watson, who is a gay Christian, said Festival One was a great place to start a 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:19Z</estimatedPublishedDate> 
-<title type="str">LGBT topic not up for discussion at Christian festival</title> 
+</TOPICS> 
+<DOCID type="str">695194123321</DOCID> 
+<DCT type="str">2017-01-29T07:13:19Z</DCT> 
+<TITLE type="str">LGBT topic not up for discussion at Christian festival</TITLE> 
 </root>

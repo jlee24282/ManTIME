@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">x 
+<TEXT type="str">x 
  
 To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video 
   Demonstrations at Chicago&apos;s O&apos;Hare Airport Reuters  
@@ -79,9 +79,8 @@ U.S. officials, speaking on condition of anonymity, said they were not consulted
  
 At the State Department, a senior official said lawyers were working to interpret the executive order, which allows entry to people affected by the order when it is in the &quot;national interest.&quot; 
  
-However, a federal law enforcement official said: &quot;It&apos;s unclear at this point what the threshold of national interest is.&quot;</content> 
-<sequenceId type="str">695198546496</sequenceId> 
-<topics type="list"> 
+However, a federal law enforcement official said: &quot;It&apos;s unclear at this point what the threshold of national interest is.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -98,7 +97,8 @@ However, a federal law enforcement official said: &quot;It&apos;s unclear at thi
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:04Z</estimatedPublishedDate> 
-<title type="str">Chaos And Anger As Trump Ban For Muslim Countries Begins</title> 
+</TOPICS> 
+<DOCID type="str">695198546496</DOCID> 
+<DCT type="str">2017-01-29T07:27:04Z</DCT> 
+<TITLE type="str">Chaos And Anger As Trump Ban For Muslim Countries Begins</TITLE> 
 </root>

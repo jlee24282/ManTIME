@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The new Apple iPhone 6S and 6S Plus are displayed during an Apple media event in San Francisco, California, September 9, 2015. REUTERS/Beck Diefenbach 
+<TEXT type="str">The new Apple iPhone 6S and 6S Plus are displayed during an Apple media event in San Francisco, California, September 9, 2015. REUTERS/Beck Diefenbach 
  
 San Francisco : The freshly installed president vowed while campaigning that he would force Apple to bring production to US soil. reuters file photo 
 As US President Donald Trump pushes hard for goods to be “made in America,” how realistic is it to expect Apple to stop manufacturing its iconic devices in China? 
@@ -33,9 +33,8 @@ It would be “very hard to replicate” that situation with US workers without 
  
 Exacerbating the challenge, “it makes no sense to make phones here if you have to ship all the components from China,” said technology analyst Jack Gold of J. Gold Associates. 
  
-AFP</content> 
-<sequenceId type="str">695198502763</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -52,7 +51,8 @@ AFP</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:03Z</estimatedPublishedDate> 
-<title type="str">An iPhone made in America? Not that simple</title> 
+</TOPICS> 
+<DOCID type="str">695198502763</DOCID> 
+<DCT type="str">2017-01-29T07:41:03Z</DCT> 
+<TITLE type="str">An iPhone made in America? Not that simple</TITLE> 
 </root>

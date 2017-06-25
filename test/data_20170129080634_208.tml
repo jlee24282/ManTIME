@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">He is just 11 but his name will forever be etched in the history of his school. 
+<TEXT type="str">He is just 11 but his name will forever be etched in the history of his school. 
  
 Giancarlo Walker is considered the “little artist” of the Craighead Primary School in Manchester. 
  
@@ -36,9 +36,8 @@ But despite his calm demeanour about his victory, one could not miss his princip
  
 Young Walker’s photograph with Japanese organisers who presented him with the prizes is displayed boldly in the staff room, to remind teachers and students alike of the achievement. 
  
-He told the Sunday Observer that he hopes to one day become an artist as he thinks “that’s all I should do”.</content> 
-<sequenceId type="str">695194030022</sequenceId> 
-<topics type="list"> 
+He told the Sunday Observer that he hopes to one day become an artist as he thinks “that’s all I should do”.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -47,7 +46,8 @@ He told the Sunday Observer that he hopes to one day become an artist as he thin
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:40Z</estimatedPublishedDate> 
-<title type="str">That impressive ‘little artist’ from Craighead</title> 
+</TOPICS> 
+<DOCID type="str">695194030022</DOCID> 
+<DCT type="str">2017-01-29T07:12:40Z</DCT> 
+<TITLE type="str">That impressive ‘little artist’ from Craighead</TITLE> 
 </root>

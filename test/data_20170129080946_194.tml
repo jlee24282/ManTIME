@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Prince William and Prince Harry will mark the 20th anniversary of Princess Diana’s death by commissioning a statue of their mother. 
+<TEXT type="str">Prince William and Prince Harry will mark the 20th anniversary of Princess Diana’s death by commissioning a statue of their mother. 
  
 In a joint statement the two Princes said: It has been 20 years since our mother’s death and the time is right to recognise her positive impact in the UK and around the world with a permanent statue. 
  
@@ -31,14 +31,14 @@ I think it’s important to keep Diana’s legacy alive because she really chang
 We want to encourage the public to show that little bit of kindness and to be just that little bit more compassionate. 
  
 (c) Sky News 2017: Comments  
-comments</content> 
-<sequenceId type="str">695201335436</sequenceId> 
-<topics type="list"> 
+comments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Princes to mark 20th anniversary with statue of Princess Diana</title> 
+</TOPICS> 
+<DOCID type="str">695201335436</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Princes to mark 20th anniversary with statue of Princess Diana</TITLE> 
 </root>

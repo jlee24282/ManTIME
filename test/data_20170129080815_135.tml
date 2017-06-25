@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">World News Categories 
+<TEXT type="str">World News Categories 
  World News Categories 
 Daily World News 
  
@@ -14,14 +14,14 @@ Life Poems at Google Play Store
   
 Easy Branches Search Engine 
  
-Advertising with Easy Branches</content> 
-<sequenceId type="str">695197439505</sequenceId> 
-<topics type="list"> 
+Advertising with Easy Branches</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:18Z</estimatedPublishedDate> 
-<title type="str">Ford CEO told Trump 1 million jobs at stake because of fuel economy regs</title> 
+</TOPICS> 
+<DOCID type="str">695197439505</DOCID> 
+<DCT type="str">2017-01-29T07:35:18Z</DCT> 
+<TITLE type="str">Ford CEO told Trump 1 million jobs at stake because of fuel economy regs</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">To assess pharmacists’ willingness to initiate the dispensing of naloxone. As of 2015, Kentucky law permits certified pharmacists to dispense naloxone under a physician-approved protocol. 
+<TEXT type="str">To assess pharmacists’ willingness to initiate the dispensing of naloxone. As of 2015, Kentucky law permits certified pharmacists to dispense naloxone under a physician-approved protocol. 
   
 URL:  
  
@@ -12,9 +12,8 @@ Ad Position: 
  
 Bottom Center Aligned 
    
-Spotlight Image</content> 
-<sequenceId type="str">695193838927</sequenceId> 
-<topics type="list"> 
+Spotlight Image</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
@@ -23,7 +22,8 @@ Spotlight Image</content>
 <group type="str">Industry</group> 
 <name type="str">Pharma industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:05:01Z</estimatedPublishedDate> 
-<title type="str">Pharmacists’ role in opioid overdose: Kentucky pharmacists’ willingness to participate in naloxone dispensing</title> 
+</TOPICS> 
+<DOCID type="str">695193838927</DOCID> 
+<DCT type="str">2017-01-29T05:05:01Z</DCT> 
+<TITLE type="str">Pharmacists’ role in opioid overdose: Kentucky pharmacists’ willingness to participate in naloxone dispensing</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Justin Bieber got a taste of professional ice hockey and the Staples Centre glass on Saturday, courtesy of NHL great Chris Pronger. 
+<TEXT type="str">Justin Bieber got a taste of professional ice hockey and the Staples Centre glass on Saturday, courtesy of NHL great Chris Pronger. 
  
 The pop star was driven into the boards in the first half of a celebrity exhibition match by a laughing Chris, who spent 18 years in the league as a player. 
   
@@ -18,9 +18,8 @@ Pictures posted to the NHL’s Instagram account show Justin with ice hockey gre
  
 Justin will be back at the Staples Centre on February 12 as he is nominated for four Grammys, including album of the year and song of the year. 
  
-Some players in the exhibition match wore patches on their jerseys honouring Canadian actor Alan Thicke, a long-time fan of the Los Angeles Kings who died in December while playing hockey.</content> 
-<sequenceId type="str">695193826943</sequenceId> 
-<topics type="list"> 
+Some players in the exhibition match wore patches on their jerseys honouring Canadian actor Alan Thicke, a long-time fan of the Los Angeles Kings who died in December while playing hockey.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: pop music news</name> 
@@ -33,7 +32,8 @@ Some players in the exhibition match wore patches on their jerseys honouring Can
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:11Z</estimatedPublishedDate> 
-<title type="str">Justin Bieber smashed into glass board during celebrity hockey game</title> 
+</TOPICS> 
+<DOCID type="str">695193826943</DOCID> 
+<DCT type="str">2017-01-29T07:11:11Z</DCT> 
+<TITLE type="str">Justin Bieber smashed into glass board during celebrity hockey game</TITLE> 
 </root>

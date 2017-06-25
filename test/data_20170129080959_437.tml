@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 6:50 pm 
+<TEXT type="str">, 6:50 pm 
    
 Victoria is bracing itself for an extremely hot and dry day on Monday, with conditions that are feared could lead to serious fires. 
 
@@ -20,9 +20,8 @@ CFA Chief Officer Steve Warrington said in a statement that any fire that breaks
 
 He says grasslands around Melbourne and Geelong are of particular concern, along with Gippsland and the northeast foothills, and the Goldfields and Wimmera regions. 
 
-Melbourne can expect a top of 34C with a late cool change and a 40 per cent chance of rain.</content> 
-<sequenceId type="str">695202005828</sequenceId> 
-<topics type="list"> 
+Melbourne can expect a top of 34C with a late cool change and a 40 per cent chance of rain.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -31,7 +30,8 @@ Melbourne can expect a top of 34C with a late cool change and a 40 per cent chan
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:32Z</estimatedPublishedDate> 
-<title type="str">Vic to swelter on Monday amid fire fears</title> 
+</TOPICS> 
+<DOCID type="str">695202005828</DOCID> 
+<DCT type="str">2017-01-29T08:10:32Z</DCT> 
+<TITLE type="str">Vic to swelter on Monday amid fire fears</TITLE> 
 </root>

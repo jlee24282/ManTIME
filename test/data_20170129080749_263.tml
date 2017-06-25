@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By “Birds Art Life: A Year of Observation” by: Kyo Maclear; Scribner (221 pages, $25) 
+<TEXT type="str">By “Birds Art Life: A Year of Observation” by: Kyo Maclear; Scribner (221 pages, $25) 
  
 Kyo Maclear took up birding after her father suffered his second stroke. 
  
@@ -20,9 +20,8 @@ On one walk, fairly early on, she recalls the birds that smashed into the window
  
 Maclear, who lives in Toronto, writes books for children, and her prose here is direct and clear, each sentence carrying as much weight as a line in a picture book, or in a poem. “If you listen to birds,” she writes, “every day will have a song in it.” 
  
-This book is a lovely song — a symphony — for all of us. The musician’s bird photographs are at www.smallbirdsongs.com</content> 
-<sequenceId type="str">695196751922</sequenceId> 
-<topics type="list"> 
+This book is a lovely song — a symphony — for all of us. The musician’s bird photographs are at www.smallbirdsongs.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -39,7 +38,8 @@ This book is a lovely song — a symphony — for all of us. The musician’s bi
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book reviews</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Book Review: &apos;Birds Art Life&apos; evokes song of meditation</title> 
+</TOPICS> 
+<DOCID type="str">695196751922</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Book Review: &apos;Birds Art Life&apos; evokes song of meditation</TITLE> 
 </root>

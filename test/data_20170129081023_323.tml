@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:55 
+<TEXT type="str">:55 
    Tweet     
 Aaron Samuel has joined Russian club PCF CSKA Moscow in a four-and-a-half-year deal. 
  
@@ -14,9 +14,8 @@ He has now sealed a permanent deal at the club which will see him remain in Mosc
  
 The striker has since joined the rest of his teammates in Campoamor, Spain. 
  
-Samuel has previously played for Norwegian clubs Valeranga and Sarpsborg.</content> 
-<sequenceId type="str">695202699711</sequenceId> 
-<topics type="list"> 
+Samuel has previously played for Norwegian clubs Valeranga and Sarpsborg.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -25,7 +24,8 @@ Samuel has previously played for Norwegian clubs Valeranga and Sarpsborg.</conte
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:40Z</estimatedPublishedDate> 
-<title type="str">Samuel joins CSKA Moscow</title> 
+</TOPICS> 
+<DOCID type="str">695202699711</DOCID> 
+<DCT type="str">2017-01-29T08:07:40Z</DCT> 
+<TITLE type="str">Samuel joins CSKA Moscow</TITLE> 
 </root>

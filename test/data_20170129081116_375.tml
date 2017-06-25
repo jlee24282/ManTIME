@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Part of Donald Trump&apos;s temporary immigration ban for nationals of seven Middle Eastern countries has been blocked by an American court.  
+<TEXT type="str">Part of Donald Trump&apos;s temporary immigration ban for nationals of seven Middle Eastern countries has been blocked by an American court.  
  
 Lawyers from the American Civil Liberties Union have secured a ruling which stops the US from deporting refugees and visitors. 
 
@@ -51,9 +51,8 @@ The family says the service will take place in March at Forest Lawn Cemetery Hol
  
 60-year-old Fisher died after having a heart attack on a flight from London to LA - her 84-year-old mother passed away a day later. 
  
- </content> 
-<sequenceId type="str">695204466329</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -74,7 +73,8 @@ The family says the service will take place in March at Forest Lawn Cemetery Hol
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:44Z</estimatedPublishedDate> 
-<title type="str">Morning top 5: Trump’s ban partially blocked by US Court; 31 people missing on Malaysia tourist boat</title> 
+</TOPICS> 
+<DOCID type="str">695204466329</DOCID> 
+<DCT type="str">2017-01-29T08:29:44Z</DCT> 
+<TITLE type="str">Morning top 5: Trump’s ban partially blocked by US Court; 31 people missing on Malaysia tourist boat</TITLE> 
 </root>

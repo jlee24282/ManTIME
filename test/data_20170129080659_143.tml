@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Staff 
+<TEXT type="str">By Staff 
 Saturday, January 28, 2017 
  
 Fruita Monument 47, Montrose 13 
@@ -33,9 +33,8 @@ Saturday at Rangely
  
 Plateau Valley 15 9 12 7 — 43 
  
-Rangely 20 17 15 18 — 7</content> 
-<sequenceId type="str">695194732708</sequenceId> 
-<topics type="list"> 
+Rangely 20 17 15 18 — 7</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -44,7 +43,8 @@ Rangely 20 17 15 18 — 7</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:39:00Z</estimatedPublishedDate> 
-<title type="str">Boys basketball scores, Jan. 28, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194732708</DOCID> 
+<DCT type="str">2017-01-29T04:39:00Z</DCT> 
+<TITLE type="str">Boys basketball scores, Jan. 28, 2017</TITLE> 
 </root>

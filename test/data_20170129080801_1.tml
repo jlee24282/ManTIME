@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Indian-origin American actor Kal Penn has started a CrowdRise fundraiser in the name of a commenter who told him he doesn&apos;t belong in the US.</content> 
-<sequenceId type="str">695196959901</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Indian-origin American actor Kal Penn has started a CrowdRise fundraiser in the name of a commenter who told him he doesn&apos;t belong in the US.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Syria news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:13Z</estimatedPublishedDate> 
-<title type="str">Kal Penn starts fundraiser for Syrian refugees</title> 
+</TOPICS> 
+<DOCID type="str">695196959901</DOCID> 
+<DCT type="str">2017-01-29T07:31:13Z</DCT> 
+<TITLE type="str">Kal Penn starts fundraiser for Syrian refugees</TITLE> 
 </root>

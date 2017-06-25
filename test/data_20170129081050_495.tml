@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Pictures Videos 
+<TEXT type="str">Pictures Videos 
  
 ABU DHABI, 29th January, 2017 (WAM) -- The Department of Economic Development – Abu Dhabi, ADDED, has launched the Innovators Support Council, ISC, during a meeting attended by Khalifa bin Salem Al Mansouri, Acting Under-Secretary, and representatives from Abu Dhabi National Oil Company, ADNOC, UAE University, Masdar Institute, Al Ain Distribution and other UAE companies, along with the UAE inventors who are the key partners of Takamul programme. 
  
@@ -10,9 +10,8 @@ During the meeting, Mr. Al Mansouri highlighted that the ISC is one of the key i
  
 He explained that the ISC aims to create an innovation inductive climate and to invest in it to materialise the emirate’s vision of building a sustainable, diversified and knowledge-based economy that catches up with the modern global economy. It seeks to encourage the investment in scientific inventions and integrate them into the economic development plans, while also motivating businesses and organisations to invest in their inventions as key factors for growth and competitiveness. 
  
-WAM/Esraa/Moran</content> 
-<sequenceId type="str">695203667305</sequenceId> 
-<topics type="list"> 
+WAM/Esraa/Moran</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -21,7 +20,8 @@ WAM/Esraa/Moran</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:26Z</estimatedPublishedDate> 
-<title type="str">ADDED launches Innovators Support Council</title> 
+</TOPICS> 
+<DOCID type="str">695203667305</DOCID> 
+<DCT type="str">2017-01-29T08:23:26Z</DCT> 
+<TITLE type="str">ADDED launches Innovators Support Council</TITLE> 
 </root>

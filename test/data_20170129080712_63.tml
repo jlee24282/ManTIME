@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Steve Richards is back training and in the winner&apos;s stall counting his blessings. 
+<TEXT type="str">Steve Richards is back training and in the winner&apos;s stall counting his blessings. 
  
 After a bad start to Saturday when Vainglorious bled from both nostrils at Flemington, incurring an automatic three month ban, three-year-old Knowable won to put the smile back on the trainer&apos;s face. 
  
@@ -40,9 +40,8 @@ Richards has downsized his team since his accident and says he&apos;s working ha
  
 Knowable has given the trainer his only two wins for the 2016-17 season, both coming in the new year and Richards believes there is still more to come from the gelding following Saturday&apos;s victory. 
  
-© AAP 2</content> 
-<sequenceId type="str">695195011306</sequenceId> 
-<topics type="list"> 
+© AAP 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -51,7 +50,8 @@ Knowable has given the trainer his only two wins for the 2016-17 season, both co
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:10Z</estimatedPublishedDate> 
-<title type="str">Richards back a winner at Flemington</title> 
+</TOPICS> 
+<DOCID type="str">695195011306</DOCID> 
+<DCT type="str">2017-01-29T07:20:10Z</DCT> 
+<TITLE type="str">Richards back a winner at Flemington</TITLE> 
 </root>

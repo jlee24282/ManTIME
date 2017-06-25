@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">I&apos;ve never seen a president.
+<TEXT type="str">I&apos;ve never seen a president.
 
 I&apos;ve interviewed politicians who have tried to become president. Ted Kennedy. Mike Dukakis. Paul Tsongas. John Kerry. Mitt Romney.
 
@@ -30,9 +30,8 @@ When asked about Trump&apos;s golf game, Woods commented on Trump&apos;s power.
 
 That&apos;s what I remember too. Trump swings hard. And not just at golf.
 
-MIKE KIRBY is editor of . He can be reached at 508-236-0344, mkirby@thesunchronicle.com and on Twitter @SunChronEditor.</content> 
-<sequenceId type="str">695200910882</sequenceId> 
-<topics type="list"> 
+MIKE KIRBY is editor of . He can be reached at 508-236-0344, mkirby@thesunchronicle.com and on Twitter @SunChronEditor.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -45,7 +44,8 @@ MIKE KIRBY is editor of . He can be reached at 508-236-0344, mkirby@thesunchroni
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:45:00Z</estimatedPublishedDate> 
-<title type="str">KIRBY: Me and the president</title> 
+</TOPICS> 
+<DOCID type="str">695200910882</DOCID> 
+<DCT type="str">2017-01-29T05:45:00Z</DCT> 
+<TITLE type="str">KIRBY: Me and the president</TITLE> 
 </root>

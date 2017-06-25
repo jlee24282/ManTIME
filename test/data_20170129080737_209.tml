@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Pam Diokpara posted another double-double, scoring 15 points and grabbing 13 rebounds, to lead the Georgia Highlands women’s basketball team to a 62-45 win over Andrew College. 
+<TEXT type="str">Pam Diokpara posted another double-double, scoring 15 points and grabbing 13 rebounds, to lead the Georgia Highlands women’s basketball team to a 62-45 win over Andrew College. 
  
 Other leading scorers for the Lady Chargers were Kanisha Tharpe with 12 points and nine rebounds, and Sydney Garnigan with nine points. 
  
-GHC (11-12, 5-1) plays again Wednesday against Albany Tech at 5:3</content> 
-<sequenceId type="str">695196265877</sequenceId> 
-<topics type="list"> 
+GHC (11-12, 5-1) plays again Wednesday against Albany Tech at 5:3</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -19,7 +18,8 @@ GHC (11-12, 5-1) plays again Wednesday against Albany Tech at 5:3</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:20:00Z</estimatedPublishedDate> 
-<title type="str">GHC BASKETBALL: Lady Chargers take down Andrew College</title> 
+</TOPICS> 
+<DOCID type="str">695196265877</DOCID> 
+<DCT type="str">2017-01-29T05:20:00Z</DCT> 
+<TITLE type="str">GHC BASKETBALL: Lady Chargers take down Andrew College</TITLE> 
 </root>

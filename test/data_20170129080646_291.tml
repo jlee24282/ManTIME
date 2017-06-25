@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The page you requested is only available to subscribers.. 
+<TEXT type="str">The page you requested is only available to subscribers.. 
   
   
 1. If you are a Premium Service subscriber, please log in here to access this story: 
@@ -19,9 +19,8 @@ Clicking on the &quot;Ok&quot; button below will place the item in your shopping
   
 A full subscription to our Premium Service starts at € 85 per quarter. 
   
-Click here for more information about our services and rates.</content> 
-<sequenceId type="str">695194445880</sequenceId> 
-<topics type="list"> 
+Click here for more information about our services and rates.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -34,7 +33,8 @@ Click here for more information about our services and rates.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:01Z</estimatedPublishedDate> 
-<title type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</title> 
+</TOPICS> 
+<DOCID type="str">695194445880</DOCID> 
+<DCT type="str">2017-01-29T06:59:01Z</DCT> 
+<TITLE type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</TITLE> 
 </root>

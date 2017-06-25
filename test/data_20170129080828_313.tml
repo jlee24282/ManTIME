@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Historic Crests 
+<TEXT type="str">Historic Crests 
 (1) 70.60 ft on 03/01/1940 
 (2) 68.96 ft on 03/04/1983 
 (3) 68.85 ft on 01/03/1997 
@@ -20,9 +20,8 @@ Show More Recent Crests
 (P) : Preliminary values subject to further review. 
 
 Low Water Records 
-Currently none available.</content> 
-<sequenceId type="str">695198237116</sequenceId> 
-<topics type="list"> 
+Currently none available.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Sacramento news</name> 
@@ -31,7 +30,8 @@ Currently none available.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:30Z</estimatedPublishedDate> 
-<title type="str">Action (64.73 ft) - Observation - CLAC1 - Sacramento River at Colusa Weir (California)</title> 
+</TOPICS> 
+<DOCID type="str">695198237116</DOCID> 
+<DCT type="str">2017-01-29T07:37:30Z</DCT> 
+<TITLE type="str">Action (64.73 ft) - Observation - CLAC1 - Sacramento River at Colusa Weir (California)</TITLE> 
 </root>

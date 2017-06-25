@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Charles William (Bill) Black, 69, of Fort Smith passed away Jan. 26, 2017. He was born Nov. 18, 1947, in Fort Smith. He was of the Christian faith, a member of the Flight Masters in Barling, a lifetime member of the NRA, a Marine Corp Veteran and a Purple Heart recipient. 
+<TEXT type="str">Charles William (Bill) Black, 69, of Fort Smith passed away Jan. 26, 2017. He was born Nov. 18, 1947, in Fort Smith. He was of the Christian faith, a member of the Flight Masters in Barling, a lifetime member of the NRA, a Marine Corp Veteran and a Purple Heart recipient. 
  
 He is survived by his wife, Penny of the home; his stepmother, Julia Kerr of Iowa; four sisters, Debbie Daley of New York, Theresa Kerr and Julie Wells, both of Iowa and Debra Baty of Oklahoma; four brothers, Kenny Kerr of Iowa, Quincy Kerr and Stacy Kerr, both of Florida and Dave Carson of Fort Smith. 
  
@@ -12,9 +12,8 @@ Visitation will be held 5-7 p.m. Monday at Lewis-Roberts Funeral Chapel in Fort
  
 Memorials may be made to the Ronald McDonald House at Mercy Hospital, 7301 Rogers Ave., Fort Smith, AR 72903, or the Buddy Smith Home for Veterans in care of Next Step, 123 N. Sixth Street, Suite 200, Fort Smith, AR 72901. 
  
-Arrangements under direction of Lewis-Roberts Funeral Chapel in Fort Smith.</content> 
-<sequenceId type="str">695199288779</sequenceId> 
-<topics type="list"> 
+Arrangements under direction of Lewis-Roberts Funeral Chapel in Fort Smith.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -23,7 +22,8 @@ Arrangements under direction of Lewis-Roberts Funeral Chapel in Fort Smith.</co
 <group type="str">Society</group> 
 <name type="str">Obituaries</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:01:00Z</estimatedPublishedDate> 
-<title type="str">Charles Black</title> 
+</TOPICS> 
+<DOCID type="str">695199288779</DOCID> 
+<DCT type="str">2017-01-29T05:01:00Z</DCT> 
+<TITLE type="str">Charles Black</TITLE> 
 </root>

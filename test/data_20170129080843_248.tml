@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Three young women from two of the 20 secondary schools adopted by the Industrial Development Corporation (IDC) in 2013 were among the top performers in the matric class of 2016. 
+<TEXT type="str">Three young women from two of the 20 secondary schools adopted by the Industrial Development Corporation (IDC) in 2013 were among the top performers in the matric class of 2016. 
  
 Malamba Nemavhadwe, from Tshivhase Secondary School in Limpopo, topped the log for quintile 2 schools (the category of the country’s second poorest schools), while classmate Nyandano Madiba came third. 
  
@@ -54,9 +54,8 @@ TALK TO US
  
 Do you have any suggestions for improving matriculants’ university entry marks? 
  
-SMS us on 35697 using the keyword LEARNERS and tell us what you think. Please include your name and province. SMSes cost R1.5</content> 
-<sequenceId type="str">695198762758</sequenceId> 
-<topics type="list"> 
+SMS us on 35697 using the keyword LEARNERS and tell us what you think. Please include your name and province. SMSes cost R1.5</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -69,7 +68,8 @@ SMS us on 35697 using the keyword LEARNERS and tell us what you think. Please in
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:37:33Z</estimatedPublishedDate> 
-<title type="str">Opportunity for marginalised pupils records steady progress</title> 
+</TOPICS> 
+<DOCID type="str">695198762758</DOCID> 
+<DCT type="str">2017-01-29T05:37:33Z</DCT> 
+<TITLE type="str">Opportunity for marginalised pupils records steady progress</TITLE> 
 </root>

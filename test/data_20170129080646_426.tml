@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Here’s food for thought. 
+<TEXT type="str">Here’s food for thought. 
  
 Dystopian tales, books most people haven’t read since high school, were sprinkled into Amazon’s Bestseller List of books this week. 
  
@@ -44,9 +44,8 @@ Orwell died in 1950. This week, droves of people bought his book. So maybe this 
  
 “We are the dead. Our only true life is in the future. We shall take part in it as handfuls of dust and splinters of bone…We can only spread our knowledge outwards from individual to individual, generation after generation… there is no other way.” 
  
-Lauren Daley is a book columnist and freelance writer. Contact her at ldaley33@gmail.com.</content> 
-<sequenceId type="str">695194534257</sequenceId> 
-<topics type="list"> 
+Lauren Daley is a book columnist and freelance writer. Contact her at ldaley33@gmail.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -55,7 +54,8 @@ Lauren Daley is a book columnist and freelance writer. Contact her at ldaley33@g
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Dystopian novels hit bestseller lists</title> 
+</TOPICS> 
+<DOCID type="str">695194534257</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Dystopian novels hit bestseller lists</TITLE> 
 </root>

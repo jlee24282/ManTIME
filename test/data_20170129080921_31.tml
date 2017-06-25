@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Another three executive orders were signed by the president today, all of which are important in some way. 
+<TEXT type="str">Another three executive orders were signed by the president today, all of which are important in some way. 
  
 But Saturday’s biggest story centered around the sudden and chaotic implementation of Trump’s refugee ban. Among the 109 people detained at airports across the country were several legal residents and green card holders. Protests sprung up at major airports in New York, Chicago, San Francisco, Los Angeles, New Jersey, Portland and Denver and lawsuits were filed. By the end of the day, it was announced that a federal judge issued a temporary stay on Trump’s ban and bought some time on deportations. 
  
@@ -18,14 +18,14 @@ The National Security Council will undergo a major reorganization due to another
  
 Trump quote of the day: 
  
-“You see it at the airports, you see it all over. It’s working out very nicely.”</content> 
-<sequenceId type="str">695200245273</sequenceId> 
-<topics type="list"> 
+“You see it at the airports, you see it all over. It’s working out very nicely.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:09Z</estimatedPublishedDate> 
-<title type="str">Day 9 in Trumpland</title> 
+</TOPICS> 
+<DOCID type="str">695200245273</DOCID> 
+<DCT type="str">2017-01-29T07:37:09Z</DCT> 
+<TITLE type="str">Day 9 in Trumpland</TITLE> 
 </root>

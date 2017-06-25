@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ISIS execution. 
+<TEXT type="str">ISIS execution. 
 Nineveh (Iraqinews.com) Unknown individuals have stabbed to death Islamic State’s chief decapitator west of Nineveh, according to a security source. 
  
 “An unknown armed group killed on Sunday the Islamic State’s most famous decapitator, the so-nicknamed ‘Abu Sayyaf’”, the source said. “The armed group ambushed him at al-Dawasa region, in the western side of the city, and stabbed him several times. He died immediately,” he added. 
@@ -11,9 +11,8 @@ Several assassinations and kidnappings of Islamic State leaderships have been re
  
 Security operations, backed by a US.-led coalition and popular militias, managed to drive the militants out of the eastern side of the city on January 24th, with at least 3300 members killed, and forces are preparing to invade the group-held west. 
  
-Islamic State has been notorious for heinous executions of its opponents and violators of its extreme religious views, and proudly posted videos of those executions occasionally.</content> 
-<sequenceId type="str">695200328590</sequenceId> 
-<topics type="list"> 
+Islamic State has been notorious for heinous executions of its opponents and violators of its extreme religious views, and proudly posted videos of those executions occasionally.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -26,7 +25,8 @@ Islamic State has been notorious for heinous executions of its opponents and vio
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:02Z</estimatedPublishedDate> 
-<title type="str">Islamic State chief decapitator stabbed to death in western Mosul</title> 
+</TOPICS> 
+<DOCID type="str">695200328590</DOCID> 
+<DCT type="str">2017-01-29T07:59:02Z</DCT> 
+<TITLE type="str">Islamic State chief decapitator stabbed to death in western Mosul</TITLE> 
 </root>

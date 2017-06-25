@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Analysis: Building Trump&apos;s Wall   
-Border security and a wall paid for by the Mexican government were centerpieces of President Donald Trump&apos;s campaign but Mexico has said it won&apos;t pay for a barrier, and Mexican the president …</content> 
-<sequenceId type="str">695197796628</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Analysis: Building Trump&apos;s Wall   
+Border security and a wall paid for by the Mexican government were centerpieces of President Donald Trump&apos;s campaign but Mexico has said it won&apos;t pay for a barrier, and Mexican the president …</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -16,7 +15,8 @@ Border security and a wall paid for by the Mexican government were centerpieces 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:38Z</estimatedPublishedDate> 
-<title type="str">NSW Premier Berejiklian announces new cabinet with counter-terror ministry</title> 
+</TOPICS> 
+<DOCID type="str">695197796628</DOCID> 
+<DCT type="str">2017-01-29T07:39:38Z</DCT> 
+<TITLE type="str">NSW Premier Berejiklian announces new cabinet with counter-terror ministry</TITLE> 
 </root>

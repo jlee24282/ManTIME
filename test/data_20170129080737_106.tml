@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DISTINGUISHED HONOR ROLL 
+<TEXT type="str">DISTINGUISHED HONOR ROLL 
  
 Grade 9 
  
@@ -1988,9 +1988,8 @@ Taylor Williams
  
 David Witmer 
    
-We have recently upgraded our commenting system. If you wish to comment please login using your social ID or create a new account.</content> 
-<sequenceId type="str">695196181494</sequenceId> 
-<topics type="list"> 
+We have recently upgraded our commenting system. If you wish to comment please login using your social ID or create a new account.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -2003,7 +2002,8 @@ We have recently upgraded our commenting system. If you wish to comment please l
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Lewisburg Area High School second marking period honor roll</title> 
+</TOPICS> 
+<DOCID type="str">695196181494</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Lewisburg Area High School second marking period honor roll</TITLE> 
 </root>

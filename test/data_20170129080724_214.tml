@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The bride lives in Orange County, but much of her family still live in Iran Is Nassim Alisobhani excited about her wedding?
+<TEXT type="str">The bride lives in Orange County, but much of her family still live in Iran Is Nassim Alisobhani excited about her wedding?
 
 “I think I counted it was like 110,” Alisobhani tells NBC 7.
 
@@ -24,9 +24,8 @@ Alisobhani says they tried to prepare for stricter rules: Members of her family 
 
 “Now, they just halted it completely,” she laments. “I don&apos;t know what&apos;s going to happen.”
 
-This new ban, she explains, is part of a stigma her family has tried to shed for years. “Most of them left Iran as a result of the revolution and so to basically to be tied back to this regime is just so heartbreaking because it&apos;s just not fair to them.”</content> 
-<sequenceId type="str">695195807279</sequenceId> 
-<topics type="list"> 
+This new ban, she explains, is part of a stigma her family has tried to shed for years. “Most of them left Iran as a result of the revolution and so to basically to be tied back to this regime is just so heartbreaking because it&apos;s just not fair to them.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Diego news</name> 
@@ -39,7 +38,8 @@ This new ban, she explains, is part of a stigma her family has tried to shed for
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:47Z</estimatedPublishedDate> 
-<title type="str">Bride&apos;s Iranian Family May be Banned From CA Wedding</title> 
+</TOPICS> 
+<DOCID type="str">695195807279</DOCID> 
+<DCT type="str">2017-01-29T07:19:47Z</DCT> 
+<TITLE type="str">Bride&apos;s Iranian Family May be Banned From CA Wedding</TITLE> 
 </root>

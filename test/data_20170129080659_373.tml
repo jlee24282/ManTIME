@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It is that time of year when you may be looking to make a change in your career, particularly if you don’t find your current job fulfilling or rewarding. 
+<TEXT type="str">It is that time of year when you may be looking to make a change in your career, particularly if you don’t find your current job fulfilling or rewarding. 
  
 Muriel Weisz. 
  It may be you feel you are not making a difference to other people’s lives or you dislike an office environment. 
@@ -30,9 +30,8 @@ While homecare work has had a bad press in recent years, we are committed to ens
 
 People interested in finding out more should visit the council’s website . 
 
-Muriel Weisz is the chairman of Nottinghamshire County Council&apos;s adult social care and health committee.</content> 
-<sequenceId type="str">695194868321</sequenceId> 
-<topics type="list"> 
+Muriel Weisz is the chairman of Nottinghamshire County Council&apos;s adult social care and health committee.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
@@ -41,7 +40,8 @@ Muriel Weisz is the chairman of Nottinghamshire County Council&apos;s adult soci
 <group type="str">Business</group> 
 <name type="str">Human resources news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:15:00Z</estimatedPublishedDate> 
-<title type="str">Muriel Weisz: Homecare offers career prospects</title> 
+</TOPICS> 
+<DOCID type="str">695194868321</DOCID> 
+<DCT type="str">2017-01-29T06:15:00Z</DCT> 
+<TITLE type="str">Muriel Weisz: Homecare offers career prospects</TITLE> 
 </root>

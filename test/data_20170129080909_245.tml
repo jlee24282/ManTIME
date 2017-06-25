@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Conor McGregor has made it very clear that a fight with Floyd Mayweather Jr. is his No. 1 priority. Anything else, including competing for the UFC, is on the backburner. McGregor hosted a Q&amp;A pay-per-view in England to discuss what his future looks like and made no bones about it that he’s chasing after a boxing match with Mayweather. 
+<TEXT type="str">Conor McGregor has made it very clear that a fight with Floyd Mayweather Jr. is his No. 1 priority. Anything else, including competing for the UFC, is on the backburner. McGregor hosted a Q&amp;A pay-per-view in England to discuss what his future looks like and made no bones about it that he’s chasing after a boxing match with Mayweather. 
 
 It all started when the UFC lightweight champion took to Instagram moments before the question-and-answer session began to make a statement that resonated throughout the combat sports world. 
 
@@ -28,9 +28,8 @@ As for his future in the UFC, with plans to fight Mayweather in late 2017 or ear
 
 “I’ll tell you what, for $100 million, I’ll sit for another year,” McGregor said. 
 
- </content> 
-<sequenceId type="str">695199955662</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -39,7 +38,8 @@ As for his future in the UFC, with plans to fight Mayweather in late 2017 or ear
 <group type="str">Sports</group> 
 <name type="str">Sports: MMA news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:49:35Z</estimatedPublishedDate> 
-<title type="str">McGregor: UFC on hold until Mayweather fight (Yahoo Sports)</title> 
+</TOPICS> 
+<DOCID type="str">695199955662</DOCID> 
+<DCT type="str">2017-01-29T01:49:35Z</DCT> 
+<TITLE type="str">McGregor: UFC on hold until Mayweather fight (Yahoo Sports)</TITLE> 
 </root>

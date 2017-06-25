@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695204513316</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:11Z</estimatedPublishedDate> 
-<title type="str">St. Patrick-St. Vincent High girls basketball defeats Benicia</title> 
+</TOPICS> 
+<DOCID type="str">695204513316</DOCID> 
+<DCT type="str">2017-01-29T08:30:11Z</DCT> 
+<TITLE type="str">St. Patrick-St. Vincent High girls basketball defeats Benicia</TITLE> 
 </root>

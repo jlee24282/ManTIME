@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SALT LAKE CITY (ABC4 Sports) -  Zach Randolph, Marc Gasol and Mike Conley took turns carving up the Utah Jazz on Saturday night 
+<TEXT type="str">SALT LAKE CITY (ABC4 Sports) -  Zach Randolph, Marc Gasol and Mike Conley took turns carving up the Utah Jazz on Saturday night 
  
 Randolph scored a season-high 28 points, Conley had 23 while Gasol added 18 and the Memphis Grizzlies beat the Jazz 102-95. 
  
@@ -24,9 +24,8 @@ Quin Snyder decided to rest starting power forward Derrick Favors.
  
 The Jazz could have moved into the 4th seed in the Western Conference with a victory, but instead remain a half game back of the L.A. Clippers. 
  
-Utah next hosts Milwaukee Wednesday night.</content> 
-<sequenceId type="str">695204513500</sequenceId> 
-<topics type="list"> 
+Utah next hosts Milwaukee Wednesday night.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Utah Jazz news</name> 
@@ -43,7 +42,8 @@ Utah next hosts Milwaukee Wednesday night.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:11Z</estimatedPublishedDate> 
-<title type="str">Jazz lose to the Big 3 of Memphis, 102-95</title> 
+</TOPICS> 
+<DOCID type="str">695204513500</DOCID> 
+<DCT type="str">2017-01-29T08:30:11Z</DCT> 
+<TITLE type="str">Jazz lose to the Big 3 of Memphis, 102-95</TITLE> 
 </root>

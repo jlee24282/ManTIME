@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Kuala Lumpur : Malaysia Sunday mounted a major air and sea search for a missing boat carrying 31 people, including 28 Chinese tourists, but strong winds and choppy seas were hampering the operation.
+<TEXT type="str">Kuala Lumpur : Malaysia Sunday mounted a major air and sea search for a missing boat carrying 31 people, including 28 Chinese tourists, but strong winds and choppy seas were hampering the operation.
 
 The boat went missing in poor weather off Borneo island on Saturday morning, the first day of the Lunar New Year, the most important festival for Chinese worldwide.
 
@@ -26,9 +26,8 @@ China&apos;s foreign ministry said its consulate-general in Kota Kinabalu had co
 
 This incident comes about a week after a boat tragedy off the southern Malaysian state of Johor.
 
-Several bodies washed ashore at a beach near the east coast town of Mersing in Johor on Monday after a boat believed to be carrying some 40 Indonesian illegal immigrants capsized in rough seas.</content> 
-<sequenceId type="str">695198905400</sequenceId> 
-<topics type="list"> 
+Several bodies washed ashore at a beach near the east coast town of Mersing in Johor on Monday after a boat believed to be carrying some 40 Indonesian illegal immigrants capsized in rough seas.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -41,7 +40,8 @@ Several bodies washed ashore at a beach near the east coast town of Mersing in J
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:17Z</estimatedPublishedDate> 
-<title type="str">Boat with 28 Chinese tourists missing in Mala...</title> 
+</TOPICS> 
+<DOCID type="str">695198905400</DOCID> 
+<DCT type="str">2017-01-29T07:43:17Z</DCT> 
+<TITLE type="str">Boat with 28 Chinese tourists missing in Mala...</TITLE> 
 </root>

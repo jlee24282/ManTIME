@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Judge blocks part of Trump&apos;s immigration ban for those in US   Nation (Today) - Donnelly&apos;s decision to issue a temporary stay concerns dozens of people detained at US airports.... 
+<TEXT type="str">Judge blocks part of Trump&apos;s immigration ban for those in US   Nation (Today) - Donnelly&apos;s decision to issue a temporary stay concerns dozens of people detained at US airports.... 
 
 Trump Immigration Ban Halted By Federal Court 
 
@@ -62,9 +62,8 @@ US judge temporarily halts Trump&apos;s refugees deportation order
 
 Trump Immigration Ban Halted By Federal Court 
 
-Trump’s immigration order unproductive</content> 
-<sequenceId type="str">695201527493</sequenceId> 
-<topics type="list"> 
+Trump’s immigration order unproductive</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -77,7 +76,8 @@ Trump’s immigration order unproductive</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:08:41Z</estimatedPublishedDate> 
-<title type="str">US judge temporarily halts Trump&apos;s refugees deportation order</title> 
+</TOPICS> 
+<DOCID type="str">695201527493</DOCID> 
+<DCT type="str">2017-01-29T07:08:41Z</DCT> 
+<TITLE type="str">US judge temporarily halts Trump&apos;s refugees deportation order</TITLE> 
 </root>

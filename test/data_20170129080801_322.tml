@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Two Iraqi Muslim refugees were detained overnight on Friday at the John F. Kennedy International Airport, New York as President Donald Trump’s ban on the entry of citizens from seven Muslim-majority countries took effect. 
+<TEXT type="str">Two Iraqi Muslim refugees were detained overnight on Friday at the John F. Kennedy International Airport, New York as President Donald Trump’s ban on the entry of citizens from seven Muslim-majority countries took effect. 
 
  
 Five other Iraqi passengers and one Yemeni were barred from boarding an EgyptAir flight from Cairo to New York yesterday on account of the ban. 
@@ -89,9 +89,8 @@ Mark Zuckerberg, in his status update yesterday on the ban, said: “We need to 
  
 “They are our future too. We are a nation of immigrants, and we all benefit when the best and brightest from around the world can live, work and contribute here. 
  
-“I hope we find the courage and compassion to bring people together and make this world a better place for everyone.”</content> 
-<sequenceId type="str">695197207603</sequenceId> 
-<topics type="list"> 
+“I hope we find the courage and compassion to bring people together and make this world a better place for everyone.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -120,7 +119,8 @@ Mark Zuckerberg, in his status update yesterday on the ban, said: “We need to 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:16Z</estimatedPublishedDate> 
-<title type="str">Trump fulfills campaign promise as US bars Muslims from entering the country</title> 
+</TOPICS> 
+<DOCID type="str">695197207603</DOCID> 
+<DCT type="str">2017-01-29T07:32:16Z</DCT> 
+<TITLE type="str">Trump fulfills campaign promise as US bars Muslims from entering the country</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695194802472</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:52:16Z</estimatedPublishedDate> 
-<title type="str">Rough Sea Hampers Search for Chinese Tourists in Malaysia</title> 
+</TOPICS> 
+<DOCID type="str">695194802472</DOCID> 
+<DCT type="str">2017-01-29T05:52:16Z</DCT> 
+<TITLE type="str">Rough Sea Hampers Search for Chinese Tourists in Malaysia</TITLE> 
 </root>

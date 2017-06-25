@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Today&apos;s action from the Clarence River Jockey Club meeting at Grafton. 
+<TEXT type="str">Today&apos;s action from the Clarence River Jockey Club meeting at Grafton. 
 
 中文  Register Free Account Login 
 
@@ -104,9 +104,8 @@ Connect
 
 Sites 
 
-This site is maintained by Racing and Sports (®) Pty Ltd (ABN 093 360 108) (&quot;R&amp;S&quot;). Copyright in all R&amp;S materials is owned by Racing and Sports Pty Ltd (R&amp;S). Racing and Sports is a Registered Trademark. R&amp;S takes all care in the preparation of information appearing on the site, but accepts no responsibility nor warrants the accuracy of the information displayed. This information is provided for entertainment purposes only. All information including race fields and TAB numbers should be checked with an official source. (RAS-WWW</content> 
-<sequenceId type="str">695204812277</sequenceId> 
-<topics type="list"> 
+This site is maintained by Racing and Sports (®) Pty Ltd (ABN 093 360 108) (&quot;R&amp;S&quot;). Copyright in all R&amp;S materials is owned by Racing and Sports Pty Ltd (R&amp;S). Racing and Sports is a Registered Trademark. R&amp;S takes all care in the preparation of information appearing on the site, but accepts no responsibility nor warrants the accuracy of the information displayed. This information is provided for entertainment purposes only. All information including race fields and TAB numbers should be checked with an official source. (RAS-WWW</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -115,7 +114,8 @@ This site is maintained by Racing and Sports (®) Pty Ltd (ABN 093 360 108) (&qu
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:13Z</estimatedPublishedDate> 
-<title type="str">Grafton Today - The Run Down</title> 
+</TOPICS> 
+<DOCID type="str">695204812277</DOCID> 
+<DCT type="str">2017-01-29T08:32:13Z</DCT> 
+<TITLE type="str">Grafton Today - The Run Down</TITLE> 
 </root>

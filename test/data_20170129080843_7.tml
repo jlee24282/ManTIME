@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Zealand won&apos;t field a specialist wicketkeeper in the Chappell-Hadlee Trophy opener, choosing opener Tom Latham to wear the gloves at Eden Park in his 50th ODI.      
+<TEXT type="str">New Zealand won&apos;t field a specialist wicketkeeper in the Chappell-Hadlee Trophy opener, choosing opener Tom Latham to wear the gloves at Eden Park in his 50th ODI.      
  
 Captain Kane Williamson confirmed rookie specialist &apos;keeper Tom Blundell, who has played one Twenty20 international, won&apos;t play the first of three fixtures against Australia on Monday.            
  
@@ -34,9 +34,8 @@ Williamson says a challenge awaits his bowlers.
  
 &quot;But naturally it changes their side, missing three world class players,&quot; he said.   
  
-NZN </content> 
-<sequenceId type="str">695198464361</sequenceId> 
-<topics type="list"> 
+NZN </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ NZN </content>
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:58Z</estimatedPublishedDate> 
-<title type="str">Latham to keep wickets for Blackcaps</title> 
+</TOPICS> 
+<DOCID type="str">695198464361</DOCID> 
+<DCT type="str">2017-01-29T07:43:58Z</DCT> 
+<TITLE type="str">Latham to keep wickets for Blackcaps</TITLE> 
 </root>

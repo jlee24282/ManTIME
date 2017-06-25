@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A local artist has created an installation representing school shootings that have occurred since the start of the 21st Century. 
+<TEXT type="str">A local artist has created an installation representing school shootings that have occurred since the start of the 21st Century. 
  
 Deprise Brescia marked 185 mixed media lunchboxes with the likeness of bullet holes. 
  
@@ -12,9 +12,8 @@ Each lunch box bears the date and location of the shootings.
  
 Brescia said the &quot;Pray for Peace&quot; installation is meant to be interactive: Visitors are encouraged to touch the installation. 
  
-&quot;Pray for Peace&quot; is part of the &quot;Guns in America&quot; show on display at Studios on the Park in Paso Robles. It runs through Sunday.</content> 
-<sequenceId type="str">695194108978</sequenceId> 
-<topics type="list"> 
+&quot;Pray for Peace&quot; is part of the &quot;Guns in America&quot; show on display at Studios on the Park in Paso Robles. It runs through Sunday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -23,7 +22,8 @@ Brescia said the &quot;Pray for Peace&quot; installation is meant to be interact
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T07:48:00Z</estimatedPublishedDate> 
-<title type="str">&quot;Pray for Peace&quot; installation takes aim at school shootings</title> 
+</TOPICS> 
+<DOCID type="str">695194108978</DOCID> 
+<DCT type="str">2017-01-28T07:48:00Z</DCT> 
+<TITLE type="str">&quot;Pray for Peace&quot; installation takes aim at school shootings</TITLE> 
 </root>

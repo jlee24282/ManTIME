@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Fix Videos)   
+<TEXT type="str">(Fix Videos)   
 
       Square Enix &amp; Marvel Reassemble The Avengers - IGN Daily Fix  Square Enix and Marvel announce a new Avengers game, watch Mass Effect: Andromeda&apos;s new cinematic trailer, and our Resident Evil 7 biohazard game giveaway!   HOME  Videos     
-Ad</content> 
-<sequenceId type="str">695204421013</sequenceId> 
-<topics type="list"> 
+Ad</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: superhero news</name> 
@@ -14,7 +13,8 @@ Ad</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:14Z</estimatedPublishedDate> 
-<title type="str">Square Enix &amp; Marvel Reassemble The Avengers - IGN Daily Fix</title> 
+</TOPICS> 
+<DOCID type="str">695204421013</DOCID> 
+<DCT type="str">2017-01-29T07:36:14Z</DCT> 
+<TITLE type="str">Square Enix &amp; Marvel Reassemble The Avengers - IGN Daily Fix</TITLE> 
 </root>

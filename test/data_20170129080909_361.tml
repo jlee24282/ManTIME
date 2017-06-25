@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str"> |  
+<TEXT type="str"> |  
  
 Updated: Sat 11:13 PM, Jan 28, 2017 
   
@@ -140,14 +140,14 @@ West Salem 48, Black River Falls 30
 Wisconsin Heights 60, Randolph 40 
 Xavier 72, Green Bay West 42 
 POSTPONEMENTS AND CANCELLATIONS 
-Black Hawk vs. Randolph, ccd.</content> 
-<sequenceId type="str">695200085355</sequenceId> 
-<topics type="list"> 
+Black Hawk vs. Randolph, ccd.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:41Z</estimatedPublishedDate> 
-<title type="str">Saturday&apos;s local sports</title> 
+</TOPICS> 
+<DOCID type="str">695200085355</DOCID> 
+<DCT type="str">2017-01-29T07:56:41Z</DCT> 
+<TITLE type="str">Saturday&apos;s local sports</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The United Kingdom has held off a fast-finishing Australia to retain the prestigious International Challenge trophy at the 24th AMCN Island Classic. 
+<TEXT type="str">The United Kingdom has held off a fast-finishing Australia to retain the prestigious International Challenge trophy at the 24th AMCN Island Classic. 
 
 The Phillip Island Grand Prix Circuit came alive in the fourth and final race in the multi-national event after Aussie rookie Alex Phillis (Suzuki XR69) won a thriller ahead of Jeremy McWilliams (Harris Yamaha) and another local, Steve Martin (Suzuki Katana). 
 
@@ -154,9 +154,8 @@ PHIL IRVING TROPHY PERPETUAL FINAL STANDINGS
 
 For all Island Classic results, visit www.computime.com.au. 
 
-Published : Sunday, 29 January 2</content> 
-<sequenceId type="str">695198906497</sequenceId> 
-<topics type="list"> 
+Published : Sunday, 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
@@ -177,7 +176,8 @@ Published : Sunday, 29 January 2</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:49Z</estimatedPublishedDate> 
-<title type="str">United Kingdom wins International...</title> 
+</TOPICS> 
+<DOCID type="str">695198906497</DOCID> 
+<DCT type="str">2017-01-29T07:47:49Z</DCT> 
+<TITLE type="str">United Kingdom wins International...</TITLE> 
 </root>

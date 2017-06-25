@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">You are logged in as 
+<TEXT type="str">You are logged in as 
 
 Log out Sign In FAQ 
 
@@ -18,14 +18,14 @@ Jan. 6, 2017, 9:22 a.m.
 
 FCC Online Public Inspection File  • EEO Public File Report 
 
-© 2017 NWCN-TV</content> 
-<sequenceId type="str">695197130670</sequenceId> 
-<topics type="list"> 
+© 2017 NWCN-TV</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Seattle-Tacoma news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:05Z</estimatedPublishedDate> 
-<title type="str">Top Stories: 11 p.m. 1-28-17</title> 
+</TOPICS> 
+<DOCID type="str">695197130670</DOCID> 
+<DCT type="str">2017-01-29T07:35:05Z</DCT> 
+<TITLE type="str">Top Stories: 11 p.m. 1-28-17</TITLE> 
 </root>

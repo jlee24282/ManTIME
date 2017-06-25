@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Being part of Trump&apos;s economic advisory team and the head of an international Silicon Valley company has Uber co-founder Travis Kalanick in a bit of a pickle. His official statement regarding the US president&apos;s immigration ban takes virtually no position aside from that America is great. 
+<TEXT type="str">Being part of Trump&apos;s economic advisory team and the head of an international Silicon Valley company has Uber co-founder Travis Kalanick in a bit of a pickle. His official statement regarding the US president&apos;s immigration ban takes virtually no position aside from that America is great. 
  
 Photo: Getty 
  
@@ -48,9 +48,8 @@ Trump&apos;s actions are hurting Netflix employees around the world, and are so 
   
 That wasn&apos;t so hard. The action is un-American and we should stand up against. And oh look, Mark Zuckerberg seems to feel the same way: 
  
-Screenshot of the likes on Reed Hastings status update</content> 
-<sequenceId type="str">695198826619</sequenceId> 
-<topics type="list"> 
+Screenshot of the likes on Reed Hastings status update</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -67,7 +66,8 @@ Screenshot of the likes on Reed Hastings status update</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:59Z</estimatedPublishedDate> 
-<title type="str">Uber&apos;s CEO Praises The &apos;Magic Of America&apos; In Statement On US Immigration Ban</title> 
+</TOPICS> 
+<DOCID type="str">695198826619</DOCID> 
+<DCT type="str">2017-01-29T07:46:59Z</DCT> 
+<TITLE type="str">Uber&apos;s CEO Praises The &apos;Magic Of America&apos; In Statement On US Immigration Ban</TITLE> 
 </root>

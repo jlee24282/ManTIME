@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">British Prime Minister Theresa May has signed a £100 million warplane deal with Turkish President Recep Tayyip Erdogan in hopes that the UK will emerge as Turkey’s principal military partner. 
+<TEXT type="str">British Prime Minister Theresa May has signed a £100 million warplane deal with Turkish President Recep Tayyip Erdogan in hopes that the UK will emerge as Turkey’s principal military partner. 
  
 The jet fighter agreement, signed on Saturday, will see the UK’s largest military contractor BAE Systems collaborate with Turkish companies to build a custom-made Turkish warplane, the TF-X, British daily  The Guardian  reported, underlining that the UK hopes the deal would spark “a longstanding relationship, and open the door to becoming Turkey’s main defense provider.” 
  
@@ -12,9 +12,8 @@ The jet fighter agreement, signed on Saturday, will see the UK’s largest milit
  
 The development came immediately following May’s official visit to Washington, where she held talks with US President Donald Trump. 
  
-ME</content> 
-<sequenceId type="str">695197669798</sequenceId> 
-<topics type="list"> 
+ME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
@@ -31,7 +30,8 @@ ME</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:49Z</estimatedPublishedDate> 
-<title type="str">Britain, Turkey sign £100 million warplane deal</title> 
+</TOPICS> 
+<DOCID type="str">695197669798</DOCID> 
+<DCT type="str">2017-01-29T07:38:49Z</DCT> 
+<TITLE type="str">Britain, Turkey sign £100 million warplane deal</TITLE> 
 </root>

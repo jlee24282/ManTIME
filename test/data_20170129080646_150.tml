@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On Jan. 20, an event was held at the Vienna Community Building to honor one of Wood County’s finest citizens, Mr. Clyde Brewer, who has been suffering from a long and egregious illness. Over 175 people gathered to honor a man who has given most of his life to the Wood County Schools as a teacher and coach. Many of you may remember Coach Brewer as a head boys’ basketball coach from 1982 to 2008. He has an outstanding record, and helped many athletes get scholarships, mature and become fine young men in the community. The event was emceed by John Coe. The roasters were Dike Goff and Doug Kiger, who shared many amusing memories about Mr. Brewer. The stories covered the period from his days at Glenville State College to his time with Wood County Schools. 
+<TEXT type="str">On Jan. 20, an event was held at the Vienna Community Building to honor one of Wood County’s finest citizens, Mr. Clyde Brewer, who has been suffering from a long and egregious illness. Over 175 people gathered to honor a man who has given most of his life to the Wood County Schools as a teacher and coach. Many of you may remember Coach Brewer as a head boys’ basketball coach from 1982 to 2008. He has an outstanding record, and helped many athletes get scholarships, mature and become fine young men in the community. The event was emceed by John Coe. The roasters were Dike Goff and Doug Kiger, who shared many amusing memories about Mr. Brewer. The stories covered the period from his days at Glenville State College to his time with Wood County Schools. 
   
 Many people and businesses were involved in making this event a reality. Former delegate Tom Azinger and Mr. Jim Hameric, former AD at Parkersburg High School, worked very hard promoting the event. Colombo’s Restaurant provided the meat; Jim Oppe from Foodland provided the utensils, and the local Pepsi Cola Company provided the drinks. The Great Steak Grill in the Grand Central Mall donated the bread and the manpower to help serve the dinner. The food was prepared by Officer Chris Jackson, a state trooper for the West Virginia State Police. 
  
@@ -12,9 +12,8 @@ It was my great pleasure to have worked many years with Clyde and his wife at Wo
  
 John Coe 
  
-Parkersburg</content> 
-<sequenceId type="str">695194359396</sequenceId> 
-<topics type="list"> 
+Parkersburg</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -23,7 +22,8 @@ Parkersburg</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:46Z</estimatedPublishedDate> 
-<title type="str">Support appreciated</title> 
+</TOPICS> 
+<DOCID type="str">695194359396</DOCID> 
+<DCT type="str">2017-01-29T07:14:46Z</DCT> 
+<TITLE type="str">Support appreciated</TITLE> 
 </root>

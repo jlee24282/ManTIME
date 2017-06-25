@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">JTA  - Prime Minister Benjamin Netanyahu weighed in on President Donald Trump’s proposal for a wall along the Mexican border, saying Israel’s fence along its Egyptian border proved that separation barriers to stop migrants from entering are a “great idea.” 
+<TEXT type="str">JTA  - Prime Minister Benjamin Netanyahu weighed in on President Donald Trump’s proposal for a wall along the Mexican border, saying Israel’s fence along its Egyptian border proved that separation barriers to stop migrants from entering are a “great idea.” 
  
 “President Trump is right,” Netanyahu said on Twitter on Saturday morning. “I built a wall along Israel’s southern border. It stopped all illegal immigration. Great success. Great idea.” The tweet featured American and Israeli flag icons. 
  
@@ -42,9 +42,8 @@ The ADL has not yet pronounced on the specifics of Trump’s order to build the 
  
 Israel’s barrier with Egypt is a fence completed in 2013 aimed at keeping out migrants from Africa, and also to be part of a security system protecting Israel from increased militant Islamic activity on the Egyptian side of the border. The length of the Israel-Egypt border is about 165 miles. The length of the Mexico-U.S. border is just shy of 2,000 miles. 
  
-Photo: Wikimedia Commons</content> 
-<sequenceId type="str">695199855543</sequenceId> 
-<topics type="list"> 
+Photo: Wikimedia Commons</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Central America news</name> 
@@ -65,7 +64,8 @@ Photo: Wikimedia Commons</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:06Z</estimatedPublishedDate> 
-<title type="str">Netanyahu Praises Trump&apos;s Mexican Border Wall Plan</title> 
+</TOPICS> 
+<DOCID type="str">695199855543</DOCID> 
+<DCT type="str">2017-01-29T07:55:06Z</DCT> 
+<TITLE type="str">Netanyahu Praises Trump&apos;s Mexican Border Wall Plan</TITLE> 
 </root>

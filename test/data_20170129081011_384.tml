@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trump says that the media thumped him. I say that it is closer to the truth to say that the media made him. Even my remark is only a partial truth.   
+<TEXT type="str">Trump says that the media thumped him. I say that it is closer to the truth to say that the media made him. Even my remark is only a partial truth.   
  
 The media made Trump in at least two ways .First, the media made him a celebrity through his TV shows, gave him national name recognition, one of the things most necessary to get someone elected. Second, the media gave him &quot;yuuuge&quot; amounts of publicity. Okay, maybe he earned that publicity by talking dirty and using glittering generalities, a well known ploy in advertising, as well as gloom and doom generalities. He said that blacks were living in hell and asked what they had to lose. 
  
@@ -10,9 +10,8 @@ David Brooks said that those in the defense, diplomatic, and intelligence branch
  
  Jim Bridges 
  
-Elizabeth City</content> 
-<sequenceId type="str">695202424155</sequenceId> 
-<topics type="list"> 
+Elizabeth City</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -21,7 +20,8 @@ Elizabeth City</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:48Z</estimatedPublishedDate> 
-<title type="str">Trump thumps media which helped make him</title> 
+</TOPICS> 
+<DOCID type="str">695202424155</DOCID> 
+<DCT type="str">2017-01-29T08:13:48Z</DCT> 
+<TITLE type="str">Trump thumps media which helped make him</TITLE> 
 </root>

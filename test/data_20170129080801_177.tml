@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Iran Press TV
+<TEXT type="str">Iran Press TV
 
 Sat Jan 28, 2017 3:31PM
 
@@ -28,9 +28,8 @@ An official with Iraqi Red Crescent Society said on Friday that more than 5,000 
 
 The return of internally displaced people to eastern Mosul comes as Iraqi army soldiers and allied forces are preparing for a fresh round of army operations to wrest control over western Mosul and recapture the area from Daesh.
 
-Iraqi army soldiers, supported by fighters from pro-government Popular Mobilization Units, commonly known by the Arabic word, Hashd al-Sha&apos;abi, and Kurdish Peshmerga forces, launched a joint operation on October 17, 2016 to retake Mosul from Daesh terrorists.</content> 
-<sequenceId type="str">695197067494</sequenceId> 
-<topics type="list"> 
+Iraqi army soldiers, supported by fighters from pro-government Popular Mobilization Units, commonly known by the Arabic word, Hashd al-Sha&apos;abi, and Kurdish Peshmerga forces, launched a joint operation on October 17, 2016 to retake Mosul from Daesh terrorists.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -47,7 +46,8 @@ Iraqi army soldiers, supported by fighters from pro-government Popular Mobilizat
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:34Z</estimatedPublishedDate> 
-<title type="str">Iraqi forces discover CW agent in Mosul</title> 
+</TOPICS> 
+<DOCID type="str">695197067494</DOCID> 
+<DCT type="str">2017-01-29T07:34:34Z</DCT> 
+<TITLE type="str">Iraqi forces discover CW agent in Mosul</TITLE> 
 </root>

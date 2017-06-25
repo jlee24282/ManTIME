@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PM An emergency stay was granted by a federal judge in New York this evening blocking deportations from President Donald Trump&apos;s executive order banning entry into the U.S. from certain Muslim-majority countries after a day when protesters swarmed airports nationwide, including hundreds in San Francisco International Airport. 
+<TEXT type="str">PM An emergency stay was granted by a federal judge in New York this evening blocking deportations from President Donald Trump&apos;s executive order banning entry into the U.S. from certain Muslim-majority countries after a day when protesters swarmed airports nationwide, including hundreds in San Francisco International Airport. 
 
 The protesters gathered at 3 p.m. at SFO after news broke Friday that Trump&apos;s order had taken effect immediately, with refugees and people from affected nations being stopped and detained at airports. 
 
@@ -36,9 +36,8 @@ SFO spokesman Doug Yakel said he was aware of today&apos;s protest, but referred
 
 Frank Falcon, a local Customs and Border Protection spokesman, referred questions about local enforcement of the order to the agency&apos;s national office, declining to say whether the agency was even enforcing the order in Bay Area airports. 
 
-Calls and emails to the national Customs and Border Protection public affairs office were not returned.</content> 
-<sequenceId type="str">695202708745</sequenceId> 
-<topics type="list"> 
+Calls and emails to the national Customs and Border Protection public affairs office were not returned.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -63,7 +62,8 @@ Calls and emails to the national Customs and Border Protection public affairs of
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:51Z</estimatedPublishedDate> 
-<title type="str">Updated: Federal judge blocks immigration order as hundreds protest at airport</title> 
+</TOPICS> 
+<DOCID type="str">695202708745</DOCID> 
+<DCT type="str">2017-01-29T08:15:51Z</DCT> 
+<TITLE type="str">Updated: Federal judge blocks immigration order as hundreds protest at airport</TITLE> 
 </root>

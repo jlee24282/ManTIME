@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">La La Land continued its awards season momentum, winning the Darryl F. Zanuck Award for Outstanding Producer of Theatrical Motion Pictures tonight at the 28th Annual PGA Awards . It beat out fellow nominees Lionsgate’s Hacksaw Ridge , Paramount’s Fences and Arrival, Fox’s Deadpool and Hidden Figures , CBS Films’ Hell Or High Water , The Weinstein Company’s Lion , Roadside/Amazon’s Manchester By The Sea and A24’s Moonlight at the ceremony at the Beverly Hilton. 
+<TEXT type="str">La La Land continued its awards season momentum, winning the Darryl F. Zanuck Award for Outstanding Producer of Theatrical Motion Pictures tonight at the 28th Annual PGA Awards . It beat out fellow nominees Lionsgate’s Hacksaw Ridge , Paramount’s Fences and Arrival, Fox’s Deadpool and Hidden Figures , CBS Films’ Hell Or High Water , The Weinstein Company’s Lion , Roadside/Amazon’s Manchester By The Sea and A24’s Moonlight at the ceremony at the Beverly Hilton. 
  
 Other film winners included O.J. Made in America , which took the Outstanding Producer of Documentary Theatrical Motion Pictures and Zootopia , which nabbed the Animated Feature award. 
  
@@ -52,9 +52,8 @@ Outstanding Children’s Program
 Sesame Street (Season 46) 
  
 Outstanding Digital Series 
-Comedians in Cars Getting Coffee (Season 7, Season 8)</content> 
-<sequenceId type="str">695194039436</sequenceId> 
-<topics type="list"> 
+Comedians in Cars Getting Coffee (Season 7, Season 8)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Atlanta news</name> 
@@ -71,7 +70,8 @@ Comedians in Cars Getting Coffee (Season 7, Season 8)</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: golf news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:16:11Z</estimatedPublishedDate> 
-<title type="str">PGA Awards: ‘La La Land’ Wins Top Film Prize; ‘Stranger Things’ Lands Drama; ‘Atlanta’ Takes Comedy – Full List</title> 
+</TOPICS> 
+<DOCID type="str">695194039436</DOCID> 
+<DCT type="str">2017-01-29T04:16:11Z</DCT> 
+<TITLE type="str">PGA Awards: ‘La La Land’ Wins Top Film Prize; ‘Stranger Things’ Lands Drama; ‘Atlanta’ Takes Comedy – Full List</TITLE> 
 </root>

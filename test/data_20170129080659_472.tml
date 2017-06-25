@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The No. 13 CSU-Pueblo wrestling team upset No. 2 Nebraska-Kearney on Saturday at Massari Arena. 
+<TEXT type="str">The No. 13 CSU-Pueblo wrestling team upset No. 2 Nebraska-Kearney on Saturday at Massari Arena. 
  
 The ThunderWolves (8-5, 2-2 RMAC) have won five duals against nationally ranked opponents this season. 
  
@@ -10,9 +10,8 @@ The ThunderWolves lost the next four bouts, but a No. 7 Kyle Bateman second-peri
  
 Ranked No. 5 nationally, JaVaughn Perkins kept the momentum going with a 5-2 decision and the home team led 18-15. Junior Cody Johnson may have posted his biggest win of the season, as a two-point near fall late in the third, plus riding time, secured an 8-0 major decision victory at 197. The win opened a seven-point lead in the dual, 22-15. 
  
-The Lopers earned a pin in the final bout, the fourth overall fall of the dual, but it was not enough, as the ThunderWolves moved to 3-0 at home.</content> 
-<sequenceId type="str">695194966381</sequenceId> 
-<topics type="list"> 
+The Lopers earned a pin in the final bout, the fourth overall fall of the dual, but it was not enough, as the ThunderWolves moved to 3-0 at home.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -25,7 +24,8 @@ The Lopers earned a pin in the final bout, the fourth overall fall of the dual, 
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:50:03Z</estimatedPublishedDate> 
-<title type="str">COLLEGE WRESTLING: Pack wrestlers upset No. 2 UNK</title> 
+</TOPICS> 
+<DOCID type="str">695194966381</DOCID> 
+<DCT type="str">2017-01-29T05:50:03Z</DCT> 
+<TITLE type="str">COLLEGE WRESTLING: Pack wrestlers upset No. 2 UNK</TITLE> 
 </root>

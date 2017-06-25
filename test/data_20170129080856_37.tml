@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi, Jan 29 (IANS) Delhi is poised to become a &quot;saturated model state&quot; in healthcare in the near future and dramatically improve the quality of education, Deputy Chief Minister Manish Sisodia has said.
+<TEXT type="str">New Delhi, Jan 29 (IANS) Delhi is poised to become a &quot;saturated model state&quot; in healthcare in the near future and dramatically improve the quality of education, Deputy Chief Minister Manish Sisodia has said.
 
 The Aam Aadmi Party (AAP) leader also said the Delhi government had built some 8,000 schoolrooms since taking office in February 2015 and will add a similar number within one-and-a-half years.
 
@@ -24,9 +24,8 @@ Sisodia said some 100 principals of government schools in Delhi which, he said, 
 
 --IANS
 
-am-mr/sar/sac/tb</content> 
-<sequenceId type="str">695199136485</sequenceId> 
-<topics type="list"> 
+am-mr/sar/sac/tb</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
@@ -51,7 +50,8 @@ am-mr/sar/sac/tb</content>
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:03Z</estimatedPublishedDate> 
-<title type="str">Delhi to be model state for healthcare, education: Deputy CM Sisodia</title> 
+</TOPICS> 
+<DOCID type="str">695199136485</DOCID> 
+<DCT type="str">2017-01-29T07:34:03Z</DCT> 
+<TITLE type="str">Delhi to be model state for healthcare, education: Deputy CM Sisodia</TITLE> 
 </root>

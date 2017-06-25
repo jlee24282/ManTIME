@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(MEREDITH) – Commercials. For 364 days of the year, we pause, fast forward, or skip right over them. But one day – Super Bowl Sunday – is the one day everyone stops to watch them, laugh, and comment on their favorite.
+<TEXT type="str">(MEREDITH) – Commercials. For 364 days of the year, we pause, fast forward, or skip right over them. But one day – Super Bowl Sunday – is the one day everyone stops to watch them, laugh, and comment on their favorite.
 
-This year, Mr. Clean is getting a head start, and well, let’s just say this isn’t your grandfather’s Mr. Clean. The video was posted on Jan. 26 and in only two days, has amassed more than 1 million views. How? Why? Find out for yourself.</content> 
-<sequenceId type="str">695197774957</sequenceId> 
-<topics type="list"> 
+This year, Mr. Clean is getting a head start, and well, let’s just say this isn’t your grandfather’s Mr. Clean. The video was posted on Jan. 26 and in only two days, has amassed more than 1 million views. How? Why? Find out for yourself.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -13,7 +12,8 @@ This year, Mr. Clean is getting a head start, and well, let’s just say this is
 <group type="str">Sports</group> 
 <name type="str">Sports: American football news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T23:21:00Z</estimatedPublishedDate> 
-<title type="str">New Mr. Clean commercial cleaning up before Super Bowl</title> 
+</TOPICS> 
+<DOCID type="str">695197774957</DOCID> 
+<DCT type="str">2017-01-28T23:21:00Z</DCT> 
+<TITLE type="str">New Mr. Clean commercial cleaning up before Super Bowl</TITLE> 
 </root>

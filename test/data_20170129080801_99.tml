@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donal Trump: U.S President&apos;s First Week In Power  
+<TEXT type="str">Donal Trump: U.S President&apos;s First Week In Power  
 
  
 One week into the Trump era and there is a serious case of political whiplash in America&apos;s capital. 
@@ -104,9 +104,8 @@ Donal Trump: U.S President&apos;s First Week In Power
 Donal Trump: U.S President&apos;s First Week In Power 
 Donal Trump: U.S President&apos;s First Week In Power 
 Donal Trump: U.S President&apos;s First Week In Power 
- Donal Trump: U.S President&apos;s First Week In Power  Donal Trump: U.S President&apos;s First Week In Power</content> 
-<sequenceId type="str">695197015626</sequenceId> 
-<topics type="list"> 
+ Donal Trump: U.S President&apos;s First Week In Power  Donal Trump: U.S President&apos;s First Week In Power</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -119,7 +118,8 @@ Donal Trump: U.S President&apos;s First Week In Power
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:17Z</estimatedPublishedDate> 
-<title type="str">Donal Trump: U.S president’s first week in power</title> 
+</TOPICS> 
+<DOCID type="str">695197015626</DOCID> 
+<DCT type="str">2017-01-29T07:34:17Z</DCT> 
+<TITLE type="str">Donal Trump: U.S president’s first week in power</TITLE> 
 </root>

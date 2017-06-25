@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">&quot;We will keep a close eye on the Admiral Kuznetsov as it skulks back to Russia,&quot; Defence Minister Michael Fallon said in a statement. 
+<TEXT type="str">&quot;We will keep a close eye on the Admiral Kuznetsov as it skulks back to Russia,&quot; Defence Minister Michael Fallon said in a statement. 
  A Russian aircraft carrier used to wage a massive offensive on the Syrian city of Aleppo is on its way back to Russia, Britain&apos;s defence minister said Wednesday, calling it a &quot;ship of shame&quot;. 
 &quot;We will keep a close eye on the Admiral Kuznetsov as it skulks back to Russia, &quot; Defence Minister Michael Fallon said in a statement. 
 
@@ -30,9 +30,8 @@ Aircraft from the carrier hit 1,252 &quot;terrorist&quot; targets during a two-m
 
 The Syrian regime and its allies have consistently referred to all of Assad&apos;s opponents -- jihadist or otherwise -- as &quot;terrorist&quot; since a conflict erupted in 2011. 
 
-The fall of Aleppo in December last year was the regime&apos;s biggest victory since the war began with anti-Assad protests.</content> 
-<sequenceId type="str">695195698754</sequenceId> 
-<topics type="list"> 
+The fall of Aleppo in December last year was the regime&apos;s biggest victory since the war began with anti-Assad protests.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -41,7 +40,8 @@ The fall of Aleppo in December last year was the regime&apos;s biggest victory s
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:57Z</estimatedPublishedDate> 
-<title type="str">In Uk: Country returns &apos;ship of shame&apos; to Russia</title> 
+</TOPICS> 
+<DOCID type="str">695195698754</DOCID> 
+<DCT type="str">2017-01-29T07:23:57Z</DCT> 
+<TITLE type="str">In Uk: Country returns &apos;ship of shame&apos; to Russia</TITLE> 
 </root>

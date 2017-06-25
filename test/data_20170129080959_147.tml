@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Companies were left scrambling to cope with the fallout from President Trump&apos;s executive order barring citizens from seven countries entering the US as Australian business leaders called on the Turnbull government to help clarify its impact. 
+<TEXT type="str">Companies were left scrambling to cope with the fallout from President Trump&apos;s executive order barring citizens from seven countries entering the US as Australian business leaders called on the Turnbull government to help clarify its impact. 
 
 Companies are scrambling to cope with the fallout from US President Donald Trump&apos;s executive order barring citizens from seven countries entering the US as Australian business leaders call on the Turnbull government to help clarify its impact.
 
@@ -58,9 +58,8 @@ Qantas chief executive Alan Joyce echoed Mr Stokes&apos; ease about the Trump ad
 
 With Agencies.
 
-The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695201713642</sequenceId> 
-<topics type="list"> 
+The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -77,7 +76,8 @@ The story first appeared on The Sydney Morning Herald.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:26:49Z</estimatedPublishedDate> 
-<title type="str">Trump travel ban causes business chaos</title> 
+</TOPICS> 
+<DOCID type="str">695201713642</DOCID> 
+<DCT type="str">2017-01-29T05:26:49Z</DCT> 
+<TITLE type="str">Trump travel ban causes business chaos</TITLE> 
 </root>

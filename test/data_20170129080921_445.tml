@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Nail Art Club 
+<TEXT type="str">Nail Art Club 
       
-Nail Art Club - bridal-lifestyle.com 2017-1-29 16</content> 
-<sequenceId type="str">695200602996</sequenceId> 
-<topics type="list"> 
+Nail Art Club - bridal-lifestyle.com 2017-1-29 16</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -13,7 +12,8 @@ Nail Art Club - bridal-lifestyle.com 2017-1-29 16</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Flirt during marriage - Nail Art Club</title> 
+</TOPICS> 
+<DOCID type="str">695200602996</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">Flirt during marriage - Nail Art Club</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sophy Ridge, Sky News Presenter  
+<TEXT type="str">Sophy Ridge, Sky News Presenter  
 Filming in Barnsley this week, I spoke to a man in his seventies as he walked down the high street. 
  
 Like many others in his town, he and his family had always seen themselves as Labour voters - &quot;Labour, Labour, Labour&quot; - but recently he had started voting for UKIP. 
@@ -35,9 +35,8 @@ But it also means the decline of the traditional British industries and the incr
  
 For the older generation, British manufacturing was in a far better state before the UK joined the EU. 
  
-Once outside again, will it thrive again? It&apos;s a roll of the dice, a high stakes gamble.</content> 
-<sequenceId type="str">695198812106</sequenceId> 
-<topics type="list"> 
+Once outside again, will it thrive again? It&apos;s a roll of the dice, a high stakes gamble.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -46,7 +45,8 @@ Once outside again, will it thrive again? It&apos;s a roll of the dice, a high s
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:50Z</estimatedPublishedDate> 
-<title type="str">Sky Views: The real reason for the Leave vote</title> 
+</TOPICS> 
+<DOCID type="str">695198812106</DOCID> 
+<DCT type="str">2017-01-29T07:46:50Z</DCT> 
+<TITLE type="str">Sky Views: The real reason for the Leave vote</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">He posted a tweet Prime Minister Justin Trudeau has welcomed immigrants in a sunny Twitter message written in stark contrast to Donald Trump&apos;s order temporarily banning all refugees and many Muslims from travelling to the United States. 
+<TEXT type="str">He posted a tweet Prime Minister Justin Trudeau has welcomed immigrants in a sunny Twitter message written in stark contrast to Donald Trump&apos;s order temporarily banning all refugees and many Muslims from travelling to the United States. 
 
 &quot;To those fleeing persecution, terror &amp; war, Canadians will welcome you, regardless of your faith. Diversity is our strength #WelcomeToCanada,&quot; Trudeau posted on Twitter on Saturday. 
 
@@ -16,9 +16,8 @@ On Saturday, Canadian airline WestJet said it would reimburse passengers prevent
 
 The airliner has already had to refuse one passenger transport to the United States, a spokeswoman said, without specifying the passenger&apos;s origin. According to the latest Canadian census, from 2011, one out of five people in the country are foreign-born. 
 
-Canada has welcomed more than 39,670 Syrian refugees between November 2015 and the beginning of this January, according to government figures.</content> 
-<sequenceId type="str">695198888575</sequenceId> 
-<topics type="list"> 
+Canada has welcomed more than 39,670 Syrian refugees between November 2015 and the beginning of this January, according to government figures.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -35,7 +34,8 @@ Canada has welcomed more than 39,670 Syrian refugees between November 2015 and t
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">After Trump&apos;s immigration ban, Trudeau welcomes all immigrants to Canada</title> 
+</TOPICS> 
+<DOCID type="str">695198888575</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">After Trump&apos;s immigration ban, Trudeau welcomes all immigrants to Canada</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">&quot;La La Land&quot; has won the Producers Guild of America’s Darryl F. Zanuck Award for top feature film of 2016 for Fred Berger, Jordan Horowitz, and Marc Platt.
+<TEXT type="str">&quot;La La Land&quot; has won the Producers Guild of America’s Darryl F. Zanuck Award for top feature film of 2016 for Fred Berger, Jordan Horowitz, and Marc Platt.
 
 The musical defeated &quot;Arrival,&quot; &quot;Deadpool,&quot; &quot;Fences,&quot; &quot;Hacksaw Ridge,&quot; &quot;Hell or High Water,&quot; &quot;Hidden Figures,&quot; &quot;Lion,&quot; &quot;Manchester by the Sea,&quot; and &quot;Moonlight.&quot;
 
@@ -276,9 +276,8 @@ The Award for Outstanding Children’s Program:
 
 • School of Rock (Season 1)
 
-• SpongeBob SquarePants (Season 9)</content> 
-<sequenceId type="str">695196011438</sequenceId> 
-<topics type="list"> 
+• SpongeBob SquarePants (Season 9)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -291,7 +290,8 @@ The Award for Outstanding Children’s Program:
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:28Z</estimatedPublishedDate> 
-<title type="str">‘La La Land’ Wins Producers Guild’s Top Movie Award (Complete List)</title> 
+</TOPICS> 
+<DOCID type="str">695196011438</DOCID> 
+<DCT type="str">2017-01-29T07:26:28Z</DCT> 
+<TITLE type="str">‘La La Land’ Wins Producers Guild’s Top Movie Award (Complete List)</TITLE> 
 </root>

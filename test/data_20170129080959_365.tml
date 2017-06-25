@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Stokes&apos; rise has been a turbulent one, but his on-field exploits have increasingly taken centre stage  
+<TEXT type="str">Stokes&apos; rise has been a turbulent one, but his on-field exploits have increasingly taken centre stage  
  7:50 AM GMT   
 Alan Gardner 
    
@@ -34,9 +34,8 @@ Afterwards, he records in Firestarter , he sat down and wrote the wrong score (2
 Firestarter: Me, Cricket and the Heat of the Moment 
 By Ben Stokes 
 Headline 
-293 pages, £2</content> 
-<sequenceId type="str">695201943188</sequenceId> 
-<topics type="list"> 
+293 pages, £2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ Headline
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:03Z</estimatedPublishedDate> 
-<title type="str">Categorically Ben</title> 
+</TOPICS> 
+<DOCID type="str">695201943188</DOCID> 
+<DCT type="str">2017-01-29T08:10:03Z</DCT> 
+<TITLE type="str">Categorically Ben</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A US federal judge has temporarily blocked the deportation of visa holders and refugees under an executive order from President Trump. &gt;&gt;</content> 
-<sequenceId type="str">695198617895</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A US federal judge has temporarily blocked the deportation of visa holders and refugees under an executive order from President Trump. &gt;&gt;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:21Z</estimatedPublishedDate> 
-<title type="str">US judge temporarily suspends deportations</title> 
+</TOPICS> 
+<DOCID type="str">695198617895</DOCID> 
+<DCT type="str">2017-01-29T07:31:21Z</DCT> 
+<TITLE type="str">US judge temporarily suspends deportations</TITLE> 
 </root>

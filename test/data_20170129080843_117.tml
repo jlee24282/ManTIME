@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mexico expressed sharp criticism over Israel&apos;s Prime Minister Benjamin Netanyahu tweet that praised Trump&apos;s plan to build a border wall with Mexico. &gt;&gt;</content> 
-<sequenceId type="str">695198616435</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Mexico expressed sharp criticism over Israel&apos;s Prime Minister Benjamin Netanyahu tweet that praised Trump&apos;s plan to build a border wall with Mexico. &gt;&gt;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -23,7 +22,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:01Z</estimatedPublishedDate> 
-<title type="str">Mexico criticises Netanyahu wall tweet</title> 
+</TOPICS> 
+<DOCID type="str">695198616435</DOCID> 
+<DCT type="str">2017-01-29T07:31:01Z</DCT> 
+<TITLE type="str">Mexico criticises Netanyahu wall tweet</TITLE> 
 </root>

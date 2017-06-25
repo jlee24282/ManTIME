@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Five years before Rajiv Gandhi was killed in 1991, the US Central Intelligence Agency had prepared a very detailed and thorough &quot;brief&quot; on what would happen if he is assassinated or makes an &quot;abrupt departure&quot; from the Indian political scene.</content> 
-<sequenceId type="str">695201945958</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Five years before Rajiv Gandhi was killed in 1991, the US Central Intelligence Agency had prepared a very detailed and thorough &quot;brief&quot; on what would happen if he is assassinated or makes an &quot;abrupt departure&quot; from the Indian political scene.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Society</group> 
 <name type="str">US security news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:22Z</estimatedPublishedDate> 
-<title type="str">CIA had detailed brief on Rajiv Gandhi assassination aftermath, 5 years before he was killed: Declassified report</title> 
+</TOPICS> 
+<DOCID type="str">695201945958</DOCID> 
+<DCT type="str">2017-01-29T08:01:22Z</DCT> 
+<TITLE type="str">CIA had detailed brief on Rajiv Gandhi assassination aftermath, 5 years before he was killed: Declassified report</TITLE> 
 </root>

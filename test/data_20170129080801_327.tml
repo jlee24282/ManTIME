@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON   - Volkswagen AG&apos;s dealers will receive an average of $1.85 million in a $1.2 billion settlement approved by a U.S. judge on Monday over its diesel emissions scandal. 
+<TEXT type="str">WASHINGTON   - Volkswagen AG&apos;s dealers will receive an average of $1.85 million in a $1.2 billion settlement approved by a U.S. judge on Monday over its diesel emissions scandal. 
  
 U.S. District Judge Charles Breyer said the 650 U.S. dealers would be paid over 18 months, ruling the settlement &quot;fair, reasonable, and adequate.&quot; 
  
@@ -12,9 +12,8 @@ VW North American Chief Executive Officer Hinrich Woebcken said earlier the comp
  
 Beyond the $1.2 billion cash payments, the settlement is valued at total of more than $1.6 billion for the VW brand dealers, said law firm Hagens Berman in a statement. The settlement includes $270 million through a provision for prior payments and $175 million in the continued sales incentives. 
  
-&quot;The Volkswagen-branded franchise dealer class-action settlement finalized today represents an outstanding result for Volkswagen’s affected franchise dealers who, like consumers, were blindsided by the brazen fraud that VW perpetrated,&quot; said Steve Berman, managing partner of Hagens Berman and lead attorney for the dealers.</content> 
-<sequenceId type="str">695197218594</sequenceId> 
-<topics type="list"> 
+&quot;The Volkswagen-branded franchise dealer class-action settlement finalized today represents an outstanding result for Volkswagen’s affected franchise dealers who, like consumers, were blindsided by the brazen fraud that VW perpetrated,&quot; said Steve Berman, managing partner of Hagens Berman and lead attorney for the dealers.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -39,7 +38,8 @@ Beyond the $1.2 billion cash payments, the settlement is valued at total of more
 <group type="str">Business</group> 
 <name type="str">European business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T12:42:00Z</estimatedPublishedDate> 
-<title type="str">U.S. judge approves VW dealers $ 1.2 billion settlement</title> 
+</TOPICS> 
+<DOCID type="str">695197218594</DOCID> 
+<DCT type="str">2017-01-28T12:42:00Z</DCT> 
+<TITLE type="str">U.S. judge approves VW dealers $ 1.2 billion settlement</TITLE> 
 </root>

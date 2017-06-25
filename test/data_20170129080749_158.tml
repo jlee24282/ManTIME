@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str"> </content> 
-<sequenceId type="str">695196659538</sequenceId> 
-<topics type="list"> 
+<TEXT type="str"> </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:22Z</estimatedPublishedDate> 
-<title type="str">Athletics: Shigetomo triumphs in Osaka Women s Marathon</title> 
+</TOPICS> 
+<DOCID type="str">695196659538</DOCID> 
+<DCT type="str">2017-01-29T07:31:22Z</DCT> 
+<TITLE type="str">Athletics: Shigetomo triumphs in Osaka Women s Marathon</TITLE> 
 </root>

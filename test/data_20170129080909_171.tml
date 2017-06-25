@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Review 
+<TEXT type="str">Review 
   
 Raees Movie Review: Nawaz takes the spotlight away from King Khan in this mediocre crime drama 
    
@@ -166,9 +166,8 @@ Hot
   
 Bigg Boss 10: Manveer, Bani, Manu or Lopa - Who deserves to be the winner? 
     
-Mother-daughter duo Sridevi and Jhanvi look ethereal in this photo!</content> 
-<sequenceId type="str">695199823379</sequenceId> 
-<topics type="list"> 
+Mother-daughter duo Sridevi and Jhanvi look ethereal in this photo!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -177,7 +176,8 @@ Mother-daughter duo Sridevi and Jhanvi look ethereal in this photo!</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: Bollywood news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:13Z</estimatedPublishedDate> 
-<title type="str">Box Office Report: Shah Rukh Khan&apos;s Raees continues its dream run, witnesses growth on Day 4!</title> 
+</TOPICS> 
+<DOCID type="str">695199823379</DOCID> 
+<DCT type="str">2017-01-29T07:41:13Z</DCT> 
+<TITLE type="str">Box Office Report: Shah Rukh Khan&apos;s Raees continues its dream run, witnesses growth on Day 4!</TITLE> 
 </root>

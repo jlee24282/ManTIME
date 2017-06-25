@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">KOTA KINABALU: The search and rescue operation is being stepped up near Pulau Tiga where the skipper and a crewman of the missing catamaran with 28 China tourists were found. 
+<TEXT type="str">KOTA KINABALU: The search and rescue operation is being stepped up near Pulau Tiga where the skipper and a crewman of the missing catamaran with 28 China tourists were found. 
  
 Chief Minister Datuk Seri Musa Aman (pic) said that he has directed for the operation to be intensified. 
  
@@ -16,9 +16,8 @@ He also said boat operators should exercise greater caution when taking people t
  
 The skipper of the boat and a crewman were found near Pulau Tiga at about 2pm on Sunday. 
  
-The boat was reported missing at 9.50pm Saturday after it set sail from Tanjung Aru jetty at 9am to Pulau Mengalum.</content> 
-<sequenceId type="str">695202959421</sequenceId> 
-<topics type="list"> 
+The boat was reported missing at 9.50pm Saturday after it set sail from Tanjung Aru jetty at 9am to Pulau Mengalum.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -27,7 +26,8 @@ The boat was reported missing at 9.50pm Saturday after it set sail from Tanjung 
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:59Z</estimatedPublishedDate> 
-<title type="str">Musa: Search for missing China tourists intensified</title> 
+</TOPICS> 
+<DOCID type="str">695202959421</DOCID> 
+<DCT type="str">2017-01-29T08:17:59Z</DCT> 
+<TITLE type="str">Musa: Search for missing China tourists intensified</TITLE> 
 </root>

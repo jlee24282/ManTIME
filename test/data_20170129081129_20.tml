@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">41 mins ago Breaking news Leave a comment 6 Views 
+<TEXT type="str">41 mins ago Breaking news Leave a comment 6 Views 
 
 News 
 
@@ -60,9 +60,8 @@ Website
 
 5th November 2016 1,718 
 
-egypt Economy The Middle East Observer Business Saudi Arabia Investment world New Suez Canal China Dubai UAE Russia Development Kuwait Africa Oil Abdel-Fattah al-Sisi Strategy Investors Technology Stock Market Bahrain government cairo Abu Dhabi</content> 
-<sequenceId type="str">695204599412</sequenceId> 
-<topics type="list"> 
+egypt Economy The Middle East Observer Business Saudi Arabia Investment world New Suez Canal China Dubai UAE Russia Development Kuwait Africa Oil Abdel-Fattah al-Sisi Strategy Investors Technology Stock Market Bahrain government cairo Abu Dhabi</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -87,7 +86,8 @@ egypt Economy The Middle East Observer Business Saudi Arabia Investment world Ne
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:31Z</estimatedPublishedDate> 
-<title type="str">Egypt’s Sisi announces new authority to develop Upper Egypt</title> 
+</TOPICS> 
+<DOCID type="str">695204599412</DOCID> 
+<DCT type="str">2017-01-29T07:49:31Z</DCT> 
+<TITLE type="str">Egypt’s Sisi announces new authority to develop Upper Egypt</TITLE> 
 </root>

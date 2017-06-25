@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:38 
+<TEXT type="str">:38 
  
 Air-to-surface missiles and helicopter machinegun fire were also used in the attack on houses in Yakla district, in the central province of Baida, the sources said. 
  
@@ -20,9 +20,8 @@ On January 14, the Pentagon announced the killing a senior Al-Qaeda operative in
  
 Al-Qaeda and the Islamic State jihadist group have exploited a power vacuum created by the two-year-old conflict in Yemen between the government and Shiite Huthi rebels, especially in the country’s south and southeast. 
  
-© 2017 AFP</content> 
-<sequenceId type="str">695202125673</sequenceId> 
-<topics type="list"> 
+© 2017 AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -35,7 +34,8 @@ Al-Qaeda and the Islamic State jihadist group have exploited a power vacuum crea
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:32Z</estimatedPublishedDate> 
-<title type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</title> 
+</TOPICS> 
+<DOCID type="str">695202125673</DOCID> 
+<DCT type="str">2017-01-29T08:11:32Z</DCT> 
+<TITLE type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</TITLE> 
 </root>

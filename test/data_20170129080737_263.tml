@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SEATTLE — After digging themselves out of a double-digit hole, the UTRGV Vaqueros watched their hopes of a road victory evaporate in a 90-second span midway through the second half and absorbed a 96-84 loss to Seattle on Saturday night. 
+<TEXT type="str">SEATTLE — After digging themselves out of a double-digit hole, the UTRGV Vaqueros watched their hopes of a road victory evaporate in a 90-second span midway through the second half and absorbed a 96-84 loss to Seattle on Saturday night. 
  
 The Vaqueros, who trailed by as many as 17 in the first half when Seattle hit 13 3-pointers, tightened their perimeter defense and tied it 69-69 with 9:24 remaining, but couldn’t sustain the momentum as Seattle pulled away down the stretch. 
  
@@ -44,9 +44,8 @@ Xavier McDaniel Jr. was fouled on a 3-point attempt and hit all three free throw
  
 With the loss, the Vaqueros fell to 1-11 on the road. They’re 7-3 at home and 2-0 at neutral sites. 
  
-“Homecourt advantage, I always try to underplay it,” Dixon said. “But, after being on the road, experiencing it in college, and the travel, it does take effect on you.”</content> 
-<sequenceId type="str">695196329601</sequenceId> 
-<topics type="list"> 
+“Homecourt advantage, I always try to underplay it,” Dixon said. “But, after being on the road, experiencing it in college, and the travel, it does take effect on you.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -55,7 +54,8 @@ With the loss, the Vaqueros fell to 1-11 on the road. They’re 7-3 at home and 
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:01:00Z</estimatedPublishedDate> 
-<title type="str">Second-half rally falls short for UTRGV men&apos;s basketball vs. Seattle</title> 
+</TOPICS> 
+<DOCID type="str">695196329601</DOCID> 
+<DCT type="str">2017-01-29T06:01:00Z</DCT> 
+<TITLE type="str">Second-half rally falls short for UTRGV men&apos;s basketball vs. Seattle</TITLE> 
 </root>

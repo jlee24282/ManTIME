@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Theerayut Charoenpakdee was terrified when police stopped her outside a shopping centre in Pattaya, a Thai resort famous for its sordid nightlife. A urine test on the spot revealed meth coursing through her veins. 
+<TEXT type="str">Theerayut Charoenpakdee was terrified when police stopped her outside a shopping centre in Pattaya, a Thai resort famous for its sordid nightlife. A urine test on the spot revealed meth coursing through her veins. 
  
 “I thought I was going to be thrown in prison with all the men because I still have the title of Mr,” the transgender woman said. “I was afraid. News and TV tells us that being sent to prison is scary.” 
  
@@ -56,9 +56,8 @@ Similar proposals in Italy and Turkey have bogged down under heavy criticism. It
  
 But existing options leave much to be desired. In many prisons in the US and other countries, transgender women face a stark choice: get thrown into cells with men, or go into solitary confinement. 
  
-Chelsea Manning, the whistle-blower arrested for sending secret military files to WikiLeaks, was sentenced in 2013 to 35 years at a male prison in Kansas despite declaring herself a transgender woman. She was thrown in solitary confinement for attempting suicide last year, and was granted clemency by former President Barack Obama.</content> 
-<sequenceId type="str">695196575350</sequenceId> 
-<topics type="list"> 
+Chelsea Manning, the whistle-blower arrested for sending secret military files to WikiLeaks, was sentenced in 2013 to 35 years at a male prison in Kansas despite declaring herself a transgender woman. She was thrown in solitary confinement for attempting suicide last year, and was granted clemency by former President Barack Obama.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Asia-Pacific stories</name> 
@@ -83,7 +82,8 @@ Chelsea Manning, the whistle-blower arrested for sending secret military files t
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:04Z</estimatedPublishedDate> 
-<title type="str">World first: Thailand considers opening ‘gay prison’, already separating LGBT prisoners</title> 
+</TOPICS> 
+<DOCID type="str">695196575350</DOCID> 
+<DCT type="str">2017-01-29T07:22:04Z</DCT> 
+<TITLE type="str">World first: Thailand considers opening ‘gay prison’, already separating LGBT prisoners</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Adelaide United&apos;s Riley McGree and Wellington Phoenix&apos;s Kosta Barbarouses compete for the ball on Sunday. 
+<TEXT type="str">Adelaide United&apos;s Riley McGree and Wellington Phoenix&apos;s Kosta Barbarouses compete for the ball on Sunday. 
    
 In a normal situation the Wellington Phoenix would be disappointed to drop points to the Hyundai A-League&apos;s bottom side. 
  
@@ -43,9 +43,8 @@ AT A GLANCE
  
 Wellington Phoenix 2  (Tom Doyle 11&apos;, Roy Krishna 37&apos;) Adelaide United 2  (Riley McGree 7&apos;, Nikola Mileusnic 80&apos;). HT: 2-1. 
  
- </content> 
-<sequenceId type="str">695203853447</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -54,7 +53,8 @@ Wellington Phoenix 2  (Tom Doyle 11&apos;, Roy Krishna 37&apos;) Adelaide Unite
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:43Z</estimatedPublishedDate> 
-<title type="str">Phoenix succumb late in heat</title> 
+</TOPICS> 
+<DOCID type="str">695203853447</DOCID> 
+<DCT type="str">2017-01-29T08:24:43Z</DCT> 
+<TITLE type="str">Phoenix succumb late in heat</TITLE> 
 </root>

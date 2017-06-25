@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Hayley Atwell in ABC&apos;s &apos;Conviction.&apos;(Photo: Ben Mark Holzberg, ABC)
+<TEXT type="str">Hayley Atwell in ABC&apos;s &apos;Conviction.&apos;(Photo: Ben Mark Holzberg, ABC)
 
 Screen Actors Guild Awards
 
@@ -18,9 +18,8 @@ The Affair/Conviction
 
 Showtime/ABC, 10 ET/PT
 
-Both shows air their season finales Sunday, facing very different futures. The Affair has already been renewed for a fourth season, while Conviction — which had its first-season episode order capped at 13 — waits to hear if it will return. Odds are good it won’t, but in an era when dead shows routinely spring back to life, you never know.</content> 
-<sequenceId type="str">695201020250</sequenceId> 
-<topics type="list"> 
+Both shows air their season finales Sunday, facing very different futures. The Affair has already been renewed for a fourth season, while Conviction — which had its first-season episode order capped at 13 — waits to hear if it will return. Odds are good it won’t, but in an era when dead shows routinely spring back to life, you never know.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -33,7 +32,8 @@ Both shows air their season finales Sunday, facing very different futures. The A
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:02Z</estimatedPublishedDate> 
-<title type="str">TV tonight: &apos;Conviction&apos; finale, SAG Awards</title> 
+</TOPICS> 
+<DOCID type="str">695201020250</DOCID> 
+<DCT type="str">2017-01-29T08:00:02Z</DCT> 
+<TITLE type="str">TV tonight: &apos;Conviction&apos; finale, SAG Awards</TITLE> 
 </root>

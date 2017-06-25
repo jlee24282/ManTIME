@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 8:37 am 
+<TEXT type="str">, 8:37 am 
    
 Princess Diana will be commemorated with a statue in the gardens of Kensington Palace to mark the 20th anniversary of her death. 
     
@@ -26,9 +26,8 @@ Kensington Palace said work on the artwork would begin soon but it was not possi
     
  Close   
        Stop Video     Replay   0:54  Princess Diana’s childhood home to open to public  
- UP NEXT</content> 
-<sequenceId type="str">695197358150</sequenceId> 
-<topics type="list"> 
+ UP NEXT</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -37,7 +36,8 @@ Kensington Palace said work on the artwork would begin soon but it was not possi
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:39Z</estimatedPublishedDate> 
-<title type="str">&apos;Touched so many lives&apos;: Princess Diana statue to mark 20 years since death</title> 
+</TOPICS> 
+<DOCID type="str">695197358150</DOCID> 
+<DCT type="str">2017-01-29T07:36:39Z</DCT> 
+<TITLE type="str">&apos;Touched so many lives&apos;: Princess Diana statue to mark 20 years since death</TITLE> 
 </root>

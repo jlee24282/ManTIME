@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A recap of game-changing news with a few extra twists from the pages of January&apos;s Lewiston Tribune. 
+<TEXT type="str">A recap of game-changing news with a few extra twists from the pages of January&apos;s Lewiston Tribune. 
  
 --- 
  
@@ -48,9 +48,8 @@ Zip&apos;s Drive-In is replacing Polar Bear, one of Lewiston&apos;s oldest indep
  
 --- 
  
-Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</content> 
-<sequenceId type="str">695204316296</sequenceId> 
-<topics type="list"> 
+Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Shipping industry news</name> 
@@ -59,7 +58,8 @@ Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">The Port of Lewiston - a new year, same story</title> 
+</TOPICS> 
+<DOCID type="str">695204316296</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">The Port of Lewiston - a new year, same story</TITLE> 
 </root>

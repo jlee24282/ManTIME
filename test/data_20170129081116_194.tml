@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">J ohn F. Kennedy International Airport in New York City. Photo by Judd Legum. 
+<TEXT type="str">J ohn F. Kennedy International Airport in New York City. Photo by Judd Legum. 
  
 Large protests are happening at this hour at major airports following President Donald Trump&apos;s executive order to ban citizens of seven Muslim-majority countries from entering the United States. 
  
@@ -21,9 +21,8 @@ NDP MP Jenny Kwan says, &quot;As global citizens and defenders of human rights, 
 Trudeau is scheduled to meet with Trump in the White House in late-February. 
  
 #MuslimBan #MuslimBanProtest #JFKTerminal4 #NoBanNoWall 
- </content> 
-<sequenceId type="str">695204352724</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
@@ -32,7 +31,8 @@ Trudeau is scheduled to meet with Trump in the White House in late-February.
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:36Z</estimatedPublishedDate> 
-<title type="str">Trudeau should reject Trump&apos;s travel ban against seven Muslim-majority countries</title> 
+</TOPICS> 
+<DOCID type="str">695204352724</DOCID> 
+<DCT type="str">2017-01-29T08:28:36Z</DCT> 
+<TITLE type="str">Trudeau should reject Trump&apos;s travel ban against seven Muslim-majority countries</TITLE> 
 </root>

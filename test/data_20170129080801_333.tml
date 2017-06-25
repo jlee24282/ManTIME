@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bengaluru, Jan 29: We have previously given updates of the championship match results that will take place on this Sunday at the Royal Rumble PPV. 
+<TEXT type="str">Bengaluru, Jan 29: We have previously given updates of the championship match results that will take place on this Sunday at the Royal Rumble PPV. 
  
 Since this is a dual brand PPV, both the prime titles from Raw and Smackdown will be on the line. 
   
@@ -32,9 +32,8 @@ As for Owens, he will indulge in a much-awaited program with Chris Jericho. This
  
 Interestingly, both the champions will be barred from championship matches since the company thinks that they have not earned the right to feature in prime championship matches at Wrestlemania.  
  
-OneIndia News</content> 
-<sequenceId type="str">695197226684</sequenceId> 
-<topics type="list"> 
+OneIndia News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Television industry news</name> 
@@ -47,7 +46,8 @@ OneIndia News</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:10:40Z</estimatedPublishedDate> 
-<title type="str">WWE Rumour: Major championship changes happening at the Royal Rumble PPV</title> 
+</TOPICS> 
+<DOCID type="str">695197226684</DOCID> 
+<DCT type="str">2017-01-29T07:10:40Z</DCT> 
+<TITLE type="str">WWE Rumour: Major championship changes happening at the Royal Rumble PPV</TITLE> 
 </root>

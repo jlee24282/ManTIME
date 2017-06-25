@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mohammad Javad Zarif 
+<TEXT type="str">Mohammad Javad Zarif 
   
 Iran’s Foreign Minister Mohammad Javad Zarif said Sunday that US President Donald Trump’s decision to ban arrivals from seven Muslim majority countries was “a great gift to extremists”. 
  
@@ -34,9 +34,8 @@ CBN to increase list of banned imported items
      
 Kano monarch, Sanusi warns ‘political’ clerics 
   
-3 hours ago   Nigeria</content> 
-<sequenceId type="str">695202227972</sequenceId> 
-<topics type="list"> 
+3 hours ago   Nigeria</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -45,7 +44,8 @@ Kano monarch, Sanusi warns ‘political’ clerics
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:25Z</estimatedPublishedDate> 
-<title type="str">Trump travel ban ‘great gift to extremists’: Iran FM</title> 
+</TOPICS> 
+<DOCID type="str">695202227972</DOCID> 
+<DCT type="str">2017-01-29T08:12:25Z</DCT> 
+<TITLE type="str">Trump travel ban ‘great gift to extremists’: Iran FM</TITLE> 
 </root>

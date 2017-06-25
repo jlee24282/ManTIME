@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">INTRO - doesn’t have to be five lines for web only copy...
+<TEXT type="str">INTRO - doesn’t have to be five lines for web only copy...
 
-BODYTEXT - Continue writing bodytext of main document here...</content> 
-<sequenceId type="str">695196599233</sequenceId> 
-<topics type="list"> 
+BODYTEXT - Continue writing bodytext of main document here...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Online marketing news</name> 
@@ -21,7 +20,8 @@ BODYTEXT - Continue writing bodytext of main document here...</content>
 <group type="str">Business</group> 
 <name type="str">Marketing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:00Z</estimatedPublishedDate> 
-<title type="str">HEADLINE HERE - remember to use names / places for Web SEO</title> 
+</TOPICS> 
+<DOCID type="str">695196599233</DOCID> 
+<DCT type="str">2017-01-29T07:15:00Z</DCT> 
+<TITLE type="str">HEADLINE HERE - remember to use names / places for Web SEO</TITLE> 
 </root>

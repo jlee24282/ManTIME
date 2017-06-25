@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The quaddie legs at Cessnock today were won by stables from Wyong, Dubbo and Hawkesbury. 
+<TEXT type="str">The quaddie legs at Cessnock today were won by stables from Wyong, Dubbo and Hawkesbury. 
 
 中文  Register Free Account Login 
 
@@ -24,9 +24,8 @@ Related Stories The quaddie legs at Cessnock today were won by stables from Wyon
 
 Hawkesbury trainers Scott Singleton (Celtic Diamond) and Mark Kearney (Final Swing) provided two of the winers. The other legs were trained at Wyong by Alan Denham (Wing Snipper) and Dubbo by Gary Lunn (Oskastar). 
 
-Celtic Diamond leads throughout to win the lucky last at #Cessnock. pic.twitter.com/01swxpEVpU</content> 
-<sequenceId type="str">695195515367</sequenceId> 
-<topics type="list"> 
+Celtic Diamond leads throughout to win the lucky last at #Cessnock. pic.twitter.com/01swxpEVpU</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -35,7 +34,8 @@ Celtic Diamond leads throughout to win the lucky last at #Cessnock. pic.twitter.
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:45Z</estimatedPublishedDate> 
-<title type="str">Cessnock Today - Widespread Stables Win Quaddie</title> 
+</TOPICS> 
+<DOCID type="str">695195515367</DOCID> 
+<DCT type="str">2017-01-29T07:22:45Z</DCT> 
+<TITLE type="str">Cessnock Today - Widespread Stables Win Quaddie</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">North Yorkshire County Council is encouraging people to talk about mental health.
+<TEXT type="str">North Yorkshire County Council is encouraging people to talk about mental health.
 
 It&apos;s backing Time to Talk Day, a national campaign that aims to get people to talk more openly about mental health and well being for 24 hours.
 
@@ -26,9 +26,8 @@ Having these all important conversations can make a big difference to many peopl
 
 Free resources are available for workplaces and community groups to hold their own events and people can get involved on the day by tweeting #timetotalk or by visiting 
 
-www.time-to-change.org.uk.</content> 
-<sequenceId type="str">695202631495</sequenceId> 
-<topics type="list"> 
+www.time-to-change.org.uk.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Medical news</name> 
@@ -37,7 +36,8 @@ www.time-to-change.org.uk.</content>
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:17Z</estimatedPublishedDate> 
-<title type="str">Mental Health Awareness In North Yorkshire</title> 
+</TOPICS> 
+<DOCID type="str">695202631495</DOCID> 
+<DCT type="str">2017-01-29T08:15:17Z</DCT> 
+<TITLE type="str">Mental Health Awareness In North Yorkshire</TITLE> 
 </root>

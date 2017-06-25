@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Submit a correction | Search events 
+<TEXT type="str">Submit a correction | Search events 
 
 Recording artist and sound healer Diane Mandle presents an intense transformation sound immersion with Tibetan bowls, bells, planetary gong, and percussion. Bring a mat to lie on. $15 advance, $20 at the door.At the Japanese Friendship Garden&apos;s Inamori Pavilion, 2220 Paseo de Oro. Info: 619-232-2722. 
 
@@ -64,9 +64,8 @@ Earn up to $25 for album reviews.
 
 Earn up to $50 for travel stories. 
 
-Earn up to $50 for water stories.</content> 
-<sequenceId type="str">695204970017</sequenceId> 
-<topics type="list"> 
+Earn up to $50 for water stories.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -79,7 +78,8 @@ Earn up to $50 for water stories.</content>
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:17Z</estimatedPublishedDate> 
-<title type="str">Sun 1/29: Tibetan Bowl &amp; Gong Sound Healing Immersion</title> 
+</TOPICS> 
+<DOCID type="str">695204970017</DOCID> 
+<DCT type="str">2017-01-29T08:33:17Z</DCT> 
+<TITLE type="str">Sun 1/29: Tibetan Bowl &amp; Gong Sound Healing Immersion</TITLE> 
 </root>

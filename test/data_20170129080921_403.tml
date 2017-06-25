@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Last week, Crested Butte’s Aaron Blunck called Aspen his home away from home. Best friends with local stars Torin Yater-Wallace and Alex Ferreira, he’s spent a lot of time in the area. 
+<TEXT type="str">Last week, Crested Butte’s Aaron Blunck called Aspen his home away from home. Best friends with local stars Torin Yater-Wallace and Alex Ferreira, he’s spent a lot of time in the area. 
  
 Like his friends, Blunck is an X Games Aspen veteran competing in the ski superpipe. Unlike his friends, he’s never found success in competition. In fact, he had never executed a complete run before Friday’s finals at Buttermilk. 
  
@@ -26,9 +26,8 @@ Yater-Wallace, who had two promising runs that each ended with late crashes, fin
  
 Rolland, last year’s gold medalist, took eighth. 
  
-acolbert@aspentimes.com</content> 
-<sequenceId type="str">695200533022</sequenceId> 
-<topics type="list"> 
+acolbert@aspentimes.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -41,7 +40,8 @@ acolbert@aspentimes.com</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: extreme sports news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:01Z</estimatedPublishedDate> 
-<title type="str">VSSA grad Aaron Blunck wins X Games ski superpipe</title> 
+</TOPICS> 
+<DOCID type="str">695200533022</DOCID> 
+<DCT type="str">2017-01-29T07:51:01Z</DCT> 
+<TITLE type="str">VSSA grad Aaron Blunck wins X Games ski superpipe</TITLE> 
 </root>

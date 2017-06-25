@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Editor, Casa Grande Dispatch: 
+<TEXT type="str">Editor, Casa Grande Dispatch: 
  
 Kudos to the personnel at the Arizona City Fire Department. They are well trained, competent and compassionate. 
  
@@ -12,14 +12,14 @@ They were also concerned with my driving to the hospital. Our resident go-to guy
  
 Greta Brown 
  
-Arizona City</content> 
-<sequenceId type="str">695194368226</sequenceId> 
-<topics type="list"> 
+Arizona City</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:45:00Z</estimatedPublishedDate> 
-<title type="str">AC Fire does great job</title> 
+</TOPICS> 
+<DOCID type="str">695194368226</DOCID> 
+<DCT type="str">2017-01-29T06:45:00Z</DCT> 
+<TITLE type="str">AC Fire does great job</TITLE> 
 </root>

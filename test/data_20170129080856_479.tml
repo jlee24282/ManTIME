@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Usually when a high school boys basketball team plays two games in back-to-back nights, the second night it can get a little tired and sloppy. 
+<TEXT type="str">Usually when a high school boys basketball team plays two games in back-to-back nights, the second night it can get a little tired and sloppy. 
  
 That was not the case with St. Patrick-St. Vincent High on Saturday night. 
  
@@ -31,9 +31,8 @@ Benicia wouldn’t quit, however, and made a last run in the fourth quarter to c
  
 A 3-pointer from Pugh made it 71-63 with under two minutes to play, but it’s as close as the Panthers would get, as they could not contain Henderson in the final quarter. The Bruin hit eight points in the final period, including a big jumper near the top of the key to slow down Benicia’s momentum. 
  
-St. Pat’s continues its season on Tuesday with a home game against El Cerrito, while Benicia will play American Canyon on Wednesday night at home.</content> 
-<sequenceId type="str">695199648405</sequenceId> 
-<topics type="list"> 
+St. Pat’s continues its season on Tuesday with a home game against El Cerrito, while Benicia will play American Canyon on Wednesday night at home.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -42,7 +41,8 @@ St. Pat’s continues its season on Tuesday with a home game against El Cerrito,
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T08:01:00Z</estimatedPublishedDate> 
-<title type="str">St. Patrick-St. Vincent boys basketball defeats Benicia in front of packed crowd at home</title> 
+</TOPICS> 
+<DOCID type="str">695199648405</DOCID> 
+<DCT type="str">2017-01-28T08:01:00Z</DCT> 
+<TITLE type="str">St. Patrick-St. Vincent boys basketball defeats Benicia in front of packed crowd at home</TITLE> 
 </root>

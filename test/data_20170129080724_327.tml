@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mumbai, Jan 29 (IANS) The Indian equities markets are expected to be volatile as investors look forward to more policy reforms, sops and tax breaks from the Union Budget.
+<TEXT type="str">Mumbai, Jan 29 (IANS) The Indian equities markets are expected to be volatile as investors look forward to more policy reforms, sops and tax breaks from the Union Budget.
 
 Besides, inflows of foreign funds and stock specific movement due to the ongoing earnings result season will be a major theme for the next week.
 
@@ -56,9 +56,8 @@ Similarly, the wider 51-scrip Nifty of the National Stock Exchange (NSE) climbed
 
 --IANS
 
-rv/vm/mr</content> 
-<sequenceId type="str">695195901164</sequenceId> 
-<topics type="list"> 
+rv/vm/mr</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
@@ -71,7 +70,8 @@ rv/vm/mr</content>
 <group type="str">Finance</group> 
 <name type="str">Equity markets news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:03Z</estimatedPublishedDate> 
-<title type="str">Budgetary expectations to keep equities markets volatile</title> 
+</TOPICS> 
+<DOCID type="str">695195901164</DOCID> 
+<DCT type="str">2017-01-29T07:18:03Z</DCT> 
+<TITLE type="str">Budgetary expectations to keep equities markets volatile</TITLE> 
 </root>

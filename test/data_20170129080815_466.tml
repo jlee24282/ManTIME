@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Residents of the Golan and Galilee Mountains woke up on Saturday to fifty shades of gay elegance, as the snow that began to fall during Friday&apos;s stormier weather enveloped the surrounding area with a soft blanket of white. 
+<TEXT type="str">Residents of the Golan and Galilee Mountains woke up on Saturday to fifty shades of gay elegance, as the snow that began to fall during Friday&apos;s stormier weather enveloped the surrounding area with a soft blanket of white. 
 From the Hula Valley in the Galilee, Kibbutz Ein Zivan in the northern Golan Heights and Ramim Ridge in the North-East, the country&apos;s North was turned into a winter wonderland. The city of Safed saw as much as 10 cm of snow, with winds clocking in with a rare 131 km/hour. The Shiryon Interchange saw up to 15 cm of snow. Mt. Hermon reportly saw 50 cm of snowfall, though the site is unfortunately closed to visitors.        
 צילום: אסף מגל, דניאל אליאור, רחל יטח, זוהר קבלן 
                
@@ -34,9 +34,8 @@ Rainbow above Ashdod (Photo: Shmuel David)
  Sunday is expected to be partly cloudy and unusually cold for this time of year. Monday is due to be fair, with a slight rise in temperature, and Tuesday will expectedly have light showers from the North to the Negev, with another dip in temperature.
 
 
-The stormy weather on Friday caused many tree collapses and power outages throughout the country. One woman in Acre was lightly injured when a power line fell on her house, seriously damaging the structure.</content> 
-<sequenceId type="str">695197804148</sequenceId> 
-<topics type="list"> 
+The stormy weather on Friday caused many tree collapses and power outages throughout the country. One woman in Acre was lightly injured when a power line fell on her house, seriously damaging the structure.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -45,7 +44,8 @@ The stormy weather on Friday caused many tree collapses and power outages throug
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:43Z</estimatedPublishedDate> 
-<title type="str">Snow falls on Galilee, Golan and Gush Etzion</title> 
+</TOPICS> 
+<DOCID type="str">695197804148</DOCID> 
+<DCT type="str">2017-01-29T07:39:43Z</DCT> 
+<TITLE type="str">Snow falls on Galilee, Golan and Gush Etzion</TITLE> 
 </root>

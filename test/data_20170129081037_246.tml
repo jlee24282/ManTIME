@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Vallejo High wrestling team competed at the Pound Invitational on Saturday, hosted by Pittsburg High school. 
+<TEXT type="str">The Vallejo High wrestling team competed at the Pound Invitational on Saturday, hosted by Pittsburg High school. 
 
-Bruce Burns took home a championship belt in the 160-pound weight class. Izzy Jaleel (140) and A.R. Khwaja Abdurrehman (108) both placed third for the Redhawks.</content> 
-<sequenceId type="str">695203058986</sequenceId> 
-<topics type="list"> 
+Bruce Burns took home a championship belt in the 160-pound weight class. Izzy Jaleel (140) and A.R. Khwaja Abdurrehman (108) both placed third for the Redhawks.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -13,7 +12,8 @@ Bruce Burns took home a championship belt in the 160-pound weight class. Izzy Ja
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:38Z</estimatedPublishedDate> 
-<title type="str">Vallejo High&apos;s Bruce Burns takes first place for wrestling team at Pound Invitational</title> 
+</TOPICS> 
+<DOCID type="str">695203058986</DOCID> 
+<DCT type="str">2017-01-29T08:06:38Z</DCT> 
+<TITLE type="str">Vallejo High&apos;s Bruce Burns takes first place for wrestling team at Pound Invitational</TITLE> 
 </root>

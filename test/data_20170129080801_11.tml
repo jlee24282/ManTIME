@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Episode 2</content> 
-<sequenceId type="str">695196964349</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Episode 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:33Z</estimatedPublishedDate> 
-<title type="str">Inquisition S01E03 Tudor Heretics</title> 
+</TOPICS> 
+<DOCID type="str">695196964349</DOCID> 
+<DCT type="str">2017-01-29T07:17:33Z</DCT> 
+<TITLE type="str">Inquisition S01E03 Tudor Heretics</TITLE> 
 </root>

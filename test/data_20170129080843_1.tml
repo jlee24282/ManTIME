@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Sydney Sixers are this summer&apos;s WBBL champions, with speedster Sarah Aley snaring 4-23 to lead her side to a seven-run victory in Saturday&apos;s final at the WACA.          
+<TEXT type="str">The Sydney Sixers are this summer&apos;s WBBL champions, with speedster Sarah Aley snaring 4-23 to lead her side to a seven-run victory in Saturday&apos;s final at the WACA.          
  
 Chasing 125 for victory, the Scorchers were restricted to 7-117 from their 20 overs.          
  
@@ -40,9 +40,8 @@ But Healy disagreed when asked about the deck.            
  
 &quot;The boys complained it was slow, but it was good for us.&quot;           
  
-AAP </content> 
-<sequenceId type="str">695198462190</sequenceId> 
-<topics type="list"> 
+AAP </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Philadelphia 76ers news</name> 
@@ -51,7 +50,8 @@ AAP </content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:58Z</estimatedPublishedDate> 
-<title type="str">Sixers win WBBL crown</title> 
+</TOPICS> 
+<DOCID type="str">695198462190</DOCID> 
+<DCT type="str">2017-01-29T07:43:58Z</DCT> 
+<TITLE type="str">Sixers win WBBL crown</TITLE> 
 </root>

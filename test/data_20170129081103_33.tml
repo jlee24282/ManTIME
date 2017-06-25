@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Carl Frampton has called on Leo Santa Cruz to complete the trilogy with a final showdown in Belfast. 
+<TEXT type="str">Carl Frampton has called on Leo Santa Cruz to complete the trilogy with a final showdown in Belfast. 
  
-More:  continued here</content> 
-<sequenceId type="str">695203706647</sequenceId> 
-<topics type="list"> 
+More:  continued here</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -13,7 +12,8 @@ More:  continued here</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:50Z</estimatedPublishedDate> 
-<title type="str">Frampton wants Belfast decider</title> 
+</TOPICS> 
+<DOCID type="str">695203706647</DOCID> 
+<DCT type="str">2017-01-29T08:23:50Z</DCT> 
+<TITLE type="str">Frampton wants Belfast decider</TITLE> 
 </root>

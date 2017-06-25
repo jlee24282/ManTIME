@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The appointment of a new minister for counter-terrorism in NSW has been slammed by the Labor opposition as irresponsible and against the public interest.
+<TEXT type="str">The appointment of a new minister for counter-terrorism in NSW has been slammed by the Labor opposition as irresponsible and against the public interest.
 
 Unveiling a cabinet reshuffle on Sunday, Premier Gladys Berejiklian announced corrections minister David Elliott – not police minister Troy Grant – would take on the new role.
 
@@ -32,9 +32,8 @@ The NSW Bar Association said it provided Mr Grant &quot;with unprecedented power
 
 The NSW Law Society warned the arrangement meant police were &quot;ostensibly responsible for criminal law policy, while at the same time, the traditional roles of the attorney-general as first law officer of the state, which includes preserving civil liberties, are being eroded&quot;.
 
-Ms Berejiklian has confirmed the cluster has been reworked so that new attorney-general Mark Speakman, SC, is the lead minister.</content> 
-<sequenceId type="str">695196054119</sequenceId> 
-<topics type="list"> 
+Ms Berejiklian has confirmed the cluster has been reworked so that new attorney-general Mark Speakman, SC, is the lead minister.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -43,7 +42,8 @@ Ms Berejiklian has confirmed the cluster has been reworked so that new attorney-
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:29:42Z</estimatedPublishedDate> 
-<title type="str">New counter terrorism role slammed as &apos;against the public interest&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695196054119</DOCID> 
+<DCT type="str">2017-01-29T06:29:42Z</DCT> 
+<TITLE type="str">New counter terrorism role slammed as &apos;against the public interest&apos;</TITLE> 
 </root>

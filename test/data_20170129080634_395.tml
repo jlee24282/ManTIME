@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Chicago area Democratic politicians sharply criticized the Trump administration Saturday after more than a dozen travelers were taken into custody at O’Hare International Airport to enforce the president’s executive order on immigration from seven majority-Muslim countries.  
+<TEXT type="str">Chicago area Democratic politicians sharply criticized the Trump administration Saturday after more than a dozen travelers were taken into custody at O’Hare International Airport to enforce the president’s executive order on immigration from seven majority-Muslim countries.  
  
 Late Saturday, a federal judge in New York barred deportations nationwide, and lawyers aiding the O’Hare travelers said all of them had been set free. 
  
@@ -28,9 +28,8 @@ Rep. Raja Krishnamoorthi of the west and northwest suburbs arrived at O&apos;Har
  
 rsobol@tribpub.com 
  
-Chicago Tribune reporter Stacy St. Clair contributed to this report.</content> 
-<sequenceId type="str">695194199416</sequenceId> 
-<topics type="list"> 
+Chicago Tribune reporter Stacy St. Clair contributed to this report.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Chicago news</name> 
@@ -55,7 +54,8 @@ Chicago Tribune reporter Stacy St. Clair contributed to this report.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:47Z</estimatedPublishedDate> 
-<title type="str">Illinois Democrats express disbelief at Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695194199416</DOCID> 
+<DCT type="str">2017-01-29T07:13:47Z</DCT> 
+<TITLE type="str">Illinois Democrats express disbelief at Trump immigration order</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">“It’s the best burger I’ve ever eaten!” friend Lois texted with smilie faces. “It’s not fancy or anything, but they make a really good burger. You design it yourself by filling out a check-off form.” 
+<TEXT type="str">“It’s the best burger I’ve ever eaten!” friend Lois texted with smilie faces. “It’s not fancy or anything, but they make a really good burger. You design it yourself by filling out a check-off form.” 
  
 I’m not a huge burger fan but I trusted Lois’s judgment and the process intrigued me, so the day after New Year’s John and I headed to Central Avenue. 
  
@@ -43,14 +43,14 @@ Everyday’s Build A Burger Pub
 WHERE: 2012 Central Avenue, Albany, 869-0494 BuildaBurgerPub.com 
 WHEN: Mon.-Sun. 11 a.m.-2 a.m. 
 HOW MUCH: $22.50 for two Black Angus burgers and a soda without tax and tip 
-MORE INFO: accessible, parking lot, all major credit cards accepted, background music permits conversation, outside patio available in warm weather</content> 
-<sequenceId type="str">695197581669</sequenceId> 
-<topics type="list"> 
+MORE INFO: accessible, parking lot, all major credit cards accepted, background music permits conversation, outside patio available in warm weather</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Build A Burger upholds friend’s endorsement</title> 
+</TOPICS> 
+<DOCID type="str">695197581669</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Build A Burger upholds friend’s endorsement</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new toy for Lionsgate&apos;s upcoming Power Rangers film may have revealed a spoiler regarding one of the movie&apos;s key characters. 
+<TEXT type="str">A new toy for Lionsgate&apos;s upcoming Power Rangers film may have revealed a spoiler regarding one of the movie&apos;s key characters. 
  
 Warning: Possible Power Rangers spoilers below. 
   
@@ -8,9 +8,8 @@ Power Rangers Now  (via Heroic Hollywood ) has shared several images of Bandai
  Goldar figure, courtesy of Power Rangers Now  
 Power Rangers opens in theaters on March 24, 2017. For a sneak peek at the upcoming live-action movie, check out the film&apos;s  latest trailer  and take a look at these images of Banks as the villainous Rita Repulsa . 
  
-Alex Osborn is a freelance writer for IGN. You can follow him on  Twitter  and subscribe to his  YouTube  channel.</content> 
-<sequenceId type="str">695204424418</sequenceId> 
-<topics type="list"> 
+Alex Osborn is a freelance writer for IGN. You can follow him on  Twitter  and subscribe to his  YouTube  channel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -23,7 +22,8 @@ Alex Osborn is a freelance writer for IGN. You can follow him on  Twitter  and
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T18:32:19Z</estimatedPublishedDate> 
-<title type="str">Power Rangers Toy Reveals Potential Movie Spoiler</title> 
+</TOPICS> 
+<DOCID type="str">695204424418</DOCID> 
+<DCT type="str">2017-01-28T18:32:19Z</DCT> 
+<TITLE type="str">Power Rangers Toy Reveals Potential Movie Spoiler</TITLE> 
 </root>

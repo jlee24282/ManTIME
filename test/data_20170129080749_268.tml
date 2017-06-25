@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By At a time of global anxiety, fervent populism and enduring conflict, international filmmakers have turned to marriage, high jinks, history and even a remote island in the middle of the ocean to make sense of things. 
+<TEXT type="str">By At a time of global anxiety, fervent populism and enduring conflict, international filmmakers have turned to marriage, high jinks, history and even a remote island in the middle of the ocean to make sense of things. 
  
 Those themes were resonant in the Academy Award nominations for foreign-language film, which were dominated by European movies that included an eccentric father-daughter comedy, a World War II drama about hidden land mines and the story of a curmudgeonly Swede charmed by his immigrant neighbor. 
  
@@ -20,9 +20,8 @@ The nominated films explore the fissures, bonds, expectations and unpredictabili
  
 Whimsy mixes with Scandinavian stoicism in a &quot;A Man Called Ove,&quot; directed by Hannes Holm, after a laid-off railroad worker and recent widower attempts to hang himself. The title character is a gruff bore who becomes enamored with his Iranian immigrant neighbor in a tender story that speaks to larger questions of culture and diversity that have been agitating Europe in recent years. 
  
-&quot;No one should be all on their own,&quot; Ove&apos;s neighbor tells him. &quot;Not even you.&quot;</content> 
-<sequenceId type="str">695196753147</sequenceId> 
-<topics type="list"> 
+&quot;No one should be all on their own,&quot; Ove&apos;s neighbor tells him. &quot;Not even you.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -31,7 +30,8 @@ Whimsy mixes with Scandinavian stoicism in a &quot;A Man Called Ove,&quot; direc
 <group type="str">Regional</group> 
 <name type="str">Denmark news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Foreign-language Oscar picks: World of turmoil turns to escapism</title> 
+</TOPICS> 
+<DOCID type="str">695196753147</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Foreign-language Oscar picks: World of turmoil turns to escapism</TITLE> 
 </root>

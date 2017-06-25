@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Barcelona coach Luis Enrique said it is fantastic that players can move to China and earn more money, labeling criticism of their motives &quot;strange&quot;. 
+<TEXT type="str">Barcelona coach Luis Enrique said it is fantastic that players can move to China and earn more money, labeling criticism of their motives &quot;strange&quot;. 
  
 Welbeck shows he can be Arsenal regular 
  
@@ -20,9 +20,8 @@ Liverpool are closing in on crisis territory
  
 &quot;I think it&apos;s fantastic and I applaud those who do it but it&apos;s odd the way it&apos;s badly seen in football.&quot; 
  
-Luis Enrique&apos;s Barcelona are away to Real Betis in La Liga action on Sunday.</content> 
-<sequenceId type="str">695203026102</sequenceId> 
-<topics type="list"> 
+Luis Enrique&apos;s Barcelona are away to Real Betis in La Liga action on Sunday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -31,7 +30,8 @@ Luis Enrique&apos;s Barcelona are away to Real Betis in La Liga action on Sunday
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:29Z</estimatedPublishedDate> 
-<title type="str">&apos;Nothing wrong with players seeking more money in China&apos; - Luis Enrique...</title> 
+</TOPICS> 
+<DOCID type="str">695203026102</DOCID> 
+<DCT type="str">2017-01-29T08:18:29Z</DCT> 
+<TITLE type="str">&apos;Nothing wrong with players seeking more money in China&apos; - Luis Enrique...</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Tamworth Blue bowlers stood tall as they defended for a 40 run win on Sunday. 
+<TEXT type="str">The Tamworth Blue bowlers stood tall as they defended for a 40 run win on Sunday. 
 
 Tamworth Blue scratched their way to a 40-run MA Connolly Cup win against Quirindi on Sunday thanks to an “exceptional” bowling performance.
 
@@ -48,9 +48,8 @@ Gunnedah had few problems in the chase against a charitable Glen attack.
 
 Glen Innes conceded 36 extras, highlighted by a stunning total of 33 wides, which proved the top contributor as Gunnedah overhauled the target in 23 overs. 
 
-Armidale needed a further 60 runs with six wickets in hand to win against Moree.</content> 
-<sequenceId type="str">695203692988</sequenceId> 
-<topics type="list"> 
+Armidale needed a further 60 runs with six wickets in hand to win against Moree.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -59,7 +58,8 @@ Armidale needed a further 60 runs with six wickets in hand to win against Moree.
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:20:00Z</estimatedPublishedDate> 
-<title type="str">Blue’s bowlers come to aid in Connolly Cup</title> 
+</TOPICS> 
+<DOCID type="str">695203692988</DOCID> 
+<DCT type="str">2017-01-29T05:20:00Z</DCT> 
+<TITLE type="str">Blue’s bowlers come to aid in Connolly Cup</TITLE> 
 </root>

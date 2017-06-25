@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Penzance is seeing a jump in Council Tax in a bid to safeguard its historic pool and local services.
+<TEXT type="str">Penzance is seeing a jump in Council Tax in a bid to safeguard its historic pool and local services.
 
 It comes after the Town Council voted for a precept increase of 50.98% from this April - resulting in a £64.50 increase for the average Band D home.
 
@@ -32,9 +32,8 @@ According to the Finance &amp; General Purposes Committee, they also saw an incr
 
 The Committee will also lose £21,000 income from Cornwall Council&apos;s Council Tax Support Grant in 2017/18.
 
-The overall impact was the need for an increase of £53,</content> 
-<sequenceId type="str">695200975400</sequenceId> 
-<topics type="list"> 
+The overall impact was the need for an increase of £53,</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -43,7 +42,8 @@ The overall impact was the need for an increase of £53,</content>
 <group type="str">Society</group> 
 <name type="str">Local government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:20Z</estimatedPublishedDate> 
-<title type="str">Penzance Council Tax Hike Will &apos;Protect&apos; Jubilee Pool</title> 
+</TOPICS> 
+<DOCID type="str">695200975400</DOCID> 
+<DCT type="str">2017-01-29T08:03:20Z</DCT> 
+<TITLE type="str">Penzance Council Tax Hike Will &apos;Protect&apos; Jubilee Pool</TITLE> 
 </root>

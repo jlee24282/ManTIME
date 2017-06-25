@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 4:56 pm 
+<TEXT type="str">, 4:56 pm 
    
 Washington (AFP) - President Donald Trump vowed to improve floundering ties with Russia, while also reassuring close US allies he supports NATO. 
 
@@ -70,9 +70,8 @@ Romero said Trump&apos;s order breached the US constitution&apos;s ban on religi
 
 Iran answered in kind by saying it would ban Americans from entering the country, calling Trump&apos;s action insulting. 
 
-But the US leader did get backing from Czech President Milos Zeman, who praised him for being &quot;concerned with the safety of his citizens.&quot;</content> 
-<sequenceId type="str">695203219744</sequenceId> 
-<topics type="list"> 
+But the US leader did get backing from Czech President Milos Zeman, who praised him for being &quot;concerned with the safety of his citizens.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -85,7 +84,8 @@ But the US leader did get backing from Czech President Milos Zeman, who praised 
 <group type="str">Society</group> 
 <name type="str">International relations news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:46Z</estimatedPublishedDate> 
-<title type="str">Trump vows better Russia ties, reassures NATO allies</title> 
+</TOPICS> 
+<DOCID type="str">695203219744</DOCID> 
+<DCT type="str">2017-01-29T08:19:46Z</DCT> 
+<TITLE type="str">Trump vows better Russia ties, reassures NATO allies</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ben Pullen, Founder and MD for Global EVRT, updates us on their Dubai electric car road trip.</content> 
-<sequenceId type="str">695203897204</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Ben Pullen, Founder and MD for Global EVRT, updates us on their Dubai electric car road trip.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:49Z</estimatedPublishedDate> 
-<title type="str">Update on the first ever electric car road trip in the UAE</title> 
+</TOPICS> 
+<DOCID type="str">695203897204</DOCID> 
+<DCT type="str">2017-01-29T08:00:49Z</DCT> 
+<TITLE type="str">Update on the first ever electric car road trip in the UAE</TITLE> 
 </root>

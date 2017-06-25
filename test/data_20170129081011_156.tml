@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">John Legend 
+<TEXT type="str">John Legend 
   
 Oscar-winning singer-songwriter John Legend implored Hollywood Saturday to stand against Donald Trump, telling the Producers Guild Awards the Republican president’s political outlook was anti-American. 
  
@@ -24,9 +24,8 @@ Instead, he said, he decided to make a donation to the American Civil Liberties 
  
 “There’s a lot of money and power in this room and I hope you will use it for something good,” Legend added. 
  
-“Let’s all continue to stand up together for what is right.”</content> 
-<sequenceId type="str">695202227754</sequenceId> 
-<topics type="list"> 
+“Let’s all continue to stand up together for what is right.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -35,7 +34,8 @@ Instead, he said, he decided to make a donation to the American Civil Liberties 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:24Z</estimatedPublishedDate> 
-<title type="str">John Legend: America has to be ‘better’ than Trump</title> 
+</TOPICS> 
+<DOCID type="str">695202227754</DOCID> 
+<DCT type="str">2017-01-29T08:12:24Z</DCT> 
+<TITLE type="str">John Legend: America has to be ‘better’ than Trump</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Washington DC: US President Donald Trump signed a sweeping new executive order Friday to suspend refugee arrivals and impose tough new controls on travellers from seven Muslim countries. 
+<TEXT type="str">Washington DC: US President Donald Trump signed a sweeping new executive order Friday to suspend refugee arrivals and impose tough new controls on travellers from seven Muslim countries. 
  
 Making good on one of his most controversial campaign promises, and to the horror of human rights groups, Trump said he was making America safe from “radical Islamic terrorists”. 
  
@@ -70,9 +70,8 @@ May conveyed an invitation from Queen Elizabeth II for Trump to come to Britain 
  
 Over the weekend, Trump is due to make calls to Japanese Prime Minister Shinzo Abe, Germany&apos;s Chancellor Angela Merkel, Russia&apos;s President Vladimir Putin, France&apos;s President Francois Hollande and Australian Prime Minister Malcolm Turnbull. 
  
-He is keen to develop friendly ties with Moscow, but played down reports that he might quickly end US economic sanctions imposed on Russia for its intervention in Ukraine.</content> 
-<sequenceId type="str">695196517205</sequenceId> 
-<topics type="list"> 
+He is keen to develop friendly ties with Moscow, but played down reports that he might quickly end US economic sanctions imposed on Russia for its intervention in Ukraine.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Egypt news</name> 
@@ -85,7 +84,8 @@ He is keen to develop friendly ties with Moscow, but played down reports that he
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T09:45:16Z</estimatedPublishedDate> 
-<title type="str">Trump bars visitors from 7 Muslim nations</title> 
+</TOPICS> 
+<DOCID type="str">695196517205</DOCID> 
+<DCT type="str">2017-01-28T09:45:16Z</DCT> 
+<TITLE type="str">Trump bars visitors from 7 Muslim nations</TITLE> 
 </root>

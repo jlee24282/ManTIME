@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Published By: monitor - Yesterday 
+<TEXT type="str">Published By: monitor - Yesterday 
 
 Older News 
 
@@ -24,9 +24,8 @@ Cranes in Gabon: The postmortem  Gabon (3 days ago) - Uganda Cranes players in d
 
 Miya keeps history intact 
 
-AFCON: Cranes Out with a Goal and Point</content> 
-<sequenceId type="str">695201574365</sequenceId> 
-<topics type="list"> 
+AFCON: Cranes Out with a Goal and Point</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -39,7 +38,8 @@ AFCON: Cranes Out with a Goal and Point</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T23:00:00Z</estimatedPublishedDate> 
-<title type="str">We can pick inspiration from Uganda Cranes, says athletics coach Longiross</title> 
+</TOPICS> 
+<DOCID type="str">695201574365</DOCID> 
+<DCT type="str">2017-01-28T23:00:00Z</DCT> 
+<TITLE type="str">We can pick inspiration from Uganda Cranes, says athletics coach Longiross</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Hassan Martin&apos;s 20 points leads URI past St. Bonaventure
+<TEXT type="str">Hassan Martin&apos;s 20 points leads URI past St. Bonaventure
 
 Hassan Martin had his best game since returning from injury, pouring in 20 points, grabbing eight rebounds and blocking four shots to help URI to a 71-59 win over St. Bonaventure on Saturday afternoon. 
 
@@ -28,9 +28,8 @@ Next up
 
 The Rams return to action on Tueday, January 31 when they host George Washington at the Ryan Center. 
 
-Tip-off is set for 7 p.m.</content> 
-<sequenceId type="str">695199794376</sequenceId> 
-<topics type="list"> 
+Tip-off is set for 7 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Providence news</name> 
@@ -39,7 +38,8 @@ Tip-off is set for 7 p.m.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:10:00Z</estimatedPublishedDate> 
-<title type="str">Sports | Martin’s 20 Points Leads URI Past St. Bonaventure 71-59</title> 
+</TOPICS> 
+<DOCID type="str">695199794376</DOCID> 
+<DCT type="str">2017-01-29T07:10:00Z</DCT> 
+<TITLE type="str">Sports | Martin’s 20 Points Leads URI Past St. Bonaventure 71-59</TITLE> 
 </root>

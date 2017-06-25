@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A suspected Indonesian militant has been killed and one of Southeast Asia&apos;s top terror suspects is fighting for his life after they were hit in Philippine airstrikes at the start of a covert offensive in the country&apos;s south, the military chief said Sunday. 
+<TEXT type="str">A suspected Indonesian militant has been killed and one of Southeast Asia&apos;s top terror suspects is fighting for his life after they were hit in Philippine airstrikes at the start of a covert offensive in the country&apos;s south, the military chief said Sunday. 
  
 Military Chief of Staff Gen. Eduardo Ano said the body of the suspected Indonesian, known by his nom de guerre Mohisen, was recovered by troops along with three slain Filipino followers of militant leader Isnilon Hapilon, who was seriously wounded in the hilly outskirts of Butig town in Lanao del Sur province. 
  
@@ -26,9 +26,8 @@ The elusive Hapilon, an Arabic-speaking Islamic preacher known for his expertise
  
 He then organized an alliance called Dawlatul Islam Wilayatul Mashriq, which is now believed to include at least 10 small militant groups including some Abu Sayyaf factions and the Maute armed group, which he was meeting in Lanao when the military launched the airstrikes using the FA50s and OV-10 bomber planes. 
  
-The Maute and the Ansar Al Khilafah Philippines, another group under Hapilon&apos;s nascent alliance, have been linked to a Sept. 2 bombing of a night market that killed 15 people and wounded 69 others in southern Davao city, the president&apos;s hometown, and a failed bombing at Manila&apos;s popular Rizal Park and the U.S. Embassy last year.</content> 
-<sequenceId type="str">695195356396</sequenceId> 
-<topics type="list"> 
+The Maute and the Ansar Al Khilafah Philippines, another group under Hapilon&apos;s nascent alliance, have been linked to a Sept. 2 bombing of a night market that killed 15 people and wounded 69 others in southern Davao city, the president&apos;s hometown, and a failed bombing at Manila&apos;s popular Rizal Park and the U.S. Embassy last year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -45,7 +44,8 @@ The Maute and the Ansar Al Khilafah Philippines, another group under Hapilon&apo
 <group type="str">Regional</group> 
 <name type="str">Philippines news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:25Z</estimatedPublishedDate> 
-<title type="str">Philippine airstrikes kill suspected Indonesian militant</title> 
+</TOPICS> 
+<DOCID type="str">695195356396</DOCID> 
+<DCT type="str">2017-01-29T07:21:25Z</DCT> 
+<TITLE type="str">Philippine airstrikes kill suspected Indonesian militant</TITLE> 
 </root>

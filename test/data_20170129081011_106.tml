@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Trump called Russian President Vladimir Putin on Saturday in hopes of cultivating “a great relationship,” one in a series of telephone conversations with world leaders as he develops a personal rapport with the heads of several traditional U.S. allies. 
+<TEXT type="str">President Trump called Russian President Vladimir Putin on Saturday in hopes of cultivating “a great relationship,” one in a series of telephone conversations with world leaders as he develops a personal rapport with the heads of several traditional U.S. allies. 
  
 Trump’s call with Putin comes as the president faces pressure to maintain sanctions against Moscow. He is reaching out to repair the U.S.-Russian relationship, which has been badly strained by the Ukrainian crisis, the war in Syria and the conclusion by U.S. intelligence agencies that Putin ordered systematic hacking of Democratic emails to tip the presidential election in Trump’s favor. 
  
@@ -50,9 +50,8 @@ Moscow’s establishment has welcomed Trump as a pragmatist who will not try to 
  
 “He is a businessman. He is a pragmatic person,” Andrei Norkin, co-host of a popular Russian political talk show, said this week. “I hope that his attitude to foreign policy will be like to some sort of business deal. People who will work with him will be telling him ‘Mr. President, we are taking a risk here,’ and he will agree.” 
  
-From The Washington Post</content> 
-<sequenceId type="str">695202181835</sequenceId> 
-<topics type="list"> 
+From The Washington Post</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -85,7 +84,8 @@ From The Washington Post</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:56Z</estimatedPublishedDate> 
-<title type="str">Trump phones Putin, Shinzo Abe, Angela Merkel to reset US relations</title> 
+</TOPICS> 
+<DOCID type="str">695202181835</DOCID> 
+<DCT type="str">2017-01-29T08:03:56Z</DCT> 
+<TITLE type="str">Trump phones Putin, Shinzo Abe, Angela Merkel to reset US relations</TITLE> 
 </root>

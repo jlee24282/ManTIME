@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ally Financial Inc. (NYSE:ALLY) announced a quarterly dividend on Tuesday, January 17th. Investors of record on Wednesday, February 1st will be given a dividend of 0.08 per share on Wednesday, February 15th. This represents a $0.32 annualized dividend and a dividend yield of 1.62%. The ex-dividend date is Monday, January 30th. 
+<TEXT type="str">Ally Financial Inc. (NYSE:ALLY) announced a quarterly dividend on Tuesday, January 17th. Investors of record on Wednesday, February 1st will be given a dividend of 0.08 per share on Wednesday, February 15th. This represents a $0.32 annualized dividend and a dividend yield of 1.62%. The ex-dividend date is Monday, January 30th. 
  
 Shares of Ally Financial ( NYSE:ALLY ) opened at 19.71 on Friday. The company’s 50 day moving average price is $19.68 and its 200 day moving average price is $19.12. The firm’s market capitalization is $9.46 billion. Ally Financial has a 52-week low of $14.84 and a 52-week high of $20.60. 
  
@@ -31,9 +31,8 @@ Ally Financial Inc is a financial holding company and a bank holding company. Th
 
 
  
-     </content> 
-<sequenceId type="str">695195455494</sequenceId> 
-<topics type="list"> 
+     </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Stockwatch</name> 
@@ -46,7 +45,8 @@ Ally Financial Inc is a financial holding company and a bank holding company. Th
 <group type="str">Finance</group> 
 <name type="str">US banking news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:43Z</estimatedPublishedDate> 
-<title type="str">Ally Financial Inc. (ALLY) To Go Ex-Dividend on January 30th</title> 
+</TOPICS> 
+<DOCID type="str">695195455494</DOCID> 
+<DCT type="str">2017-01-29T07:21:43Z</DCT> 
+<TITLE type="str">Ally Financial Inc. (ALLY) To Go Ex-Dividend on January 30th</TITLE> 
 </root>

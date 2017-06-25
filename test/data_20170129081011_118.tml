@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The lawsuit by the student, who is listed in the documents only as “Elizabeth Doe,” alleges at least 52 rapes by more than 30 football players over a four-year period.
+<TEXT type="str">The lawsuit by the student, who is listed in the documents only as “Elizabeth Doe,” alleges at least 52 rapes by more than 30 football players over a four-year period.
 
 It also alleges a “culture of sexual violence” and describes her 2013 attack by two players. It doesn’t detail the other alleged attacks, but says some were recorded by the players, who shared the recordings with friends.
 
@@ -26,9 +26,8 @@ According to the lawsuit, campus officials didn’t investigate her case until 2
 
 The lawsuit alleges the football program operated under a “show ’em a good time” policy that “used sex to sell” Baylor to high school recruits.
 
-The woman was a member of a campus group called the Baylor Bruins that would host prospective athletes during visits. The lawsuit alleges that Baylor encouraged making Baylor Bruins available for sex with recruits, as well as taking recruits to strip clubs, implied promises of sex and using alcohol and drugs in the recruiting process.</content> 
-<sequenceId type="str">695202193498</sequenceId> 
-<topics type="list"> 
+The woman was a member of a campus group called the Baylor Bruins that would host prospective athletes during visits. The lawsuit alleges that Baylor encouraged making Baylor Bruins available for sex with recruits, as well as taking recruits to strip clubs, implied promises of sex and using alcohol and drugs in the recruiting process.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
@@ -37,7 +36,8 @@ The woman was a member of a campus group called the Baylor Bruins that would hos
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:54:40Z</estimatedPublishedDate> 
-<title type="str">Baylor suit counts 52 rapes</title> 
+</TOPICS> 
+<DOCID type="str">695202193498</DOCID> 
+<DCT type="str">2017-01-28T22:54:40Z</DCT> 
+<TITLE type="str">Baylor suit counts 52 rapes</TITLE> 
 </root>

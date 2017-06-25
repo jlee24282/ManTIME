@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Washington: President Donald Trump says his halt to immigration from seven Muslim-majority nations and ban on refugees is being done in the name of national security. But it&apos;s not clear the measures will help prevent attacks on American soil, and they could wind up emboldening extremists who already view the U.S. as at war with Islam.
+<TEXT type="str">Washington: President Donald Trump says his halt to immigration from seven Muslim-majority nations and ban on refugees is being done in the name of national security. But it&apos;s not clear the measures will help prevent attacks on American soil, and they could wind up emboldening extremists who already view the U.S. as at war with Islam.
 
 Recent acts of deadly extremist violence have been carried out either by U.S. citizens or by individuals whose families weren&apos;t from the nations singled out. And the list of countries in Trump&apos;s order doesn&apos;t include Saudi Arabia, where most of the September 11 hijackers were from, or other places with a more direct link to terrorism in America.
 
@@ -42,9 +42,8 @@ And the man accused in the November car-and-knife that injured 11 people at Ohio
 
 Though not immune from lapses, the screening process has improved over the years, Cohen said. He said he was concerned that the refugee ban could deter Muslim-majority countries from cooperating with the U.S. on policy matters and could embolden an extremist already bent on violence.
 
-&quot;That&apos;s something,&quot; Cohen said, &quot;that law enforcement folks are going to be factoring into their violence prevention efforts.&quot;</content> 
-<sequenceId type="str">695194768824</sequenceId> 
-<topics type="list"> 
+&quot;That&apos;s something,&quot; Cohen said, &quot;that law enforcement folks are going to be factoring into their violence prevention efforts.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -57,7 +56,8 @@ Though not immune from lapses, the screening process has improved over the years
 <group type="str">Society</group> 
 <name type="str">US security news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:45Z</estimatedPublishedDate> 
-<title type="str">Trump shuts door on refugees, but will the US...</title> 
+</TOPICS> 
+<DOCID type="str">695194768824</DOCID> 
+<DCT type="str">2017-01-29T07:13:45Z</DCT> 
+<TITLE type="str">Trump shuts door on refugees, but will the US...</TITLE> 
 </root>

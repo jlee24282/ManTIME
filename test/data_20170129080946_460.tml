@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Palestinian police says Israeli troops have shot and killed a 17-year-old boy and injured five others who clashed with them. 
+<TEXT type="str">Palestinian police says Israeli troops have shot and killed a 17-year-old boy and injured five others who clashed with them. 
  
 The police say the Palestinians hurled rocks at the Israeli troops, who responded with fire. The Israeli military confirmed the account, saying that its forces were attacked with pipe bombs in the northern West Bank city of Jenin before they responded. 
  
@@ -8,9 +8,8 @@ Since 2015, Palestinian attackers have carried out numerous stabbings, shootings
  
 Rights groups have accused Israel of using excessive force in some of the confrontations. Israel blames the violence on Palestinian incitement, while Palestinians say it stems from frustration over decades of Israeli rule. 
  
-(This article has not been edited by DNA&apos;s editorial team and is auto-generated from an agency feed.)</content> 
-<sequenceId type="str">695201556235</sequenceId> 
-<topics type="list"> 
+(This article has not been edited by DNA&apos;s editorial team and is auto-generated from an agency feed.)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -23,7 +22,8 @@ Rights groups have accused Israel of using excessive force in some of the confro
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:09Z</estimatedPublishedDate> 
-<title type="str">Palestinians: 17-year-old shot dead in clashes with Israel</title> 
+</TOPICS> 
+<DOCID type="str">695201556235</DOCID> 
+<DCT type="str">2017-01-29T07:58:09Z</DCT> 
+<TITLE type="str">Palestinians: 17-year-old shot dead in clashes with Israel</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Serena Williams admitted she could not have written a better story herself after beating her sister Venus to win an Open-era record 23rd grand slam title. 
+<TEXT type="str">Serena Williams admitted she could not have written a better story herself after beating her sister Venus to win an Open-era record 23rd grand slam title. 
  
 Serena sealed a 6-4 6-4 victory on Rod Laver Arena to claim her seventh Australian Open crown and pull clear of Steffi Graf&apos;s 22 major triumphs. 
  
@@ -40,9 +40,8 @@ The seven-time grand slam champion has still never lifted the title in Melbourne
  
 &quot;Twenty-three is a great number. I know she would like to have a little more. Who wouldn&apos;t? It was a great moment. 
  
-&quot;I&apos;m very happy that she&apos;s been able to get to number 23 because there was 22 before that she also earned, and she earned it.&quot;</content> 
-<sequenceId type="str">695200205905</sequenceId> 
-<topics type="list"> 
+&quot;I&apos;m very happy that she&apos;s been able to get to number 23 because there was 22 before that she also earned, and she earned it.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -51,7 +50,8 @@ The seven-time grand slam champion has still never lifted the title in Melbourne
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:06Z</estimatedPublishedDate> 
-<title type="str">Fairytale triumph for Serena Williams as she wins record 23rd grand slam title</title> 
+</TOPICS> 
+<DOCID type="str">695200205905</DOCID> 
+<DCT type="str">2017-01-29T07:58:06Z</DCT> 
+<TITLE type="str">Fairytale triumph for Serena Williams as she wins record 23rd grand slam title</TITLE> 
 </root>

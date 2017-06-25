@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The second-annual Hank Kuzma Community Day was held Saturday in Finnegan Field House at the Franciscan University of Steubenville. Sponsors of the event presented the university with a check. Among those participating in the ceremony were, from left, Dave Werkin, Trinity Health System chief financial officer, sponsor; Kuzma’s grandson, Jordan Kuzma; Kuzma’s wife, Kay; Jim Emmerling, EM-Media owner, sponsor; Pete Rogaschi, university assistant athletic director; Tricia Maple-Damewood, Jefferson County Chamber of Commerce president; and Mike Florak, university executive director of community relations and interim athletic director. — Mark Law 
+<TEXT type="str">The second-annual Hank Kuzma Community Day was held Saturday in Finnegan Field House at the Franciscan University of Steubenville. Sponsors of the event presented the university with a check. Among those participating in the ceremony were, from left, Dave Werkin, Trinity Health System chief financial officer, sponsor; Kuzma’s grandson, Jordan Kuzma; Kuzma’s wife, Kay; Jim Emmerling, EM-Media owner, sponsor; Pete Rogaschi, university assistant athletic director; Tricia Maple-Damewood, Jefferson County Chamber of Commerce president; and Mike Florak, university executive director of community relations and interim athletic director. — Mark Law 
  
 STEUBENVILLE — Franciscan University of Steubenville, in conjunction with the Jefferson County Chamber of Commerce, took time Saturday between the Baron’s men’s and women’s basketball games against the University of Pittsburgh at Bradford to remember Hank Kuzma, Franciscan’s legendary men’s basketball coach. 
   
@@ -32,9 +32,8 @@ Mike Florak, university executive director of community relations and interim at
  
 “We are thankful to the sponsors and the people of the community that came out. We appreciate partnering with the chamber for this event,” he said. 
  
-“Hank left an indelible mark on Franciscan University, the athletic program and the Steubenville community. Hank built a championship basketball program during his tenure, and helped to shape what Franciscan athletics has become today. He was known throughout the Ohio Valley and beyond for his honesty, integrity and willingness to help with a wide range of civic and Catholic causes,” Florak said.</content> 
-<sequenceId type="str">695200653505</sequenceId> 
-<topics type="list"> 
+“Hank left an indelible mark on Franciscan University, the athletic program and the Steubenville community. Hank built a championship basketball program during his tenure, and helped to shape what Franciscan athletics has become today. He was known throughout the Ohio Valley and beyond for his honesty, integrity and willingness to help with a wide range of civic and Catholic causes,” Florak said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -51,7 +50,8 @@ Mike Florak, university executive director of community relations and interim at
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:14Z</estimatedPublishedDate> 
-<title type="str">Franciscan University of Steubenville holds annual day honoring legendary basketball coach Hank Kuzma</title> 
+</TOPICS> 
+<DOCID type="str">695200653505</DOCID> 
+<DCT type="str">2017-01-29T08:01:14Z</DCT> 
+<TITLE type="str">Franciscan University of Steubenville holds annual day honoring legendary basketball coach Hank Kuzma</TITLE> 
 </root>

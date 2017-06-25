@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On June 17, before Jamill Moquette walked up to the batter’s box for his first at-bat of his professional career, his teammates encouraged the recent University of Massachusetts Boston graduate to swing at the first pitch. 
+<TEXT type="str">On June 17, before Jamill Moquette walked up to the batter’s box for his first at-bat of his professional career, his teammates encouraged the recent University of Massachusetts Boston graduate to swing at the first pitch. 
  
 “All the guys kept saying, you have to go for the first pitch, and I’m like ‘what?’” 
  
@@ -46,9 +46,8 @@ Moquette attributes a lot of his success to his former manager at UMass Boston.
  
 Although many have helped the 6’3, 215 pound outfielder along the way, he expressed that his motivation and drive to push himself is a big reason why he is where he is today 
  
-“Just to have that drive, that drive to know that I can make it. If there is a point in your life when you know you can do it, you have to do it yourself and make it happen.”</content> 
-<sequenceId type="str">695202332127</sequenceId> 
-<topics type="list"> 
+“Just to have that drive, that drive to know that I can make it. If there is a point in your life when you know you can do it, you have to do it yourself and make it happen.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -57,7 +56,8 @@ Although many have helped the 6’3, 215 pound outfielder along the way, he expr
 <group type="str">Sports</group> 
 <name type="str">Sports: baseball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:00Z</estimatedPublishedDate> 
-<title type="str">Former Beacon baseball star Moquette begins his professional career</title> 
+</TOPICS> 
+<DOCID type="str">695202332127</DOCID> 
+<DCT type="str">2017-01-29T08:13:00Z</DCT> 
+<TITLE type="str">Former Beacon baseball star Moquette begins his professional career</TITLE> 
 </root>

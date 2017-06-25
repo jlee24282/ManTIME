@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Sudanese student with US legal residency said on Saturday she was briefly handcuffed at a New York airport, following US President Donald Trump’s order restricting entry into the United States for people from seven Muslim-majority nations. 
+<TEXT type="str">A Sudanese student with US legal residency said on Saturday she was briefly handcuffed at a New York airport, following US President Donald Trump’s order restricting entry into the United States for people from seven Muslim-majority nations. 
  
 Nisrin Elamin (39), a Stanford PhD student in anthropology who has lived in the United States since 1993, said she landed at John F Kennedy International Airport on Friday night and was detained for about five hours. 
  
@@ -26,9 +26,8 @@ Shirana Navabha (57), a US citizen originally from Iran, said she was scheduled 
  
 “I told everybody that I’m coming, everyone was so excited and now I’m not going, it’s just frustrating,” Navabha, who lives in Dallas, said by phone. 
  
-Follow The Himalayan Times on Twitter and</content> 
-<sequenceId type="str">695200040947</sequenceId> 
-<topics type="list"> 
+Follow The Himalayan Times on Twitter and</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Sudan news</name> 
@@ -61,7 +60,8 @@ Follow The Himalayan Times on Twitter and</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:42Z</estimatedPublishedDate> 
-<title type="str">“I got handcuffed and just started crying”: Sudanese student describes US detention</title> 
+</TOPICS> 
+<DOCID type="str">695200040947</DOCID> 
+<DCT type="str">2017-01-29T07:55:42Z</DCT> 
+<TITLE type="str">“I got handcuffed and just started crying”: Sudanese student describes US detention</TITLE> 
 </root>

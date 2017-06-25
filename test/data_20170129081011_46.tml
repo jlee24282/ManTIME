@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Skip in Skip 
+<TEXT type="str">Skip in Skip 
 
 x 
 
@@ -10,9 +10,8 @@ x
 
 Share 
 
-Protests flared as President Trump&apos;s executive order blocked refugees from entering U.S. airports, including travelers who already had valid visas. USA TODAY NETWORK</content> 
-<sequenceId type="str">695202118688</sequenceId> 
-<topics type="list"> 
+Protests flared as President Trump&apos;s executive order blocked refugees from entering U.S. airports, including travelers who already had valid visas. USA TODAY NETWORK</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -33,7 +32,8 @@ Protests flared as President Trump&apos;s executive order blocked refugees from 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:27Z</estimatedPublishedDate> 
-<title type="str">Protests erupt at U.S. airports over refugee banJan 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695202118688</DOCID> 
+<DCT type="str">2017-01-29T08:11:27Z</DCT> 
+<TITLE type="str">Protests erupt at U.S. airports over refugee banJan 29, 2017</TITLE> 
 </root>

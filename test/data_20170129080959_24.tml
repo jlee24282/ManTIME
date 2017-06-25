@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">| News Source: L.A. Times - Africa   
+<TEXT type="str">| News Source: L.A. Times - Africa   
 At least seven people, all of whom either hold green cards or U.S. visas, were being detained at Los Angeles International Airport on Saturday night as a result of a controversial executive order signed by President Trump, and two people may have been deported. 
  
 As activists scrambled to fight for... 
  
-Original URL: Click here to visit original article</content> 
-<sequenceId type="str">695201600641</sequenceId> 
-<topics type="list"> 
+Original URL: Click here to visit original article</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -16,7 +15,8 @@ Original URL: Click here to visit original article</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:33Z</estimatedPublishedDate> 
-<title type="str">At least seven detainees are held at LAX as protesters rail against Trump’s ban</title> 
+</TOPICS> 
+<DOCID type="str">695201600641</DOCID> 
+<DCT type="str">2017-01-29T08:07:33Z</DCT> 
+<TITLE type="str">At least seven detainees are held at LAX as protesters rail against Trump’s ban</TITLE> 
 </root>

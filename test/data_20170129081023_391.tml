@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Buying an EV should mean a lower cost of maintenance. True or false? 
+<TEXT type="str">Buying an EV should mean a lower cost of maintenance. True or false? 
  
 
  
@@ -39,9 +39,8 @@ Making the cost comparison more difficult is that Toyota includes maintenance fo
 The very high costs Tesla charges for maintenance and the surprisingly high costs of the Leaf Consumer Reports discovered offer a lesson for EV shoppers: Don’t assume automakers will actually charge you less to maintain an EV, regardless of what the theoretical cost should be. Ask the dealer you buy your EV from what they charge to maintain the vehicle before you commit. If they offer you the line that “Skipping the maintenance will not void your warranty” that may sound attractive. Setting aside why it is necessary if that is the case, remember that when you go to trade your EV at some future point yours will be the one for sale with “No maintenance records available.” 
  
 Shopping for a new or used EV? Start your search right here at BestRide. 
-  Related Posts</content> 
-<sequenceId type="str">695202747201</sequenceId> 
-<topics type="list"> 
+  Related Posts</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -66,7 +65,8 @@ Shopping for a new or used EV? Start your search right here at BestRide.
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: motoring news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:17Z</estimatedPublishedDate> 
-<title type="str">Electric Vehicle Buyer&apos;s Guide: Will Maintenance Cost Less Than A Gasoline-Powered Green Car?</title> 
+</TOPICS> 
+<DOCID type="str">695202747201</DOCID> 
+<DCT type="str">2017-01-29T08:16:17Z</DCT> 
+<TITLE type="str">Electric Vehicle Buyer&apos;s Guide: Will Maintenance Cost Less Than A Gasoline-Powered Green Car?</TITLE> 
 </root>

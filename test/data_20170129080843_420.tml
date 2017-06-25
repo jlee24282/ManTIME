@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 8:17 pm 
+<TEXT type="str">, 8:17 pm 
   
   Queenstown. Photo:   
   
@@ -18,14 +18,14 @@ Sasa Jojic is the company&apos;s operations manager. He has made more than 29,00
 
 The company will be operating again on Monday, weather permitting. 
 
-FIND out what people are saying about this story on our</content> 
-<sequenceId type="str">695198904159</sequenceId> 
-<topics type="list"> 
+FIND out what people are saying about this story on our</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: extreme sports news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:48Z</estimatedPublishedDate> 
-<title type="str">Injured Queenstown skydiver &apos;has made more than 29,000 jumps&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695198904159</DOCID> 
+<DCT type="str">2017-01-29T07:47:48Z</DCT> 
+<TITLE type="str">Injured Queenstown skydiver &apos;has made more than 29,000 jumps&apos;</TITLE> 
 </root>

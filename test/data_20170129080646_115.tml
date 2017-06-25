@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This is (almost) my last column. It marks 40 years of deadlines, 36 in national syndication. That’s more than 5,000 columns and more than 3.5 million words. It’s the equivalent of 44 books, or six tomes the size of War and Peace . 
+<TEXT type="str">This is (almost) my last column. It marks 40 years of deadlines, 36 in national syndication. That’s more than 5,000 columns and more than 3.5 million words. It’s the equivalent of 44 books, or six tomes the size of War and Peace . 
  
 It has been a wonderful run, and I couldn’t have done it without you. 
  
@@ -46,14 +46,14 @@ SCOTT BURNS is a principal of the Plano-based investment firm AssetBuilder Inc.
  
 SCOTT BURNS is a principal of the Plano-based investment firm AssetBuilder Inc. 
  
-— Andrews McMeelSyndication</content> 
-<sequenceId type="str">695194341928</sequenceId> 
-<topics type="list"> 
+— Andrews McMeelSyndication</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:39Z</estimatedPublishedDate> 
-<title type="str">Scott Burns: Loyal readers made wonderful run possible</title> 
+</TOPICS> 
+<DOCID type="str">695194341928</DOCID> 
+<DCT type="str">2017-01-29T07:14:39Z</DCT> 
+<TITLE type="str">Scott Burns: Loyal readers made wonderful run possible</TITLE> 
 </root>

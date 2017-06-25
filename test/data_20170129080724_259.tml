@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Surveying his sprawling car dealership on the fringes of Benin’s commercial hub Cotonou, Kassem Hijazi alternates between chainsmoking Marlboro cigarettes and puffing on a hookah. 
+<TEXT type="str">Surveying his sprawling car dealership on the fringes of Benin’s commercial hub Cotonou, Kassem Hijazi alternates between chainsmoking Marlboro cigarettes and puffing on a hookah. 
  
 He and his colleagues don’t have much else to do. There hasn’t been a single customer since December, when neighbouring Nigeria banned car imports by land as part of a wave of protectionist policies that are strangling Benin’s economy. 
  
@@ -58,9 +58,8 @@ Yet now he can’t pay any wages. “In Cotonou, they tax 35 percent of the valu
  
 Ultimately, it may only be the Nigerian government who benefits from the import ban. 
  
-In 2016, customs seized 307 contraband vehicles, worth nearly 5 billion naira (about 15 million euros). The figure is expected to rise in 2</content> 
-<sequenceId type="str">695195856029</sequenceId> 
-<topics type="list"> 
+In 2016, customs seized 307 contraband vehicles, worth nearly 5 billion naira (about 15 million euros). The figure is expected to rise in 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -77,7 +76,8 @@ In 2016, customs seized 307 contraband vehicles, worth nearly 5 billion naira (a
 <group type="str">Regional</group> 
 <name type="str">Benin news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:41Z</estimatedPublishedDate> 
-<title type="str">Benin hit by neighbouring Nigeria’s car import ban</title> 
+</TOPICS> 
+<DOCID type="str">695195856029</DOCID> 
+<DCT type="str">2017-01-29T07:23:41Z</DCT> 
+<TITLE type="str">Benin hit by neighbouring Nigeria’s car import ban</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">India Inc wants Finance Minister Arun Jaitley to slash corporate income tax rate, incentivise digital transactions, introduce radical steps to reduce litigation and strengthen dispute resolution mechanism in the forthcoming Budget to be unveiled on February 1.</content> 
-<sequenceId type="str">695195888747</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">India Inc wants Finance Minister Arun Jaitley to slash corporate income tax rate, incentivise digital transactions, introduce radical steps to reduce litigation and strengthen dispute resolution mechanism in the forthcoming Budget to be unveiled on February 1.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -31,7 +30,8 @@
 <group type="str">Society</group> 
 <name type="str">Economics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:15Z</estimatedPublishedDate> 
-<title type="str">Budget 2017: India Inc pitches for lower tax rates</title> 
+</TOPICS> 
+<DOCID type="str">695195888747</DOCID> 
+<DCT type="str">2017-01-29T07:16:15Z</DCT> 
+<TITLE type="str">Budget 2017: India Inc pitches for lower tax rates</TITLE> 
 </root>

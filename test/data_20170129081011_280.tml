@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Federal Judge in New York on Saturday night granted a stay order on President Donald Trump’s executive order temporarily restricting entry to the U.S.</content> 
-<sequenceId type="str">695202357353</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A Federal Judge in New York on Saturday night granted a stay order on President Donald Trump’s executive order temporarily restricting entry to the U.S.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:23Z</estimatedPublishedDate> 
-<title type="str">Donald Trump: Judge grants stay against U.S president&apos;s Refugee Order</title> 
+</TOPICS> 
+<DOCID type="str">695202357353</DOCID> 
+<DCT type="str">2017-01-29T08:12:23Z</DCT> 
+<TITLE type="str">Donald Trump: Judge grants stay against U.S president&apos;s Refugee Order</TITLE> 
 </root>

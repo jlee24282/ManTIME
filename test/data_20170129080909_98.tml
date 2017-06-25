@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump on Friday put a four-month hold on allowing refugees into the United States and temporarily barred visitors from Syria and six other Muslim-majority countries, saying the moves would help protect Americans from terrorist attacks. 
+<TEXT type="str">President Donald Trump on Friday put a four-month hold on allowing refugees into the United States and temporarily barred visitors from Syria and six other Muslim-majority countries, saying the moves would help protect Americans from terrorist attacks. 
 
 The order limiting entry on visitors from Syria and six other Muslim-majority countries is for 90 days. The six other countries are: Iran, Iraq, Libya, Somalia, Sudan and Yemen, the White House said.
 
@@ -32,9 +32,8 @@ But Peter Spiro, a professor at Temple University Beasley School of Law, said Tr
 
 Trump&apos;s order had been expected to include a directive about setting up &quot;safe zones&quot; for Syrian refugees inside the country, but no such language was included.
 
-&quot;President Trump has cloaked what is a discriminatory ban against nationals of Muslim countries under the banner of national security,&quot; said Greg Chen of the American Immigration Lawyers Association.</content> 
-<sequenceId type="str">695199746800</sequenceId> 
-<topics type="list"> 
+&quot;President Trump has cloaked what is a discriminatory ban against nationals of Muslim countries under the banner of national security,&quot; said Greg Chen of the American Immigration Lawyers Association.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -51,7 +50,8 @@ Trump&apos;s order had been expected to include a directive about setting up &qu
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:54:16Z</estimatedPublishedDate> 
-<title type="str">Trump suspends U.S. refugee program</title> 
+</TOPICS> 
+<DOCID type="str">695199746800</DOCID> 
+<DCT type="str">2017-01-29T07:54:16Z</DCT> 
+<TITLE type="str">Trump suspends U.S. refugee program</TITLE> 
 </root>

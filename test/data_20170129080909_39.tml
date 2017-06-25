@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Life after Arsene Wenger 
+<TEXT type="str">Life after Arsene Wenger 
 
 Can the Sunday Express be trusted
 
@@ -46,9 +46,8 @@ The Sun have recently tabled a similar story while Allegri has confirmed he is t
 
  
 
-So will this make Arsenal fans happy Or will they start complaining that they want Diego Simeone instead</content> 
-<sequenceId type="str">695199711574</sequenceId> 
-<topics type="list"> 
+So will this make Arsenal fans happy Or will they start complaining that they want Diego Simeone instead</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -61,7 +60,8 @@ So will this make Arsenal fans happy Or will they start complaining that they wa
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:57Z</estimatedPublishedDate> 
-<title type="str">Revealed: Wenger will leave Arsenal in 2017, talks start with top Serie A boss</title> 
+</TOPICS> 
+<DOCID type="str">695199711574</DOCID> 
+<DCT type="str">2017-01-29T07:53:57Z</DCT> 
+<TITLE type="str">Revealed: Wenger will leave Arsenal in 2017, talks start with top Serie A boss</TITLE> 
 </root>

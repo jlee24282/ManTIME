@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A prominent Melbourne Muslim restaurateur has labelled US President Donald Trump&apos;s 90-day visa ban on residents from seven Muslim-majority nations as amounting to tyranny and bigotry. 
+<TEXT type="str">A prominent Melbourne Muslim restaurateur has labelled US President Donald Trump&apos;s 90-day visa ban on residents from seven Muslim-majority nations as amounting to tyranny and bigotry. 
 
 Hana Assafiri​ described the move as a &quot;war&quot; against Muslims, and that human rights were being scaled back, which was &quot;scary&quot;. 
 
@@ -68,9 +68,8 @@ He described the ban as &quot;appalling&quot; and ignorant of the human toll. 
 
 He said it would cause families to be split. He likened it to Saddam Hussein&apos;s deporting and excluding of Iranians, &quot;regardless of their current citizenship or nationality&quot;. 
 
-&quot;There is no evidence that it will bring security [for the US] or save lives or really make a change,&quot; he said. &quot;It only affects normal people with their normal lives.&quot;</content> 
-<sequenceId type="str">695198412965</sequenceId> 
-<topics type="list"> 
+&quot;There is no evidence that it will bring security [for the US] or save lives or really make a change,&quot; he said. &quot;It only affects normal people with their normal lives.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Morocco news</name> 
@@ -99,7 +98,8 @@ He said it would cause families to be split. He likened it to Saddam Hussein&apo
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T19:34:02Z</estimatedPublishedDate> 
-<title type="str">Prominent Melbourne Muslim irate at Trump US visa ban</title> 
+</TOPICS> 
+<DOCID type="str">695198412965</DOCID> 
+<DCT type="str">2017-01-28T19:34:02Z</DCT> 
+<TITLE type="str">Prominent Melbourne Muslim irate at Trump US visa ban</TITLE> 
 </root>

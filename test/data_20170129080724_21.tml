@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A search is under way for 31 people, including 28 tourists from China, after the vessel they were in was reported missing while on a journey from Sabah to Pulau Mengalum on Saturday, the first day of Chinese New Year. 
+<TEXT type="str">A search is under way for 31 people, including 28 tourists from China, after the vessel they were in was reported missing while on a journey from Sabah to Pulau Mengalum on Saturday, the first day of Chinese New Year. 
 
 A Malaysian Maritime Enforcement Agency (MMEA) official said the catamaran with the tourists, a skipper and two crewmen had departed from a jetty in Tanjung Aru at about 9am to Pulau Mengalum, about 30km west of Kota Kinabalu. 
 
@@ -8,9 +8,8 @@ The catamaran owner alerted authorities on Saturday night that it had not reache
 
 The official said a search and rescue effort has been mounted involving an area of some 400 sq miles involving MMEA as well as navy vessels. 
 
-84 killed and 3 missing in South Korea&apos;s Typhoon Chaba: Scary video shows tsunami-like storm striking Busan</content> 
-<sequenceId type="str">695195607370</sequenceId> 
-<topics type="list"> 
+84 killed and 3 missing in South Korea&apos;s Typhoon Chaba: Scary video shows tsunami-like storm striking Busan</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -27,7 +26,8 @@ The official said a search and rescue effort has been mounted involving an area 
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:23Z</estimatedPublishedDate> 
-<title type="str">Boat with 31 people on board missing off Sabah island: 28 are Chinese tourists</title> 
+</TOPICS> 
+<DOCID type="str">695195607370</DOCID> 
+<DCT type="str">2017-01-29T07:23:23Z</DCT> 
+<TITLE type="str">Boat with 31 people on board missing off Sabah island: 28 are Chinese tourists</TITLE> 
 </root>

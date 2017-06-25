@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FOR many, ex-HMAS Tobruk is simply a tourist attraction - a beacon drawing thousands to our region each year.
+<TEXT type="str">FOR many, ex-HMAS Tobruk is simply a tourist attraction - a beacon drawing thousands to our region each year.
 
 But for the men and women who served aboard her, she&apos;s much more. 
 
@@ -38,9 +38,8 @@ Mr Mulder, who hails from Mackay, says he is delighted Ex-HMAS Tobruk is now goi
 
 &quot;A lot of them wanted to laugh about it and show the tougher side, but when you got deep down a lot of them acknowledged how important the ex-HMAS Tobruk was to the service and the defence of our country,” he said.
 
-GALLERY: Ex-HMAS Tobruk comes to Bundy</content> 
-<sequenceId type="str">695203132324</sequenceId> 
-<topics type="list"> 
+GALLERY: Ex-HMAS Tobruk comes to Bundy</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -49,7 +48,8 @@ GALLERY: Ex-HMAS Tobruk comes to Bundy</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:38:36Z</estimatedPublishedDate> 
-<title type="str">Tobruk drawing a crowd already</title> 
+</TOPICS> 
+<DOCID type="str">695203132324</DOCID> 
+<DCT type="str">2017-01-29T03:38:36Z</DCT> 
+<TITLE type="str">Tobruk drawing a crowd already</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Nobody likes to lose. But what’s even worse than losing is losing without a fight. 
+<TEXT type="str">Nobody likes to lose. But what’s even worse than losing is losing without a fight. 
  
 This was all too painfully evident in Team Pakistan’s 1-4 thrashing by Australia in the ODI series. Just before that, Pakistan were clean swept in the three-match Test series by the Aussies. A few weeks prior to that, the Green Shirts were also whitewashed by New Zealand in Tests. 
  
@@ -41,9 +41,8 @@ But the more important question is, why hasn’t this been done already? And if 
  
 It’s time for some tough questions, and it’s also time for accountability. Pakistan are already on the edge of losing out on direct qualification for the next World Cup, and these questions need to be answered soon enough. 
  
-The writer is a producer at Geo.TV and tweets @Mariaa_54</content> 
-<sequenceId type="str">695195785810</sequenceId> 
-<topics type="list"> 
+The writer is a producer at Geo.TV and tweets @Mariaa_54</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -56,7 +55,8 @@ The writer is a producer at Geo.TV and tweets @Mariaa_54</content>
 <group type="str">Regional</group> 
 <name type="str">Pakistan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:07Z</estimatedPublishedDate> 
-<title type="str">Did no one tell Pakistan ‘catches win matches’?</title> 
+</TOPICS> 
+<DOCID type="str">695195785810</DOCID> 
+<DCT type="str">2017-01-29T07:12:07Z</DCT> 
+<TITLE type="str">Did no one tell Pakistan ‘catches win matches’?</TITLE> 
 </root>

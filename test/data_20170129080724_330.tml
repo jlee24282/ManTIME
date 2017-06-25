@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Kings are firmly back in the playoff picture after Sunday&apos;s comprehensive 84-57 trouncing of the New Zealand Breakers in Sydney.
+<TEXT type="str">The Kings are firmly back in the playoff picture after Sunday&apos;s comprehensive 84-57 trouncing of the New Zealand Breakers in Sydney.
 
 Sydney&apos;s win followed Friday night&apos;s road victory over Brisbane and boosted their record to 13-13 with two games remaining.
 
@@ -24,9 +24,8 @@ He had to be restrained by teammates and then received a third technical foul th
 
 The Kings held an unassailable 32-point lead at three-quarter time, allowing coach Andrew Gaze to empty his bench and rest some of his stars.
 
-Sydney&apos;s next game is at home on Saturday against Melbourne United, while the Breakers are away on the same day to the Adelaide 36ers.</content> 
-<sequenceId type="str">695195901803</sequenceId> 
-<topics type="list"> 
+Sydney&apos;s next game is at home on Saturday against Melbourne United, while the Breakers are away on the same day to the Adelaide 36ers.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Sacramento Kings news</name> 
@@ -43,7 +42,8 @@ Sydney&apos;s next game is at home on Saturday against Melbourne United, while t
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:40Z</estimatedPublishedDate> 
-<title type="str">NBL: Kings crush NZ Breakers by 27</title> 
+</TOPICS> 
+<DOCID type="str">695195901803</DOCID> 
+<DCT type="str">2017-01-29T07:25:40Z</DCT> 
+<TITLE type="str">NBL: Kings crush NZ Breakers by 27</TITLE> 
 </root>

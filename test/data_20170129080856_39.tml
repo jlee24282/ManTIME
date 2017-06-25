@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tweet on Twitter 
+<TEXT type="str">Tweet on Twitter 
          
 Google CEO, Sundar Pichai 
   
@@ -13,9 +13,8 @@ Read More….. Guardian Newspapers
 Facebook 
   
 Twitter 
-      Previous article Find out why snoring is as bad as you think  Next article Supporting Buhari was a serious mistake — Fawehinmi</content> 
-<sequenceId type="str">695199140291</sequenceId> 
-<topics type="list"> 
+      Previous article Find out why snoring is as bad as you think  Next article Supporting Buhari was a serious mistake — Fawehinmi</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -44,7 +43,8 @@ Twitter
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:39Z</estimatedPublishedDate> 
-<title type="str">Google, Facebook show tech dismay on Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695199140291</DOCID> 
+<DCT type="str">2017-01-29T07:44:39Z</DCT> 
+<TITLE type="str">Google, Facebook show tech dismay on Trump immigration order</TITLE> 
 </root>

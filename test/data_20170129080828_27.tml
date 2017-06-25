@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As part of their planned activities, the Food and Drugs Authority (FDA) would monitor palm oil used for cooking in schools in the eastern region to ensure its safety for consumption. 
+<TEXT type="str">As part of their planned activities, the Food and Drugs Authority (FDA) would monitor palm oil used for cooking in schools in the eastern region to ensure its safety for consumption. 
 
 Similar News 
 
 ; 
 
-Ne</content> 
-<sequenceId type="str">695197843106</sequenceId> 
-<topics type="list"> 
+Ne</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -17,7 +16,8 @@ Ne</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:11Z</estimatedPublishedDate> 
-<title type="str">FDA to monitor palm oil use in schools</title> 
+</TOPICS> 
+<DOCID type="str">695197843106</DOCID> 
+<DCT type="str">2017-01-29T07:40:11Z</DCT> 
+<TITLE type="str">FDA to monitor palm oil use in schools</TITLE> 
 </root>

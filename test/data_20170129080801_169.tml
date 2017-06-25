@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A look at what is happening: 
+<TEXT type="str">A look at what is happening: 
    
 Cries of &quot;Let them in!&quot; rose up from a crowd of more than 2,000 people protesting at John F. Kennedy Airport, where 12 refugees were detained Saturday. Celebrities including &quot;Sex and the City&quot; actress Cynthia Nixon joined the demonstration. &quot;What Donald Trump did in the last 24 hours is disgusting, disgraceful and completely un-American and I&apos;m here in protest,&quot; said protester Pamela French. The agency that runs the airport tried to restore order by shutting down the train that runs to airport terminals. Gov. Andrew Cuomo, a Democrat, reversed that decision, saying people had a right to protest. &quot;The people of New York will have their voices heard,&quot; he said in a statement. 
    
@@ -62,9 +62,8 @@ SAN FRANCISCO
    
 Hundreds of protesters blocked the street outside at San Francisco International Airport&apos;s international terminal to express their opposition to the barring of some people from Muslim-majority nations. 
    
-As motorists honked their support, demonstrators outside San Diego International Airport chanted &quot;No hate, no fear, everyone is welcome here.&quot;</content> 
-<sequenceId type="str">695197060073</sequenceId> 
-<topics type="list"> 
+As motorists honked their support, demonstrators outside San Diego International Airport chanted &quot;No hate, no fear, everyone is welcome here.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -85,7 +84,8 @@ As motorists honked their support, demonstrators outside San Diego International
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:30Z</estimatedPublishedDate> 
-<title type="str">Protests erupt at airports following Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695197060073</DOCID> 
+<DCT type="str">2017-01-29T07:34:30Z</DCT> 
+<TITLE type="str">Protests erupt at airports following Trump travel ban</TITLE> 
 </root>

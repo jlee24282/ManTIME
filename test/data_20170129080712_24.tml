@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">There are nearly 20 chief executives and prominent business leaders signed up to advise President Donald Trump. But only Tesla CEO Elon Musk and Uber CEO Travis Kalanick have so far had the gumption to speak out against the president’s executive order blocking refugees and citizens of seven Muslim-majority countries from entering the U.S. 
+<TEXT type="str">There are nearly 20 chief executives and prominent business leaders signed up to advise President Donald Trump. But only Tesla CEO Elon Musk and Uber CEO Travis Kalanick have so far had the gumption to speak out against the president’s executive order blocking refugees and citizens of seven Muslim-majority countries from entering the U.S. 
  
 The order, issued Friday, sparked protests at airports across the nation. By Saturday, a federal judge in Brooklyn had temporarily blocked parts of it. 
  
@@ -62,9 +62,8 @@ Also on Saturday, Google recalled staff to the U.S. because of the Trump order. 
  
 Sign up for the HuffPost Must Reads newsletter. Each Sunday, we will bring you the best original reporting, long form writing and breaking news from The Huffington Post and around the web, plus behind-the-scenes looks at how it’s all made. Click here to sign up! 
  
--- This feed and its contents are the property of The Huffington Post, and use is subject to our terms. It may be used for personal consumption, but may not be distributed on a website.</content> 
-<sequenceId type="str">695194985862</sequenceId> 
-<topics type="list"> 
+-- This feed and its contents are the property of The Huffington Post, and use is subject to our terms. It may be used for personal consumption, but may not be distributed on a website.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
@@ -81,7 +80,8 @@ Sign up for the HuffPost Must Reads newsletter. Each Sunday, we will bring you t
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:53Z</estimatedPublishedDate> 
-<title type="str">Just 2 Of Trump&apos;s 19 CEO Advisers Publicly Condemn Order Targeting Muslims</title> 
+</TOPICS> 
+<DOCID type="str">695194985862</DOCID> 
+<DCT type="str">2017-01-29T07:19:53Z</DCT> 
+<TITLE type="str">Just 2 Of Trump&apos;s 19 CEO Advisers Publicly Condemn Order Targeting Muslims</TITLE> 
 </root>

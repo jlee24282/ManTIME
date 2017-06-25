@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Trump is not the first politician to enthusiastically embrace new communication technologies. Lincoln (telegraphy), FDR (radio), and JFK (television) precede the 45th president on that list. 
+<TEXT type="str">President Trump is not the first politician to enthusiastically embrace new communication technologies. Lincoln (telegraphy), FDR (radio), and JFK (television) precede the 45th president on that list. 
 
 In the 18th century, however, it was another medium that allowed partisans to (relatively) quickly and cheaply reach their supporters: the pamphlet. A grisly example of this is the 1763 Conestoga Massacre and ensuing &quot;Paxton Pamphlet War.&quot; 
 
@@ -40,9 +40,8 @@ For him, the contemporary parallels are clear.
 
 &quot;The term elite , weaponized in the 2016 election, figured heavily in the Paxton debate,&quot; said Fenton, while &quot;many pamphleteers stoked debate anonymously, in much the same way that provocateurs hide behind Twitter handles.&quot; 
 
-&quot;In the context of the Brexit vote and the rise of right-wing nationalist movements across the West, [we] would do well to study this incident and to critically engage pamphleteers&apos; zero-sum views of race, class, and cosmopolitanism,&quot; he said.</content> 
-<sequenceId type="str">695201068307</sequenceId> 
-<topics type="list"> 
+&quot;In the context of the Brexit vote and the rise of right-wing nationalist movements across the West, [we] would do well to study this incident and to critically engage pamphleteers&apos; zero-sum views of race, class, and cosmopolitanism,&quot; he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Delaware Valley news</name> 
@@ -55,7 +54,8 @@ For him, the contemporary parallels are clear.
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">When pamphlets were media of choice</title> 
+</TOPICS> 
+<DOCID type="str">695201068307</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">When pamphlets were media of choice</TITLE> 
 </root>

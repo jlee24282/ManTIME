@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arsenal&apos;s Theo Walcott celebrates scoring their fifth goal against Southampton and completing his hat trick with teammates. (Reuters) 
+<TEXT type="str">Arsenal&apos;s Theo Walcott celebrates scoring their fifth goal against Southampton and completing his hat trick with teammates. (Reuters) 
  
 Arsenal have made it comfortably through to the last 16 of the FA Cup, following a 5-nil victory against League Cup finalists Southampton with Theo Walcott scoring a hat-trick to go with Danny Welbeck’s first-half brace. 
  
@@ -14,9 +14,8 @@ The 26-year-old striker then set up Walcott who gave Arsenal a 3-nil lead before
  
 
  
-The Gunners, with manager Arsene Wenger watching from the stands due to a touchline ban, kept pressing for more goals after the break, and it paid off as Walcott completed his treble to help his side outclass Southampton at St Mary&apos;s.</content> 
-<sequenceId type="str">695202259279</sequenceId> 
-<topics type="list"> 
+The Gunners, with manager Arsene Wenger watching from the stands due to a touchline ban, kept pressing for more goals after the break, and it paid off as Walcott completed his treble to help his side outclass Southampton at St Mary&apos;s.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -29,7 +28,8 @@ The Gunners, with manager Arsene Wenger watching from the stands due to a touchl
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:38Z</estimatedPublishedDate> 
-<title type="str">FA Cup: Arsenal beat Southampton 5-0</title> 
+</TOPICS> 
+<DOCID type="str">695202259279</DOCID> 
+<DCT type="str">2017-01-29T08:12:38Z</DCT> 
+<TITLE type="str">FA Cup: Arsenal beat Southampton 5-0</TITLE> 
 </root>

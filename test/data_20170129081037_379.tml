@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January 29, 2017, 9:19 am 
+<TEXT type="str">January 29, 2017, 9:19 am 
     
 EPA Board Chairman, Sheikh Abdullah Ahmad Al-Humoud Al-Sabah during plants distribution. 
   
@@ -32,9 +32,8 @@ Useful Links
   
 Photo Gallery 
   
-Local...</content> 
-<sequenceId type="str">695203148464</sequenceId> 
-<topics type="list"> 
+Local...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
@@ -43,7 +42,8 @@ Local...</content>
 <group type="str">Regional</group> 
 <name type="str">Kuwait news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:13Z</estimatedPublishedDate> 
-<title type="str">Two Kuwaiti authorities join hands in beautifying Kuwait</title> 
+</TOPICS> 
+<DOCID type="str">695203148464</DOCID> 
+<DCT type="str">2017-01-29T08:19:13Z</DCT> 
+<TITLE type="str">Two Kuwaiti authorities join hands in beautifying Kuwait</TITLE> 
 </root>

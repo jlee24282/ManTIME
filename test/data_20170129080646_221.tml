@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump and Vladimir Putin of Russia have made a &quot;significant start&quot; in fixing their countries&apos; relationship, while agreeing to cooperate in fighting the Islamic State of Iraq and the Levant group. 
+<TEXT type="str">US President Donald Trump and Vladimir Putin of Russia have made a &quot;significant start&quot; in fixing their countries&apos; relationship, while agreeing to cooperate in fighting the Islamic State of Iraq and the Levant group. 
 
 It was Trump&apos;s first phone conversation with the Russian President since his inauguration, and it covered topics ranging from cooperation in defeating ISIL &quot;to efforts in working together to achieve more peace throughout the world including Syria,&quot; said a Kremlin summary of the phone call. 
 
@@ -14,9 +14,8 @@ US relations with Russia were strained during President Barack Obama&apos;s term
 
 The US and Russia have also been at odds over Syria, where Russia has provided extensive military support for its ally, President Bashar al-Assad. 
 
-Since Trump&apos;s victory, Putin has praised the US leader and his policies.</content> 
-<sequenceId type="str">695194390211</sequenceId> 
-<topics type="list"> 
+Since Trump&apos;s victory, Putin has praised the US leader and his policies.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -29,7 +28,8 @@ Since Trump&apos;s victory, Putin has praised the US leader and his policies.</c
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:09:22Z</estimatedPublishedDate> 
-<title type="str">What Donald Trump Discussed With Putin On Phone</title> 
+</TOPICS> 
+<DOCID type="str">695194390211</DOCID> 
+<DCT type="str">2017-01-29T07:09:22Z</DCT> 
+<TITLE type="str">What Donald Trump Discussed With Putin On Phone</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">America’s immigration system has been plunged into chaos and confusion in the wake of strict travel restrictions on people from seven Muslim-majority nations. 
+<TEXT type="str">America’s immigration system has been plunged into chaos and confusion in the wake of strict travel restrictions on people from seven Muslim-majority nations. 
  
 
  
@@ -50,9 +50,8 @@ Google has urged its employees from the seven countries affected to cancel any t
  
 The impact on foreign students is also unclear. Figures from the Homeland Security Department suggest that 17,000 students from the blacklisted countries were allowed into the US in 2015/16. 
   http://video.news.sky.com/video/h264/vod/700/2017/01/DIG060606SUTRUMPREFUGEEVT1485670229935700.mp4 
-(c) Sky News 2017: skynews</content> 
-<sequenceId type="str">695201362731</sequenceId> 
-<topics type="list"> 
+(c) Sky News 2017: skynews</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -65,7 +64,8 @@ The impact on foreign students is also unclear. Figures from the Homeland Securi
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Trump’s immigration ban sparks ‘chaos and cruelty’ worldwide</title> 
+</TOPICS> 
+<DOCID type="str">695201362731</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Trump’s immigration ban sparks ‘chaos and cruelty’ worldwide</TITLE> 
 </root>

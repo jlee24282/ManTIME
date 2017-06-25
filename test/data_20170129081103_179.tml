@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">UAAP  
+<TEXT type="str">UAAP  
 By Mark Escarlote on Jan 29, 2017 11:06 AM 
      
 Are the University of Sto. Tomas Tigresses ripe enough to bring back their lost glory? 
@@ -41,9 +41,8 @@ Rondina and UST will be tested on February 4 against Season 78 runner up Ateneo 
  
 --- 
  
-Follow this writer on Twitter, @fromtheriles</content> 
-<sequenceId type="str">695203885382</sequenceId> 
-<topics type="list"> 
+Follow this writer on Twitter, @fromtheriles</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -52,7 +51,8 @@ Follow this writer on Twitter, @fromtheriles</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: volleyball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:50Z</estimatedPublishedDate> 
-<title type="str">UAAP - Volleyball UST Tigresses: Confident to hunt for glory</title> 
+</TOPICS> 
+<DOCID type="str">695203885382</DOCID> 
+<DCT type="str">2017-01-29T08:24:50Z</DCT> 
+<TITLE type="str">UAAP - Volleyball UST Tigresses: Confident to hunt for glory</TITLE> 
 </root>

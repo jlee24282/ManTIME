@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IANS 
+<TEXT type="str">IANS 
  
 Washington, Jan 29 (IANS) Several Muslim majority nations where the Trump Organisation is active and which in some cases have faced troublesome issues with terrorism, do not figure in the list of the countries whose citizens were banned from entering the US. 
  
@@ -43,9 +43,8 @@ The reproduction of the story/photograph in any form will be liable for legal ac
  
 For news, views and gossips, follow @IANSLIVE at Twitter . Find us on Facebook too! 
  
-Update: 29-January-2</content> 
-<sequenceId type="str">695200776019</sequenceId> 
-<topics type="list"> 
+Update: 29-January-2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
@@ -62,7 +61,8 @@ Update: 29-January-2</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:14Z</estimatedPublishedDate> 
-<title type="str">Trump ban excludes Muslim countries where he does business</title> 
+</TOPICS> 
+<DOCID type="str">695200776019</DOCID> 
+<DCT type="str">2017-01-29T08:02:14Z</DCT> 
+<TITLE type="str">Trump ban excludes Muslim countries where he does business</TITLE> 
 </root>

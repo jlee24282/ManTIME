@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As you probably know, President Donald Trump has declared war on &quot;regulations.&quot; There seems, however, to be some misinformation here and some irony. On the misinformation front, contrary to what you might have concluded from campaign rhetoric, &quot;regulations&quot; don&apos;t just come into existence at the whim of a president. They start with Congress. 
+<TEXT type="str">As you probably know, President Donald Trump has declared war on &quot;regulations.&quot; There seems, however, to be some misinformation here and some irony. On the misinformation front, contrary to what you might have concluded from campaign rhetoric, &quot;regulations&quot; don&apos;t just come into existence at the whim of a president. They start with Congress. 
  
 The term &quot;regulation&quot; is often used incorrectly to refer to an actual statute passed by Congress - for example, the Affordable Care Act. The term is correctly used to refer to rules created by government agencies implementing statutes passed by Congress - for example, Regulation B, implementing the Equal Credit Opportunity Act. 
  
@@ -22,9 +22,8 @@ Colorado and all other states have regulations interpreting and implementing sta
  
 - 
  
-Jim Flynn is a private attorney with Flynn &amp; Wright LLC in Colorado Springs. Contact him at moneylaw@jtflynn.com.</content> 
-<sequenceId type="str">695194027604</sequenceId> 
-<topics type="list"> 
+Jim Flynn is a private attorney with Flynn &amp; Wright LLC in Colorado Springs. Contact him at moneylaw@jtflynn.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -45,7 +44,8 @@ Jim Flynn is a private attorney with Flynn &amp; Wright LLC in Colorado Springs.
 <group type="str">Business</group> 
 <name type="str">Regulatory news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T16:57:53Z</estimatedPublishedDate> 
-<title type="str">Jim Flynn: Trump&apos;s war on regulations leads back to Congress</title> 
+</TOPICS> 
+<DOCID type="str">695194027604</DOCID> 
+<DCT type="str">2017-01-28T16:57:53Z</DCT> 
+<TITLE type="str">Jim Flynn: Trump&apos;s war on regulations leads back to Congress</TITLE> 
 </root>

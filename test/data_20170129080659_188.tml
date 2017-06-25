@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Vintage car on street, close-up 
+<TEXT type="str">Vintage car on street, close-up 
   
    
 A bald eagle flys over a the Colorado River near Glenwood Springs.The bald eagle is the national bird of the United States of America. On June 20, 1782, the Continental Congress adopted the design for the Great Seal of the United States depicting a bald eagle grasping 13 arrows and an olive branch with its talons. 
@@ -173,9 +173,8 @@ No timetable was revealed.
  
 “The Devil Wears Prada” began as a best-selling novel by Lauren Weisberger, inspired by the author’s own experiences working as an assistant for Vogue magazine Editor Anna Wintour. It was adapted into a hit film starring Meryl Streep and Anne Hathaway. 
  
-The new musical will be produced by McCollum, Fox Stage Productions and Rocket Entertainment. It’s part of a big new push by movie studios to adapt films for the stage, including “Mrs. Doubtfire.”</content> 
-<sequenceId type="str">695194749107</sequenceId> 
-<topics type="list"> 
+The new musical will be produced by McCollum, Fox Stage Productions and Rocket Entertainment. It’s part of a big new push by movie studios to adapt films for the stage, including “Mrs. Doubtfire.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Las Vegas news</name> 
@@ -184,7 +183,8 @@ The new musical will be produced by McCollum, Fox Stage Productions and Rocket E
 <group type="str">Regional</group> 
 <name type="str">Cuba news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:48:00Z</estimatedPublishedDate> 
-<title type="str">Weekly Calendar, Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194749107</DOCID> 
+<DCT type="str">2017-01-29T04:48:00Z</DCT> 
+<TITLE type="str">Weekly Calendar, Jan. 29, 2017</TITLE> 
 </root>

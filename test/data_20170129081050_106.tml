@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:08am 
+<TEXT type="str">:08am 
   
 Serena Williams thanked everyone from God to the Australian Open volunteers after winning her record-breaking 23rd Grand Slam title in Melbourne. Well, almost everyone. 
  
@@ -10,9 +10,8 @@ Serena got engaged last month to 33-year-old Ohanian, who is the co-founder of s
  
 ‘I always forget people,’ she said later with a laugh. ‘After 20, 30 years, I’m still forgetting.’ 
  
-Daily Mail</content> 
-<sequenceId type="str">695203299735</sequenceId> 
-<topics type="list"> 
+Daily Mail</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -21,7 +20,8 @@ Daily Mail</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:00Z</estimatedPublishedDate> 
-<title type="str">That&apos;s awkward... did you forget your fiance, Serena?</title> 
+</TOPICS> 
+<DOCID type="str">695203299735</DOCID> 
+<DCT type="str">2017-01-29T08:08:00Z</DCT> 
+<TITLE type="str">That&apos;s awkward... did you forget your fiance, Serena?</TITLE> 
 </root>

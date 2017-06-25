@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The five-storey home has a rooftop bar and entertainment area. 
+<TEXT type="str">The five-storey home has a rooftop bar and entertainment area. 
   
 TOWERING five levels, this mega Mermaid Beach mansion with a rooftop bar and sauna could easily be mistaken for a luxury resort. 
  
@@ -34,9 +34,8 @@ Mr Pasin described the rooftop terrace as the best spot – with room to fit 80 
  
 The residence includes a self-contained, two-bedroom unit with a private courtyard. 
  
-The property is being marketed by Sam Guo and Julia Kuo, Ray White, Broadbeach with an auction set for February 11 at 12pm.</content> 
-<sequenceId type="str">695200721674</sequenceId> 
-<topics type="list"> 
+The property is being marketed by Sam Guo and Julia Kuo, Ray White, Broadbeach with an auction set for February 11 at 12pm.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Hospitality industry news</name> 
@@ -45,7 +44,8 @@ The property is being marketed by Sam Guo and Julia Kuo, Ray White, Broadbeach w
 <group type="str">Industry</group> 
 <name type="str">Real estate news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:00Z</estimatedPublishedDate> 
-<title type="str">A five-level resort-style home is often mistaken as a hotel</title> 
+</TOPICS> 
+<DOCID type="str">695200721674</DOCID> 
+<DCT type="str">2017-01-29T07:41:00Z</DCT> 
+<TITLE type="str">A five-level resort-style home is often mistaken as a hotel</TITLE> 
 </root>

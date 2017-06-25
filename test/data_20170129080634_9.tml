@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SEATAC, WA - A large number of protesters converged on Sea-Tac Airport Saturday night to protest an executive order signed Friday by President Donald Trump that bans immigrants and refugees from the entering the U.S. from seven countries. There were up to 13 people detained or turned away at Sea-Tac due to the executive order, among others at airports across the U.S., according to reports. 
+<TEXT type="str">SEATAC, WA - A large number of protesters converged on Sea-Tac Airport Saturday night to protest an executive order signed Friday by President Donald Trump that bans immigrants and refugees from the entering the U.S. from seven countries. There were up to 13 people detained or turned away at Sea-Tac due to the executive order, among others at airports across the U.S., according to reports. 
  
 Protesters began gathering at the airport around 5 p.m. Saturday, converging at the south end of the arrivals terminal. By 9 p.m., estimates placed the crowd at over 1,000, and they were able to shut down some operations at the airport. 
  More than 1,000 people are still at Seattle-Tacoma airport. Follow @lindseywasson for updates https://t.co/xA5E4ZXkx4  pic.twitter.com/w6h54h4Y6R 
@@ -20,9 +20,8 @@ Earlier on Saturday, there was outrage that some Sound Transit light rail trains
 — Dow Constantine (@kcexec) January 29, 2017  
 Also on Saturday, Gov. Jay Inslee held a press conference at Sea-Tac pushing back on Trump&apos;s order, comparing it to the internment of Japanese Americans during World War II. 
  
-Image via Sea-Tac Airport</content> 
-<sequenceId type="str">695193829185</sequenceId> 
-<topics type="list"> 
+Image via Sea-Tac Airport</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -39,7 +38,8 @@ Image via Sea-Tac Airport</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:19Z</estimatedPublishedDate> 
-<title type="str">More Than 3,000 Protest Trump Executive Order At Sea-Tac Airport</title> 
+</TOPICS> 
+<DOCID type="str">695193829185</DOCID> 
+<DCT type="str">2017-01-29T07:00:19Z</DCT> 
+<TITLE type="str">More Than 3,000 Protest Trump Executive Order At Sea-Tac Airport</TITLE> 
 </root>

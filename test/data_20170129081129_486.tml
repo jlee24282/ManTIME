@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">VATICAN CITY: On the afternoon of Jan. 24, a black BMW pulled out of a 16th century palace in Rome, crossed the Tiber River and headed for the Vatican, a short trip to end a brazen challenge to the authority of Pope Francis. 
+<TEXT type="str">VATICAN CITY: On the afternoon of Jan. 24, a black BMW pulled out of a 16th century palace in Rome, crossed the Tiber River and headed for the Vatican, a short trip to end a brazen challenge to the authority of Pope Francis. 
  
 Inside the car was 67-year-old Englishman Matthew Festing, the head of an ancient Catholic order of knights which is now a worldwide charity with a unique diplomatic status. 
  
@@ -88,9 +88,8 @@ The pope will now appoint a &quot;pontifical delegate&quot; to help run the orde
  
 In a personal letter to the Sovereign Council on Jan. 27 and seen by Reuters, Francis made clear that the Vatican did not want to interfere with the Order&apos;s sovereignty but said his delegate would seek to &quot;renew the spirituality of the Order, specifically of those members who take vows.&quot; 
  
-(Editing by Mark Bendeich, Philippa Fletcher and Alessandra Galloni)</content> 
-<sequenceId type="str">695205085025</sequenceId> 
-<topics type="list"> 
+(Editing by Mark Bendeich, Philippa Fletcher and Alessandra Galloni)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -111,7 +110,8 @@ In a personal letter to the Sovereign Council on Jan. 27 and seen by Reuters, Fr
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:27Z</estimatedPublishedDate> 
-<title type="str">The Knights of Malta-Vatican feud - a tale of chivalry and sovereignty</title> 
+</TOPICS> 
+<DOCID type="str">695205085025</DOCID> 
+<DCT type="str">2017-01-29T08:25:27Z</DCT> 
+<TITLE type="str">The Knights of Malta-Vatican feud - a tale of chivalry and sovereignty</TITLE> 
 </root>

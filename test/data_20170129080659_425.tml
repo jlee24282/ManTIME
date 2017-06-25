@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Crime continues to plague our country and despite the changes in administration every election, no government seems to establish a solution to this problem.
+<TEXT type="str">Crime continues to plague our country and despite the changes in administration every election, no government seems to establish a solution to this problem.
 
 As a result, annually millions of taxpayers monies are used to sanitise the symptoms of this disease and not the root cause. If this cycle continues, then we are no different from an addict satisfying his or her craving for a high fix rather than admitting that he or she has a problem and requires rehabilitation. 
 
@@ -26,9 +26,8 @@ This technique would not only zoom in on the irate children but would provide an
 
 The benefits of this approach can be far-reaching however it requires all stakeholders to be united, from the policy-makers to the man on the streets, each one of us must do our part in saving our country. 
 
-(Editor’s Note: Prof Ramesh Deosaran is off this week.)</content> 
-<sequenceId type="str">695194924155</sequenceId> 
-<topics type="list"> 
+(Editor’s Note: Prof Ramesh Deosaran is off this week.)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ The benefits of this approach can be far-reaching however it requires all stakeh
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:20Z</estimatedPublishedDate> 
-<title type="str">TT needs rehab</title> 
+</TOPICS> 
+<DOCID type="str">695194924155</DOCID> 
+<DCT type="str">2017-01-29T07:19:20Z</DCT> 
+<TITLE type="str">TT needs rehab</TITLE> 
 </root>

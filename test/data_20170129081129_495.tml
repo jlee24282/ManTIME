@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Designed to maximise privacy. 
+<TEXT type="str">Designed to maximise privacy. 
   
 SITTING in a tree and getting a bird’s eye view of your property is one way to go about planning how you will design your future home. 
  
@@ -48,9 +48,8 @@ Mr MacDonald said the property overlooked a nice sunset but he described the mor
  
 “It is a cracker of a sky,” he said. 
  
-The home is listed for offers over $2.35 million, through Nicole Carter and Russel Segal at RE/MAX Regency, Gold Coast</content> 
-<sequenceId type="str">695205094029</sequenceId> 
-<topics type="list"> 
+The home is listed for offers over $2.35 million, through Nicole Carter and Russel Segal at RE/MAX Regency, Gold Coast</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Real estate news</name> 
@@ -63,7 +62,8 @@ The home is listed for offers over $2.35 million, through Nicole Carter and Russ
 <group type="str">Society</group> 
 <name type="str">Architecture and design news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:00Z</estimatedPublishedDate> 
-<title type="str">Owner designs dream family home from treetop vision</title> 
+</TOPICS> 
+<DOCID type="str">695205094029</DOCID> 
+<DCT type="str">2017-01-29T08:25:00Z</DCT> 
+<TITLE type="str">Owner designs dream family home from treetop vision</TITLE> 
 </root>

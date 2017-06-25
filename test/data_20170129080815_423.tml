@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Washington state Attorney General Bob Ferguson today issued the following statement: 
+<TEXT type="str">Washington state Attorney General Bob Ferguson today issued the following statement: 
  
 &quot;The President&apos;s executive order on immigration is un-American and unconstitutional. 
  
@@ -14,9 +14,8 @@ The Office of the Attorney General is the chief legal office for the state of Wa
  
 Contact: 
  
-Peter Lavallee, Communications Director, (360) 586-0725; PeterL@atg.wa.gov</content> 
-<sequenceId type="str">695197759470</sequenceId> 
-<topics type="list"> 
+Peter Lavallee, Communications Director, (360) 586-0725; PeterL@atg.wa.gov</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -25,7 +24,8 @@ Peter Lavallee, Communications Director, (360) 586-0725; PeterL@atg.wa.gov</cont
 <group type="str">Society</group> 
 <name type="str">US Federal Government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:04:07Z</estimatedPublishedDate> 
-<title type="str">AG Ferguson Statement on Federal Executive Order on Immigration</title> 
+</TOPICS> 
+<DOCID type="str">695197759470</DOCID> 
+<DCT type="str">2017-01-29T02:04:07Z</DCT> 
+<TITLE type="str">AG Ferguson Statement on Federal Executive Order on Immigration</TITLE> 
 </root>

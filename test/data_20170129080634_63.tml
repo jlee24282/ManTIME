@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Patricia Martinez (Manchester Police Department) 
+<TEXT type="str">Patricia Martinez (Manchester Police Department) 
    
 
 MANCHESTER - A Manchester woman was charged with possession and transportation of heroin after being treated as the victim of a rollover accident early Saturday morning. 
@@ -15,14 +15,14 @@ Police said Martinez was charged with one count each of possession and transport
 
 A court date for Martinez has not been set and Manchester police continue to investigate the cause of the car crash. 
 
-.</content> 
-<sequenceId type="str">695193861873</sequenceId> 
-<topics type="list"> 
+.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Illegal drugs news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:46:00Z</estimatedPublishedDate> 
-<title type="str">Accident victim faces possession of heroin charge</title> 
+</TOPICS> 
+<DOCID type="str">695193861873</DOCID> 
+<DCT type="str">2017-01-29T04:46:00Z</DCT> 
+<TITLE type="str">Accident victim faces possession of heroin charge</TITLE> 
 </root>

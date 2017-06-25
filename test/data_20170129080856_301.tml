@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Morocco was among 38 countries that experienced a slight increase in its Economist Intelligence Unit’s (EIU) 2016 Democracy Index score.  
+<TEXT type="str">Morocco was among 38 countries that experienced a slight increase in its Economist Intelligence Unit’s (EIU) 2016 Democracy Index score.  
  
 
 The country also ranked 4th in the MENA region, behind Israel, Tunisia, Lebanon. 
@@ -45,9 +45,8 @@ Countries in Sub- Saharan Africa have improved in terms of political participati
  
 Although in 2017, it will be likely that there will be an increase in democratic progress, “much of the region will continue to be characterized as deeply entrenched one-party states that go through the motions of holding elections without providing the freedoms necessary to promote genuine democracy.” 
  
-Source :Morocco World News</content> 
-<sequenceId type="str">695199458122</sequenceId> 
-<topics type="list"> 
+Source :Morocco World News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">North Africa news</name> 
@@ -64,7 +63,8 @@ Source :Morocco World News</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:24Z</estimatedPublishedDate> 
-<title type="str">Morocco Ranks 4 in MENA Region</title> 
+</TOPICS> 
+<DOCID type="str">695199458122</DOCID> 
+<DCT type="str">2017-01-29T07:51:24Z</DCT> 
+<TITLE type="str">Morocco Ranks 4 in MENA Region</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Celia Rubin was a Detroit kindergarten student in the 1960s when she found out through a class assignment that the numbers tattooed on her father&apos;s arm weren&apos;t her phone number like he told her. 
+<TEXT type="str">Celia Rubin was a Detroit kindergarten student in the 1960s when she found out through a class assignment that the numbers tattooed on her father&apos;s arm weren&apos;t her phone number like he told her. 
 
 Benjamin Rubin, a Polish Jew, was among the millions that Adolf Hitler and the Nazis targeted for extermination, surviving numerous work camps, including the infamous Auschwitz. Now living in Cape Coral, Celia Rubin is committed to her promise that she&apos;ll continue to tell her father&apos;s story until her last breath in hopes of preventing another genocide. 
 
@@ -62,9 +62,8 @@ Still, in the Shoah Foundation video, Rubin smiles while recounting a memory: An
 
 He would have been 99 this year, and Celia Rubin thinks about him each day. 
 
-&quot;He was a pretty amazing man,&quot; she said.</content> 
-<sequenceId type="str">695202529745</sequenceId> 
-<topics type="list"> 
+&quot;He was a pretty amazing man,&quot; she said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -73,7 +72,8 @@ He would have been 99 this year, and Celia Rubin thinks about him each day.
 <group type="str">Society</group> 
 <name type="str">Jewish news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:06Z</estimatedPublishedDate> 
-<title type="str">Marked for life, Holocaust survivor&apos;s daughter honors Dad</title> 
+</TOPICS> 
+<DOCID type="str">695202529745</DOCID> 
+<DCT type="str">2017-01-29T08:06:06Z</DCT> 
+<TITLE type="str">Marked for life, Holocaust survivor&apos;s daughter honors Dad</TITLE> 
 </root>

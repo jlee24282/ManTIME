@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">20 militants were killed in army raid in Sinai  
+<TEXT type="str">20 militants were killed in army raid in Sinai  
 World Bulletin / News Desk 
  
 At least four troops and two dozens militants were killed Saturday in a fresh bout of violence in Egypt’s restive Sinai Peninsula. 
@@ -19,9 +19,8 @@ Since mid-2013, when Mohamed Morsi -- Egypt’s first freely-elected president -
  
 The Egyptian security forces, meanwhile, continue to wage a fierce campaign against what they describe as Sinai-based &quot;terrorist groups&quot;. 
  
-Egypt’s army-backed authorities say they are battling the Welayat Sinai (Province of Sinai) group, which is said to have links to the ISIL terror organization.</content> 
-<sequenceId type="str">695204435650</sequenceId> 
-<topics type="list"> 
+Egypt’s army-backed authorities say they are battling the Welayat Sinai (Province of Sinai) group, which is said to have links to the ISIL terror organization.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -42,7 +41,8 @@ Egypt’s army-backed authorities say they are battling the Welayat Sinai (Provi
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:29Z</estimatedPublishedDate> 
-<title type="str">Egypt: 4 troops, dozens militants killed in Sinai raid</title> 
+</TOPICS> 
+<DOCID type="str">695204435650</DOCID> 
+<DCT type="str">2017-01-29T08:29:29Z</DCT> 
+<TITLE type="str">Egypt: 4 troops, dozens militants killed in Sinai raid</TITLE> 
 </root>

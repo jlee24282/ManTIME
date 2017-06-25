@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ranchi [India], Jan. 29 : Delhi Waveriders pushed home team Ranchi Rays to the limit to split the points with a 0-0 draw in a pulsating encounter at the fifth edition of the ongoing Hockey India League here on Saturday. 
+<TEXT type="str">Ranchi [India], Jan. 29 : Delhi Waveriders pushed home team Ranchi Rays to the limit to split the points with a 0-0 draw in a pulsating encounter at the fifth edition of the ongoing Hockey India League here on Saturday. 
 The first quarter was dominated by the Delhi Waveriders, who started strong with better ball possession. 
 
 They started showing more urgency and intent, forcing the Ranchi Rays back on every attack. Through concise incisive passing, Delhi Waveriders started breaking down the Ranchi Rays&apos; defence each time they launched a counter. 
@@ -27,9 +27,8 @@ Ranchi Rays missed a sure shot winner when Gurbaj Singh passing wide off Ashley 
 
 The teams had to settle with a draw and split the points from the encounter.. 
 
-Source</content> 
-<sequenceId type="str">695195826427</sequenceId> 
-<topics type="list"> 
+Source</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -42,7 +41,8 @@ Source</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:54Z</estimatedPublishedDate> 
-<title type="str">HIL 2017: Delhi Waveriders hold Ranchi Rays 0-0</title> 
+</TOPICS> 
+<DOCID type="str">695195826427</DOCID> 
+<DCT type="str">2017-01-29T07:24:54Z</DCT> 
+<TITLE type="str">HIL 2017: Delhi Waveriders hold Ranchi Rays 0-0</TITLE> 
 </root>

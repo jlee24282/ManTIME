@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Please log in, sign up for a new account and purchase a subscription to continue reading. 
+<TEXT type="str">Please log in, sign up for a new account and purchase a subscription to continue reading. 
   
 Thank you for reading 10 free articles on our site. You can come back at the end of your 30-day period for another 10 free articles, or you can purchase a subscription and continue to enjoy valuable local news and information. If you need help, please contact our office at 704-873-1451. 
     Current 7 Day Print Subscriber  
@@ -37,9 +37,8 @@ Get home delivery of the newspaper Monday - Saturday for one low monthly fee.
    
 Get home delivery of the newspaper Sunday for one low monthly fee. 
     Print Only    Existing Subscribers  $4.35         
-* Three month introductory offer is only for subscribers who are not currently subscribing to any other special offer. After three months, each All Access plan will be $14.86 a month regardless of which print delivery is chosen. After three months, the digital only All Access plan will be $19.00 per month.</content> 
-<sequenceId type="str">695196430821</sequenceId> 
-<topics type="list"> 
+* Three month introductory offer is only for subscribers who are not currently subscribing to any other special offer. After three months, each All Access plan will be $14.86 a month regardless of which print delivery is chosen. After three months, the digital only All Access plan will be $19.00 per month.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -48,7 +47,8 @@ Get home delivery of the newspaper Sunday for one low monthly fee.
 <group type="str">Society</group> 
 <name type="str">Obituaries</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Brown, Mary</title> 
+</TOPICS> 
+<DOCID type="str">695196430821</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Brown, Mary</TITLE> 
 </root>

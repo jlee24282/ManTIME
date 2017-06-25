@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The target of ongoing narcotics and prostitution investigations, Gold Rock motels collect significantly less tourism taxes than other Rocky Mount hotels. 
+<TEXT type="str">The target of ongoing narcotics and prostitution investigations, Gold Rock motels collect significantly less tourism taxes than other Rocky Mount hotels. 
  
 The Gold Rock area at Interstate 95 and N.C. 48, is rife with criminal activity, attracting the attention of Nash County authorities who want to shut down the seedier establishments with nuisance abatement lawsuits and start over. 
  
@@ -20,9 +20,8 @@ In 2016, there were nearly 100 arrests made or incident reports filed related to
  
 Crime has become so common in Gold Rock that the tourism authority recommends out-of-town visitors avoid the area with the exception of two motels, said Nash County board Chairman Robbie Davis, who also heads the tourism authority. 
  
-“When we have a soccer tournament and all the other hotels in Rocky Mount are full, we send families to Roanoke Rapid or Wilson, even Goldsboro, but not Gold Rock,” Davis said.</content> 
-<sequenceId type="str">695194924397</sequenceId> 
-<topics type="list"> 
+“When we have a soccer tournament and all the other hotels in Rocky Mount are full, we send families to Roanoke Rapid or Wilson, even Goldsboro, but not Gold Rock,” Davis said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -31,7 +30,8 @@ Crime has become so common in Gold Rock that the tourism authority recommends ou
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:20Z</estimatedPublishedDate> 
-<title type="str">Tax revenue lags in Gold Rock</title> 
+</TOPICS> 
+<DOCID type="str">695194924397</DOCID> 
+<DCT type="str">2017-01-29T07:19:20Z</DCT> 
+<TITLE type="str">Tax revenue lags in Gold Rock</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Glasgow-based vet says she been left stranded in Costa Rica following US President Donald Trump&apos;s immigration crackdown on refugees and visa-holders from seven Muslim-majority countries. 
+<TEXT type="str">A Glasgow-based vet says she been left stranded in Costa Rica following US President Donald Trump&apos;s immigration crackdown on refugees and visa-holders from seven Muslim-majority countries. 
  
 Mr Trump indefinitely blocked all those fleeing Syria and imposed a 90-day ban on entry to the US from Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen. 
  
@@ -28,9 +28,8 @@ Scottish Tory leader Ruth Davidson tweeted: ``Back from Copeland to read the new
  
 First Minister Nicola Sturgeon tweeted: ``Scotland &amp; US have deep friendship built on values. We must all speak up for those values - tolerance, equality &amp; refuge for those in need.&apos;&apos; 
  
-She later wrote: ``#WelcometoScotland too&apos;&apos; after Canadian Prime Minister Justin Trudeau tweeted: ``To those fleeing persecution, terror &amp; war, Canadians will welcome you, regardless of your faith. Diversity is our strength #WelcomeToCanada&apos;&apos;</content> 
-<sequenceId type="str">695196228059</sequenceId> 
-<topics type="list"> 
+She later wrote: ``#WelcometoScotland too&apos;&apos; after Canadian Prime Minister Justin Trudeau tweeted: ``To those fleeing persecution, terror &amp; war, Canadians will welcome you, regardless of your faith. Diversity is our strength #WelcomeToCanada&apos;&apos;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -51,7 +50,8 @@ She later wrote: ``#WelcometoScotland too&apos;&apos; after Canadian Prime Minis
 <group type="str">Regional</group> 
 <name type="str">Scotland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:51Z</estimatedPublishedDate> 
-<title type="str">Vet stranded in Costa Rica after Trump&apos;s immigration crackdown</title> 
+</TOPICS> 
+<DOCID type="str">695196228059</DOCID> 
+<DCT type="str">2017-01-29T07:27:51Z</DCT> 
+<TITLE type="str">Vet stranded in Costa Rica after Trump&apos;s immigration crackdown</TITLE> 
 </root>

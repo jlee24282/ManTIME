@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The chief executive officer of Facebook, Mark Zuckerberg, has written to US President Donald Trump, expressing “concern” over the executive order which temporarily suspended intake of refugees. 
+<TEXT type="str">The chief executive officer of Facebook, Mark Zuckerberg, has written to US President Donald Trump, expressing “concern” over the executive order which temporarily suspended intake of refugees. 
  
 Trump’s order had also stopped the issuing of visas to citizens of some Muslim nations. 
  
@@ -24,9 +24,8 @@ These issues are personal for me even beyond my family. A few years ago, I taugh
    
 This post has been seen 38 times.  
  Share this:   
- Related</content> 
-<sequenceId type="str">695203105925</sequenceId> 
-<topics type="list"> 
+ Related</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -35,7 +34,8 @@ This post has been seen 38 times.
 <group type="str">Internet</group> 
 <name type="str">Facebook news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:48:10Z</estimatedPublishedDate> 
-<title type="str">Zuckerberg’s reaction to Trumps anti-immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695203105925</DOCID> 
+<DCT type="str">2017-01-29T06:48:10Z</DCT> 
+<TITLE type="str">Zuckerberg’s reaction to Trumps anti-immigration order</TITLE> 
 </root>

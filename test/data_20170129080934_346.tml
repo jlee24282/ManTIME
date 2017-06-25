@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Sudanese student with U. S. legal residency said on Saturday she was briefly handcuffed at a New York airport, following President Donald Trump&apos;s order restricting entry into the United States for people from seven Muslim-majority nations.</content> 
-<sequenceId type="str">695201038335</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A Sudanese student with U. S. legal residency said on Saturday she was briefly handcuffed at a New York airport, following President Donald Trump&apos;s order restricting entry into the United States for people from seven Muslim-majority nations.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">North Africa news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:21Z</estimatedPublishedDate> 
-<title type="str">&quot;I got handcuffed and just started crying&quot;: Sudanese student describes U.S. detention</title> 
+</TOPICS> 
+<DOCID type="str">695201038335</DOCID> 
+<DCT type="str">2017-01-29T07:57:21Z</DCT> 
+<TITLE type="str">&quot;I got handcuffed and just started crying&quot;: Sudanese student describes U.S. detention</TITLE> 
 </root>

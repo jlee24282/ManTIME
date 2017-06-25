@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">You can still register for session 2 of youth basketball, but hurry, because it starts next week – Feb. 6 through March 25 for pre-K through fourth grade. There are separate leagues for girls and boys. The cost is family member, $20; youth member, $45; and non-member, $60. The cost includes a team t-shirt.</content> 
-<sequenceId type="str">695196227731</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">You can still register for session 2 of youth basketball, but hurry, because it starts next week – Feb. 6 through March 25 for pre-K through fourth grade. There are separate leagues for girls and boys. The cost is family member, $20; youth member, $45; and non-member, $60. The cost includes a team t-shirt.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">At the YMCA: Last chance to sign up for basketball</title> 
+</TOPICS> 
+<DOCID type="str">695196227731</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">At the YMCA: Last chance to sign up for basketball</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tweet on Twitter 
+<TEXT type="str">Tweet on Twitter 
      
 The Nation Newspaper   &apos;Foreign investment possible with friendly policies&apos; 
 The Nation Newspaper 
@@ -22,14 +22,14 @@ Source
    SHARE   
 Facebook 
   
-Twitter</content> 
-<sequenceId type="str">695200315677</sequenceId> 
-<topics type="list"> 
+Twitter</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:57Z</estimatedPublishedDate> 
-<title type="str">‘Foreign investment possible with friendly policies’ – The Nation Newspaper</title> 
+</TOPICS> 
+<DOCID type="str">695200315677</DOCID> 
+<DCT type="str">2017-01-29T07:58:57Z</DCT> 
+<TITLE type="str">‘Foreign investment possible with friendly policies’ – The Nation Newspaper</TITLE> 
 </root>

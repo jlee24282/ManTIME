@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NMSU Athletics   
+<TEXT type="str">NMSU Athletics   
 Las Cruces, NM - The New Mexico State equestrian team won a nail biter in Las Cruces as NM State tied No. 1 Texas A&amp;M 7-7 but won on raw score 1201.25-1052.25. 
  
   
@@ -25,14 +25,14 @@ The raw scores determined the winner with NM State coming out on top 1201.25-105
  
   
  
-The NM State equestrian team is back in action February 11 as the team travels to take on SMU.  Competition is set to start at 1</content> 
-<sequenceId type="str">695201103928</sequenceId> 
-<topics type="list"> 
+The NM State equestrian team is back in action February 11 as the team travels to take on SMU.  Competition is set to start at 1</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:23Z</estimatedPublishedDate> 
-<title type="str">NMSU Equestrian Takes Down No.1 Texas A&amp;M</title> 
+</TOPICS> 
+<DOCID type="str">695201103928</DOCID> 
+<DCT type="str">2017-01-29T08:04:23Z</DCT> 
+<TITLE type="str">NMSU Equestrian Takes Down No.1 Texas A&amp;M</TITLE> 
 </root>

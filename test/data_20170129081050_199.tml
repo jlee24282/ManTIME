@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The first 2 months of the 21st Season of Global Village attracts 2.3 million guests! 
+<TEXT type="str">The first 2 months of the 21st Season of Global Village attracts 2.3 million guests! 
  
 Online PR News – 29-January-2017 – Dubai,United Arab Emirates – Dubai, 10th January 2017: Global Village, the region’s first multicultural festival park, announced a new record-breaking number of 2.3 million guest visits since opening on the 1st of November 2016, attesting to the success of the unprecedented offerings at the multicultural festival park this season. 
  
@@ -66,9 +66,8 @@ The concert series at Global Village also received ground-breaking success, attr
 Global Village will continue to provide more unique shopping, food, and entertainment experiences to its guests everyday until April 8, 2017. 
  
 Global Village’s opening hours are from 4pm to 12am Saturday to Wednesday and from 4pm to 1am on Thursdays and Fridays in addition to public holidays. 
-Mondays at Global Village are family and ‘ladies only’ days.</content> 
-<sequenceId type="str">695203420632</sequenceId> 
-<topics type="list"> 
+Mondays at Global Village are family and ‘ladies only’ days.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -81,7 +80,8 @@ Mondays at Global Village are family and ‘ladies only’ days.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:17Z</estimatedPublishedDate> 
-<title type="str">Global Village Announces Record Breaking Number of Guests</title> 
+</TOPICS> 
+<DOCID type="str">695203420632</DOCID> 
+<DCT type="str">2017-01-29T08:21:17Z</DCT> 
+<TITLE type="str">Global Village Announces Record Breaking Number of Guests</TITLE> 
 </root>

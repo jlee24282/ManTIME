@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Historic Crests 
+<TEXT type="str">Historic Crests 
 (1) 32.50 ft on 04/01/1900 
 (2) 31.00 ft on 07/09/1916 
 (3) 30.66 ft on 02/27/1961 
@@ -33,14 +33,14 @@ Low Water Records
 (1) 2.87 ft on 11/04/1990 
 (2) 3.08 ft on 09/30/1990 
 (3) 3.24 ft on 09/26/1989 
-Show More Low Water Records</content> 
-<sequenceId type="str">695197757685</sequenceId> 
-<topics type="list"> 
+Show More Low Water Records</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Securities industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:12Z</estimatedPublishedDate> 
-<title type="str">Action (16.51 ft) - Observation - MRRM6 - Pascagoula River at Merrill (Mississippi)</title> 
+</TOPICS> 
+<DOCID type="str">695197757685</DOCID> 
+<DCT type="str">2017-01-29T07:37:12Z</DCT> 
+<TITLE type="str">Action (16.51 ft) - Observation - MRRM6 - Pascagoula River at Merrill (Mississippi)</TITLE> 
 </root>

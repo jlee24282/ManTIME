@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TOKYO -- Shortly before Donald Trump&apos;s raucous presidential inauguration on Jan. 20, a fresh wave of political change began to sweep through a U.S. rival across the Pacific: China. 
+<TEXT type="str">TOKYO -- Shortly before Donald Trump&apos;s raucous presidential inauguration on Jan. 20, a fresh wave of political change began to sweep through a U.S. rival across the Pacific: China. 
        
 To further cement his grip on power ahead of a Communist Party leadership reshuffle later this year, President Xi Jinping has been promoting allies to top local government posts. On Jan. 20, Cai Qi and Ying Yong became the latest to join this growing political army.  
  
@@ -90,9 +90,8 @@ Trump, who never held public office prior to becoming president, is forming a te
  
 Politically, this is a particularly sensitive year for China. The tug-of-war within the party is expected to intensify before the new leadership lineup is announced in the autumn. Various forces will be looking to put their rivals at a disadvantage, and could seek to exploit tensions with the U.S.  
  
-The question is: Will the two presidents&apos; yes men manage to find common ground amid growing friction over trade and security?</content> 
-<sequenceId type="str">695194801197</sequenceId> 
-<topics type="list"> 
+The question is: Will the two presidents&apos; yes men manage to find common ground amid growing friction over trade and security?</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -113,7 +112,8 @@ The question is: Will the two presidents&apos; yes men manage to find common gro
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:18Z</estimatedPublishedDate> 
-<title type="str">Xi, Trump share same Achilles&apos; heel</title> 
+</TOPICS> 
+<DOCID type="str">695194801197</DOCID> 
+<DCT type="str">2017-01-29T07:18:18Z</DCT> 
+<TITLE type="str">Xi, Trump share same Achilles&apos; heel</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bouncing back is one thing in the world of community college athletics, but rebounding is quite another. 
+<TEXT type="str">Bouncing back is one thing in the world of community college athletics, but rebounding is quite another. 
 
 Orange Coast College sophomores Kyle Robeniol and Travis Moniot displayed that distinction in distinctive fashion to help the Pirates open the season with a 17-1 nonconference home win against College of the Desert on Saturday. 
  
@@ -44,9 +44,8 @@ COD 000 001 000 – 1 6 5
 
 OCC 002 261 42x – 17 17 0 
 
-Meza, Carlisle (5), Torres (5), Owen (6), Bidon (7) and Tanaka; Robeniol, Moore (6), Higareda (8), Tomazin (9) and Teel, Caballos (6). W – Robeniol, 1-0. L – Meza, 0-1. 2B – Wagaman (OCC), Balliert (OCC), White (OCC), Moniot (OCC), Powers (OCC). HR – Moniot (OCC), Hawkins (OCC).</content> 
-<sequenceId type="str">695193901940</sequenceId> 
-<topics type="list"> 
+Meza, Carlisle (5), Torres (5), Owen (6), Bidon (7) and Tanaka; Robeniol, Moore (6), Higareda (8), Tomazin (9) and Teel, Caballos (6). W – Robeniol, 1-0. L – Meza, 0-1. 2B – Wagaman (OCC), Balliert (OCC), White (OCC), Moniot (OCC), Powers (OCC). HR – Moniot (OCC), Hawkins (OCC).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -59,7 +58,8 @@ Meza, Carlisle (5), Torres (5), Owen (6), Bidon (7) and Tanaka; Robeniol, Moore 
 <group type="str">Sports</group> 
 <name type="str">Sports: baseball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:50Z</estimatedPublishedDate> 
-<title type="str">JC Baseball: Pirates bounce Desert in opener</title> 
+</TOPICS> 
+<DOCID type="str">695193901940</DOCID> 
+<DCT type="str">2017-01-29T07:11:50Z</DCT> 
+<TITLE type="str">JC Baseball: Pirates bounce Desert in opener</TITLE> 
 </root>

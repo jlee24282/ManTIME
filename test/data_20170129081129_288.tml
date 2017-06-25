@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">French river cruise operator, CroisiEurope, has launched a new art themed cruise for 2017, called Impressionist View of the Seine. 
+<TEXT type="str">French river cruise operator, CroisiEurope, has launched a new art themed cruise for 2017, called Impressionist View of the Seine. 
  
 The seven day cruise from Paris to Honfleur on the MS Seine Princess , the MS Renoir and the MS Botticelli , will feature on-board presentations by experts, as well as guided visits to sites that inspired numerous masterpieces. 
  
@@ -22,14 +22,14 @@ As well as the Seine, CroisiEurope offers cruises on rivers such as the Rhine an
  
 Beyond Europe, groups can also travel on the Mekong in Vietnam and the Irawaddy in Myanmar with CroisiEurope. 
  
-For more information call 020-8328 1281 or visit www.croisieurope.co.uk .</content> 
-<sequenceId type="str">695204919978</sequenceId> 
-<topics type="list"> 
+For more information call 020-8328 1281 or visit www.croisieurope.co.uk .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:57Z</estimatedPublishedDate> 
-<title type="str">CroisiEurope launches new art themed cruise</title> 
+</TOPICS> 
+<DOCID type="str">695204919978</DOCID> 
+<DCT type="str">2017-01-29T08:32:57Z</DCT> 
+<TITLE type="str">CroisiEurope launches new art themed cruise</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TACOMA - A mysterious ailment that has killed or paralyzed gulls around the Port of Tacoma this week is baffling wildlife biologists. 
+<TEXT type="str">TACOMA - A mysterious ailment that has killed or paralyzed gulls around the Port of Tacoma this week is baffling wildlife biologists. 
  
 About 50 gulls have been found dead or paralyzed from the neck down. 
  
@@ -34,9 +34,8 @@ Tirhi said the sick and ill birds were clean.
  
 &quot;They have no odor or anything discernible on their body,&quot; she said. 
  
-Toxicology testing has ruled out lead poisoning and other heavy metals.</content> 
-<sequenceId type="str">695204355759</sequenceId> 
-<topics type="list"> 
+Toxicology testing has ruled out lead poisoning and other heavy metals.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Shipping industry news</name> 
@@ -45,7 +44,8 @@ Toxicology testing has ruled out lead poisoning and other heavy metals.</content
 <group type="str">US regional</group> 
 <name type="str">Seattle-Tacoma news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Biologists mystified by gull deaths at Port of Tacoma</title> 
+</TOPICS> 
+<DOCID type="str">695204355759</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Biologists mystified by gull deaths at Port of Tacoma</TITLE> 
 </root>

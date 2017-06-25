@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,9 +8,8 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695195508306</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -19,7 +18,8 @@ TIME</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:40Z</estimatedPublishedDate> 
-<title type="str">Dan Rather Just Went Viral Responding To Trump’s Refugee Ban</title> 
+</TOPICS> 
+<DOCID type="str">695195508306</DOCID> 
+<DCT type="str">2017-01-29T07:22:40Z</DCT> 
+<TITLE type="str">Dan Rather Just Went Viral Responding To Trump’s Refugee Ban</TITLE> 
 </root>

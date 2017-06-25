@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A prominent Melbourne dentist has taken defamation action against a patient who posted a scathing online review after claiming he was quoted $1200 for a filling that would only take 45 minutes. A prominent Melbourne dentist has taken defamation action against a patient who posted a scathing online review after claiming he was quoted $1200 for a filling that would take only 45 minutes.
+<TEXT type="str">A prominent Melbourne dentist has taken defamation action against a patient who posted a scathing online review after claiming he was quoted $1200 for a filling that would only take 45 minutes. A prominent Melbourne dentist has taken defamation action against a patient who posted a scathing online review after claiming he was quoted $1200 for a filling that would take only 45 minutes.
 
 Carlton resident Mark Robert Bradbury gave Smile Solutions a one-star rating on the practice&apos;s Google listing page before launching a personal attack on the business&apos; owner and director, Kia Pajouhesh.
 
@@ -32,9 +32,8 @@ Dr Moss&apos; lawyers hired a forensic computer scientist to track the internet 
 
 The Supreme Court issued a search order in March to allow Dr Moss&apos; lawyers to search the man&apos;s home for emails related to Dr Moss and the forum, including private, sent and deleted messages.
 
-It is understood the case was settled before trial. The story first appeared on The Age.</content> 
-<sequenceId type="str">695194618028</sequenceId> 
-<topics type="list"> 
+It is understood the case was settled before trial. The story first appeared on The Age.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -51,7 +50,8 @@ It is understood the case was settled before trial. The story first appeared on 
 <group type="str">Internet</group> 
 <name type="str">Online legal issues news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:37:42Z</estimatedPublishedDate> 
-<title type="str">Dentist sues patient for defamation over online ...</title> 
+</TOPICS> 
+<DOCID type="str">695194618028</DOCID> 
+<DCT type="str">2017-01-29T06:37:42Z</DCT> 
+<TITLE type="str">Dentist sues patient for defamation over online ...</TITLE> 
 </root>

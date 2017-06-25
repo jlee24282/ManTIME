@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Theresa May does &quot;not agree&quot; with Donald Trump’s immigration restrictions and will make representations if it affects Britons, Number 10 says. 
+<TEXT type="str">Theresa May does &quot;not agree&quot; with Donald Trump’s immigration restrictions and will make representations if it affects Britons, Number 10 says. 
  
 
  
@@ -38,14 +38,14 @@ Outspoken Tory MP Heidi Allen tweeted the Prime Minister directly to say: Strong
  
 And Labour leader Jeremy Corbyn said: President Trump’s executive order against refugees and Muslims should shock and appal us all. 
  http://video.news.sky.com/video/h264/vod/700/2017/01/DIGI190815FRSPECIALRELATIONSHIPFORONLINEEDIT31485594624985700.mp4 
-(c) Sky News 2017: skynews</content> 
-<sequenceId type="str">695201339964</sequenceId> 
-<topics type="list"> 
+(c) Sky News 2017: skynews</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Theresa May ‘does not agree’ with Trump’s refugee ban</title> 
+</TOPICS> 
+<DOCID type="str">695201339964</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Theresa May ‘does not agree’ with Trump’s refugee ban</TITLE> 
 </root>

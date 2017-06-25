@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan. 29, 6:15 am New York Times: Trump and Putin connect, but avoid talk of lifting US sanctions  
+<TEXT type="str">Jan. 29, 6:15 am New York Times: Trump and Putin connect, but avoid talk of lifting US sanctions  
   
 Jan. 28, 6:03 pm Trump’s Russia policy moves towards action  
   
@@ -14,9 +14,8 @@ Jan. 28, 12:56 pm Russian Aerospace Forces reports new ABM tests to be held in n
   
 Jan. 28, 12:01 pm Politico: McCain thinks Trump will face foreign crisis early in presidency  
   
-Jan. 28, 11:56 am Radio Free Europe/Radio Liberty: Trump, Putin to talk by phone</content> 
-<sequenceId type="str">695199550956</sequenceId> 
-<topics type="list"> 
+Jan. 28, 11:56 am Radio Free Europe/Radio Liberty: Trump, Putin to talk by phone</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -25,7 +24,8 @@ Jan. 28, 11:56 am Radio Free Europe/Radio Liberty: Trump, Putin to talk by phone
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:53Z</estimatedPublishedDate> 
-<title type="str">Agence France-Presse: Ruble’s revival gives Russia an unexpected headache</title> 
+</TOPICS> 
+<DOCID type="str">695199550956</DOCID> 
+<DCT type="str">2017-01-29T07:41:53Z</DCT> 
+<TITLE type="str">Agence France-Presse: Ruble’s revival gives Russia an unexpected headache</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The concert is supported with funds from Sir John Deane’s Sixth Form College and The Co-operative Funeralcare Northwich 
+<TEXT type="str">The concert is supported with funds from Sir John Deane’s Sixth Form College and The Co-operative Funeralcare Northwich 
  
 Sir John Deane’s Sixth Form College at Northwich has a lively and vibrant music department.  Some of the students have outstanding talents; a selection perform at this concert.  A similar concert in the spring of 2015 proved enormously popular and thoroughly astonishing. 
  
@@ -20,14 +20,14 @@ The final list of performers and the pieces to be played will be announced neare
  
   
  
-Venue  Start date  Start time  End date  End time  Holmes Chapel Leisure Centre  Sat 04 Feb  20:00  Sat 04 Feb  22</content> 
-<sequenceId type="str">695196952046</sequenceId> 
-<topics type="list"> 
+Venue  Start date  Start time  End date  End time  Holmes Chapel Leisure Centre  Sat 04 Feb  20:00  Sat 04 Feb  22</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:43Z</estimatedPublishedDate> 
-<title type="str">Young Musicians in Concert - Outstanding Students...</title> 
+</TOPICS> 
+<DOCID type="str">695196952046</DOCID> 
+<DCT type="str">2017-01-29T07:33:43Z</DCT> 
+<TITLE type="str">Young Musicians in Concert - Outstanding Students...</TITLE> 
 </root>

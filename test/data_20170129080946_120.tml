@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Harry Winks has made 23 appearances for Tottenham Hotspur so far this season. 
+<TEXT type="str">Harry Winks has made 23 appearances for Tottenham Hotspur so far this season. 
  
 [embedded content] 
  
@@ -30,9 +30,8 @@ Winks’ latest performance for Spurs came against Wycombe Wanderers in the FA C
  
 Spurs fell behind twice in the contest, but rescued the victory with a 97th minute strike through Heung-Min Son. 
  
-[embedded content]</content> 
-<sequenceId type="str">695201285407</sequenceId> 
-<topics type="list"> 
+[embedded content]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -41,7 +40,8 @@ Spurs fell behind twice in the contest, but rescued the victory with a 97th minu
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Les Ferdinand claims he knew this Spurs youngster would become a first-team regular</title> 
+</TOPICS> 
+<DOCID type="str">695201285407</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Les Ferdinand claims he knew this Spurs youngster would become a first-team regular</TITLE> 
 </root>

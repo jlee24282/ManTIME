@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Canadian Prime Minister Justin Trudeau says refugees are welcome to enter his country, taking an indirect stand against US President Donald Trump’s recent order to restrict the entry of nationals from seven countries into the United States. 
+<TEXT type="str">Canadian Prime Minister Justin Trudeau says refugees are welcome to enter his country, taking an indirect stand against US President Donald Trump’s recent order to restrict the entry of nationals from seven countries into the United States. 
  
 The new US president on Friday signed an order barring all incoming nationals from Iran, Iraq, Syria, Sudan, Libya, Yemen, and Somalia from the United States for 90 days and suspending all refugee admissions for 120 days. Syrian refugees have exceptionally been barred from the US “indefinitely.” 
  
@@ -22,9 +22,8 @@ Trump has been under fire by Muslim and human rights groups as well as his Democ
  
 With his ban on incoming nationals from the seven countries, Trump plans to enforce “extreme vetting” against potential terrorists. 
  
-When first announcing the ban, he invoked the specter of the September 11, 2001 terrorist attacks and claimed that the US will not “forget the lessons” of the incident. But in so doing, the US president was unwittingly demonstrating his incognizance of the facts even as he attempted to sound informed of history. The 9/11 attacks were carried out by 19 terrorists, 15 of whom were from Saudi Arabia; the rest were from Egypt, Lebanon, and the United Arab Emirates. Nationals from none of those countries have been subjected to the “vetting” Trump’s executive order has meant to enforce.</content> 
-<sequenceId type="str">695196199430</sequenceId> 
-<topics type="list"> 
+When first announcing the ban, he invoked the specter of the September 11, 2001 terrorist attacks and claimed that the US will not “forget the lessons” of the incident. But in so doing, the US president was unwittingly demonstrating his incognizance of the facts even as he attempted to sound informed of history. The 9/11 attacks were carried out by 19 terrorists, 15 of whom were from Saudi Arabia; the rest were from Egypt, Lebanon, and the United Arab Emirates. Nationals from none of those countries have been subjected to the “vetting” Trump’s executive order has meant to enforce.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Canada news</name> 
@@ -33,7 +32,8 @@ When first announcing the ban, he invoked the specter of the September 11, 2001 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:37Z</estimatedPublishedDate> 
-<title type="str">Canada’s Trudeau takes a jab at Trump 5min</title> 
+</TOPICS> 
+<DOCID type="str">695196199430</DOCID> 
+<DCT type="str">2017-01-29T07:27:37Z</DCT> 
+<TITLE type="str">Canada’s Trudeau takes a jab at Trump 5min</TITLE> 
 </root>

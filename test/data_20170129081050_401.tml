@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In this feature, The Log looks at notable boats — sail and power — that continue to turn heads in Southern California harbors. 
+<TEXT type="str">In this feature, The Log looks at notable boats — sail and power — that continue to turn heads in Southern California harbors. 
  
 Boat name:  Firecracker (replica of a 1929 28-foot Chris Craft Runabout) 
  
@@ -43,14 +43,14 @@ Home Base: When Firecracker is not cruising around Newport Harbor, she is stored
 Award:  Firecracker has been entered in numerous boat shows under the “replica class” category. She has won “Best Runabout” twice in the Newport Beach Wooden Boat Festival. 
  
 (Mark Rightmire photo) 
-  Share This</content> 
-<sequenceId type="str">695203595114</sequenceId> 
-<topics type="list"> 
+  Share This</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:54Z</estimatedPublishedDate> 
-<title type="str">SoCal Classic: Firecracker</title> 
+</TOPICS> 
+<DOCID type="str">695203595114</DOCID> 
+<DCT type="str">2017-01-29T08:00:54Z</DCT> 
+<TITLE type="str">SoCal Classic: Firecracker</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi: To plug tax loopholes, the I-T department will use Big Data analytics to track down evaders by collecting information such as common address, mobile number and e-mail to establish relationship between their multiple PANs. 
+<TEXT type="str">New Delhi: To plug tax loopholes, the I-T department will use Big Data analytics to track down evaders by collecting information such as common address, mobile number and e-mail to establish relationship between their multiple PANs. 
  
 The department, with support from private firms, will analyse the voluminous data available post demonetisation for checking relationships between PAN holders. The Managed Service Provider (MSP), which the I-T department plans to hire, will design and operationalise analytical solution that will help collating data, matching it and identifying relationships as well as clustering of PAN and non-PAN data, an official said. 
  
@@ -14,9 +14,8 @@ It will help identify link between PAN holders on the basis of relationships (bu
  
 Also, it will cluster non-PAN demonetised data using common name, address, mobile number, e-mail and bank branch. Taxpayer segmentation on the basis of taxpayers&apos; status, type of ITR form used, nature of business, taxpayer segment, age of the individual and compliance history will also have to be prepared. 
  
-It will prioritise demonetisation data based on taxpayer segment, relationships, clusters, rules and risk matrix. &quot;Different types of interventions (send e-mail, SMS, outbound call, letter, notice, verification, investigation) can be selected for taxpayer priority and segment,&quot; the official added.</content> 
-<sequenceId type="str">695198829540</sequenceId> 
-<topics type="list"> 
+It will prioritise demonetisation data based on taxpayer segment, relationships, clusters, rules and risk matrix. &quot;Different types of interventions (send e-mail, SMS, outbound call, letter, notice, verification, investigation) can be selected for taxpayer priority and segment,&quot; the official added.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -25,7 +24,8 @@ It will prioritise demonetisation data based on taxpayer segment, relationships,
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:02Z</estimatedPublishedDate> 
-<title type="str">Tax dept leans on Big Data to mark out multiple PAN holders</title> 
+</TOPICS> 
+<DOCID type="str">695198829540</DOCID> 
+<DCT type="str">2017-01-29T07:47:02Z</DCT> 
+<TITLE type="str">Tax dept leans on Big Data to mark out multiple PAN holders</TITLE> 
 </root>

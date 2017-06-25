@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trending  
+<TEXT type="str">Trending  
   
 1 
  
@@ -20,14 +20,14 @@
  
 5 
  
-   How Long Can the Trump Bump Economic Honeymoon Last?</content> 
-<sequenceId type="str">695194654674</sequenceId> 
-<topics type="list"> 
+   How Long Can the Trump Bump Economic Honeymoon Last?</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:57Z</estimatedPublishedDate> 
-<title type="str">newLisbon dominates Tri-Rivers tournament</title> 
+</TOPICS> 
+<DOCID type="str">695194654674</DOCID> 
+<DCT type="str">2017-01-29T07:16:57Z</DCT> 
+<TITLE type="str">newLisbon dominates Tri-Rivers tournament</TITLE> 
 </root>

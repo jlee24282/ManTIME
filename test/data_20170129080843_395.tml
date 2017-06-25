@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">White House chief strategist Steve Bannon (R), Donald Trump (L) and his son-in law Jared Kushner 
+<TEXT type="str">White House chief strategist Steve Bannon (R), Donald Trump (L) and his son-in law Jared Kushner 
  
 US President Donald Trump has given crucial roles to pro-Israel American Jews by appointing at least eleven influential members in his administration, reports say. 
  
@@ -54,9 +54,8 @@ Cordish, a longtime friend of Trump’s family, serves as assistant to the presi
  
 Avrahm Berkowitz: Special assistant   
  
-Twenty-seven-year-old Berkowitz is serving as special assistant to Trump and assistant to Jared Kushner. Berkowitz, who was finishing up his last semester at Harvard Law School last year, directed a</content> 
-<sequenceId type="str">695198881224</sequenceId> 
-<topics type="list"> 
+Twenty-seven-year-old Berkowitz is serving as special assistant to Trump and assistant to Jared Kushner. Berkowitz, who was finishing up his last semester at Harvard Law School last year, directed a</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -73,7 +72,8 @@ Twenty-seven-year-old Berkowitz is serving as special assistant to Trump and ass
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:33Z</estimatedPublishedDate> 
-<title type="str">Trump picks 11 Jews to serve in administration 12hr</title> 
+</TOPICS> 
+<DOCID type="str">695198881224</DOCID> 
+<DCT type="str">2017-01-29T07:47:33Z</DCT> 
+<TITLE type="str">Trump picks 11 Jews to serve in administration 12hr</TITLE> 
 </root>

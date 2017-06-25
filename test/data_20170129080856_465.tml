@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Looks like you have an old 3player account, you can still use this account to login but we need some more information to complete your registration. 
+<TEXT type="str">Looks like you have an old 3player account, you can still use this account to login but we need some more information to complete your registration. 
  Birth Year:  
-  Location</content> 
-<sequenceId type="str">695199637308</sequenceId> 
-<topics type="list"> 
+  Location</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -13,7 +12,8 @@
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:00Z</estimatedPublishedDate> 
-<title type="str">Number Four (Pre-school fun from Teletubbyland. Over the hills and far away,...) - 07:40:00 29/1/2017</title> 
+</TOPICS> 
+<DOCID type="str">695199637308</DOCID> 
+<DCT type="str">2017-01-29T07:40:00Z</DCT> 
+<TITLE type="str">Number Four (Pre-school fun from Teletubbyland. Over the hills and far away,...) - 07:40:00 29/1/2017</TITLE> 
 </root>

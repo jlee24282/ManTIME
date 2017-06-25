@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Search by city or zip code. Press enter or select the go button to submit request 
+<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
               
 Auto Refresh: OFF  
      
@@ -41,9 +41,8 @@ Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  39.5 ft  Inte
 (gauge height = 0)  Elevation 
 (gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  0 ft  40.8 ft     
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</content> 
-<sequenceId type="str">695198238544</sequenceId> 
-<topics type="list"> 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Sacramento news</name> 
@@ -52,7 +51,8 @@ Current/Historical Observations:
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:30Z</estimatedPublishedDate> 
-<title type="str">Action (33.58 ft) - Observation - FMWC1 - Sacramento River at Fremont Weir (California)</title> 
+</TOPICS> 
+<DOCID type="str">695198238544</DOCID> 
+<DCT type="str">2017-01-29T07:37:30Z</DCT> 
+<TITLE type="str">Action (33.58 ft) - Observation - FMWC1 - Sacramento River at Fremont Weir (California)</TITLE> 
 </root>

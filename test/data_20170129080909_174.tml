@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was a successful weekend for the Marlborough rowing clubs at the South Island Rowing championships in Twizel. 
+<TEXT type="str">It was a successful weekend for the Marlborough rowing clubs at the South Island Rowing championships in Twizel. 
  
 All up the Central RPC, Wairau Rowing Club and Blenheim Rowing Club claimed 12 medals between them. 
  
@@ -46,9 +46,8 @@ Blenheim also added a bronze medal.
  
 Wairau Rowing Club&apos;s standout was Tristan Gregory-Hunt, who claimed a gold medal in the men&apos;s club single sculls. 
  
-He won with a time of 7minutes and 34.65 seconds, after qualifying first from his heat.</content> 
-<sequenceId type="str">695199832830</sequenceId> 
-<topics type="list"> 
+He won with a time of 7minutes and 34.65 seconds, after qualifying first from his heat.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
@@ -57,7 +56,8 @@ He won with a time of 7minutes and 34.65 seconds, after qualifying first from hi
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:45Z</estimatedPublishedDate> 
-<title type="str">Successful weekend for Marlborough rowers at Lake Ruataniwha</title> 
+</TOPICS> 
+<DOCID type="str">695199832830</DOCID> 
+<DCT type="str">2017-01-29T07:25:45Z</DCT> 
+<TITLE type="str">Successful weekend for Marlborough rowers at Lake Ruataniwha</TITLE> 
 </root>

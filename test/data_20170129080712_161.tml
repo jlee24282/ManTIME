@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan. 28, 2017  
+<TEXT type="str">Jan. 28, 2017  
 Final Stats  
  
 Rice 55-Charlotte 52 (PDF Box Score) 
@@ -52,9 +52,8 @@ When you hit the game-winner, you get the postgame interview. #RELENTLESS  pic.t
  
 — RiceWBasketball (@RiceWBasketball) January 29, 2017 
   
--RiceOwls.com-</content> 
-<sequenceId type="str">695195154143</sequenceId> 
-<topics type="list"> 
+-RiceOwls.com-</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Charlotte Bobcats news</name> 
@@ -67,7 +66,8 @@ When you hit the game-winner, you get the postgame interview. #RELENTLESS  pic.t
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:12:00Z</estimatedPublishedDate> 
-<title type="str">Hawkins Delivers Game-Winner at Charlotte</title> 
+</TOPICS> 
+<DOCID type="str">695195154143</DOCID> 
+<DCT type="str">2017-01-29T03:12:00Z</DCT> 
+<TITLE type="str">Hawkins Delivers Game-Winner at Charlotte</TITLE> 
 </root>

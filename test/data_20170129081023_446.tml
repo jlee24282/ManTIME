@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Santa Rosa City Schools, the largest school district in Sonoma County, is marching toward insolvency.
+<TEXT type="str">Santa Rosa City Schools, the largest school district in Sonoma County, is marching toward insolvency.
 
 Structural budget deficits are growing by about $1 million a year and, barring big changes, reserve funds will be exhausted within three years.
 
@@ -36,9 +36,8 @@ After listening to Ryland’s Dec. 14 report, without comment on questions, and 
 
 Sonoma County school Superintendent Steve Herrington, whose responsibilities include oversight of school district budgets, grudgingly accepted that conclusion but warned Santa Rosa school officials that they need to be much more specific about their plans for erasing the deficit.
 
-In 2014, Santa Rosa voters taxed themselves to pay for $229 million in capital improvements to local schools — money that cannot be used for day-to-day operations. At least one school board member is on record advocating a parcel tax to help balance the books. But the district’s elected and appointed leaders will need to be far more forthcoming, and establish a more transparent process, if they expect voters to bail them out.</content> 
-<sequenceId type="str">695202786160</sequenceId> 
-<topics type="list"> 
+In 2014, Santa Rosa voters taxed themselves to pay for $229 million in capital improvements to local schools — money that cannot be used for day-to-day operations. At least one school board member is on record advocating a parcel tax to help balance the books. But the district’s elected and appointed leaders will need to be far more forthcoming, and establish a more transparent process, if they expect voters to bail them out.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Francisco Bay Area news</name> 
@@ -55,7 +54,8 @@ In 2014, Santa Rosa voters taxed themselves to pay for $229 million in capital i
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">PD Editorial: A brewing fiscal crisis for Santa Rosa schools</title> 
+</TOPICS> 
+<DOCID type="str">695202786160</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">PD Editorial: A brewing fiscal crisis for Santa Rosa schools</TITLE> 
 </root>

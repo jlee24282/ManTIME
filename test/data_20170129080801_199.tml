@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DisneyToysReview the toy channel presents another collection video: \r 
+<TEXT type="str">DisneyToysReview the toy channel presents another collection video: \r 
 Doc Mcstuffins collection!\r 
 \r 
 Today we are looking at a collection of Disney Junior Doc Mcstuffins toys. These will be wonderful to add to our Doc Mcstuffins toys! \r 
@@ -70,9 +70,8 @@ Did you know that: Doutora Brinquedos, Spielzeugärztin, Doctora Juguetes, Docte
 
 Author: curtissherram91 
 Tags: Disney Toys Review  DisneyToysReview  doc mcstuffins  mcstuffins  disney junior  playdoh  play-doh  doll  doll doctor  vet  toy doctor  doc and rhonda  docs.  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695197083380</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -81,7 +80,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:27Z</estimatedPublishedDate> 
-<title type="str">COLLECTION OF DOC MCSTUFFINS WITH DOC &amp; RHONDA DOCS CLINIC DOCS MOBILE CLINIC VEHICLE AND PLAYDOH</title> 
+</TOPICS> 
+<DOCID type="str">695197083380</DOCID> 
+<DCT type="str">2017-01-29T07:23:27Z</DCT> 
+<TITLE type="str">COLLECTION OF DOC MCSTUFFINS WITH DOC &amp; RHONDA DOCS CLINIC DOCS MOBILE CLINIC VEHICLE AND PLAYDOH</TITLE> 
 </root>

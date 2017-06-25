@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Last weekend, millions gathered all over the world in 2017’s Women’s March. 
+<TEXT type="str">Last weekend, millions gathered all over the world in 2017’s Women’s March. 
  
 In Moscow alone, approximately 2,500 people of all identities came together to bring awareness to a multitude of issues in our society. 
  
@@ -28,14 +28,14 @@ It was a time for people all over the world to unite and perpetuate a long lost 
  
 On Jan. 21 the world united to send a single message: love trumps hate. 
  
-Mihaela Karst can be reached at arg-opinion@uidaho.edu or on Twitter @mihaela_jo</content> 
-<sequenceId type="str">695200062906</sequenceId> 
-<topics type="list"> 
+Mihaela Karst can be reached at arg-opinion@uidaho.edu or on Twitter @mihaela_jo</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:31:58Z</estimatedPublishedDate> 
-<title type="str">Not a temper tantrum — Millions around the world promoted unity and kindness with the Women’s March</title> 
+</TOPICS> 
+<DOCID type="str">695200062906</DOCID> 
+<DCT type="str">2017-01-29T04:31:58Z</DCT> 
+<TITLE type="str">Not a temper tantrum — Millions around the world promoted unity and kindness with the Women’s March</TITLE> 
 </root>

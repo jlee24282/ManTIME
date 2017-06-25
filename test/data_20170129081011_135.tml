@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON — President Donald Trump on Saturday ordered the Pentagon to devise a strategy to defeat the Islamic State and restructured the National Security Council to include his controversial top political adviser.
+<TEXT type="str">WASHINGTON — President Donald Trump on Saturday ordered the Pentagon to devise a strategy to defeat the Islamic State and restructured the National Security Council to include his controversial top political adviser.
 
 Mr. Trump signed a presidential memo directing the Pentagon to submit a plan within 30 days to defeat the Islamic State, an effort to make good on his campaign promise to more aggressively confront Islamist terrorism.
 
@@ -30,14 +30,14 @@ The report cited the Malaysian Maritime Enforcement Agency as saying there were 
 
 Malaysia deployed search and rescue ships and helicopters after receiving a call Saturday night about the boat’s disappearance, Xinhua reported.
 
-Calls to the Chinese Consulate rang unanswered Sunday.</content> 
-<sequenceId type="str">695202205448</sequenceId> 
-<topics type="list"> 
+Calls to the Chinese Consulate rang unanswered Sunday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Malaysia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">World briefs: Trump orders IS strategy, council changes</title> 
+</TOPICS> 
+<DOCID type="str">695202205448</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">World briefs: Trump orders IS strategy, council changes</TITLE> 
 </root>

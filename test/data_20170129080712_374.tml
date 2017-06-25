@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ben Hulbert, 17, of Minooka, is a junior at Joliet Catholic Academy. 
+<TEXT type="str">Ben Hulbert, 17, of Minooka, is a junior at Joliet Catholic Academy. 
    
 He’s involved in clubs that interest him – Habitat for Humanity and photography – and feels JCA shines in academics. 
  
@@ -66,9 +66,8 @@ Amy wants to send Aidan to Joliet Catholic Academy but she and her husband, Tim 
  
 But Ann Hulbert, Ben’s mother, said Ben received scholarships that helped tremendously with tuition costs. Ben said applying for them was “a lot of work.” He had to write essays and his parents had to submit financial forms. 
  
-“It was worth it,” Ben said. “It helped me</content> 
-<sequenceId type="str">695195441993</sequenceId> 
-<topics type="list"> 
+“It was worth it,” Ben said. “It helped me</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -77,7 +76,8 @@ But Ann Hulbert, Ben’s mother, said Ben received scholarships that helped trem
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:17Z</estimatedPublishedDate> 
-<title type="str">The changing face of Catholic education in Will and Grundy counties</title> 
+</TOPICS> 
+<DOCID type="str">695195441993</DOCID> 
+<DCT type="str">2017-01-29T07:22:17Z</DCT> 
+<TITLE type="str">The changing face of Catholic education in Will and Grundy counties</TITLE> 
 </root>

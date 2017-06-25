@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rankings for hard-cover books sold in Southern California, as reported by selected book stores: 
+<TEXT type="str">Rankings for hard-cover books sold in Southern California, as reported by selected book stores: 
 
 Nonfiction 
 
@@ -22,9 +22,8 @@ Nonfiction
 
 9.&quot;Spark,&quot; by Angie Morgan, Courtney Lynch and Sean Lynch Outlining seven key behaviors to develop leadership. 
 
-10.&quot;Killing the Rising Sun,&quot; by Bill O&apos;Reilly &amp; Martin Dugard (Holt: $30) The gruesome battles with Japan in the Pacific during WWII and the decision to drop the atomic bomb.</content> 
-<sequenceId type="str">695203572702</sequenceId> 
-<topics type="list"> 
+10.&quot;Killing the Rising Sun,&quot; by Bill O&apos;Reilly &amp; Martin Dugard (Holt: $30) The gruesome battles with Japan in the Pacific during WWII and the decision to drop the atomic bomb.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -33,7 +32,8 @@ Nonfiction
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Best-sellers</title> 
+</TOPICS> 
+<DOCID type="str">695203572702</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Best-sellers</TITLE> 
 </root>

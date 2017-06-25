@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The National Basketball Association has contacted the State Department to understand how President Donald Trump’s executive order to suspend immigration from seven countries could impact the league’s players. 
+<TEXT type="str">The National Basketball Association has contacted the State Department to understand how President Donald Trump’s executive order to suspend immigration from seven countries could impact the league’s players. 
 
 The NBA has two active players, including Milwaukee Bucks rookie Thon Maker and Los Angeles Lakers veteran Luol Deng , who have Sudanese roots. 
 
@@ -16,9 +16,8 @@ The NBA is holding a Basketball Without Borders camp at All-Star Weekend in New 
 
 Maker left the Sudan as a toddler with his family, landing in Australia and ultimately coming to the United States and Canada to play high school basketball. He holds an Australian passport. 
 
-Deng’s family left the Sudan at 5 years old, and came to the United States as a teenager.</content> 
-<sequenceId type="str">695196215891</sequenceId> 
-<topics type="list"> 
+Deng’s family left the Sudan at 5 years old, and came to the United States as a teenager.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -31,7 +30,8 @@ Deng’s family left the Sudan at 5 years old, and came to the United States as 
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:46Z</estimatedPublishedDate> 
-<title type="str">NBA seeks clarification on how immigration ban affects players</title> 
+</TOPICS> 
+<DOCID type="str">695196215891</DOCID> 
+<DCT type="str">2017-01-29T07:27:46Z</DCT> 
+<TITLE type="str">NBA seeks clarification on how immigration ban affects players</TITLE> 
 </root>

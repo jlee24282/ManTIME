@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Seventy-eight minutes after Trump’s ban went into effect, a man who’d worked with Americans forces in Iraq found himself in cuffs in Queens. 
+<TEXT type="str">Seventy-eight minutes after Trump’s ban went into effect, a man who’d worked with Americans forces in Iraq found himself in cuffs in Queens. 
   
 No known terrorists were among the first detainees under our president’s executive order “Protecting the Nation From Foreign Terrorist Entry Into The United States.” 
    
@@ -139,9 +139,8 @@ Outside Brooklyn federal court, another crowd chanted ”Set them free!” as la
 At end of a day when his managed to detain a Trump fan who had served American with great dedication and courage, our president had this to say: 
 
    
-“It&apos;s working out very nicely. You see it at the airports, you see it all over.”</content> 
-<sequenceId type="str">695199616296</sequenceId> 
-<topics type="list"> 
+“It&apos;s working out very nicely. You see it at the airports, you see it all over.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -158,7 +157,8 @@ At end of a day when his managed to detain a Trump fan who had served American w
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:56Z</estimatedPublishedDate> 
-<title type="str">The Trump Fan Detained In His Ban</title> 
+</TOPICS> 
+<DOCID type="str">695199616296</DOCID> 
+<DCT type="str">2017-01-29T07:52:56Z</DCT> 
+<TITLE type="str">The Trump Fan Detained In His Ban</TITLE> 
 </root>

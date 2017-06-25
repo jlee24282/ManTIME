@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Los Angeles (AFP) - Dreamy musical &quot;La La Land&quot; took home best movie at the Producers Guild Awards, putting it in the box seat for the much-anticipated Oscars next month. 
+<TEXT type="str">Los Angeles (AFP) - Dreamy musical &quot;La La Land&quot; took home best movie at the Producers Guild Awards, putting it in the box seat for the much-anticipated Oscars next month. 
  
 The movie beat industry favorites and leading Academy Awards contenders including coming-of-age tale &quot;Moonlight&quot;, stylish alien thriller &quot;Arrival&quot; and visceral family drama &quot;Manchester by the Sea.&quot; 
  
@@ -42,9 +42,8 @@ The PGA has a solid record of giving top honors to movies that go on to earn bes
  
 &quot;You get &apos;no&apos;s all the time, a million &apos;no&apos;s, a sea of &apos;no&apos;s. All you need is one &apos;yes,&apos; -- one &apos;yes&apos; from Mel Gibson to direct the movie, one &apos;yes&apos; from Andrew Garfield, one &apos;yes&apos; from Robert Schenkkan to say I love that true story and I want to write it, one &apos;yes&apos; from a financier.&quot; 
  
-The Oscars ceremony is staged on February 26, hosted by late night funnyman Jimmy Kimmel.</content> 
-<sequenceId type="str">695199153764</sequenceId> 
-<topics type="list"> 
+The Oscars ceremony is staged on February 26, hosted by late night funnyman Jimmy Kimmel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -53,7 +52,8 @@ The Oscars ceremony is staged on February 26, hosted by late night funnyman Jimm
 <group type="str">Sports</group> 
 <name type="str">Sports: golf news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:10Z</estimatedPublishedDate> 
-<title type="str">&apos;La La Land&apos; wins PGA best film ahead of Oscars</title> 
+</TOPICS> 
+<DOCID type="str">695199153764</DOCID> 
+<DCT type="str">2017-01-29T07:49:10Z</DCT> 
+<TITLE type="str">&apos;La La Land&apos; wins PGA best film ahead of Oscars</TITLE> 
 </root>

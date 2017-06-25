@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">If you are appalled as I am about the state of the upcoming Moline mayoral election, please join me in doing something about it. 
+<TEXT type="str">If you are appalled as I am about the state of the upcoming Moline mayoral election, please join me in doing something about it. 
  
 Apparently, Mayor Scott Raes thinks he can ambush the process and hold us all hostage. 
  
@@ -16,9 +16,8 @@ Please take the time on the 28th to be counted and show your disapproval of this
  
 John R. Williams, 
  
-Moline</content> 
-<sequenceId type="str">695202907388</sequenceId> 
-<topics type="list"> 
+Moline</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -27,7 +26,8 @@ Moline</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:11Z</estimatedPublishedDate> 
-<title type="str">Letter: Moliners do have a voice Feb. 28; write in your choice</title> 
+</TOPICS> 
+<DOCID type="str">695202907388</DOCID> 
+<DCT type="str">2017-01-29T06:00:11Z</DCT> 
+<TITLE type="str">Letter: Moliners do have a voice Feb. 28; write in your choice</TITLE> 
 </root>

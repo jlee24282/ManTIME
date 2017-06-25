@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Burgeoning corruption rates have further tarnished the image of oil-rich Arab states of the Persian Gulf region, a report says. 
+<TEXT type="str">Burgeoning corruption rates have further tarnished the image of oil-rich Arab states of the Persian Gulf region, a report says. 
  
 According to Press TV, the report by Transparency International, published on Saturday, shows that Qatar, Kuwait, Bahrain and Saudi Arabia have all seen their ranking collapse in the group&apos;s annual Corruption Perceptions Index of 2016. 
  
@@ -30,9 +30,8 @@ Reports have also revealed Doha&apos;s role in funding terrorist groups in Syria
  
 Some sources say Qatar has spent tens of billions of dollars to assist anti-Syria terrorists, a policy which seems to have permanently failed in light of recent victories and gains by the government in Damascus against terrorist groups across the country. 
  
-ME</content> 
-<sequenceId type="str">695197474678</sequenceId> 
-<topics type="list"> 
+ME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Qatar news</name> 
@@ -49,7 +48,8 @@ ME</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:51Z</estimatedPublishedDate> 
-<title type="str">Corruption rates have tarnished image of Persian Gulf Arab states, report says</title> 
+</TOPICS> 
+<DOCID type="str">695197474678</DOCID> 
+<DCT type="str">2017-01-29T07:37:51Z</DCT> 
+<TITLE type="str">Corruption rates have tarnished image of Persian Gulf Arab states, report says</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Appearances, they say, can be deceiving.
+<TEXT type="str">Appearances, they say, can be deceiving.
 
 But this doesn&apos;t look good.
 
@@ -26,9 +26,8 @@ With more warnings of state budget constraints, fiscal belt-tightening and the p
 
 Meanwhile, we commend the local legislative delegation for opposing these unnecessary raises. And we call on Gov. Baker to reject the measure, even though it was approved by veto-proof margins.
 
-It would at least show the appearance that someone is willing to stand up to Beacon Hill greed.</content> 
-<sequenceId type="str">695200911446</sequenceId> 
-<topics type="list"> 
+It would at least show the appearance that someone is willing to stand up to Beacon Hill greed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Boston news</name> 
@@ -41,7 +40,8 @@ It would at least show the appearance that someone is willing to stand up to Bea
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">EDITORIAL: Reject raises, for appearance sake</title> 
+</TOPICS> 
+<DOCID type="str">695200911446</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">EDITORIAL: Reject raises, for appearance sake</TITLE> 
 </root>

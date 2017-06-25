@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The article below represents a preview only and is not meant for reuse or republishing. 
+<TEXT type="str">The article below represents a preview only and is not meant for reuse or republishing. 
 
 India, Jan. 29 -- Next generation satellite INSAT-3DR has opened new frontiers in India&apos;s weather forecasting and is set to equip the country with the ability to detect farm fires -- which intensify air pollution in the northern region seasonally, leaving Delhi gasping for breath. 
 
@@ -8,9 +8,8 @@ A team of the satellite meteorology division of India Meteorological Department 
 
 Launched in September last year, INSAT-3DR works in tandem with INSAT-3D, operational since 2014, in sending raw data and high-resolution images, zoomed up to 1 kilometre near the earth&apos;s surface, every 15 minutes. 
 
-Dr Sunil Pes...</content> 
-<sequenceId type="str">695194744365</sequenceId> 
-<topics type="list"> 
+Dr Sunil Pes...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -19,7 +18,8 @@ Dr Sunil Pes...</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:48Z</estimatedPublishedDate> 
-<title type="str">Eye in the sky: Satellite to map farm fires in Haryana and Punjab</title> 
+</TOPICS> 
+<DOCID type="str">695194744365</DOCID> 
+<DCT type="str">2017-01-29T07:17:48Z</DCT> 
+<TITLE type="str">Eye in the sky: Satellite to map farm fires in Haryana and Punjab</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Movies News / Jon Galt We are bringing you our top 10 Christmas 2013 movie releases 
+<TEXT type="str">Movies News / Jon Galt We are bringing you our top 10 Christmas 2013 movie releases 
 
 We have already given you some interesting films that are coming out 
 
@@ -16,9 +16,8 @@ For those of you unfamiliar with The Secret Life of Walter Mitty, it centres aro
 
 Kristen Wiig is also in the movie 
 
-The Secret Life of Walter Mitty has an impressive cast, which includes the likes of Ben Stiller (who also directs and produces the movie), Kristen Wiig, Adam Scott, Sean Penn, Kathryn Hahnand Patton Oswalt. The Secret Life of Walter Mitty opens on December 25 in the US and then on December 26 in the UK.</content> 
-<sequenceId type="str">695197474143</sequenceId> 
-<topics type="list"> 
+The Secret Life of Walter Mitty has an impressive cast, which includes the likes of Ben Stiller (who also directs and produces the movie), Kristen Wiig, Adam Scott, Sean Penn, Kathryn Hahnand Patton Oswalt. The Secret Life of Walter Mitty opens on December 25 in the US and then on December 26 in the UK.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -27,7 +26,8 @@ The Secret Life of Walter Mitty has an impressive cast, which includes the likes
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:50Z</estimatedPublishedDate> 
-<title type="str">Top 10 Christmas 2013 movie releases: No.6 - The Secret Life of Walter Mitty</title> 
+</TOPICS> 
+<DOCID type="str">695197474143</DOCID> 
+<DCT type="str">2017-01-29T07:37:50Z</DCT> 
+<TITLE type="str">Top 10 Christmas 2013 movie releases: No.6 - The Secret Life of Walter Mitty</TITLE> 
 </root>

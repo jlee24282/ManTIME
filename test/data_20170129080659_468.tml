@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Joe E. Cervi 
+<TEXT type="str">Joe E. Cervi 
 
 by Joe e. Cervi Sports 
  
@@ -66,9 +66,8 @@ So stay the course. Embrace the difficult. Work to finish what you started.
  
 Imagine, then, just how sweet the cake will taste — when you graduate from college. 
  
-Chieftain Sports Editor Joe E. Cervi may be reached at 719-544-3520, ext. 454, or by email at jcervi@chieftain.com. Follow him on Twitter: @JoeECervi.</content> 
-<sequenceId type="str">695194963051</sequenceId> 
-<topics type="list"> 
+Chieftain Sports Editor Joe E. Cervi may be reached at 719-544-3520, ext. 454, or by email at jcervi@chieftain.com. Follow him on Twitter: @JoeECervi.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -81,7 +80,8 @@ Chieftain Sports Editor Joe E. Cervi may be reached at 719-544-3520, ext. 454, o
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:03Z</estimatedPublishedDate> 
-<title type="str">Athletes: Get most out of college</title> 
+</TOPICS> 
+<DOCID type="str">695194963051</DOCID> 
+<DCT type="str">2017-01-29T06:30:03Z</DCT> 
+<TITLE type="str">Athletes: Get most out of college</TITLE> 
 </root>

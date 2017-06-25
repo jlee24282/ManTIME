@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street. The event - which stretched from Third Street down to Olympic Boulevard - included performances on 10 stages as well as...</content> 
-<sequenceId type="str">695204785741</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street. The event - which stretched from Third Street down to Olympic Boulevard - included performances on 10 stages as well as...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:03Z</estimatedPublishedDate> 
-<title type="str">The lights of Broadway shine bright, even in downtown L.A.</title> 
+</TOPICS> 
+<DOCID type="str">695204785741</DOCID> 
+<DCT type="str">2017-01-29T08:32:03Z</DCT> 
+<TITLE type="str">The lights of Broadway shine bright, even in downtown L.A.</TITLE> 
 </root>

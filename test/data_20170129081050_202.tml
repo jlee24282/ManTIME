@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bitcoin is a massively popular payment system that allows users to make transactions across the globe. Our list of apps really highlight some of Bitcoin’s promising features, while making the usage of Bitcoin easier and more convenient. If you currently use Bitcoin then check out our list of the best Bitcoin apps today!  
+<TEXT type="str">Bitcoin is a massively popular payment system that allows users to make transactions across the globe. Our list of apps really highlight some of Bitcoin’s promising features, while making the usage of Bitcoin easier and more convenient. If you currently use Bitcoin then check out our list of the best Bitcoin apps today!  
        
 There are tons of Bitcoin wallet apps, but Copay is one of the most user friendly options around. The reason this app is so unique is because it lets you use it as your individual account, or you can share fund in a group by requiring multiple signatures to complete transactions for added security. You can set up a company account, a personal account, a vacation account, and even a family savings account all from one app. Private keys are stored locally on your device not in the cloud, it has support for 150 different currencies, and you can set up email notification for payments and transfers. 
- Set up different accounts for different uses  Joint accounts can require multiple signatures  Private keys are stored locally not in the cloud  Support for 150 different currencies  Set up email notifications for payments and transfers</content> 
-<sequenceId type="str">695203423322</sequenceId> 
-<topics type="list"> 
+ Set up different accounts for different uses  Joint accounts can require multiple signatures  Private keys are stored locally not in the cloud  Support for 150 different currencies  Set up email notifications for payments and transfers</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -26,7 +25,8 @@ There are tons of Bitcoin wallet apps, but Copay is one of the most user friendl
 <group type="str">Internet</group> 
 <name type="str">E-commerce news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:19Z</estimatedPublishedDate> 
-<title type="str">The best Bitcoin apps for the iPhone</title> 
+</TOPICS> 
+<DOCID type="str">695203423322</DOCID> 
+<DCT type="str">2017-01-29T08:21:19Z</DCT> 
+<TITLE type="str">The best Bitcoin apps for the iPhone</TITLE> 
 </root>

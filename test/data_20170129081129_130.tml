@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sun, 29 Jan 2017 08:30:08 GMT 
+<TEXT type="str">Sun, 29 Jan 2017 08:30:08 GMT 
  
 Source: Dukascopy Bank SA 
  
-China and Switzerland have signed AEO (authorized economic operator) agreement, a move that will further bolster bilateral trade and economic cooperation.</content> 
-<sequenceId type="str">695204742718</sequenceId> 
-<topics type="list"> 
+China and Switzerland have signed AEO (authorized economic operator) agreement, a move that will further bolster bilateral trade and economic cooperation.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -27,7 +26,8 @@ China and Switzerland have signed AEO (authorized economic operator) agreement, 
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:08Z</estimatedPublishedDate> 
-<title type="str">China, Switzerland sign AEO agreement</title> 
+</TOPICS> 
+<DOCID type="str">695204742718</DOCID> 
+<DCT type="str">2017-01-29T08:30:08Z</DCT> 
+<TITLE type="str">China, Switzerland sign AEO agreement</TITLE> 
 </root>

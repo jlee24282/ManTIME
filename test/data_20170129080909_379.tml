@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">THE HAGUE – The Dutch government announced Saturday it is putting €10 million ($10.7 million) into an international fund it has launched to finance access to birth control, abortion and sex education for women in developing nations after President Donald Trump cut U.S. funding for such services. 
+<TEXT type="str">THE HAGUE – The Dutch government announced Saturday it is putting €10 million ($10.7 million) into an international fund it has launched to finance access to birth control, abortion and sex education for women in developing nations after President Donald Trump cut U.S. funding for such services. 
  
 Lilianne Ploumen, the minister for foreign trade and development cooperation, said she was making the initial contribution and launched the fund — “She Decides — Global Fundraising Initiative” — with a website. 
  
@@ -12,9 +12,8 @@ Ploumen said an international sexual health and rights organization based in the
  
 The fund will “prevent women and girls being abandoned,” she added. “Because they, too, must be able to decide for themselves if they want children, with whom and when.” 
  
-Ploumen said much more money is needed but “I’m confident we can go a long way so that essential services, not just for women, but for the whole of society, can be maintained.”</content> 
-<sequenceId type="str">695200099358</sequenceId> 
-<topics type="list"> 
+Ploumen said much more money is needed but “I’m confident we can go a long way so that essential services, not just for women, but for the whole of society, can be maintained.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -27,7 +26,8 @@ Ploumen said much more money is needed but “I’m confident we can go a long w
 <group type="str">Regional</group> 
 <name type="str">Benelux news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:46Z</estimatedPublishedDate> 
-<title type="str">&apos;She Decides&apos;: Dutch put millions into birth control fund</title> 
+</TOPICS> 
+<DOCID type="str">695200099358</DOCID> 
+<DCT type="str">2017-01-29T07:56:46Z</DCT> 
+<TITLE type="str">&apos;She Decides&apos;: Dutch put millions into birth control fund</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MELBOURNE, Australia — Serena Williams held up a Grand Slam winner’s trophy for the 23rd time, celebrating her unrivalled place in history, and received a congratulatory letter and a pair of custom-made shoes from Michael Jordan, the name most synonymous with No. 23. 
+<TEXT type="str">MELBOURNE, Australia — Serena Williams held up a Grand Slam winner’s trophy for the 23rd time, celebrating her unrivalled place in history, and received a congratulatory letter and a pair of custom-made shoes from Michael Jordan, the name most synonymous with No. 23. 
  
 Venus Williams got to watch from close range again, and shed tears more of joy than regret after being beaten in a major final for the seventh time by her record-breaking younger sister. 
  
@@ -40,9 +40,8 @@ After the fourth game, however, Serena Williams didn’t face another break poin
  
 “Serena Williams, that’s my little sister,” Venus said. “I have been right there with you. Some of them I have lost right there against you. It’s been an awesome thing, your win has always been my win.” 
  
-In terms of total years, it was the oldest Grand Slam women’s final in the Open era —the Williams sisters combining for 71 years, 11 months.</content> 
-<sequenceId type="str">695202484357</sequenceId> 
-<topics type="list"> 
+In terms of total years, it was the oldest Grand Slam women’s final in the Open era —the Williams sisters combining for 71 years, 11 months.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -51,7 +50,8 @@ In terms of total years, it was the oldest Grand Slam women’s final in the Ope
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Australian Open: Serena Williams sets major record with win over Venus</title> 
+</TOPICS> 
+<DOCID type="str">695202484357</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Australian Open: Serena Williams sets major record with win over Venus</TITLE> 
 </root>

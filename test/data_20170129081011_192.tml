@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">All Times EST  COLONIAL ATHLETIC ASSOCIATION   Conference  All  Games   W  L  PCT  W  L  PCT  UNC-Wilmington  9  1  .900  20  3  .870  Coll. of Charleston  8  2  .800  17  6  .739  Elon  6  4  .600  14  9  .609  Northeastern  6  4  .600  13  9  .591  William &amp; Mary  5  4  .556  11  9  .550  Towson  5  5  .500  13  10  .565  James Madison  4  6  .400  6  17  .261  Drexel  2  7  .222  8  14  .364  Hofstra  2  8  .200  10  13  .435  Delaware  2  8  .200  9  14  .391  Saturday’s Games  
+<TEXT type="str">All Times EST  COLONIAL ATHLETIC ASSOCIATION   Conference  All  Games   W  L  PCT  W  L  PCT  UNC-Wilmington  9  1  .900  20  3  .870  Coll. of Charleston  8  2  .800  17  6  .739  Elon  6  4  .600  14  9  .609  Northeastern  6  4  .600  13  9  .591  William &amp; Mary  5  4  .556  11  9  .550  Towson  5  5  .500  13  10  .565  James Madison  4  6  .400  6  17  .261  Drexel  2  7  .222  8  14  .364  Hofstra  2  8  .200  10  13  .435  Delaware  2  8  .200  9  14  .391  Saturday’s Games  
 Coll. of Charleston 90, Drexel 76 
  
 William &amp; Mary 96, UNC-Wilmington 78 
@@ -139,9 +139,8 @@ Wagner 66, St. Francis Brooklyn 64
  
 Mount St. Mary’s 67, Sacred Heart 53 
  
-St. Francis (Pa.) 89, Robert Morris 83, OT</content> 
-<sequenceId type="str">695202277783</sequenceId> 
-<topics type="list"> 
+St. Francis (Pa.) 89, Robert Morris 83, OT</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Charlotte news</name> 
@@ -158,7 +157,8 @@ St. Francis (Pa.) 89, Robert Morris 83, OT</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:44Z</estimatedPublishedDate> 
-<title type="str">BC-BKC--BKC Glance,1st Add</title> 
+</TOPICS> 
+<DOCID type="str">695202277783</DOCID> 
+<DCT type="str">2017-01-29T08:12:44Z</DCT> 
+<TITLE type="str">BC-BKC--BKC Glance,1st Add</TITLE> 
 </root>

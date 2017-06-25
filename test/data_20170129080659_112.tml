@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The US technology industry, a major employer of foreign workers, hit back on Saturday at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American. 
+<TEXT type="str">The US technology industry, a major employer of foreign workers, hit back on Saturday at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American. 
  
 Trump&apos;s order temporarily bars citizens of seven majority-Muslim countries from entering the United States even if they hold valid visas or permanent residence permits, a move that caught many companies off-guard. 
  
@@ -40,9 +40,8 @@ Uber Technologies Inc CEO Travis Kalanick, who has faced criticism from some emp
  
 &quot;This ban will impact many innocent people - an issue that I will raise this coming Friday when I go to Washington for President Trump’s first business advisory group meeting,&quot; Kalanick said. 
  
-Facebook CEO Mark Zuckerberg said in a post on Friday that was &quot;concerned&quot; about the order and voiced support for immigrants.</content> 
-<sequenceId type="str">695194719097</sequenceId> 
-<topics type="list"> 
+Facebook CEO Mark Zuckerberg said in a post on Friday that was &quot;concerned&quot; about the order and voiced support for immigrants.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -63,7 +62,8 @@ Facebook CEO Mark Zuckerberg said in a post on Friday that was &quot;concerned&q
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:35Z</estimatedPublishedDate> 
-<title type="str">US tech leaders sound alarm over Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695194719097</DOCID> 
+<DCT type="str">2017-01-29T07:17:35Z</DCT> 
+<TITLE type="str">US tech leaders sound alarm over Trump immigration order</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One of Launceston&apos;s most loved and oldest shops is due to close in March having provided generations with school uniforms and residents are sad to see it go. 
+<TEXT type="str">One of Launceston&apos;s most loved and oldest shops is due to close in March having provided generations with school uniforms and residents are sad to see it go. 
  
 Opening in 1993 as WhizKidz, noe called hazard, it has overcome all the struggles an independent shop might face, two recessions and a spate of foot and mouth disease hitting rural economies, surviving as one of the town&apos;s only clothes shops. 
  
@@ -77,9 +77,8 @@ She added: &quot;End of March we will be closing. Hopefully we can let people kn
  
 &quot;I made the decision quite quickly and have had to stick with it. I am looking forward to retirement but I will miss watching families grow from two to three to older.&quot; 
  
-Read more:  See all the latest news from around Cornwall</content> 
-<sequenceId type="str">695203841401</sequenceId> 
-<topics type="list"> 
+Read more:  See all the latest news from around Cornwall</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Retail industry news</name> 
@@ -92,7 +91,8 @@ Read more:  See all the latest news from around Cornwall</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:37Z</estimatedPublishedDate> 
-<title type="str">Cornish town&apos;s beloved school uniform shop is closing after nearly 30 years</title> 
+</TOPICS> 
+<DOCID type="str">695203841401</DOCID> 
+<DCT type="str">2017-01-29T08:24:37Z</DCT> 
+<TITLE type="str">Cornish town&apos;s beloved school uniform shop is closing after nearly 30 years</TITLE> 
 </root>

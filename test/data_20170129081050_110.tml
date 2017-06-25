@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A League side Perth Glory will play host to English Premier League giants Chelsea in a friendly to mark the opening of Perth&apos;s new multi purpose venue next yar. 
+<TEXT type="str">A League side Perth Glory will play host to English Premier League giants Chelsea in a friendly to mark the opening of Perth&apos;s new multi purpose venue next yar. 
 
 A-League side Perth Glory will play host to English Premier League giants Chelsea in a friendly to mark the opening of Perth&apos;s new multi-purpose venue next yar.
 
@@ -18,9 +18,8 @@ WA Premier and Tourism Minister Colin Barnett made the announcement at the new P
 
 He predicted 15,000 interstate and overseas visitors and said that could generate around $15 million for the WA tourism industry.
 
-Glory&apos;s next assignment is rather more mundane, as, having lost at the weekend to the A-League&apos;s bottom team, Central Coast, they now return to their nib Stadium next Saturday night to host the Newcastle Jets. The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695203305218</sequenceId> 
-<topics type="list"> 
+Glory&apos;s next assignment is rather more mundane, as, having lost at the weekend to the A-League&apos;s bottom team, Central Coast, they now return to their nib Stadium next Saturday night to host the Newcastle Jets. The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Chelsea news</name> 
@@ -37,7 +36,8 @@ Glory&apos;s next assignment is rather more mundane, as, having lost at the week
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:40:12Z</estimatedPublishedDate> 
-<title type="str">Perth Glory to host English giants Chelsea in new stadium coup in 2018</title> 
+</TOPICS> 
+<DOCID type="str">695203305218</DOCID> 
+<DCT type="str">2017-01-29T02:40:12Z</DCT> 
+<TITLE type="str">Perth Glory to host English giants Chelsea in new stadium coup in 2018</TITLE> 
 </root>

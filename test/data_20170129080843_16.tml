@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">After losing two games in a row for the first time in this Ontario Junior Hockey League season, the Georgetown Raiders got back into the win column Saturday with a 5-0 home victory over the Orangeville Flyers. 
+<TEXT type="str">After losing two games in a row for the first time in this Ontario Junior Hockey League season, the Georgetown Raiders got back into the win column Saturday with a 5-0 home victory over the Orangeville Flyers. 
  
 Nicholas Latinovich stopped all 34 shots for his third shutout of the campaign, with single markers going to Jack Jacome, Jake Payette, Jonathan Hampton, Matthew Thom and Colin Rigney. 
  
@@ -18,9 +18,8 @@ With eight games remaining in the regular season, the Raiders remain in first pl
  
 A rematch of last year’s league championship series, won by the Hawks in five games, is set for Trenton on Feb. 17. 
  
-Next up for the Raiders is a trip to Port Credit Saturday to take on the Mississauga Chargers at 8 p.m.</content> 
-<sequenceId type="str">695198471040</sequenceId> 
-<topics type="list"> 
+Next up for the Raiders is a trip to Port Credit Saturday to take on the Mississauga Chargers at 8 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -29,7 +28,8 @@ Next up for the Raiders is a trip to Port Credit Saturday to take on the Mississ
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:21:31Z</estimatedPublishedDate> 
-<title type="str">Georgetown Raiders ground Orangeville Flyers 5-0</title> 
+</TOPICS> 
+<DOCID type="str">695198471040</DOCID> 
+<DCT type="str">2017-01-29T06:21:31Z</DCT> 
+<TITLE type="str">Georgetown Raiders ground Orangeville Flyers 5-0</TITLE> 
 </root>

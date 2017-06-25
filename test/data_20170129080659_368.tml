@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Historic Crests 
+<TEXT type="str">Historic Crests 
 (1) 19.24 ft on 06/07/2002 
 (2) 19.11 ft on 04/21/2013 
 (3) 18.88 ft on 02/23/1997 
@@ -30,10 +30,10 @@ Show More Recent Crests
 (P) : Preliminary values subject to further review. 
 
 Low Water Records 
-Currently none available.</content> 
-<sequenceId type="str">695194865703</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:23Z</estimatedPublishedDate> 
-<title type="str">Action (11.02 ft) - Observation - JOSI2 - Rock River near Joslin (Illinois)</title> 
+Currently none available.</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695194865703</DOCID> 
+<DCT type="str">2017-01-29T07:17:23Z</DCT> 
+<TITLE type="str">Action (11.02 ft) - Observation - JOSI2 - Rock River near Joslin (Illinois)</TITLE> 
 </root>

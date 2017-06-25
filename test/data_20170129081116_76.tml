@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Five Indian army soldiers, who were trapped under snow near Jammu and Kashmir’s Kupwara district, have been rescued. 
+<TEXT type="str">Five Indian army soldiers, who were trapped under snow near Jammu and Kashmir’s Kupwara district, have been rescued. 
 
-The soldiers were patrolling the Line of Control, that divides Kashmir between India and Pakistan, on Saturday when disaster struck. Some media reports claimed the rescued soldiers were in a critical condition and poor weather prevented them from being transported to a base hospital in Srinagar. This is the third consecutive snowfall and avalanche-related disaster in the Valley in less than four days, which killed at least one Army Major and 14 soldiers. It’s the highest number of such casualties the Indian Army has suffered in the last one year.</content> 
-<sequenceId type="str">695204284012</sequenceId> 
-<topics type="list"> 
+The soldiers were patrolling the Line of Control, that divides Kashmir between India and Pakistan, on Saturday when disaster struck. Some media reports claimed the rescued soldiers were in a critical condition and poor weather prevented them from being transported to a base hospital in Srinagar. This is the third consecutive snowfall and avalanche-related disaster in the Valley in less than four days, which killed at least one Army Major and 14 soldiers. It’s the highest number of such casualties the Indian Army has suffered in the last one year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -13,7 +12,8 @@ The soldiers were patrolling the Line of Control, that divides Kashmir between I
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:44Z</estimatedPublishedDate> 
-<title type="str">Five Indian soldiers trapped under snow in Ka...</title> 
+</TOPICS> 
+<DOCID type="str">695204284012</DOCID> 
+<DCT type="str">2017-01-29T08:25:44Z</DCT> 
+<TITLE type="str">Five Indian soldiers trapped under snow in Ka...</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Floyd Mayweather has expressed his belief that a superfight with Conor McGregor WILL happen. 
+<TEXT type="str">Floyd Mayweather has expressed his belief that a superfight with Conor McGregor WILL happen. 
  
 The retired boxer did not confirm where or when, but gave the clearest indication yet that the fight may take place. 
  
@@ -34,9 +34,8 @@ Video will play in 
   
 poll loading 
  Will Conor McGregor and Floyd Mayweather ever fight?  500+ VOTES SO FAR  
-YES  NO</content> 
-<sequenceId type="str">695199042948</sequenceId> 
-<topics type="list"> 
+YES  NO</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ YES  NO</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:13:37Z</estimatedPublishedDate> 
-<title type="str">Floyd Mayweather insists Conor McGregor superfight WILL happen - &apos;I believe I can get my number&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695199042948</DOCID> 
+<DCT type="str">2017-01-29T04:13:37Z</DCT> 
+<TITLE type="str">Floyd Mayweather insists Conor McGregor superfight WILL happen - &apos;I believe I can get my number&apos;</TITLE> 
 </root>

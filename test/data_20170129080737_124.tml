@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">French President Francois Hollande delivers a speech at the Mideast peace conference in Paris on January 15, 2017. (Photo by AFP) 
+<TEXT type="str">French President Francois Hollande delivers a speech at the Mideast peace conference in Paris on January 15, 2017. (Photo by AFP) 
  
 French President Francois Hollande says he has warned US President Donald Trump to respect Iran’s historic nuclear deal with the P5+1 group of countries. 
  
@@ -24,9 +24,8 @@ Hollande also told Trump that protecting democratic principles required observan
  
 Trump on Friday signed a sweeping executive order to suspend refugee arrivals and impose tough controls on travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen. 
  
-They also agreed to “continue with their discussions on essential issues.&quot;</content> 
-<sequenceId type="str">695196199602</sequenceId> 
-<topics type="list"> 
+They also agreed to “continue with their discussions on essential issues.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -51,7 +50,8 @@ They also agreed to “continue with their discussions on essential issues.&quot
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:37Z</estimatedPublishedDate> 
-<title type="str">Respect Iran deal, Hollande warns Trump 10hr</title> 
+</TOPICS> 
+<DOCID type="str">695196199602</DOCID> 
+<DCT type="str">2017-01-29T07:27:37Z</DCT> 
+<TITLE type="str">Respect Iran deal, Hollande warns Trump 10hr</TITLE> 
 </root>

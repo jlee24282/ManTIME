@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Can the energy of last weekend&apos;s postinaugural march be channeled into electoral politics? 
+<TEXT type="str">Can the energy of last weekend&apos;s postinaugural march be channeled into electoral politics? 
 
 This question becomes more urgent as President Trump lays the ground for wrecking-ball policies that will weaken America at home and abroad. 
 
@@ -44,9 +44,8 @@ Law&apos;s message should be taken to heart by those who fear a Trump presidency
 
 More than that, with their determined entry into local politics, Hong Kong&apos;s pro-democracy activists offer a road map for how their American counterparts should proceed. 
 
-trubin@phillynews.com</content> 
-<sequenceId type="str">695201055142</sequenceId> 
-<topics type="list"> 
+trubin@phillynews.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Beijing news</name> 
@@ -71,7 +70,8 @@ trubin@phillynews.com</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Worldview: Trudy Rubin: Hong Kong activists set example for U.S. counterparts</title> 
+</TOPICS> 
+<DOCID type="str">695201055142</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">Worldview: Trudy Rubin: Hong Kong activists set example for U.S. counterparts</TITLE> 
 </root>

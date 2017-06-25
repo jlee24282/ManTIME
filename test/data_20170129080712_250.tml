@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The US Department of Homeland Security has said in a statement it would &quot;comply with judicial orders&quot; but that President Donald Trump&apos;s executive action restricting entry into the country from seven Muslim-majority nations remains in place. 
+<TEXT type="str">The US Department of Homeland Security has said in a statement it would &quot;comply with judicial orders&quot; but that President Donald Trump&apos;s executive action restricting entry into the country from seven Muslim-majority nations remains in place. 
  
 The statement was issued hours after a federal judge in New York blocked the deportation of dozens of travellers and refugees from those countries who were stranded at US airports. 
  
@@ -16,9 +16,8 @@ In a lawsuit filed in federal court in Brooklyn, New York, the men challenged t
  
 The suit says that their connections to the American forces made them targets in their home country and the pair had valid visas to enter the United States. 
  
-The lawsuit highlights some of the legal obstacles facing the new administration as it tries to carry out the directive.</content> 
-<sequenceId type="str">695195334058</sequenceId> 
-<topics type="list"> 
+The lawsuit highlights some of the legal obstacles facing the new administration as it tries to carry out the directive.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -43,7 +42,8 @@ The lawsuit highlights some of the legal obstacles facing the new administration
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:38Z</estimatedPublishedDate> 
-<title type="str">US Homeland Security will comply with judges</title> 
+</TOPICS> 
+<DOCID type="str">695195334058</DOCID> 
+<DCT type="str">2017-01-29T07:18:38Z</DCT> 
+<TITLE type="str">US Homeland Security will comply with judges</TITLE> 
 </root>

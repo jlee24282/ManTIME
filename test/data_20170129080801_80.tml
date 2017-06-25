@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The past two weeks we discussed TV news and its dearth of innovations. This was presented in response to readers’ inquiries requesting the clarification between invention and innovation. An invention solves a problem, while innovation studies the situation and tries to improve the performance. In a simpler expression, invention is a “maker” while innovation is a “listener.” 
+<TEXT type="str">The past two weeks we discussed TV news and its dearth of innovations. This was presented in response to readers’ inquiries requesting the clarification between invention and innovation. An invention solves a problem, while innovation studies the situation and tries to improve the performance. In a simpler expression, invention is a “maker” while innovation is a “listener.” 
  
 The short series on TV news and its lack of innovation drew a surprising number of reader responses, all of which emphatically agreed with what the columns stated. Here are two examples: 
  
@@ -33,9 +33,8 @@ Write your text of explanation as clearly as possible and draw your graphics as 
  
 Once your idea is sent in, give us a month to formulate our reply. Our experts will work diligently and accurately express their opinion and I wish not to hurry them. Our review would start covering previous submissions first. We have a few ideas readers have sent in that haven’t been reviewed. We will look at them first. 
  
-Shintaro “Sam” Asano was named by the Massachusetts Institute of Technology in 2011 as one of the 10 most influential inventors of the 20th century who improved our lives. He is a businessman and inven­tor in the field of electronics and mechanical systems who is credited as the in­ventor of the portable fax machine. Write to him at sasano@gmail.com.</content> 
-<sequenceId type="str">695197006406</sequenceId> 
-<topics type="list"> 
+Shintaro “Sam” Asano was named by the Massachusetts Institute of Technology in 2011 as one of the 10 most influential inventors of the 20th century who improved our lives. He is a businessman and inven­tor in the field of electronics and mechanical systems who is credited as the in­ventor of the portable fax machine. Write to him at sasano@gmail.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -48,7 +47,8 @@ Shintaro “Sam” Asano was named by the Massachusetts Institute of Technology 
 <group type="str">Business</group> 
 <name type="str">IP and patents news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Are you ready to become an inventor?</title> 
+</TOPICS> 
+<DOCID type="str">695197006406</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Are you ready to become an inventor?</TITLE> 
 </root>

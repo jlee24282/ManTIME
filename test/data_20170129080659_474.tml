@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DENVER — Facing a ranked team on the road didn’t stop the Colorado State University-Pueblo women’s basketball team’s historic win streak. The No. 4-ranked ThunderWolves rolled past No. 18-0 Regis University 65-51 to move to 21-0 for the first time in school history. 
+<TEXT type="str">DENVER — Facing a ranked team on the road didn’t stop the Colorado State University-Pueblo women’s basketball team’s historic win streak. The No. 4-ranked ThunderWolves rolled past No. 18-0 Regis University 65-51 to move to 21-0 for the first time in school history. 
  
 At 15-0 in Rocky Mountain Athletic Conference games, the Pack now enjoys a three-game lead on every other team in the RMAC. Regis, the Pack’s closest competition in the RMAC, fell to 11-3 in RMAC games and 16-3 overall. 
  
@@ -16,9 +16,8 @@ Jaszymn Johnson drained three 3-pointers and finished with 9 points. Defensively
  
 The ThunderWolves return home at 5:30 p.m. Friday to play rival Adams State University. 
  
-The following night will be the annual Take a Kid to a game night against Fort Lewis College. Denver Nuggets super mascot Rocky will be at the game, which will start at 5 p.m.</content> 
-<sequenceId type="str">695194966732</sequenceId> 
-<topics type="list"> 
+The following night will be the annual Take a Kid to a game night against Fort Lewis College. Denver Nuggets super mascot Rocky will be at the game, which will start at 5 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -39,7 +38,8 @@ The following night will be the annual Take a Kid to a game night against Fort L
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:50:04Z</estimatedPublishedDate> 
-<title type="str">COLLEGE BASKETBALL: Pack women improve to 21-0</title> 
+</TOPICS> 
+<DOCID type="str">695194966732</DOCID> 
+<DCT type="str">2017-01-29T05:50:04Z</DCT> 
+<TITLE type="str">COLLEGE BASKETBALL: Pack women improve to 21-0</TITLE> 
 </root>

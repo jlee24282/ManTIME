@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dubai, United Arab Emirates, January 28, 2017 
+<TEXT type="str">Dubai, United Arab Emirates, January 28, 2017 
  
 Dozens of people with disabilities will show off their entrepreneurial flair at a fair next month. 
  
@@ -36,9 +36,8 @@ The fair will be held on February 18 at Dubai Garden Centre.
  
 Enable is a social enterprise operating under Desert Group, which offers an entrepreneurial model to young Emiratis with intellectual disabilities. 
  
-thenational</content> 
-<sequenceId type="str">695194355422</sequenceId> 
-<topics type="list"> 
+thenational</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
@@ -55,7 +54,8 @@ thenational</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:45Z</estimatedPublishedDate> 
-<title type="str">Dubai fair to showcase handiwork, skills of people with disabilities</title> 
+</TOPICS> 
+<DOCID type="str">695194355422</DOCID> 
+<DCT type="str">2017-01-29T07:14:45Z</DCT> 
+<TITLE type="str">Dubai fair to showcase handiwork, skills of people with disabilities</TITLE> 
 </root>

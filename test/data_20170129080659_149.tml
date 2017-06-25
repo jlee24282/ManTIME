@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Staff 
+<TEXT type="str">By Staff 
 Saturday, January 28, 2017 
  
 Fruita Monument 56, Montrose 24 
@@ -41,9 +41,8 @@ Rangely 14 15 26 11 — 66
  
 3-point goals: Rangely 6 (Kat. Brown 3, Kas. Brown 2, S. Thacker), Plateau Valley 1 (Wilkerson). 
  
-Total Fouls: Rangely 11, Plateau Valley 10. Fouled out: none. Technicals: none.</content> 
-<sequenceId type="str">695194733742</sequenceId> 
-<topics type="list"> 
+Total Fouls: Rangely 11, Plateau Valley 10. Fouled out: none. Technicals: none.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -52,7 +51,8 @@ Total Fouls: Rangely 11, Plateau Valley 10. Fouled out: none. Technicals: none.<
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:40:00Z</estimatedPublishedDate> 
-<title type="str">Girls basketball scores, Jan. 28, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194733742</DOCID> 
+<DCT type="str">2017-01-29T04:40:00Z</DCT> 
+<TITLE type="str">Girls basketball scores, Jan. 28, 2017</TITLE> 
 </root>

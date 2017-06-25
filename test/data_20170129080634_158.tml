@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
+<TEXT type="str">.......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... 
  Congressional committees aren’t getting a lot of media attention at the dawn of the President Trump era, but that’s where much of the heavy lifting gets done in Washington. 
 And New Mexico’s delegation has snagged some notable assignments in the 115th Congress. 
  
@@ -55,9 +55,8 @@ Heinrich and other Democratic senators voting against the move to open the U.S. 
  
 “Despite what some have claimed, I have challenged PhRMA (the drug industry) on their top legislative priority and was an original cosponsor of the Medicare Prescription Drug Price Negotiation Act, which sought to allow the federal government to use its purchasing power to drive a hard bargain with manufacturers and negotiate lower prescription drug prices,” Heinrich wrote on his Facebook page in response to the criticism. “On the importation vote, the promise of being able to access cheaper prescription drugs is obviously a goal I have long shared, but so is ensuring the integrity of those drugs.” 
  
-Email: mcoleman@abqjournal.com. Go to www.abqjournal.com/letters/new to submit a letter to the editor.</content> 
-<sequenceId type="str">695193976347</sequenceId> 
-<topics type="list"> 
+Email: mcoleman@abqjournal.com. Go to www.abqjournal.com/letters/new to submit a letter to the editor.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -66,7 +65,8 @@ Email: mcoleman@abqjournal.com. Go to www.abqjournal.com/letters/new to submit a
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:23Z</estimatedPublishedDate> 
-<title type="str">NM delegates hold their own in Trump era</title> 
+</TOPICS> 
+<DOCID type="str">695193976347</DOCID> 
+<DCT type="str">2017-01-29T07:12:23Z</DCT> 
+<TITLE type="str">NM delegates hold their own in Trump era</TITLE> 
 </root>

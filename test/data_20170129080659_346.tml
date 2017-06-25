@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The University of Oklahoma regents passed a resolution last week congratulating President David Boren on his 50th year of public service. 
+<TEXT type="str">The University of Oklahoma regents passed a resolution last week congratulating President David Boren on his 50th year of public service. 
  
 Fifty years of leadership is a remarkable achievement by a remarkable man, and this is as good a time as any to say so in public. 
    Login required   
@@ -32,9 +32,8 @@ Did we mention that he was a Rhodes Scholar? Or that he led the efforts to free 
    
 There is more, but one editorial is not sufficient to sum up David Boren’s lifetime of accomplishments. 
    
-Congratulations, President Boren on an outstanding record. We hope you’re planning to stick around. We’ve still got work to be done.</content> 
-<sequenceId type="str">695194850609</sequenceId> 
-<topics type="list"> 
+Congratulations, President Boren on an outstanding record. We hope you’re planning to stick around. We’ve still got work to be done.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -47,7 +46,8 @@ Congratulations, President Boren on an outstanding record. We hope you’re plan
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Tulsa World editorial: As legislator, governor, senator and university president, Oklahoma has looked to Boren for leadership</title> 
+</TOPICS> 
+<DOCID type="str">695194850609</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Tulsa World editorial: As legislator, governor, senator and university president, Oklahoma has looked to Boren for leadership</TITLE> 
 </root>

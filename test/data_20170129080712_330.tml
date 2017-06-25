@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SIOUX FALLS, S.D. | South Dakota students aren&apos;t waiting for graduation to start college. 
+<TEXT type="str">SIOUX FALLS, S.D. | South Dakota students aren&apos;t waiting for graduation to start college. 
    
 The number of high school students taking classes through state universities more than tripled since 2014. 
    
@@ -54,9 +54,8 @@ For now, though, the benefits outweigh the costs.
    
 Having high school students participating in college classes benefits the instructors too, said Michael Card, associate provost and dean of distance education at USD. 
    
-&quot;By adding high school students to our existing sections of courses,&quot; Card said. &quot;We get a degree of enthusiasm in an online course that you ordinarily wouldn&apos;t get.&quot;</content> 
-<sequenceId type="str">695195401474</sequenceId> 
-<topics type="list"> 
+&quot;By adding high school students to our existing sections of courses,&quot; Card said. &quot;We get a degree of enthusiasm in an online course that you ordinarily wouldn&apos;t get.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -65,7 +64,8 @@ Having high school students participating in college classes benefits the instru
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:48Z</estimatedPublishedDate> 
-<title type="str">More high school students take classes through universities</title> 
+</TOPICS> 
+<DOCID type="str">695195401474</DOCID> 
+<DCT type="str">2017-01-29T07:21:48Z</DCT> 
+<TITLE type="str">More high school students take classes through universities</TITLE> 
 </root>

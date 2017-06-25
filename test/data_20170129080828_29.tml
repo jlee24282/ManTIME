@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sunday, January 29th, 2017 6:00am 
+<TEXT type="str">Sunday, January 29th, 2017 6:00am 
   
 A mosque is opening its doors to feed the homeless a three course meal. 
  
@@ -19,9 +19,8 @@ On their Facebook page, the organisers said:
 &quot;We all agree that it is our duty as human beings: it could be any of us in need.&quot; 
  
 Food is served from 12-4pm.  
- More from Local News</content> 
-<sequenceId type="str">695197843993</sequenceId> 
-<topics type="list"> 
+ More from Local News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -38,7 +37,8 @@ Food is served from 12-4pm. 
 <group type="str">Regional</group> 
 <name type="str">Scotland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T11:55:54Z</estimatedPublishedDate> 
-<title type="str">Muslims host charity banquet for homeless in Fife</title> 
+</TOPICS> 
+<DOCID type="str">695197843993</DOCID> 
+<DCT type="str">2017-01-28T11:55:54Z</DCT> 
+<TITLE type="str">Muslims host charity banquet for homeless in Fife</TITLE> 
 </root>

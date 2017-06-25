@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Arkansas Symphony Orchestra&apos;s Rockefeller Quartet -- Trisha McGovern Freeney and Katherine Williamson, violins; Katherine Reynolds, viola; and Ethan Young, cello -- will play Claude Debussy&apos;s String Quartet in g minor for the orchestra&apos;s next River Rhapsodies Chamber Music Series concert, 7 p.m. Tuesday at the Clinton Presidential Center, 1200 President Clinton Ave., Little Rock. 
+<TEXT type="str">The Arkansas Symphony Orchestra&apos;s Rockefeller Quartet -- Trisha McGovern Freeney and Katherine Williamson, violins; Katherine Reynolds, viola; and Ethan Young, cello -- will play Claude Debussy&apos;s String Quartet in g minor for the orchestra&apos;s next River Rhapsodies Chamber Music Series concert, 7 p.m. Tuesday at the Clinton Presidential Center, 1200 President Clinton Ave., Little Rock. 
  
 Flutist Carolyn Brown and pianist Carl Anthony will play the Sonata for Flute and Piano , op.14, by Robert Muczynski, and violinist Geoffrey Robson and pianist Louis Menendez will play the Sonata for Violin and Piano in E-flat major, op.18, by Richard Strauss. 
  
@@ -44,9 +44,8 @@ He is also director of the choral and voice department at University of Arkansas
  
 Keating succeeds Cliff Fannin Baker, who also served as Wildwood chief executive officer, and Wildwood founding artistic director, Ann Chotard. Leslie Golden is the park&apos;s executive director. 
  
-Style on 01/29/2</content> 
-<sequenceId type="str">695202391052</sequenceId> 
-<topics type="list"> 
+Style on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -59,7 +58,8 @@ Style on 01/29/2</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:25Z</estimatedPublishedDate> 
-<title type="str">Chamber music on agenda for Clinton Center concert</title> 
+</TOPICS> 
+<DOCID type="str">695202391052</DOCID> 
+<DCT type="str">2017-01-29T08:05:25Z</DCT> 
+<TITLE type="str">Chamber music on agenda for Clinton Center concert</TITLE> 
 </root>

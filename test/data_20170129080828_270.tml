@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(CNN) - The Department of Homeland Security said on Sunday it will comply with federal orders not to deport detained travelers. 
+<TEXT type="str">(CNN) - The Department of Homeland Security said on Sunday it will comply with federal orders not to deport detained travelers. 
  
 This comes after a federal judge in New York granted an emergency stay Saturday night for citizens of seven Muslim-majority countries who have already arrived in the US and those who are in transit, and who hold valid visas, ruling they cannot be removed from the US. 
  
@@ -94,9 +94,8 @@ After the federal orders were issued, the department said it &quot;will continue
  
 &quot;The president&apos;s Executive Orders remain in place-prohibited travel will remain prohibited, and the U.S. government retains its right to revoke visas at any time if required for national security or public safety. 
  
-&quot;The president&apos;s Executive Order affects a minor portion of international travelers, and is a first step towards reestablishing control over America&apos;s borders and national security.&quot;</content> 
-<sequenceId type="str">695198180690</sequenceId> 
-<topics type="list"> 
+&quot;The president&apos;s Executive Order affects a minor portion of international travelers, and is a first step towards reestablishing control over America&apos;s borders and national security.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -125,7 +124,8 @@ After the federal orders were issued, the department said it &quot;will continue
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:52Z</estimatedPublishedDate> 
-<title type="str">DHS complies with judge to limit &apos;Muslim ban&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695198180690</DOCID> 
+<DCT type="str">2017-01-29T07:41:52Z</DCT> 
+<TITLE type="str">DHS complies with judge to limit &apos;Muslim ban&apos;</TITLE> 
 </root>

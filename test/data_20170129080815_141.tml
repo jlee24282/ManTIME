@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SEDALIA, Mo. – Lamar Morgan made his first three shots in the opening minutes, and the unbeaten Mineral Area men’s basketball team never trailed on the road Saturday night. 
+<TEXT type="str">SEDALIA, Mo. – Lamar Morgan made his first three shots in the opening minutes, and the unbeaten Mineral Area men’s basketball team never trailed on the road Saturday night. 
    
 The fifth-ranked Cardinals reached the midway juncture of Region 16 play with a convincing 79-52 triumph over State Fair, avenging a season-ending loss from last year. 
    
@@ -22,9 +22,8 @@ His second perimeter shot created a 67-44 separation down the stretch after Thom
    
 Mineral Area will continue Region 16 action at home against MSU-West Plains on Wednesday before traveling to Moberly next Saturday. 
    
-Colton Kolowski scored 13 points and Corey Mendez had nine for State Fair.</content> 
-<sequenceId type="str">695197444102</sequenceId> 
-<topics type="list"> 
+Colton Kolowski scored 13 points and Corey Mendez had nine for State Fair.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -37,7 +36,8 @@ Colton Kolowski scored 13 points and Corey Mendez had nine for State Fair.</cont
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:24Z</estimatedPublishedDate> 
-<title type="str">Cardinals roll past State Fair for 23rd straight win</title> 
+</TOPICS> 
+<DOCID type="str">695197444102</DOCID> 
+<DCT type="str">2017-01-29T07:37:24Z</DCT> 
+<TITLE type="str">Cardinals roll past State Fair for 23rd straight win</TITLE> 
 </root>

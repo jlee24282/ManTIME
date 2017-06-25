@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">U.S. Sen. John Cornyn is continuing his push for Mars exploration — a visionary effort. 
+<TEXT type="str">U.S. Sen. John Cornyn is continuing his push for Mars exploration — a visionary effort. 
  
 Cornyn and Rep. John Culberson , R-Houston, have introduced legislation that would make a manned mission to Mars NASA’s long-term priority. Cornyn first rolled out the bill in March, following Commander Scott Kelly ’s safe return to Earth after a year in space. 
  
@@ -10,9 +10,8 @@ Cornyn’s legislation is based on a thoughtful 2014 report from the National Ac
  
 Investing in space exploration also undoubtedly would spur technical and scientific advancement, leading to new technologies. It would require international partnerships and investment, serving as a soft diplomacy while also highlighting our ingenuity. It would bring focus to NASA, curbing missions that don’t serve the long-range goal of human spaceflight to Mars. 
  
-We are stuck in low-Earth orbit. Budgets that only keep pace with inflation will not get us to Mars or what lies beyond. Space flight is a symbol of our ability to achieve the unfathomable. Cornyn’s legislation is a reminder not to lose sight of that.</content> 
-<sequenceId type="str">695196350801</sequenceId> 
-<topics type="list"> 
+We are stuck in low-Earth orbit. Budgets that only keep pace with inflation will not get us to Mars or what lies beyond. Space flight is a symbol of our ability to achieve the unfathomable. Cornyn’s legislation is a reminder not to lose sight of that.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Space science news</name> 
@@ -21,7 +20,8 @@ We are stuck in low-Earth orbit. Budgets that only keep pace with inflation will
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">For NASA, the goal should be Mars</title> 
+</TOPICS> 
+<DOCID type="str">695196350801</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">For NASA, the goal should be Mars</TITLE> 
 </root>

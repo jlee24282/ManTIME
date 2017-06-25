@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">iTunes services are unavailable. Prices were last updated about 11 hours ago 
+<TEXT type="str">iTunes services are unavailable. Prices were last updated about 11 hours ago 
 
 Our daily list of best iPhone games gone free is compiled using our proprietary algorithm to find you the very best apps that have just gone free today. We scan iTunes’ nearly 2 million apps at 00:01 to select the latest and best deals on top apps. Don’t miss out! Subscribe to our daily appsale newsletter Subscribe 
 
 #1 
 
-We&apos;ll notify you of price drops, news, and updates for this app.</content> 
-<sequenceId type="str">695201532302</sequenceId> 
-<topics type="list"> 
+We&apos;ll notify you of price drops, news, and updates for this app.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
@@ -25,7 +24,8 @@ We&apos;ll notify you of price drops, news, and updates for this app.</content>
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T12:46:29Z</estimatedPublishedDate> 
-<title type="str">Top iPhone games gone free for January 28th</title> 
+</TOPICS> 
+<DOCID type="str">695201532302</DOCID> 
+<DCT type="str">2017-01-28T12:46:29Z</DCT> 
+<TITLE type="str">Top iPhone games gone free for January 28th</TITLE> 
 </root>

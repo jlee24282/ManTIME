@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">EGYPTAIR OFFICIAL SAYS AIRLINES AT CAIRO AIRPORT OFFICIALLY
+<TEXT type="str">EGYPTAIR OFFICIAL SAYS AIRLINES AT CAIRO AIRPORT OFFICIALLY
 ASKED ON SUNDAY TO PREVENT U.S. IMMIGRATION VISA-HOLDERS FROM  7
-MUSLIM-MAJORITY COUNTRIES BOARDING FLIGHTS TO U.S.</content> 
-<sequenceId type="str">695205084665</sequenceId> 
-<topics type="list"> 
+MUSLIM-MAJORITY COUNTRIES BOARDING FLIGHTS TO U.S.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -29,7 +28,8 @@ MUSLIM-MAJORITY COUNTRIES BOARDING FLIGHTS TO U.S.</content>
 <group type="str">Business</group> 
 <name type="str">Middle Eastern business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:21Z</estimatedPublishedDate> 
-<title type="str">Airlines in Cairo asked to implement Trump travel ban -EgyptAir official</title> 
+</TOPICS> 
+<DOCID type="str">695205084665</DOCID> 
+<DCT type="str">2017-01-29T08:34:21Z</DCT> 
+<TITLE type="str">Airlines in Cairo asked to implement Trump travel ban -EgyptAir official</TITLE> 
 </root>

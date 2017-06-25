@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Protestors rally during a demonstration against the Muslim immigration ban at JFK Airport in New York. 
+<TEXT type="str">Protestors rally during a demonstration against the Muslim immigration ban at JFK Airport in New York. 
  
 Judge Ann Donnelly of the U.S. District Court in Brooklyn granted a request from the ACLU to stay deportations of those detained on entry to the United States following President Donald Trump&apos;s executive order. 
 
@@ -78,9 +78,8 @@ The effects of Trump&apos;s order played out nationwide. In Dallas, Behzad Honar
 
 In Philadelphia, Sarah Assali said six relatives from Syria - two uncles, their wives and two cousins - were detained after arriving at the airport there early Saturday. Although they are Christian immigrants with valid visas to join family in this country, they were put on a plane back to Doha, Qatar, three hours later, Assali said. 
 
-She said her family members were not allowed to call or contact their family in the United States before being removed. &quot;We don&apos;t know what&apos;s going to happen next.&quot;</content> 
-<sequenceId type="str">695200007918</sequenceId> 
-<topics type="list"> 
+She said her family members were not allowed to call or contact their family in the United States before being removed. &quot;We don&apos;t know what&apos;s going to happen next.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
@@ -113,7 +112,8 @@ She said her family members were not allowed to call or contact their family in 
 <group type="str">Society</group> 
 <name type="str">US Federal Government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:09Z</estimatedPublishedDate> 
-<title type="str">US Court stays order after Donald Trump&apos;s ban on refugees, migrants causes outrage</title> 
+</TOPICS> 
+<DOCID type="str">695200007918</DOCID> 
+<DCT type="str">2017-01-29T07:56:09Z</DCT> 
+<TITLE type="str">US Court stays order after Donald Trump&apos;s ban on refugees, migrants causes outrage</TITLE> 
 </root>

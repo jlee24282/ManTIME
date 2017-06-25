@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trump said the temporary suspension would help protect Americans from terrorist attacks 
+<TEXT type="str">Trump said the temporary suspension would help protect Americans from terrorist attacks 
  
 President Donald Trump on Friday put a four-month hold on allowing refugees into the United States and temporarily barred visitors from Syria and seven other Muslim-majority countries, saying the moves would help protect Americans from terrorist attacks. 
  
@@ -42,9 +42,8 @@ Trump&apos;s order had been expected to include a directive about setting up &qu
  
 &quot;President Trump has cloaked what is a discriminatory ban against nationals of Muslim countries under the banner of national security,&quot; said Greg Chen of the American Immigration Lawyers Association. 
  
-Source: Reuters</content> 
-<sequenceId type="str">695199996831</sequenceId> 
-<topics type="list"> 
+Source: Reuters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -65,7 +64,8 @@ Source: Reuters</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:01Z</estimatedPublishedDate> 
-<title type="str">Trump suspends refugees, 7 Muslim countries entering US</title> 
+</TOPICS> 
+<DOCID type="str">695199996831</DOCID> 
+<DCT type="str">2017-01-29T07:56:01Z</DCT> 
+<TITLE type="str">Trump suspends refugees, 7 Muslim countries entering US</TITLE> 
 </root>

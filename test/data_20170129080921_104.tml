@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A safety notice has been issued concerning a range of children’s toys by their supplier.</content> 
-<sequenceId type="str">695200309583</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A safety notice has been issued concerning a range of children’s toys by their supplier.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Leisure goods news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Early Learning Centre issues safety notice over children’s wooden toy range</title> 
+</TOPICS> 
+<DOCID type="str">695200309583</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Early Learning Centre issues safety notice over children’s wooden toy range</TITLE> 
 </root>

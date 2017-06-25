@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Are you a family forestland owner? Forester? Logger? Arborist? Teacher? General forestland enthusiast? Then Tree School Umpqua is for you! 
+<TEXT type="str">Are you a family forestland owner? Forester? Logger? Arborist? Teacher? General forestland enthusiast? Then Tree School Umpqua is for you! 
  
 On Friday, March 31, 2017, at the Phoenix Charter School in Roseburg, the OSU Extension Service of Douglas County will offer Tree School Umpqua, a one-day mini-college featuring 28 classes on a variety of forest-related topics. 
  
@@ -22,9 +22,8 @@ Alicia Jones is the Forestry Extension Agent for OSU Extension Service of Dougla
  
 Alicia.Jones@oregonstate.edu 
  
-or phone at 541-236-3</content> 
-<sequenceId type="str">695202959832</sequenceId> 
-<topics type="list"> 
+or phone at 541-236-3</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -33,7 +32,8 @@ or phone at 541-236-3</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:00Z</estimatedPublishedDate> 
-<title type="str">Extension Spotlight: Tree School Umpqua is just around the corner!</title> 
+</TOPICS> 
+<DOCID type="str">695202959832</DOCID> 
+<DCT type="str">2017-01-29T08:18:00Z</DCT> 
+<TITLE type="str">Extension Spotlight: Tree School Umpqua is just around the corner!</TITLE> 
 </root>

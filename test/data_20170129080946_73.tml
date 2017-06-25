@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sailing News - Ice-Sailing - DN North American Championship 2017 - Madison WI, USA - Final results      
+<TEXT type="str">Sailing News - Ice-Sailing - DN North American Championship 2017 - Madison WI, USA - Final results      
 
 
  
@@ -10,14 +10,14 @@
 
                          
        
-1#1#41628#0#0</content> 
-<sequenceId type="str">695201217006</sequenceId> 
-<topics type="list"> 
+1#1#41628#0#0</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:54:00Z</estimatedPublishedDate> 
-<title type="str">IceSailing  DN North American Championship 2017  Madison WI, USA  Final results, LHuillier SUI</title> 
+</TOPICS> 
+<DOCID type="str">695201217006</DOCID> 
+<DCT type="str">2017-01-29T05:54:00Z</DCT> 
+<TITLE type="str">IceSailing  DN North American Championship 2017  Madison WI, USA  Final results, LHuillier SUI</TITLE> 
 </root>

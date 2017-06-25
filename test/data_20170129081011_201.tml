@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">With cheese and shrimp cocktail piled on their plates, guests strolled the exhibit like patrons at an art gallery, sipping beer and pausing to ponder the displays that lined the room. But instead of paintings or sculptures, they were examining scientific charts about climate change at a state environmental agency.  
+<TEXT type="str">With cheese and shrimp cocktail piled on their plates, guests strolled the exhibit like patrons at an art gallery, sipping beer and pausing to ponder the displays that lined the room. But instead of paintings or sculptures, they were examining scientific charts about climate change at a state environmental agency.  
 
 At a time when President Trump’s new administration is ordering federal government scientists to stop communicating with the public , the array of data depicting carbon sequestration, ocean acidification and water temperatures at a conference on climate change was for some a political act of defiance.  
  
@@ -56,9 +56,8 @@ Fearing climate change databases may be threatened in Trump era, UCLA scientists
 
 Earth sets heat record in 2016 — for the third year in a row 
 
-Updates on California politics</content> 
-<sequenceId type="str">695202296257</sequenceId> 
-<topics type="list"> 
+Updates on California politics</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -67,7 +66,8 @@ Updates on California politics</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:00Z</estimatedPublishedDate> 
-<title type="str">As the White House changes course on climate change, California stubbornly presses forward</title> 
+</TOPICS> 
+<DOCID type="str">695202296257</DOCID> 
+<DCT type="str">2017-01-29T08:05:00Z</DCT> 
+<TITLE type="str">As the White House changes course on climate change, California stubbornly presses forward</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Salisbury woman has died after her car smashed into a wall in Bournemouth. 
+<TEXT type="str">A Salisbury woman has died after her car smashed into a wall in Bournemouth. 
  
 The 23 year old passed away in hospital in the early hours of this morning (Sunday January 29th) from the serious injuries she suffered in the incident. 
  
@@ -20,14 +20,14 @@ Police Inspector Derek McKerl said:
  
 Anyone with information is asked to contact Dorset Police at www.dorset.police.uk , via email 101@dorset.pnn.police.uk or by calling 101 , quoting incident number 29:29. 
  
-Alternatively contact Crimestoppers anonymously on 0800 555 111 or via www.crimestoppers-uk.org .</content> 
-<sequenceId type="str">695204354191</sequenceId> 
-<topics type="list"> 
+Alternatively contact Crimestoppers anonymously on 0800 555 111 or via www.crimestoppers-uk.org .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:35Z</estimatedPublishedDate> 
-<title type="str">Salisbury woman dies after Bournemouth car crash</title> 
+</TOPICS> 
+<DOCID type="str">695204354191</DOCID> 
+<DCT type="str">2017-01-29T08:28:35Z</DCT> 
+<TITLE type="str">Salisbury woman dies after Bournemouth car crash</TITLE> 
 </root>

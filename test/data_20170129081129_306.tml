@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  
+<TEXT type="str">  
 Panasonic received the Emirates Quality Mark for its wiring devices, demonstrating the company’s commitment to product excellence and customer safety. 
  
 Panasonic Homes &amp; Living offers a broad spectrum of Switches &amp; Sockets, LED Lightings, Switchgears, Solar Panels, Energy Recovery Ventilators (ERV), Air Moving Equipment (AME), Ventilation Fans, and Ceiling Fans &amp; Electric Fans. Ranked no 2 globally for wiring devices, Panasonic has been strongly catering to the ever changing demands of Middle East Construction sector. The brand actions to deliver best-value-for-money options with unmatched quality and these products are a reflection of the company’s commitment to offer innovative and sustainable solutions that boast comfort, safety and durability. 
@@ -23,9 +23,8 @@ Panasonic’s wiring devices are distributed by Advance Establishment for Lighti
 
  
 Website : 
-http://www.esma.gov.ae</content> 
-<sequenceId type="str">695204944003</sequenceId> 
-<topics type="list"> 
+http://www.esma.gov.ae</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Construction news</name> 
@@ -42,7 +41,8 @@ http://www.esma.gov.ae</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:07Z</estimatedPublishedDate> 
-<title type="str">Panasonic wiring devices receives Emirates Quality Mark</title> 
+</TOPICS> 
+<DOCID type="str">695204944003</DOCID> 
+<DCT type="str">2017-01-29T08:33:07Z</DCT> 
+<TITLE type="str">Panasonic wiring devices receives Emirates Quality Mark</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">According to Reuters, the Trump administration has instructed the Environmental Protection Agency to remove the climate change page from its website. The website provides links to important global warming research and detailed data on emissions. As of this writing, the page was set to go down Jan. 25. 
+<TEXT type="str">According to Reuters, the Trump administration has instructed the Environmental Protection Agency to remove the climate change page from its website. The website provides links to important global warming research and detailed data on emissions. As of this writing, the page was set to go down Jan. 25. 
   
 The Trump administration has also instructed the EPA to put a freeze on any contracts or grants pending review and to limit its communications with the media and the public. All this in addition to nominating Scott Pruitt, the Attorney General of Oklahoma, to be EPA Administrator. Pruitt has sued the EPA 13 times and has had a political career intricately intertwined with fossil fuels and soaked in fossil fuels money. 
  
@@ -10,9 +10,8 @@ At Mid-Ohio Valley Climate Action, we have built and continue to build a strong 
  
 Eric Engle 
  
-Parkersburg</content> 
-<sequenceId type="str">695194359046</sequenceId> 
-<topics type="list"> 
+Parkersburg</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Climate change news</name> 
@@ -25,7 +24,8 @@ Parkersburg</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:45Z</estimatedPublishedDate> 
-<title type="str">EPA moves concerning</title> 
+</TOPICS> 
+<DOCID type="str">695194359046</DOCID> 
+<DCT type="str">2017-01-29T07:14:45Z</DCT> 
+<TITLE type="str">EPA moves concerning</TITLE> 
 </root>

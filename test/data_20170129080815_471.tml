@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It’s doubtful Kyle Shanahan will be able to bring a lot of the Falcons’ assistant coaches with him to San Francisco if, as expected, the 49ers make the Atlanta offensive coordinator their head coach next week.
+<TEXT type="str">It’s doubtful Kyle Shanahan will be able to bring a lot of the Falcons’ assistant coaches with him to San Francisco if, as expected, the 49ers make the Atlanta offensive coordinator their head coach next week.
 
 Most of those assistants are under contract with Atlanta or are loyal to Dan Quinn, who took over as head coach before the 2015 season.
 
@@ -16,9 +16,8 @@ As far as special teams, multiple sources have said Richard Hightower is could b
 
 Hightower also served as an assistant to 49ers special-teams coordinator Thomas McGaughey in 2015.
 
-Matt Barrows: @mattbarrows, read more about the team at sacbee.com/sf49ers.</content> 
-<sequenceId type="str">695197805957</sequenceId> 
-<topics type="list"> 
+Matt Barrows: @mattbarrows, read more about the team at sacbee.com/sf49ers.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - San Francisco 49ers news</name> 
@@ -31,7 +30,8 @@ Matt Barrows: @mattbarrows, read more about the team at sacbee.com/sf49ers.</con
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:06Z</estimatedPublishedDate> 
-<title type="str">Shanahan could bring two longtime lieutenants with him to 49ers</title> 
+</TOPICS> 
+<DOCID type="str">695197805957</DOCID> 
+<DCT type="str">2017-01-29T07:32:06Z</DCT> 
+<TITLE type="str">Shanahan could bring two longtime lieutenants with him to 49ers</TITLE> 
 </root>

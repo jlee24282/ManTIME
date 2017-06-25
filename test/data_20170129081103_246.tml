@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">再投稿「いいね」 
+<TEXT type="str">再投稿「いいね」 
 
 vanishment_ts より 
 
@@ -8,14 +8,14 @@ vanishment_ts より
 
 0 件の視聴 
 
-vanishment_tsの動画をもっと見る</content> 
-<sequenceId type="str">695203968056</sequenceId> 
-<topics type="list"> 
+vanishment_tsの動画をもっと見る</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:58Z</estimatedPublishedDate> 
-<title type="str">宇多田ヒカル - 「桜流し」（ヱヴァＱバージョン）</title> 
+</TOPICS> 
+<DOCID type="str">695203968056</DOCID> 
+<DCT type="str">2017-01-29T08:12:58Z</DCT> 
+<TITLE type="str">宇多田ヒカル - 「桜流し」（ヱヴァＱバージョン）</TITLE> 
 </root>

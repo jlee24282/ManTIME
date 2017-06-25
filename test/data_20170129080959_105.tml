@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BMW M2 w full exhaust - Street FX Motorsport &amp; Graphics  
+<TEXT type="str">BMW M2 w full exhaust - Street FX Motorsport &amp; Graphics  
    
  American burnout - Street FX Motorsport &amp; Graphics  
    
@@ -10,9 +10,8 @@
    
  Love this wooden boat! - Street FX Motorsport &amp; Graphics  
    
- Street FX Motorsport &amp; Graphics</content> 
-<sequenceId type="str">695201676987</sequenceId> 
-<topics type="list"> 
+ Street FX Motorsport &amp; Graphics</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Graphics industry news</name> 
@@ -21,7 +20,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: motor sports news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:07Z</estimatedPublishedDate> 
-<title type="str">Supra drifting in city - Street FX Motorsport &amp; Graphics</title> 
+</TOPICS> 
+<DOCID type="str">695201676987</DOCID> 
+<DCT type="str">2017-01-29T08:08:07Z</DCT> 
+<TITLE type="str">Supra drifting in city - Street FX Motorsport &amp; Graphics</TITLE> 
 </root>

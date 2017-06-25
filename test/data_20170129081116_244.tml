@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">www.radiosvoboda.org    
+<TEXT type="str">www.radiosvoboda.org    
 US President Donald Trump and German Chancellor Angela Merkel had a telephone conversation. Political leaders discussed the activity of NATO, the situation in the Middle East, and the conflict in the East of Ukraine. 
  
 This was announced by the spokesman for the German government, Steffen Seibert on Twitter page, radio &quot;Svoboda&quot; reported. 
@@ -12,9 +12,8 @@ Kanzlerin #Merkel und @POTUS Trump sprachen u.a. über NATO, Lage im Nahen Osten
 Also, the leaders said that NATO must confront the challenges of the 21st century and that the total defense requires adequate investment in military capabilities, as well as a fair contribution to the allies, the report said. 
  
 Trump accepted the invitation of German Chancellor to attend the G20 summit in Hamburg, which is scheduled for July this year. Also, the head of the White House expressed a wish to meet with Angela Merkel in the near future in Washington. 
- Related:  No mention of lifting sanctions during Trump and Putin call  Related:  Trump held telephone talks with Putin, among all sides discussed Ukrainian issue  Related:  Poroshenko to visit Berlin, negotiate with Merkel on January 3</content> 
-<sequenceId type="str">695204391357</sequenceId> 
-<topics type="list"> 
+ Related:  No mention of lifting sanctions during Trump and Putin call  Related:  Trump held telephone talks with Putin, among all sides discussed Ukrainian issue  Related:  Poroshenko to visit Berlin, negotiate with Merkel on January 3</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -35,7 +34,8 @@ Trump accepted the invitation of German Chancellor to attend the G20 summit in H
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:00Z</estimatedPublishedDate> 
-<title type="str">Trump and Merkel stressed crucial NATO importance</title> 
+</TOPICS> 
+<DOCID type="str">695204391357</DOCID> 
+<DCT type="str">2017-01-29T07:49:00Z</DCT> 
+<TITLE type="str">Trump and Merkel stressed crucial NATO importance</TITLE> 
 </root>

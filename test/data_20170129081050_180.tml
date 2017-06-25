@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo  
+<TEXT type="str">Photo  
 President Trump’s ban on visitors from seven predominantly Muslim nations could have a wide impact on international sports, including jeopardizing a warm relationship between the United States and Iran in wrestling competitions and threatening the chances of Los Angeles hosting the 2024 Summer Olympics and of the United States securing soccer’s 2026 World Cup. 
  
 On Saturday, sports officials struggled to understand the implications of Mr. Trump’s executive order, including the question of whether athletes from the targeted nations could enter the United States to compete, especially in the initial 90-day period of the ban. 
@@ -19,9 +19,8 @@ On Saturday, sports officials struggled to understand the implications of Mr. Tr
  
 At least one International Olympic Committee delegate criticized Mr. Trump’s decision. The delegate, Richard Peterkin of St. Lucia, said Saturday that he considered the executive order “very, very disappointing.” 
  
-Continue reading the main story</content> 
-<sequenceId type="str">695203401628</sequenceId> 
-<topics type="list"> 
+Continue reading the main story</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -30,7 +29,8 @@ Continue reading the main story</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:13Z</estimatedPublishedDate> 
-<title type="str">Trump’s Immigration Order Could Have a Big Impact on Sports</title> 
+</TOPICS> 
+<DOCID type="str">695203401628</DOCID> 
+<DCT type="str">2017-01-29T08:14:13Z</DCT> 
+<TITLE type="str">Trump’s Immigration Order Could Have a Big Impact on Sports</TITLE> 
 </root>

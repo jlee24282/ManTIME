@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Frampton won the WBA featherweight title against Santa Cruz in July last year but lost his unbeaten record in the rematch.
+<TEXT type="str">Frampton won the WBA featherweight title against Santa Cruz in July last year but lost his unbeaten record in the rematch.
 
 And in the wake of his first career defeat, the Northern Irishman revealed he wanted to settle the score with his Mexican rival back at home.
 
@@ -14,9 +14,8 @@ And in the wake of his first career defeat, the Northern Irishman revealed he wa
 
 &quot;I think I can perform slightly better. No excuses.
 
-“Let’s do it again. I hope he’s a man of...</content> 
-<sequenceId type="str">695200690951</sequenceId> 
-<topics type="list"> 
+“Let’s do it again. I hope he’s a man of...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Las Vegas news</name> 
@@ -37,7 +36,8 @@ And in the wake of his first career defeat, the Northern Irishman revealed he wa
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:28Z</estimatedPublishedDate> 
-<title type="str">Carl Frampton wants Leo Santa Cruz rematch in Belfast after Las Vegas title defeat</title> 
+</TOPICS> 
+<DOCID type="str">695200690951</DOCID> 
+<DCT type="str">2017-01-29T08:01:28Z</DCT> 
+<TITLE type="str">Carl Frampton wants Leo Santa Cruz rematch in Belfast after Las Vegas title defeat</TITLE> 
 </root>

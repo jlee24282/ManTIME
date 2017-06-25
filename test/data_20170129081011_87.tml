@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Florida State found its rhythm offensively for the first time on the road all season. 
+<TEXT type="str">Florida State found its rhythm offensively for the first time on the road all season. 
  
 Unfortunately the Seminoles, who played with visibly more intensity and enthusiasm during a furious comeback attempt at Syracuse on Saturday, fell just a bit short. 
  
@@ -20,9 +20,8 @@ FSU falls in a third-place tie in the conference standings with Notre Dame, whic
  
 The Seminoles will play their third straight road game at Miami on Wednesday. 
   
-Email Safid Deen at  sdeen@orlandosentinel.com . Follow him on Twitter at @Safid_Deen  and  @osfsu . Also, like our  Florida State</content> 
-<sequenceId type="str">695202150122</sequenceId> 
-<topics type="list"> 
+Email Safid Deen at  sdeen@orlandosentinel.com . Follow him on Twitter at @Safid_Deen  and  @osfsu . Also, like our  Florida State</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -35,7 +34,8 @@ Email Safid Deen at  sdeen@orlandosentinel.com . Follow him on Twitter at @Safi
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T18:55:00Z</estimatedPublishedDate> 
-<title type="str">No. 6 Florida State&apos;s second-half comeback falls short at Syracuse</title> 
+</TOPICS> 
+<DOCID type="str">695202150122</DOCID> 
+<DCT type="str">2017-01-28T18:55:00Z</DCT> 
+<TITLE type="str">No. 6 Florida State&apos;s second-half comeback falls short at Syracuse</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trump’s visa ban is likely to affect many of the people around you (in fact, it’ll affect more than a million people in the UAE)…  
+<TEXT type="str">Trump’s visa ban is likely to affect many of the people around you (in fact, it’ll affect more than a million people in the UAE)…  
 In an extraordinary first week as 45th President of the United States, Donald Trump made many controversial rulings, but the order that’s going to affect people in the UAE most immediately is his decision to halt all refugee admissions and temporarily bar people from seven Muslim-majority countries from entering the US. 
  
 What are the banned countries? They are Syria, Iraq, Iran, Libya, Somalia, Sudan and Yemen (and even people from these countries who hold dual citizenship with any other country apart from the US will be banned). 
@@ -45,9 +45,8 @@ The Irish Grammy award-winner Sinéad O’Connor – famous for re-arranging Pri
       Bars   
 Amarillo Tapastry Bar comes with heavy Spanish and Latin American influence, from the food and drink to the style. 
       Live Music   
-The rock band fronted by Hollywood A-Lister Jared Leto have announced their debut show in Dubai.</content> 
-<sequenceId type="str">695201804130</sequenceId> 
-<topics type="list"> 
+The rock band fronted by Hollywood A-Lister Jared Leto have announced their debut show in Dubai.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -60,7 +59,8 @@ The rock band fronted by Hollywood A-Lister Jared Leto have announced their debu
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:52Z</estimatedPublishedDate> 
-<title type="str">Trump’s visa ban to affect more than a million people in the UAE</title> 
+</TOPICS> 
+<DOCID type="str">695201804130</DOCID> 
+<DCT type="str">2017-01-29T08:08:52Z</DCT> 
+<TITLE type="str">Trump’s visa ban to affect more than a million people in the UAE</TITLE> 
 </root>

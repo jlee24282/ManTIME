@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Australia and New Zealand celebrate the last two Chappell-Hadlee series wins (Photosport)   
+<TEXT type="str">Australia and New Zealand celebrate the last two Chappell-Hadlee series wins (Photosport)   
 There&apos;s no greater challenge for the Blackcaps than big brother Australia. And with our Trans-Tasman rivals back on top of the one-day world rankings, the Chappell-Hadlee Series promises to be a fascinating contest. Here are three key factors for each team. 
  
 New Zealand 
@@ -45,9 +45,8 @@ The quintessential Aussie quick, he&apos;s mouthy, swings the ball and has an un
    
 But with a 24.27 bowling average in the one-day format and an uncanny knack for bowling the ball outside off stump at great pace, the Aussie fans won&apos;t care. If these two bowl well, New Zealand could well struggle.    
  
-Newshuib.</content> 
-<sequenceId type="str">695198468504</sequenceId> 
-<topics type="list"> 
+Newshuib.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -56,7 +55,8 @@ Newshuib.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:59Z</estimatedPublishedDate> 
-<title type="str">Chappell-Hadlee series: Keys to victory</title> 
+</TOPICS> 
+<DOCID type="str">695198468504</DOCID> 
+<DCT type="str">2017-01-29T07:43:59Z</DCT> 
+<TITLE type="str">Chappell-Hadlee series: Keys to victory</TITLE> 
 </root>

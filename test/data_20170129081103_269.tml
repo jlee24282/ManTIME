@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Victoria is bracing itself for an extremely hot and dry day on Monday, with conditions that are feared could lead to serious fires. 
+<TEXT type="str">Victoria is bracing itself for an extremely hot and dry day on Monday, with conditions that are feared could lead to serious fires. 
  
 A total fire ban has been issued for the entire state, the first time this summer, with temperatures expected to reach the high 30s and low 40s across the state. 
  
@@ -20,9 +20,8 @@ He says grasslands around Melbourne and Geelong are of particular concern, along
  
 Melbourne can expect a top of 34C with a late cool change and a 40 per cent chance of rain. 
  
-AAP</content> 
-<sequenceId type="str">695203980584</sequenceId> 
-<topics type="list"> 
+AAP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -31,7 +30,8 @@ AAP</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:35Z</estimatedPublishedDate> 
-<title type="str">Vic set to swelter amid fire warning</title> 
+</TOPICS> 
+<DOCID type="str">695203980584</DOCID> 
+<DCT type="str">2017-01-29T08:25:35Z</DCT> 
+<TITLE type="str">Vic set to swelter amid fire warning</TITLE> 
 </root>

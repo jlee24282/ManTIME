@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WELLINGTON, New Zealand - Fiji&apos;s post-Olympic slump after winning gold at the Rio de Janeiro Games continued Sunday when it was beaten 26-5 by South Africa in the final of the New Zealand Sevens. 
+<TEXT type="str">WELLINGTON, New Zealand - Fiji&apos;s post-Olympic slump after winning gold at the Rio de Janeiro Games continued Sunday when it was beaten 26-5 by South Africa in the final of the New Zealand Sevens. 
 
 With its first win in Wellington since 2002, South Africa firmly established itself as the No. 1 team in world sevens this season. 
 
@@ -24,9 +24,8 @@ It then beat France 45-0 in Sunday&apos;s quarterfinals and Canada 21-5 in the s
 
 After losing to South Africa in pool play, Fiji recovered to emphatically beat hosts New Zealand 26-10 in the quarterfinals and Scotland 19-12 in the semifinals. 
 
-Scotland was one of the surprises of the weekend, emerging in second place from its pool to beat rivals England 14-12 in a thrilling quarterfinal.</content> 
-<sequenceId type="str">695205072741</sequenceId> 
-<topics type="list"> 
+Scotland was one of the surprises of the weekend, emerging in second place from its pool to beat rivals England 14-12 in a thrilling quarterfinal.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Fiji news</name> 
@@ -55,7 +54,8 @@ Scotland was one of the surprises of the weekend, emerging in second place from 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:14Z</estimatedPublishedDate> 
-<title type="str">South Africa beats Fiji to win New Zealand Sevens</title> 
+</TOPICS> 
+<DOCID type="str">695205072741</DOCID> 
+<DCT type="str">2017-01-29T08:34:14Z</DCT> 
+<TITLE type="str">South Africa beats Fiji to win New Zealand Sevens</TITLE> 
 </root>

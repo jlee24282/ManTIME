@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695197847848</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:13Z</estimatedPublishedDate> 
-<title type="str">The Australian Open Tennis Men&apos;s Grand Final</title> 
+</TOPICS> 
+<DOCID type="str">695197847848</DOCID> 
+<DCT type="str">2017-01-29T07:40:13Z</DCT> 
+<TITLE type="str">The Australian Open Tennis Men&apos;s Grand Final</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">10 mins ago Breaking news Comments Off on 5 Views</content> 
-<sequenceId type="str">695204597449</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">10 mins ago Breaking news Comments Off on 5 Views</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Rail transport news</name> 
@@ -31,7 +30,8 @@
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:20:35Z</estimatedPublishedDate> 
-<title type="str">Egyptian railroads need EGP180 billion for development: President Sisi</title> 
+</TOPICS> 
+<DOCID type="str">695204597449</DOCID> 
+<DCT type="str">2017-01-29T08:20:35Z</DCT> 
+<TITLE type="str">Egyptian railroads need EGP180 billion for development: President Sisi</TITLE> 
 </root>

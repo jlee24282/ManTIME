@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In his first talks with Prime Minister Malcolm Turnbull since taking office, US President Donald Trump has confirmed he will honour the deal to resettle Nauru and Manus Island asylum seekers. 
+<TEXT type="str">In his first talks with Prime Minister Malcolm Turnbull since taking office, US President Donald Trump has confirmed he will honour the deal to resettle Nauru and Manus Island asylum seekers. 
  
 The confirmation came after a 25-minute phone call between the leaders, emphasising the “enduring strength and closeness” of the US-Australia relationship, the White House said in a statement. 
  Trump and Turnbull spoke at around 9.00am on Sunday. Photo: AAP  
@@ -38,9 +38,8 @@ Ms Bishop first spoke with Mr Pence last Thursday when she congratulated him o
  
 White House staff confirmed the Vice-President thanked Australia for its “steadfast partnership and contributions around the globe”. 
  
-“The two reaffirmed the importance of continuing to strengthen the US-Australia alliance to maintain peace and security in the region,” the statement read.</content> 
-<sequenceId type="str">695199298274</sequenceId> 
-<topics type="list"> 
+“The two reaffirmed the importance of continuing to strengthen the US-Australia alliance to maintain peace and security in the region,” the statement read.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -57,7 +56,8 @@ White House staff confirmed the Vice-President thanked Australia for its “ste
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:41Z</estimatedPublishedDate> 
-<title type="str">Donald Trump endorses Australian refugee resettlement deal</title> 
+</TOPICS> 
+<DOCID type="str">695199298274</DOCID> 
+<DCT type="str">2017-01-29T07:43:41Z</DCT> 
+<TITLE type="str">Donald Trump endorses Australian refugee resettlement deal</TITLE> 
 </root>

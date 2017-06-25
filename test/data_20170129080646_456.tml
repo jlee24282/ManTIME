@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Indonesia, which has the world s largest Muslim population, is not among the seven Muslim-majority n</content> 
-<sequenceId type="str">695194559347</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Indonesia, which has the world s largest Muslim population, is not among the seven Muslim-majority n</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -23,7 +22,8 @@
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:28Z</estimatedPublishedDate> 
-<title type="str">Indonesia deeply regrets US immigrant vetting plans</title> 
+</TOPICS> 
+<DOCID type="str">695194559347</DOCID> 
+<DCT type="str">2017-01-29T07:16:28Z</DCT> 
+<TITLE type="str">Indonesia deeply regrets US immigrant vetting plans</TITLE> 
 </root>

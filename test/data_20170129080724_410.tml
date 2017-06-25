@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In South Omaha last week, retailer Carlos Jacobo of Jacobo’s Groceries ticked off some of the daily necessities required by cooks whose refrigerators and stoves overflow with the sweet and savory produce of Mexican cuisine: Jumex juice drinks, Dona Maria marinated cactus, Lo Costena enchilada sauce. 
+<TEXT type="str">In South Omaha last week, retailer Carlos Jacobo of Jacobo’s Groceries ticked off some of the daily necessities required by cooks whose refrigerators and stoves overflow with the sweet and savory produce of Mexican cuisine: Jumex juice drinks, Dona Maria marinated cactus, Lo Costena enchilada sauce. 
  
 All are staples in kitchens where Mexican fare is on the daily menu, and all are imported from Mexico. And all would be subject to a 20 percent import tax proposed by the Trump administration last week as a means of paying for a border wall between the two nations. 
  
@@ -128,9 +128,8 @@ Top agricultural import categories
  
 5. Processed fruit and vegetables $1.4 
   
-© 2017 Atchison Globe Now. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</content> 
-<sequenceId type="str">695195941596</sequenceId> 
-<topics type="list"> 
+© 2017 Atchison Globe Now. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Trade news</name> 
@@ -143,7 +142,8 @@ Top agricultural import categories
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Many fear Nebraska, Iowa will lose to Mexico if Trump starts trade war</title> 
+</TOPICS> 
+<DOCID type="str">695195941596</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Many fear Nebraska, Iowa will lose to Mexico if Trump starts trade war</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Buat akun, bangun komunitas setiap hari, temukan video baru</content> 
-<sequenceId type="str">695194529670</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Buat akun, bangun komunitas setiap hari, temukan video baru</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:58:59Z</estimatedPublishedDate> 
-<title type="str">Coba Cam137</title> 
+</TOPICS> 
+<DOCID type="str">695194529670</DOCID> 
+<DCT type="str">2017-01-29T06:58:59Z</DCT> 
+<TITLE type="str">Coba Cam137</TITLE> 
 </root>

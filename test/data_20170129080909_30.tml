@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Kylie Jenner took her boyfriend Tyga to their family vacation in Costa Rica If you recall her family complained about her inviting him to last year&apos;s vacation as she spent time with him instead of bonding with her family</content> 
-<sequenceId type="str">695199709777</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Kylie Jenner took her boyfriend Tyga to their family vacation in Costa Rica If you recall her family complained about her inviting him to last year&apos;s vacation as she spent time with him instead of bonding with her family</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Costa Rica news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Central America news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:56Z</estimatedPublishedDate> 
-<title type="str">Kylie Jenner and Tyga loved up in Costa Rica(Photos)</title> 
+</TOPICS> 
+<DOCID type="str">695199709777</DOCID> 
+<DCT type="str">2017-01-29T07:53:56Z</DCT> 
+<TITLE type="str">Kylie Jenner and Tyga loved up in Costa Rica(Photos)</TITLE> 
 </root>

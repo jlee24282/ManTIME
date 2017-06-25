@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump today directed US military to develop a &quot;comprehensive strategy&quot; within 30 days to defeat the ISIS, asserting that America must take decisive action against the dreaded terror group. 
+<TEXT type="str">President Donald Trump today directed US military to develop a &quot;comprehensive strategy&quot; within 30 days to defeat the ISIS, asserting that America must take decisive action against the dreaded terror group. 
 
 &quot;The Islamic State of Iraq and Syria, or ISIS, is not the only threat from radical Islamic terrorism that the US faces, but it is among the most vicious and aggressive. It is also attempting to create its own state, which ISIS claims as a caliphate. But there can be no accommodation or negotiation with it,&quot; Trump said in his executive order. 
 
@@ -26,9 +26,8 @@ The plan seeks public diplomacy, information operations, and cyber strategies to
 
 --PTI 
 
-Read More</content> 
-<sequenceId type="str">695199188844</sequenceId> 
-<topics type="list"> 
+Read More</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
@@ -45,7 +44,8 @@ Read More</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:29Z</estimatedPublishedDate> 
-<title type="str">Donald Trump asks US military to develop anti-ISIS strategy within 30 days</title> 
+</TOPICS> 
+<DOCID type="str">695199188844</DOCID> 
+<DCT type="str">2017-01-29T07:49:29Z</DCT> 
+<TITLE type="str">Donald Trump asks US military to develop anti-ISIS strategy within 30 days</TITLE> 
 </root>

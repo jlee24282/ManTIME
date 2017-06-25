@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Wall Street Journal Roundup  
+<TEXT type="str">A Wall Street Journal Roundup  
 Technology industry executives expressed personal dismay and concern for their companies in reacting to President Donald Trump&apos;s executive order on immigration. 
  
 In company emails, interviews and posts published online, leaders from companies including Apple Inc. and Microsoft Corp. framed the order as one at odds with a nation that welcomes foreigners and an industry that counts foreign-born executives in its upper ranks. In doing so, they broke with weeks of cautious engagement with the new administration. 
@@ -180,9 +180,8 @@ Over the past several months, I&apos;ve talked with you repeatedly about my unyi
 (END) Dow Jones Newswires 
  
 January 29, 2017 02:36 ET (07:36 GMT) 
-Copyright (c) 2017 Dow Jones &amp; Company, Inc.</content> 
-<sequenceId type="str">695202851564</sequenceId> 
-<topics type="list"> 
+Copyright (c) 2017 Dow Jones &amp; Company, Inc.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
@@ -203,7 +202,8 @@ Copyright (c) 2017 Dow Jones &amp; Company, Inc.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:03Z</estimatedPublishedDate> 
-<title type="str">Tech Executives React to Trump Immigration Order in Their Own Words -- Update</title> 
+</TOPICS> 
+<DOCID type="str">695202851564</DOCID> 
+<DCT type="str">2017-01-29T08:17:03Z</DCT> 
+<TITLE type="str">Tech Executives React to Trump Immigration Order in Their Own Words -- Update</TITLE> 
 </root>

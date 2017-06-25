@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ATLANTA (CBS46) - 
+<TEXT type="str">ATLANTA (CBS46) - 
 
 CBS46 has learned that several people from Muslim countries have been detained at Hartsfield-Jackson Airport, Saturday.
 
@@ -16,14 +16,14 @@ People immigrate to America because they are inspired by our commitment to justi
 
 CBS46 reporter Natalie Rubino is at the airport. She will have live updates at 11 p.m.
 
-Stay tuned to CBS46 and CBS46.com for the latest details.</content> 
-<sequenceId type="str">695202722529</sequenceId> 
-<topics type="list"> 
+Stay tuned to CBS46 and CBS46.com for the latest details.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:14:00Z</estimatedPublishedDate> 
-<title type="str">Several detained at Hartsfield-Jackson Airport</title> 
+</TOPICS> 
+<DOCID type="str">695202722529</DOCID> 
+<DCT type="str">2017-01-28T22:14:00Z</DCT> 
+<TITLE type="str">Several detained at Hartsfield-Jackson Airport</TITLE> 
 </root>

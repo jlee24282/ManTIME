@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tweet on Twitter 
+<TEXT type="str">Tweet on Twitter 
          
 Mohammad Javad Zarif 
   
@@ -21,9 +21,8 @@ Read More….. Guardian Newspapers
 Facebook 
   
 Twitter 
-      Previous article &apos;Them do as if dem no know us again&apos; – Lord of Ajasa&apos;s wife takes a shot at Olamide  Next article Igbo presidency: Don’t rely on Obasanjo’s support- Adimachukwu, Ohanaeze women leader</content> 
-<sequenceId type="str">695204394488</sequenceId> 
-<topics type="list"> 
+      Previous article &apos;Them do as if dem no know us again&apos; – Lord of Ajasa&apos;s wife takes a shot at Olamide  Next article Igbo presidency: Don’t rely on Obasanjo’s support- Adimachukwu, Ohanaeze women leader</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -36,7 +35,8 @@ Twitter
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:38Z</estimatedPublishedDate> 
-<title type="str">Trump travel ban &apos;great gift to extremists&apos;: Iran FM</title> 
+</TOPICS> 
+<DOCID type="str">695204394488</DOCID> 
+<DCT type="str">2017-01-29T08:25:38Z</DCT> 
+<TITLE type="str">Trump travel ban &apos;great gift to extremists&apos;: Iran FM</TITLE> 
 </root>

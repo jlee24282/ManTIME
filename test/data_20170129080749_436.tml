@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">HALLANDALE BEACH, Fla. — Arrogate was barely running when he crossed the finish line in the $12 million Pegasus World Cup, and the same could be said for California Chrome. 
+<TEXT type="str">HALLANDALE BEACH, Fla. — Arrogate was barely running when he crossed the finish line in the $12 million Pegasus World Cup, and the same could be said for California Chrome. 
  
 In Arrogate’s case, the day’s work was done. 
  
@@ -48,9 +48,8 @@ It was an event, like organizers hoped. And not only did a big crowd show up, th
  
 Smith and Baffert would say the same. 
  
-“As far as winning the world’s richest race,” Smith said, “I’m absolutely numb.”</content> 
-<sequenceId type="str">695196915603</sequenceId> 
-<topics type="list"> 
+“As far as winning the world’s richest race,” Smith said, “I’m absolutely numb.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -59,7 +58,8 @@ Smith and Baffert would say the same.
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:19Z</estimatedPublishedDate> 
-<title type="str">Arrogate wins Pegasus; Chrome runs ninth</title> 
+</TOPICS> 
+<DOCID type="str">695196915603</DOCID> 
+<DCT type="str">2017-01-29T07:33:19Z</DCT> 
+<TITLE type="str">Arrogate wins Pegasus; Chrome runs ninth</TITLE> 
 </root>

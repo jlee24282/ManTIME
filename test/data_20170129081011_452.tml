@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">KATY Scott from Cloncurry will be representing North West Queensland and travelling to Warwick this weekend to compete in the final of Miss Rodeo Australia. 
+<TEXT type="str">KATY Scott from Cloncurry will be representing North West Queensland and travelling to Warwick this weekend to compete in the final of Miss Rodeo Australia. 
  
 On Friday Ms Scott was required to attend radio interviews, talk to sponsors of the competition and conduct and introduction of herself and speech on her chosen charity Buy A Bale. 
 
@@ -38,9 +38,8 @@ Katy Scott presenting the $3000 check to Charles Alder from Buy A Bale Foundatio
 “I would like to thanks the generosity and support of North West Queensland community for their help and donations.” 
 
  
-The story first appeared on The North West Star .</content> 
-<sequenceId type="str">695202459656</sequenceId> 
-<topics type="list"> 
+The story first appeared on The North West Star .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Media latest</name> 
@@ -53,7 +52,8 @@ The story first appeared on The North West Star .</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:05Z</estimatedPublishedDate> 
-<title type="str">Rodeo Queen finalist</title> 
+</TOPICS> 
+<DOCID type="str">695202459656</DOCID> 
+<DCT type="str">2017-01-29T08:14:05Z</DCT> 
+<TITLE type="str">Rodeo Queen finalist</TITLE> 
 </root>

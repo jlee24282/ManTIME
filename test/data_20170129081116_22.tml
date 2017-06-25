@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new daily zone, the Neverwinter River District, offers players varying ways to earn daily credit while fighting back against a cabal of wizards.</content> 
-<sequenceId type="str">695204235570</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A new daily zone, the Neverwinter River District, offers players varying ways to earn daily credit while fighting back against a cabal of wizards.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:34Z</estimatedPublishedDate> 
-<title type="str">Neverwinter River District Introduced in Blog Post</title> 
+</TOPICS> 
+<DOCID type="str">695204235570</DOCID> 
+<DCT type="str">2017-01-29T08:23:34Z</DCT> 
+<TITLE type="str">Neverwinter River District Introduced in Blog Post</TITLE> 
 </root>

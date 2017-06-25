@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">• Tara Cosco will serve as associate professor of education. Previously, Cosco taught at Glenville State College in Glenville, West Virginia, as associate professor of special education since 2008. 
+<TEXT type="str">• Tara Cosco will serve as associate professor of education. Previously, Cosco taught at Glenville State College in Glenville, West Virginia, as associate professor of special education since 2008. 
  
 She earned a Master of Education in special education from West Virginia University in Morgantown, West Virginia, and her Doctor of Education in technology and e-learning from Northcentral University in Prescott Valley, Arizona. 
  
@@ -20,9 +20,8 @@ New staff include:
  
 • Lois Oiler serves as accounting manager and comes to Milligan with over 20 years of experience in nonprofit and college accounting. She graduated Milligan in 1992 with a B.S. in accounting. 
  
-To learn more about Milligan, visit www.milligan.edu .</content> 
-<sequenceId type="str">695201963430</sequenceId> 
-<topics type="list"> 
+To learn more about Milligan, visit www.milligan.edu .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -35,7 +34,8 @@ To learn more about Milligan, visit www.milligan.edu .</content>
 <group type="str">Business</group> 
 <name type="str">Human resources news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:15Z</estimatedPublishedDate> 
-<title type="str">Milligan welcomes new faculty, staff to campus</title> 
+</TOPICS> 
+<DOCID type="str">695201963430</DOCID> 
+<DCT type="str">2017-01-29T08:10:15Z</DCT> 
+<TITLE type="str">Milligan welcomes new faculty, staff to campus</TITLE> 
 </root>

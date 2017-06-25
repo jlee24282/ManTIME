@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CHESTNUT HILL, Mass. -- The 15th-ranked Notre Dame Fighting Irish and 11th-ranked Boston College Eagles made sure their last regular-season meeting as Hockey East foes was a memorable one, with Boston College erasing a two-goal deficit to claim a 6-4 win on Saturday at a sold out Conte Forum (7,884). 
+<TEXT type="str">CHESTNUT HILL, Mass. -- The 15th-ranked Notre Dame Fighting Irish and 11th-ranked Boston College Eagles made sure their last regular-season meeting as Hockey East foes was a memorable one, with Boston College erasing a two-goal deficit to claim a 6-4 win on Saturday at a sold out Conte Forum (7,884). 
  
 Anders Bjork notched his team-high 16th goal to open the scoring for Notre Dame (14-9-3, 7-5-2 HEA) at 1:04 of the first period. Bjork would later add an assist on the second goal from Andrew Oglevie, who tallied his 13th and 14th goals of the season during the opening two periods Saturday against Boston College (17-9-2, 12-3-1 HEA). 
  
@@ -44,9 +44,8 @@ UP NEXT
  
 The Irish return home to play a weekend game series against No. 11/13 Vermont on Friday, Feb. 3 (7:35 p.m.) and Saturday, Feb. 4 (6:35 p.m.). Both games will be televised by the NBC Sports Network. 
  
-To purchase tickets visit UND.com/BuyTickets.</content> 
-<sequenceId type="str">695201583927</sequenceId> 
-<topics type="list"> 
+To purchase tickets visit UND.com/BuyTickets.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -55,7 +54,8 @@ To purchase tickets visit UND.com/BuyTickets.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:24Z</estimatedPublishedDate> 
-<title type="str">#11 BC Rallies Late To Down #15 Irish 6-4</title> 
+</TOPICS> 
+<DOCID type="str">695201583927</DOCID> 
+<DCT type="str">2017-01-29T08:07:24Z</DCT> 
+<TITLE type="str">#11 BC Rallies Late To Down #15 Irish 6-4</TITLE> 
 </root>

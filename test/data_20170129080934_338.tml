@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Chinese New Year horoscope has predicted a &quot;favourable&quot; year for Labour leader Andrew Little, particularly in his career. 
+<TEXT type="str">A Chinese New Year horoscope has predicted a &quot;favourable&quot; year for Labour leader Andrew Little, particularly in his career. 
    The left-leaning parties are determined to change the government later this year. 
 Source: 1 NEWS   
 As the election approaches he told supporters at today&apos;s state of the nation speech in Auckland that he hopes it, and a prediction that Prime Minister Bill English&apos;s luck will decline in September, are correct. 
@@ -51,9 +51,8 @@ Labour and the Green Party signed a memorandum of understanding last year, commi
    
 No date has been set but it&apos;s expected to be in the latter half of the year, with September 23 thrown up as a possible date. 
    
-Mr English is expected to announce the date as early as next week.</content> 
-<sequenceId type="str">695201027944</sequenceId> 
-<topics type="list"> 
+Mr English is expected to announce the date as early as next week.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -62,7 +61,8 @@ Mr English is expected to announce the date as early as next week.</content>
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:43Z</estimatedPublishedDate> 
-<title type="str">Labour and Greens create history with joint state of the nation</title> 
+</TOPICS> 
+<DOCID type="str">695201027944</DOCID> 
+<DCT type="str">2017-01-29T08:03:43Z</DCT> 
+<TITLE type="str">Labour and Greens create history with joint state of the nation</TITLE> 
 </root>

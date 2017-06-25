@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Renovation work has altered the plans for the Capital Region’s largest fashion show, produced each year by Electric City Couture. 
+<TEXT type="str">Renovation work has altered the plans for the Capital Region’s largest fashion show, produced each year by Electric City Couture. 
  
 Universal Preservation Hall, where the show is typically held in April in Saratoga Springs, will be under construction in late spring. 
  
@@ -39,9 +39,8 @@ The pieces are exhibited at the Consulate General of Lithuania (420 5th Ave No. 
 “The last day of the exhibit is actually during New York’s Fashion Week, so we’re going to try to get people to go to it from Fashion Week as well,” Aldrich said. 
  
 Amidst finding other venues for their other shows, the ECC will have plenty of other things to keep it busy. 
-Aldrich said that the ECC will most likely also take part in Troy’s Steampunk Festival this summer with a fashion show. The organization participated last year and had a large turnout.</content> 
-<sequenceId type="str">695197581154</sequenceId> 
-<topics type="list"> 
+Aldrich said that the ECC will most likely also take part in Troy’s Steampunk Festival this summer with a fashion show. The organization participated last year and had a large turnout.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -50,7 +49,8 @@ Aldrich said that the ECC will most likely also take part in Troy’s Steampunk 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Electric City Couture to hold 4 smaller shows</title> 
+</TOPICS> 
+<DOCID type="str">695197581154</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Electric City Couture to hold 4 smaller shows</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Philip Pullella
+<TEXT type="str">By Philip Pullella
 
 VATICAN CITY (Reuters) - On the afternoon of Jan. 24, a black BMW pulled out of a 16th century palace in Rome, crossed the Tiber River and headed for the Vatican, a short trip to end a brazen challenge to the authority of Pope Francis.
 
@@ -44,9 +44,8 @@ Festing fired him in Burke&apos;s presence, arguing that the German had hidden t
 
 Immediately, the firing set off the conflict between the Knights&apos; hierarchy and the Vatican.
 
-Von Boeselager , a devout Catholic, said in a statement on Dec. 23 that he was fully behind Church teachings. He closed two projects in the developing world when he discovered condoms were being distributed but kept a third running in Myanmar for a while because closing it would have abruptly ended all basic medical services to poor people.</content> 
-<sequenceId type="str">695204364175</sequenceId> 
-<topics type="list"> 
+Von Boeselager , a devout Catholic, said in a statement on Dec. 23 that he was fully behind Church teachings. He closed two projects in the developing world when he discovered condoms were being distributed but kept a third running in Myanmar for a while because closing it would have abruptly ended all basic medical services to poor people.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Italy news</name> 
@@ -59,7 +58,8 @@ Von Boeselager , a devout Catholic, said in a statement on Dec. 23 that he was f
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:47Z</estimatedPublishedDate> 
-<title type="str">The Knights of Malta-Vatican feud - a tale of chivalry and sovereignty</title> 
+</TOPICS> 
+<DOCID type="str">695204364175</DOCID> 
+<DCT type="str">2017-01-29T08:21:47Z</DCT> 
+<TITLE type="str">The Knights of Malta-Vatican feud - a tale of chivalry and sovereignty</TITLE> 
 </root>

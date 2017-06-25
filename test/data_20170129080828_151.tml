@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:22am 
+<TEXT type="str">:22am 
  
 Manny &quot;Pac-Man&quot; Pacquiao Photo: Lucy Nicholson 
   
@@ -30,9 +30,8 @@ His record easily dwarfs that of Horn, who hails from Queensland, who has notche
  
 Pacquiao said last week that negotiations for the fight, including the date and opponent, were still ongoing. 
  
-AFP</content> 
-<sequenceId type="str">695197932082</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -41,7 +40,8 @@ AFP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:00Z</estimatedPublishedDate> 
-<title type="str">Australia enters ring for Pacquiao-Horn fight</title> 
+</TOPICS> 
+<DOCID type="str">695197932082</DOCID> 
+<DCT type="str">2017-01-29T07:22:00Z</DCT> 
+<TITLE type="str">Australia enters ring for Pacquiao-Horn fight</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A federal judge blocked Saturday part of President Donald Trump’s temporary immigration ban, ordering authorities to stop deporting refugees and other travelers stuck at US airports. 
+<TEXT type="str">A federal judge blocked Saturday part of President Donald Trump’s temporary immigration ban, ordering authorities to stop deporting refugees and other travelers stuck at US airports. 
  
 The decision accompanied growing resistance to Trump’s crackdown on Muslim immigration, with large protests spreading at major airports across the country. 
  
@@ -62,9 +62,8 @@ A White House official said that holders of a green card — which allows perman
  
 And green card holders in the US who want to travel abroad must obtain approval from a consulate official. 
  
-The State Department has said that people from the seven countries under the 90-day travel ban will be prohibited entry no matter their visa status. Only those holding a dual citizenship with the US will be allowed to enter.</content> 
-<sequenceId type="str">695196501468</sequenceId> 
-<topics type="list"> 
+The State Department has said that people from the seven countries under the 90-day travel ban will be prohibited entry no matter their visa status. Only those holding a dual citizenship with the US will be allowed to enter.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -77,7 +76,8 @@ The State Department has said that people from the seven countries under the 90-
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:49:14Z</estimatedPublishedDate> 
-<title type="str">Court stops Trump immigration ban</title> 
+</TOPICS> 
+<DOCID type="str">695196501468</DOCID> 
+<DCT type="str">2017-01-29T06:49:14Z</DCT> 
+<TITLE type="str">Court stops Trump immigration ban</TITLE> 
 </root>

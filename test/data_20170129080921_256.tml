@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January is about to end and what a great month it was for new Netflix content. We saw the arrival of classic films and all-time favorites plus original Netflix programs we enjoyed through and through. 
+<TEXT type="str">January is about to end and what a great month it was for new Netflix content. We saw the arrival of classic films and all-time favorites plus original Netflix programs we enjoyed through and through. 
  
 Now that February is upon us, it&apos;s looking like another excellent batch of movies, TV shows, and original Netflix programming is coming our way.  It even includes a recent Pixar blockbuster that both kids and the kid-at-heart will surely enjoy! 
  Contact  
@@ -42,9 +42,8 @@ For the full list, proceed to the next page.
  Next page: Click next for the full list          
 Previous Happening Now  Top Story: Tax scams preying on senior citizens - Warn your loved ones!  
      
-Random Happening Now  10 flawless pictures from the 10 most popular Instagram accounts</content> 
-<sequenceId type="str">695200430419</sequenceId> 
-<topics type="list"> 
+Random Happening Now  10 flawless pictures from the 10 most popular Instagram accounts</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Movie business news</name> 
@@ -53,7 +52,8 @@ Random Happening Now  10 flawless pictures from the 10 most popular Instagram ac
 <group type="str">Internet</group> 
 <name type="str">Digital distribution news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:42Z</estimatedPublishedDate> 
-<title type="str">What’s in and out of Netflix in February</title> 
+</TOPICS> 
+<DOCID type="str">695200430419</DOCID> 
+<DCT type="str">2017-01-29T07:00:42Z</DCT> 
+<TITLE type="str">What’s in and out of Netflix in February</TITLE> 
 </root>

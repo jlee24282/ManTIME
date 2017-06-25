@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">“Start every day off with a smile. At least it’s a good start.” 
+<TEXT type="str">“Start every day off with a smile. At least it’s a good start.” 
  
 This is the advice I found in a Chinese fortune cookie recently, and I try to follow it somewhat, but it was hard to do this past Monday. 
  
@@ -86,9 +86,8 @@ It’s by your attitude in life,
  
 With what standard you comply.” 
  
-(McCoy, a resident of Smithfield, is food editor and a staff columnist for the Herald-Star and The Weirton Daily Times. She can be contacted at emccoy@herald-staronline.com.)</content> 
-<sequenceId type="str">695196565690</sequenceId> 
-<topics type="list"> 
+(McCoy, a resident of Smithfield, is food editor and a staff columnist for the Herald-Star and The Weirton Daily Times. She can be contacted at emccoy@herald-staronline.com.)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -97,7 +96,8 @@ With what standard you comply.”
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:48Z</estimatedPublishedDate> 
-<title type="str">Starting off every day with a smile</title> 
+</TOPICS> 
+<DOCID type="str">695196565690</DOCID> 
+<DCT type="str">2017-01-29T07:30:48Z</DCT> 
+<TITLE type="str">Starting off every day with a smile</TITLE> 
 </root>

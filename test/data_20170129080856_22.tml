@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sony has a couple of smartphones in the pipeline, which are readied for a February unveil. The Japanese company is expected to announce a flagship smartphone at Mobile World Congress (MWC), but also a few mid-range devices that will go alongside the high-end device. 
+<TEXT type="str">Sony has a couple of smartphones in the pipeline, which are readied for a February unveil. The Japanese company is expected to announce a flagship smartphone at Mobile World Congress (MWC), but also a few mid-range devices that will go alongside the high-end device. 
  
 One of the mid-range handsets that could be announced next month is the Sony G3121. The phone is said to be the Xperia XA&apos;s successor , but other than that we didn&apos;t know too many things about it. 
  
@@ -14,9 +14,8 @@ The rear camera has been positioned on the upper left corner, not in the middle 
  
 The mid-range smartphone comes with a dedicated camera button and a volume rocker on the right side. The power key is positioned near the volume button, on the right side. 
  
-The size of the display is unknown for the moment, but we believe this is a 5-inch display that supports HD (720p) resolution. We expect more info about the Xperia XA successor&apos;s specs to emerge in the coming days, so stay tuned.</content> 
-<sequenceId type="str">695199103494</sequenceId> 
-<topics type="list"> 
+The size of the display is unknown for the moment, but we believe this is a 5-inch display that supports HD (720p) resolution. We expect more info about the Xperia XA successor&apos;s specs to emerge in the coming days, so stay tuned.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Consumer electronics news</name> 
@@ -29,7 +28,8 @@ The size of the display is unknown for the moment, but we believe this is a 5-in
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:00Z</estimatedPublishedDate> 
-<title type="str">Sony Xperia XA Successor Shown in Video Before MWC 2017 Reveal</title> 
+</TOPICS> 
+<DOCID type="str">695199103494</DOCID> 
+<DCT type="str">2017-01-29T07:45:00Z</DCT> 
+<TITLE type="str">Sony Xperia XA Successor Shown in Video Before MWC 2017 Reveal</TITLE> 
 </root>

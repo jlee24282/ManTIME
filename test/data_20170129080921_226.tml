@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">If you have trouble accessing our login form below, you can go to our login page. If you have trouble accessing our login form below, you can go to our login page. The Age
+<TEXT type="str">If you have trouble accessing our login form below, you can go to our login page. If you have trouble accessing our login form below, you can go to our login page. The Age
 
 We could not find the page you requested.
 
 This is either because:
 
-there&apos;s an error in the address or link, due to a technical fault it has not been properly published, it is an older article that has been removed from our site. Skip to: More Info Check it Out Find Out More Compare now</content> 
-<sequenceId type="str">695200397626</sequenceId> 
-<topics type="list"> 
+there&apos;s an error in the address or link, due to a technical fault it has not been properly published, it is an older article that has been removed from our site. Skip to: More Info Check it Out Find Out More Compare now</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -17,7 +16,8 @@ there&apos;s an error in the address or link, due to a technical fault it has no
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:13Z</estimatedPublishedDate> 
-<title type="str">NSW weather: Heatwave, severe fire danger as students return to school</title> 
+</TOPICS> 
+<DOCID type="str">695200397626</DOCID> 
+<DCT type="str">2017-01-29T07:59:13Z</DCT> 
+<TITLE type="str">NSW weather: Heatwave, severe fire danger as students return to school</TITLE> 
 </root>

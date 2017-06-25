@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January 27th-28th 2017 Seattle, Washington, United States 
+<TEXT type="str">January 27th-28th 2017 Seattle, Washington, United States 
 
 ReportBlock 
 
@@ -110,14 +110,14 @@ Blogs
 
 2007 
 
-Hashtags:#washington #uw-indoor #uw-invitational #uw-invite #dempsey-indoor #huskies</content> 
-<sequenceId type="str">695194765374</sequenceId> 
-<topics type="list"> 
+Hashtags:#washington #uw-indoor #uw-invitational #uw-invite #dempsey-indoor #huskies</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:56:00Z</estimatedPublishedDate> 
-<title type="str">Video - Joe Morris 1st Men&apos;s 60m - Washington Indoor Invitational 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194765374</DOCID> 
+<DCT type="str">2017-01-29T05:56:00Z</DCT> 
+<TITLE type="str">Video - Joe Morris 1st Men&apos;s 60m - Washington Indoor Invitational 2017</TITLE> 
 </root>

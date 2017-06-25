@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A ‘GHOST STATION’ on the Dublin to Cork line will lie idle unless Irish Rail is given €2 million to open it – but a review of the station is due this year.
+<TEXT type="str">A ‘GHOST STATION’ on the Dublin to Cork line will lie idle unless Irish Rail is given €2 million to open it – but a review of the station is due this year.
 
 The National Transport Authority confirmed to TheJournal.ie that a review of the station is due this year.
 
@@ -30,9 +30,8 @@ Irish Rail says that the station will remain closed unless it gets €2 million 
 
 “The station requires in the region of €2 million of capital expenditure to complete a car park, access road and other works to allow the station to open. Decisions on future capital programme will be made by the National Transport Authority, in the context of the Greater Dublin Area Transport Strategy.”
 
-The spokesperson added that there are no specific monthly costs for maintaining the site, but that it is checked every quarter to ensure lifts and fire detection systems are operational.</content> 
-<sequenceId type="str">695197117365</sequenceId> 
-<topics type="list"> 
+The spokesperson added that there are no specific monthly costs for maintaining the site, but that it is checked every quarter to ensure lifts and fire detection systems are operational.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Ireland news</name> 
@@ -41,7 +40,8 @@ The spokesperson added that there are no specific monthly costs for maintaining 
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:55Z</estimatedPublishedDate> 
-<title type="str">Dublin&apos;s last &apos;ghost station&apos; will cost €2 million to open</title> 
+</TOPICS> 
+<DOCID type="str">695197117365</DOCID> 
+<DCT type="str">2017-01-29T07:34:55Z</DCT> 
+<TITLE type="str">Dublin&apos;s last &apos;ghost station&apos; will cost €2 million to open</TITLE> 
 </root>

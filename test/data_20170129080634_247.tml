@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As the number of Bismarck art galleries increases, the local arts community sees an opportunity to grow. 
+<TEXT type="str">As the number of Bismarck art galleries increases, the local arts community sees an opportunity to grow. 
 
 Since opening, Capital Art Gallery has sold $100,000 worth of art: eight paintings, eight bronze statue, a mosaic and several glass pieces by Jon Offett. And Small Business Saturday was a busy day, said David Borlaug, president of the Lewis and Clark Fort Mandan Foundation, which runs the gallery. 
 
@@ -44,9 +44,8 @@ In turn, that community could help grow the city, attracting more residents. Bor
 
 Information from: Bismarck Tribune, http://www.bismarcktribune.com 
 
-AP Member Exchange shared by The Bismarck Tribune.</content> 
-<sequenceId type="str">695194061558</sequenceId> 
-<topics type="list"> 
+AP Member Exchange shared by The Bismarck Tribune.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -63,7 +62,8 @@ AP Member Exchange shared by The Bismarck Tribune.</content>
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Number of art galleries increases for Bismarck</title> 
+</TOPICS> 
+<DOCID type="str">695194061558</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Number of art galleries increases for Bismarck</TITLE> 
 </root>

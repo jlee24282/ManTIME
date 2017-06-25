@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The robots of the future will be coming soon, rolling along at a lumbering pace with those goods you just ordered.  The goal for Starship Technologies robots is to carry about nine kilograms of goods within a radius of three kilometres for $1 or less | © AFP/File | Mandel Ngan    
+<TEXT type="str">The robots of the future will be coming soon, rolling along at a lumbering pace with those goods you just ordered.  The goal for Starship Technologies robots is to carry about nine kilograms of goods within a radius of three kilometres for $1 or less | © AFP/File | Mandel Ngan    
 by Rob Lever 
 Washington (AFP) | 29 January 2017 6:13 
  
@@ -57,9 +57,8 @@ Harris-Burland said the company’s tests so far in Europe have shown the system
 The lids of the devices are locked until the customer opens it with a smartphone. If anyone tries to steal it, an alarm will sound, and if it is hijacked the company can track it “to the nearest inch,” he said. 
  
 © 2017 AFP 
-   AUTHOR  AFP</content> 
-<sequenceId type="str">695194279685</sequenceId> 
-<topics type="list"> 
+   AUTHOR  AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Robotics news</name> 
@@ -68,7 +67,8 @@ The lids of the devices are locked until the customer opens it with a smartphone
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:19Z</estimatedPublishedDate> 
-<title type="str">New wave of robots set to deliver the goods</title> 
+</TOPICS> 
+<DOCID type="str">695194279685</DOCID> 
+<DCT type="str">2017-01-29T07:14:19Z</DCT> 
+<TITLE type="str">New wave of robots set to deliver the goods</TITLE> 
 </root>

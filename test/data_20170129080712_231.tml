@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">An Israeli soldier stands guard in the Israeli settlement of Beit El near the West Bank city of Ramallah. (Menahem Kahana/AFP/) BEIT EL, West Bank – In a modern building of beige and black stone, hundreds of Jewish students pore over religious texts and learn of their right to settle the land surrounding this hillside settlement, as promised by God to their forefathers. 
+<TEXT type="str">An Israeli soldier stands guard in the Israeli settlement of Beit El near the West Bank city of Ramallah. (Menahem Kahana/AFP/) BEIT EL, West Bank – In a modern building of beige and black stone, hundreds of Jewish students pore over religious texts and learn of their right to settle the land surrounding this hillside settlement, as promised by God to their forefathers. 
 
 The new building for the religious seminary, or yeshiva, opened just a month ago, despite controversy over any new construction here. A sign reading &quot;danger construction&quot; still hangs on the fence outside. 
 
@@ -52,9 +52,8 @@ Like other Orthodox residents here, he believes their presence is preordained. Y
 
 He said Obama &quot;loved the Arabs and not the Jews,&quot; but that the incoming administration would make no difference.
 
-&quot;We don’t believe that the policy towards Beit El is going to change anything, because it’s all written in the scriptures,&quot; he said. &quot;We’ve always had difficulties, but all of Israel was built despite the difficulties.&quot; Read more</content> 
-<sequenceId type="str">695195285398</sequenceId> 
-<topics type="list"> 
+&quot;We don’t believe that the policy towards Beit El is going to change anything, because it’s all written in the scriptures,&quot; he said. &quot;We’ve always had difficulties, but all of Israel was built despite the difficulties.&quot; Read more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top US stories</name> 
@@ -75,7 +74,8 @@ He said Obama &quot;loved the Arabs and not the Jews,&quot; but that the incomin
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:00Z</estimatedPublishedDate> 
-<title type="str">Inside the contentious Israeli settlement that counts Trump as a donor</title> 
+</TOPICS> 
+<DOCID type="str">695195285398</DOCID> 
+<DCT type="str">2017-01-29T07:12:00Z</DCT> 
+<TITLE type="str">Inside the contentious Israeli settlement that counts Trump as a donor</TITLE> 
 </root>

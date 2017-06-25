@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MIL OSI United Kingdom – 
+<TEXT type="str">MIL OSI United Kingdom – 
 
 Source: Metropolitan Police UK Headline: Police have today, Sunday, 29 January, released an image of a man wanted for questioning in connection with a series of sexual assaults on buses in Lewisham and Southwark.
 
@@ -24,9 +24,8 @@ DC Alex Price from the Met’s Road and Transport Policing Command said: “We a
 
 Members of the public are advised not to approach the male if spotted but to call 999. To give information about the man pictured please call 101. To remain anonymous contact Crimestoppers on 0800 555 111.
 
-You can also tweet the police via @MetCC.</content> 
-<sequenceId type="str">695199833196</sequenceId> 
-<topics type="list"> 
+You can also tweet the police via @MetCC.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -35,7 +34,8 @@ You can also tweet the police via @MetCC.</content>
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:49Z</estimatedPublishedDate> 
-<title type="str">Appeal following sexual assaults on Lewisham and Southwark buses</title> 
+</TOPICS> 
+<DOCID type="str">695199833196</DOCID> 
+<DCT type="str">2017-01-29T07:52:49Z</DCT> 
+<TITLE type="str">Appeal following sexual assaults on Lewisham and Southwark buses</TITLE> 
 </root>

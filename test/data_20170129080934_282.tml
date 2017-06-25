@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trump signs executive orders 
+<TEXT type="str">Trump signs executive orders 
  
 New York&apos;s top elected office holders last night welcomed a stay by a federal judge that blocked some deportations based on President Donald Trump&apos;s so-called Muslim ban executive order. 
  
@@ -20,9 +20,8 @@ The New York City Comptroller Scott M. Stringer said: &quot;This Executive Order
  
 &quot;This ruling is a victory for not just the rule of law, or for checks and balances in government. It&apos;s a win for morality. It&apos;s a step in the right direction for those trying to become Americans. 
  
-&quot;This should be the beginning — not the end — of our fight against this backwards Executive Order. We must continue to fight for American values, and stand up for those who need us most.&quot;</content> 
-<sequenceId type="str">695200974998</sequenceId> 
-<topics type="list"> 
+&quot;This should be the beginning — not the end — of our fight against this backwards Executive Order. We must continue to fight for American values, and stand up for those who need us most.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -39,7 +38,8 @@ The New York City Comptroller Scott M. Stringer said: &quot;This Executive Order
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:20Z</estimatedPublishedDate> 
-<title type="str">Elected New York Officials Laud Deportation Stay; Sharply Denounce Trump</title> 
+</TOPICS> 
+<DOCID type="str">695200974998</DOCID> 
+<DCT type="str">2017-01-29T08:03:20Z</DCT> 
+<TITLE type="str">Elected New York Officials Laud Deportation Stay; Sharply Denounce Trump</TITLE> 
 </root>

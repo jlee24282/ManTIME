@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON — President Donald Trump on Friday afternoon enacted a sweeping executive order that suspended entry of all refugees to the United States for 120 days, barred Syrian refugees indefinitely and blocked entry into the United States for 90 days for citizens of seven predominantly Muslim countries: Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. It also barred green card holders from those countries from re-entering the United States, the Department of Homeland Security said, although the administration said exemptions could be granted. 
+<TEXT type="str">WASHINGTON — President Donald Trump on Friday afternoon enacted a sweeping executive order that suspended entry of all refugees to the United States for 120 days, barred Syrian refugees indefinitely and blocked entry into the United States for 90 days for citizens of seven predominantly Muslim countries: Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. It also barred green card holders from those countries from re-entering the United States, the Department of Homeland Security said, although the administration said exemptions could be granted. 
    
 Here are some major excerpts from the executive order, with comments by The New York Times. 
    
@@ -84,9 +84,8 @@ How it restricts all refugees
  
 (d) Pursuant to section 212(f) of the INA, 8 U.S.C. 1182(f), I hereby proclaim that the entry of more than 50,000 refugees in fiscal year 2017 would be detrimental to the interests of the United States, and thus suspend any such entry until such time as I determine that additional admissions would be in the national interest. 
  
-This cuts the cap on refugees in half.</content> 
-<sequenceId type="str">695201284672</sequenceId> 
-<topics type="list"> 
+This cuts the cap on refugees in half.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -107,7 +106,8 @@ This cuts the cap on refugees in half.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:31Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s immigration order, annotated</title> 
+</TOPICS> 
+<DOCID type="str">695201284672</DOCID> 
+<DCT type="str">2017-01-29T08:05:31Z</DCT> 
+<TITLE type="str">Trump&apos;s immigration order, annotated</TITLE> 
 </root>

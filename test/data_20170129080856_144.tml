@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arrogate ran away with the $12m Gr1 Pegasus World Cup, the richest horse race ever staged, as the much anticipated rematch with California Chrome failed to produce the hoped-for fireworks.   
+<TEXT type="str">Arrogate ran away with the $12m Gr1 Pegasus World Cup, the richest horse race ever staged, as the much anticipated rematch with California Chrome failed to produce the hoped-for fireworks.   
 
  Arrogate – lines up in the Pegasus World Cup on 28 January  
 California Chrome turned in the weakest performance of his career, being obviously beaten on the turn for home and fading into ninth place of the dozen runners at Gulfstream Park in Florida. 
@@ -33,9 +33,8 @@ There was no immediate explanation for why California Chrome had fared so poorly
  
 The eventual runner-up was Shaman Ghost, whose owner, Frank Stronach, devised the Pegasus World Cup, with it’s unique entry system, costing $1m per runner. Neolithic was third. 
  
-www.theguardian.com</content> 
-<sequenceId type="str">695199246700</sequenceId> 
-<topics type="list"> 
+www.theguardian.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -44,7 +43,8 @@ www.theguardian.com</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:53:15Z</estimatedPublishedDate> 
-<title type="str">Arrogate Humbles Chrome</title> 
+</TOPICS> 
+<DOCID type="str">695199246700</DOCID> 
+<DCT type="str">2017-01-29T06:53:15Z</DCT> 
+<TITLE type="str">Arrogate Humbles Chrome</TITLE> 
 </root>

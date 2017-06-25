@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  
+<TEXT type="str">  
 
 CITY LIBRARY STAFF are set to turn the page on a new chapter in the history of the Carpenter Memorial Library tomorrow, when the fruits of a two-week renovations and restoration project are revealed. 
 
@@ -58,14 +58,14 @@ He worked in three different police stations under eight different chiefs of pol
 
 Paul Feely cover Manchester City Hall for the New Hampshire Union Leader and Sunday News. Email: pfeely@unionleader.com 
 
-..</content> 
-<sequenceId type="str">695193864444</sequenceId> 
-<topics type="list"> 
+..</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester City news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:33:00Z</estimatedPublishedDate> 
-<title type="str">Paul Feely&apos;s City Hall Some surprises with Carpenter Library renovation</title> 
+</TOPICS> 
+<DOCID type="str">695193864444</DOCID> 
+<DCT type="str">2017-01-29T04:33:00Z</DCT> 
+<TITLE type="str">Paul Feely&apos;s City Hall Some surprises with Carpenter Library renovation</TITLE> 
 </root>

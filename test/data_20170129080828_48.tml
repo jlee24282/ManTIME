@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As McAllen Mayor Jim Darling said in his Tuesday State of the City address: We have fostered much good will with our southern neighbors. 
+<TEXT type="str">As McAllen Mayor Jim Darling said in his Tuesday State of the City address: We have fostered much good will with our southern neighbors. 
  
 That good will is now being put to a test. 
  
@@ -44,9 +44,8 @@ We must seek out new relationships and recruit “unique” retailers, as Darlin
  
 Our time of change is upon us. Are you ready? 
  
-The Monitor</content> 
-<sequenceId type="str">695197855303</sequenceId> 
-<topics type="list"> 
+The Monitor</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -55,7 +54,8 @@ The Monitor</content>
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:15:00Z</estimatedPublishedDate> 
-<title type="str">Taxing times</title> 
+</TOPICS> 
+<DOCID type="str">695197855303</DOCID> 
+<DCT type="str">2017-01-29T06:15:00Z</DCT> 
+<TITLE type="str">Taxing times</TITLE> 
 </root>

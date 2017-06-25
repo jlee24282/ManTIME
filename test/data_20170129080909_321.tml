@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Amarillo Opera’s production of “Dream of the Pacific” marries an influential piece of American history with sophisticated music. 
+<TEXT type="str">Amarillo Opera’s production of “Dream of the Pacific” marries an influential piece of American history with sophisticated music. 
  
 The opera, which is sung in English, details the story of Lewis and Clark as they search for a water route through unmapped American wilderness to the Pacific Ocean. 
  
@@ -32,14 +32,14 @@ Although Dooley has performed across the nation, including in the Metropolitan O
  
 Hughes said every singer has exceeded the taxing requirements of his or her role. 
  
-“It has challenged the kids, but they are amazing,” she said. “They really have stepped up to the plate.”</content> 
-<sequenceId type="str">695200010958</sequenceId> 
-<topics type="list"> 
+“It has challenged the kids, but they are amazing,” she said. “They really have stepped up to the plate.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:11Z</estimatedPublishedDate> 
-<title type="str">Narration, pioneers, songs combine in ‘Dream of the Pacific’</title> 
+</TOPICS> 
+<DOCID type="str">695200010958</DOCID> 
+<DCT type="str">2017-01-29T07:56:11Z</DCT> 
+<TITLE type="str">Narration, pioneers, songs combine in ‘Dream of the Pacific’</TITLE> 
 </root>

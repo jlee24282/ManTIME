@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Johannesburg - I usually don’t take anything that comes from the South African Football Players’ Union (Safpu) seriously. The union is known as a toothless lapdog, always seeking cheap publicity. 
+<TEXT type="str">Johannesburg - I usually don’t take anything that comes from the South African Football Players’ Union (Safpu) seriously. The union is known as a toothless lapdog, always seeking cheap publicity. 
  
 But I told myself I should give them the benefit of the doubt on Friday after reading their latest press release. 
  
@@ -52,9 +52,8 @@ Stories of player abuse are quite common, but are never acted on.
  
 Just last night the PSL celebrated its relationship with SuperSport and how well-run the league is. But it is a blight on the league’s name if it turns a blind eye to issues like this. 
  
-Follow me on Twitter @TimspiritMolobi</content> 
-<sequenceId type="str">695199243052</sequenceId> 
-<topics type="list"> 
+Follow me on Twitter @TimspiritMolobi</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -63,7 +62,8 @@ Follow me on Twitter @TimspiritMolobi</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:05Z</estimatedPublishedDate> 
-<title type="str">Tim Spirit: Clifton Miheso’s allegations need investigation</title> 
+</TOPICS> 
+<DOCID type="str">695199243052</DOCID> 
+<DCT type="str">2017-01-29T07:50:05Z</DCT> 
+<TITLE type="str">Tim Spirit: Clifton Miheso’s allegations need investigation</TITLE> 
 </root>

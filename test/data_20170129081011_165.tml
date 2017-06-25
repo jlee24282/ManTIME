@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">For millennia the pig has been revered and reviled. It has provided the preferred meat of aristocracy and has been banned by the followers of some religions. The pig once was an important — and profit</content> 
-<sequenceId type="str">695202239697</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">For millennia the pig has been revered and reviled. It has provided the preferred meat of aristocracy and has been banned by the followers of some religions. The pig once was an important — and profit</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book reviews</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Book review: Feast on &apos;Lesser Beasts&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695202239697</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Book review: Feast on &apos;Lesser Beasts&apos;</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ollie Locke trained as an actor. 
+<TEXT type="str">Ollie Locke trained as an actor. 
 
 The &apos;Made in Chelsea&apos; star may have qualifications that could potentially see his name up in lights in the near future but he&apos;s adamant he&apos;d never agree to do a soap because he&apos;s enjoying his time on the E4 reality TV show with his close friends and family. 
 
@@ -22,9 +22,8 @@ He said: &quot;For me, this is a big series because I&apos;m talking very openly
 
 &quot;I lived with a woman last year when I was off camera, we had two dogs together. 
 
-&quot;And then we broke up and in December I thought, &apos;That&apos;s it now, I think I&apos;m now gay.&apos;&quot;</content> 
-<sequenceId type="str">695202463212</sequenceId> 
-<topics type="list"> 
+&quot;And then we broke up and in December I thought, &apos;That&apos;s it now, I think I&apos;m now gay.&apos;&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -33,7 +32,8 @@ He said: &quot;For me, this is a big series because I&apos;m talking very openly
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: fashion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Ollie Locke trained as actor</title> 
+</TOPICS> 
+<DOCID type="str">695202463212</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Ollie Locke trained as actor</TITLE> 
 </root>

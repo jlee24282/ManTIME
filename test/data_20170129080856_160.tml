@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Practices don’t begin for Ohio high school baseball teams for another three weeks, but area coaches are already preparing for how to adapt to new pitching rules. 
+<TEXT type="str">Practices don’t begin for Ohio high school baseball teams for another three weeks, but area coaches are already preparing for how to adapt to new pitching rules. 
  
 The Ohio High School Athletic Association recently adopted pitch-count standards that will limit hurlers to a maximum of 125 pitches per day, along with other restrictions. 
  
@@ -44,9 +44,8 @@ Romick agreed adding developing more arms will become more of a priority.
  
 ”I think what will happen is it will hurt schools that have depleted pitching staffs,” he said. ”Some schools from West Virginia had to cancel games because they had no one left to pitch. 
  
-”It will make you develop more pitchers.”</content> 
-<sequenceId type="str">695199268187</sequenceId> 
-<topics type="list"> 
+”It will make you develop more pitchers.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -55,7 +54,8 @@ Romick agreed adding developing more arms will become more of a priority.
 <group type="str">Sports</group> 
 <name type="str">Sports: baseball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:17Z</estimatedPublishedDate> 
-<title type="str">OHSAA institutes pitch count for baseball season</title> 
+</TOPICS> 
+<DOCID type="str">695199268187</DOCID> 
+<DCT type="str">2017-01-29T07:50:17Z</DCT> 
+<TITLE type="str">OHSAA institutes pitch count for baseball season</TITLE> 
 </root>

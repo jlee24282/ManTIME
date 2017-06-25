@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Promoter Richard Schaefer talked up the prospect of a third fight between Carl Frampton and Leo Santa Cruz after the Mexican won back his WBA Super world featherweight title. 
+<TEXT type="str">Promoter Richard Schaefer talked up the prospect of a third fight between Carl Frampton and Leo Santa Cruz after the Mexican won back his WBA Super world featherweight title. 
  
 Schaefer was impressed by their rematch at the MGM Grand Garden Arena and says a third fight can be made because both fighters want it. 
  
@@ -24,9 +24,8 @@ Leo Santa Cruz claimed he had talked about quitting to ensure he won.
   
 poll loading 
  Should Carl Frampton fight Leo Santa Cruz again?  0+ VOTES SO FAR  
-YES  NO</content> 
-<sequenceId type="str">695198444725</sequenceId> 
-<topics type="list"> 
+YES  NO</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Las Vegas news</name> 
@@ -51,7 +50,8 @@ YES  NO</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:45Z</estimatedPublishedDate> 
-<title type="str">Carl Frampton vs Leo Santa Cruz tipped for third fight after Mexican wins WBA title back in Las Vegas</title> 
+</TOPICS> 
+<DOCID type="str">695198444725</DOCID> 
+<DCT type="str">2017-01-29T07:38:45Z</DCT> 
+<TITLE type="str">Carl Frampton vs Leo Santa Cruz tipped for third fight after Mexican wins WBA title back in Las Vegas</TITLE> 
 </root>

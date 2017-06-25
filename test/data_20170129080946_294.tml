@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(AhlulBayt News Agency) - Iraqi army has discovered a chemical agents and weapons stock belonging to the ISIS terrorist group in liberated parts of the northern city of Mosul. 
+<TEXT type="str">(AhlulBayt News Agency) - Iraqi army has discovered a chemical agents and weapons stock belonging to the ISIS terrorist group in liberated parts of the northern city of Mosul. 
 
 The warehouse included a pile of cytotoxic and vesicant chemical agents as well as surface-to-surface missiles that could be used to weaponize the warfare agent 
 
@@ -16,9 +16,8 @@ As ISIS terrorists flee, “they have been repeatedly attacking and endangering 
 
 Iraqi army soldiers, supported by fighters from pro-government Popular Mobilization Units, commonly known by the Arabic word, Hashd al-Shaabi, and Kurdish Peshmerga forces, launched a joint operation on 17 October 2016 to retake Mosul from ISIS terrorists. 
 
-/298</content> 
-<sequenceId type="str">695201386079</sequenceId> 
-<topics type="list"> 
+/298</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -31,7 +30,8 @@ Iraqi army soldiers, supported by fighters from pro-government Popular Mobilizat
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:21Z</estimatedPublishedDate> 
-<title type="str">Iraqi forces discover ISIS chemical weapons in liberated part of Mosul</title> 
+</TOPICS> 
+<DOCID type="str">695201386079</DOCID> 
+<DCT type="str">2017-01-29T08:06:21Z</DCT> 
+<TITLE type="str">Iraqi forces discover ISIS chemical weapons in liberated part of Mosul</TITLE> 
 </root>

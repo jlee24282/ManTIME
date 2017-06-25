@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">UN, January 29. /TASS/. Dozens civilians died and got injured in the combat actions in Syria’s Deir-ez-Zor, seized by the Islamic State militants (outlawed in Russia) the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) said in a weekly report, published on Saturday. 
+<TEXT type="str">UN, January 29. /TASS/. Dozens civilians died and got injured in the combat actions in Syria’s Deir-ez-Zor, seized by the Islamic State militants (outlawed in Russia) the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) said in a weekly report, published on Saturday. 
  
 &quot;Fighting between ISIL and Government of Syria (GoS) forces is currently concentrated in the Al-Ommal and Rasafa neighbourhoods, the Al-Baglieh area and west of Deir-ez-Zor airbase&quot; the report reads. &quot;Medical sources inside the besieged city reported 19 civilian deaths and at least 44 civilian injuries due to shelling between 15 and 23 January.&quot; 
  
@@ -18,9 +18,8 @@ The UN also reported the delivery of bread and other products to Deir-ez-Zor, or
    
 {{item.group_date}} 
   
-Show more</content> 
-<sequenceId type="str">695195972912</sequenceId> 
-<topics type="list"> 
+Show more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -37,7 +36,8 @@ Show more</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:41Z</estimatedPublishedDate> 
-<title type="str">UN reports dozens killed, injured in Syrian Deir-ez-Zor</title> 
+</TOPICS> 
+<DOCID type="str">695195972912</DOCID> 
+<DCT type="str">2017-01-29T07:17:41Z</DCT> 
+<TITLE type="str">UN reports dozens killed, injured in Syrian Deir-ez-Zor</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cape Town - The Blitzboks have won the Wellington Sevens, beating Fiji 26-5 in the final with Seabelo Senatla claiming his 180th career try and the SA record in the process.  
+<TEXT type="str">Cape Town - The Blitzboks have won the Wellington Sevens, beating Fiji 26-5 in the final with Seabelo Senatla claiming his 180th career try and the SA record in the process.  
  
 After a tense opening 3 minutes it was Fiji who opened the scoring with Joeli Lutumailagi out sprinting Senatla to go over in the left-hand corner for an unconverted try.   
  
@@ -18,9 +18,8 @@ Ruhan Nel then scored a third to extend the lead to 19-5 after he cut inside two
  
 Nel put the game beyond doubt after an excellent breakout by the Blitzboks, scoring under the posts without a Fijian defender near him.  
  
-After conceding just 4 tries in the whole tournament, South Africa certainly deserve the title in Wellington.</content> 
-<sequenceId type="str">695201304583</sequenceId> 
-<topics type="list"> 
+After conceding just 4 tries in the whole tournament, South Africa certainly deserve the title in Wellington.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Fiji news</name> 
@@ -41,7 +40,8 @@ After conceding just 4 tries in the whole tournament, South Africa certainly des
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:09Z</estimatedPublishedDate> 
-<title type="str">Senatla breaks record as Blitzboks win in Wellington</title> 
+</TOPICS> 
+<DOCID type="str">695201304583</DOCID> 
+<DCT type="str">2017-01-29T08:00:09Z</DCT> 
+<TITLE type="str">Senatla breaks record as Blitzboks win in Wellington</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Keep up with what’s playing in area theaters. Listings are subject to change. Area theaters are: Amarillo Star 14 (AS-14), 806-468-6500; Hollywood 16 (H-16), 806-352-7411; Moovies 6 (M-6), 806-364-8000; Palace Theatre (P), 806-323-5133; Wellington Ritz Theatre (R), 806-447-0090; Tascosa Drive-In Theater (TDI), 806-383-3882; Westgate Mall 6 (WM-6), 806-352-8900. 
+<TEXT type="str">Keep up with what’s playing in area theaters. Listings are subject to change. Area theaters are: Amarillo Star 14 (AS-14), 806-468-6500; Hollywood 16 (H-16), 806-352-7411; Moovies 6 (M-6), 806-364-8000; Palace Theatre (P), 806-323-5133; Wellington Ritz Theatre (R), 806-447-0090; Tascosa Drive-In Theater (TDI), 806-383-3882; Westgate Mall 6 (WM-6), 806-352-8900. 
  
 New releases 
  
@@ -32,14 +32,14 @@ Now playing
  
 “Why Him?”: A holiday gathering turns sour when an overprotective father realizes that his daughter’s billionaire boyfriend is about to pop the question. (R for strong language and sexual material throughout; H-16) 
  
-“xXx: The Return of Xander Cage”: Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment. (PG-13 for extended sequences of gunplay and violent action, and for sexual material and language; AS-14, H-16)</content> 
-<sequenceId type="str">695196910513</sequenceId> 
-<topics type="list"> 
+“xXx: The Return of Xander Cage”: Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment. (PG-13 for extended sequences of gunplay and violent action, and for sexual material and language; AS-14, H-16)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:17Z</estimatedPublishedDate> 
-<title type="str">What’s out for Sunday, Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695196910513</DOCID> 
+<DCT type="str">2017-01-29T07:33:17Z</DCT> 
+<TITLE type="str">What’s out for Sunday, Jan. 29, 2017</TITLE> 
 </root>

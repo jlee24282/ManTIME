@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LONDON — Since Brits voted to leave the European Union last June, all manner of different Brexit models — Swiss, Norwegian, Canadian, Hard, Soft, red, white and blue — have been mentioned, In a new research paper, the organisation suggests that the UK could follow a so-called &quot;Ukraine Plus&quot; model and establish a relationship with the EU similar to that of the Eastern European state.
+<TEXT type="str">LONDON — Since Brits voted to leave the European Union last June, all manner of different Brexit models — Swiss, Norwegian, Canadian, Hard, Soft, red, white and blue — have been mentioned, In a new research paper, the organisation suggests that the UK could follow a so-called &quot;Ukraine Plus&quot; model and establish a relationship with the EU similar to that of the Eastern European state.
 
 &quot;A &quot;Ukraine Plus&quot; model, which goes further on free trade and on collaboration regarding security and defence policy, would however be in the interests of both the United Kingdom and the EU,&quot; the paper’s authors write. As it stands, At its most basic level, the so-called &quot;Canada-plus&quot; Brexit would likely include many of the characteristics of CETA — Canada and the EU’s trade agreement — such as the removal of the majority of tariffs on goods, excluding certain parts of the UK’s services sector and some food items like eggs and chicken.
 
@@ -22,9 +22,8 @@ Roughly 13,500 companies use financial passporting in relation to the UK with al
 
 &quot;The agreement with the Ukraine is unlikely to satisfy the United Kingdom as regards the scope of trade liberalisation because it contains numerous restrictions on market access particularly for cross-border services. The United Kingdom will probably require better access to the EU internal market, primarily in the interests of the British finance industry,&quot; the report notes.
 
-That’s where the &quot;Plus&quot; comes in, with the UK creating a bespoke deal that includes many of the features of the Ukrainian agreement, but also includes concessions to the banking and finance sectors.</content> 
-<sequenceId type="str">695204168438</sequenceId> 
-<topics type="list"> 
+That’s where the &quot;Plus&quot; comes in, with the UK creating a bespoke deal that includes many of the features of the Ukrainian agreement, but also includes concessions to the banking and finance sectors.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Eastern Europe news</name> 
@@ -49,7 +48,8 @@ That’s where the &quot;Plus&quot; comes in, with the UK creating a bespoke dea
 <group type="str">Business</group> 
 <name type="str">UK business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:05Z</estimatedPublishedDate> 
-<title type="str">Britain could strike a &apos;Ukraine Plus&apos; style Brexit deal</title> 
+</TOPICS> 
+<DOCID type="str">695204168438</DOCID> 
+<DCT type="str">2017-01-29T08:27:05Z</DCT> 
+<TITLE type="str">Britain could strike a &apos;Ukraine Plus&apos; style Brexit deal</TITLE> 
 </root>

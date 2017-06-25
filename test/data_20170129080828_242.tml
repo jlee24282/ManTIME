@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">RIO de JANEIRO, Brazil (AFP) — Brazilian authorities have launched a major operation to stem the prison violence that has hit the country, seizing weapons and drugs at a facility where nearly three dozen inmates died in a riot this month. 
+<TEXT type="str">RIO de JANEIRO, Brazil (AFP) — Brazilian authorities have launched a major operation to stem the prison violence that has hit the country, seizing weapons and drugs at a facility where nearly three dozen inmates died in a riot this month. 
  
 The defence ministry said 335 soldiers were involved in the search of Monte Cristo Farm Penitentiary in northern Roraima state that began Friday morning. 
  
@@ -18,9 +18,8 @@ Jungmann stressed that officials had “no contact” with Roraima detainees.
  
 Deadly prison riots between criminal groups have unleashed an unprecedented wave of unrest in Brazil’s overcrowded and dilapidated prisons. 
  
-Violence has been particularly pronounced in the northern region bordering Peru and Colombia, where much of the cocaine supply flows from.</content> 
-<sequenceId type="str">695198139244</sequenceId> 
-<topics type="list"> 
+Violence has been particularly pronounced in the northern region bordering Peru and Colombia, where much of the cocaine supply flows from.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
@@ -33,7 +32,8 @@ Violence has been particularly pronounced in the northern region bordering Peru 
 <group type="str">Regional</group> 
 <name type="str">South America news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:41Z</estimatedPublishedDate> 
-<title type="str">Brazilian army moves to stem prison violence</title> 
+</TOPICS> 
+<DOCID type="str">695198139244</DOCID> 
+<DCT type="str">2017-01-29T07:41:41Z</DCT> 
+<TITLE type="str">Brazilian army moves to stem prison violence</TITLE> 
 </root>

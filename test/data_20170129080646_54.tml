@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BEIJING, Jan. 29 (Xinhua) -- The China National Tourism Administration (CNTA) on Sunday activated emergency measures after a boat carrying mainly Chinese tourists was reported to have gone missing in Malaysia. 
+<TEXT type="str">BEIJING, Jan. 29 (Xinhua) -- The China National Tourism Administration (CNTA) on Sunday activated emergency measures after a boat carrying mainly Chinese tourists was reported to have gone missing in Malaysia. 
  
 An emergency team led by a deputy chief of the administration has been set up to deal with the incident, according to a CNTA statement. 
  
@@ -8,9 +8,8 @@ The administration is checking the information of the tourists, and the staff in
  
 A boat carrying 31 people, among them more than 20 tourists from China, lost contact with marine authorities after it left a port in Kota Kinabalu (KK) in the eastern Malaysian state of Sabah to Pulau Mengalum, a popular tourist island 60 km west of KK, on Saturday, the Consulate General of China in KK said Sunday. 
  
-It is not clear yet what caused the disappearance of the boat, but an official from the Chinese consulate said there was unfavorable weather condition Saturday.</content> 
-<sequenceId type="str">695194261241</sequenceId> 
-<topics type="list"> 
+It is not clear yet what caused the disappearance of the boat, but an official from the Chinese consulate said there was unfavorable weather condition Saturday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -31,7 +30,8 @@ It is not clear yet what caused the disappearance of the boat, but an official f
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:12Z</estimatedPublishedDate> 
-<title type="str">China launches emergency measures over missing tourist boat in Malaysia</title> 
+</TOPICS> 
+<DOCID type="str">695194261241</DOCID> 
+<DCT type="str">2017-01-29T07:14:12Z</DCT> 
+<TITLE type="str">China launches emergency measures over missing tourist boat in Malaysia</TITLE> 
 </root>

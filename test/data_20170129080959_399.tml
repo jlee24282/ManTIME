@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">For the 2016 filing season, ETSU has expanded public contact hours. Volunteers will be available on Saturdays on Feb. 11 and 25, March 11 and 25, and April 8 from 10 a.m.-3 p.m. and on Tuesday evenings on Feb. 14 and 28, March 14 and 28 and April 11 from 4-7 p.m. 
+<TEXT type="str">For the 2016 filing season, ETSU has expanded public contact hours. Volunteers will be available on Saturdays on Feb. 11 and 25, March 11 and 25, and April 8 from 10 a.m.-3 p.m. and on Tuesday evenings on Feb. 14 and 28, March 14 and 28 and April 11 from 4-7 p.m. 
  
 VITA services will be provided in the third floor computer lab, room 318, in Sam Wilson Hall, located on campus at 200 Ross Drive. Taxpayers must arrive at least one hour before closing time. 
  
@@ -32,9 +32,8 @@ Those who wish to have their tax return prepared at an ETSU VITA session should 
  
 Last year, more than 30 graduate and undergraduate students successfully completed IRS certification requirements in order to volunteer. Those volunteers were able to prepare and assist members of the public with over 200 tax returns. 
  
-For further information, contact Masino at 423-439-4432 or Masino@etsu.edu  or Freeman at 423-439-4432 or freemanms@etsu.edu .</content> 
-<sequenceId type="str">695201963654</sequenceId> 
-<topics type="list"> 
+For further information, contact Masino at 423-439-4432 or Masino@etsu.edu  or Freeman at 423-439-4432 or freemanms@etsu.edu .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -51,7 +50,8 @@ For further information, contact Masino at 423-439-4432 or Masino@etsu.edu  or 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:15Z</estimatedPublishedDate> 
-<title type="str">ETSU business students offer free tax preparation assistance</title> 
+</TOPICS> 
+<DOCID type="str">695201963654</DOCID> 
+<DCT type="str">2017-01-29T08:10:15Z</DCT> 
+<TITLE type="str">ETSU business students offer free tax preparation assistance</TITLE> 
 </root>

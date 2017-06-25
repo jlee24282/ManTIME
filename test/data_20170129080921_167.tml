@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Organisers of the Oscars have said it is “extremely troubling” that the makers of an Iranian film nominated for an Academy Award may be barred from entering the US. 
+<TEXT type="str">Organisers of the Oscars have said it is “extremely troubling” that the makers of an Iranian film nominated for an Academy Award may be barred from entering the US. 
  
 The Salesman, from director Asghar Farhadi, is nominated for best foreign language film at next month’s ceremony in Los Angeles. 
  
@@ -34,9 +34,8 @@ To our Muslim neighbors in the world: I &amp; tens of millions of others are so 
  
 — Michael Moore (@MMFlint) January 28, 2017 
   
-Actress Kerry Washington said: “Sick to my stomach today about the #MuslimBan. Don’t understand why?”</content> 
-<sequenceId type="str">695200354179</sequenceId> 
-<topics type="list"> 
+Actress Kerry Washington said: “Sick to my stomach today about the #MuslimBan. Don’t understand why?”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -45,7 +44,8 @@ Actress Kerry Washington said: “Sick to my stomach today about the #MuslimBan.
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:42:50Z</estimatedPublishedDate> 
-<title type="str">Makers of Oscar-nominated Iranian film may be barred from US</title> 
+</TOPICS> 
+<DOCID type="str">695200354179</DOCID> 
+<DCT type="str">2017-01-29T06:42:50Z</DCT> 
+<TITLE type="str">Makers of Oscar-nominated Iranian film may be barred from US</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Palestinian was shot dead Sunday and five others were wounded by Israeli soldiers at the Jenin camp in the occupied West Bank, Palestinian medical sources said. 
+<TEXT type="str">A Palestinian was shot dead Sunday and five others were wounded by Israeli soldiers at the Jenin camp in the occupied West Bank, Palestinian medical sources said. 
  Source:  
 AFP 
   
@@ -42,9 +42,8 @@ Most of the Palestinians killed were carrying out knife, gun or car-ramming atta
  
 Israel blames incitement by Palestinian leaders and media as a leading cause of the violence. 
  
-Israeli authorities have confiscated the bodies of killed Palestinians since the violence began, often keeping them for many months as a means of deterrence and to prevent clashes during funerals.</content> 
-<sequenceId type="str">695196094497</sequenceId> 
-<topics type="list"> 
+Israeli authorities have confiscated the bodies of killed Palestinians since the violence began, often keeping them for many months as a means of deterrence and to prevent clashes during funerals.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
@@ -61,7 +60,8 @@ Israeli authorities have confiscated the bodies of killed Palestinians since the
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:07Z</estimatedPublishedDate> 
-<title type="str">Israeli troops kill Palestinian in West Bank: medics</title> 
+</TOPICS> 
+<DOCID type="str">695196094497</DOCID> 
+<DCT type="str">2017-01-29T07:27:07Z</DCT> 
+<TITLE type="str">Israeli troops kill Palestinian in West Bank: medics</TITLE> 
 </root>

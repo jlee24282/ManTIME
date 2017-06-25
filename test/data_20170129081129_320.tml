@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CRYSTAL BALL 
+<TEXT type="str">CRYSTAL BALL 
  
 Meeting between Channel Seven and Tennis Australia, 
  SHARE  Share on Facebook  SHARE  Share on Twitter  TWEET  Pin to Pinterest  PIN  Link   Candid and on camera: Croatia&apos;s Mirjana Lucic-Baroni takes a selfie on her phone as she leaves Rod Laver Arena.  
@@ -97,9 +97,8 @@ The pair both live in Switzerland and had been close but things went awry a few 
  
 ADIEU 
  
-And with that we bid adieu to Australian Open 2017. Welcome back next year when Pat Rafter and Pete Sampras are favourites to play in the final on a green court.</content> 
-<sequenceId type="str">695204951983</sequenceId> 
-<topics type="list"> 
+And with that we bid adieu to Australian Open 2017. Welcome back next year when Pat Rafter and Pete Sampras are favourites to play in the final on a green court.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -108,7 +107,8 @@ And with that we bid adieu to Australian Open 2017. Welcome back next year when 
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:09Z</estimatedPublishedDate> 
-<title type="str">The hits and misses of the tournament</title> 
+</TOPICS> 
+<DOCID type="str">695204951983</DOCID> 
+<DCT type="str">2017-01-29T08:33:09Z</DCT> 
+<TITLE type="str">The hits and misses of the tournament</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">JUST days after three people lost their lives crossing a flooded river crossing, another group has been swept off a road near Jabiru.
+<TEXT type="str">JUST days after three people lost their lives crossing a flooded river crossing, another group has been swept off a road near Jabiru.
 
 Police expressed their frustration on Facebook after a Toyota Prado with six people on board was washed off Magela Crossing on the Oenpelli Road just before midday Sunday after trying to cross the flooded path.
 
@@ -10,9 +10,8 @@ All passengers managed to get to shore safely.“The Toyota Prado attempted to c
 
 Magela Crossing is listed as ‘Impassable’ on the Secure NT website.
 
-Originally published as</content> 
-<sequenceId type="str">695194779268</sequenceId> 
-<topics type="list"> 
+Originally published as</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -21,7 +20,8 @@ Originally published as</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:03:00Z</estimatedPublishedDate> 
-<title type="str">Another car washed off flooded river crossing</title> 
+</TOPICS> 
+<DOCID type="str">695194779268</DOCID> 
+<DCT type="str">2017-01-29T07:03:00Z</DCT> 
+<TITLE type="str">Another car washed off flooded river crossing</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A few thoughts on the lonely death of Naika Venant. 
+<TEXT type="str">A few thoughts on the lonely death of Naika Venant. 
 
 As you may have heard, Naika, a Miami teenager, hanged herself in the dark hours of a Sunday morning. She did this live on Facebook. We&apos;ll likely never know why she chose to do it that way. Perhaps she felt invisible. Perhaps she wanted to be seen. 
 
@@ -30,9 +30,8 @@ Yes, an audience watched her die. Then they clicked their browsers to see what e
 
 ABOUT THE WRITER 
 
-Leonard Pitts Jr., winner of the 2004 Pulitzer Prize for commentary, is a columnist for the Miami Herald, 3511 N.W. 91 Avenue, Doral, Fla. 33172. Readers may write to him via email at lpitts@miamiherald.com.</content> 
-<sequenceId type="str">695202255395</sequenceId> 
-<topics type="list"> 
+Leonard Pitts Jr., winner of the 2004 Pulitzer Prize for commentary, is a columnist for the Miami Herald, 3511 N.W. 91 Avenue, Doral, Fla. 33172. Readers may write to him via email at lpitts@miamiherald.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">South Florida news</name> 
@@ -41,7 +40,8 @@ Leonard Pitts Jr., winner of the 2004 Pulitzer Prize for commentary, is a column
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Leonard Pitts Jr.: The lonely death of Naika Venant</title> 
+</TOPICS> 
+<DOCID type="str">695202255395</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Leonard Pitts Jr.: The lonely death of Naika Venant</TITLE> 
 </root>

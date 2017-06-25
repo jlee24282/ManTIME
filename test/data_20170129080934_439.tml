@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Titans of world tennis Roger Federer and Rafael Nadal collide in an unlikely final match-up at the Australian Open. 
+<TEXT type="str">Titans of world tennis Roger Federer and Rafael Nadal collide in an unlikely final match-up at the Australian Open. 
      
-Roger Federer and Rafael Nadal will clash in the men&apos;s singles final of the Australian Open.</content> 
-<sequenceId type="str">695201103721</sequenceId> 
-<topics type="list"> 
+Roger Federer and Rafael Nadal will clash in the men&apos;s singles final of the Australian Open.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -21,7 +20,8 @@ Roger Federer and Rafael Nadal will clash in the men&apos;s singles final of the
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Live: 2017 Australian Open mens&apos; final</title> 
+</TOPICS> 
+<DOCID type="str">695201103721</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Live: 2017 Australian Open mens&apos; final</TITLE> 
 </root>

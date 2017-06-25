@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SAN FRANCISCO (CBS SF) — The Bay Area celebrated the Lunar New Year on Saturday. 
+<TEXT type="str">SAN FRANCISCO (CBS SF) — The Bay Area celebrated the Lunar New Year on Saturday. 
  
 Dancers in lion costumes helped kick off celebrations in San Francisco. Children took part in the ceremony at Portsmouth Square. Mayor Ed Lee spoke about welcoming in the Year of the Rooster. 
  
@@ -14,9 +14,8 @@ One organizer says Chinese and Vietnamese Lunar New Year celebrations are very s
  
 “Of course it’s family,” says organizer Vy Dinh. “For us, family is the biggest thing, traditionally, especially back in Vietnam, for Lunar New Year everybody has a two to three week vacation and all they do is visit family. During those two or three weeks, they are traveling across the entire country making sure they hit every single relative.” 
  
-The Tet Festival continues through Sunday night.</content> 
-<sequenceId type="str">695197451993</sequenceId> 
-<topics type="list"> 
+The Tet Festival continues through Sunday night.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Francisco Bay Area news</name> 
@@ -29,7 +28,8 @@ The Tet Festival continues through Sunday night.</content>
 <group type="str">Regional</group> 
 <name type="str">Vietnam news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:55Z</estimatedPublishedDate> 
-<title type="str">Lunar New Year Celebrations Kick Off Around The Bay Area</title> 
+</TOPICS> 
+<DOCID type="str">695197451993</DOCID> 
+<DCT type="str">2017-01-29T07:26:55Z</DCT> 
+<TITLE type="str">Lunar New Year Celebrations Kick Off Around The Bay Area</TITLE> 
 </root>

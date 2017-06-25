@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Many small businesses today are making the switch over to VoIP business phone systems. 
+<TEXT type="str">Many small businesses today are making the switch over to VoIP business phone systems. 
    
 Tampa, FL (PRWEB)  January 29, 2017 
  
@@ -67,9 +67,8 @@ accessed online at: http://www.voip-businessphoneservices.com
  
 TieTechnology Business Phone Service and Support 
 4532 W. Kennedy Blvd, Suite 182 
-Tampa, FL 336</content> 
-<sequenceId type="str">695203095186</sequenceId> 
-<topics type="list"> 
+Tampa, FL 336</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Phoenix news</name> 
@@ -86,7 +85,8 @@ Tampa, FL 336</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:47Z</estimatedPublishedDate> 
-<title type="str">TieTechnology Unveils Expansion with Innovative and Distinctive VoIP...</title> 
+</TOPICS> 
+<DOCID type="str">695203095186</DOCID> 
+<DCT type="str">2017-01-29T08:18:47Z</DCT> 
+<TITLE type="str">TieTechnology Unveils Expansion with Innovative and Distinctive VoIP...</TITLE> 
 </root>

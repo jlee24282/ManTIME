@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan 29 (Reuters) - Egyptian Iron And Steel Co 
+<TEXT type="str">Jan 29 (Reuters) - Egyptian Iron And Steel Co 
     
 * H1 net loss EGP 188.7 million versus net loss EGP 322.4
 million year ago 
@@ -9,9 +9,8 @@ million year ago
 year ago
 
 Source: ( bit.ly/2kfGSQE )
-Further company coverage:</content> 
-<sequenceId type="str">695205084850</sequenceId> 
-<topics type="list"> 
+Further company coverage:</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Steelmaking news</name> 
@@ -40,7 +39,8 @@ Further company coverage:</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:20Z</estimatedPublishedDate> 
-<title type="str">BRIEF-Egyptian Iron and Steel H1 loss narrows</title> 
+</TOPICS> 
+<DOCID type="str">695205084850</DOCID> 
+<DCT type="str">2017-01-29T08:34:20Z</DCT> 
+<TITLE type="str">BRIEF-Egyptian Iron and Steel H1 loss narrows</TITLE> 
 </root>

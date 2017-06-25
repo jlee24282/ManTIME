@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Iran Press TV
+<TEXT type="str">Iran Press TV
 
 Sat Jan 28, 2017 5:36AM
 
@@ -20,9 +20,8 @@ Ukraine&apos;s Donbass region - the self-proclaimed republics of Donetsk and Lug
 
 The crisis has left almost 10,000 people dead on both sides.
 
-The conflict in eastern Ukraine and the March 2014 reintegration of the Black Sea Crimean Peninsula into the Russian Federation have pushed relations between Moscow and the West to their lowest level since the Cold War as the latter supports Kiev.</content> 
-<sequenceId type="str">695197065699</sequenceId> 
-<topics type="list"> 
+The conflict in eastern Ukraine and the March 2014 reintegration of the Black Sea Crimean Peninsula into the Russian Federation have pushed relations between Moscow and the West to their lowest level since the Cold War as the latter supports Kiev.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Eastern Europe news</name> 
@@ -39,7 +38,8 @@ The conflict in eastern Ukraine and the March 2014 reintegration of the Black Se
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:33Z</estimatedPublishedDate> 
-<title type="str">2 Ukrainian troops killed in fresh scuffles</title> 
+</TOPICS> 
+<DOCID type="str">695197065699</DOCID> 
+<DCT type="str">2017-01-29T07:34:33Z</DCT> 
+<TITLE type="str">2 Ukrainian troops killed in fresh scuffles</TITLE> 
 </root>

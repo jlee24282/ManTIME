@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This week I received a phone call asking me to attend to a sick dog at its home. Having heard what the problem was, I urged the owners to bring their dog to the clinic since this was one of those cases where a house call simply would not provide the necessary medical care. So Tippy was duly brought to the clinic. 
+<TEXT type="str">This week I received a phone call asking me to attend to a sick dog at its home. Having heard what the problem was, I urged the owners to bring their dog to the clinic since this was one of those cases where a house call simply would not provide the necessary medical care. So Tippy was duly brought to the clinic. 
  
 Tippy is a two-year-old female fawn chihuahua with bright boot-button eyes and a snappy temperament. But despite her sprightly behaviour, it was evident that Tippy was much too thin – thin enough that the shape of her skull had become clearly visible and her spine too prominent. A thorough physical examination also confirmed that although there was nothing immediately evident, she was uncomfortable in the abdominal area. 
  
@@ -22,14 +22,14 @@ Gastritis is invariably uncomfortable but, more often than not, there is good re
  
 [email protected] 
  
-Dr Martin Debattista is a veterinary surgeon.</content> 
-<sequenceId type="str">695203970023</sequenceId> 
-<topics type="list"> 
+Dr Martin Debattista is a veterinary surgeon.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: pets news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:00Z</estimatedPublishedDate> 
-<title type="str">Canine gastritis: upset stomach</title> 
+</TOPICS> 
+<DOCID type="str">695203970023</DOCID> 
+<DCT type="str">2017-01-29T08:18:00Z</DCT> 
+<TITLE type="str">Canine gastritis: upset stomach</TITLE> 
 </root>

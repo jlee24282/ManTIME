@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The sites – which offer addicts clean needles, medical supervision and quick access to drugs that reverse the effects of an overdose – have long been popular in Europe. Now, with the U.S. death toll rising, the idea is gaining traction in a number of American cities, including Boston, New York City and Ithaca, New York.
+<TEXT type="str">The sites – which offer addicts clean needles, medical supervision and quick access to drugs that reverse the effects of an overdose – have long been popular in Europe. Now, with the U.S. death toll rising, the idea is gaining traction in a number of American cities, including Boston, New York City and Ithaca, New York.
 
 While opponents say the sites promote illegal drug use, supporters say they can keep people alive and steer them toward treatment. They compare supervised injection facilities to the needle exchanges that became popular in the 1980s and 1990s as a way to stanch the spread of HIV and hepatitis C among intravenous drug users.
 
@@ -46,9 +46,8 @@ Cornell law professor William Jacobson has argued that the sites amount to a “
 
 “The heroin scourge is real,” Jacobson said in an email. “I’m just not sure normalizing the use helps the problem.”
 
-In Massachusetts, state Sen. William Brownsberger recently introduced legislation to permit safe-injection sites throughout the state.</content> 
-<sequenceId type="str">695202193948</sequenceId> 
-<topics type="list"> 
+In Massachusetts, state Sen. William Brownsberger recently introduced legislation to permit safe-injection sites throughout the state.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Seattle-Tacoma news</name> 
@@ -57,7 +56,8 @@ In Massachusetts, state Sen. William Brownsberger recently introduced legislatio
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:02:56Z</estimatedPublishedDate> 
-<title type="str">Seattle OKs safe sites for addicts to inject</title> 
+</TOPICS> 
+<DOCID type="str">695202193948</DOCID> 
+<DCT type="str">2017-01-28T22:02:56Z</DCT> 
+<TITLE type="str">Seattle OKs safe sites for addicts to inject</TITLE> 
 </root>

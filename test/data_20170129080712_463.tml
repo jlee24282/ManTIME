@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Madison MacRogers, daughter of Aaron and Robin MacRogers; Kate Skaar, daughter of Patrick and Anne Skaar; and Nick Ziegler, son of Mark and Lynn Ziegler.
+<TEXT type="str">Madison MacRogers, daughter of Aaron and Robin MacRogers; Kate Skaar, daughter of Patrick and Anne Skaar; and Nick Ziegler, son of Mark and Lynn Ziegler.
 
 McKenna Stoll, daughter of Stacie and Jason Lince and Bradley Stoll; Blaine Wheeler, son of Ryan and Jennifer Wheeler; and Abi Koch, daughter of Mark and Kristi Koch.
 
-Brady Niemeier, son of Rick and Michelle Niemeier; Serena Fincher, daughter of Timothy Fincher; and Julia Krien, daughter of Joseph and Barbara Krien.</content> 
-<sequenceId type="str">695195531447</sequenceId> 
-<topics type="list"> 
+Brady Niemeier, son of Rick and Michelle Niemeier; Serena Fincher, daughter of Timothy Fincher; and Julia Krien, daughter of Joseph and Barbara Krien.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -19,7 +18,8 @@ Brady Niemeier, son of Rick and Michelle Niemeier; Serena Fincher, daughter of T
 <group type="str">Sports</group> 
 <name type="str">Sports: lacrosse news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:00Z</estimatedPublishedDate> 
-<title type="str">West Salem Middle School students of the month for January.</title> 
+</TOPICS> 
+<DOCID type="str">695195531447</DOCID> 
+<DCT type="str">2017-01-29T07:15:00Z</DCT> 
+<TITLE type="str">West Salem Middle School students of the month for January.</TITLE> 
 </root>

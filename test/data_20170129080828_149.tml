@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:21am Liverpool manager Jurgen Klopp has promised that Liverpool will “strike back”. Photo: Carl Recine/Reuters 
+<TEXT type="str">:21am Liverpool manager Jurgen Klopp has promised that Liverpool will “strike back”. Photo: Carl Recine/Reuters 
   
 Jurgen Klopp accepted responsibility for Liverpool&apos;s stunning FA Cup fourth round exit as Championship club Wolves earned a shock 2-1 win at Anfield. 
  
@@ -52,9 +52,8 @@ Not until the 86th minute could Liverpool finally break down Wolves&apos; resili
  
 &quot;That surpasses everything because of the gulf in leagues, the gulf in players. But what we&apos;ve got is incredible team spirit and really good young players.&quot; 
  
-AFP</content> 
-<sequenceId type="str">695197931114</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
@@ -63,7 +62,8 @@ AFP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:00Z</estimatedPublishedDate> 
-<title type="str">Blame me says Klopp after Reds crash out</title> 
+</TOPICS> 
+<DOCID type="str">695197931114</DOCID> 
+<DCT type="str">2017-01-29T07:21:00Z</DCT> 
+<TITLE type="str">Blame me says Klopp after Reds crash out</TITLE> 
 </root>

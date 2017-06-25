@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DOHA, 29th January, 2017 (WAM) -- Sheikh Abdullah bin Nasser bin Khalifa Al-Thani, Prime Minister an</content> 
-<sequenceId type="str">695204703968</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">DOHA, 29th January, 2017 (WAM) -- Sheikh Abdullah bin Nasser bin Khalifa Al-Thani, Prime Minister an</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Qatar news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:18Z</estimatedPublishedDate> 
-<title type="str">Qatari Prime Minister, Greek Defence Minister discuss cooperation</title> 
+</TOPICS> 
+<DOCID type="str">695204703968</DOCID> 
+<DCT type="str">2017-01-29T08:31:18Z</DCT> 
+<TITLE type="str">Qatari Prime Minister, Greek Defence Minister discuss cooperation</TITLE> 
 </root>

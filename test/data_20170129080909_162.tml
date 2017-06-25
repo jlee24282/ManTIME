@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LUGANSK, January 29. /TASS/. Units of the Ukrainian Armed Forces over the past 24 hours four times opened fire on the militia’s positions in the self-proclaimed Lugansk People’s Republic (LPR), the republic’s defense authority told LuganskInformCenter on Sunday. 
+<TEXT type="str">LUGANSK, January 29. /TASS/. Units of the Ukrainian Armed Forces over the past 24 hours four times opened fire on the militia’s positions in the self-proclaimed Lugansk People’s Republic (LPR), the republic’s defense authority told LuganskInformCenter on Sunday. 
  
 &quot;From Krymskoye they shelled Frunze and Novogrigorovka, using IFV weapons, mortars and small arms,&quot; the agency quoted the authority. 
  
@@ -40,9 +40,8 @@ US lawmaker hopes anti-Russian sanctions to be reversed
  
 January 29, 7:05 
      
-In other media</content> 
-<sequenceId type="str">695199809176</sequenceId> 
-<topics type="list"> 
+In other media</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -63,7 +62,8 @@ In other media</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:47:02Z</estimatedPublishedDate> 
-<title type="str">Ukrainian military violate ceasefire in Lugansk Republic — news agency</title> 
+</TOPICS> 
+<DOCID type="str">695199809176</DOCID> 
+<DCT type="str">2017-01-29T07:47:02Z</DCT> 
+<TITLE type="str">Ukrainian military violate ceasefire in Lugansk Republic — news agency</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Just a few months before Oklahoma&apos;s 100th birthday, people flocked to Oklahoma City&apos;s Civic Center Music Hall to see one of the state&apos;s favorite daughters star in the state&apos;s namesake musical. 
+<TEXT type="str">Just a few months before Oklahoma&apos;s 100th birthday, people flocked to Oklahoma City&apos;s Civic Center Music Hall to see one of the state&apos;s favorite daughters star in the state&apos;s namesake musical. 
  
 Kelli O&apos;Hara, an Elk City native and, now a Tony Award-winning actress, charmed the audience in a Lyric Theatre of Oklahoma production of &quot;Oklahoma!&quot; 
  
@@ -56,9 +56,8 @@ In 2015, the theater used a $10,000 grant to produce the debut of &quot;Bernice 
  
 Because the agency spreads its grant funding around to institutions across the country, it ensures that high-quality theater can exist in places outside of New York and Chicago — places like Oklahoma City, Baron said. 
  
-&quot;They&apos;re one of our biggest sponsors,&quot; Baron said. &quot;This is such a small government agency that is doing such great work.&quot;</content> 
-<sequenceId type="str">695196078334</sequenceId> 
-<topics type="list"> 
+&quot;They&apos;re one of our biggest sponsors,&quot; Baron said. &quot;This is such a small government agency that is doing such great work.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -67,7 +66,8 @@ Because the agency spreads its grant funding around to institutions across the c
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-27T22:03:02Z</estimatedPublishedDate> 
-<title type="str">Oklahoma arts leaders worry about fate of federal arts, humanities agencies</title> 
+</TOPICS> 
+<DOCID type="str">695196078334</DOCID> 
+<DCT type="str">2017-01-27T22:03:02Z</DCT> 
+<TITLE type="str">Oklahoma arts leaders worry about fate of federal arts, humanities agencies</TITLE> 
 </root>

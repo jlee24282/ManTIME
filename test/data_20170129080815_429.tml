@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(CNN) — She’s the 7-year-old Syrian girl who brought the plight of people living in eastern Aleppo to the world and now she’s asking US President Donald Trump to help save her friends. 
+<TEXT type="str">(CNN) — She’s the 7-year-old Syrian girl who brought the plight of people living in eastern Aleppo to the world and now she’s asking US President Donald Trump to help save her friends. 
  
 In a new video sent to CNN, Bana Alabed — who has been living in Turkey since fleeing Aleppo in December — reads an open letter to Trump urging him to intervene in Syria. 
     
@@ -29,9 +29,8 @@ Four months ago, Fatemah decided she wanted the world to hear her children’s v
  
 Bana — who has two brothers Mohammed, 5, and Noor, 3 — has become an embodiment of the human toll the conflict has had on the children of Syria. 
  
-The young girl’s family went into hiding after their home was reduced to rubble on November 27. More than three weeks later, on December 19, Bana tweeted that they had “escaped” from eastern Aleppo.</content> 
-<sequenceId type="str">695197766158</sequenceId> 
-<topics type="list"> 
+The young girl’s family went into hiding after their home was reduced to rubble on November 27. More than three weeks later, on December 19, Bana tweeted that they had “escaped” from eastern Aleppo.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Syria news</name> 
@@ -44,7 +43,8 @@ The young girl’s family went into hiding after their home was reduced to rubbl
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:22Z</estimatedPublishedDate> 
-<title type="str">Syrian Girl Reads Letter Asking Donald Trump to Save Her Friends</title> 
+</TOPICS> 
+<DOCID type="str">695197766158</DOCID> 
+<DCT type="str">2017-01-29T07:36:22Z</DCT> 
+<TITLE type="str">Syrian Girl Reads Letter Asking Donald Trump to Save Her Friends</TITLE> 
 </root>

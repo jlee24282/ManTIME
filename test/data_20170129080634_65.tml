@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mexico&apos;s Economy Minister Ildefonso Guajardo speaks about U.S. President Donald Trump wanting to impose a 20 percent tax on goods from Mexico to pay for a wall at the southern U.S. border, in Washington, D.C., Jan. 26, 2017. (REUTERS/Joshua Roberts) 
+<TEXT type="str">Mexico&apos;s Economy Minister Ildefonso Guajardo speaks about U.S. President Donald Trump wanting to impose a 20 percent tax on goods from Mexico to pay for a wall at the southern U.S. border, in Washington, D.C., Jan. 26, 2017. (REUTERS/Joshua Roberts) 
    
 
 Be sure to savor that homemade guacamole on Super Bowl Sunday. Avocados could be a lot more expensive next year, if President Trump gets his way. 
@@ -23,9 +23,8 @@ We could be gobbling Guatemalan guacamole next year as we watch Tom Brady play i
 
 Punitive tariffs like the one Spicer suggested are a terrible idea. They punish American consumers, distort the free market, and imperil millions of American jobs that rely on trade. 
 
-.</content> 
-<sequenceId type="str">695193862603</sequenceId> 
-<topics type="list"> 
+.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -38,7 +37,8 @@ Punitive tariffs like the one Spicer suggested are a terrible idea. They punish 
 <group type="str">Regional</group> 
 <name type="str">Mexico news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:33:00Z</estimatedPublishedDate> 
-<title type="str">A crack in the wall Tariff idea is terrible</title> 
+</TOPICS> 
+<DOCID type="str">695193862603</DOCID> 
+<DCT type="str">2017-01-29T01:33:00Z</DCT> 
+<TITLE type="str">A crack in the wall Tariff idea is terrible</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:25am Jose Mourinho will use Sunday’s FA Cup tie against Wigan Athletic as an opportunity to gauge whether Anthony Martial and Luke Shaw can resurrect their Manchester United careers. 
+<TEXT type="str">:25am Jose Mourinho will use Sunday’s FA Cup tie against Wigan Athletic as an opportunity to gauge whether Anthony Martial and Luke Shaw can resurrect their Manchester United careers. 
  
 Mourinho has pencilled in both players, as well as understudy goalkeeper Sergio Romero and captain Wayne Rooney, to start against the Championship side, who are managed by long-time United reserve-team manager Warren Joyce. 
  
@@ -32,9 +32,8 @@ Defender Phil Jones admits the sluggish display against one of the Premier Leagu
  
 He added: ‘We set our standards high. It’s not enough just to win a cup. We need to do more, we need to be pushing for more trophies.’ 
  
-Mail on Sunday</content> 
-<sequenceId type="str">695197932475</sequenceId> 
-<topics type="list"> 
+Mail on Sunday</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester United news</name> 
@@ -43,7 +42,8 @@ Mail on Sunday</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:00Z</estimatedPublishedDate> 
-<title type="str">Mourinho tells Martial: Flop and you&apos;re out</title> 
+</TOPICS> 
+<DOCID type="str">695197932475</DOCID> 
+<DCT type="str">2017-01-29T07:25:00Z</DCT> 
+<TITLE type="str">Mourinho tells Martial: Flop and you&apos;re out</TITLE> 
 </root>

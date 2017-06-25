@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CAIRO, Jan. 28 (Xinhua) -- The Egyptian military said on Saturday that at least four Egyptian soldiers and 20 militants were killed during five-day anti-terror military raids in restive North Sinai Province bordering Israel and the Gaza Strip. 
+<TEXT type="str">CAIRO, Jan. 28 (Xinhua) -- The Egyptian military said on Saturday that at least four Egyptian soldiers and 20 militants were killed during five-day anti-terror military raids in restive North Sinai Province bordering Israel and the Gaza Strip. 
  
 The raids launched in North Sinai and central Sinai also wounded seven militants, arrested 36 suspected terrorists, detonated five explosive devices and destroyed 28 hiding houses, eight vehicles, four warehouses of explosives and ammunition and two relevant workshops, military spokesman Tamer al-Refaay said in a statement. 
  
@@ -16,9 +16,8 @@ Security campaigns in Sinai killed over 1,300 militants and arrested a similar n
  
   
  
- </content> 
-<sequenceId type="str">695202349624</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -47,7 +46,8 @@ Security campaigns in Sinai killed over 1,300 militants and arrested a similar n
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:08Z</estimatedPublishedDate> 
-<title type="str">4 soldiers, 20 militants killed in Egypt&apos;s Sinai raids</title> 
+</TOPICS> 
+<DOCID type="str">695202349624</DOCID> 
+<DCT type="str">2017-01-29T08:13:08Z</DCT> 
+<TITLE type="str">4 soldiers, 20 militants killed in Egypt&apos;s Sinai raids</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FRUSTRATED Warwick residents have signed a petition calling on more to be done about slow broadband connection speeds in Chase Meadows. 
+<TEXT type="str">FRUSTRATED Warwick residents have signed a petition calling on more to be done about slow broadband connection speeds in Chase Meadows. 
  
 The petition, which has some 150 signatures, was prompted after homes built a year ago struggle to reach connection speeds of 1Mbps – making the simplest of online tasks a chore. 
  
@@ -20,9 +20,8 @@ Kim Fitch said: “We have BT and I work from home for a web based software firm
  
 Sarah Matthews added: “My broadband has been appalling since moving in six years ago. In this day and age it’s ridiculous that I pay for a service which fails regularly.” 
  
-A BT spokesperson told the Observer the communications giant did not currently have plans for any upgrade work in the area, but that BT was committed to working with the community and other organisations to try and find a solution.</content> 
-<sequenceId type="str">695200722422</sequenceId> 
-<topics type="list"> 
+A BT spokesperson told the Observer the communications giant did not currently have plans for any upgrade work in the area, but that BT was committed to working with the community and other organisations to try and find a solution.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Communications equipment news</name> 
@@ -35,7 +34,8 @@ A BT spokesperson told the Observer the communications giant did not currently h
 <group type="str">Internet</group> 
 <name type="str">Internet access news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:31Z</estimatedPublishedDate> 
-<title type="str">Frustrated residents hit out at slow broadband speeds</title> 
+</TOPICS> 
+<DOCID type="str">695200722422</DOCID> 
+<DCT type="str">2017-01-29T08:00:31Z</DCT> 
+<TITLE type="str">Frustrated residents hit out at slow broadband speeds</TITLE> 
 </root>

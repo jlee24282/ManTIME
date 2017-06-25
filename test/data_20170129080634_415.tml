@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">function onPlayerReadyVidible(e){&apos;undefined&apos;!=typeof HPTrack&amp;&amp;HPTrack.Vid.Vidible_track(e)}!function(e,i){if(e.vdb_Player){if(&apos;object&apos;==typeof commercial_video){var a=&apos;&apos;,o=&apos;m.fwsitesection=&apos;+commercial_video.site_and_category;if(a+=o,commercial_video[&apos;package&apos;]){var c=&apos;&amp;m.fwkeyvalues=sponsorship%3D&apos;+commercial_video[&apos;package&apos;];a+=c}e.setAttribute(&apos;vdb_params&apos;,a)}i(e.vdb_Player)}else{var t=arguments.callee</content> 
-<sequenceId type="str">695194202852</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">function onPlayerReadyVidible(e){&apos;undefined&apos;!=typeof HPTrack&amp;&amp;HPTrack.Vid.Vidible_track(e)}!function(e,i){if(e.vdb_Player){if(&apos;object&apos;==typeof commercial_video){var a=&apos;&apos;,o=&apos;m.fwsitesection=&apos;+commercial_video.site_and_category;if(a+=o,commercial_video[&apos;package&apos;]){var c=&apos;&amp;m.fwkeyvalues=sponsorship%3D&apos;+commercial_video[&apos;package&apos;];a+=c}e.setAttribute(&apos;vdb_params&apos;,a)}i(e.vdb_Player)}else{var t=arguments.callee</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:59:11Z</estimatedPublishedDate> 
-<title type="str">Dems Come Out To Airports Around The Country To Support Muslims, Refugees</title> 
+</TOPICS> 
+<DOCID type="str">695194202852</DOCID> 
+<DCT type="str">2017-01-29T05:59:11Z</DCT> 
+<TITLE type="str">Dems Come Out To Airports Around The Country To Support Muslims, Refugees</TITLE> 
 </root>

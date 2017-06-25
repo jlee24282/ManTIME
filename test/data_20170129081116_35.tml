@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">History Colorado, parent organization of El Pueblo History Museum, has responded to a Colorado Open Records Act request submitted by State Rep. Clarice Navarro. The request for documents was spurred by an incident at the museum on Jan. 20, during which a pinata bearing the resemblance of President Donald Trump was struck several times and then hung from the rafters. 
+<TEXT type="str">History Colorado, parent organization of El Pueblo History Museum, has responded to a Colorado Open Records Act request submitted by State Rep. Clarice Navarro. The request for documents was spurred by an incident at the museum on Jan. 20, during which a pinata bearing the resemblance of President Donald Trump was struck several times and then hung from the rafters. 
  
 Pueblo Republican Brian Mater also submitted a request for El Pueblo records. The state has not yet responded to his demands. 
  
@@ -26,9 +26,8 @@ The Republican who represents Colorado’s House District 47 then asked if El Pu
  
 “I thank History Colorado and the El Pueblo History Museum for being responsive to me and my office, on what I consider a very serious and offensive incident,” she said. 
  
-jfairman@chieftain.com</content> 
-<sequenceId type="str">695204254958</sequenceId> 
-<topics type="list"> 
+jfairman@chieftain.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ jfairman@chieftain.com</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:57:04Z</estimatedPublishedDate> 
-<title type="str">State responds to request for El Pueblo records</title> 
+</TOPICS> 
+<DOCID type="str">695204254958</DOCID> 
+<DCT type="str">2017-01-29T05:57:04Z</DCT> 
+<TITLE type="str">State responds to request for El Pueblo records</TITLE> 
 </root>

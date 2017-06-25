@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In 1988, the Hokutosei sleeper express was the first train to use the Seikan tunnel to link Ueno Station in Tokyo to Sapporo, over a journey of 1,200 kilometers. It gained popularity through such charms as luxury sleeping cars and a dining car where travelers could enjoy French-style cuisine. However, to the regret of many fans, in August 2015 the train service was discontinued due to the opening of the Hokkaido Shinkansen line and the aging of the Hokutosei train cars.
+<TEXT type="str">In 1988, the Hokutosei sleeper express was the first train to use the Seikan tunnel to link Ueno Station in Tokyo to Sapporo, over a journey of 1,200 kilometers. It gained popularity through such charms as luxury sleeping cars and a dining car where travelers could enjoy French-style cuisine. However, to the regret of many fans, in August 2015 the train service was discontinued due to the opening of the Hokkaido Shinkansen line and the aging of the Hokutosei train cars.
 
 Last month, the Hokutosei was &quot;revived&quot; as a hostel in the Nihonbashi Bakurocho area of central Tokyo. Called Train Hostel Hokutosei, the hostel reuses train car equipment and has become a hot topic among railway enthusiasts who consider it a rebirth of their beloved sleeper express.
 
@@ -22,9 +22,8 @@ Accommodation fees vary depending on preferences, but largely go from about 2,50
 
 The Nihonbashi Bakurocho area is near the starting point of what were the Gokaido highways - the five major highways linking Edo, the current Tokyo, and regional areas during the Edo period (1603-1867). The area is said to have flourished as a town of hatagoya inns.
 
-Recently, as the number of foreign tourists to Japan has rapidly risen, a growing number of accommodation facilities have emerged in the area to meet the needs of tourists seeking long-term stays at low rates.</content> 
-<sequenceId type="str">695194821748</sequenceId> 
-<topics type="list"> 
+Recently, as the number of foreign tourists to Japan has rapidly risen, a growing number of accommodation facilities have emerged in the area to meet the needs of tourists seeking long-term stays at low rates.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Tokyo news</name> 
@@ -37,7 +36,8 @@ Recently, as the number of foreign tourists to Japan has rapidly risen, a growin
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Elements of sleeper train revived as Tokyo hostel</title> 
+</TOPICS> 
+<DOCID type="str">695194821748</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Elements of sleeper train revived as Tokyo hostel</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mauricio Pochettino admitted his Spurs side were outplayed by Wycombe Wanderers yesterday – and that it was a pleasure to play them. 
+<TEXT type="str">Mauricio Pochettino admitted his Spurs side were outplayed by Wycombe Wanderers yesterday – and that it was a pleasure to play them. 
  
 The Chairboys put in a stunning performance at White Hart Lane to not only take a 2-0 half time lead, but come back to lead 3-2 with six minutes left after conceding two second half strikes. 
  
@@ -26,9 +26,8 @@ He added: “That is the magic of the FA Cup, different level teams show the sam
  
 “The FA Cup creates that feeling, that&apos;s the beauty of it. We had a little bit of luck today, but I won&apos;t feel sorry for Wycombe as that is football. They are disappointed, but there is nothing we can do. 
  
-“Today was for us, another day will be for Wycombe. I wish them all the best in the league, and it was a pleasure to play a team like Wycombe.”</content> 
-<sequenceId type="str">695202776482</sequenceId> 
-<topics type="list"> 
+“Today was for us, another day will be for Wycombe. I wish them all the best in the league, and it was a pleasure to play a team like Wycombe.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -37,7 +36,8 @@ He added: “That is the magic of the FA Cup, different level teams show the sam
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:13Z</estimatedPublishedDate> 
-<title type="str">Spurs boss salutes Wycombe and admits they were the better side</title> 
+</TOPICS> 
+<DOCID type="str">695202776482</DOCID> 
+<DCT type="str">2017-01-29T08:07:13Z</DCT> 
+<TITLE type="str">Spurs boss salutes Wycombe and admits they were the better side</TITLE> 
 </root>

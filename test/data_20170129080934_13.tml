@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">&lt;?php echo adrotate_ad(22); ??&gt;  Ray Shackelford, owner of Nehalem Bay Winery for 25 years, recently returned from one of his regular trips to Southeast Asia – this being the seventh year donning his “Santa Ray” costume. – Citizen photo by Jordan Wolfe 
+<TEXT type="str">&lt;?php echo adrotate_ad(22); ??&gt;  Ray Shackelford, owner of Nehalem Bay Winery for 25 years, recently returned from one of his regular trips to Southeast Asia – this being the seventh year donning his “Santa Ray” costume. – Citizen photo by Jordan Wolfe 
 Forget the North Pole, Santa Claus calls Nehalem home. 
 Or, more accurately, “Santa Ray” calls Nehalem home. 
  
@@ -47,9 +47,8 @@ The Nehalem Bay Winery sources their grapes out of the Willamette Valley and a v
 “I don’t know nothing about nothing,” Shackleford said. “We sell wine and have fun. That’s our goal.” 
 And maybe build a school here and there. 
 For more information, visit NehalemBayWinery.com and AnywayFoundation.org or call 503-368-WINE (9463). The winery is currently holding a 40 percent sale on their products, is open 9 a.m. – 6 p.m. every day and is located at 34965 Highway 53 in Nehalem. 
- Ray in his Santa Suit.</content> 
-<sequenceId type="str">695200686289</sequenceId> 
-<topics type="list"> 
+ Ray in his Santa Suit.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Cambodia news</name> 
@@ -70,7 +69,8 @@ For more information, visit NehalemBayWinery.com and AnywayFoundation.org or cal
 <group type="str">Society</group> 
 <name type="str">Charities news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:41Z</estimatedPublishedDate> 
-<title type="str">Winery owner spends life traveling; builds schools and orphanages with his non-profit organization</title> 
+</TOPICS> 
+<DOCID type="str">695200686289</DOCID> 
+<DCT type="str">2017-01-29T07:00:41Z</DCT> 
+<TITLE type="str">Winery owner spends life traveling; builds schools and orphanages with his non-profit organization</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:44 
+<TEXT type="str">:44 
  
 Germany&apos;s Nikias Arndt won the Cadel Evans Great Ocean Road Race on Sunday after a tight sprint to the finish line that saw him narrowly beat Australians Simon Gerrans and Cameron Meyer. 
  
@@ -24,9 +24,8 @@ Gerrans said the final sprint was tricky with the headwind.
  
 Three-time Tour de France champion Chris Froome finished 43 seconds behind Arndt. 
  
-Dutch rider Annemiek van Vleuten (ORS) won the women&apos;s race on Saturday with a time of three hours, four minutes and 13 seconds.</content> 
-<sequenceId type="str">695199195580</sequenceId> 
-<topics type="list"> 
+Dutch rider Annemiek van Vleuten (ORS) won the women&apos;s race on Saturday with a time of three hours, four minutes and 13 seconds.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -39,7 +38,8 @@ Dutch rider Annemiek van Vleuten (ORS) won the women&apos;s race on Saturday wit
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:33Z</estimatedPublishedDate> 
-<title type="str">Arndt wins Australian road race</title> 
+</TOPICS> 
+<DOCID type="str">695199195580</DOCID> 
+<DCT type="str">2017-01-29T07:49:33Z</DCT> 
+<TITLE type="str">Arndt wins Australian road race</TITLE> 
 </root>

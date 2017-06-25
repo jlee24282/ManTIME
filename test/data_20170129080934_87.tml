@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str"> </content> 
-<sequenceId type="str">695200747367</sequenceId> 
-<topics type="list"> 
+<TEXT type="str"> </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Malta news</name> 
@@ -27,7 +26,8 @@
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:01Z</estimatedPublishedDate> 
-<title type="str">Knights of Malta reinstate German aristocrat who had been sacked by British Grand Master in row that prompted Vatican intervention</title> 
+</TOPICS> 
+<DOCID type="str">695200747367</DOCID> 
+<DCT type="str">2017-01-29T08:02:01Z</DCT> 
+<TITLE type="str">Knights of Malta reinstate German aristocrat who had been sacked by British Grand Master in row that prompted Vatican intervention</TITLE> 
 </root>

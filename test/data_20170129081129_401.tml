@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CEO and MD of Boon Siew Honda, Mr Nobuhide Nagata 
+<TEXT type="str">CEO and MD of Boon Siew Honda, Mr Nobuhide Nagata 
 Boon Siew Honda has announced 46 winners of the User Card Lucky Draw at Boon Siew Honda KL Branch recently. This activity aims to raise awareness among users and to encourage them to provide valuable feedback based on their experience of the purchased motorcycle. 
  
 “Customer feedback is very important for Honda. Nowadays, it is a customer-oriented market where customers hold the most power to decide which product suits them. We highly appreciate the feedback and therefore the participants were rewarded a chance to win a brand new bike after submitting the form to us,” said by CEO and MD of Boon Siew Honda, Mr Nobuhide Nagata, in the open ceremony. 
@@ -15,9 +15,8 @@ The Lucky Draw session was witnessed by the company’s KL/Selangor Impian Deal
  
 The User Card Lucky Draw program was introduced and first drawn in 2013. Throughout the years, more than 500 prizes including 7 units of brand new Honda bikes has been given out to the lucky winners. Currently, there are 2 draws per year based on the collected user card forms. 
  
-To participate in User Card lucky draw, customers who purchases a brand new Honda motorcycle are required to complete the User Card survey form and post it back (postage exempted) to Boon Siew Honda.</content> 
-<sequenceId type="str">695204997088</sequenceId> 
-<topics type="list"> 
+To participate in User Card lucky draw, customers who purchases a brand new Honda motorcycle are required to complete the User Card survey form and post it back (postage exempted) to Boon Siew Honda.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -34,7 +33,8 @@ To participate in User Card lucky draw, customers who purchases a brand new Hon
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:28Z</estimatedPublishedDate> 
-<title type="str">BIKES: Boon Siew Honda Announces Winners for User Card Lucky Draw</title> 
+</TOPICS> 
+<DOCID type="str">695204997088</DOCID> 
+<DCT type="str">2017-01-29T08:00:28Z</DCT> 
+<TITLE type="str">BIKES: Boon Siew Honda Announces Winners for User Card Lucky Draw</TITLE> 
 </root>

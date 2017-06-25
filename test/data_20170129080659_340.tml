@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">London, Jan 29 (IANS) Just like humans, dogs prefer sharing food with the familiar partners. However, they are also ready to share food with other animals during complex situations, a new study found.
+<TEXT type="str">London, Jan 29 (IANS) Just like humans, dogs prefer sharing food with the familiar partners. However, they are also ready to share food with other animals during complex situations, a new study found.
 
 The study found that dogs exhibit pro-social behaviour and they clearly showed a preference for sharing the food reward with another familiar dog, whereas unfamiliar dogs were rewarded nearly three times less often than the familiar ones.
 
@@ -20,14 +20,14 @@ The presence of a partner appears to play a greater role. In this case too, the 
 
 --IANS
 
-vc/sm/vt</content> 
-<sequenceId type="str">695194847906</sequenceId> 
-<topics type="list"> 
+vc/sm/vt</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Austria news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:04:03Z</estimatedPublishedDate> 
-<title type="str">Dogs prefer to share food with familiar partners</title> 
+</TOPICS> 
+<DOCID type="str">695194847906</DOCID> 
+<DCT type="str">2017-01-29T07:04:03Z</DCT> 
+<TITLE type="str">Dogs prefer to share food with familiar partners</TITLE> 
 </root>

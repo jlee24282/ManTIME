@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ATLANTA — The last time the Atlanta Falcons made it to the Super Bowl, they put on quite a show. 
+<TEXT type="str">ATLANTA — The last time the Atlanta Falcons made it to the Super Bowl, they put on quite a show. 
  
 Just not when it mattered. 
  
@@ -58,9 +58,8 @@ Now, he and his teammates have a chance to finish the job.
  
 They’ve got no bigger fans than the Dirty Birds. 
  
-“I’m very happy for them,” Jamal Anderson said. “I’m really, really happy for the city. I’m really happy for Falcons fans, the true and hardcore fans who are supportive and encouraging. You know, we have an interesting history in this city. I’m just happy to see that we finally made it back.”</content> 
-<sequenceId type="str">695202484527</sequenceId> 
-<topics type="list"> 
+“I’m very happy for them,” Jamal Anderson said. “I’m really, really happy for the city. I’m really happy for Falcons fans, the true and hardcore fans who are supportive and encouraging. You know, we have an interesting history in this city. I’m just happy to see that we finally made it back.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Denver Broncos news</name> 
@@ -85,7 +84,8 @@ They’ve got no bigger fans than the Dirty Birds.
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Super Bowl LI: As Falcons return to big game, remember the Dirty Birds</title> 
+</TOPICS> 
+<DOCID type="str">695202484527</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Super Bowl LI: As Falcons return to big game, remember the Dirty Birds</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Real Estate Broker/Owner with ,Inc Homer Alaska Homer Alaska Chamber Of Commerce Grand Opening
+<TEXT type="str">Real Estate Broker/Owner with ,Inc Homer Alaska Homer Alaska Chamber Of Commerce Grand Opening
 
 Traveler Information Kiosk at BayCrest Overview Park
 
@@ -12,14 +12,14 @@ What a Beautiful Place to have this Functional Kiosk to greet the many Travelers
 
 Who stop to see this Gorgeous Overview of our Cosmic Hamlet by the Sea!
 
-#HomerAlaska #bayrealtyalaska #CosmicHamletBytheSea</content> 
-<sequenceId type="str">695204432654</sequenceId> 
-<topics type="list"> 
+#HomerAlaska #bayrealtyalaska #CosmicHamletBytheSea</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Real estate news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:26:23Z</estimatedPublishedDate> 
-<title type="str">Homer Alaska Traveler Kiosk Grand Opening!</title> 
+</TOPICS> 
+<DOCID type="str">695204432654</DOCID> 
+<DCT type="str">2017-01-29T00:26:23Z</DCT> 
+<TITLE type="str">Homer Alaska Traveler Kiosk Grand Opening!</TITLE> 
 </root>

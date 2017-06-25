@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Should we journalists use the word “lie” to describe President Donald Trump’s most manifest falsehoods? 
+<TEXT type="str">Should we journalists use the word “lie” to describe President Donald Trump’s most manifest falsehoods? 
  
 That debate has roiled the news world. The Times this week used the word “lie” in a front-page headline, and I agreed with that decision, but there’s a counterargument that lying requires an intention to deceive — and that Trump may actually believe his absurd falsehoods. 
  
@@ -34,9 +34,8 @@ The victims invariably are among the most voiceless, powerless people in the wor
  
 She tried to abort the pregnancy herself using herbs, but something went wrong and she suffered terrible abdominal pains. She was rushed to a clinic, but doctors couldn’t save her. Her two children now have no mom. 
  
-Nicholas Kristof is a columnist for the New York Times.</content> 
-<sequenceId type="str">695194049954</sequenceId> 
-<topics type="list"> 
+Nicholas Kristof is a columnist for the New York Times.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Womens rights news</name> 
@@ -45,7 +44,8 @@ Nicholas Kristof is a columnist for the New York Times.</content>
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:49Z</estimatedPublishedDate> 
-<title type="str">Kristoff: Trump’s war on women begins</title> 
+</TOPICS> 
+<DOCID type="str">695194049954</DOCID> 
+<DCT type="str">2017-01-29T07:12:49Z</DCT> 
+<TITLE type="str">Kristoff: Trump’s war on women begins</TITLE> 
 </root>

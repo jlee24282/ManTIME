@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The family of a missing Auckland woman say they are going through hell not knowing where she is. 
+<TEXT type="str">The family of a missing Auckland woman say they are going through hell not knowing where she is. 
  
 Carissa Avison, 21, has been missing since Thursday morning. Police have confirmed she was on Holder Pl on the North Shore around 10am that day.   
  
@@ -19,9 +19,8 @@ Police are still seeking any sightings of Ms Avison or information about her whe
  
 Anyone with information can contact Auckland police on (09) 302 6400 or report anonymously by calling Crimestoppers on 0800 555 111. 
  
-Newshub. </content> 
-<sequenceId type="str">695195411196</sequenceId> 
-<topics type="list"> 
+Newshub. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -30,7 +29,8 @@ Newshub. </content>
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:54Z</estimatedPublishedDate> 
-<title type="str">Family plea for information on missing woman</title> 
+</TOPICS> 
+<DOCID type="str">695195411196</DOCID> 
+<DCT type="str">2017-01-29T07:21:54Z</DCT> 
+<TITLE type="str">Family plea for information on missing woman</TITLE> 
 </root>

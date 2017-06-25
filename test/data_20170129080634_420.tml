@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">[embedded content]  
+<TEXT type="str">[embedded content]  
  
 With both “Fifty Shades Darker” and “John Wick: Chapter 2” set to hit cinemas on February 10, new movie clips from both films have been released onto the web this weekend. 
  
@@ -15,9 +15,8 @@ Then ditch the champagne and hotel rooms for some boy-toys of a different kind,
 [embedded content] 
  
 [embedded content] 
-  Share this:   Click to share on Twitter (Opens in new window)  Click to share on</content> 
-<sequenceId type="str">695194203683</sequenceId> 
-<topics type="list"> 
+  Share this:   Click to share on Twitter (Opens in new window)  Click to share on</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -30,7 +29,8 @@ Then ditch the champagne and hotel rooms for some boy-toys of a different kind,
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie reviews</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:59:49Z</estimatedPublishedDate> 
-<title type="str">Watch the new clips from John Wick 2 &amp; Fifty Shades Darker</title> 
+</TOPICS> 
+<DOCID type="str">695194203683</DOCID> 
+<DCT type="str">2017-01-29T00:59:49Z</DCT> 
+<TITLE type="str">Watch the new clips from John Wick 2 &amp; Fifty Shades Darker</TITLE> 
 </root>

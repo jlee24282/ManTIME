@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">* Trump says sweeping new order &quot;working out very nicely&quot; 
+<TEXT type="str">* Trump says sweeping new order &quot;working out very nicely&quot; 
     
 * Federal judge in Brooklyn grants temporary reprieve 
     
@@ -26,9 +26,8 @@ from Syria and six other countries.
     
 Civil rights and faith groups, activists and Democratic
 politicians were furious and vowed to fight the order.
-  Continued...</content> 
-<sequenceId type="str">695201116118</sequenceId> 
-<topics type="list"> 
+  Continued...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -41,7 +40,8 @@ politicians were furious and vowed to fight the order.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:23Z</estimatedPublishedDate> 
-<title type="str">WRAPUP 6-Chaos, anger as Trump order halts some Muslim immigrants</title> 
+</TOPICS> 
+<DOCID type="str">695201116118</DOCID> 
+<DCT type="str">2017-01-29T08:04:23Z</DCT> 
+<TITLE type="str">WRAPUP 6-Chaos, anger as Trump order halts some Muslim immigrants</TITLE> 
 </root>

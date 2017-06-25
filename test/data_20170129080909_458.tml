@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">OAKLAND &gt;&gt; The catering trays were picked over, the uniforms were folded and packed away and most of the Clippers had already headed for the bus. But, still, in the middle of the locker room, the biggest reasons why the Clippers suffered their worst loss of the season were printed in easy to read letters. 
+<TEXT type="str">OAKLAND &gt;&gt; The catering trays were picked over, the uniforms were folded and packed away and most of the Clippers had already headed for the bus. But, still, in the middle of the locker room, the biggest reasons why the Clippers suffered their worst loss of the season were printed in easy to read letters. 
  
 Long after the Golden State Warriors beat the Clippers 144-98, the white board — where the game plan is scribbled before each game — four two-word sentences were the only words not erased. 
  
@@ -35,9 +35,8 @@ They didn’t play hard enough. They didn’t play smart enough. They weren’t 
  
 “We were horrible,” Doc Rivers said. “I thought we gave in way too easy. You should never lose by this much in any game, in any situation. But they’re better right now. 
  
-“Until we improve, they’re going to keep beating us.”</content> 
-<sequenceId type="str">695200163732</sequenceId> 
-<topics type="list"> 
+“Until we improve, they’re going to keep beating us.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Golden State Warriors news</name> 
@@ -58,7 +57,8 @@ They didn’t play hard enough. They didn’t play smart enough. They weren’t 
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Golden State Warriors blast L.A. Clippers by 46 points</title> 
+</TOPICS> 
+<DOCID type="str">695200163732</DOCID> 
+<DCT type="str">2017-01-28T08:01:00Z</DCT> 
+<TITLE type="str">Golden State Warriors blast L.A. Clippers by 46 points</TITLE> 
 </root>

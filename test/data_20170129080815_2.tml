@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By It has a new name and will be held at a new location, but its mission remains the same. 
+<TEXT type="str">By It has a new name and will be held at a new location, but its mission remains the same. 
  
 The Fort Smith Museum of History&apos;s Pardi Gras fundraiser will be held from 6-11 p.m. Saturday at Shipley Baking Co., 52 S. Seventh St., with the goal of providing an entertaining, Mardi Gras-themed event for attendees while raising money for the museum. The evening will be a memorable occasion for &quot;party-seekers&quot; for a number of reasons, said Leisa Gramlich, executive director for the Fort Smith Museum of History. 
  
@@ -36,9 +36,8 @@ Pardi Gras is expected to draw 400 people, she said.
  
 Tickets are $100 per person and $1,000 for a table for 10 and can be purchased by calling 783-7841 and at www.fortsmithmuseum.org. 
  
-&quot;The Fort Smith Museum of History is important, and so is the Pardi Gras fundraiser,&quot; Gramlich said. &quot;People who attend this fundraiser, that is how we keep our doors open. The Pardi Gras event and our supporters are so important for the stability of the Fort Smith Museum of History.&quot;</content> 
-<sequenceId type="str">695197363491</sequenceId> 
-<topics type="list"> 
+&quot;The Fort Smith Museum of History is important, and so is the Pardi Gras fundraiser,&quot; Gramlich said. &quot;People who attend this fundraiser, that is how we keep our doors open. The Pardi Gras event and our supporters are so important for the stability of the Fort Smith Museum of History.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -47,7 +46,8 @@ Tickets are $100 per person and $1,000 for a table for 10 and can be purchased b
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:20:00Z</estimatedPublishedDate> 
-<title type="str">Fort Smith Museum of History fundraiser gets new name, location</title> 
+</TOPICS> 
+<DOCID type="str">695197363491</DOCID> 
+<DCT type="str">2017-01-29T05:20:00Z</DCT> 
+<TITLE type="str">Fort Smith Museum of History fundraiser gets new name, location</TITLE> 
 </root>

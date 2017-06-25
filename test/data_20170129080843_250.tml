@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One of the 74 teachers at Tshivhase Secondary School in Thohoyandou has bought a new car and, as usual, says principal Fhatuwani Maselesele, the news calls for a celebration. 
+<TEXT type="str">One of the 74 teachers at Tshivhase Secondary School in Thohoyandou has bought a new car and, as usual, says principal Fhatuwani Maselesele, the news calls for a celebration. 
  
 Every one of the more than 60 cars on the makeshift parking lot in front of the school’s main gate was welcomed the same way. 
  
@@ -137,9 +137,8 @@ On his future ambitions, Maselesele points out that at least six to seven of Tsh
  
 He is prepared to follow in their footsteps, but “for now, I am enjoying it here and only time will tell”. 
  
-This series is reported by City Press and supported by the IDC</content> 
-<sequenceId type="str">695198766579</sequenceId> 
-<topics type="list"> 
+This series is reported by City Press and supported by the IDC</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -148,7 +147,8 @@ This series is reported by City Press and supported by the IDC</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:02Z</estimatedPublishedDate> 
-<title type="str">Building a future brick by brick</title> 
+</TOPICS> 
+<DOCID type="str">695198766579</DOCID> 
+<DCT type="str">2017-01-29T07:14:02Z</DCT> 
+<TITLE type="str">Building a future brick by brick</TITLE> 
 </root>

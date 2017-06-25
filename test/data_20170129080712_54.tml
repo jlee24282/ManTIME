@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A major generator of Victoria&apos;s coal-fired electricity is set to expand, sparking protests from environmental groups about increased pollution. A major generator of Victoria&apos;s coal-fired electricity is set to be expanded, sparking protests from environment groups over the effect on carbon emissions.
+<TEXT type="str">A major generator of Victoria&apos;s coal-fired electricity is set to expand, sparking protests from environmental groups about increased pollution. A major generator of Victoria&apos;s coal-fired electricity is set to be expanded, sparking protests from environment groups over the effect on carbon emissions.
 
 The planned upgrade of the Loy Yang B power station in the Latrobe Valley comes as its majority owner, Engie, prepares to shut down the Hazelwood plant and coal mine in March.
 
@@ -44,9 +44,8 @@ Friends of the Earth criticised the expansion, saying it would prolong coal gene
 
 &quot;It&apos;s time to bring the EPA into the 21st century so it can play a key role in tackling climate change,&quot; the group said.
 
-It has previously been reported that Engie hopes to sell Loy Yang B. The story first appeared on The Age.</content> 
-<sequenceId type="str">695195007016</sequenceId> 
-<topics type="list"> 
+It has previously been reported that Engie hopes to sell Loy Yang B. The story first appeared on The Age.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Utilities news</name> 
@@ -67,7 +66,8 @@ It has previously been reported that Engie hopes to sell Loy Yang B. The story f
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:58Z</estimatedPublishedDate> 
-<title type="str">Expansion of Loy Yang B power station angers green groups</title> 
+</TOPICS> 
+<DOCID type="str">695195007016</DOCID> 
+<DCT type="str">2017-01-29T06:59:58Z</DCT> 
+<TITLE type="str">Expansion of Loy Yang B power station angers green groups</TITLE> 
 </root>

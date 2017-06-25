@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695204455795</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Middle East stories</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:40Z</estimatedPublishedDate> 
-<title type="str">Houthi-Run Authorities in Yemen Capital Condemn Trump Ban</title> 
+</TOPICS> 
+<DOCID type="str">695204455795</DOCID> 
+<DCT type="str">2017-01-29T08:29:40Z</DCT> 
+<TITLE type="str">Houthi-Run Authorities in Yemen Capital Condemn Trump Ban</TITLE> 
 </root>

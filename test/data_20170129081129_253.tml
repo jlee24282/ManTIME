@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Crowds swarm Terminal 4 of John F Kennedy airport in New York after travelers are denied entry, January 28, 2017. (Photo by EPA) 
+<TEXT type="str">Crowds swarm Terminal 4 of John F Kennedy airport in New York after travelers are denied entry, January 28, 2017. (Photo by EPA) 
  
 A US federal judge has issued an emergency ruling temporarily halting the deportations of travelers with valid visas detained under an executive order from President Donald Trump. 
  
@@ -26,9 +26,8 @@ Lee Gelernt, deputy legal director of the ACLU’s Immigrants Rights Project who
  
 Gelernt also said the judge had ordered the Trump administration to provide a list of those detained under the president’s directive. 
  
- </content> 
-<sequenceId type="str">695204872849</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ Gelernt also said the judge had ordered the Trump administration to provide a li
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:37Z</estimatedPublishedDate> 
-<title type="str">Judge blocks deportations after Trump’s order 3hr</title> 
+</TOPICS> 
+<DOCID type="str">695204872849</DOCID> 
+<DCT type="str">2017-01-29T08:32:37Z</DCT> 
+<TITLE type="str">Judge blocks deportations after Trump’s order 3hr</TITLE> 
 </root>

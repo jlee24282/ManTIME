@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">He said 
+<TEXT type="str">He said 
 
 It seems that first-date desserts are real things that real people fret over, so our friends to the south have decided to classify frozen yogurt as their universal first date selection. 
 
@@ -32,9 +32,8 @@ Tim Hortons for another beverage? Hollywood has told you that coffee shops are t
 
 Man, I should write commercials for Tim Hortons, Canada&apos;s first-date dessert centre. 
 
-Also, 11 p.m. is an unreasonable curfew.</content> 
-<sequenceId type="str">695197446152</sequenceId> 
-<topics type="list"> 
+Also, 11 p.m. is an unreasonable curfew.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -47,7 +46,8 @@ Also, 11 p.m. is an unreasonable curfew.</content>
 <group type="str">Regional</group> 
 <name type="str">Canada news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:25Z</estimatedPublishedDate> 
-<title type="str">What is Canada&apos;s first-date dessert?</title> 
+</TOPICS> 
+<DOCID type="str">695197446152</DOCID> 
+<DCT type="str">2017-01-29T07:37:25Z</DCT> 
+<TITLE type="str">What is Canada&apos;s first-date dessert?</TITLE> 
 </root>

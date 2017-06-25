@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Watch: Federer’s Pre-Final Interview 
+<TEXT type="str">Watch: Federer’s Pre-Final Interview 
 
 Nadal, Federer, Edition 35, By the Numbers 
 
@@ -22,9 +22,8 @@ Nadal says it’s special facing Federer in the final, no doubt. “It’s good 
 
 Nadal says that he won’t be putting so much stock in the fact that he has won 23 of 34 matches against Federer, and seven of nine at majors. “That’s my feeling,” he said. “I feel that the player who plays better will have the better chance tomorrow.” 
 
-See all of Nadal’s comments in the interview above.</content> 
-<sequenceId type="str">695203212887</sequenceId> 
-<topics type="list"> 
+See all of Nadal’s comments in the interview above.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -33,7 +32,8 @@ See all of Nadal’s comments in the interview above.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:40Z</estimatedPublishedDate> 
-<title type="str">Watch: Nadal’s Pre-Final Interview</title> 
+</TOPICS> 
+<DOCID type="str">695203212887</DOCID> 
+<DCT type="str">2017-01-29T08:19:40Z</DCT> 
+<TITLE type="str">Watch: Nadal’s Pre-Final Interview</TITLE> 
 </root>

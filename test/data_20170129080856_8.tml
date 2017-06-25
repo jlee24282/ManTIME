@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump today directed US military to develop a &quot;comprehensive strategy&quot; within 30 days to defeat the ISIS, asserting that America must take decisive action against the dreaded terror group.</content> 
-<sequenceId type="str">695199053187</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">President Donald Trump today directed US military to develop a &quot;comprehensive strategy&quot; within 30 days to defeat the ISIS, asserting that America must take decisive action against the dreaded terror group.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:14Z</estimatedPublishedDate> 
-<title type="str">Trump gives US military 30 days to prepare anti-ISIS strategy</title> 
+</TOPICS> 
+<DOCID type="str">695199053187</DOCID> 
+<DCT type="str">2017-01-29T07:44:14Z</DCT> 
+<TITLE type="str">Trump gives US military 30 days to prepare anti-ISIS strategy</TITLE> 
 </root>

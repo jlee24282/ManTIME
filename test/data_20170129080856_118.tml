@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Claude Puel believes Southampton’s 5-0 defeat to Arsenal will be a valuable learning experience for many of his young players. 
+<TEXT type="str">Claude Puel believes Southampton’s 5-0 defeat to Arsenal will be a valuable learning experience for many of his young players. 
   
 Saints were dumped out of the Emirates FA Cup by the Gunners yesterday, with Puel naming a youthful team for the fourth-round encounter. 
 
@@ -14,9 +14,8 @@ While it was a chastening afternoon, Puel explained that lessons can be learned 
 
 “It&apos;s important to consider this, to analyse this game and this defeat. 
 
-“We have a lot of injuries in the squad, and we continued with this game to improve our young players. It&apos;s important to give experience and it&apos;s a good lesson for the future for all these young players.”</content> 
-<sequenceId type="str">695199220155</sequenceId> 
-<topics type="list"> 
+“We have a lot of injuries in the squad, and we continued with this game to improve our young players. It&apos;s important to give experience and it&apos;s a good lesson for the future for all these young players.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -25,7 +24,8 @@ While it was a chastening afternoon, Puel explained that lessons can be learned 
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:52Z</estimatedPublishedDate> 
-<title type="str">Puel: Youngsters will learn lessons</title> 
+</TOPICS> 
+<DOCID type="str">695199220155</DOCID> 
+<DCT type="str">2017-01-29T07:49:52Z</DCT> 
+<TITLE type="str">Puel: Youngsters will learn lessons</TITLE> 
 </root>

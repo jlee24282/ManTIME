@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Steven Gerrard has described Liverpool as one of the best teams to watch in the first half of the Premier League season despite their recent blip.  
+<TEXT type="str">Steven Gerrard has described Liverpool as one of the best teams to watch in the first half of the Premier League season despite their recent blip.  
 Liverpool finished 2016 on a high note with a 1-0 win against title rivals Manchester City to leave Jurgen Klopp’s side on the coattails of leaders Chelsea. 
  
 However, the Reds have struggled to recreate their electric performances in 2017 so far after a run of one win in seven games in all competitions. 
@@ -29,9 +29,8 @@ MORE: Arsenal latest news
  
 MORE: Chelsea latest news 
  
-MORE: Liverpool latest news</content> 
-<sequenceId type="str">695198502096</sequenceId> 
-<topics type="list"> 
+MORE: Liverpool latest news</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
@@ -40,7 +39,8 @@ MORE: Liverpool latest news</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:34Z</estimatedPublishedDate> 
-<title type="str">Steven Gerrard makes brilliant claim about Liverpool under Jurgen Klopp</title> 
+</TOPICS> 
+<DOCID type="str">695198502096</DOCID> 
+<DCT type="str">2017-01-29T07:20:34Z</DCT> 
+<TITLE type="str">Steven Gerrard makes brilliant claim about Liverpool under Jurgen Klopp</TITLE> 
 </root>

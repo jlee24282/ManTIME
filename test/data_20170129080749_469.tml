@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Despite IRS and law enforcement efforts to thwart tax-related scams, including a significant arrest last October, the IRS continues to alert taxpayers and tax professionals to new versions of various schemes designed to gather both money and personal information from unsuspecting victims. 
+<TEXT type="str">Despite IRS and law enforcement efforts to thwart tax-related scams, including a significant arrest last October, the IRS continues to alert taxpayers and tax professionals to new versions of various schemes designed to gather both money and personal information from unsuspecting victims. 
  
 While these scammers work year-round, their efforts tend to peak during tax season when complying with IRS tax rules and filing deadlines are top of mind for both taxpayers and tax preparers. During the 2016 filing season, the IRS reported a 400 percent increase in tax-related scams. 
  
@@ -16,9 +16,8 @@ The IRS also issued a warning about emails containing fake CP2000 notices. These
  
 The IRS has also provided guidance regarding how to tell if a CP2000 notice is legitimate or a scam. The fake notices are issued from an Austin, Texas, address and the tax issue involved is related to the Affordable Care Act. The included payment voucher in the fake versions also lists a letter number 105C. To help taxpayers determine whether a notice received via mail is legitimate, the IRS recommends visiting their website at www.irs.gov/individuals/understanding-your-cp2000-notice where they provide an example of a real notice. 
  
-David T. Mayes is a Certified Financial Planner professional and IRS Enrolled Agent at Bearing Point Wealth Partners, Inc., a fiduciary financial planning firm in Hampton. He can be reached at (603) 926-1775 or david.mayes@bearingpointwealth.com. </content> 
-<sequenceId type="str">695196945795</sequenceId> 
-<topics type="list"> 
+David T. Mayes is a Certified Financial Planner professional and IRS Enrolled Agent at Bearing Point Wealth Partners, Inc., a fiduciary financial planning firm in Hampton. He can be reached at (603) 926-1775 or david.mayes@bearingpointwealth.com. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -27,7 +26,8 @@ David T. Mayes is a Certified Financial Planner professional and IRS Enrolled Ag
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:41Z</estimatedPublishedDate> 
-<title type="str">Be alert to scammers as tax season begins</title> 
+</TOPICS> 
+<DOCID type="str">695196945795</DOCID> 
+<DCT type="str">2017-01-29T07:33:41Z</DCT> 
+<TITLE type="str">Be alert to scammers as tax season begins</TITLE> 
 </root>

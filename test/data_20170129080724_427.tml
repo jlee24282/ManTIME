@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Adds quotes from Hawaii attorney general, officials, details and background throughout)
+<TEXT type="str">(Adds quotes from Hawaii attorney general, officials, details and background throughout)
 
 By Dan Levinen&quot;Jan 29 A group of state attorneys general are discussing whether to file their own court challenge against President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries entering the United States, officials in three states told Reuters.
 
@@ -20,9 +20,8 @@ Trump, a businessman who successfully tapped into American fears about terror at
 
 However, his order hit a roadblock late on Saturday when a federal judge in New York said stranded travelers could stay in the country. The American Civil Liberties Union, which sought the emergency court order, said it would help 100 to 200 people with valid visas or refugee status who found themselves detained in transit or at U.S. airports after Trump signed the order.
 
-The Department of Homeland Security said in a statement it would comply with judicial orders but that Trump&apos;s immigration restrictions remained in effect. (Reporting by Dan Levine in San Francisco; Editing by Paul Tait) X</content> 
-<sequenceId type="str">695195972022</sequenceId> 
-<topics type="list"> 
+The Department of Homeland Security said in a statement it would comply with judicial orders but that Trump&apos;s immigration restrictions remained in effect. (Reporting by Dan Levine in San Francisco; Editing by Paul Tait) X</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -39,7 +38,8 @@ The Department of Homeland Security said in a statement it would comply with jud
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:13Z</estimatedPublishedDate> 
-<title type="str">UPDATE 1-U.S. states discussing lawsuit over Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695195972022</DOCID> 
+<DCT type="str">2017-01-29T07:26:13Z</DCT> 
+<TITLE type="str">UPDATE 1-U.S. states discussing lawsuit over Trump immigration order</TITLE> 
 </root>

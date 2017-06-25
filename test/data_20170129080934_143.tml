@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">AFP file image. 
+<TEXT type="str">AFP file image. 
   
 South African police have launched an investigation after several lions were found poisoned and beheaded in northern Limpopo province over the past few months. 
  
@@ -26,9 +26,8 @@ Olga Klintsova survived being struck by a falling concrete tile while pushing he
 You can remain anonymous. Click here for more information. 
   Property News:  Follow these tips to become a master negotiator – realestate.com.au 
 Property news:  How to set a realistic sale price for your home – realestate.com.au   
-Source link</content> 
-<sequenceId type="str">695200797919</sequenceId> 
-<topics type="list"> 
+Source link</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -37,7 +36,8 @@ Source link</content>
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:06:19Z</estimatedPublishedDate> 
-<title type="str">Lions found mutilated and poisoned in South Africa</title> 
+</TOPICS> 
+<DOCID type="str">695200797919</DOCID> 
+<DCT type="str">2017-01-29T01:06:19Z</DCT> 
+<TITLE type="str">Lions found mutilated and poisoned in South Africa</TITLE> 
 </root>

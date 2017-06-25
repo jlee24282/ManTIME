@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Chris Wood is playing well for Leeds United at the moment. 
+<TEXT type="str">Chris Wood is playing well for Leeds United at the moment. 
  
 [embedded content] 
  
@@ -28,14 +28,14 @@ During the 2015-16 season, Leeds created 402 chances in 46 matches - an average 
  SEE ALSO: Garry Monk’s response when asked about interest in Leeds United duo 
 Last season, the West Yorkshire outfit scored 50 goals in 38 league games. So far this campaign, they have found the net 39 times in 28 matches. 
  
-[embedded content]</content> 
-<sequenceId type="str">695201285666</sequenceId> 
-<topics type="list"> 
+[embedded content]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">25-year-old outlines what is great for Leeds United this season</title> 
+</TOPICS> 
+<DOCID type="str">695201285666</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">25-year-old outlines what is great for Leeds United this season</TITLE> 
 </root>

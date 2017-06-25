@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jake has been a credentialed Colorado Buffaloes and Colorado Rockies reporter since he was a teenager. He is a sportscaster and radio host at KVCU, hosting The Shapiro Show. &quot;Shap&quot; is working towards a degree at the University of Colorado at the College of Media, Communication and Information. Follow him on Twitter @Shapalicious.</content> 
-<sequenceId type="str">695197860290</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Jake has been a credentialed Colorado Buffaloes and Colorado Rockies reporter since he was a teenager. He is a sportscaster and radio host at KVCU, hosting The Shapiro Show. &quot;Shap&quot; is working towards a degree at the University of Colorado at the College of Media, Communication and Information. Follow him on Twitter @Shapalicious.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: MLB - Colorado Rockies news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:34:43Z</estimatedPublishedDate> 
-<title type="str">AUDIO HIGHLIGHTS: Buffaloes shoot down Ducks</title> 
+</TOPICS> 
+<DOCID type="str">695197860290</DOCID> 
+<DCT type="str">2017-01-29T06:34:43Z</DCT> 
+<TITLE type="str">AUDIO HIGHLIGHTS: Buffaloes shoot down Ducks</TITLE> 
 </root>

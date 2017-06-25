@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">&quot;You know what the public&apos;s really like; they&apos;re a cage full of guinea pigs. I could feed them dog food and they&apos;ll think it&apos;s steak. Good night, you stupid idiots.&quot; 
+<TEXT type="str">&quot;You know what the public&apos;s really like; they&apos;re a cage full of guinea pigs. I could feed them dog food and they&apos;ll think it&apos;s steak. Good night, you stupid idiots.&quot; 
  
 -- Lonesome Rhodes, A Face in the Crowd 
   
@@ -78,14 +78,14 @@ pmartin@arkansasonline.com
  
 blooddirtangels.com 
  
-Style on 01/29/2</content> 
-<sequenceId type="str">695204186622</sequenceId> 
-<topics type="list"> 
+Style on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:30Z</estimatedPublishedDate> 
-<title type="str">Art reflects life, but who notices?</title> 
+</TOPICS> 
+<DOCID type="str">695204186622</DOCID> 
+<DCT type="str">2017-01-29T08:09:30Z</DCT> 
+<TITLE type="str">Art reflects life, but who notices?</TITLE> 
 </root>

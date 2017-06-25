@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Please enable Javascript to watch this video  We asked the staff of Relapse Records who some of their all-time Relapse Records artists were!If you want to check out any of the bands mentioned in the segment, check out their social media pages below: 
+<TEXT type="str">Please enable Javascript to watch this video  We asked the staff of Relapse Records who some of their all-time Relapse Records artists were!If you want to check out any of the bands mentioned in the segment, check out their social media pages below: 
 Nasum 
 Facebook - https://www.facebook.com/NasumBand/ 
  
@@ -33,14 +33,14 @@ Twitter - https://twitter.com/RelapseRecords
  
 Be sure to follow us on Twitter and Instagram to keep up with all things Weekend Philler! 
  
-And make sure you tune in Saturday nights at 11:30p on PHL17 for the latest episodes!</content> 
-<sequenceId type="str">695194484402</sequenceId> 
-<topics type="list"> 
+And make sure you tune in Saturday nights at 11:30p on PHL17 for the latest episodes!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:59:54Z</estimatedPublishedDate> 
-<title type="str">Favorite Relapse Records Artists on Weekend Philler</title> 
+</TOPICS> 
+<DOCID type="str">695194484402</DOCID> 
+<DCT type="str">2017-01-29T04:59:54Z</DCT> 
+<TITLE type="str">Favorite Relapse Records Artists on Weekend Philler</TITLE> 
 </root>

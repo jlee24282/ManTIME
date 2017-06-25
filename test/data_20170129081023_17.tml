@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NASHVILLE, Tenn. — The Vanderbilt Commodores got a chance at redemption Saturday, finding themselves in the same situation a game after blowing a 15-point lead in the second half. 
+<TEXT type="str">NASHVILLE, Tenn. — The Vanderbilt Commodores got a chance at redemption Saturday, finding themselves in the same situation a game after blowing a 15-point lead in the second half. 
  
 This time, the Commodores hit 7 of 10 free throws in the final minute, and Vanderbilt stopped a skid by holding off Iowa State, 84-78, in the SEC/Big 12 Challenge. 
  
@@ -36,9 +36,8 @@ Morris came in needing two assists to match the school record held by Jeff Horna
  UP NEXT  
 Iowa State: Hosts No. 18 West Virginia on Tuesday night. 
  
-Vanderbilt: Visits Texas A&amp;M on Tuesday night.</content> 
-<sequenceId type="str">695202484917</sequenceId> 
-<topics type="list"> 
+Vanderbilt: Visits Texas A&amp;M on Tuesday night.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -55,7 +54,8 @@ Vanderbilt: Visits Texas A&amp;M on Tuesday night.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">College basketball: Vandy holds off Iowa State in SEC/Big 12 Challenge</title> 
+</TOPICS> 
+<DOCID type="str">695202484917</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">College basketball: Vandy holds off Iowa State in SEC/Big 12 Challenge</TITLE> 
 </root>

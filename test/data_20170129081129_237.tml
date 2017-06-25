@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Nothing compares to the magic of live choral music. It begins the moment one enters the concert hall and there is a feeling of anticipations in the air an expectation that what is about to happen will transport you to a special emotional and spiritual plane. 
+<TEXT type="str">Nothing compares to the magic of live choral music. It begins the moment one enters the concert hall and there is a feeling of anticipations in the air an expectation that what is about to happen will transport you to a special emotional and spiritual plane. 
  
 No one knows ahead of time how it will turn out. The atmosphere is charged with intensity. The music is captivating and electrifying. This is the feeling one experiences at the annual Festival of Choirs hosted by the Boulevard Baptist Church. 
  
@@ -18,9 +18,8 @@ She will conduct the Boulevard Baptist Choir as it presents the opening fanfare 
  
 Orchestral accompaniment will be provided by the Samuel Felsted Chamber Orchestra, which is named after Jamaica&apos;s first documented composer Samuel Felsted (1743-1802). 
  
-Musical presentations will also be done by the Northern Caribbean University Choir, the Andrews Memorial Seventh-Day Adventist and East Queen Baptist Church Choirs. Organ and piano accompaniment will be provided by Michelle Bromley and Mickel Gordon, respectively.</content> 
-<sequenceId type="str">695204855168</sequenceId> 
-<topics type="list"> 
+Musical presentations will also be done by the Northern Caribbean University Choir, the Andrews Memorial Seventh-Day Adventist and East Queen Baptist Church Choirs. Organ and piano accompaniment will be provided by Michelle Bromley and Mickel Gordon, respectively.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -33,7 +32,8 @@ Musical presentations will also be done by the Northern Caribbean University Cho
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Religion &amp; Culture | Boulevard Baptist Festival of Choirs set to sparkle</title> 
+</TOPICS> 
+<DOCID type="str">695204855168</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Religion &amp; Culture | Boulevard Baptist Festival of Choirs set to sparkle</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Orlando R. Barone 
+<TEXT type="str">Orlando R. Barone 
 
 is a writer in Doylestown 
 
@@ -30,9 +30,8 @@ So, let&apos;s take a walk, you and me. You&apos;ll meet your future, squirrels 
 
 Anything can happen. Like life, for instance. 
 
-orby114@aol.com</content> 
-<sequenceId type="str">695201053143</sequenceId> 
-<topics type="list"> 
+orby114@aol.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -41,7 +40,8 @@ orby114@aol.com</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Commentary: Let&apos;s take a walk together</title> 
+</TOPICS> 
+<DOCID type="str">695201053143</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">Commentary: Let&apos;s take a walk together</TITLE> 
 </root>

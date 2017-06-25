@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donald Trump&apos;s Muslim ban banishing normal, honest people who are trying to visit their families, says Melbourne&apos;s Somalian community. 
+<TEXT type="str">Donald Trump&apos;s Muslim ban banishing normal, honest people who are trying to visit their families, says Melbourne&apos;s Somalian community. 
 
 It&apos;s a place that sings of the Australian summer: lemon-scented gums, the trill of cicadas, sand underfoot and a sliver of navy ocean on the horizon.
 
@@ -36,9 +36,8 @@ But the bigger purpose was to inspire them, says council member Abdi Aziz, and h
 
 &quot;Diversity is mainstream in Australia … but the risk is there. For us it&apos;s an important time for our Prime Minister to show political leadership in this area.&quot;
 
-Many people he had spoken to that morning were feeling a sense of loss, he said. The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695204758284</sequenceId> 
-<topics type="list"> 
+Many people he had spoken to that morning were feeling a sense of loss, he said. The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -55,7 +54,8 @@ Many people he had spoken to that morning were feeling a sense of loss, he said.
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:52Z</estimatedPublishedDate> 
-<title type="str">Families split as Trump Muslim ban &apos;banishes normal, honest people&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695204758284</DOCID> 
+<DCT type="str">2017-01-29T07:11:52Z</DCT> 
+<TITLE type="str">Families split as Trump Muslim ban &apos;banishes normal, honest people&apos;</TITLE> 
 </root>

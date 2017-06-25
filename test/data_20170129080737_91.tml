@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:16 
+<TEXT type="str">:16 
 Ghana will test their title-winning credentials when the Black Stars take on DR Congo’s Leopards in the quarterfinals of the 2017 Africa Cup of Nations on Sunday. 
  
 The Black Stars, four-time winners of the competition, have a massive task ahead of them in the shape of a resurgent DRC side, who topped a tough the group that had the likes of Ivory Coast and Togo to qualify for the quarterfinals. 
@@ -119,9 +119,8 @@ W 1-0 African Nations Championship
  
 The game will be live on SuperSport, your World of Champions, with broadcast starting at 5pm (CAT). For game time weather conditions please kindly click here 
  
-Source link</content> 
-<sequenceId type="str">695196163869</sequenceId> 
-<topics type="list"> 
+Source link</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -162,7 +161,8 @@ Source link</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: FIFA World Cup news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:23:22Z</estimatedPublishedDate> 
-<title type="str">Big Match Feature: DRC v Ghana – SuperSport</title> 
+</TOPICS> 
+<DOCID type="str">695196163869</DOCID> 
+<DCT type="str">2017-01-29T05:23:22Z</DCT> 
+<TITLE type="str">Big Match Feature: DRC v Ghana – SuperSport</TITLE> 
 </root>

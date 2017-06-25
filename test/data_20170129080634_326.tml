@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Amena’s aunt, who is Syrian, has a green card, but was sitting in a plane bound for Qatar when she was escorted out at the last minute due to a court ruling on President Trump’s refugee ban. 
+<TEXT type="str">Amena’s aunt, who is Syrian, has a green card, but was sitting in a plane bound for Qatar when she was escorted out at the last minute due to a court ruling on President Trump’s refugee ban. 
 
 Salvador Hernandez BuzzFeed News Reporter Andrew Kelly / Reuters Amena and her family were told only three things about her aunt at John F. Kennedy International Airport: she landed safely Saturday, she had been detained, and she would be deported despite having a valid green card.
 
@@ -40,9 +40,8 @@ Attorneys volunteering their time at the airport were trying to get them answers
 
 &quot;They are amazing and doing a great job, they (officials) hang up on them too,&quot; Yasha said.
 
-He and his wife planned to spend the night until they got more answers. 3.</content> 
-<sequenceId type="str">695194144985</sequenceId> 
-<topics type="list"> 
+He and his wife planned to spend the night until they got more answers. 3.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -55,7 +54,8 @@ He and his wife planned to spend the night until they got more answers. 3.</cont
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:09:34Z</estimatedPublishedDate> 
-<title type="str">Some Airport Detainees Were Saved From Deportation Just Before Flights Took Off</title> 
+</TOPICS> 
+<DOCID type="str">695194144985</DOCID> 
+<DCT type="str">2017-01-29T06:09:34Z</DCT> 
+<TITLE type="str">Some Airport Detainees Were Saved From Deportation Just Before Flights Took Off</TITLE> 
 </root>

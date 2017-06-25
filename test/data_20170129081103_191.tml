@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">There’s been far too much carnage on the roads around Chico recently, the latest being the crash last Sunday evening on Highway 32 that killed beloved Pleasant Valley High School coach and teacher Brett Silva. 
+<TEXT type="str">There’s been far too much carnage on the roads around Chico recently, the latest being the crash last Sunday evening on Highway 32 that killed beloved Pleasant Valley High School coach and teacher Brett Silva. 
  
 It was the second fatal accident on 32 between Chico and Orland since November. November also saw a double fatal on Highway 99 north of town. 
  
@@ -25,9 +25,8 @@ And then, make the “traffic schools” bad drivers use to clear their records 
  
 Ultimately highway safety comes down to driver safety. We’ve had callers and letter writers say they’re afraid of the highways around Chico, and that’s actually a good thing. Driving afraid is driving cautious, and the more cautious drivers on the road the better. 
  
-But the state has to go after the fools who aren’t afraid, if the rest of us are to be safe.</content> 
-<sequenceId type="str">695203900193</sequenceId> 
-<topics type="list"> 
+But the state has to go after the fools who aren’t afraid, if the rest of us are to be safe.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -36,7 +35,8 @@ But the state has to go after the fools who aren’t afraid, if the rest of us a
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Editorial: Bad drivers a worse problem than bad roads</title> 
+</TOPICS> 
+<DOCID type="str">695203900193</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Editorial: Bad drivers a worse problem than bad roads</TITLE> 
 </root>

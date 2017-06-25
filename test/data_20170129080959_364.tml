@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">There is simmering tension as former fighters of the M23 rebel group flee from a Uganda n military camp back to eastern Democratic Republic of Congo (DR Congo). 
+<TEXT type="str">There is simmering tension as former fighters of the M23 rebel group flee from a Uganda n military camp back to eastern Democratic Republic of Congo (DR Congo). 
  
 DR Congo authorities argue that this may lead to resumption of subversive activities by the former fighters who were defeated by the Congolese and UN troops before fleeing to Uganda in late 2013. 
  
@@ -30,9 +30,8 @@ Of the 1,377 ex-combatants only 200 have been returned home for official disarma
  
 Eastern DR Congo has got a string of rebel groups that cause mayhem in the central African country. 
  
-source: Xinhua</content> 
-<sequenceId type="str">695201941530</sequenceId> 
-<topics type="list"> 
+source: Xinhua</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -45,7 +44,8 @@ source: Xinhua</content>
 <group type="str">Regional</group> 
 <name type="str">DR Congo news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:00Z</estimatedPublishedDate> 
-<title type="str">Ex-DR Congo rebels&apos; escape from Uganda causes…</title> 
+</TOPICS> 
+<DOCID type="str">695201941530</DOCID> 
+<DCT type="str">2017-01-29T08:10:00Z</DCT> 
+<TITLE type="str">Ex-DR Congo rebels&apos; escape from Uganda causes…</TITLE> 
 </root>

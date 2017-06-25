@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi, January 29:  Prime Minister Narendra Modi addressed the first Mann Ki Baat episode of 2017. The radio show was primarily focused on the fast approaching Class Tenth and Class Twelfth board exams and motivating students for the same. 
+<TEXT type="str">New Delhi, January 29:  Prime Minister Narendra Modi addressed the first Mann Ki Baat episode of 2017. The radio show was primarily focused on the fast approaching Class Tenth and Class Twelfth board exams and motivating students for the same. 
  
 The address was special because of the fact that it is the first one of the year. The Prime Minister particularly sought approval from the Election Commission of India to host the address, keeping in mind the crucial Assembly elections in five states, just a handful of days away. 
  
@@ -12,9 +12,8 @@ The last episode of the show, held on the 26th of December, was the second one a
  
 The programme was broadcast at 11:00 AM today on the entire network of All India Radio, Doordarshan and the Narendra Modi App this morning. However, Akashvani too will be broadcasting the show in regional languages. There will also be a repeat broadcast of the same at 8 PM. The audio clip of today’s Mann Ki Baat will also be available on the youtube channels of the Ministry of Information and Broadcasting, the Prime Minister’s Office and All India Radio. Also, a missed call can be given on 1922 to hear the Mann Ki Baat episode on mobile phones. 
  
-[embedded content]</content> 
-<sequenceId type="str">695197511107</sequenceId> 
-<topics type="list"> 
+[embedded content]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -23,7 +22,8 @@ The programme was broadcast at 11:00 AM today on the entire network of All India
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:12Z</estimatedPublishedDate> 
-<title type="str">Mann Ki Baat: Narendra Modi motivates students with slogan ‘smile more, score more’; 15 Key Highlights 2 hours ago</title> 
+</TOPICS> 
+<DOCID type="str">695197511107</DOCID> 
+<DCT type="str">2017-01-29T07:38:12Z</DCT> 
+<TITLE type="str">Mann Ki Baat: Narendra Modi motivates students with slogan ‘smile more, score more’; 15 Key Highlights 2 hours ago</TITLE> 
 </root>

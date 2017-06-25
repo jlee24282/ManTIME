@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">YOUNGSTOWN — More than 680 students were awarded undergraduate, graduate and doctoral degrees at Youngstown State University’s 2016 fall commencement ceremony held in December on the YSU campus. Local graduates include:
+<TEXT type="str">YOUNGSTOWN — More than 680 students were awarded undergraduate, graduate and doctoral degrees at Youngstown State University’s 2016 fall commencement ceremony held in December on the YSU campus. Local graduates include:
 
 Beloit: Christina Rigney, bachelor’s of general studies in general studies.
 
@@ -32,9 +32,8 @@ LISBON— The Resource Center of Columbiana County, Lisbon United Methodist Chur
 
 Today&apos;s breaking news and more in your inbox
 
-Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</content> 
-<sequenceId type="str">695200417962</sequenceId> 
-<topics type="list"> 
+Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Engineering news</name> 
@@ -51,7 +50,8 @@ Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, O
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:58Z</estimatedPublishedDate> 
-<title type="str">Youngstown State University graduates</title> 
+</TOPICS> 
+<DOCID type="str">695200417962</DOCID> 
+<DCT type="str">2017-01-29T07:59:58Z</DCT> 
+<TITLE type="str">Youngstown State University graduates</TITLE> 
 </root>

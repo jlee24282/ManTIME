@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The record snowfall in Central Oregon has made life difficult for almost everyone, and it’s had an expensive impact on one of Central Oregon’s most important industries. 
+<TEXT type="str">The record snowfall in Central Oregon has made life difficult for almost everyone, and it’s had an expensive impact on one of Central Oregon’s most important industries. 
  
 Once the snows and hard freezes began in early December, the region’s construction work slowed to a near halt across Central Oregon. Consequently, builders are over their budgets, behind their schedules and close to laying off workers. 
  
@@ -58,14 +58,14 @@ Knopp said it’s too early to know exactly how significant those delays will be
  
 — Reporter: 541-617-7818, 
  
-shamway@bendbulletin.com</content> 
-<sequenceId type="str">695204944664</sequenceId> 
-<topics type="list"> 
+shamway@bendbulletin.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:07Z</estimatedPublishedDate> 
-<title type="str">Historic winter puts construction work in a hole</title> 
+</TOPICS> 
+<DOCID type="str">695204944664</DOCID> 
+<DCT type="str">2017-01-29T08:33:07Z</DCT> 
+<TITLE type="str">Historic winter puts construction work in a hole</TITLE> 
 </root>

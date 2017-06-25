@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Animosity among staffers, distrust from veterans and improper record keeping that may have delayed or prevented clients from receiving disability benefits have plagued a Department of Veteran Affairs facility in Bend since it opened in 2010. 
+<TEXT type="str">Animosity among staffers, distrust from veterans and improper record keeping that may have delayed or prevented clients from receiving disability benefits have plagued a Department of Veteran Affairs facility in Bend since it opened in 2010. 
  
 The Central Oregon Vet Center, which counsels combat veterans and veterans who were sexually assaulted in the military, failed its regional office’s clinical inspections — those that assess its quality of service and client records — in each of the past six years. 
  
@@ -172,9 +172,8 @@ Juza said she wants veterans to know that the Vet Center is “re-energized.”
  
 — Reporter: 541-383-0304, 
  
-tbannow@bendbulletin.com</content> 
-<sequenceId type="str">695204956434</sequenceId> 
-<topics type="list"> 
+tbannow@bendbulletin.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Vietnam news</name> 
@@ -183,7 +182,8 @@ tbannow@bendbulletin.com</content>
 <group type="str">Society</group> 
 <name type="str">Veterans news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:09Z</estimatedPublishedDate> 
-<title type="str">Veterans hope new director improves counseling center</title> 
+</TOPICS> 
+<DOCID type="str">695204956434</DOCID> 
+<DCT type="str">2017-01-29T08:33:09Z</DCT> 
+<TITLE type="str">Veterans hope new director improves counseling center</TITLE> 
 </root>

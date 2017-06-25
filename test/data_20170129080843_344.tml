@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SIERRA VISTA - Being a beauty queen is a family trait for Mariah and Charity May, longtime Sierra Vista residents. 
+<TEXT type="str">SIERRA VISTA - Being a beauty queen is a family trait for Mariah and Charity May, longtime Sierra Vista residents. 
    
 Mariah, 22, added another pageant title to her resume on Jan. 14 when she was crowned Miss Windy City at the 2017 scholarship competition held at the Victory Gardens Biograph Theater in Chicago. 
    
@@ -18,9 +18,8 @@ Over the past four years, Mariah has been directly involved with youth mentorshi
    
 Charity was the 49th winner of the Sierra Vista pageant in July, 2015. During her year as Miss Sierra Vista, she focused on providing support to at-risk youth and making a difference in the lives of young people. It is important, Charity said, that people get involved and address those needs. 
    
-Like her sister, Mariah May has an impressive history of pageant success. She grew up in Sierra Vista, with mother, Carla Reaves, and step-father, Everette Reaves and graduated from Veritas Christian Community School in Sierra Vista. She was active in the local Cinderella Scholarship Pageant Program, winning the local Cochise County, Arizona State and the International Cinderella Pageants in 2</content> 
-<sequenceId type="str">695198856206</sequenceId> 
-<topics type="list"> 
+Like her sister, Mariah May has an impressive history of pageant success. She grew up in Sierra Vista, with mother, Carla Reaves, and step-father, Everette Reaves and graduated from Veritas Christian Community School in Sierra Vista. She was active in the local Cinderella Scholarship Pageant Program, winning the local Cochise County, Arizona State and the International Cinderella Pageants in 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Genetics news</name> 
@@ -29,7 +28,8 @@ Like her sister, Mariah May has an impressive history of pageant success. She gr
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:00Z</estimatedPublishedDate> 
-<title type="str">Beauty queens run in the genes</title> 
+</TOPICS> 
+<DOCID type="str">695198856206</DOCID> 
+<DCT type="str">2017-01-29T07:30:00Z</DCT> 
+<TITLE type="str">Beauty queens run in the genes</TITLE> 
 </root>

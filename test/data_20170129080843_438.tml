@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">JOHN F. KENNEDY INTERNATIONAL AIRPORT, NY — Sahar, a recent Stony Brook University graduate whose Iranian parents flew into JFK to visit her this weekend, showed up to the airport Saturday morning with the hope of hugging and kissing her mom and dad after three years of separation. 
+<TEXT type="str">JOHN F. KENNEDY INTERNATIONAL AIRPORT, NY — Sahar, a recent Stony Brook University graduate whose Iranian parents flew into JFK to visit her this weekend, showed up to the airport Saturday morning with the hope of hugging and kissing her mom and dad after three years of separation. 
  
 Instead, 32-year-old Sahar was informed by federal agents that her parents had been taken into custody — and would be forced to return to Iran on the next available flight. 
  
@@ -34,9 +34,8 @@ Attorneys with the International Refugee Assistance Project filed a last-minute 
  
 Turkish Airlines informed the attorneys that Sahar&apos;s parents would be placed on an 11 p.m. flight back to Iran. 
  
-Photos by Simone Wilson/Patch</content> 
-<sequenceId type="str">695198917001</sequenceId> 
-<topics type="list"> 
+Photos by Simone Wilson/Patch</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -57,7 +56,8 @@ Photos by Simone Wilson/Patch</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T23:42:27Z</estimatedPublishedDate> 
-<title type="str">College Student&apos;s Iranian Parents Detained At JFK: &apos;I Just Want To See Them,&apos; She Sobs</title> 
+</TOPICS> 
+<DOCID type="str">695198917001</DOCID> 
+<DCT type="str">2017-01-28T23:42:27Z</DCT> 
+<TITLE type="str">College Student&apos;s Iranian Parents Detained At JFK: &apos;I Just Want To See Them,&apos; She Sobs</TITLE> 
 </root>

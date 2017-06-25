@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Federal judge Ann Donnelly of the Eastern District of New York has handed an early victory to the lawyers challenging President Trump’s executive order barring immigrants and travelers from seven majority-Muslim countries from entering the US. 
+<TEXT type="str">Federal judge Ann Donnelly of the Eastern District of New York has handed an early victory to the lawyers challenging President Trump’s executive order barring immigrants and travelers from seven majority-Muslim countries from entering the US. 
 
 Judge Donnelly announced during an emergency hearing Saturday night that she was granting a stay that would prevent the government from deporting immigrants currently detained in airports around the country. 
 
@@ -12,9 +12,8 @@ The Department of Homeland Security said that by Saturday evening, its agents ha
 
 After U.S. District Court Ann Donnelly granted the stay, the American Civil Liberties Union (ACLU), which had filed suit to block Trump’s ban, issued a one-word celebratory tweet: “Victory!” 
 
-Trump’s executive order, signed Friday, suspends the entry of all refugees to the U.S. for 120 days, halts admission of refugees from Syria indefinitely and bars entry for three months to residents from the predominantly Muslim countries of Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen.</content> 
-<sequenceId type="str">695202246501</sequenceId> 
-<topics type="list"> 
+Trump’s executive order, signed Friday, suspends the entry of all refugees to the U.S. for 120 days, halts admission of refugees from Syria indefinitely and bars entry for three months to residents from the predominantly Muslim countries of Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -31,7 +30,8 @@ Trump’s executive order, signed Friday, suspends the entry of all refugees to 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:06Z</estimatedPublishedDate> 
-<title type="str">US Court Stops Trump&apos;s Immigration Ban</title> 
+</TOPICS> 
+<DOCID type="str">695202246501</DOCID> 
+<DCT type="str">2017-01-29T08:12:06Z</DCT> 
+<TITLE type="str">US Court Stops Trump&apos;s Immigration Ban</TITLE> 
 </root>

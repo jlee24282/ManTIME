@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Three Griffith teens have been arrested after leading police on a late-night pursuit on Friday. 
+<TEXT type="str">Three Griffith teens have been arrested after leading police on a late-night pursuit on Friday. 
 
 THREE Griffith teens have been charged with driving-related offences after allegedly leading police on a late-night pursuit on Friday.
 
@@ -28,14 +28,14 @@ The man was charged with 10 offences including nine counts of steal property as 
 
 He was granted conditional bail and will appear at Narrandera Local Court in March.
 
-The story first appeared on The Area News.</content> 
-<sequenceId type="str">695202049810</sequenceId> 
-<topics type="list"> 
+The story first appeared on The Area News.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Teens charged for wild pursuit</title> 
+</TOPICS> 
+<DOCID type="str">695202049810</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Teens charged for wild pursuit</TITLE> 
 </root>

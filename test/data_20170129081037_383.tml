@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jeff Gordon, Max Angelelli and the Taylor brothers are halfway home to a Rolex 24 at Daytona championship</content> 
-<sequenceId type="str">695203150813</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Jeff Gordon, Max Angelelli and the Taylor brothers are halfway home to a Rolex 24 at Daytona championship</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: NASCAR news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:14Z</estimatedPublishedDate> 
-<title type="str">The Latest: Jeff Gordon, Taylor Racing Halfway Home to Rolex</title> 
+</TOPICS> 
+<DOCID type="str">695203150813</DOCID> 
+<DCT type="str">2017-01-29T08:19:14Z</DCT> 
+<TITLE type="str">The Latest: Jeff Gordon, Taylor Racing Halfway Home to Rolex</TITLE> 
 </root>

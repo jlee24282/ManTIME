@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi, Jan 29 (PTI) The US administration in 1982 was deeply concerned over Pakistan’s clandestine nuclear programme and possibility of it leaking nuclear components to other countries but President Zia-ul-Haq dismissed such apprehension and conveyed that India was behind such “insidious” campaign to defame Islamabad, as per declassified CIA documents. 
+<TEXT type="str">New Delhi, Jan 29 (PTI) The US administration in 1982 was deeply concerned over Pakistan’s clandestine nuclear programme and possibility of it leaking nuclear components to other countries but President Zia-ul-Haq dismissed such apprehension and conveyed that India was behind such “insidious” campaign to defame Islamabad, as per declassified CIA documents. 
  
 In a letter to the then President Ronald Reagan, Zia said Pakistan neither possesses nor has transmitted any designs or specifications of nuclear components to anyone and that it is unthinkable for the country to become instrumental in the spread of atomic weapons. 
  
@@ -20,9 +20,8 @@ In clear reference to India, Zia said Pakistan’s nuclear programme had been �
  
 Zia said matters of common concerns including “susceptibilities of our Indian neighbour” were addressed. 
  
-This is published unedited from the PTI feed.</content> 
-<sequenceId type="str">695196505167</sequenceId> 
-<topics type="list"> 
+This is published unedited from the PTI feed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -39,7 +38,8 @@ This is published unedited from the PTI feed.</content>
 <group type="str">Society</group> 
 <name type="str">US security news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:16Z</estimatedPublishedDate> 
-<title type="str">Zia-ul-Haq assured Reagan Pak wouldn’t leak nuke-tech: CIA</title> 
+</TOPICS> 
+<DOCID type="str">695196505167</DOCID> 
+<DCT type="str">2017-01-29T07:24:16Z</DCT> 
+<TITLE type="str">Zia-ul-Haq assured Reagan Pak wouldn’t leak nuke-tech: CIA</TITLE> 
 </root>

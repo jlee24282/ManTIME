@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Massachusetts State Police are on-scene of a fatal crash on Route 495 northbound in Norton. 
+<TEXT type="str">Massachusetts State Police are on-scene of a fatal crash on Route 495 northbound in Norton. 
  
 Preliminary investigation by troopers from the Foxborough Barracks indicates that a 2004 GMC Sierra pickup truck being operated northbound by a 52-year-old Franklin man went out of control and rolled over north of Exit 10. 
  
@@ -34,10 +34,10 @@ At 6:06 a.m. today Massachusetts State Troopers responded to a two-vehicle crash
  
 September 8, 2015 
  
-In &apos;Car&apos;</content> 
-<sequenceId type="str">695194883456</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:58Z</estimatedPublishedDate> 
-<title type="str">State Police Investigating Fatal Crash in Norton</title> 
+In &apos;Car&apos;</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695194883456</DOCID> 
+<DCT type="str">2017-01-29T07:18:58Z</DCT> 
+<TITLE type="str">State Police Investigating Fatal Crash in Norton</TITLE> 
 </root>

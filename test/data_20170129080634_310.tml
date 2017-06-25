@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Historic Crests 
+<TEXT type="str">Historic Crests 
 (1) 19.76 ft on 03/16/1929 
 (2) 19.40 ft on 03/28/1916 
 (3) 18.82 ft on 02/25/1922 
@@ -30,10 +30,10 @@ Show More Recent Crests
 (P) : Preliminary values subject to further review. 
 
 Low Water Records 
-Currently none available.</content> 
-<sequenceId type="str">695194132380</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:07:32Z</estimatedPublishedDate> 
-<title type="str">Action (11.51 ft) - Observation - FEEI2 - Pecatonica River at Freeport (Illinois)</title> 
+Currently none available.</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695194132380</DOCID> 
+<DCT type="str">2017-01-29T07:07:32Z</DCT> 
+<TITLE type="str">Action (11.51 ft) - Observation - FEEI2 - Pecatonica River at Freeport (Illinois)</TITLE> 
 </root>

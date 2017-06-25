@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A former Russian KGB and FSB general believed to have been the source of the information contained in the infamous “golden showers” dossier on President Donald Trump compiled by former British spy Christopher Steele, was found dead in mysterious circumstance in his car on Boxing Day, December 26. 
+<TEXT type="str">A former Russian KGB and FSB general believed to have been the source of the information contained in the infamous “golden showers” dossier on President Donald Trump compiled by former British spy Christopher Steele, was found dead in mysterious circumstance in his car on Boxing Day, December 26. 
  
 The death of Oleg Erovinkin, former senior KGB and FSB officer, has sparked claims that he was murdered by the Kremlin because of his alleged involvement in the compilation of the Trump dossier, the Telegraph  reports . 
  
@@ -66,9 +66,8 @@ In a recent blog post, Christo Grocev, a Bulgarian expert in Russians security i
   
 But, according to the Telegraph , some experts in Russian security issues have expressed skepticism about the theory that Erovinkin was murdered by the Russian state to cover up the truth about the Trump dossier. According to some experts, it is unlikely that Putin would have ordered the assassination of a senior official in the circumstances and manner that rumors suggested. 
  
-[Featured Image by Alexander Nemenov/AP Images]</content> 
-<sequenceId type="str">695197200653</sequenceId> 
-<topics type="list"> 
+[Featured Image by Alexander Nemenov/AP Images]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -81,7 +80,8 @@ But, according to the Telegraph , some experts in Russian security issues have e
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:11Z</estimatedPublishedDate> 
-<title type="str">Former KGB Chief Oleg Erovinkin Who Allegedly Helped To Compile &apos;Golden Shower&apos; Dossier On Donald Trump Found Dead</title> 
+</TOPICS> 
+<DOCID type="str">695197200653</DOCID> 
+<DCT type="str">2017-01-29T07:30:11Z</DCT> 
+<TITLE type="str">Former KGB Chief Oleg Erovinkin Who Allegedly Helped To Compile &apos;Golden Shower&apos; Dossier On Donald Trump Found Dead</TITLE> 
 </root>

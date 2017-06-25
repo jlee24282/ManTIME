@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The US President said that the executive order is issued to &quot;keep radical Islamic terrorists out of the US&quot;. US President Donald Trump on Friday signed an executive order hardening his stance on immigrants and refugees coming into the country. The order issued a ban on the entry of immigrants from seven Muslim-majority nations and put restrictions on the entry of Syrian refugees into the US. The Republican President said that the move is issued for “national security” and to “keep radical Islamic terrorists out of the US.” “I’m establishing new vetting measures to keep radical Islamic terrorists out of the United States of America. We don’t want them here,” Trump said after he signed the executive order.
+<TEXT type="str">The US President said that the executive order is issued to &quot;keep radical Islamic terrorists out of the US&quot;. US President Donald Trump on Friday signed an executive order hardening his stance on immigrants and refugees coming into the country. The order issued a ban on the entry of immigrants from seven Muslim-majority nations and put restrictions on the entry of Syrian refugees into the US. The Republican President said that the move is issued for “national security” and to “keep radical Islamic terrorists out of the US.” “I’m establishing new vetting measures to keep radical Islamic terrorists out of the United States of America. We don’t want them here,” Trump said after he signed the executive order.
 
 What does the order say?
 
@@ -36,9 +36,8 @@ Aravinda Pillalamarri, the inspiration for movie starring Shah Rukh Khan “Swad
 
 Homeland Security says it will comply with judicial orders The US Department of Homeland Security said on Saturday that it would “comply with judicial orders” but Trump’s executive action restricting entry into the country from seven Muslim-majority nations remains in place. “These individuals went through enhanced security screenings and are being processed for entry to the United States, consistent with our immigration laws and judicial orders,” the Homeland Security statement said.
 
-(With inputs from AP, Reuters and PTI)</content> 
-<sequenceId type="str">695199215733</sequenceId> 
-<topics type="list"> 
+(With inputs from AP, Reuters and PTI)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -51,7 +50,8 @@ Homeland Security says it will comply with judicial orders The US Department of 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:00Z</estimatedPublishedDate> 
-<title type="str">Donald Trump’s executive order on immigration and its consequences so far, explained</title> 
+</TOPICS> 
+<DOCID type="str">695199215733</DOCID> 
+<DCT type="str">2017-01-29T07:46:00Z</DCT> 
+<TITLE type="str">Donald Trump’s executive order on immigration and its consequences so far, explained</TITLE> 
 </root>

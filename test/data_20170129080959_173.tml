@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DUBAI: Dubai Culture and Arts Authority, Dubai Culture, has opened an exhibition dedicated to the Emirate’s postal history, entitled ‘Emirates to the World: Postal History from 1909 to Unification’. It is the first exhibition hosted by the Etihad Museum since it opened its doors to the public, and runs until 30th April 2017 with a range of related events and activities. 
+<TEXT type="str">DUBAI: Dubai Culture and Arts Authority, Dubai Culture, has opened an exhibition dedicated to the Emirate’s postal history, entitled ‘Emirates to the World: Postal History from 1909 to Unification’. It is the first exhibition hosted by the Etihad Museum since it opened its doors to the public, and runs until 30th April 2017 with a range of related events and activities. 
 
 The exhibition tells the story of the postal services in the Emirates from their earliest days through to the UAE unification in 1971, which will be showcased through stamps, letters, artworks and archives found in the extraordinary private collection of Abdulla Khoory, President of Emirates Philatelic Association. 
 
@@ -10,9 +10,8 @@ Speaking on the occasion, Abdullah Mohammed Al Falasi, Director of Etihad Museum
 
 Al Falasi added, &quot;The evolution of the UAE’s postal services reflects the story of the nation’s growth, in which communication played a vital role by strengthening the country’s internal discourse while also connecting it with the wider world. Dubai Culture applauds Mr. Khoory for preserving this precious part of UAE history, and is delighted to now be able to share it with visitors.&quot; 
  
-WAM</content> 
-<sequenceId type="str">695201755922</sequenceId> 
-<topics type="list"> 
+WAM</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -29,7 +28,8 @@ WAM</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:31Z</estimatedPublishedDate> 
-<title type="str">Etihad Museum hosts UAE Postal History Exhibition</title> 
+</TOPICS> 
+<DOCID type="str">695201755922</DOCID> 
+<DCT type="str">2017-01-29T08:08:31Z</DCT> 
+<TITLE type="str">Etihad Museum hosts UAE Postal History Exhibition</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK — A federal judge stopped the deportations of immigrant travelers detained at U.S. airports Saturday, partially halting enforcement of President Trump&apos;s executive order banning immigrants of seven Muslim nations from coming into the United States. Saturday night&apos;s ruling came in response to a challenge filed on behalf of two Iraqi men detained Friday night at JFK International Airport and impacted up to 200 others held across the country. 
+<TEXT type="str">NEW YORK — A federal judge stopped the deportations of immigrant travelers detained at U.S. airports Saturday, partially halting enforcement of President Trump&apos;s executive order banning immigrants of seven Muslim nations from coming into the United States. Saturday night&apos;s ruling came in response to a challenge filed on behalf of two Iraqi men detained Friday night at JFK International Airport and impacted up to 200 others held across the country. 
  
 An unknown number of others intending to come back to the United States are trapped in other countries, unable to board planes. 
 
@@ -130,9 +130,8 @@ John Santore, Marc Torrence, Simone Wilson, Alison Bauter, Jonah Meadows, and Co
  
 Main Image via Nydia Velazquez 
  
-Photo Credit: Terminal 4 at JFK by lemoncat1 via Flickr/Creative Commons</content> 
-<sequenceId type="str">695200168653</sequenceId> 
-<topics type="list"> 
+Photo Credit: Terminal 4 at JFK by lemoncat1 via Flickr/Creative Commons</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -161,7 +160,8 @@ Photo Credit: Terminal 4 at JFK by lemoncat1 via Flickr/Creative Commons</conten
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T16:53:20Z</estimatedPublishedDate> 
-<title type="str">U.S. Judges Halt Trump&apos;s Deportations Of Dozens Held At Airports</title> 
+</TOPICS> 
+<DOCID type="str">695200168653</DOCID> 
+<DCT type="str">2017-01-28T16:53:20Z</DCT> 
+<TITLE type="str">U.S. Judges Halt Trump&apos;s Deportations Of Dozens Held At Airports</TITLE> 
 </root>

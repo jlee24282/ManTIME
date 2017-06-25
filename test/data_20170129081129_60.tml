@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Representational image (PHOTO: ) 
+<TEXT type="str">Representational image (PHOTO: ) 
     
 India&apos;s first dedicated space observatory, ASTROSAT, has captured the rare phenomenon of a small, 6-billion-year-old &quot;vampire&quot; star &quot;preying&quot; on a bigger celestial body. 
 
@@ -12,9 +12,8 @@ Scientists say the smaller star, also called a &quot;blue straggler&quot;, feeds
 
 Though this phenomenon is not unheard of, the observation of the entire process through the telescope will provide insights that will help scientists in studying the formation of &apos;blue straggler&apos; stars. 
 
-This discovery also highlights the capabilities of the telescopes on ASTROSAT, a dedicated space observatory satellite launched in September 2</content> 
-<sequenceId type="str">695204655430</sequenceId> 
-<topics type="list"> 
+This discovery also highlights the capabilities of the telescopes on ASTROSAT, a dedicated space observatory satellite launched in September 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Space science news</name> 
@@ -27,7 +26,8 @@ This discovery also highlights the capabilities of the telescopes on ASTROSAT, a
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:03Z</estimatedPublishedDate> 
-<title type="str">&apos;Vampire&apos; star caught in the act by Indian space observatory</title> 
+</TOPICS> 
+<DOCID type="str">695204655430</DOCID> 
+<DCT type="str">2017-01-29T08:31:03Z</DCT> 
+<TITLE type="str">&apos;Vampire&apos; star caught in the act by Indian space observatory</TITLE> 
 </root>

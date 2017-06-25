@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ramallah - Arab Today   
+<TEXT type="str">Ramallah - Arab Today   
 Prime Minister Rami Hamdallah urged both the Apple and Google companies to include all Palestinian communities in the West Bank in their online maps. 
  
 “It is baffling that, while Palestinians in Area C can´t even find their own community on either maps, Israeli settlers can get driving directions to cross the West Bank in its entirety to get from one illegal settlement to another.” 
@@ -11,9 +11,8 @@ A number of publications and independent sources have published detailed maps th
  
 “Area C”, as defined by the 1995 Oslo Agreements, covers some 64% of the West Bank. According to the Palestinian Central Bureau of Statistics, nearly 350,000 Palestinians reside in 532 communities in “Area C” across the West Bank. 
  
-Source</content> 
-<sequenceId type="str">695198988499</sequenceId> 
-<topics type="list"> 
+Source</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -34,7 +33,8 @@ Source</content>
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:28Z</estimatedPublishedDate> 
-<title type="str">Hamdallah urges Apple and Google to “include…</title> 
+</TOPICS> 
+<DOCID type="str">695198988499</DOCID> 
+<DCT type="str">2017-01-29T07:48:28Z</DCT> 
+<TITLE type="str">Hamdallah urges Apple and Google to “include…</TITLE> 
 </root>

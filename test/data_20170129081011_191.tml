@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Vodafone Fijian 7s fought gallantly despite losing 26-5 to South Africa in the Wellington 7s final tonight . 
+<TEXT type="str">The Vodafone Fijian 7s fought gallantly despite losing 26-5 to South Africa in the Wellington 7s final tonight . 
  
 The Vodafone Fijian started well when winger Joeli Lutumailagi sped past Seabelo Senatla to score in the corner with Osea Kolinisau missing the conversion. 
  
@@ -21,9 +21,8 @@ Challenge Cup quarters- Kenya 24-5 Russia, USA 19-14, Wales 29-7 PNG, Australia 
  
   
  
- </content> 
-<sequenceId type="str">695202277538</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -48,7 +47,8 @@ Challenge Cup quarters- Kenya 24-5 Russia, USA 19-14, Wales 29-7 PNG, Australia 
 <group type="str">Regional</group> 
 <name type="str">South Pacific Islands news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:50Z</estimatedPublishedDate> 
-<title type="str">Fiji Fights Gallantly Despite Losing To South Africa</title> 
+</TOPICS> 
+<DOCID type="str">695202277538</DOCID> 
+<DCT type="str">2017-01-29T07:56:50Z</DCT> 
+<TITLE type="str">Fiji Fights Gallantly Despite Losing To South Africa</TITLE> 
 </root>

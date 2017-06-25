@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US Vice President Mike Pence told a crowd gathered in Washington for the annual March for Life rally that ending taxpayer-funded abortion is an important priority of President Donald Trump. 
+<TEXT type="str">US Vice President Mike Pence told a crowd gathered in Washington for the annual March for Life rally that ending taxpayer-funded abortion is an important priority of President Donald Trump. 
  
 After more than four decades, the March for Life has become a familiar ritual in Washington. No matter the weather, thousands of abortion opponents gather every year on the National Mall, many wearing matching hats or scarves from their school or church groups, and listen to speeches from social conservatives in Congress before marching to the Supreme Court. 
   
@@ -53,9 +53,8 @@ Americans remain deeply divided on abortion. The latest Gallup survey, released 
 Ilyse Hogue, president of NARAL Pro-Choice America, said that poll shows why abortion-rights supporters should not despair.
 
 &quot;The vast majority of Americans support Roe v. Wade and support the legal right to abortion,&quot; Hogue said. 
-The March for Life, however, is running ads arguing that a majority of Americans support some restrictions on abortion and do not believe it should be funded by tax dollars.</content> 
-<sequenceId type="str">695197794627</sequenceId> 
-<topics type="list"> 
+The March for Life, however, is running ads arguing that a majority of Americans support some restrictions on abortion and do not believe it should be funded by tax dollars.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Washington DC news</name> 
@@ -68,7 +67,8 @@ The March for Life, however, is running ads arguing that a majority of Americans
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:38Z</estimatedPublishedDate> 
-<title type="str">Pence takes part in anti-abortion rally in DC</title> 
+</TOPICS> 
+<DOCID type="str">695197794627</DOCID> 
+<DCT type="str">2017-01-29T07:39:38Z</DCT> 
+<TITLE type="str">Pence takes part in anti-abortion rally in DC</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">STACY Lewis and Lexi Thompson are the 54 hole leaders at the Pure Silk Bahamas LPGA Classic on Paradise Island, the opening event of the 2017 LPGA season. 
+<TEXT type="str">STACY Lewis and Lexi Thompson are the 54 hole leaders at the Pure Silk Bahamas LPGA Classic on Paradise Island, the opening event of the 2017 LPGA season. 
  
 Lewis, a former world number one and two time runner-up in the event in four starts, reeled off a ten under par 63 to catch Thompson who had begun the round three shots ahead of Lewis. 
  
@@ -18,9 +18,8 @@ That quartet are five shots ahead of the next best player and so the title appea
  
 Sarah Jane Smith was the only of the two Australians to make the cut and is in a share of 69th position as the event heads into tomorrow’s final round. 
  
-DENNISE HUTTON SHOWS YOU THE CORECT WAY TO UE AN IMPACT BAG</content> 
-<sequenceId type="str">695198988711</sequenceId> 
-<topics type="list"> 
+DENNISE HUTTON SHOWS YOU THE CORECT WAY TO UE AN IMPACT BAG</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -29,7 +28,8 @@ DENNISE HUTTON SHOWS YOU THE CORECT WAY TO UE AN IMPACT BAG</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: golf news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:28Z</estimatedPublishedDate> 
-<title type="str">Sunday shootout awaits at LPGA Bahamas Classic</title> 
+</TOPICS> 
+<DOCID type="str">695198988711</DOCID> 
+<DCT type="str">2017-01-29T07:48:28Z</DCT> 
+<TITLE type="str">Sunday shootout awaits at LPGA Bahamas Classic</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">There is a little exchange in the old Clint Eastwood film Coogan’s Bluff, where Arizona cop Coogan asks a New York taxi driver, “How many stores called Bloomingdales are there in this town?” “One. Why?” asks the taxi driver.
+<TEXT type="str">There is a little exchange in the old Clint Eastwood film Coogan’s Bluff, where Arizona cop Coogan asks a New York taxi driver, “How many stores called Bloomingdales are there in this town?” “One. Why?” asks the taxi driver.
 
 “We went past it twice,” says Coogan. 
 
@@ -26,9 +26,8 @@ Even I, though, had to tip my hat to a woman I knew briefly in the UK. When I wa
 
 Election time? This guy has his finger on the pulse – and that pulse is pretty weak, he will tell you. 
 
-Ha n g on a minute: didn’t we just pass the Eiffel Towe r ? Wh a t ’s going on here?</content> 
-<sequenceId type="str">695194924920</sequenceId> 
-<topics type="list"> 
+Ha n g on a minute: didn’t we just pass the Eiffel Towe r ? Wh a t ’s going on here?</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -41,7 +40,8 @@ Ha n g on a minute: didn’t we just pass the Eiffel Towe r ? Wh a t ’s going 
 <group type="str">Regional</group> 
 <name type="str">Trinidad and Tobago news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:21Z</estimatedPublishedDate> 
-<title type="str">Time and taxis</title> 
+</TOPICS> 
+<DOCID type="str">695194924920</DOCID> 
+<DCT type="str">2017-01-29T07:19:21Z</DCT> 
+<TITLE type="str">Time and taxis</TITLE> 
 </root>

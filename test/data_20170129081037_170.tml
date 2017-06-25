@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695202961603</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
@@ -31,7 +30,8 @@
 <group type="str">Business</group> 
 <name type="str">Job markets news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:01Z</estimatedPublishedDate> 
-<title type="str">Trump\&apos;s US-Mexico border wall could lead to loss of jobs in LA, expert says</title> 
+</TOPICS> 
+<DOCID type="str">695202961603</DOCID> 
+<DCT type="str">2017-01-29T08:18:01Z</DCT> 
+<TITLE type="str">Trump\&apos;s US-Mexico border wall could lead to loss of jobs in LA, expert says</TITLE> 
 </root>

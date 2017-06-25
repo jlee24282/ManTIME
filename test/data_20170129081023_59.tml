@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">HOUSTON — Projected starters and key players for the Super Bowl at Houston: 
+<TEXT type="str">HOUSTON — Projected starters and key players for the Super Bowl at Houston: 
  ATLANTA FALCONS  
 OFFENSE 
  
@@ -100,9 +100,8 @@ Replacing success like Adam Vinatieri could have been thankless, but Gostkowski 
  
 Ryan Allen, P (6), 6-2, 220, 4th season, Louisiana Tech 
  
-Punters tend to come and go in New England. Allen has lasted four years, which says something.</content> 
-<sequenceId type="str">695202508762</sequenceId> 
-<topics type="list"> 
+Punters tend to come and go in New England. Allen has lasted four years, which says something.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -115,7 +114,8 @@ Punters tend to come and go in New England. Allen has lasted four years, which s
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Super Bowl LI: A look at the key players in the Super Bowl</title> 
+</TOPICS> 
+<DOCID type="str">695202508762</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Super Bowl LI: A look at the key players in the Super Bowl</TITLE> 
 </root>

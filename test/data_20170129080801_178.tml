@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sputnik News 
+<TEXT type="str">Sputnik News 
 
 01:04 29.01.2017(updated 02:24 29.01.2017) 
 
@@ -16,14 +16,14 @@ He has called Daesh &quot;pure evil&quot; on more than one occasion.
 
 Trump has signed a raft of other executive orders in the past few days, including a controversial ban on refugees entering the US and a temporary ban on allowing individuals from seven mostly Middle Eastern nations, even some legal residents, to enter the US. 
 
-© Sputnik</content> 
-<sequenceId type="str">695197067680</sequenceId> 
-<topics type="list"> 
+© Sputnik</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:34Z</estimatedPublishedDate> 
-<title type="str">Trump Orders DOD to Send Plan to Defeat Daesh</title> 
+</TOPICS> 
+<DOCID type="str">695197067680</DOCID> 
+<DCT type="str">2017-01-29T07:34:34Z</DCT> 
+<TITLE type="str">Trump Orders DOD to Send Plan to Defeat Daesh</TITLE> 
 </root>

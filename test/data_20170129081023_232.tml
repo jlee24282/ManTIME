@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Marker Test Logo 
+<TEXT type="str">Marker Test Logo 
    
 “The partnership with Atlantic Biotech provides for a very unique opportunity for both companies, beginning with the criminal justice markets in Florida and Tennessee,” said Marker Test Chief Executive Officer Kim Christensen. 
    
@@ -28,14 +28,14 @@ For more information about Atlantic Biotech, visit http://www.atlanticbiotech.co
  
 ### 
   
-Share article on social media or email</content> 
-<sequenceId type="str">695202647729</sequenceId> 
-<topics type="list"> 
+Share article on social media or email</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Biotech news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Marker Test Diagnostics Enters Into Partnership with Atlantic Biotech Labs to Distribute UR Code™ Product</title> 
+</TOPICS> 
+<DOCID type="str">695202647729</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Marker Test Diagnostics Enters Into Partnership with Atlantic Biotech Labs to Distribute UR Code™ Product</TITLE> 
 </root>

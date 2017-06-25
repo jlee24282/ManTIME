@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The state of California has begun process to secede from the United States. 
+<TEXT type="str">The state of California has begun process to secede from the United States. 
  
 Reports emerged at the weekend that the proposal has been submitted to the Secretary of State’s Office. 
  
@@ -22,9 +22,8 @@ If approved, it calls for scheduling a vote in 2019 to ask voters, “Should Cal
  
 The campaign must submit the valid voter signatures by July 25, 2017 to qualify for the ballot. 
  
-Top Stories</content> 
-<sequenceId type="str">695194355223</sequenceId> 
-<topics type="list"> 
+Top Stories</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -33,7 +32,8 @@ Top Stories</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:05:43Z</estimatedPublishedDate> 
-<title type="str">California begins process to leave United States over Trump&apos;s presidency</title> 
+</TOPICS> 
+<DOCID type="str">695194355223</DOCID> 
+<DCT type="str">2017-01-29T07:05:43Z</DCT> 
+<TITLE type="str">California begins process to leave United States over Trump&apos;s presidency</TITLE> 
 </root>

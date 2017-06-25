@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A FEDERAL JUDGE issued an emergency order last night temporarily barring the US from deporting people from nations subject to President Donald Trump’s travel ban, saying travellers who had been detained had a strong argument their legal rights had been violated.
+<TEXT type="str">A FEDERAL JUDGE issued an emergency order last night temporarily barring the US from deporting people from nations subject to President Donald Trump’s travel ban, saying travellers who had been detained had a strong argument their legal rights had been violated.
 
 US District Judge Ann Donnelly in New York issued the emergency order after lawyers for the American Civil Liberties Union (ACLU) filed a court petition on behalf of people from seven predominantly Muslim nations who were detained at airports across the country as the ban took effect.
 
@@ -78,9 +78,8 @@ Trump’s order drew support from some Republican lawmakers who have urged more 
 
 It is unclear how many people would be immediately impacted by the non-refugee travel ban. According to the statistics maintained by the Homeland Security Department, about 17,000 students from the seven designated countries were allowed into the US for the 2015-2016 school year. In 2015 more than 86,000 people from those countries arrived in the US on other, non-immigrant visas and more than 52,000 others became legal permanent residents.
 
-Last year the US resettled 85,000 people displaced by war, political oppression, hunger and religious prejudice, including more than 12,000 Syrians. Before leaving office President Barack Obama announced the US would accept 110,000 refugees in the coming year, but Trump’s order cut that by more than half to 5</content> 
-<sequenceId type="str">695198419934</sequenceId> 
-<topics type="list"> 
+Last year the US resettled 85,000 people displaced by war, political oppression, hunger and religious prejudice, including more than 12,000 Syrians. Before leaving office President Barack Obama announced the US would accept 110,000 refugees in the coming year, but Trump’s order cut that by more than half to 5</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -105,7 +104,8 @@ Last year the US resettled 85,000 people displaced by war, political oppression,
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:30Z</estimatedPublishedDate> 
-<title type="str">Setback for Trump as US judge stops deportations under refugee ban</title> 
+</TOPICS> 
+<DOCID type="str">695198419934</DOCID> 
+<DCT type="str">2017-01-29T07:43:30Z</DCT> 
+<TITLE type="str">Setback for Trump as US judge stops deportations under refugee ban</TITLE> 
 </root>

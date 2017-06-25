@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tweet on Twitter 
+<TEXT type="str">Tweet on Twitter 
       
 Burkina Faso scored twice in the closing stages to beat Tunisia 2-0 Saturday and become the first qualifiers for the Africa Cup of Nations semi-finals. 
  
@@ -15,9 +15,8 @@ Jibril .O
 Facebook 
   
 Twitter 
-      Previous article Senegalese police arrest ex boss of Gambia’s Prisons</content> 
-<sequenceId type="str">695203515229</sequenceId> 
-<topics type="list"> 
+      Previous article Senegalese police arrest ex boss of Gambia’s Prisons</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -34,7 +33,8 @@ Twitter
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:13Z</estimatedPublishedDate> 
-<title type="str">Burkina Faso qualify for Africa Cup semi-finals</title> 
+</TOPICS> 
+<DOCID type="str">695203515229</DOCID> 
+<DCT type="str">2017-01-29T08:16:13Z</DCT> 
+<TITLE type="str">Burkina Faso qualify for Africa Cup semi-finals</TITLE> 
 </root>

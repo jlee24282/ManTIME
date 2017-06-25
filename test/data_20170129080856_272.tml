@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Bloomberg) -- President Donald Trump and Russian President Vladimir Putin pledged cooperation in fighting the Islamic State, the two sides said, as the pair seek to reverse tension after Russia’s invasion of Ukraine, its support for Syria, and allegations that Russian hackers sought to sway the U.S. election. 
+<TEXT type="str">(Bloomberg) -- President Donald Trump and Russian President Vladimir Putin pledged cooperation in fighting the Islamic State, the two sides said, as the pair seek to reverse tension after Russia’s invasion of Ukraine, its support for Syria, and allegations that Russian hackers sought to sway the U.S. election. 
    
 “The positive call was a significant start to improving the relationship between the United States and Russia that is in need of repair,” the White House said in a statement. Putin told Trump he “sees the U.S. as a most important partner in the fight against international terrorism,” according to a readout of the call from the Kremlin that described the conversation as “positive and businesslike.” 
    
@@ -44,9 +44,8 @@ There was no indication that Putin and Trump discussed Russian attempts to inter
    
 Trump has denied the allegations in the dossier, which was subsequently published by the website BuzzFeed, and the Kremlin has said it didn’t spy on the president during his trips to Russia as a private citizen. 
    
-In his call with Turnbull, Trump vowed to uphold an agreement with Australia to resettle asylum seekers held in Pacific island camps , according to an Australian government official. About 1,600 asylum seekers who tried to reach Australia by boat are being detained on Manus Island and Nauru, with many potentially eligible to be resettled in the U.S. under an agreement reached last year with the Obama administration.</content> 
-<sequenceId type="str">695199405717</sequenceId> 
-<topics type="list"> 
+In his call with Turnbull, Trump vowed to uphold an agreement with Australia to resettle asylum seekers held in Pacific island camps , according to an Australian government official. About 1,600 asylum seekers who tried to reach Australia by boat are being detained on Manus Island and Nauru, with many potentially eligible to be resettled in the U.S. under an agreement reached last year with the Obama administration.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -75,7 +74,8 @@ In his call with Turnbull, Trump vowed to uphold an agreement with Australia to 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:09Z</estimatedPublishedDate> 
-<title type="str">Trump, Putin Use First Formal Phone Call To Seek Better Ties</title> 
+</TOPICS> 
+<DOCID type="str">695199405717</DOCID> 
+<DCT type="str">2017-01-29T07:51:09Z</DCT> 
+<TITLE type="str">Trump, Putin Use First Formal Phone Call To Seek Better Ties</TITLE> 
 </root>

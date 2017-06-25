@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">We all know that we are what we eat, but more and more evidence shows our food choices seriously affect our planet, too. If you&apos;ve watched Cowspiracy , heard about Veganuary or even visited Clapham Common station , you&apos;ll be aware that eating vegan may be the best thing you can do for the environment. One report has even claimed that the meat industry could be responsible for 51% of global greenhouse gas emissions. But what are you supposed to do if you want to be good to the planet but can&apos;t face a life without cheeseburgers? 
+<TEXT type="str">We all know that we are what we eat, but more and more evidence shows our food choices seriously affect our planet, too. If you&apos;ve watched Cowspiracy , heard about Veganuary or even visited Clapham Common station , you&apos;ll be aware that eating vegan may be the best thing you can do for the environment. One report has even claimed that the meat industry could be responsible for 51% of global greenhouse gas emissions. But what are you supposed to do if you want to be good to the planet but can&apos;t face a life without cheeseburgers? 
  
 The first and most important thing is to really consider where our food comes from. Every day, we make hundreds of small choices about what we eat and each one has a huge effect on the environment. Before it even reaches our plate, food is raised or grown somewhere in the world, then clipped, shipped, refrigerated, processed, packaged, trucked, stored, sold and cooked. It might feel like the environmental impact of the food industry is beyond our control, but we can all be more mindful of what we put in our mouths and make it better not just for ourselves, but for the entire planet. 
   
@@ -110,9 +110,8 @@ This London Bar Has Launched A Harry Potter -Inspired Cocktail
  
 This Sticker Is The Answer To All Our Unripe Avocados 
  
-GREAT News For Prosecco Lovers</content> 
-<sequenceId type="str">695203708563</sequenceId> 
-<topics type="list"> 
+GREAT News For Prosecco Lovers</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -129,7 +128,8 @@ GREAT News For Prosecco Lovers</content>
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: natural health news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:00Z</estimatedPublishedDate> 
-<title type="str">How To Eat Sustainably (Without Going Vegan)</title> 
+</TOPICS> 
+<DOCID type="str">695203708563</DOCID> 
+<DCT type="str">2017-01-29T07:58:00Z</DCT> 
+<TITLE type="str">How To Eat Sustainably (Without Going Vegan)</TITLE> 
 </root>

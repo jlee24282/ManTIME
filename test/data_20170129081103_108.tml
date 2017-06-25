@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">RED HALVERSON INVITATIONAL TOURNAMENT 
+<TEXT type="str">RED HALVERSON INVITATIONAL TOURNAMENT 
    
 Snake River’s Destin Summers (106 pounds) and Blackfoot’s Nathan Sargent (195) won their respective weight classes Saturday in the final round of the Red Halverson Invitational tournament at Minico High School. Sargent helped the Broncos to a fifth-place finish, and Summers’ title led the Panthers to seventh place. 
     
@@ -181,9 +181,8 @@ North Gem 5 13 14 9 — 41
    
 Clark County — Paige Shenton 5, Jonie Grover 10, Gabby Hernandez 5, Brandi Stone 7, Abby Grover 1. 
    
-North Gem — Edie Christensen 17, KayLee Simons 8, Cassidy Corta 4, Camy Thompson 3, Jenna Devine 3, Harlee Davids 2, Tearsy Freeman 2, Claire Van Pelt 1, Kim Neese 1.</content> 
-<sequenceId type="str">695203797674</sequenceId> 
-<topics type="list"> 
+North Gem — Edie Christensen 17, KayLee Simons 8, Cassidy Corta 4, Camy Thompson 3, Jenna Devine 3, Harlee Davids 2, Tearsy Freeman 2, Claire Van Pelt 1, Kim Neese 1.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -192,7 +191,8 @@ North Gem — Edie Christensen 17, KayLee Simons 8, Cassidy Corta 4, Camy Thomps
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:22:00Z</estimatedPublishedDate> 
-<title type="str">Prep roundup 1-28-17: Snake&apos;s Summers, Broncos&apos; Sargent win at Halverson</title> 
+</TOPICS> 
+<DOCID type="str">695203797674</DOCID> 
+<DCT type="str">2017-01-29T06:22:00Z</DCT> 
+<TITLE type="str">Prep roundup 1-28-17: Snake&apos;s Summers, Broncos&apos; Sargent win at Halverson</TITLE> 
 </root>

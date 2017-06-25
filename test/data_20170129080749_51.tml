@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tofarati Ige 
+<TEXT type="str">Tofarati Ige 
  
 Background 
  
@@ -57,9 +57,8 @@ Contact:  [email protected]
   
 
 Source link 
-   Related</content> 
-<sequenceId type="str">695196526148</sequenceId> 
-<topics type="list"> 
+   Related</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
@@ -68,7 +67,8 @@ Source link
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:37Z</estimatedPublishedDate> 
-<title type="str">An actress must be ready to undress anywhere — Biodun Okeowo aka Omo Butty – Latest news Nigeria</title> 
+</TOPICS> 
+<DOCID type="str">695196526148</DOCID> 
+<DCT type="str">2017-01-29T07:29:37Z</DCT> 
+<TITLE type="str">An actress must be ready to undress anywhere — Biodun Okeowo aka Omo Butty – Latest news Nigeria</TITLE> 
 </root>

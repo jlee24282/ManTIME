@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FOR MOST of the year, the hoteliers are the ones pouring the beers, wiping the bar down and staying behind after closing time. 
+<TEXT type="str">FOR MOST of the year, the hoteliers are the ones pouring the beers, wiping the bar down and staying behind after closing time. 
 
 However the tables were turned where turned today when the Clarence River Jockey Club hosted the Clarence Valley AHA Hoteliers Race Day. 
 
@@ -24,9 +24,8 @@ AHA membership liason Mick Grant said a lot of work goes into making the race da
 
 &quot;It&apos;s a day for a bit of camaraderie amongst the hoteliers, as well as a fun day out at the races.&quot; 
 
-Topics</content> 
-<sequenceId type="str">695194539589</sequenceId> 
-<topics type="list"> 
+Topics</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Hospitality industry news</name> 
@@ -35,7 +34,8 @@ Topics</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:24Z</estimatedPublishedDate> 
-<title type="str">Hoteliers enjoy a day at the races</title> 
+</TOPICS> 
+<DOCID type="str">695194539589</DOCID> 
+<DCT type="str">2017-01-29T07:16:24Z</DCT> 
+<TITLE type="str">Hoteliers enjoy a day at the races</TITLE> 
 </root>

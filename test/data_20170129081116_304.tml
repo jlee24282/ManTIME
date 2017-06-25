@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NASA has revealed its new spacesuits for Boeing Starliner astronauts, and the outfits bear a striking resemblance to those seen in Stanley Kubrick&apos;s film 2001: A Space Odyssey. 
+<TEXT type="str">NASA has revealed its new spacesuits for Boeing Starliner astronauts, and the outfits bear a striking resemblance to those seen in Stanley Kubrick&apos;s film 2001: A Space Odyssey. 
  
 Here&apos;s a look at the new suit (via Gizmodo ), which features built-in ventilation, as well as touchscreen-sensitive gloves, cross trainer-style shoes and an improved helmet. 
  Boeing Starliner astronauts, Image credit: NASA / Boeing  
@@ -14,14 +14,14 @@ These new suits replace the much bulkier launch-and-entry suits.
  
 For more on space and Kubrick&apos;s influential film, read up on why 2001: A Space Odyssey is one of the most ambitious movies ever made . 
  
-Alex Osborn is a freelance writer for IGN. You can follow him on  Twitter  and subscribe to his  YouTube  channel.</content> 
-<sequenceId type="str">695204423929</sequenceId> 
-<topics type="list"> 
+Alex Osborn is a freelance writer for IGN. You can follow him on  Twitter  and subscribe to his  YouTube  channel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:45Z</estimatedPublishedDate> 
-<title type="str">NASA Unveils New Starliner Spacesuits</title> 
+</TOPICS> 
+<DOCID type="str">695204423929</DOCID> 
+<DCT type="str">2017-01-29T06:59:45Z</DCT> 
+<TITLE type="str">NASA Unveils New Starliner Spacesuits</TITLE> 
 </root>

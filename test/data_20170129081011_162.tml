@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The body has been sent for post-mortem.</content> 
-<sequenceId type="str">695202235203</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The body has been sent for post-mortem.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:15Z</estimatedPublishedDate> 
-<title type="str">Physical trainer of India Under-19 cricket team found dead in Mumbai hotel room</title> 
+</TOPICS> 
+<DOCID type="str">695202235203</DOCID> 
+<DCT type="str">2017-01-29T08:11:15Z</DCT> 
+<TITLE type="str">Physical trainer of India Under-19 cricket team found dead in Mumbai hotel room</TITLE> 
 </root>

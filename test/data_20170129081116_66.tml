@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A federal judge blocked the deportation on Saturday of dozens of travellers and refugees from seven Muslim-majority nations, stranded at US airports under an order from President Donald Trump, after a lawsuit filed on behalf of two Iraqis with ties to US security forces. 
+<TEXT type="str">A federal judge blocked the deportation on Saturday of dozens of travellers and refugees from seven Muslim-majority nations, stranded at US airports under an order from President Donald Trump, after a lawsuit filed on behalf of two Iraqis with ties to US security forces. 
  
 In the lawsuit filed in federal court in Brooklyn, New York, the two men challenged Trump&apos;s directive on constitutional grounds. The suit said their connections to US forces made them targets in their home country and that the pair had valid visas to enter the United States. 
  
@@ -32,9 +32,8 @@ The next hearing in the case was set for February 10. Supporters of the order sa
  
 Trump&apos;s order does not mention specific religions but Trump said in an interview with the Christian Broadcasting Network on Friday he was acting to help Christians in Syria who were &quot;horribly treated.&quot; Comments like that could come back to haunt the president in litigation over his order, said Hiroshi Motomura, an immigration expert at UCLA School of Law. 
  
-&quot;There were comments during the campaign that focused very much on religion as the target,&quot; Motomura said. &quot;If the record showed that the origins of a particular measure were based on targeting a particular group, that could be challenged in court.&quot;</content> 
-<sequenceId type="str">695204277614</sequenceId> 
-<topics type="list"> 
+&quot;There were comments during the campaign that focused very much on religion as the target,&quot; Motomura said. &quot;If the record showed that the origins of a particular measure were based on targeting a particular group, that could be challenged in court.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -55,7 +54,8 @@ Trump&apos;s order does not mention specific religions but Trump said in an inte
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:00Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s immigration order: Two Iraqis lead legal fight against ban</title> 
+</TOPICS> 
+<DOCID type="str">695204277614</DOCID> 
+<DCT type="str">2017-01-29T08:14:00Z</DCT> 
+<TITLE type="str">Trump&apos;s immigration order: Two Iraqis lead legal fight against ban</TITLE> 
 </root>

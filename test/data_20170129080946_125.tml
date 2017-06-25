@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Brrrrrr … it might be cold here in Carson City, but our wonderful residents are so warm and caring, we can hardly feel the cold. One of our local supermarkets, Smith’s on William Street, must hire only the most fantastic and honest employees. 
+<TEXT type="str">Brrrrrr … it might be cold here in Carson City, but our wonderful residents are so warm and caring, we can hardly feel the cold. One of our local supermarkets, Smith’s on William Street, must hire only the most fantastic and honest employees. 
  
 Here are a few examples: 
  
@@ -14,14 +14,14 @@ Yes, I will continue singing the praises of this wonderful community I live in a
  
 Ceil Jones 
  
-Carson City</content> 
-<sequenceId type="str">695201286728</sequenceId> 
-<topics type="list"> 
+Carson City</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:01Z</estimatedPublishedDate> 
-<title type="str">Cheers &amp; Kudos: Kudos to Smith’s employees for exemplary conduct</title> 
+</TOPICS> 
+<DOCID type="str">695201286728</DOCID> 
+<DCT type="str">2017-01-29T07:19:01Z</DCT> 
+<TITLE type="str">Cheers &amp; Kudos: Kudos to Smith’s employees for exemplary conduct</TITLE> 
 </root>

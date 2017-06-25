@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trending  
+<TEXT type="str">Trending  
   
 1 
  
@@ -20,14 +20,14 @@
  
 5 
  
-   House fire sends one person to the hospital</content> 
-<sequenceId type="str">695204428406</sequenceId> 
-<topics type="list"> 
+   House fire sends one person to the hospital</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:21Z</estimatedPublishedDate> 
-<title type="str">1.27.17 Video- Quad City vs. Wheeling- ECHL hockey</title> 
+</TOPICS> 
+<DOCID type="str">695204428406</DOCID> 
+<DCT type="str">2017-01-29T08:29:21Z</DCT> 
+<TITLE type="str">1.27.17 Video- Quad City vs. Wheeling- ECHL hockey</TITLE> 
 </root>

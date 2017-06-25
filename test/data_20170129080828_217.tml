@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On January 23, Donald Trump signed an executive order fulfilling his campaign promise to stop the Trans-Pacific Partnership (TPP) trade deal. 
+<TEXT type="str">On January 23, Donald Trump signed an executive order fulfilling his campaign promise to stop the Trans-Pacific Partnership (TPP) trade deal. 
  
 Although it was uncertain whether the deal would have been ratified by the US Congress, Trump&apos;s move has finally killed off the controversial deal, which had 12 signatories and proposed to create the world&apos;s largest free trade area, accounting for roughly 40 percent of global GDP.  
  
@@ -34,9 +34,8 @@ In the past, Mexico has seen China as an economic rival for the US import mark
  
 &quot;What is Mexico going to do? One thing, of course, is getting closer to China. (Although) Mexico was one of the last countries to approve the entry of China to the WTO because they saw the threat to Mexican exports of China&apos;s exports to the US. So from Latin America, Mexico was the country that probably had the most controversial stance against China. So, it would be a little bit odd if Mexico takes China&apos;s side.&quot; 
  
-&quot;But, already they have started saying that if Mexico doesn&apos;t trade with its neighbor (the US) after the renegotiation of NAFTA, which would be the logical thing one way or the other, Mexico may turn to China,&quot; Casanova said.</content> 
-<sequenceId type="str">695198065749</sequenceId> 
-<topics type="list"> 
+&quot;But, already they have started saying that if Mexico doesn&apos;t trade with its neighbor (the US) after the renegotiation of NAFTA, which would be the logical thing one way or the other, Mexico may turn to China,&quot; Casanova said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Trade news</name> 
@@ -69,7 +68,8 @@ In the past, Mexico has seen China as an economic rival for the US import mark
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:01Z</estimatedPublishedDate> 
-<title type="str">Free Trade Leader: China Poised to &apos;Fill the Vacuum&apos; After US Kills Off TPP</title> 
+</TOPICS> 
+<DOCID type="str">695198065749</DOCID> 
+<DCT type="str">2017-01-29T07:41:01Z</DCT> 
+<TITLE type="str">Free Trade Leader: China Poised to &apos;Fill the Vacuum&apos; After US Kills Off TPP</TITLE> 
 </root>

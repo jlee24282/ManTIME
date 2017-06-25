@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MEADOWBROOK CHRISTIAN SCHOOL 
+<TEXT type="str">MEADOWBROOK CHRISTIAN SCHOOL 
  
 DISTINGUISHED HONOR ROLL   
  
@@ -470,9 +470,8 @@ Megan Crawford
  
 Taylor Gessner 
  
-Lydia Smith</content> 
-<sequenceId type="str">695196179741</sequenceId> 
-<topics type="list"> 
+Lydia Smith</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -485,7 +484,8 @@ Lydia Smith</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Meadowbrook Christian School second marking period honor roll</title> 
+</TOPICS> 
+<DOCID type="str">695196179741</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Meadowbrook Christian School second marking period honor roll</TITLE> 
 </root>

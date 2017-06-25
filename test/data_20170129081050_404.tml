@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was a glorious night at the Freeman Coliseum in San Antonio Saturday, as the fans that witnessed NXT Takeover: San Antonio saw five very good matches, two title changes and one person from WWE’s main roster crash the party. 
+<TEXT type="str">It was a glorious night at the Freeman Coliseum in San Antonio Saturday, as the fans that witnessed NXT Takeover: San Antonio saw five very good matches, two title changes and one person from WWE’s main roster crash the party. 
 
 Since there were only five matches, I will go through the card in chronological order and give my thoughts on each contest. 
 
@@ -78,9 +78,8 @@ Overall, I thought NXT Takeover: San Antonio was a very good show that exceeded 
 
 As much as NXT seems to be hitting its stride again, the Royal Rumble is Sunday and WrestleMania is fast approaching, which means the brand could lose another crop of stars to the main roster, putting it right back in the position of reloading yet again. 
 
-On the surface, that would be NXT in a precarious position, but if Saturday is any indication, the brain trust at the WWE Performance Center will find a way to keep things moving in a positive direction.</content> 
-<sequenceId type="str">695203598858</sequenceId> 
-<topics type="list"> 
+On the surface, that would be NXT in a precarious position, but if Saturday is any indication, the brain trust at the WWE Performance Center will find a way to keep things moving in a positive direction.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Antonio news</name> 
@@ -97,7 +96,8 @@ On the surface, that would be NXT in a precarious position, but if Saturday is a
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:31Z</estimatedPublishedDate> 
-<title type="str">WWE NXT Takeover: San Antonio results and observations</title> 
+</TOPICS> 
+<DOCID type="str">695203598858</DOCID> 
+<DCT type="str">2017-01-29T07:51:31Z</DCT> 
+<TITLE type="str">WWE NXT Takeover: San Antonio results and observations</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DUBAI, 29th January, 2017 (WAM) -- Dubai Airports and Chinese airlines that operate into Dubai Inter</content> 
-<sequenceId type="str">695204703773</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">DUBAI, 29th January, 2017 (WAM) -- Dubai Airports and Chinese airlines that operate into Dubai Inter</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -27,7 +26,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:18Z</estimatedPublishedDate> 
-<title type="str">Dubai Airports celebrates Chinese New Year</title> 
+</TOPICS> 
+<DOCID type="str">695204703773</DOCID> 
+<DCT type="str">2017-01-29T08:31:18Z</DCT> 
+<TITLE type="str">Dubai Airports celebrates Chinese New Year</TITLE> 
 </root>

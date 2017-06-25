@@ -92,14 +92,14 @@ def main():
             estimatedPublishedDate_tmp = jline['estimatedPublishedDate']
             content_tmp = jline['content']
             jline.clear()
-            jline['sequenceId'] = sequenceID_tmp
-            jline['title'] = title_tmp
-            jline['topics'] = topics_tmp
-            jline['estimatedPublishedDate'] = estimatedPublishedDate_tmp
-            jline['content'] = content_tmp
+            jline['DOCID'] = sequenceID_tmp
+            jline['TITLE'] = title_tmp
+            jline['TOPICS'] = topics_tmp
+            jline['DCT'] = estimatedPublishedDate_tmp
+            jline['TEXT'] = content_tmp
 
 
-            print jline
+            #print jline
             articleInfo = jline
             xml = dicttoxml.dicttoxml(articleInfo)
             xml = xml.replace('><', '> \n<')

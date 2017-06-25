@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">After immigration agents detained two Iraqis on Saturday at New York&apos;s John F. Kennedy International Airport, their lawyers and two U.S. representatives accompanying them tried to cross into a secure area - and were stopped themselves. 
+<TEXT type="str">After immigration agents detained two Iraqis on Saturday at New York&apos;s John F. Kennedy International Airport, their lawyers and two U.S. representatives accompanying them tried to cross into a secure area - and were stopped themselves. 
  
 &quot;Step back! Step back!&quot; the agents shouted at them. 
  
@@ -84,9 +84,8 @@ The green card issue has left immigration attorneys confused about how to advise
  
 That can create some agonizing dilemmas. 
  
-&quot;A Syrian doctor who has a dying mother in Europe cannot go visit her not knowing that he will be able to get back into the United States,&quot; Leopold said.</content> 
-<sequenceId type="str">695196260109</sequenceId> 
-<topics type="list"> 
+&quot;A Syrian doctor who has a dying mother in Europe cannot go visit her not knowing that he will be able to get back into the United States,&quot; Leopold said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -111,7 +110,8 @@ That can create some agonizing dilemmas.
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:05Z</estimatedPublishedDate> 
-<title type="str">How Trump&apos;s abrupt immigration ban sowed confusion at airports, agencies</title> 
+</TOPICS> 
+<DOCID type="str">695196260109</DOCID> 
+<DCT type="str">2017-01-29T07:28:05Z</DCT> 
+<TITLE type="str">How Trump&apos;s abrupt immigration ban sowed confusion at airports, agencies</TITLE> 
 </root>

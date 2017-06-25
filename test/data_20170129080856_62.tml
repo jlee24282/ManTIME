@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TORONTO —  
+<TEXT type="str">TORONTO —  
 Canadian Prime Minister Justin Trudeau has a message for refugees rejected by U.S. President Donald Trump: Canada will welcome you. 
   
   
@@ -43,9 +43,8 @@ Earlier the U.S. State Department said that Canadians with dual citizenship from
  
 The Syrian refugee crisis became a major issue in Canada&apos;s election in late 2015 because of the haunting image of a drowned 3-year-old Syrian boy washed up on a Turkish beach. The boy had relatives in Canada. Tima Kurdi, the aunt of the boy who became a symbol of the Syrian refugee crisis, called the U.S. ban on Syrian refugees inhumane and said she was proud of Canada. 
  
-Trudeau&apos;s tweet quickly received hundreds of thousands of likes. &quot;Welcome to Canada&quot; trended on social media in the country.</content> 
-<sequenceId type="str">695199166846</sequenceId> 
-<topics type="list"> 
+Trudeau&apos;s tweet quickly received hundreds of thousands of likes. &quot;Welcome to Canada&quot; trended on social media in the country.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Canada news</name> 
@@ -54,7 +53,8 @@ Trudeau&apos;s tweet quickly received hundreds of thousands of likes. &quot;Welc
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:17Z</estimatedPublishedDate> 
-<title type="str">PM Trudeau says Canada welcomes refugees</title> 
+</TOPICS> 
+<DOCID type="str">695199166846</DOCID> 
+<DCT type="str">2017-01-29T07:49:17Z</DCT> 
+<TITLE type="str">PM Trudeau says Canada welcomes refugees</TITLE> 
 </root>

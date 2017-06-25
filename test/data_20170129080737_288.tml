@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">COOLIDGE — State Rep. T.J. Shope has introduced a bill complementing the Pinal Regional Transportation Authority plan. 
+<TEXT type="str">COOLIDGE — State Rep. T.J. Shope has introduced a bill complementing the Pinal Regional Transportation Authority plan. 
  
 However, the bill’s opponents stand their ground, alleging misuse of funds under the current transportation half-cent tax rate. 
  
@@ -54,9 +54,8 @@ There would be a much higher chance, he said, of attracting industries and comme
  
 “It’s a positive bill that really allows the county to be in the same place a city would be (and) be able to reduce the taxes (which is) only good for the taxpayer,” Andersen said. “It’s only a positive thing.” 
  
-But it’s still uncertain — the bill still has to be approved by the House and then the Senate in order to go to the voters to ultimately decide whether it becomes reality.</content> 
-<sequenceId type="str">695196352120</sequenceId> 
-<topics type="list"> 
+But it’s still uncertain — the bill still has to be approved by the House and then the Senate in order to go to the voters to ultimately decide whether it becomes reality.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Transportation industry news</name> 
@@ -65,7 +64,8 @@ But it’s still uncertain — the bill still has to be approved by the House an
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:54Z</estimatedPublishedDate> 
-<title type="str">Bill on county transportation tax faces opposition</title> 
+</TOPICS> 
+<DOCID type="str">695196352120</DOCID> 
+<DCT type="str">2017-01-29T07:28:54Z</DCT> 
+<TITLE type="str">Bill on county transportation tax faces opposition</TITLE> 
 </root>

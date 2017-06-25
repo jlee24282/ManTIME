@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Comments (0)   
+<TEXT type="str">Comments (0)   
 ARE you a fan of photography? 
  
 Perhaps you avidly take pictures on your mobile but are now looking to get a bit more serious? Or perhaps you got a new camera for Christmas and you&apos;re looking to put it to the test at some picturesque spots across our area. 
@@ -64,9 +64,8 @@ Read today&apos;s top stories
  
 
 
- Follow us on</content> 
-<sequenceId type="str">695196741206</sequenceId> 
-<topics type="list"> 
+ Follow us on</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -75,7 +74,8 @@ Read today&apos;s top stories
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:20:00Z</estimatedPublishedDate> 
-<title type="str">Scunthorpe Telegraph published Top 10 photogenic places in northern Lincolnshire and top tips...</title> 
+</TOPICS> 
+<DOCID type="str">695196741206</DOCID> 
+<DCT type="str">2017-01-29T06:20:00Z</DCT> 
+<TITLE type="str">Scunthorpe Telegraph published Top 10 photogenic places in northern Lincolnshire and top tips...</TITLE> 
 </root>

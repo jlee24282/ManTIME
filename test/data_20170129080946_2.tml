@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Victoria is bracing itself for an extremely hot and dry day on Monday, with conditions that are feared could lead to serious fires.</content> 
-<sequenceId type="str">695201175711</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Victoria is bracing itself for an extremely hot and dry day on Monday, with conditions that are feared could lead to serious fires.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:45Z</estimatedPublishedDate> 
-<title type="str">Vic to swelter on Monday amid fire fears</title> 
+</TOPICS> 
+<DOCID type="str">695201175711</DOCID> 
+<DCT type="str">2017-01-29T08:04:45Z</DCT> 
+<TITLE type="str">Vic to swelter on Monday amid fire fears</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo: Contributed Photo  
+<TEXT type="str">Photo: Contributed Photo  
   
 Image 1 of / 2 
   
@@ -35,9 +35,8 @@ The A.C.A. is far from perfect — the lack of competition in some states and th
  
 At Americares, we’ve always promised to care for those affected by poverty. We just never imagined the need would continue to increase. When we opened our first clinic in 1994, we hoped one day our services would no longer be needed, and we could close our doors. We don’t want to give up that hope. 
  
-Michael J. Nyenhuis is president and CEO of Americares, which is based in Stamford.</content> 
-<sequenceId type="str">695195452086</sequenceId> 
-<topics type="list"> 
+Michael J. Nyenhuis is president and CEO of Americares, which is based in Stamford.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
@@ -58,7 +57,8 @@ Michael J. Nyenhuis is president and CEO of Americares, which is based in Stamfo
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Americares op-ed: New health care law must avoid costly side effects</title> 
+</TOPICS> 
+<DOCID type="str">695195452086</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Americares op-ed: New health care law must avoid costly side effects</TITLE> 
 </root>

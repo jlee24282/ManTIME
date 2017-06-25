@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PASADENA, Calif. — On his FX comedy series “Baskets,” Zach Galifianakis — a Wilkesboro native — has to do double duty. 
+<TEXT type="str">PASADENA, Calif. — On his FX comedy series “Baskets,” Zach Galifianakis — a Wilkesboro native — has to do double duty. 
    
 He plays the lead character, troubled clown Chip Baskets, and also Chip’s egomaniacal brother Dale. And that means a lot of switching from one to the other on the set. 
    
@@ -38,9 +38,8 @@ Chris Chalk, an alumnus of UNC-Greensboro, co-stars as Lucius Fox, a science exp
    
 The series serves as a prequel to Robert Louis Stevenson novel “Treasure Island,” following rival bands of pirates, including North Carolina’s Edward “Blackbeard” Teach, played by Ray Stevenson. 
    
-Tim Clodfelter writes about television for the Winston-Salem Journal. Contact him at (336) 727-7371 or tclodfelter@wsjournal . com.</content> 
-<sequenceId type="str">695203573166</sequenceId> 
-<topics type="list"> 
+Tim Clodfelter writes about television for the Winston-Salem Journal. Contact him at (336) 727-7371 or tclodfelter@wsjournal . com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -49,7 +48,8 @@ Tim Clodfelter writes about television for the Winston-Salem Journal. Contact hi
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:32Z</estimatedPublishedDate> 
-<title type="str">TV Tidbits: Galifianakis adjusts to dual roles on &apos;Baskets&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695203573166</DOCID> 
+<DCT type="str">2017-01-29T08:22:32Z</DCT> 
+<TITLE type="str">TV Tidbits: Galifianakis adjusts to dual roles on &apos;Baskets&apos;</TITLE> 
 </root>

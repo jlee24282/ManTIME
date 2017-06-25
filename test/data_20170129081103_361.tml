@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">STOKE-ON-TRENT, England — &quot;Labour is gone,&quot; a waitress at the hotel where I was staying on Wednesday told me. &quot;UKIP tells the truth. They will win it here. I tell you now.&quot; 
+<TEXT type="str">STOKE-ON-TRENT, England — &quot;Labour is gone,&quot; a waitress at the hotel where I was staying on Wednesday told me. &quot;UKIP tells the truth. They will win it here. I tell you now.&quot; 
  
 I was there to interview UKIP&apos;s new leader and candidate for the Stoke-on-Trent Central by-election, Paul Nuttall. Nuttall&apos;s candidacy is a big test both of his own party&apos;s appeal following the departure of Nigel Farage, as well as Labour&apos;s. 
  
@@ -106,9 +106,8 @@ But he made it clear that he has no interest in the populist axis Farage has for
  
 &quot;No, I wouldn&apos;t. I would have gone for the Libertarian candidate Gary Johnson. 
  
-&quot;But I will say this. Now that Trump has been elected it&apos;ll be a great thing for Britain. He&apos;s an Anglophile and wants to do a free trade deal with this country. And o nce we start signing those trade deals all over the globe, Britain will go through a new era prosperity the like of which we haven&apos;t seen since the industrial revolution.&quot;</content> 
-<sequenceId type="str">695204060070</sequenceId> 
-<topics type="list"> 
+&quot;But I will say this. Now that Trump has been elected it&apos;ll be a great thing for Britain. He&apos;s an Anglophile and wants to do a free trade deal with this country. And o nce we start signing those trade deals all over the globe, Britain will go through a new era prosperity the like of which we haven&apos;t seen since the industrial revolution.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -133,7 +132,8 @@ But he made it clear that he has no interest in the populist axis Farage has for
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:00Z</estimatedPublishedDate> 
-<title type="str">Paul Nuttall interview: UKIP will take Stoke from &apos;lobby-fodder&apos; Labour</title> 
+</TOPICS> 
+<DOCID type="str">695204060070</DOCID> 
+<DCT type="str">2017-01-29T08:15:00Z</DCT> 
+<TITLE type="str">Paul Nuttall interview: UKIP will take Stoke from &apos;lobby-fodder&apos; Labour</TITLE> 
 </root>

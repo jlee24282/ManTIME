@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Of the many tasks facing Atty. Gen. Xavier Becerra in his new job, it was an unheralded duty that Republican legislators wanted to pin him down on during recent confirmation hearings in Sacramento: the vetting of ballot initiatives. 
+<TEXT type="str">Of the many tasks facing Atty. Gen. Xavier Becerra in his new job, it was an unheralded duty that Republican legislators wanted to pin him down on during recent confirmation hearings in Sacramento: the vetting of ballot initiatives. 
 
 The attorney general is tasked under California law to write a brief title and summary of each measure that will end up on the state ballot. 
  
@@ -38,9 +38,8 @@ California initiative campaigns rake in a record $473 million in 2016
 
 Political Road Map: How unlimited cash gets funneled into legislative campaigns 
 
-Updates on California politics</content> 
-<sequenceId type="str">695202554743</sequenceId> 
-<topics type="list"> 
+Updates on California politics</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -53,7 +52,8 @@ Updates on California politics</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:00Z</estimatedPublishedDate> 
-<title type="str">Political Road Map: Some believe there&apos;s bias baked into the official descriptions of California initiatives</title> 
+</TOPICS> 
+<DOCID type="str">695202554743</DOCID> 
+<DCT type="str">2017-01-29T08:05:00Z</DCT> 
+<TITLE type="str">Political Road Map: Some believe there&apos;s bias baked into the official descriptions of California initiatives</TITLE> 
 </root>

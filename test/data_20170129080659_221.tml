@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">THE SS LAURENTIC sank off the coast of Donegal 100 years ago on Thursday.
+<TEXT type="str">THE SS LAURENTIC sank off the coast of Donegal 100 years ago on Thursday.
 
 There were 475 people on board at the time, when the British vessel struck mines left by a German U-Boat on 25 January 1917. Only 121 survived, with 354 dying at sea.
 
@@ -70,9 +70,8 @@ The Laurentic exhibition opened last night at the Tower museum in Derry.
 
 Well worth a visit. pic.twitter.com/XW5feBGmJa
 
-— Ulster Canada (@LaurenticConf) January 26, 2017 Source: Ulster Canada/Twitter</content> 
-<sequenceId type="str">695194764991</sequenceId> 
-<topics type="list"> 
+— Ulster Canada (@LaurenticConf) January 26, 2017 Source: Ulster Canada/Twitter</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -81,7 +80,8 @@ Well worth a visit. pic.twitter.com/XW5feBGmJa
 <group type="str">Regional</group> 
 <name type="str">Ireland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:55Z</estimatedPublishedDate> 
-<title type="str">100 years on, victims of naval vessel which sank off Donegal remembered</title> 
+</TOPICS> 
+<DOCID type="str">695194764991</DOCID> 
+<DCT type="str">2017-01-29T07:17:55Z</DCT> 
+<TITLE type="str">100 years on, victims of naval vessel which sank off Donegal remembered</TITLE> 
 </root>

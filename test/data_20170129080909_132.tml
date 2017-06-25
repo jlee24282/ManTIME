@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Historic Crests 
+<TEXT type="str">Historic Crests 
 (1) 138.30 ft on 02/12/1986 
 (2) 132.50 ft on 02/28/2013 
 (3) 132.41 ft on 03/08/1984 
@@ -30,14 +30,14 @@ Show More Recent Crests
 (P) : Preliminary values subject to further review. 
 
 Low Water Records 
-Currently none available.</content> 
-<sequenceId type="str">695199782222</sequenceId> 
-<topics type="list"> 
+Currently none available.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:29Z</estimatedPublishedDate> 
-<title type="str">Action (124.48 ft) - Observation - VDRG1 - Withlacoochee River near Valdosta at US 41 (Georgia)</title> 
+</TOPICS> 
+<DOCID type="str">695199782222</DOCID> 
+<DCT type="str">2017-01-29T07:52:29Z</DCT> 
+<TITLE type="str">Action (124.48 ft) - Observation - VDRG1 - Withlacoochee River near Valdosta at US 41 (Georgia)</TITLE> 
 </root>

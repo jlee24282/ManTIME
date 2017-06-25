@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Preview: Roger Federer and Rafa Nadal take to Rod Laver Arena to reprise one of the great sporting rivalries of the modern age on Sunday, a fitting climax to an Australian Open which has sent tennis back to the future. 
+<TEXT type="str">Preview: Roger Federer and Rafa Nadal take to Rod Laver Arena to reprise one of the great sporting rivalries of the modern age on Sunday, a fitting climax to an Australian Open which has sent tennis back to the future. 
  
 After the thirtysomething Williams sisters play their own throwback final on Saturday, Federer and Nadal will meet in a grand slam final for the first time in more than five years. 
  
@@ -42,9 +42,8 @@ Afterwards, in his news conference, he was less candid, noting only that the pac
  
 Nadal has a 6-2 edge over Federer in grand slam finals but few are making a call with any confidence over who will win Sunday&apos;s contest. 
  
-&quot;I just know that two of the greatest players of tennis are going to square off on Sunday, and it&apos;s going to be a freakin&apos; amazing match,&quot; Dimitrov said on Friday.</content> 
-<sequenceId type="str">695204504609</sequenceId> 
-<topics type="list"> 
+&quot;I just know that two of the greatest players of tennis are going to square off on Sunday, and it&apos;s going to be a freakin&apos; amazing match,&quot; Dimitrov said on Friday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -53,7 +52,8 @@ Nadal has a 6-2 edge over Federer in grand slam finals but few are making a call
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:05Z</estimatedPublishedDate> 
-<title type="str">Live Australian Open 2017, Day 14: Roger Federer faces Rafael Nadal in final</title> 
+</TOPICS> 
+<DOCID type="str">695204504609</DOCID> 
+<DCT type="str">2017-01-29T08:30:05Z</DCT> 
+<TITLE type="str">Live Australian Open 2017, Day 14: Roger Federer faces Rafael Nadal in final</TITLE> 
 </root>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Officials in Seattle on Friday approved the nation’s first “safe-injection” sites for users of heroin and other illegal drugs, calling the move a drastic but necessary response to an epidemic of addiction that is claiming tens of thousands of lives each year.
+<TEXT type="str">Officials in Seattle on Friday approved the nation’s first “safe-injection” sites for users of heroin and other illegal drugs, calling the move a drastic but necessary response to an epidemic of addiction that is claiming tens of thousands of lives each year.
 
-The sites - which offer addicts clean needles, medical supervision and quick access to drugs that reverse the effects of an overdose - have long been popular in Europe. Now, with the U.S. death toll rising, the idea is gaining traction in a number of American cities, including Boston, New York City and Ithaca, N.Y.</content> 
-<sequenceId type="str">695198867938</sequenceId> 
-<topics type="list"> 
+The sites - which offer addicts clean needles, medical supervision and quick access to drugs that reverse the effects of an overdose - have long been popular in Europe. Now, with the U.S. death toll rising, the idea is gaining traction in a number of American cities, including Boston, New York City and Ithaca, N.Y.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Seattle-Tacoma news</name> 
@@ -13,7 +12,8 @@ The sites - which offer addicts clean needles, medical supervision and quick acc
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T14:00:00Z</estimatedPublishedDate> 
-<title type="str">Seattle approves safe sites for addicts to inject drugs</title> 
+</TOPICS> 
+<DOCID type="str">695198867938</DOCID> 
+<DCT type="str">2017-01-28T14:00:00Z</DCT> 
+<TITLE type="str">Seattle approves safe sites for addicts to inject drugs</TITLE> 
 </root>

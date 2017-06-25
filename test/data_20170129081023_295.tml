@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A federal judge issued an emergency order Saturday night temporarily barring the U.S. from deporting people from nations subject to President Donald Trump&apos;s travel ban, saying travelers who had been detained had a strong argument that their legal rights had been violated.
+<TEXT type="str">A federal judge issued an emergency order Saturday night temporarily barring the U.S. from deporting people from nations subject to President Donald Trump&apos;s travel ban, saying travelers who had been detained had a strong argument that their legal rights had been violated.
 
 U.S. District Judge Ann Donnelly in New York issued the emergency order after lawyers for the American Civil Liberties Union filed a court petition on behalf of people from seven predominantly Muslim nations who were detained at airports across the country as the ban took effect.
 
@@ -52,9 +52,8 @@ John Cohen, a former Department of Homeland Security counterterrorism official w
 
 &quot;We are a compassionate nation and a country of immigrants. But as we know, terrorists are dead set on using our immigration and refugee programs as a Trojan Horse to attack us,&quot; House Homeland Security Committee Chairman Michael McCaul said in a statement Friday. &quot;With the stroke of a pen, he is doing more to shut down terrorist pathways into this country than the last administration did in eight years.&quot;
 
-It is unclear how many people would be immediately impacted by the non-refugee travel ban. According to the statistics maintained by the Homeland Security Department, about 17,000 students from the seven designated countries were allowed into the U.S. for the 2015-2016 school year. In 2015 more than 86,000 people from those countries arrived in the U.S. on other, non-immigrant visas and more than 52,000 others became legal permanent residents.</content> 
-<sequenceId type="str">695202690553</sequenceId> 
-<topics type="list"> 
+It is unclear how many people would be immediately impacted by the non-refugee travel ban. According to the statistics maintained by the Homeland Security Department, about 17,000 students from the seven designated countries were allowed into the U.S. for the 2015-2016 school year. In 2015 more than 86,000 people from those countries arrived in the U.S. on other, non-immigrant visas and more than 52,000 others became legal permanent residents.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -79,7 +78,8 @@ It is unclear how many people would be immediately impacted by the non-refugee t
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:45Z</estimatedPublishedDate> 
-<title type="str">US judge bars deportations under Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695202690553</DOCID> 
+<DCT type="str">2017-01-29T08:15:45Z</DCT> 
+<TITLE type="str">US judge bars deportations under Trump travel ban</TITLE> 
 </root>

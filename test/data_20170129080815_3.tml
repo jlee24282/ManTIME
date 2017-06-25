@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">An estimated 15,000 A’s fans were treated to free food and great weather Saturday at the team’s annual FanFest, held at Jack London Square for the first time since 1999, and the good vibes were palpable. 
+<TEXT type="str">An estimated 15,000 A’s fans were treated to free food and great weather Saturday at the team’s annual FanFest, held at Jack London Square for the first time since 1999, and the good vibes were palpable. 
  
 “Best FanFest ever ,” said Debbie Rose , 54, of Castro Valley. “The best accessibility, I got to see all my favorite players. It feels like they put A’s fans first. I’m starting to feel hopeful about things.” 
  
@@ -26,9 +26,8 @@ Kaval told The Chronicle earlier in the week that the team is still evaluating t
  
 Briefly: There were some humorous moments during the question-and-answer sessions with fans, including one fan pressing Doolittle on when he might propose to his longtime girlfriend, Eireann Dolan (he seemed to have trouble with his microphone just then for some reason) and another asking Doolittle for his favorite “Star Wars” moment. (He liked “Rogue One” a lot). … Forst, asked about the A’s difficulties in keeping top players, said, “Everyone was tired of hearing during the playoffs, ‘Look at all these ex-A’s playing for other teams.’ … The goal is we get a new building and we hold onto all these guys beyond their first few years and create lifelong Oakland A’s.” … Asked about potentially trading right-hander Sonny Gray at midseason if Gray bounces back strong, Forst said, “I want to have Sonny here 10 more years. (A’s executive) Billy Beane wants to have Sonny here 10 more years.” 
  
-Susan Slusser is a San Francisco Chronicle staff writer.</content> 
-<sequenceId type="str">695197364137</sequenceId> 
-<topics type="list"> 
+Susan Slusser is a San Francisco Chronicle staff writer.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -37,7 +36,8 @@ Susan Slusser is a San Francisco Chronicle staff writer.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:40Z</estimatedPublishedDate> 
-<title type="str">Lots of goodwill, excitement at A’s Jack London Square FanFest</title> 
+</TOPICS> 
+<DOCID type="str">695197364137</DOCID> 
+<DCT type="str">2017-01-29T07:36:40Z</DCT> 
+<TITLE type="str">Lots of goodwill, excitement at A’s Jack London Square FanFest</TITLE> 
 </root>

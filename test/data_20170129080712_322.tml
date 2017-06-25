@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The stock market had a very good year in 2016.
+<TEXT type="str">The stock market had a very good year in 2016.
 
 There had been speculation that the market would go down if Trump was elected. This fear was mostly because investors do not like surprises. It was assumed that Clinton would continue many of the same policies as Obama. Even if these were not investor’s favorites, they knew what to expect.
 
@@ -20,9 +20,8 @@ It is important to remember that no president gets everything that they want. Th
 
 The world’s economy is very complex and interactive. It is impossible to know the exact outcome of every decision. Whoever is president often gets credit for things they can’t control and gets blamed for things that are not their fault. Monitor the situation and be prepared to make necessary adjustments.
 
-Your Financial Future is written by certified financial planner Gary W. Boatman, MBA and CFP, who also wrote the book, “Your Financial Compass: Safe Passage Through The Turbulent Waters of Taxes, Income Planning and Market Volatility.”</content> 
-<sequenceId type="str">695195397521</sequenceId> 
-<topics type="list"> 
+Your Financial Future is written by certified financial planner Gary W. Boatman, MBA and CFP, who also wrote the book, “Your Financial Compass: Safe Passage Through The Turbulent Waters of Taxes, Income Planning and Market Volatility.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -35,7 +34,8 @@ Your Financial Future is written by certified financial planner Gary W. Boatman,
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Your Financial Future: Fiscal stimulus expected to make economy grow</title> 
+</TOPICS> 
+<DOCID type="str">695195397521</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Your Financial Future: Fiscal stimulus expected to make economy grow</TITLE> 
 </root>

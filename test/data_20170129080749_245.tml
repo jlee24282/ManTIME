@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump spoke to his Russian counterpart Vladimir Putin by telephone Saturday, and while the White House did not comment on the conversation, the Kremlin issued a statement saying the two leaders agreed to increase U.S.-Russia cooperation on a wide range of issues. The Kremlin statement (in Russian) said “both sides had shown a disposition to actively work together on stabilization and development of Russian-American cooperation in a constructive, equal and mutually beneficial basis.”</content> 
-<sequenceId type="str">695196746525</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">President Donald Trump spoke to his Russian counterpart Vladimir Putin by telephone Saturday, and while the White House did not comment on the conversation, the Kremlin issued a statement saying the two leaders agreed to increase U.S.-Russia cooperation on a wide range of issues. The Kremlin statement (in Russian) said “both sides had shown a disposition to actively work together on stabilization and development of Russian-American cooperation in a constructive, equal and mutually beneficial basis.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:10Z</estimatedPublishedDate> 
-<title type="str">Trump-Putin Phone Call: Presidents Agree To Cooperate, Improve US-Russia Relations, Kremlin Says</title> 
+</TOPICS> 
+<DOCID type="str">695196746525</DOCID> 
+<DCT type="str">2017-01-29T07:32:10Z</DCT> 
+<TITLE type="str">Trump-Putin Phone Call: Presidents Agree To Cooperate, Improve US-Russia Relations, Kremlin Says</TITLE> 
 </root>

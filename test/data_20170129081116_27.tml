@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NASA scientists have developed a new chemical assay that could aid the search for life on exoplanets by identifying the presence of amino acids, the compounds that make up proteins and building blocks of life.</content> 
-<sequenceId type="str">695204239497</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">NASA scientists have developed a new chemical assay that could aid the search for life on exoplanets by identifying the presence of amino acids, the compounds that make up proteins and building blocks of life.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Science news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Science</group> 
 <name type="str">Space science news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:15Z</estimatedPublishedDate> 
-<title type="str">New test to detect signs of life on alien planets</title> 
+</TOPICS> 
+<DOCID type="str">695204239497</DOCID> 
+<DCT type="str">2017-01-29T08:25:15Z</DCT> 
+<TITLE type="str">New test to detect signs of life on alien planets</TITLE> 
 </root>

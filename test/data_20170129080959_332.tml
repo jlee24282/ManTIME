@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The movie beat industry favorites and leading Academy Awards contenders including coming-of-age tale &quot;Moonlight&quot;, stylish alien thriller &quot;Arrival&quot; and visceral family drama &quot;Manchester by the Sea.&quot;  
+<TEXT type="str">The movie beat industry favorites and leading Academy Awards contenders including coming-of-age tale &quot;Moonlight&quot;, stylish alien thriller &quot;Arrival&quot; and visceral family drama &quot;Manchester by the Sea.&quot;  
  
     Damien Chazelle&apos;s whimsical tribute to Hollywood&apos;s Golden Age of musicals has 14 nominations going into February&apos;s Academy awards, including for best picture, best director and for its two stars, Ryan Gosling and Emma Stone.  
  
@@ -40,9 +40,8 @@
  
     &quot;You get &apos;no&apos;s all the time, a million &apos;no&apos;s, a sea of &apos;no&apos;s. All you need is one &apos;yes,&apos; -- one &apos;yes&apos; from Mel Gibson to direct the movie, one &apos;yes&apos; from Andrew Garfield, one &apos;yes&apos; from Robert Schenkkan to say I love that true story and I want to write it, one &apos;yes&apos; from a financier.&quot; 
  
-    The Oscars ceremony is staged on February 26, hosted by late night funnyman Jimmy Kimmel.</content> 
-<sequenceId type="str">695201916234</sequenceId> 
-<topics type="list"> 
+    The Oscars ceremony is staged on February 26, hosted by late night funnyman Jimmy Kimmel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -59,7 +58,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: golf news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:47Z</estimatedPublishedDate> 
-<title type="str">&apos;La La Land&apos; wins PGA best film ahead of Oscars</title> 
+</TOPICS> 
+<DOCID type="str">695201916234</DOCID> 
+<DCT type="str">2017-01-29T08:09:47Z</DCT> 
+<TITLE type="str">&apos;La La Land&apos; wins PGA best film ahead of Oscars</TITLE> 
 </root>

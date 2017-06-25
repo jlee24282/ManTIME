@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Kevin Vannatta scores 16 points vs.jpg 
+<TEXT type="str">Kevin Vannatta scores 16 points vs.jpg 
    
 ASHEVILLE, NC -- The Bulldogs have five players score in double figures and that helps Asheville beat Radford 80-69. 
  
@@ -10,9 +10,8 @@ Asheville improves to 16-7 overall, 8-2 in the Big South.
  
 The Bulldogs are now tied with Winthrop for first place in the Big South standings. 
  
-The next game for Asheville will be Wednesday against Charleston Southern.</content> 
-<sequenceId type="str">695202384563</sequenceId> 
-<topics type="list"> 
+The next game for Asheville will be Wednesday against Charleston Southern.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -21,7 +20,8 @@ The next game for Asheville will be Wednesday against Charleston Southern.</cont
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:26Z</estimatedPublishedDate> 
-<title type="str">UNC Asheville defeats Radford 80-69</title> 
+</TOPICS> 
+<DOCID type="str">695202384563</DOCID> 
+<DCT type="str">2017-01-29T08:13:26Z</DCT> 
+<TITLE type="str">UNC Asheville defeats Radford 80-69</TITLE> 
 </root>

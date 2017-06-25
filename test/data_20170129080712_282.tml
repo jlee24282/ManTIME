@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Comedian Keith Wann owned the stage in the Burlington-Edison High School auditorium — jumping, dancing and emoting his way to laughs from the audience. 
+<TEXT type="str">Comedian Keith Wann owned the stage in the Burlington-Edison High School auditorium — jumping, dancing and emoting his way to laughs from the audience. 
 
 But most of the time, Wann was silent. 
 
@@ -42,9 +42,8 @@ While his wife has served as his speaking interpreter for his comedy shows, Wann
 
 Opportunity awaits the students continuing their ASL education as well, Wann said. 
 
-&quot;You are learning our language,&quot; Wann signed during his show. &quot;You have two choices: You can use that language to help deaf people ... or you can use it to hurt them. I know you guys want to use it to help. Really, I hope some of you become interpreters, or maybe lawyers. Or maybe you&apos;ll work at McDonald&apos;s.&quot;</content> 
-<sequenceId type="str">695195364633</sequenceId> 
-<topics type="list"> 
+&quot;You are learning our language,&quot; Wann signed during his show. &quot;You have two choices: You can use that language to help deaf people ... or you can use it to hurt them. I know you guys want to use it to help. Really, I hope some of you become interpreters, or maybe lawyers. Or maybe you&apos;ll work at McDonald&apos;s.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: celebrity gossip</name> 
@@ -53,7 +52,8 @@ Opportunity awaits the students continuing their ASL education as well, Wann sai
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:06:05Z</estimatedPublishedDate> 
-<title type="str">Comedian brings American Sign Language to the stage</title> 
+</TOPICS> 
+<DOCID type="str">695195364633</DOCID> 
+<DCT type="str">2017-01-29T07:06:05Z</DCT> 
+<TITLE type="str">Comedian brings American Sign Language to the stage</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:30 
+<TEXT type="str">:30 
    Tweet     
 Both the VKB Knights and the Warriors will be eyeing the win when play resumes on the final day of the Sunfoil Series clash in Bloemfontein on Sunday. 
  
@@ -17,9 +17,8 @@ Report Day 3
  
 VKB KNIGHTS: LL Mnyanda, MN Erlank, TB de Bruyn (capt), RR Rossouw, RS Second (wk), KD Petersen, PE Kruger, M de Lange, D Olivier, M Budaza, AE Kula 
  
-WARRIORS: CN Ackermann, ACR Birch, GL Cloete, SR Harmer (capt), SSB Magala, EM Moore (wk), LC Ngoepe, A Nortje, MY Vallie, BD Walters, S Seyibokwe</content> 
-<sequenceId type="str">695201582357</sequenceId> 
-<topics type="list"> 
+WARRIORS: CN Ackermann, ACR Birch, GL Cloete, SR Harmer (capt), SSB Magala, EM Moore (wk), LC Ngoepe, A Nortje, MY Vallie, BD Walters, S Seyibokwe</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -28,7 +27,8 @@ WARRIORS: CN Ackermann, ACR Birch, GL Cloete, SR Harmer (capt), SSB Magala, EM M
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:22Z</estimatedPublishedDate> 
-<title type="str">Victory up for grabs in Bloem</title> 
+</TOPICS> 
+<DOCID type="str">695201582357</DOCID> 
+<DCT type="str">2017-01-29T08:07:22Z</DCT> 
+<TITLE type="str">Victory up for grabs in Bloem</TITLE> 
 </root>

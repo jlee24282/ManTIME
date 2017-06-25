@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A look at the two candidates competing in Sunday&apos;s runoff of France&apos;s left-wing presidential primary: 
+<TEXT type="str">A look at the two candidates competing in Sunday&apos;s runoff of France&apos;s left-wing presidential primary: 
 
 --- 
 
@@ -24,9 +24,8 @@ Pledges: Lower taxes for middle-class households; minimum income of 850 euros ($
 
 Style: Bossy, experienced. 
 
-Weakness: Close association with the unpopular Hollande, who decided not to seek a second term.</content> 
-<sequenceId type="str">695197365383</sequenceId> 
-<topics type="list"> 
+Weakness: Close association with the unpopular Hollande, who decided not to seek a second term.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -39,7 +38,8 @@ Weakness: Close association with the unpopular Hollande, who decided not to seek
 <group type="str">Society</group> 
 <name type="str">US politics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:22Z</estimatedPublishedDate> 
-<title type="str">French left-wing presidential primary: Hamon vs. Valls</title> 
+</TOPICS> 
+<DOCID type="str">695197365383</DOCID> 
+<DCT type="str">2017-01-29T07:31:22Z</DCT> 
+<TITLE type="str">French left-wing presidential primary: Hamon vs. Valls</TITLE> 
 </root>

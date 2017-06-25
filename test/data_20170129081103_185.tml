@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">If you didn&apos;t know, Dong Nguyen is the name of the person who created Flappy Bird mobile game, an incredibly addictive title that made headlines years ago. After the success of its first game, Nguyen is back with another title that promises the same level of addiction, but slightly less impossible gameplay mechanics. 
+<TEXT type="str">If you didn&apos;t know, Dong Nguyen is the name of the person who created Flappy Bird mobile game, an incredibly addictive title that made headlines years ago. After the success of its first game, Nguyen is back with another title that promises the same level of addiction, but slightly less impossible gameplay mechanics. 
  
 Ninja Spinki Challenges is far more polished than Flappy Bird, a game launched back in 2014, and, as mentioned earlier, less challenging to those who played and loved Nguyen&apos;s first game. 
  
@@ -16,9 +16,8 @@ Although the game starts easy, so that everyone can get a sense of the game&apos
  
 It&apos;s also worth mentioning that while the game is available for free, it does come with ads, but they are smartly implemented. So, if you fail a challenge, you can opt to continue from where the timer left off by watching a 15- or 30-second video ad. 
   
-  CHECK OUT THE GALLERY   (5 Images)</content> 
-<sequenceId type="str">695203892576</sequenceId> 
-<topics type="list"> 
+  CHECK OUT THE GALLERY   (5 Images)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -27,7 +26,8 @@ It&apos;s also worth mentioning that while the game is available for free, it do
 <group type="str">Technology</group> 
 <name type="str">Wireless industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:00Z</estimatedPublishedDate> 
-<title type="str">Flappy Bird Developer Is Back with Yet Another Addictive Mobile Game</title> 
+</TOPICS> 
+<DOCID type="str">695203892576</DOCID> 
+<DCT type="str">2017-01-29T08:13:00Z</DCT> 
+<TITLE type="str">Flappy Bird Developer Is Back with Yet Another Addictive Mobile Game</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Video: Top Stories 
+<TEXT type="str">Video: Top Stories 
 
 About Sky News 
 
@@ -12,9 +12,8 @@ More Sky Sites
 
 © 2017 Sky UK 
 
-We use cookies to give you the best experience. If you do nothing we&apos;ll assume that it&apos;s ok.</content> 
-<sequenceId type="str">695197353064</sequenceId> 
-<topics type="list"> 
+We use cookies to give you the best experience. If you do nothing we&apos;ll assume that it&apos;s ok.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -23,7 +22,8 @@ We use cookies to give you the best experience. If you do nothing we&apos;ll ass
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:33Z</estimatedPublishedDate> 
-<title type="str">What do the papers says about Trump&apos;s first week?</title> 
+</TOPICS> 
+<DOCID type="str">695197353064</DOCID> 
+<DCT type="str">2017-01-29T07:36:33Z</DCT> 
+<TITLE type="str">What do the papers says about Trump&apos;s first week?</TITLE> 
 </root>

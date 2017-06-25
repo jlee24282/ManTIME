@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DEVILS LAKE -- Shirley A. Stein, 76. 
+<TEXT type="str">DEVILS LAKE -- Shirley A. Stein, 76. 
  
 EDGELEY -- Milton Lacina, 95. 
  
@@ -24,14 +24,14 @@ SAWYER -- Peggy Redding, 91.
  
 TIOGA -- Jennie Smith, 66. 
  
-WEST FARGO -- Betty Johnson, 93.</content> 
-<sequenceId type="str">695201696698</sequenceId> 
-<topics type="list"> 
+WEST FARGO -- Betty Johnson, 93.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Obituaries</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">State Obituaries for Sunday, Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695201696698</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">State Obituaries for Sunday, Jan. 29, 2017</TITLE> 
 </root>

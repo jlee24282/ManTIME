@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ON THE MOVE 
+<TEXT type="str">ON THE MOVE 
  
 Twyla Fremit has joined Re/Max Eagle Rock in Loveland as a real estate agent. She has lived and been part of the Windsor community for 10 years. She loves the town of Windsor and the Front Range. Call her at (970) 222-7177 or (970) 593-0999. 
  
@@ -59,9 +59,8 @@ Northern Colorado Women In Business is a co-op that helps business women support
 Contact Kristi Helzer, (970) 506-1882 or Kristi@KristiHelzer.com . 
  
  
-To include your business news in the Sunday BIZ sections, contact Sharon Dunn at sdunn@greeleytribune.com or call (970) 392-4439. Items must be received by 4 p.m. Wednesday to make it into Sunday’s paper.</content> 
-<sequenceId type="str">695195087432</sequenceId> 
-<topics type="list"> 
+To include your business news in the Sunday BIZ sections, contact Sharon Dunn at sdunn@greeleytribune.com or call (970) 392-4439. Items must be received by 4 p.m. Wednesday to make it into Sunday’s paper.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Real estate news</name> 
@@ -70,7 +69,8 @@ To include your business news in the Sunday BIZ sections, contact Sharon Dunn at
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:09:02Z</estimatedPublishedDate> 
-<title type="str">Greeley-area Business Report for Jan. 29</title> 
+</TOPICS> 
+<DOCID type="str">695195087432</DOCID> 
+<DCT type="str">2017-01-29T07:09:02Z</DCT> 
+<TITLE type="str">Greeley-area Business Report for Jan. 29</TITLE> 
 </root>

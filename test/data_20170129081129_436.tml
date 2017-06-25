@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">\r 
+<TEXT type="str">\r 
 Trượt ván là môn thể thao đang rất được giới trẻ thế giới ưa chuộng hiện nay.\r 
 Bắt kịp xu thế đó hãng True Axis đã cho ra trò chơi True Skate phù hợp cho mọi lứa tuổi đặc biệt là những bạn đam mê trò chơi này! 
 
 Author: edwinpangborne67 
 Tags: True  Skate  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695205036411</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -17,7 +16,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:24Z</estimatedPublishedDate> 
-<title type="str">True Skate</title> 
+</TOPICS> 
+<DOCID type="str">695205036411</DOCID> 
+<DCT type="str">2017-01-29T08:31:24Z</DCT> 
+<TITLE type="str">True Skate</TITLE> 
 </root>

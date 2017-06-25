@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Hoosick Falls and Petersburgh. Newburgh and Long Island. 
+<TEXT type="str">Hoosick Falls and Petersburgh. Newburgh and Long Island. 
  
 Just four areas of the state that have recently faced health threats from contaminated water supplies. They are far from the only ones. 
  
@@ -29,9 +29,8 @@ The $5 billion contained in the bond act wouldn’t fully fund the solutions, bu
  
 New York hasn’t been totally ignoring its water problem, but it hasn’t put on a full-court press to solve it either. The time for that kind of commitment has arrived. 
  
-Failing to take significant action now will only put the health of New Yorkers in further danger.</content> 
-<sequenceId type="str">695197582350</sequenceId> 
-<topics type="list"> 
+Failing to take significant action now will only put the health of New Yorkers in further danger.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -40,7 +39,8 @@ Failing to take significant action now will only put the health of New Yorkers i
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">The time has come to fix our water problems</title> 
+</TOPICS> 
+<DOCID type="str">695197582350</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">The time has come to fix our water problems</TITLE> 
 </root>

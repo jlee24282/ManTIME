@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TUSCALOOSA – Alabama had just lost what had been an 11-point lead to Mississippi State four minutes earlier at sold-out Coleman Coliseum. 
+<TEXT type="str">TUSCALOOSA – Alabama had just lost what had been an 11-point lead to Mississippi State four minutes earlier at sold-out Coleman Coliseum. 
  
 Crimson Tide freshman Braxton Key had an answer – a clutch 3-pointer from the left baseline that did much more than put Alabama ahead 60-58 with 5:31 left in the game. 
  
@@ -50,9 +50,8 @@ Mississippi State’s Schnider Herard finished with 12 points.
  
 “I thought we did a great job defending them on their first shot, but they got to the line too much,” MSU coach Ben Howland said. “We had too many turnovers. Credit them. They attacked the basket and did a good job getting to the line. It’s a tough one because we were right there.” 
  
-Alabama plays at Arkansas on Wednesday (6 p.m., SEC Network) before returning home and playing Auburn next Saturday night (7:30 p.m., SEC Network).</content> 
-<sequenceId type="str">695198384872</sequenceId> 
-<topics type="list"> 
+Alabama plays at Arkansas on Wednesday (6 p.m., SEC Network) before returning home and playing Auburn next Saturday night (7:30 p.m., SEC Network).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -61,7 +60,8 @@ Alabama plays at Arkansas on Wednesday (6 p.m., SEC Network) before returning ho
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:35:00Z</estimatedPublishedDate> 
-<title type="str">Late Key basket helps Tide surge over Mississippi State</title> 
+</TOPICS> 
+<DOCID type="str">695198384872</DOCID> 
+<DCT type="str">2017-01-29T06:35:00Z</DCT> 
+<TITLE type="str">Late Key basket helps Tide surge over Mississippi State</TITLE> 
 </root>

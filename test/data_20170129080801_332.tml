@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bengaluru, Jan 29: The latest rumours from WWE grapevine suggests that we will be seeing a number of NXT superstars debuting at the Royal Rumble match to make their mark on the main roster. 
+<TEXT type="str">Bengaluru, Jan 29: The latest rumours from WWE grapevine suggests that we will be seeing a number of NXT superstars debuting at the Royal Rumble match to make their mark on the main roster. 
  
 The speculation regarding the same was there already and latest reports from cagesideseats.com confirmed the same. 
   
@@ -30,9 +30,8 @@ WWE itself teased the feud by putting a video on their official Youtube channel,
  
 Samoa’s main roster debut is on the hold for quite sometimes and it does not get any bigger if he gets to wrestle none other than the franchise of the company. 
  
-OneIndia News</content> 
-<sequenceId type="str">695197226502</sequenceId> 
-<topics type="list"> 
+OneIndia News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -45,7 +44,8 @@ OneIndia News</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:10:24Z</estimatedPublishedDate> 
-<title type="str">WWE Rumour: John Cena Vs Samoa Joe at Royal Rumble</title> 
+</TOPICS> 
+<DOCID type="str">695197226502</DOCID> 
+<DCT type="str">2017-01-29T07:10:24Z</DCT> 
+<TITLE type="str">WWE Rumour: John Cena Vs Samoa Joe at Royal Rumble</TITLE> 
 </root>

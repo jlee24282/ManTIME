@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Trump&apos;s refugee ban appears to already be affecting the entertainment industry by barring entry to a film director for this year&apos;s Oscars. 
+<TEXT type="str">US President Trump&apos;s refugee ban appears to already be affecting the entertainment industry by barring entry to a film director for this year&apos;s Oscars. 
  Source:  
 AAP 
   
@@ -38,9 +38,8 @@ RELATED:
   
 Oscar buzz dead as China clips &apos;Hooligan Sparrow&apos; wings 
  
-While most involved in the film industry would be disappointed if a much anticipated Oscar nomination did not eventuate, for the woman behind the campaigns against the principal who raped six school girls, the awards snub is a welcome relief.</content> 
-<sequenceId type="str">695200417783</sequenceId> 
-<topics type="list"> 
+While most involved in the film industry would be disappointed if a much anticipated Oscar nomination did not eventuate, for the woman behind the campaigns against the principal who raped six school girls, the awards snub is a welcome relief.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -57,7 +56,8 @@ While most involved in the film industry would be disappointed if a much anticip
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:58Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s ban could keep Iranian from Oscars</title> 
+</TOPICS> 
+<DOCID type="str">695200417783</DOCID> 
+<DCT type="str">2017-01-29T07:59:58Z</DCT> 
+<TITLE type="str">Trump&apos;s ban could keep Iranian from Oscars</TITLE> 
 </root>

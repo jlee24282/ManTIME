@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">( Catholicculture.org ) — Every day I pray for Pope Francis. And every day (I am exaggerating, but only slightly), the Pope issues another reminder that he does not approve of Catholics like me. 
+<TEXT type="str">( Catholicculture.org ) — Every day I pray for Pope Francis. And every day (I am exaggerating, but only slightly), the Pope issues another reminder that he does not approve of Catholics like me. 
  
 If the Holy Father were rebuking me for my sins, I would have no reason to complain. But day after weary day the Pope upbraids me—and countless thousands of other faithful Catholics—for clinging to, and sometimes suffering for, the truths that the Church has always taught. We are rigid, he tells us. We are the “doctors of the law,” the Pharisees, who only want to be “comfortable” with our faith. 
  
@@ -22,9 +22,8 @@ In short the Pope cannot teach something new. He can certainly express old truth
  
 Many faithful Catholics believe that with  Amoris Laetitia , Pope Francis has encouraged beliefs and practices that are incompatible with the prior teachings of the Church. If that complaint is accurate, he has violated the sacred trust that is given to Peter’s successors. If it is not accurate, at a minimum the Holy Father owes us explanations, not insults. 
 
-This article was originally published on Catholicculture.org  and is re-published with permission.</content> 
-<sequenceId type="str">695196432630</sequenceId> 
-<topics type="list"> 
+This article was originally published on Catholicculture.org  and is re-published with permission.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ This article was originally published on Catholicculture.org  and is re-publish
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:32Z</estimatedPublishedDate> 
-<title type="str">Pope Francis has become a source of division opinion about 5 hours ago</title> 
+</TOPICS> 
+<DOCID type="str">695196432630</DOCID> 
+<DCT type="str">2017-01-29T07:29:32Z</DCT> 
+<TITLE type="str">Pope Francis has become a source of division opinion about 5 hours ago</TITLE> 
 </root>

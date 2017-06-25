@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Simplicity is key. 
+<TEXT type="str">By Simplicity is key. 
  
 Life can be difficult. It can even be daunting. When you come home from a hard day of wrangling penguins, the last thing you want to do is put together a meal with 27 different ingredients. 
  
@@ -172,9 +172,8 @@ In a heavy-bottomed saucepan or skillet, heat oil over medium heat and add garli
  
 Per serving: 415 calories; 10 g fat; 2 g saturated fat; no cholesterol; 22 g protein; 62 g carbohydrate; 4 g sugar; 14 g fiber; 570 mg sodium, 159 mg calcium. Nutrition analysis used 15.5-ounce canned beans. 
  
-Adapted from “The Art of Simple Food,” by Alice Waters</content> 
-<sequenceId type="str">695196756931</sequenceId> 
-<topics type="list"> 
+Adapted from “The Art of Simple Food,” by Alice Waters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -183,7 +182,8 @@ Adapted from “The Art of Simple Food,” by Alice Waters</content>
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: recipes</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Fabulous recipes with just 5 ingredients (or fewer!)</title> 
+</TOPICS> 
+<DOCID type="str">695196756931</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Fabulous recipes with just 5 ingredients (or fewer!)</TITLE> 
 </root>

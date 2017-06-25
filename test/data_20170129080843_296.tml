@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- American Hockey League (AHL) - Cleveland Monsters News Release 
+<TEXT type="str">- American Hockey League (AHL) - Cleveland Monsters News Release 
  
 CLEVELAND - The AHL&apos;s defending Calder Cup Champions, the Cleveland Monsters, proudly powered by Constellation, defeated the Chicago Wolves in a nine-round shootout on Saturday in front of 14,527 fans on Cleveland Indians Tribute Night at The Q by a final score of 3-2. With the win, the Monsters improved to 20-17-1-3 overall this season and with a .537 points percentage, remain alone in fourth place in the AHL&apos;s Central Division standings. 
  
@@ -26,9 +26,8 @@ The Cleveland Monsters are part of the Cleveland Cavaliers and Quicken Loans Are
 Tweet 
 
  
-The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</content> 
-<sequenceId type="str">695198806326</sequenceId> 
-<topics type="list"> 
+The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: MLB - Cleveland Indians news</name> 
@@ -45,7 +44,8 @@ The opinions expressed in this release are those of the organization issuing it,
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:04:00Z</estimatedPublishedDate> 
-<title type="str">MONSTERS GAME SUMMARY: Monsters Hit Home Run on Indians Night, Top</title> 
+</TOPICS> 
+<DOCID type="str">695198806326</DOCID> 
+<DCT type="str">2017-01-29T03:04:00Z</DCT> 
+<TITLE type="str">MONSTERS GAME SUMMARY: Monsters Hit Home Run on Indians Night, Top</TITLE> 
 </root>

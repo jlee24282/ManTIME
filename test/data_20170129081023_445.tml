@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">| Sonoma County is speaking out — shouting might be a better word — in resistance to the Trump administration’s agenda of fear and hate. The local Women’s March on Jan. 21 was the most visible outcry, but there is much more evolving locally.
+<TEXT type="str">| Sonoma County is speaking out — shouting might be a better word — in resistance to the Trump administration’s agenda of fear and hate. The local Women’s March on Jan. 21 was the most visible outcry, but there is much more evolving locally.
 
 We will not be dragged back to our racist, homophobic, patriarchal past. We must continue to move forward, and we expect our elected representatives to join us.
 
@@ -34,9 +34,8 @@ We, the undersigned organizations, call upon all Sonoma County governing authori
 
 Furthermore, we, the undersigned organizations, in obedience to our consciences, pledge to protect all community members and will support our local governments as they move to resist these undemocratic and un-American practices in order to reaffirm their commitment to inclusivity, respect and dignity.
 
-Susan Lamont, former president of the Peace and Justice Center of Sonoma County and longtime peace activist, is a resident of Santa Rosa.</content> 
-<sequenceId type="str">695202785985</sequenceId> 
-<topics type="list"> 
+Susan Lamont, former president of the Peace and Justice Center of Sonoma County and longtime peace activist, is a resident of Santa Rosa.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -45,7 +44,8 @@ Susan Lamont, former president of the Peace and Justice Center of Sonoma County 
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Close to Home: Rallying around a statement of defiance</title> 
+</TOPICS> 
+<DOCID type="str">695202785985</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Close to Home: Rallying around a statement of defiance</TITLE> 
 </root>

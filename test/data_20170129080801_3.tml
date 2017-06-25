@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(The Sports Xchange) - Stephen Curry bombed in five three-pointers in a personal 25-point, third-quarter explosion, helping the Golden State Warriors run away from the Los Angeles Clippers in a 144-98 victory on Saturday.  The 46-point victory margin was the Warriors&apos; biggest of the season.  The Clippers, meanwhile, had not previously lost by more than 26 this year.</content> 
-<sequenceId type="str">695196960881</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">(The Sports Xchange) - Stephen Curry bombed in five three-pointers in a personal 25-point, third-quarter explosion, helping the Golden State Warriors run away from the Los Angeles Clippers in a 144-98 victory on Saturday.  The 46-point victory margin was the Warriors&apos; biggest of the season.  The Clippers, meanwhile, had not previously lost by more than 26 this year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Golden State Warriors news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:44:15Z</estimatedPublishedDate> 
-<title type="str">Curry sizzles for 43 points as Warriors slice up Clippers (Reuters)</title> 
+</TOPICS> 
+<DOCID type="str">695196960881</DOCID> 
+<DCT type="str">2017-01-29T04:44:15Z</DCT> 
+<TITLE type="str">Curry sizzles for 43 points as Warriors slice up Clippers (Reuters)</TITLE> 
 </root>

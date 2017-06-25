@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Armed Offenders Squad is swarming a Hamilton street where a man has reportedly run off with a shotgun. 
+<TEXT type="str">The Armed Offenders Squad is swarming a Hamilton street where a man has reportedly run off with a shotgun. 
 
 Police have cordoned the end of Maitland St in Frankton where the man has run down a driveway, resident Brent Halpon told the Herald. 
 
@@ -16,9 +16,8 @@ A Maitland St resident then called police saying there was a man with a shotgun 
 A Police spokesman confirmed the Armed Offenders Squad was at Maitland St responding to a report of a man having a firearm. 
 
 
-- NZ Herald</content> 
-<sequenceId type="str">695196112506</sequenceId> 
-<topics type="list"> 
+- NZ Herald</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -27,7 +26,8 @@ A Police spokesman confirmed the Armed Offenders Squad was at Maitland St respon
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:14Z</estimatedPublishedDate> 
-<title type="str">AOS callout in Hamilton: &apos;There&apos;s snipers on every corner&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695196112506</DOCID> 
+<DCT type="str">2017-01-29T07:27:14Z</DCT> 
+<TITLE type="str">AOS callout in Hamilton: &apos;There&apos;s snipers on every corner&apos;</TITLE> 
 </root>

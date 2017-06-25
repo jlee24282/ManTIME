@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">If you already have an account, login here: Login
+<TEXT type="str">If you already have an account, login here: Login
 
-New user? Register Now</content> 
-<sequenceId type="str">695197503508</sequenceId> 
-<topics type="list"> 
+New user? Register Now</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -17,7 +16,8 @@ New user? Register Now</content>
 <group type="str">Society</group> 
 <name type="str">US politics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:07Z</estimatedPublishedDate> 
-<title type="str">French left-wing presidential primary: Hamon vs. Valls</title> 
+</TOPICS> 
+<DOCID type="str">695197503508</DOCID> 
+<DCT type="str">2017-01-29T07:38:07Z</DCT> 
+<TITLE type="str">French left-wing presidential primary: Hamon vs. Valls</TITLE> 
 </root>

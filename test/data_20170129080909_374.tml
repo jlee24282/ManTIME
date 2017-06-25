@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON – A resistance movement is taking shape in social media against the Trump administration, inspired by the new president’s efforts to control information. 
+<TEXT type="str">WASHINGTON – A resistance movement is taking shape in social media against the Trump administration, inspired by the new president’s efforts to control information. 
  
 It began after the deletion of tweets and data from official U.S. accounts and websites that proved embarrassing to him, including government reports on climate change, which have been challenged by President Donald Trump. 
  
@@ -66,9 +66,8 @@ Advocacy groups nationwide are hiring more staff lawyers, coordinating with priv
  
 Trump’s first week in office only heightened their anxieties. He moved to resume construction of the Keystone XL and Dakota Access pipelines that the Obama administration had halted, while signaling intentions to abandon his predecessor’s fight against global warming, vastly expand oil and gas drilling on public lands and slash the EPA’s budget. 
  
-GOP lawmakers, meanwhile, introduced measures to overturn a new Interior Department rule barring coal mining companies from damaging streams and to remove some wolves from the endangered species list.</content> 
-<sequenceId type="str">695200097674</sequenceId> 
-<topics type="list"> 
+GOP lawmakers, meanwhile, introduced measures to overturn a new Interior Department rule barring coal mining companies from damaging streams and to remove some wolves from the endangered species list.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Climate change news</name> 
@@ -89,7 +88,8 @@ GOP lawmakers, meanwhile, introduced measures to overturn a new Interior Departm
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:47Z</estimatedPublishedDate> 
-<title type="str">After Trump&apos;s move to control information, &apos;resistance&apos; movement coalesces on social media</title> 
+</TOPICS> 
+<DOCID type="str">695200097674</DOCID> 
+<DCT type="str">2017-01-29T07:56:47Z</DCT> 
+<TITLE type="str">After Trump&apos;s move to control information, &apos;resistance&apos; movement coalesces on social media</TITLE> 
 </root>

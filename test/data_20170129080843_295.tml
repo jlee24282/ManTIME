@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- American Hockey League (AHL) - Bakersfield Condors News Release 
+<TEXT type="str">- American Hockey League (AHL) - Bakersfield Condors News Release 
  
 CEDAR PARK, Texas - The Bakersfield Condors (17-16-4-1) received a sensational goaltending performance from rookie G Nick Ellis in a 4-2 win over the Texas Stars (20-19-1-2) on Saturday night at H-E-B Center. Ellis stopped a career high 44 shots. With the win, the Condors swept the Stars and moved to sixth in the Pacific Division, six points out of a playoff spot. 
  
@@ -28,9 +28,8 @@ www.BakersfieldCondors.com
 Tweet 
 
  
-The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</content> 
-<sequenceId type="str">695198806117</sequenceId> 
-<topics type="list"> 
+The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -39,7 +38,8 @@ The opinions expressed in this release are those of the organization issuing it,
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:00:00Z</estimatedPublishedDate> 
-<title type="str">Ellis Turns Away 44 as Condors Sweep Texas, 4-2</title> 
+</TOPICS> 
+<DOCID type="str">695198806117</DOCID> 
+<DCT type="str">2017-01-29T03:00:00Z</DCT> 
+<TITLE type="str">Ellis Turns Away 44 as Condors Sweep Texas, 4-2</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Beijing residents concerned about breathing the capital&apos;s thick grey air are adapting, inventing and even creating businesses to protect the health of their families and others. Some of their efforts could help people around the world. 
+<TEXT type="str">Beijing residents concerned about breathing the capital&apos;s thick grey air are adapting, inventing and even creating businesses to protect the health of their families and others. Some of their efforts could help people around the world. 
  
 Already this year, the smog-shrouded capital has suffered particularly hazardous bouts of pollution caused mainly by coal burning and vehicle emissions. Like other Chinese cities, Beijing is trying to tackle the problem: City authorities say they will spend US$2.7 billion this year to help replace coal with natural gas, close heavily polluting factories, and take older vehicles off the road. 
  
@@ -54,9 +54,8 @@ The school monitors pollutant levels and instructs teachers to make sure windows
  
 Some international schools in Beijing have installed air-inflated sports domes for athletics, complete with air filters and rotating doors to help keep them sealed. 
  
-- AP</content> 
-<sequenceId type="str">695194962835</sequenceId> 
-<topics type="list"> 
+- AP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -77,7 +76,8 @@ Some international schools in Beijing have installed air-inflated sports domes f
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Smog pushes Beijing residents to innovate for the world</title> 
+</TOPICS> 
+<DOCID type="str">695194962835</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Smog pushes Beijing residents to innovate for the world</TITLE> 
 </root>

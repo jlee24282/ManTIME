@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(Adds statement from Indonesian embassy in Washington, details) 
+<TEXT type="str">(Adds statement from Indonesian embassy in Washington, details) 
     
 By Agustinus Beo Da Costa 
     
@@ -39,9 +39,8 @@ Barack Obama, who spent part of his childhood in Jakarta.
 Indonesian President Joko Widodo said after Trump&apos;s
 inauguration he was optimistic that relations between the
 countries would strengthen, to the benefit of both.
-  Continued...</content> 
-<sequenceId type="str">695201132772</sequenceId> 
-<topics type="list"> 
+  Continued...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -66,7 +65,8 @@ countries would strengthen, to the benefit of both.
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:33Z</estimatedPublishedDate> 
-<title type="str">UPDATE 1-Muslim-majority Indonesia deeply regrets U.S. immigrant vetting plans</title> 
+</TOPICS> 
+<DOCID type="str">695201132772</DOCID> 
+<DCT type="str">2017-01-29T08:04:33Z</DCT> 
+<TITLE type="str">UPDATE 1-Muslim-majority Indonesia deeply regrets U.S. immigrant vetting plans</TITLE> 
 </root>

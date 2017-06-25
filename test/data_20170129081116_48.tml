@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A recent In My View column headed “Problem is rigid ideologies, not Electoral College,” treated two different subjects as one to justify the Electoral College. The writer illuminated rigid ideologies but obfuscated the issue of the Electoral College. At a time when we have elected a president while the opposing party received 2.6 million more votes, this deserves honest scrutiny. 
+<TEXT type="str">A recent In My View column headed “Problem is rigid ideologies, not Electoral College,” treated two different subjects as one to justify the Electoral College. The writer illuminated rigid ideologies but obfuscated the issue of the Electoral College. At a time when we have elected a president while the opposing party received 2.6 million more votes, this deserves honest scrutiny. 
  
 To quote the writer: “The purpose of the Electoral College is to select a winner who represents a geographically broader portion of the country despite not receiving the majority vote.” This is as good a definition as I have found, but what does it really mean? It means that the Electoral College is a device to override the popular vote. 
  
@@ -22,9 +22,8 @@ We live today in a deeply troubled nation. Voter turnout is pitifully low. Too m
  
 It comes down to what kind of nation we want to be. Are we content to live in a nation in which our vote may count, or not count, depending on what serves an apparatus beyond direct accountability? Or do we want to live in a nation of transparent and accountable voting, based on one person, one vote? In that case we need to recognize the Electoral College for what it is, and say good riddance. 
  
-— Al Baensch lives in Prineville.</content> 
-<sequenceId type="str">695204262262</sequenceId> 
-<topics type="list"> 
+— Al Baensch lives in Prineville.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ It comes down to what kind of nation we want to be. Are we content to live in a 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:43Z</estimatedPublishedDate> 
-<title type="str">Letter: Say good riddance to Electoral College</title> 
+</TOPICS> 
+<DOCID type="str">695204262262</DOCID> 
+<DCT type="str">2017-01-29T08:27:43Z</DCT> 
+<TITLE type="str">Letter: Say good riddance to Electoral College</TITLE> 
 </root>

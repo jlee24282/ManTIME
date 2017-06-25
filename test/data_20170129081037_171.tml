@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Once a long time ago, beyond the two bluest mountains on the horizon, down Misty Lane that led between two giant hemlock trees, there lay a beautiful meadow. And in this meadow there lived a Snowlygaster. He was as big as a house, as high as a house, as long as a house, and as wide as a house. Never was there another animal as big as the Snowlygaster. 
+<TEXT type="str">Once a long time ago, beyond the two bluest mountains on the horizon, down Misty Lane that led between two giant hemlock trees, there lay a beautiful meadow. And in this meadow there lived a Snowlygaster. He was as big as a house, as high as a house, as long as a house, and as wide as a house. Never was there another animal as big as the Snowlygaster. 
 
 He had two heads! One like a horse&apos;s head with soft brown eyes and a flowing white mane. One like a dragon&apos;s head with flashing blue eyes and covered with green scales. This head breathed fire from its nose and mouth. No animal was ever kinder than the Snowlygaster&apos;s horse head. And none was ever more ferocious than the green dragon head. 
 
@@ -16,9 +16,8 @@ Jessica Stillwell
 Dorrance Publishing 
 
 
-You can see the original version and more on PRLeap here</content> 
-<sequenceId type="str">695202962157</sequenceId> 
-<topics type="list"> 
+You can see the original version and more on PRLeap here</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Biotech news</name> 
@@ -35,7 +34,8 @@ You can see the original version and more on PRLeap here</content>
 <group type="str">Media</group> 
 <name type="str">Book publishing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Centralia, WA Author Publishes Children&apos;s Book</title> 
+</TOPICS> 
+<DOCID type="str">695202962157</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Centralia, WA Author Publishes Children&apos;s Book</TITLE> 
 </root>

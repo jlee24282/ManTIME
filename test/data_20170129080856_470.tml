@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">KWOS Radio will celebrate 80 years of service Monday. The Jefferson City station traces its start back to the family who began the News Tribune. 
+<TEXT type="str">KWOS Radio will celebrate 80 years of service Monday. The Jefferson City station traces its start back to the family who began the News Tribune. 
  
 &quot;Robert C. Goshorn, the father of longtime News Tribune Publisher Betty Weldon, is responsible for the station we know now,&quot; KWOS Chief Engineer Steve Morse said. &quot;There was no format. It was only on during the day. They signed on at 12:30 p.m. and went off at 5:30 p.m their first day on the air. They later went from 6 a.m. to sunset. The first license we found shows the Tribune as the owner. In their first year of operation, they lost $5,000. They were not selling lot of advertising, and back then, that was a lot of money. But they were able to survive.&quot; 
  
@@ -42,9 +42,8 @@ Morse did morning shifts and recalled a memorable day when the phone company had
  
 &quot;At the time, all audio came down through phone lines,&quot; he said. &quot;This morning, the audio cuts off, but the music stayed on. All of a sudden, we heard some cursing going over the air, and it was the engineer at our transmitter site, waiting on the phone company. So that went on the air, and there was no way we could cut it off. Some of the front office folks came running in, and I told them there we couldn&apos;t stop it. This went on for a few minutes, but it felt longer. Finally the phone company realized what was going on and made the switch. Our general manager was trying to get out to the transmitter to let our engineer know, but the switch happened while he was headed out there.&quot; 
  
-&quot;As we look at the future, we&apos;re adapting with the changes brought about by social media,&quot; Marsh said. &quot;We&apos;re not just a radio station. We&apos;ll keep watching our state.&quot;</content> 
-<sequenceId type="str">695199638653</sequenceId> 
-<topics type="list"> 
+&quot;As we look at the future, we&apos;re adapting with the changes brought about by social media,&quot; Marsh said. &quot;We&apos;re not just a radio station. We&apos;ll keep watching our state.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Radio industry news</name> 
@@ -53,7 +52,8 @@ Morse did morning shifts and recalled a memorable day when the phone company had
 <group type="str">Media</group> 
 <name type="str">Broadcasting industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:03Z</estimatedPublishedDate> 
-<title type="str">Radio station marking 80th year</title> 
+</TOPICS> 
+<DOCID type="str">695199638653</DOCID> 
+<DCT type="str">2017-01-29T07:53:03Z</DCT> 
+<TITLE type="str">Radio station marking 80th year</TITLE> 
 </root>

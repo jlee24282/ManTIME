@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">THE start of a new school year is exciting for many, including Phillip McGreevy who has started his new position as principal of St Joseph&apos;s School. 
+<TEXT type="str">THE start of a new school year is exciting for many, including Phillip McGreevy who has started his new position as principal of St Joseph&apos;s School. 
  
 Originally from Brisbane, Mr McGreevy attended Sacred Heart Primary School at Sandgate and said he was glad he could return to his roots of being at a mercy school. 
  
@@ -18,9 +18,8 @@ Mr McGreevy said his goals for this year were to grow the enlivened Catholic com
  
 &quot;From my short time here, both of those are so evident,” he said. 
  
-&quot;The teaching staff are very committed, the parish community is a part of our network; I&apos;ve been very impressed by the committment to education in the catholic and, in this case, mercy tradition.”</content> 
-<sequenceId type="str">695204529226</sequenceId> 
-<topics type="list"> 
+&quot;The teaching staff are very committed, the parish community is a part of our network; I&apos;ve been very impressed by the committment to education in the catholic and, in this case, mercy tradition.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -33,7 +32,8 @@ Mr McGreevy said his goals for this year were to grow the enlivened Catholic com
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:18Z</estimatedPublishedDate> 
-<title type="str">New principal embraces his school&apos;s community spirit</title> 
+</TOPICS> 
+<DOCID type="str">695204529226</DOCID> 
+<DCT type="str">2017-01-29T08:30:18Z</DCT> 
+<TITLE type="str">New principal embraces his school&apos;s community spirit</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">If you consider yourself a fan of fresh, healthy fare, you are likely to lose your mind over the new MAD Greens restaurant in Lehi. 
+<TEXT type="str">If you consider yourself a fan of fresh, healthy fare, you are likely to lose your mind over the new MAD Greens restaurant in Lehi. 
  
 It&apos;s not an altogether crazy supposition, after all, as all the signature salads, wraps and sandwiches are named for well-known individuals from history who might, shall we say, have displayed a flair for being a bit unhinged. Not that there&apos;s anything wrong with that. 
  
@@ -28,9 +28,8 @@ Two of our other favorite samplings included Albert E&apos;s BLT in the MAD Wrap
  
 MAD Greens also boasts a series of seven MAD Juice creations. We tried two of them -- the Bright Buzz (apple, banana, bee pollen, carrot, pineapple and lime) and the Wake Up (carrot, orange, ginger, apple and lime). They were both interesting and tasty in their own way. 
  
-In summary, you don&apos;t have to be mad as a hatter to eat at MAD Greens, but it helps if you can embrace your inner crazy.</content> 
-<sequenceId type="str">695199336955</sequenceId> 
-<topics type="list"> 
+In summary, you don&apos;t have to be mad as a hatter to eat at MAD Greens, but it helps if you can embrace your inner crazy.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Restaurant industry news</name> 
@@ -39,7 +38,8 @@ In summary, you don&apos;t have to be mad as a hatter to eat at MAD Greens, but 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T17:30:00Z</estimatedPublishedDate> 
-<title type="str">8 locally reviewed restaurants to check out in Lehi</title> 
+</TOPICS> 
+<DOCID type="str">695199336955</DOCID> 
+<DCT type="str">2017-01-28T17:30:00Z</DCT> 
+<TITLE type="str">8 locally reviewed restaurants to check out in Lehi</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LOS ANGELES -- The Atlantic Division defeated the Pacific Division 9-7 in the NHL All-Star Skills Competition on Saturday. 
+<TEXT type="str">LOS ANGELES -- The Atlantic Division defeated the Pacific Division 9-7 in the NHL All-Star Skills Competition on Saturday. 
 
 In the final event determining the matchups for Sunday&apos;s All-Star Game, nine skaters and two goaltenders from the Pacific and the Atlantic faced off in the shootout. 
 
@@ -48,9 +48,8 @@ Afghanistan&apos;s Defense Ministry says it wants to raise the number of women s
 
 PanARMENIAN.Net - Afghanistan has announced fresh initiatives to bring more women into the army, weeks ... 
 
-PanARMENIAN.Net - Joking that &quot;opposites attract,&quot; UK Prime Minister Theresa May called on President U.S.Donald ...</content> 
-<sequenceId type="str">695196250156</sequenceId> 
-<topics type="list"> 
+PanARMENIAN.Net - Joking that &quot;opposites attract,&quot; UK Prime Minister Theresa May called on President U.S.Donald ...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
@@ -63,7 +62,8 @@ PanARMENIAN.Net - Joking that &quot;opposites attract,&quot; UK Prime Minister T
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:50:07Z</estimatedPublishedDate> 
-<title type="str">Atlantic defeats Pacific in NHL All-Star Skills Competition</title> 
+</TOPICS> 
+<DOCID type="str">695196250156</DOCID> 
+<DCT type="str">2017-01-29T02:50:07Z</DCT> 
+<TITLE type="str">Atlantic defeats Pacific in NHL All-Star Skills Competition</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(1 of ) TOM MEYER / meyertoons.com | The planet has broken global heat records for three years in a row — a finding that, paradoxically, may raise public concern about global warming but won’t change long-term climate forecasts.
+<TEXT type="str">(1 of ) TOM MEYER / meyertoons.com | The planet has broken global heat records for three years in a row — a finding that, paradoxically, may raise public concern about global warming but won’t change long-term climate forecasts.
 
 First, the good news: Scientists say the run of record-breaking temperatures doesn’t mean that we should expect every year to be relentlessly hotter than the last. From year to year, temperatures may cycle from hotter to cooler and back again. The bad news, however, is that without serious cuts in greenhouse-gas emissions, the world will get much warmer over the long term. There’s widespread consensus that over the course of the 21st century, unchecked global warming will disrupt agriculture, flood cities and drive species to extinction.
 
@@ -22,9 +22,8 @@ The theory of carbon dioxide warming is also backed by basic physics. Tabletop e
 
 The current spate of records, said Santer, is exactly what the scientists expected to see, given what they know about greenhouse-gas warming and the El Niño cycle. Last year, climatologist Michael Mann decided to calculate the odds of getting 13 of the 15 hottest years on record occurring since 2000 if natural forces were acting alone. His conclusion: around one in 10,000 — not as slim as what AP reported, but not exactly odds you’d want to bet the future on.
 
-Faye Flam is a columnist for Bloomberg View columnist.</content> 
-<sequenceId type="str">695202806649</sequenceId> 
-<topics type="list"> 
+Faye Flam is a columnist for Bloomberg View columnist.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Climate change news</name> 
@@ -33,7 +32,8 @@ Faye Flam is a columnist for Bloomberg View columnist.</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Even three scorching years don&apos;t make a trend</title> 
+</TOPICS> 
+<DOCID type="str">695202806649</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Even three scorching years don&apos;t make a trend</TITLE> 
 </root>

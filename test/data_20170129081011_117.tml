@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A rogue woman lived like a Washington elite for a day by using counterfeit credentials to impersonate a congressman&apos;s wife during a Republican retreat in which President Donald Trump spoke. 
+<TEXT type="str">A rogue woman lived like a Washington elite for a day by using counterfeit credentials to impersonate a congressman&apos;s wife during a Republican retreat in which President Donald Trump spoke. 
  
 The anonymous woman snuck into the GOP Retreat in Philadelphia on January 26 where President Trump, Vice President Mike Pence and British Prime Minister Theresa May met with lawmakers. 
  
@@ -42,9 +42,8 @@ Rep. Cathy McMorris Rodgers, Republican Representative from Washington and the c
  
 She continued by saying the Congressional Institute is working with Capitol Police to find the culprit.  
  
-Members of Capitol Police were in the room to make sure press did not roam where they were not welcome. A small group was escorted by security to listen to Trump&apos;s speeches.  </content> 
-<sequenceId type="str">695202188989</sequenceId> 
-<topics type="list"> 
+Members of Capitol Police were in the room to make sure press did not roam where they were not welcome. A small group was escorted by security to listen to Trump&apos;s speeches.  </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -57,7 +56,8 @@ Members of Capitol Police were in the room to make sure press did not roam where
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:07Z</estimatedPublishedDate> 
-<title type="str">Woman invades Republican retreat using fake credentials</title> 
+</TOPICS> 
+<DOCID type="str">695202188989</DOCID> 
+<DCT type="str">2017-01-29T08:12:07Z</DCT> 
+<TITLE type="str">Woman invades Republican retreat using fake credentials</TITLE> 
 </root>

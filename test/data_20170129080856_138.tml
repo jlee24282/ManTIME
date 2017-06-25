@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Matthew Holland, from Brant Broughton, appeared before magistrates accused of receiving stolen goods and threatening his neighbour, Graham Porter.
+<TEXT type="str">Matthew Holland, from Brant Broughton, appeared before magistrates accused of receiving stolen goods and threatening his neighbour, Graham Porter.
 
 His older brother, Sleaford man Ricky Rocky Holland, was also accused of handling stolen goods.
 
@@ -42,9 +42,8 @@ He also pleaded guilty to receiving a stolen Yamaha moped between May 24, 2015 a
 
 He was ordered to pay £280 and was handed a 26 week prison sentence suspended for 12 months.
 
-He was placed under a curfew between 7pm and 6am for a period of 20 weeks.</content> 
-<sequenceId type="str">695199244443</sequenceId> 
-<topics type="list"> 
+He was placed under a curfew between 7pm and 6am for a period of 20 weeks.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -53,7 +52,8 @@ He was placed under a curfew between 7pm and 6am for a period of 20 weeks.</cont
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">&quot;I&apos;m going to smash your face in&quot; - neighbour makes...</title> 
+</TOPICS> 
+<DOCID type="str">695199244443</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">&quot;I&apos;m going to smash your face in&quot; - neighbour makes...</TITLE> 
 </root>

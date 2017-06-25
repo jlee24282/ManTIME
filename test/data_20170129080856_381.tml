@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A man was shot to death inside a Brea parking structure. Jane Yamamoto reports for the NBC4 News at 6 on Saturday, Jan. 28, 2017. (Published 4 hours ago) 
+<TEXT type="str">A man was shot to death inside a Brea parking structure. Jane Yamamoto reports for the NBC4 News at 6 on Saturday, Jan. 28, 2017. (Published 4 hours ago) 
  
 A man was fatally shot in an underground parking lot of a Target store in Brea, police said. 
  
@@ -19,9 +19,8 @@ The Target store remained open for business Saturday, but the underground parkin
 No further information was immediately available. 
  
 Published at 1:24 PM PST on Jan 28, 2017 | Updated 4 hours ago 
-  Get the latest from NBC4 anywhere, anytime  Download the App Available for IOS and Android   Follow NBC4</content> 
-<sequenceId type="str">695199527170</sequenceId> 
-<topics type="list"> 
+  Get the latest from NBC4 anywhere, anytime  Download the App Available for IOS and Android   Follow NBC4</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Retail industry news</name> 
@@ -34,7 +33,8 @@ Published at 1:24 PM PST on Jan 28, 2017 | Updated 4 hours ago
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:04Z</estimatedPublishedDate> 
-<title type="str">Video•Man Fatally Shot in Underground Parking Lot at Target</title> 
+</TOPICS> 
+<DOCID type="str">695199527170</DOCID> 
+<DCT type="str">2017-01-29T07:52:04Z</DCT> 
+<TITLE type="str">Video•Man Fatally Shot in Underground Parking Lot at Target</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">12:01 a.m.  Updated 
+<TEXT type="str">12:01 a.m.  Updated 
  Operating losses for the seventh consecutive year to near-break-even   
 EMBARGOED UNTIL SUNDAY, 1/29 AT NOON 
  
@@ -30,9 +30,8 @@ Additionally, the authority said a $2 million technology upgrade was completed i
  
 In 2016, the event center hosted 16 city-wide conventions, including the annual North American International Auto Show. 
  
-Cobo lays claim to being the 17th largest convention center in the country with 723,000 square feet of exhibition space and nearly 1.5 million visitors each year.</content> 
-<sequenceId type="str">695198969429</sequenceId> 
-<topics type="list"> 
+Cobo lays claim to being the 17th largest convention center in the country with 723,000 square feet of exhibition space and nearly 1.5 million visitors each year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Transportation industry news</name> 
@@ -45,7 +44,8 @@ Cobo lays claim to being the 17th largest convention center in the country with 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:01:00Z</estimatedPublishedDate> 
-<title type="str">Detroit Regional Transportation Authority makes early, $13.5 million debt payment that will save taxpayers</title> 
+</TOPICS> 
+<DOCID type="str">695198969429</DOCID> 
+<DCT type="str">2017-01-29T04:01:00Z</DCT> 
+<TITLE type="str">Detroit Regional Transportation Authority makes early, $13.5 million debt payment that will save taxpayers</TITLE> 
 </root>

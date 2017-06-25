@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan 29 (Reuters) - El Nile Company for Pharmaceuticals and
+<TEXT type="str">Jan 29 (Reuters) - El Nile Company for Pharmaceuticals and
 Chemical Industries 
     
 * H1 net profit EGP 15.9 million versus EGP 4.8 million year
@@ -10,9 +10,8 @@ ago
 year ago
 
 Source: ( bit.ly/2kGvePq )
-Further company coverage:</content> 
-<sequenceId type="str">695202492442</sequenceId> 
-<topics type="list"> 
+Further company coverage:</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Pharma industry news</name> 
@@ -33,7 +32,8 @@ Further company coverage:</content>
 <group type="str">Regional</group> 
 <name type="str">North Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:18Z</estimatedPublishedDate> 
-<title type="str">BRIEF-El Nile Co for Pharmaceuticals and Chemical Industries H1 profit rises</title> 
+</TOPICS> 
+<DOCID type="str">695202492442</DOCID> 
+<DCT type="str">2017-01-29T08:14:18Z</DCT> 
+<TITLE type="str">BRIEF-El Nile Co for Pharmaceuticals and Chemical Industries H1 profit rises</TITLE> 
 </root>

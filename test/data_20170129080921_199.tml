@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NORTHAMPTON - Old friends know you. 
+<TEXT type="str">NORTHAMPTON - Old friends know you. 
  
 They know your stories, your jokes and all the things that make you who you are. 
  
@@ -104,9 +104,8 @@ ENCORE
  
 1) Have A Little Faith In Me (Hiatt) 
  
-2) North Dakota (Lovett)</content> 
-<sequenceId type="str">695200376123</sequenceId> 
-<topics type="list"> 
+2) North Dakota (Lovett)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -115,7 +114,8 @@ ENCORE
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: theater news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:00Z</estimatedPublishedDate> 
-<title type="str">Concert Review: Lyle Lovett, John Hiatt right at home at Northampton&apos;s Calvin Theatre</title> 
+</TOPICS> 
+<DOCID type="str">695200376123</DOCID> 
+<DCT type="str">2017-01-29T07:30:00Z</DCT> 
+<TITLE type="str">Concert Review: Lyle Lovett, John Hiatt right at home at Northampton&apos;s Calvin Theatre</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">South Africa will meet Fiji in the Final of the Wellington leg of the Sevens World Series.
+<TEXT type="str">South Africa will meet Fiji in the Final of the Wellington leg of the Sevens World Series.
 
 The BlitzBoks, producing another fine defensive effort, eased to a 21-5 win over a physical Canadian team that was made to pay for over-reliance on their brutality.
 
@@ -68,9 +68,8 @@ Results:
 
 Russia 15-5 Japan
 
-Papua New Guinea 7-35 Samoa Rugby365.com Rugby365</content> 
-<sequenceId type="str">695195690671</sequenceId> 
-<topics type="list"> 
+Papua New Guinea 7-35 Samoa Rugby365.com Rugby365</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Fiji news</name> 
@@ -99,7 +98,8 @@ Papua New Guinea 7-35 Samoa Rugby365.com Rugby365</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:53Z</estimatedPublishedDate> 
-<title type="str">BlitzBoks to meet Fiji in Final</title> 
+</TOPICS> 
+<DOCID type="str">695195690671</DOCID> 
+<DCT type="str">2017-01-29T07:23:53Z</DCT> 
+<TITLE type="str">BlitzBoks to meet Fiji in Final</TITLE> 
 </root>

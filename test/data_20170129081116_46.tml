@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In the mid-1970s, the coolest person I knew was Jimmy Walz, who had cool suits and a cool car (Peugeot 504 Diesel with a sunroof), a lucrative job that did not encumber his days and a restless, popping energy that powered his nights. 
+<TEXT type="str">In the mid-1970s, the coolest person I knew was Jimmy Walz, who had cool suits and a cool car (Peugeot 504 Diesel with a sunroof), a lucrative job that did not encumber his days and a restless, popping energy that powered his nights. 
  
 Jimmy loved going to bars and listening to bands, so much that at one point he bought a bar and at another he started a band. 
  
@@ -34,9 +34,8 @@ I walk out of the studio and into the newsroom and say, “That was ‘a little 
  
 Not the coolest thing to say. But who needs to be cool? Right, Mary? 
  
-— Colin McEnroe is a columnist for the Hartford Courant and a radio host on Connecticut Public Radio.</content> 
-<sequenceId type="str">695204261812</sequenceId> 
-<topics type="list"> 
+— Colin McEnroe is a columnist for the Hartford Courant and a radio host on Connecticut Public Radio.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -45,7 +44,8 @@ Not the coolest thing to say. But who needs to be cool? Right, Mary?
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:43Z</estimatedPublishedDate> 
-<title type="str">Column: Mary Richards was one of us — uncool and with a heart</title> 
+</TOPICS> 
+<DOCID type="str">695204261812</DOCID> 
+<DCT type="str">2017-01-29T08:27:43Z</DCT> 
+<TITLE type="str">Column: Mary Richards was one of us — uncool and with a heart</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Chinese court Monday sentenced a former top official to life in prison for corruption involving millions of dollars, the latest high-profile conviction in President Xi Jinping&apos;s crackdown on graft. 
+<TEXT type="str">A Chinese court Monday sentenced a former top official to life in prison for corruption involving millions of dollars, the latest high-profile conviction in President Xi Jinping&apos;s crackdown on graft. 
  
 Su Rong, 66, was a vice chairman of the Chinese People&apos;s Political Consultative Conference (CPPCC), a discussion body that is part of the Communist Party-controlled government structure. 
  
@@ -41,9 +41,8 @@ In November Chinese courts jailed almost 50 company managers and government offi
  
 A government report found that officials had routinely ignored or violated laws and regulations on chemical storage. 
  
-Fears of toxic pollution were rife following the explosion, with cyanide levels in the disaster zone far above national limits.</content> 
-<sequenceId type="str">695202853340</sequenceId> 
-<topics type="list"> 
+Fears of toxic pollution were rife following the explosion, with cyanide levels in the disaster zone far above national limits.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -56,7 +55,8 @@ Fears of toxic pollution were rife following the explosion, with cyanide levels 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:04Z</estimatedPublishedDate> 
-<title type="str">China sentences former senior official to life term for graft</title> 
+</TOPICS> 
+<DOCID type="str">695202853340</DOCID> 
+<DCT type="str">2017-01-29T08:17:04Z</DCT> 
+<TITLE type="str">China sentences former senior official to life term for graft</TITLE> 
 </root>

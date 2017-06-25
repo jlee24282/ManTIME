@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695196351566</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:54Z</estimatedPublishedDate> 
-<title type="str">Japan&apos;s PM to meet President Trump in February</title> 
+</TOPICS> 
+<DOCID type="str">695196351566</DOCID> 
+<DCT type="str">2017-01-29T07:28:54Z</DCT> 
+<TITLE type="str">Japan&apos;s PM to meet President Trump in February</TITLE> 
 </root>

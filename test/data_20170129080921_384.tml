@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This video has been age-restricted based on our Community Guidelines  
+<TEXT type="str">This video has been age-restricted based on our Community Guidelines  
 Dailymotion understands that some content may not be appropriate for all users. 
 We provide an age gate so that you can block certain inappropriate content. 
 Turning OFF the Age Gate may display content that is only suitable for viewers over 18 years of age. 
 
-Click the button below if you are over 18 and would like to turn OFF the Age Gate.</content> 
-<sequenceId type="str">695200520629</sequenceId> 
-<topics type="list"> 
+Click the button below if you are over 18 and would like to turn OFF the Age Gate.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
@@ -16,7 +15,8 @@ Click the button below if you are over 18 and would like to turn OFF the Age Gat
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:55Z</estimatedPublishedDate> 
-<title type="str">Free PDF Experiencing School Mathematics: Teaching Styles, Sex, and Setting Books Online</title> 
+</TOPICS> 
+<DOCID type="str">695200520629</DOCID> 
+<DCT type="str">2017-01-29T07:52:55Z</DCT> 
+<TITLE type="str">Free PDF Experiencing School Mathematics: Teaching Styles, Sex, and Setting Books Online</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  
+<TEXT type="str">  
 
 JESSE JACKSON AND Donald Trump both awakened on inauguration morning with troubled minds. 
 
@@ -63,9 +63,8 @@ The story may be partially myth, but Randolph achieved much of his agenda. Today
 . 
 &quot;The Women&apos;s March was an opportunity,&quot; Jackson said, &quot;not a threat.&quot; 
 Roger Simon is Politico&apos;s chief political columnist. 
-..</content> 
-<sequenceId type="str">695193863550</sequenceId> 
-<topics type="list"> 
+..</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Black interest news</name> 
@@ -78,7 +77,8 @@ Roger Simon is Politico&apos;s chief political columnist.
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:14:00Z</estimatedPublishedDate> 
-<title type="str">ROGER SIMON Jesse Jackson &apos;You drown when you stop kicking&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695193863550</DOCID> 
+<DCT type="str">2017-01-29T02:14:00Z</DCT> 
+<TITLE type="str">ROGER SIMON Jesse Jackson &apos;You drown when you stop kicking&apos;</TITLE> 
 </root>

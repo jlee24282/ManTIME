@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rick Diamond/ 
+<TEXT type="str">Rick Diamond/ 
 As we head into a new year, I always put together a list of my ‘Must See, Must Do’ events for the coming months. We have so many festivals here in Louisiana, that it’s hard to choose just some of them to attend, but I try to hit as many as possible! 
  
     
@@ -42,9 +42,8 @@ Breaux Bridge
     
 Celebrating the humble mudbug in Breaux Bridge every May is a time honored Louisiana tradition. The Crawfish Festival is the largest gathering of Cajun, Zydeco, and Swamp Pop musicians in the world, with 30 different bands in 3 days. Not to mention unbelievably delicious crawfish dishes, local cuisine, arts and crafts, and really great people watching in the heart of Cajun country. 
    
-breaux bridge crawfish festival</content> 
-<sequenceId type="str">695201115414</sequenceId> 
-<topics type="list"> 
+breaux bridge crawfish festival</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New Orleans news</name> 
@@ -53,7 +52,8 @@ breaux bridge crawfish festival</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:29Z</estimatedPublishedDate> 
-<title type="str">Stephanie&apos;s Top 5 Louisiana Festivals For 2017</title> 
+</TOPICS> 
+<DOCID type="str">695201115414</DOCID> 
+<DCT type="str">2017-01-29T08:00:29Z</DCT> 
+<TITLE type="str">Stephanie&apos;s Top 5 Louisiana Festivals For 2017</TITLE> 
 </root>

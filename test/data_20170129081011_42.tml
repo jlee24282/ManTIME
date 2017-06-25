@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Roger Federer v Rafael Nadal LIVE! 
+<TEXT type="str">Roger Federer v Rafael Nadal LIVE! 
 
 7 comments 
 
@@ -34,9 +34,8 @@ VOTE: FEDERER OR NADAL?
 
 We&apos;re down to two greats of the game as Roger Federer or Rafael Nadal go into battle in the final of the Australian Open in Melbourne, so who do you think will win it? 
 
-To cast your vote, head here now!</content> 
-<sequenceId type="str">695202114163</sequenceId> 
-<topics type="list"> 
+To cast your vote, head here now!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ To cast your vote, head here now!</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:29Z</estimatedPublishedDate> 
-<title type="str">Federer v Nadal LIVE!</title> 
+</TOPICS> 
+<DOCID type="str">695202114163</DOCID> 
+<DCT type="str">2017-01-29T08:11:29Z</DCT> 
+<TITLE type="str">Federer v Nadal LIVE!</TITLE> 
 </root>

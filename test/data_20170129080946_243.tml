@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">3:01 a.m. ET Jan. 29, 2017 
+<TEXT type="str">3:01 a.m. ET Jan. 29, 2017 
    Buy Photo  
 George Davis, a Tennessee Technology Center student in the industrial maintenance program, works on testing a circuit board Jan. 11, 2012. (Photo: News Sentinel file photo) Buy Photo 
   
@@ -22,9 +22,8 @@ The best example of career guidance I’ve experienced was several years ago. My
  
 Donald Southwell, Loudon 
  
-Read or Share this story: http://knoxne.ws/2jDZUz5</content> 
-<sequenceId type="str">695201354295</sequenceId> 
-<topics type="list"> 
+Read or Share this story: http://knoxne.ws/2jDZUz5</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ Read or Share this story: http://knoxne.ws/2jDZUz5</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:03Z</estimatedPublishedDate> 
-<title type="str">Citizen&apos;s Voice: Students need part-time jobs, vocational classes</title> 
+</TOPICS> 
+<DOCID type="str">695201354295</DOCID> 
+<DCT type="str">2017-01-29T08:06:03Z</DCT> 
+<TITLE type="str">Citizen&apos;s Voice: Students need part-time jobs, vocational classes</TITLE> 
 </root>

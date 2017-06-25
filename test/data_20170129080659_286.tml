@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In light of recent political events, I find myself thinking at length about what makes America great.
+<TEXT type="str">In light of recent political events, I find myself thinking at length about what makes America great.
 
 America is not just great; it is exceptional. The hallmarks of American democracy are its tolerance for diversity of thought, its foundation in the rule of law and consent of the governed, and its protection of the rights of the individual and the rights of the minority.
 
-Posted in Letters on Sunday, Ja</content> 
-<sequenceId type="str">695194815099</sequenceId> 
-<topics type="list"> 
+Posted in Letters on Sunday, Ja</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -15,7 +14,8 @@ Posted in Letters on Sunday, Ja</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Letter to the editor: We must understand the evolution of freedom</title> 
+</TOPICS> 
+<DOCID type="str">695194815099</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Letter to the editor: We must understand the evolution of freedom</TITLE> 
 </root>

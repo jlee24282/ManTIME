@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">What some may think of as only possible in science fiction movies is actually happening on the Coast Guard base in Elizabeth City. Members of the Aviation Logistics Center’s Industrial Operations Division are utilizing emergent technology to design and create prototypes and components for aircraft. 
+<TEXT type="str">What some may think of as only possible in science fiction movies is actually happening on the Coast Guard base in Elizabeth City. Members of the Aviation Logistics Center’s Industrial Operations Division are utilizing emergent technology to design and create prototypes and components for aircraft. 
  
 The Industrial Operations Division, or IOD staff use Computer Aided Design and a 3D printer to create non-structural and non-flight critical components for aircraft – which saves the Coast Guard time and money. 
  
@@ -76,9 +76,8 @@ Josh Baker holds a fan cover for use in the cockpit of an H-60 Jayhawk helicopte
  
 Photo by Kristi Langenbacher 
  
-Chief Warrant Officer Tim Panek stands in front of the 3D printer and holds the production-grade thermoplastic material used the plastic to manufacture prototypes and components for the Coast Guard’s entire fleet of aircraft.</content> 
-<sequenceId type="str">695193852857</sequenceId> 
-<topics type="list"> 
+Chief Warrant Officer Tim Panek stands in front of the 3D printer and holds the production-grade thermoplastic material used the plastic to manufacture prototypes and components for the Coast Guard’s entire fleet of aircraft.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -87,7 +86,8 @@ Chief Warrant Officer Tim Panek stands in front of the 3D printer and holds the 
 <group type="str">Technology</group> 
 <name type="str">Imaging equipment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:24Z</estimatedPublishedDate> 
-<title type="str">Aviation Logistics Center creates parts with 3D printer</title> 
+</TOPICS> 
+<DOCID type="str">695193852857</DOCID> 
+<DCT type="str">2017-01-29T07:11:24Z</DCT> 
+<TITLE type="str">Aviation Logistics Center creates parts with 3D printer</TITLE> 
 </root>

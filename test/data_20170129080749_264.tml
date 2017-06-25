@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WITH TRIMS NOTED 
+<TEXT type="str">WITH TRIMS NOTED 
  By  The grand opening, in this town on the edge of Great Smoky Mountains National Park and five scenic miles from Gatlinburg, had been in the works for months. 
  
 So had the drought. 
@@ -77,9 +77,8 @@ Two days before Christmas, thanks to good work by first-responders and a blessed
  
 And Dec. 16, right on time, the Alcatraz East Crime Museum — like everything in Pigeon Forge and almost everything in Gatlinburg — was open for business. 
  
-&quot;Yesterday is gone, gone, but tomorrow is forever.&quot; - Dolly Parton lyric</content> 
-<sequenceId type="str">695196752229</sequenceId> 
-<topics type="list"> 
+&quot;Yesterday is gone, gone, but tomorrow is forever.&quot; - Dolly Parton lyric</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -88,7 +87,8 @@ And Dec. 16, right on time, the Alcatraz East Crime Museum — like everything i
 <group type="str">Science</group> 
 <name type="str">Natural disasters news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">After devastating wildfires, Gatlinburg, Tenn., welcomes back tourists</title> 
+</TOPICS> 
+<DOCID type="str">695196752229</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">After devastating wildfires, Gatlinburg, Tenn., welcomes back tourists</TITLE> 
 </root>

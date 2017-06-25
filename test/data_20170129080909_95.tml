@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Johannesburg has introduced water shedding in a number of suburbs with high water usage and on Friday Cape Town has introduced stringent regulations. 
+<TEXT type="str">Johannesburg has introduced water shedding in a number of suburbs with high water usage and on Friday Cape Town has introduced stringent regulations. 
 
 Cape Town mayor Patricia de Lille said households with exceptionally high water consumption levels will be targeted. She said that 20 000 homes use 50 kilolitres a month.
 
@@ -18,9 +18,8 @@ Williams then decided to introduce water saving at her place of work. She’s th
 
 Buckets are in each room and guests are encouraged to shower with them. The hotel staff use the grey water on the pavement and traffic island gardens and trees.
 
-Williams says guests are doing their bit to save water and “we’ve even had a few suggestions from guests”.</content> 
-<sequenceId type="str">695199745534</sequenceId> 
-<topics type="list"> 
+Williams says guests are doing their bit to save water and “we’ve even had a few suggestions from guests”.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -33,7 +32,8 @@ Williams says guests are doing their bit to save water and “we’ve even had a
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:54:15Z</estimatedPublishedDate> 
-<title type="str">Cape Town’s water greedy face fines and water cuts</title> 
+</TOPICS> 
+<DOCID type="str">695199745534</DOCID> 
+<DCT type="str">2017-01-29T07:54:15Z</DCT> 
+<TITLE type="str">Cape Town’s water greedy face fines and water cuts</TITLE> 
 </root>

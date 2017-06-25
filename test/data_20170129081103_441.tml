@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">David Beckham insists none of the horrific child sexual abuse in English football that has come to light in recent months happened during his time at Manchester United. 
+<TEXT type="str">David Beckham insists none of the horrific child sexual abuse in English football that has come to light in recent months happened during his time at Manchester United. 
  
 The heartbreaking truth behind child abuse in the UK 
  
@@ -22,9 +22,8 @@ Sane, Sterling &amp; Jesus hint at bright Man City future
  
 &quot;I&apos;d like to believe the FA are doing everything they can to find out about the allegations. The more these ex-professionals voice their opinions, that&apos;s when there will be change. 
  
-&quot;I would like to think the clubs are all on board with this.&quot;</content> 
-<sequenceId type="str">695204147655</sequenceId> 
-<topics type="list"> 
+&quot;I would like to think the clubs are all on board with this.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester United news</name> 
@@ -41,7 +40,8 @@ Sane, Sterling &amp; Jesus hint at bright Man City future
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:49Z</estimatedPublishedDate> 
-<title type="str">Beckham: Man Utd humiliated me, but there was no abuse</title> 
+</TOPICS> 
+<DOCID type="str">695204147655</DOCID> 
+<DCT type="str">2017-01-29T08:25:49Z</DCT> 
+<TITLE type="str">Beckham: Man Utd humiliated me, but there was no abuse</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 8 a.m. 
+<TEXT type="str">, 8 a.m. 
  
 Where: Oceanside Pier, Mission Avenue and Pacific Street, Oceanside 
  
@@ -13,9 +13,8 @@ The Scholastic Surf Series is a competition series for middle and high school su
  
   
  
- </content> 
-<sequenceId type="str">695204965615</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Diego news</name> 
@@ -32,7 +31,8 @@ The Scholastic Surf Series is a competition series for middle and high school su
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:15Z</estimatedPublishedDate> 
-<title type="str">Sun 1/29: Scholastic Surf Series:  San Diego Middle School Division 2</title> 
+</TOPICS> 
+<DOCID type="str">695204965615</DOCID> 
+<DCT type="str">2017-01-29T08:33:15Z</DCT> 
+<TITLE type="str">Sun 1/29: Scholastic Surf Series:  San Diego Middle School Division 2</TITLE> 
 </root>

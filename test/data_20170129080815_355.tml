@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States has sparked confusion and anger fter immigrants and refugees were kept off flights and left stranded in airports. 
+<TEXT type="str">President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries from entering the United States has sparked confusion and anger fter immigrants and refugees were kept off flights and left stranded in airports. 
  
 In his most sweeping decision since taking office a week ago, Trump, a Republican, put a four-month hold on allowing refugees into the United States and temporarily barred travellers from Syria and six other countries. 
  
@@ -64,9 +64,8 @@ Airlines were blindsided and some cabin crew were barred from entering the count
  
 Travellers were handled differently at different points of entry and immigration lawyers advised clients to change their destination to the more lenient airports, said Houston immigration lawyer Mana Yegani. 
  
-Reuters</content> 
-<sequenceId type="str">695197645820</sequenceId> 
-<topics type="list"> 
+Reuters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -99,7 +98,8 @@ Reuters</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:44Z</estimatedPublishedDate> 
-<title type="str">Protests erupt over US immigration laws</title> 
+</TOPICS> 
+<DOCID type="str">695197645820</DOCID> 
+<DCT type="str">2017-01-29T07:38:44Z</DCT> 
+<TITLE type="str">Protests erupt over US immigration laws</TITLE> 
 </root>

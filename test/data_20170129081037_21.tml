@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Маша и Медведь - Спи, моя радость, усни! (62 серия) Новая серия!</content> 
-<sequenceId type="str">695202838003</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Маша и Медведь - Спи, моя радость, усни! (62 серия) Новая серия!</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:41Z</estimatedPublishedDate> 
-<title type="str">Russian chainsaw</title> 
+</TOPICS> 
+<DOCID type="str">695202838003</DOCID> 
+<DCT type="str">2017-01-29T08:07:41Z</DCT> 
+<TITLE type="str">Russian chainsaw</TITLE> 
 </root>

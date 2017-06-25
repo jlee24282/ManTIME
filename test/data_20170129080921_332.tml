@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Eat’n’Go brings great taste to Africa. A restaurant group dedicated to 
+<TEXT type="str">Eat’n’Go brings great taste to Africa. A restaurant group dedicated to 
 bringing the best F&amp;B brands and concepts to Africa, Eat’n’Go feeds 
 your needs. 
 It has entered the market as the exclusive master franchisee for two 
@@ -139,9 +139,8 @@ You can also join our interactive and interesting JobZilla BBM Channel by clicki
   
 
 Source link 
-   Related</content> 
-<sequenceId type="str">695200474642</sequenceId> 
-<topics type="list"> 
+   Related</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
@@ -150,7 +149,8 @@ Source link
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:42Z</estimatedPublishedDate> 
-<title type="str">Job Vacancies in Lagos at Eat&apos;n&apos;Go Limited – vacancies in Nigeria</title> 
+</TOPICS> 
+<DOCID type="str">695200474642</DOCID> 
+<DCT type="str">2017-01-29T07:59:42Z</DCT> 
+<TITLE type="str">Job Vacancies in Lagos at Eat&apos;n&apos;Go Limited – vacancies in Nigeria</TITLE> 
 </root>

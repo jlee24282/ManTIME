@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The 14th Annual Jambalaya Writers’ Conference is scheduled for March 4 at the Terrebonne Parish Main Library in Houma. 
+<TEXT type="str">The 14th Annual Jambalaya Writers’ Conference is scheduled for March 4 at the Terrebonne Parish Main Library in Houma. 
  
 This all-day event will feature writing sessions for fiction, nonfiction and children’s writers. Session topics include self-publishing, getting your novel published, writing better fiction, poetry and other sessions to improve writing. 
  
@@ -48,9 +48,8 @@ Virtual reality demos
  
 Want to ride a roller coaster without leaving your chair or go scuba diving without getting wet? The Main Library will host a virtual reality demonstration at 4 p.m. Feb. 4. Try out the virtual glasses with pre-loaded apps. The demos are first-come, first-served. 
  
--- Mary Cosper LeBoeuf is director of the Terrebonne Parish Library System. </content> 
-<sequenceId type="str">695198474279</sequenceId> 
-<topics type="list"> 
+-- Mary Cosper LeBoeuf is director of the Terrebonne Parish Library System. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -59,7 +58,8 @@ Want to ride a roller coaster without leaving your chair or go scuba diving with
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:01:00Z</estimatedPublishedDate> 
-<title type="str">Attention, readers and writers: This conference is for you</title> 
+</TOPICS> 
+<DOCID type="str">695198474279</DOCID> 
+<DCT type="str">2017-01-29T06:01:00Z</DCT> 
+<TITLE type="str">Attention, readers and writers: This conference is for you</TITLE> 
 </root>

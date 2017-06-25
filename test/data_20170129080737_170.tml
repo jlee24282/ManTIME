@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On MLB Now, the crew discusses the Los Angeles Dodgers&apos; plans for their 2017 starting rotation 
+<TEXT type="str">On MLB Now, the crew discusses the Los Angeles Dodgers&apos; plans for their 2017 starting rotation 
 
 Clayton Kershaw, Rich Hill, Kenta Maeda and Julio Urias are the top four, with the fifth spot up for grabs among Kazmir, McCarthy, Ryu, Wood and young starters Brock Stewart and Ross Stripling. 
 
@@ -60,9 +60,8 @@ Afghanistan&apos;s Defense Ministry says it wants to raise the number of women s
 
 PanARMENIAN.Net - Afghanistan has announced fresh initiatives to bring more women into the army, weeks ... 
 
-PanARMENIAN.Net - Joking that &quot;opposites attract,&quot; UK Prime Minister Theresa May called on President U.S.Donald ...</content> 
-<sequenceId type="str">695196248147</sequenceId> 
-<topics type="list"> 
+PanARMENIAN.Net - Joking that &quot;opposites attract,&quot; UK Prime Minister Theresa May called on President U.S.Donald ...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: MLB - Los Angeles Dodgers news</name> 
@@ -71,7 +70,8 @@ PanARMENIAN.Net - Joking that &quot;opposites attract,&quot; UK Prime Minister T
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:07:14Z</estimatedPublishedDate> 
-<title type="str">Dodgers have starting-pitching depth</title> 
+</TOPICS> 
+<DOCID type="str">695196248147</DOCID> 
+<DCT type="str">2017-01-29T04:07:14Z</DCT> 
+<TITLE type="str">Dodgers have starting-pitching depth</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Iran Press TV
+<TEXT type="str">Iran Press TV
 
 Sat Jan 28, 2017 9:51AM
 
@@ -24,9 +24,8 @@ Saudi jets also bombarded the Salif district in Hudaydah Province, killing three
 
 Elsewhere, in the northern province of Jawf, several Saudi mercenaries were killed and injured on Saturday in an attempted operation to infiltrate into Maton district.
 
-Meanwhile, the media affiliated to Saudi mercenaries in Yemen have reported that their ground and naval forces have parachuted down to the southwestern port city of Mokha.</content> 
-<sequenceId type="str">695197065974</sequenceId> 
-<topics type="list"> 
+Meanwhile, the media affiliated to Saudi mercenaries in Yemen have reported that their ground and naval forces have parachuted down to the southwestern port city of Mokha.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -43,7 +42,8 @@ Meanwhile, the media affiliated to Saudi mercenaries in Yemen have reported that
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:33Z</estimatedPublishedDate> 
-<title type="str">Saudi airstrike kills 14 civilians in Yemen</title> 
+</TOPICS> 
+<DOCID type="str">695197065974</DOCID> 
+<DCT type="str">2017-01-29T07:34:33Z</DCT> 
+<TITLE type="str">Saudi airstrike kills 14 civilians in Yemen</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Two out-of-state regional banks are preparing for perhaps their biggest marketing and growth challenge — attracting and keeping North Carolina banking customers. 
+<TEXT type="str">Two out-of-state regional banks are preparing for perhaps their biggest marketing and growth challenge — attracting and keeping North Carolina banking customers. 
    
 F.N.B. Corp of Pittsburgh is in the final steps of closing on its $1.4 billion deal for Yadkin Financial Corp., which was founded in Elkin and is now based in Raleigh. Yadkin is the state’s seventh largest bank in terms of deposits at $5.3 billion. 
    
@@ -58,9 +58,8 @@ By comparison, analysts said a startup bank now likely would be required to rais
    
 Still, Plath said he could see North Carolina gaining one or two startup banks in the next year or two, more likely in Charlotte and the Triangle. 
    
-“We need stronger loan demand before we’re going to see any new banks, and interest rates get back to a more normal level where banks can actually make a few bucks through lending,” Plath said.</content> 
-<sequenceId type="str">695196579193</sequenceId> 
-<topics type="list"> 
+“We need stronger loan demand before we’re going to see any new banks, and interest rates get back to a more normal level where banks can actually make a few bucks through lending,” Plath said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Charlotte news</name> 
@@ -81,7 +80,8 @@ Still, Plath said he could see North Carolina gaining one or two startup banks i
 <group type="str">Business</group> 
 <name type="str">Regulatory news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Out-of-state banks face big challenge trying to crack N.C. marketplace</title> 
+</TOPICS> 
+<DOCID type="str">695196579193</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Out-of-state banks face big challenge trying to crack N.C. marketplace</TITLE> 
 </root>

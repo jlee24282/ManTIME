@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US judge temporarily suspends Trump&apos;s immigration ban 
+<TEXT type="str">US judge temporarily suspends Trump&apos;s immigration ban 
 
 A US judge has issued a stay temporarily halting the deportation of visa holders or refugees President Trump issued an executive order. 
 
@@ -20,9 +20,8 @@ The second plaintiff, Haider Sameer Abdulkhaleq Alshawi, 33, was also detained a
 
 He is the husband of an Iraqi woman who worked for a US contractor in Iraq. She already lives in Houston, the suit said.
 
-The next hearing in the case was set for 10 February 2</content> 
-<sequenceId type="str">695199761468</sequenceId> 
-<topics type="list"> 
+The next hearing in the case was set for 10 February 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Global news</name> 
@@ -39,7 +38,8 @@ The next hearing in the case was set for 10 February 2</content>
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:27Z</estimatedPublishedDate> 
-<title type="str">Iraqis behind lawsuit say order &apos;makes them targets&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695199761468</DOCID> 
+<DCT type="str">2017-01-29T07:51:27Z</DCT> 
+<TITLE type="str">Iraqis behind lawsuit say order &apos;makes them targets&apos;</TITLE> 
 </root>

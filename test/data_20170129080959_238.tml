@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Green Cards Trump Defends Order ‘Great Gift’ Tech CEOs ‘Too Broad’</content> 
-<sequenceId type="str">695201845522</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Green Cards Trump Defends Order ‘Great Gift’ Tech CEOs ‘Too Broad’</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:25Z</estimatedPublishedDate> 
-<title type="str">Judges Block Parts of Trump’s Order on Muslim Immigration</title> 
+</TOPICS> 
+<DOCID type="str">695201845522</DOCID> 
+<DCT type="str">2017-01-29T08:04:25Z</DCT> 
+<TITLE type="str">Judges Block Parts of Trump’s Order on Muslim Immigration</TITLE> 
 </root>

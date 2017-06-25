@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jake Butler missed a late chance thay would have kept Waitakere United atop the Stirling Sports Premiership ladder. 
+<TEXT type="str">Jake Butler missed a late chance thay would have kept Waitakere United atop the Stirling Sports Premiership ladder. 
    
 Waitakere United have slipped from the top of the Stirling Sports Premiership table after a 1-all draw with Eastern Suburbs on Sunday at Trusts Arena. 
  
@@ -56,9 +56,8 @@ HT: 3-1
  
 Points: Team Wellington 24; Waitakere United 24; Auckland City 21; Eastern Suburbs 21; Canterbury United 20; Hawke&apos;s Bay United 20; Wellington Phoenix reserves 16; Hamilton Wanderers 12; Southern United 10; Tasman United 7 
  
- </content> 
-<sequenceId type="str">695199367413</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -67,7 +66,8 @@ Points: Team Wellington 24; Waitakere United 24; Auckland City 21; Eastern Subur
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:21:01Z</estimatedPublishedDate> 
-<title type="str">Waitakere United rescue a draw against Eastern Suburbs but slip from the top</title> 
+</TOPICS> 
+<DOCID type="str">695199367413</DOCID> 
+<DCT type="str">2017-01-29T06:21:01Z</DCT> 
+<TITLE type="str">Waitakere United rescue a draw against Eastern Suburbs but slip from the top</TITLE> 
 </root>

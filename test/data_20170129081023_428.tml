@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Qantas is offering refunds or the option to change destinations to passengers travelling from Australia to the United States who are affected by a new entry ban. Dozens of travellers have been detained at US airports and protests have erupted around the country. Qantas is offering refunds to any passengers travelling from Australia to the United States who are affected by a new entry ban. Dozens of travellers have been detained at US airports and protests have erupted around the country. The executive order signed by US President Donald Trump has barred citizens of seven predominantly Muslim countries – Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen – from entering the US for 90 days. That includes legal US residents temporarily out of the country.
+<TEXT type="str">Qantas is offering refunds or the option to change destinations to passengers travelling from Australia to the United States who are affected by a new entry ban. Dozens of travellers have been detained at US airports and protests have erupted around the country. Qantas is offering refunds to any passengers travelling from Australia to the United States who are affected by a new entry ban. Dozens of travellers have been detained at US airports and protests have erupted around the country. The executive order signed by US President Donald Trump has barred citizens of seven predominantly Muslim countries – Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen – from entering the US for 90 days. That includes legal US residents temporarily out of the country.
 
 The order has also barred all refugees from entering the US for 120 days and Syrian refugees indefinitely.
 
@@ -24,9 +24,8 @@ Qantas is advising anyone who thinks they may be affected to contact the airline
 
 It is estimated 100 to 200 people who had already begun their journey when Mr Trump signed the order yesterday have been detained at US airports, according to the American Civil Liberties Union. An has temporarily stopped the government from sending those who landed with valid visas out of the country.
 
-Crowds of protesters have gathered at US airports in response to the order and subsequent detainments. The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695202773231</sequenceId> 
-<topics type="list"> 
+Crowds of protesters have gathered at US airports in response to the order and subsequent detainments. The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -47,7 +46,8 @@ Crowds of protesters have gathered at US airports in response to the order and s
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:47Z</estimatedPublishedDate> 
-<title type="str">Qantas offers refunds to Australians affected by Trump&apos;s &apos;Muslim ban&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695202773231</DOCID> 
+<DCT type="str">2017-01-29T07:11:47Z</DCT> 
+<TITLE type="str">Qantas offers refunds to Australians affected by Trump&apos;s &apos;Muslim ban&apos;</TITLE> 
 </root>

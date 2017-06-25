@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FloSports, Inc.  
+<TEXT type="str">FloSports, Inc.  
 FloSports, an innovative sports media and events company, based in Austin, Texas, is the authentic source for content and a new world of coverage that true fans have been waiting for. Focused on three areas – live competition and coverage, original content, and owned and operated events – the company takes fragmented communities and provides them the platform to connect with the sports they love. 
  
-Learn More at FloSports.tv</content> 
-<sequenceId type="str">695200520798</sequenceId> 
-<topics type="list"> 
+Learn More at FloSports.tv</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -18,7 +17,8 @@ Learn More at FloSports.tv</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:38Z</estimatedPublishedDate> 
-<title type="str">High School Boy&apos;s 400m, Heat 3 - Freshman White</title> 
+</TOPICS> 
+<DOCID type="str">695200520798</DOCID> 
+<DCT type="str">2017-01-29T08:00:38Z</DCT> 
+<TITLE type="str">High School Boy&apos;s 400m, Heat 3 - Freshman White</TITLE> 
 </root>

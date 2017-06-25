@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BP expects oil demand to grow over the next 20 years but at a slowing rate, as the transport sector rises in efficient consumption, and natural gas and renewables take a larger share of the energy mix, the oil major said in its 2017 Energy Outlook. 
+<TEXT type="str">BP expects oil demand to grow over the next 20 years but at a slowing rate, as the transport sector rises in efficient consumption, and natural gas and renewables take a larger share of the energy mix, the oil major said in its 2017 Energy Outlook. 
  
 “The overall demand for energy looks set to continue to expand, as increasing prosperity in fast-growing emerging economies lifts billions of people from low incomes,” Bob Dudley, chief executive of BP said in the report. “The extent of this increase is likely to be curbed by improvements in energy efficiency, as increasing attention around the world is devoted to using energy more sustainably.” 
  
@@ -30,9 +30,8 @@ Middle East OPEC production is set to increase by over 9 Mb/d, accounting for al
  
 US output is expected to grow by 4 Mb/d reaching 19 Mb/d by 2035, with growth concentrated in the first half of the outlook period, driven by tight oil and NGL production. Russia’s production is assumed to increase by 1 Mb/d to 12 Mb/d by 2035, the report said. 
  
-Meanwhile, BP said if the practice of non-OECD countries to expand refining capacity beyond demand continues, this could lead to substantial refinery spare capacity and ultimately closures in mature markets such as Europe, OECD Asia and parts of North America.</content> 
-<sequenceId type="str">695199052772</sequenceId> 
-<topics type="list"> 
+Meanwhile, BP said if the practice of non-OECD countries to expand refining capacity beyond demand continues, this could lead to substantial refinery spare capacity and ultimately closures in mature markets such as Europe, OECD Asia and parts of North America.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -61,7 +60,8 @@ Meanwhile, BP said if the practice of non-OECD countries to expand refining capa
 <group type="str">Business</group> 
 <name type="str">European business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:47Z</estimatedPublishedDate> 
-<title type="str">BP forecasts slower growth in oil demand and CO2 emissions</title> 
+</TOPICS> 
+<DOCID type="str">695199052772</DOCID> 
+<DCT type="str">2017-01-29T07:48:47Z</DCT> 
+<TITLE type="str">BP forecasts slower growth in oil demand and CO2 emissions</TITLE> 
 </root>

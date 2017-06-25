@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Days7 
+<TEXT type="str">Days7 
  
 Emirates 24|7 
  
@@ -352,9 +352,8 @@ Hozpitality
  
 AME info 
  
-Mark Zuckerberg</content> 
-<sequenceId type="str">695201700484</sequenceId> 
-<topics type="list"> 
+Mark Zuckerberg</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -363,7 +362,8 @@ Mark Zuckerberg</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:37Z</estimatedPublishedDate> 
-<title type="str">Roger Federer vs Rafael Nadal - Australian Op...</title> 
+</TOPICS> 
+<DOCID type="str">695201700484</DOCID> 
+<DCT type="str">2017-01-29T08:02:37Z</DCT> 
+<TITLE type="str">Roger Federer vs Rafael Nadal - Australian Op...</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ex-Nkana striker Djunes Kanda has reportedly resurfaced in South Africa. 
+<TEXT type="str">Ex-Nkana striker Djunes Kanda has reportedly resurfaced in South Africa. 
  
 According to media speculation in South Africa, Kanda could be on trial at PSL side Baroka FC. 
  
@@ -8,9 +8,8 @@ According to media speculation in South Africa, Kanda could be on trial at PSL s
  
 Kanda joined Nkana in 2015 following his move from Indeni in 2014 where he scored 7 goals after joining them from Tanzanian club Azam. 
  
-However his stay at Nkana was a flop where he managed only a goal in 2015 before dropping off the radar.</content> 
-<sequenceId type="str">695194938529</sequenceId> 
-<topics type="list"> 
+However his stay at Nkana was a flop where he managed only a goal in 2015 before dropping off the radar.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -19,7 +18,8 @@ However his stay at Nkana was a flop where he managed only a goal in 2015 before
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:05Z</estimatedPublishedDate> 
-<title type="str">Ex-Nkana striker in South Africa</title> 
+</TOPICS> 
+<DOCID type="str">695194938529</DOCID> 
+<DCT type="str">2017-01-29T06:59:05Z</DCT> 
+<TITLE type="str">Ex-Nkana striker in South Africa</TITLE> 
 </root>

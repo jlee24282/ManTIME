@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SAN FRANCISCO (Reuters) - The U.S. technology industry, a major employer of foreign workers, hit back on Saturday at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American.
+<TEXT type="str">SAN FRANCISCO (Reuters) - The U.S. technology industry, a major employer of foreign workers, hit back on Saturday at President Donald Trump&apos;s sudden executive order on immigration, with some leaders calling it immoral and un-American.
 
-Trump&apos;s order temporarily bars citizens of seven majority-Muslim countries from entering the United States even if they hold valid visas or permanent residence permits, a move that caught many companies off-guard.</content> 
-<sequenceId type="str">695194636649</sequenceId> 
-<topics type="list"> 
+Trump&apos;s order temporarily bars citizens of seven majority-Muslim countries from entering the United States even if they hold valid visas or permanent residence permits, a move that caught many companies off-guard.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -17,7 +16,8 @@ Trump&apos;s order temporarily bars citizens of seven majority-Muslim countries 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:53Z</estimatedPublishedDate> 
-<title type="str">U.S. tech leaders sound alarm over Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695194636649</DOCID> 
+<DCT type="str">2017-01-29T07:16:53Z</DCT> 
+<TITLE type="str">U.S. tech leaders sound alarm over Trump immigration order</TITLE> 
 </root>

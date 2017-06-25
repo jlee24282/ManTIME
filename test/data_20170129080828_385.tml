@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">He had been well on his way to becoming a professional footballer when a meniscus tear put paid to his dreams and he fell into a state of depression, alcoholism and chain-smoking. Now, more than 42 years on, Martin Schulz is presenting the fiercest opposition yet to Angela Merkel’s attempts to win a fourth term as German chancellor. 
+<TEXT type="str">He had been well on his way to becoming a professional footballer when a meniscus tear put paid to his dreams and he fell into a state of depression, alcoholism and chain-smoking. Now, more than 42 years on, Martin Schulz is presenting the fiercest opposition yet to Angela Merkel’s attempts to win a fourth term as German chancellor. 
  
 The 61-year-old, who is returning to his homeland after 23 years in the European parliament – acting as its president since 2012 – is seen as offering the Social Democratic party (SPD) the best chance in years to reverse its fortunes, following a period of falling membership and poor electoral performances. 
  
@@ -50,9 +50,8 @@ Despite the buzz surrounding Schulz, political watchers say he can be happy if h
  
 As many have been keen to point out, Schulz ran the European parliament in a similar grand coalition to that which currently exists in Berlin. Those hoping he will shake up the system in Germany might find he ends up participating in a similar model of governance. 
  
-Additional reporting by Agence France-Presse</content> 
-<sequenceId type="str">695198354164</sequenceId> 
-<topics type="list"> 
+Additional reporting by Agence France-Presse</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
@@ -65,7 +64,8 @@ Additional reporting by Agence France-Presse</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:01Z</estimatedPublishedDate> 
-<title type="str">Can &apos;man of the people&apos; Martin Schulz oust Angela Merkel as German chancellor?</title> 
+</TOPICS> 
+<DOCID type="str">695198354164</DOCID> 
+<DCT type="str">2017-01-29T07:39:01Z</DCT> 
+<TITLE type="str">Can &apos;man of the people&apos; Martin Schulz oust Angela Merkel as German chancellor?</TITLE> 
 </root>

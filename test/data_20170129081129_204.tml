@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:04 
+<TEXT type="str">:04 
  
 The person who was killed at the camp located in the northern West Bank was identified as 19-year-old Mohammed Abu Khalifa, the sources said. 
  
@@ -20,9 +20,8 @@ Israel blames incitement by Palestinian leaders and media as a leading cause of 
  
 Israeli authorities have confiscated the bodies of killed Palestinians since the violence began, often keeping them for many months as a means of deterrence and to prevent clashes during funerals. 
  
-© 2017 AFP</content> 
-<sequenceId type="str">695204834731</sequenceId> 
-<topics type="list"> 
+© 2017 AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -35,7 +34,8 @@ Israeli authorities have confiscated the bodies of killed Palestinians since the
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:27Z</estimatedPublishedDate> 
-<title type="str">Israeli troops kill Palestinian in West Bank: medics</title> 
+</TOPICS> 
+<DOCID type="str">695204834731</DOCID> 
+<DCT type="str">2017-01-29T08:32:27Z</DCT> 
+<TITLE type="str">Israeli troops kill Palestinian in West Bank: medics</TITLE> 
 </root>

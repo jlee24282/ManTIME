@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695200406580</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Malawi news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:56Z</estimatedPublishedDate> 
-<title type="str">Madonna says &quot;rumours&quot; she is to adopt two children from Malawi are &quot;untrue&quot;</title> 
+</TOPICS> 
+<DOCID type="str">695200406580</DOCID> 
+<DCT type="str">2017-01-29T07:59:56Z</DCT> 
+<TITLE type="str">Madonna says &quot;rumours&quot; she is to adopt two children from Malawi are &quot;untrue&quot;</TITLE> 
 </root>

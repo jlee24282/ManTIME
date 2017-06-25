@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Alaska Aces defenseman Nolan Descoteaux, whose turnover delivered Idaho&apos;s late equalizer, scored in overtime Saturday night to give the Aces a 3-2 ECHL victory over the Steelheads at Sullivan Arena. 
+<TEXT type="str">Alaska Aces defenseman Nolan Descoteaux, whose turnover delivered Idaho&apos;s late equalizer, scored in overtime Saturday night to give the Aces a 3-2 ECHL victory over the Steelheads at Sullivan Arena. 
    
 The victory gave the Aces three straight wins in the series. 
    
@@ -24,9 +24,8 @@ The Steelheads, who because of injuries and a call-up to the American Hockey Lea
    
 Idaho, which entered the evening with the circuit&apos;s third-best power play, cashed in on the final of those chances. Will Merchant&apos;s bid from the slot was a high tumbler that was blocked back to him. On his second whack at a bouncing puck in the low slot, he rifled a shot through traffic and past Carr. 
    
-The Aces next play a three-game series at Colorado that opens Wednesday. Murray will rejoin the club in Colorado.</content> 
-<sequenceId type="str">695195003443</sequenceId> 
-<topics type="list"> 
+The Aces next play a three-game series at Colorado that opens Wednesday. Murray will rejoin the club in Colorado.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -35,7 +34,8 @@ The Aces next play a three-game series at Colorado that opens Wednesday. Murray 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:05Z</estimatedPublishedDate> 
-<title type="str">Aces blow early two-goal lead, persevere for 3-2 OT win on Descoteaux strike</title> 
+</TOPICS> 
+<DOCID type="str">695195003443</DOCID> 
+<DCT type="str">2017-01-29T07:20:05Z</DCT> 
+<TITLE type="str">Aces blow early two-goal lead, persevere for 3-2 OT win on Descoteaux strike</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">by Lisa Dib  
+<TEXT type="str">by Lisa Dib  
 The Oscar nominations have just been released! There&apos;s a lot of un-surprises, some left-field nods and a lot of debate. Here&apos;s the full list. 
  
 Best Picture : Arrival, Fences, Hacksaw Ridge, Hell or High Water, Hidden Figures, La La Land, Lion, Manchester by the Sea, Moonlight 
@@ -59,9 +59,8 @@ The Oscars will take place at the Dolby Theatre in Hollywood, California on Febr
  
 ​​​​​​​ 
  
- </content> 
-<sequenceId type="str">695194793212</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -70,7 +69,8 @@ The Oscars will take place at the Dolby Theatre in Hollywood, California on Febr
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:16Z</estimatedPublishedDate> 
-<title type="str">2017 Oscar Nominations</title> 
+</TOPICS> 
+<DOCID type="str">695194793212</DOCID> 
+<DCT type="str">2017-01-29T07:18:16Z</DCT> 
+<TITLE type="str">2017 Oscar Nominations</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The media magnate is starting a joint venture with Kraft called Mealtime Stories, aiming to make nutritious food more widely available, according to a statement last week. Kraft will develop and sell the new line, which will initially focus on ready-to-eat refrigerated dishes.
+<TEXT type="str">The media magnate is starting a joint venture with Kraft called Mealtime Stories, aiming to make nutritious food more widely available, according to a statement last week. Kraft will develop and sell the new line, which will initially focus on ready-to-eat refrigerated dishes.
 
 Winfrey is known for having far-reaching influence. After she joined Weight Watchers’ board and bought a 10 percent stake in 2015, shares of the long-suffering company rallied.
 
@@ -14,9 +14,8 @@ Publishers can also terminate e-book contracts that contain a certain clause lin
 
 The Commission, which polices anti-trust issues, says Amazon’s “parity clauses” could breach EU rules, reduce competition and limit choice for consumers.
 
-Athletic retailer The Finish Line Inc. last week announced a plan to exit the unprofitable JackRabbit business (formerly Running Specialty Group). The Indianapolis company has entered into a definitive agreement with affiliates of CriticalPoint Capital LLC, a private investment firm in Los Angeles.</content> 
-<sequenceId type="str">695196957260</sequenceId> 
-<topics type="list"> 
+Athletic retailer The Finish Line Inc. last week announced a plan to exit the unprofitable JackRabbit business (formerly Running Specialty Group). The Indianapolis company has entered into a definitive agreement with affiliates of CriticalPoint Capital LLC, a private investment firm in Los Angeles.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Food industry news</name> 
@@ -25,7 +24,8 @@ Athletic retailer The Finish Line Inc. last week announced a plan to exit the un
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T20:24:09Z</estimatedPublishedDate> 
-<title type="str">Oprah will hawk meals for Kraft</title> 
+</TOPICS> 
+<DOCID type="str">695196957260</DOCID> 
+<DCT type="str">2017-01-28T20:24:09Z</DCT> 
+<TITLE type="str">Oprah will hawk meals for Kraft</TITLE> 
 </root>

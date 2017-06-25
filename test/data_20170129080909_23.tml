@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rio de Janeiro, Jan 29 (IANS) Colombia international forward Orlando Berrio has ended weeks of speculation by joining Brazilian football giants Flamengo.
+<TEXT type="str">Rio de Janeiro, Jan 29 (IANS) Colombia international forward Orlando Berrio has ended weeks of speculation by joining Brazilian football giants Flamengo.
 
 The 25-year-old signed with the the local club on a four-year deal from Medellin-based outfit Atletico Nacional, Flamengo said on their Twitter account on Saturday, reports Xinhua news agency.
 
@@ -12,9 +12,8 @@ Flamengo qualified for this year&apos;s Copa Libertadores - Latin America&apos;s
 
 --IANS
 
-gau/mr</content> 
-<sequenceId type="str">695199701605</sequenceId> 
-<topics type="list"> 
+gau/mr</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">South America news</name> 
@@ -23,7 +22,8 @@ gau/mr</content>
 <group type="str">Regional</group> 
 <name type="str">Colombia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:03Z</estimatedPublishedDate> 
-<title type="str">Colombia striker Berrio joins Flamengo</title> 
+</TOPICS> 
+<DOCID type="str">695199701605</DOCID> 
+<DCT type="str">2017-01-29T07:44:03Z</DCT> 
+<TITLE type="str">Colombia striker Berrio joins Flamengo</TITLE> 
 </root>

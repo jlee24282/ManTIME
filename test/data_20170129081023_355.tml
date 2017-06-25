@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Amazon.com&apos;s strategy of sticking to Hollywood&apos;s time-honored traditions helped deliver a big payoff that has so far eluded its streaming rival Netflix -- the first-ever best picture nomination for an online video service. 
+<TEXT type="str">Amazon.com&apos;s strategy of sticking to Hollywood&apos;s time-honored traditions helped deliver a big payoff that has so far eluded its streaming rival Netflix -- the first-ever best picture nomination for an online video service. 
  
 &quot;Manchester by the Sea,&quot; a family tragedy set in Massachusetts, was nominated Tuesday for best picture by the Academy of Motion Picture Arts &amp; Sciences, one of nine movies that will vie for the top honor. The film secured six Oscar nominations in all, including ones for acting, writing and directing. 
  
@@ -38,9 +38,8 @@ Rich Greenfield, an analyst at BTIG, said it&apos;s too soon to say whether one 
  
 --- 
  
-Bloomberg&apos;s Lucas Shaw and Spencer Soper contributed.</content> 
-<sequenceId type="str">695202718395</sequenceId> 
-<topics type="list"> 
+Bloomberg&apos;s Lucas Shaw and Spencer Soper contributed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -61,7 +60,8 @@ Bloomberg&apos;s Lucas Shaw and Spencer Soper contributed.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:01Z</estimatedPublishedDate> 
-<title type="str">Amazon steals Netflix&apos;s spotlight with Oscar nomination</title> 
+</TOPICS> 
+<DOCID type="str">695202718395</DOCID> 
+<DCT type="str">2017-01-29T08:16:01Z</DCT> 
+<TITLE type="str">Amazon steals Netflix&apos;s spotlight with Oscar nomination</TITLE> 
 </root>

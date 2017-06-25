@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">RFI English News flash 04h00 - 04h10 GMT Mon-Fri 
+<TEXT type="str">RFI English News flash 04h00 - 04h10 GMT Mon-Fri 
 
 Paris Live AM 04h10 - 04h30 GMT Mon-Fri 
 
@@ -80,14 +80,14 @@ News bulletin 01/28 16h30 GMT
 
 Paris Live Weekend 16h33 - 17h00 GMT Sat-Sun 
 
-Features and analysis 01/28 16h33 GMT</content> 
-<sequenceId type="str">695196381109</sequenceId> 
-<topics type="list"> 
+Features and analysis 01/28 16h33 GMT</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:12Z</estimatedPublishedDate> 
-<title type="str">French weekly magazine review 29 January 2017</title> 
+</TOPICS> 
+<DOCID type="str">695196381109</DOCID> 
+<DCT type="str">2017-01-29T07:14:12Z</DCT> 
+<TITLE type="str">French weekly magazine review 29 January 2017</TITLE> 
 </root>

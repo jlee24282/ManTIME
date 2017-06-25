@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON -- If you&apos;ve ever signed up for cable, you&apos;re probably familiar with those big, white vans your company usually sends with someone to help install your service. But a new cable company in town is teasing a very different experience. Instead of a corporate truck, what you might see at the curb is a BMW, or perhaps a Tesla. 
+<TEXT type="str">WASHINGTON -- If you&apos;ve ever signed up for cable, you&apos;re probably familiar with those big, white vans your company usually sends with someone to help install your service. But a new cable company in town is teasing a very different experience. Instead of a corporate truck, what you might see at the curb is a BMW, or perhaps a Tesla. 
  
 Running on futuristic electric batteries rather than gasoline, the luxury vehicles reflect the kind of business Layer3 wants to be: An upscale, next-gen TV provider. But the way the company is going about it may not be what you expect. It is betting big on an old-school approach, one where the traditional, fat cable bundle is king and the customers are TV die-hards who don&apos;t buy into the newfangled streaming services flooding the market. 
  
@@ -50,9 +50,8 @@ Other analysts say Layer3 could gain an early edge in usability. With its next-g
  
 Other cable companies such as Comcast are working on similar platforms, he added, and it&apos;s possible that well-resourced competitors could start chipping away at Layer3&apos;s usability lead. 
  
-&quot;But, given the slow pace of innovation in the TV industry, I&apos;m not holding my breath.&quot;</content> 
-<sequenceId type="str">695202720759</sequenceId> 
-<topics type="list"> 
+&quot;But, given the slow pace of innovation in the TV industry, I&apos;m not holding my breath.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
@@ -69,7 +68,8 @@ Other cable companies such as Comcast are working on similar platforms, he added
 <group type="str">Business</group> 
 <name type="str">CRM news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:02Z</estimatedPublishedDate> 
-<title type="str">Layer3 bets on fat cable bundles, &apos;white-glove&apos; customer service</title> 
+</TOPICS> 
+<DOCID type="str">695202720759</DOCID> 
+<DCT type="str">2017-01-29T08:16:02Z</DCT> 
+<TITLE type="str">Layer3 bets on fat cable bundles, &apos;white-glove&apos; customer service</TITLE> 
 </root>

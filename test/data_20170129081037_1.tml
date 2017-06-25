@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(CNN) – The Department of Homeland Security said on Sunday it will comply with judicial orders not to deport detained travelers. 
+<TEXT type="str">(CNN) – The Department of Homeland Security said on Sunday it will comply with judicial orders not to deport detained travelers. 
  
 This comes after a federal judge in New York granted an emergency stay Saturday night for citizens of seven Muslim-majority countries who have already arrived in the US and those who are in transit, and who hold valid visas, ruling they cannot be removed from the US. 
  
@@ -96,9 +96,8 @@ After the federal orders were issued, the department said it “will continue to
  
 “The president’s Executive Order affects a minor portion of international travelers, and is a first step towards reestablishing control over America’s borders and national security.” 
  
-Click here to read full story »</content> 
-<sequenceId type="str">695202832688</sequenceId> 
-<topics type="list"> 
+Click here to read full story »</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -123,7 +122,8 @@ Click here to read full story »</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:19Z</estimatedPublishedDate> 
-<title type="str">Homeland Security to comply with orders not to deport travelers</title> 
+</TOPICS> 
+<DOCID type="str">695202832688</DOCID> 
+<DCT type="str">2017-01-29T07:14:19Z</DCT> 
+<TITLE type="str">Homeland Security to comply with orders not to deport travelers</TITLE> 
 </root>

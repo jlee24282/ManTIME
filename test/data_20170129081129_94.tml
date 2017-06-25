@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Advertisement: CourtCast will continue in ...Skip this ad »</content> 
-<sequenceId type="str">695204706413</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Advertisement: CourtCast will continue in ...Skip this ad »</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:20Z</estimatedPublishedDate> 
-<title type="str">Follow live: Federer, Nadal take court for Aussie Open battle</title> 
+</TOPICS> 
+<DOCID type="str">695204706413</DOCID> 
+<DCT type="str">2017-01-29T08:31:20Z</DCT> 
+<TITLE type="str">Follow live: Federer, Nadal take court for Aussie Open battle</TITLE> 
 </root>

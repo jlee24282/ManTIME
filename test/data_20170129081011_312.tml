@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sunfoil Series, Knights v Warriors at Bloemfontein, Jan 26-29, 2</content> 
-<sequenceId type="str">695202381526</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Sunfoil Series, Knights v Warriors at Bloemfontein, Jan 26-29, 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:24Z</estimatedPublishedDate> 
-<title type="str">Knights 189/10 &amp;  431/10  v Warriors 299/10 &amp;  77/3 *</title> 
+</TOPICS> 
+<DOCID type="str">695202381526</DOCID> 
+<DCT type="str">2017-01-29T08:13:24Z</DCT> 
+<TITLE type="str">Knights 189/10 &amp;  431/10  v Warriors 299/10 &amp;  77/3 *</TITLE> 
 </root>

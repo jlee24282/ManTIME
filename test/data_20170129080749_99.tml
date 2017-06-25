@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Embed this video  
+<TEXT type="str">Embed this video  
 Copy Code 
    Link to this video    
 By Jeremy Glaser | 01-26-2017 11:00 AM 
@@ -21,9 +21,8 @@ Other data includes the Case-Shiller home price index, ISM Index, productivity, 
  
 Stay tuned to Morningstar for our take on these stories. 
    
-Add a Comment</content> 
-<sequenceId type="str">695196565274</sequenceId> 
-<topics type="list"> 
+Add a Comment</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Pharma industry news</name> 
@@ -52,7 +51,8 @@ Add a Comment</content>
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:48Z</estimatedPublishedDate> 
-<title type="str">Week Ahead: Apple, Amazon, Facebook Report; Hints From the Fed</title> 
+</TOPICS> 
+<DOCID type="str">695196565274</DOCID> 
+<DCT type="str">2017-01-29T07:30:48Z</DCT> 
+<TITLE type="str">Week Ahead: Apple, Amazon, Facebook Report; Hints From the Fed</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695202952178</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:54Z</estimatedPublishedDate> 
-<title type="str">US judge bars deportations under Trump\&apos;s travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695202952178</DOCID> 
+<DCT type="str">2017-01-29T08:17:54Z</DCT> 
+<TITLE type="str">US judge bars deportations under Trump\&apos;s travel ban</TITLE> 
 </root>

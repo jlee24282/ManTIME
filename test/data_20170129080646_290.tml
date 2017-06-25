@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Two people including a woman were crushed to death under the wheels of two separate trains in Banani and Khilkhet areas of Dhaka this morning. 
+<TEXT type="str">Two people including a woman were crushed to death under the wheels of two separate trains in Banani and Khilkhet areas of Dhaka this morning. 
  
 One of the victims was identified as Milona Akhter, 35, while the identity of the other could not be known immediately, Ali Akbar, a sub-inspector of Dhaka Railway Police Station, told The Daily Star. 
     
@@ -10,9 +10,8 @@ She, injured critically, was rushed to Kurmitola General Hospital where the duty
  
 In Banani, an unidentified man, aged around 40 years, was crushed under Chittagong-bound Mohanagar Probhati train while he was walking on the rail lines around 8:05am, the police official said. 
  
-He died on the spot, he said.</content> 
-<sequenceId type="str">695194445659</sequenceId> 
-<topics type="list"> 
+He died on the spot, he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Bangladesh news</name> 
@@ -21,7 +20,8 @@ He died on the spot, he said.</content>
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:49:31Z</estimatedPublishedDate> 
-<title type="str">2 crushed under trains in Dhaka</title> 
+</TOPICS> 
+<DOCID type="str">695194445659</DOCID> 
+<DCT type="str">2017-01-29T06:49:31Z</DCT> 
+<TITLE type="str">2 crushed under trains in Dhaka</TITLE> 
 </root>

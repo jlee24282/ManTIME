@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">What role will work play in our future lives populated with robots and driverless vehicles? As France prepares to elect a new president, it is wrangling with bigger issues than simple election manifestos. 
+<TEXT type="str">What role will work play in our future lives populated with robots and driverless vehicles? As France prepares to elect a new president, it is wrangling with bigger issues than simple election manifestos. 
  
 The catalyst for the soul-searching has been a proposal from leading Socialist party candidate Benoit Hamon to adopt a universal basic income -- a state handout of around 750 euros ($805) a month, made to everyone. 
  
@@ -60,9 +60,8 @@ The French Economic Observatory, an independent research unit at Sciences Po uni
  
 A poll published Monday showed that Hamon has work to do to sell the idea to a sceptical public. 
  
-Of 1,000 French workers aged over 18 surveyed, only 38 percent were in favour of the proposal, according to the survey by the Harris group and published by the LCP channel.</content> 
-<sequenceId type="str">695194600434</sequenceId> 
-<topics type="list"> 
+Of 1,000 French workers aged over 18 surveyed, only 38 percent were in favour of the proposal, according to the survey by the Harris group and published by the LCP channel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -71,7 +70,8 @@ Of 1,000 French workers aged over 18 surveyed, only 38 percent were in favour of
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:34:18Z</estimatedPublishedDate> 
-<title type="str">The French ponder &apos;joie de vivre&apos; in a work-free future</title> 
+</TOPICS> 
+<DOCID type="str">695194600434</DOCID> 
+<DCT type="str">2017-01-29T01:34:18Z</DCT> 
+<TITLE type="str">The French ponder &apos;joie de vivre&apos; in a work-free future</TITLE> 
 </root>

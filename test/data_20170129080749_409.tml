@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Buy Photo  
+<TEXT type="str">Buy Photo  
 Palm Springs should be cautious in how it regulates its vacation rental industry, a homeowner writes. (Photo: Jay Calderon/The Desert Sun) Buy Photo 
   
 We contribute to Palm Springs 
@@ -192,9 +192,8 @@ So that God’s will will be done on Earth as it is done in Heaven.
  
 Sissel Johansen, Indio 
  
-Read or Share this story: http://desert.sn/2jByb2</content> 
-<sequenceId type="str">695196891019</sequenceId> 
-<topics type="list"> 
+Read or Share this story: http://desert.sn/2jByb2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Inland Empire news</name> 
@@ -211,7 +210,8 @@ Read or Share this story: http://desert.sn/2jByb2</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:03Z</estimatedPublishedDate> 
-<title type="str">Desert Sun letter: Vacation rentals boost Palm Springs</title> 
+</TOPICS> 
+<DOCID type="str">695196891019</DOCID> 
+<DCT type="str">2017-01-29T07:33:03Z</DCT> 
+<TITLE type="str">Desert Sun letter: Vacation rentals boost Palm Springs</TITLE> 
 </root>

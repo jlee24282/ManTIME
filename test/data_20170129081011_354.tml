@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One of Europe&apos;s best organized regions for sightseeing, France and the Low Countries (Belgium and the Netherlands) are better than ever with new people-friendly zones, improved sights and comforting security. 
+<TEXT type="str">One of Europe&apos;s best organized regions for sightseeing, France and the Low Countries (Belgium and the Netherlands) are better than ever with new people-friendly zones, improved sights and comforting security. 
   
 Visitors will notice increased security at tourist sites throughout France, especially at high-profile places like Versailles. 
   
@@ -30,9 +30,8 @@ Amsterdam&apos;s fascinating and hidden &quot;church in the attic,&quot; the Ams
  
 As you&apos;ll see if you go in 2017, these countries -- rich in culture and history -- are working hard to make their heritage safe and enjoyable. Join in! 
  
-Travel on 01/29/2</content> 
-<sequenceId type="str">695202401264</sequenceId> 
-<topics type="list"> 
+Travel on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -41,7 +40,8 @@ Travel on 01/29/2</content>
 <group type="str">Regional</group> 
 <name type="str">Belgium news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:58Z</estimatedPublishedDate> 
-<title type="str">France, Low Countries upgrade sites, security</title> 
+</TOPICS> 
+<DOCID type="str">695202401264</DOCID> 
+<DCT type="str">2017-01-29T08:00:58Z</DCT> 
+<TITLE type="str">France, Low Countries upgrade sites, security</TITLE> 
 </root>

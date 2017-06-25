@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan 29 (Reuters) - Memphis Pharmaceuticals and Chemical
+<TEXT type="str">Jan 29 (Reuters) - Memphis Pharmaceuticals and Chemical
 Industries : 
     
 * H1 net profit EGP 2.5 million versus EGP 420,000 year ago 
@@ -9,9 +9,8 @@ Industries :
 ago
 
 Source: ( bit.ly/2kAx5lL )
-Further company coverage:</content> 
-<sequenceId type="str">695201108315</sequenceId> 
-<topics type="list"> 
+Further company coverage:</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Pharma industry news</name> 
@@ -32,7 +31,8 @@ Further company coverage:</content>
 <group type="str">US regional</group> 
 <name type="str">Memphis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:24Z</estimatedPublishedDate> 
-<title type="str">BRIEF-Memphis Pharmaceuticals and Chemical Industries H1 profit rises</title> 
+</TOPICS> 
+<DOCID type="str">695201108315</DOCID> 
+<DCT type="str">2017-01-29T08:04:24Z</DCT> 
+<TITLE type="str">BRIEF-Memphis Pharmaceuticals and Chemical Industries H1 profit rises</TITLE> 
 </root>

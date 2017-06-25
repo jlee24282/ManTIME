@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bujumbura - ArabToday   
+<TEXT type="str">Bujumbura - ArabToday   
 Thousands of people Saturday went to the streets in the Burundian capital to protest against a report by the European parliament on alleged human rights violations in the east African nation. 
  
 Demonstrators gathered at the United Nations square in Ngagara neighborhood and proceeded to the city center where they ended their march at the Independence Square. 
@@ -15,9 +15,8 @@ On Jan. 19, the European parliament issued a resolution whereby it pointed out v
  
 However, the Burundian government and the country&apos;s parliament rejected the report, saying that it was ill-intended with outdated information. 
  
-source: Xinhua</content> 
-<sequenceId type="str">695196812203</sequenceId> 
-<topics type="list"> 
+source: Xinhua</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Africa news</name> 
@@ -30,7 +29,8 @@ source: Xinhua</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:32Z</estimatedPublishedDate> 
-<title type="str">Burundi protests against European parliament report on…</title> 
+</TOPICS> 
+<DOCID type="str">695196812203</DOCID> 
+<DCT type="str">2017-01-29T07:32:32Z</DCT> 
+<TITLE type="str">Burundi protests against European parliament report on…</TITLE> 
 </root>

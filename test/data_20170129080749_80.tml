@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Zealand have lost to Argentina 17-12 in the playoff for fifth place at the Wellington Sevens. 
+<TEXT type="str">New Zealand have lost to Argentina 17-12 in the playoff for fifth place at the Wellington Sevens. 
  
 Sione Molia attempts to beat the defence of Lautaro Bazan Velez.  Photo: Getty 
   
@@ -24,9 +24,8 @@ But Argentina quickly leveled the scores with a try from an overlap down the rig
  
 With ball in hand New Zealand desperately tried to take play back down the other end of the field only to throw a loose. 
  
-The resulting kick in chase ended in a try in the right corner for Argentina and the victory.</content> 
-<sequenceId type="str">695196555532</sequenceId> 
-<topics type="list"> 
+The resulting kick in chase ended in a try in the right corner for Argentina and the victory.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
@@ -43,7 +42,8 @@ The resulting kick in chase ended in a try in the right corner for Argentina and
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:53Z</estimatedPublishedDate> 
-<title type="str">New Zealand beaten into 6th in Wellington</title> 
+</TOPICS> 
+<DOCID type="str">695196555532</DOCID> 
+<DCT type="str">2017-01-29T07:27:53Z</DCT> 
+<TITLE type="str">New Zealand beaten into 6th in Wellington</TITLE> 
 </root>

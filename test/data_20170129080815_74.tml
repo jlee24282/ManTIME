@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Search by city or zip code. Press enter or select the go button to submit request 
+<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
               
 Auto Refresh: OFF  
       
@@ -55,10 +55,10 @@ Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  37 ft  Interp
 (gauge height = 0)  Elevation 
 (gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  311.97 ft  348.97 ft     
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</content> 
-<sequenceId type="str">695197411526</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:35Z</estimatedPublishedDate> 
-<title type="str">Action (36.19 ft) - Observation - UNWK2 - Ohio River at J.T. Myers Lock and Dam (Indiana)</title> 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695197411526</DOCID> 
+<DCT type="str">2017-01-29T07:32:35Z</DCT> 
+<TITLE type="str">Action (36.19 ft) - Observation - UNWK2 - Ohio River at J.T. Myers Lock and Dam (Indiana)</TITLE> 
 </root>

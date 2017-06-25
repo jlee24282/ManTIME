@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Shi Ying won&apos;t be making the traditional pilgrimage back to Shanghai to celebrate the Lunar New Year holiday with her extended family. Instead, they&apos;re all going to Japan for shopping and sightseeing. 
+<TEXT type="str">Shi Ying won&apos;t be making the traditional pilgrimage back to Shanghai to celebrate the Lunar New Year holiday with her extended family. Instead, they&apos;re all going to Japan for shopping and sightseeing. 
  
 That new custom lets her family bypass the mobs, clogged roads and subways, lousy customer services -- and boredom -- that can mark holidays at home. During the past few celebrations, Shi and her relatives left China for Singapore, Malaysia, Thailand and the United States. 
  
@@ -48,9 +48,8 @@ When they arrived, they spent $12.8 billion, according to the separate Japan Tou
  
 -- Information for this story was contributed by Kyunghee Park, Chris Cooper and Lee Miller of Bloomberg News. 
  
-SundayMonday Business on 01/29/2</content> 
-<sequenceId type="str">695202709194</sequenceId> 
-<topics type="list"> 
+SundayMonday Business on 01/29/2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -67,7 +66,8 @@ SundayMonday Business on 01/29/2</content>
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:54:23Z</estimatedPublishedDate> 
-<title type="str">Chinese to spend holiday traveling</title> 
+</TOPICS> 
+<DOCID type="str">695202709194</DOCID> 
+<DCT type="str">2017-01-29T07:54:23Z</DCT> 
+<TITLE type="str">Chinese to spend holiday traveling</TITLE> 
 </root>

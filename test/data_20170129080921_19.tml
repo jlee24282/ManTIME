@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BEAUMONT, Texas (NSU) - Lamar’s Cardinals had their collective backs against the wall Saturday afternoon and played like it. 
+<TEXT type="str">BEAUMONT, Texas (NSU) - Lamar’s Cardinals had their collective backs against the wall Saturday afternoon and played like it. 
  
 After losing three of their last four, including a homecourt defeat Wednesday night, the Cardinals shot 55 percent, shockingly dominated the boards and converted Northwestern State turnovers at a high rate to whip the visiting Demons 85-64 in Southland Conference basketball. 
  
@@ -20,9 +20,8 @@ The Cardinals got 18 points apiece from Southland Player of the Week Colton Weis
  
 The Demons were led by Sabri Thompson’s 16 points and three steals. Devonte Hall scored 13 while issuing seven assists and making three steals. Iziahiah Sweeney also scored 13. 
  
-NSU will wrap up its string of four consecutive road games next Thursday night at Central Arkansas. The Demons play at home next Saturday afternoon against Stephen F. Austin.</content> 
-<sequenceId type="str">695200222686</sequenceId> 
-<topics type="list"> 
+NSU will wrap up its string of four consecutive road games next Thursday night at Central Arkansas. The Demons play at home next Saturday afternoon against Stephen F. Austin.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -31,7 +30,8 @@ NSU will wrap up its string of four consecutive road games next Thursday night a
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:18Z</estimatedPublishedDate> 
-<title type="str">Lamar whips Demon, 85-64</title> 
+</TOPICS> 
+<DOCID type="str">695200222686</DOCID> 
+<DCT type="str">2017-01-29T07:58:18Z</DCT> 
+<TITLE type="str">Lamar whips Demon, 85-64</TITLE> 
 </root>

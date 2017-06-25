@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Houston: US President Donald Trump&apos;s controversial executive order banning people from seven Muslim-majority countries from entering America also applies to green card holders from those countries, the Department of Homeland Security has said. 
+<TEXT type="str">Houston: US President Donald Trump&apos;s controversial executive order banning people from seven Muslim-majority countries from entering America also applies to green card holders from those countries, the Department of Homeland Security has said. 
  
 Keeping his election promise, Trump in an executive order signed Friday halted the arrival of foreign nationals from seven Muslim-majority countries in the US. 
  
@@ -30,9 +30,8 @@ Trump defends his decision, saying it a measure to &quot;keep radical Islamic te
  
 Google&apos;s India-born CEO Sundar Pichai and Facebook CEO Mark Zuckerberg among others have criticised the new move. 
  
-&quot;Like many of you, I&apos;m concerned about the impact of the recent executive orders signed by President Trump,&quot; Zuckerberg wrote on his</content> 
-<sequenceId type="str">695197083064</sequenceId> 
-<topics type="list"> 
+&quot;Like many of you, I&apos;m concerned about the impact of the recent executive orders signed by President Trump,&quot; Zuckerberg wrote on his</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -41,7 +40,8 @@ Google&apos;s India-born CEO Sundar Pichai and Facebook CEO Mark Zuckerberg amon
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:42Z</estimatedPublishedDate> 
-<title type="str">Immigration ban includes green card holders: DHS</title> 
+</TOPICS> 
+<DOCID type="str">695197083064</DOCID> 
+<DCT type="str">2017-01-29T07:34:42Z</DCT> 
+<TITLE type="str">Immigration ban includes green card holders: DHS</TITLE> 
 </root>

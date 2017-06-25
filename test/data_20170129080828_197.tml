@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The China National Tourism Administration (CNTA) on Sunday activated emergency measures after a boa</content> 
-<sequenceId type="str">695198007617</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The China National Tourism Administration (CNTA) on Sunday activated emergency measures after a boa</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:14Z</estimatedPublishedDate> 
-<title type="str">China launches emergency measures over missing boat in Malaysia</title> 
+</TOPICS> 
+<DOCID type="str">695198007617</DOCID> 
+<DCT type="str">2017-01-29T07:41:14Z</DCT> 
+<TITLE type="str">China launches emergency measures over missing boat in Malaysia</TITLE> 
 </root>

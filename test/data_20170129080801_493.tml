@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FAIRBANKS — Alaska Railroad CEO Bill O’Leary delivered a state-of-the-railroad-style address at a Greater Fairbanks Chamber of Commerce luncheon Tuesday at the Carlson Center.  
+<TEXT type="str">FAIRBANKS — Alaska Railroad CEO Bill O’Leary delivered a state-of-the-railroad-style address at a Greater Fairbanks Chamber of Commerce luncheon Tuesday at the Carlson Center.  
    
 “How’s business?” O’Leary rhetorically asked members of the chamber. “That’s the ultimate loaded question. 
    
@@ -32,9 +32,8 @@ He also discussed actions the railroad has taken to increase revenue:
    
 • The railroad introduced the Hoodoo Choo Choo last year, offering beer tastings and light snacks during a trip to Nenana.   
    
-Contact staff writer Kevin Baird at 459-7575. Follow him on Twitter: @FDNMcity.</content> 
-<sequenceId type="str">695197351600</sequenceId> 
-<topics type="list"> 
+Contact staff writer Kevin Baird at 459-7575. Follow him on Twitter: @FDNMcity.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Transportation industry news</name> 
@@ -51,7 +50,8 @@ Contact staff writer Kevin Baird at 459-7575. Follow him on Twitter: @FDNMcity.<
 <group type="str">Industry</group> 
 <name type="str">Rail transport news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:54:00Z</estimatedPublishedDate> 
-<title type="str">All aboard, visitors: Tourism trends up, freight down on the Alaska Railroad</title> 
+</TOPICS> 
+<DOCID type="str">695197351600</DOCID> 
+<DCT type="str">2017-01-29T06:54:00Z</DCT> 
+<TITLE type="str">All aboard, visitors: Tourism trends up, freight down on the Alaska Railroad</TITLE> 
 </root>

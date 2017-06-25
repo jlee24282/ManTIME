@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WATERLOO — The City Council will hold a public work session Monday to discuss next year’s budget.
+<TEXT type="str">WATERLOO — The City Council will hold a public work session Monday to discuss next year’s budget.
 
 The meeting at 5:30 p.m. Monday in City Hall will take advantage of what would normally be a day off, because regular Waterloo council meetings are only held on the first four Mondays of any month. This week is January’s fifth Monday.
 
@@ -14,9 +14,8 @@ Meanwhile, the city has put a link on the home page of its website — www.cityo
 
 Last year, a deeply divided City Council voted 4-3 to approve a budget cutting the property tax rate from $17.76 to about $17.61 per $1,000 of taxable value.
 
-New goals adopted by the City Council in December included reducing “the city’s property tax levies through a responsible balance of cost reduction in city operations and increases in taxable property valuations to ensure that Waterloo is a competitive, affordable and livable city.”</content> 
-<sequenceId type="str">695202954197</sequenceId> 
-<topics type="list"> 
+New goals adopted by the City Council in December included reducing “the city’s property tax levies through a responsible balance of cost reduction in city operations and increases in taxable property valuations to ensure that Waterloo is a competitive, affordable and livable city.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -29,7 +28,8 @@ New goals adopted by the City Council in December included reducing “the city�
 <group type="str">Society</group> 
 <name type="str">Local government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:55Z</estimatedPublishedDate> 
-<title type="str">Waterloo council to discuss budget</title> 
+</TOPICS> 
+<DOCID type="str">695202954197</DOCID> 
+<DCT type="str">2017-01-29T08:17:55Z</DCT> 
+<TITLE type="str">Waterloo council to discuss budget</TITLE> 
 </root>

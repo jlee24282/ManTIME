@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Missouri Court of Appeals, Western District. WD 79073      Decided: January 24, 2017  Before Division One:  Anthony Rex Gabbert, P.J., and Thomas H. Newton and Alok Ahuja, JJ.Ashley M. Barton and Nikola S. Smith, KCMO, for appellant. Michael L. Belancio, KCMO, for respondent. 
+<TEXT type="str">Missouri Court of Appeals, Western District. WD 79073      Decided: January 24, 2017  Before Division One:  Anthony Rex Gabbert, P.J., and Thomas H. Newton and Alok Ahuja, JJ.Ashley M. Barton and Nikola S. Smith, KCMO, for appellant. Michael L. Belancio, KCMO, for respondent. 
 In 2005, the City of Kansas City filed suit against Daniel J. Ross in the Circuit Court of Jackson County to recover past-due City profits taxes. The City obtained a default judgment against Ross in 2005. When the City sought to execute on the default judgment in 2015, Ross filed a motion to set aside the default judgment, alleging that he had never been properly served with process. The circuit court granted Ross&apos; motion to set aside the default judgment, and set the case for trial. On the morning of trial, the circuit court dismissed the action on the basis that, as of that time, the City had still not properly served Ross. 
  
 The City appeals. The circuit court&apos;s dismissal of the action is presumed to be without prejudice pursuant to Supreme Court Rule 67.03. Because the City is free to re-file its tax-collection suit, and properly serve Ross in that new lawsuit, we conclude that the dismissal of the present action without prejudice is not appealable. The appeal is accordingly dismissed. 
@@ -67,9 +67,8 @@ The appeal is dismissed.
  
 Alok Ahuja, Judge 
  
-All concur.</content> 
-<sequenceId type="str">695196419020</sequenceId> 
-<topics type="list"> 
+All concur.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Kansas City news</name> 
@@ -78,7 +77,8 @@ All concur.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:23Z</estimatedPublishedDate> 
-<title type="str">City of Kansas City, Missouri, Appellant, v. Daniel J. Ross, Respondent.</title> 
+</TOPICS> 
+<DOCID type="str">695196419020</DOCID> 
+<DCT type="str">2017-01-29T07:29:23Z</DCT> 
+<TITLE type="str">City of Kansas City, Missouri, Appellant, v. Daniel J. Ross, Respondent.</TITLE> 
 </root>

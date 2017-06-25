@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jeff Gordon, Max Angelelli and the Taylor brothers are halfway home to a Rolex 24 at Daytona championship.  Angelelli, driving the No. 10 Cadillac for Wayne Taylor Racing, is out front at the midway point of the 24-hour endurance race at Daytona International Speedway.  Angelelli is about a minute ahead of Renger van der Zande, who is driving the No. 90 Riley for VisitFlorida Racing.</content> 
-<sequenceId type="str">695203267007</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Jeff Gordon, Max Angelelli and the Taylor brothers are halfway home to a Rolex 24 at Daytona championship.  Angelelli, driving the No. 10 Cadillac for Wayne Taylor Racing, is out front at the midway point of the 24-hour endurance race at Daytona International Speedway.  Angelelli is about a minute ahead of Renger van der Zande, who is driving the No. 90 Riley for VisitFlorida Racing.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: NASCAR news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:25Z</estimatedPublishedDate> 
-<title type="str">The Latest: Jeff Gordon, Taylor Racing halfway home to Rolex (Yahoo Sports)</title> 
+</TOPICS> 
+<DOCID type="str">695203267007</DOCID> 
+<DCT type="str">2017-01-29T08:08:25Z</DCT> 
+<TITLE type="str">The Latest: Jeff Gordon, Taylor Racing halfway home to Rolex (Yahoo Sports)</TITLE> 
 </root>

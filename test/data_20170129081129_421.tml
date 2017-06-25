@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tennis great Margaret Court expects Serena Williams to break her all-time record for grand slam singles titles sooner rather than later, but says she won&apos;t be losing much sleep over it.
+<TEXT type="str">Tennis great Margaret Court expects Serena Williams to break her all-time record for grand slam singles titles sooner rather than later, but says she won&apos;t be losing much sleep over it.
 
 Williams now sits just one big win behind Court, having broken her tie with Steffi Graf and claimed her 23rd grand slam title after Saturday night&apos;s Australian Open final. Court won 24 major titles in her 17-year career, 11 of them in the Open era. She won 64 grand slam titles in total, including doubles and mixed doubles.
 
@@ -26,9 +26,8 @@ Court has not had the chance to talk extensively with Williams, chatting to her 
 
 &quot;I thought it was a very interesting match that she played. I knew she was going to win but there was a lot of hitting up and down the court.
 
-&quot;We had so much more of an all-round game with the volleying. It&apos;s a totally different game now, but she has a wonderful serve. That gets her out of a lot of trouble, but she played very well.&quot;</content> 
-<sequenceId type="str">695205019461</sequenceId> 
-<topics type="list"> 
+&quot;We had so much more of an all-round game with the volleying. It&apos;s a totally different game now, but she has a wonderful serve. That gets her out of a lot of trouble, but she played very well.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -37,7 +36,8 @@ Court has not had the chance to talk extensively with Williams, chatting to her 
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T20:24:56Z</estimatedPublishedDate> 
-<title type="str">Court expects Williams to take her record</title> 
+</TOPICS> 
+<DOCID type="str">695205019461</DOCID> 
+<DCT type="str">2017-01-28T20:24:56Z</DCT> 
+<TITLE type="str">Court expects Williams to take her record</TITLE> 
 </root>

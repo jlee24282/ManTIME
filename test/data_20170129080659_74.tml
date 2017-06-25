@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By RFE/RL 
+<TEXT type="str">By RFE/RL 
  
 The International Monetary Fund (IMF) says Afghanistan is experiencing a &quot;large influx&quot; of returning refugees that is severely testing the country&apos;s ability to absorb so many displaced people. 
  
@@ -22,9 +22,8 @@ The security situation now remains difficult in many areas of the country, with 
  
 &quot;Many of the Afghans who lived abroad for decades are returning to a country facing conflict, insecurity, and widespread poverty,&quot; the IMF said. 
  
-&quot;Given the difficult economic climate, prospects for returnees are generally poor,&quot; it added. &apos;While there are also wealthier returnees, a typical returning refugee has a high risk of falling into poverty.&quot;</content> 
-<sequenceId type="str">695194685639</sequenceId> 
-<topics type="list"> 
+&quot;Given the difficult economic climate, prospects for returnees are generally poor,&quot; it added. &apos;While there are also wealthier returnees, a typical returning refugee has a high risk of falling into poverty.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Economics news</name> 
@@ -37,7 +36,8 @@ The security situation now remains difficult in many areas of the country, with 
 <group type="str">Regional</group> 
 <name type="str">Afghanistan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T23:41:27Z</estimatedPublishedDate> 
-<title type="str">IMF Says Returning Refugees &apos;Aggravating&apos; Afghan Government&apos;s Capacity</title> 
+</TOPICS> 
+<DOCID type="str">695194685639</DOCID> 
+<DCT type="str">2017-01-28T23:41:27Z</DCT> 
+<TITLE type="str">IMF Says Returning Refugees &apos;Aggravating&apos; Afghan Government&apos;s Capacity</TITLE> 
 </root>

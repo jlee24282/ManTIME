@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Cameroon players celebrate their win against Senegal in the ongoing Nations Cup, qualified for semis. /BBC  
+<TEXT type="str">Cameroon players celebrate their win against Senegal in the ongoing Nations Cup, qualified for semis. /BBC  
 Liverpool&apos;s Sadio Mane missed the decisive spot kick as Cameroon beat Senegal 5-4 on penalties to reach the Africa Cup of Nations semi-finals. 
  
 Mane, Africa&apos;s most expensive player, was denied by Fabrice Ondoa, Vincent Aboubakar hitting the winning penalty. 
@@ -27,9 +27,8 @@ Diallo was responsible for ensuring the tie went to penalties after a fine stop 
  
 In the shootout, there was nothing to choose between the two teams as the first eight penalties went to plan. 
  
-At 4-4, Mane stepped forward but Ondoa saved his kick. That presented Aboubakar with a chance to seal victory and the Besiktas forward made no mistake.</content> 
-<sequenceId type="str">695199933993</sequenceId> 
-<topics type="list"> 
+At 4-4, Mane stepped forward but Ondoa saved his kick. That presented Aboubakar with a chance to seal victory and the Besiktas forward made no mistake.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Cameroon news</name> 
@@ -42,7 +41,8 @@ At 4-4, Mane stepped forward but Ondoa saved his kick. That presented Aboubakar 
 <group type="str">Regional</group> 
 <name type="str">Senegal news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:15Z</estimatedPublishedDate> 
-<title type="str">Mane misses penalty as Cameroon reaches semis in Nations Cup</title> 
+</TOPICS> 
+<DOCID type="str">695199933993</DOCID> 
+<DCT type="str">2017-01-29T07:18:15Z</DCT> 
+<TITLE type="str">Mane misses penalty as Cameroon reaches semis in Nations Cup</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695202956179</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -27,7 +26,8 @@
 <group type="str">Business</group> 
 <name type="str">Marketing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:58Z</estimatedPublishedDate> 
-<title type="str">Director of Iran\&apos;s \&apos;Salesman\&apos; talks Oscar nomination, working in America</title> 
+</TOPICS> 
+<DOCID type="str">695202956179</DOCID> 
+<DCT type="str">2017-01-29T08:17:58Z</DCT> 
+<TITLE type="str">Director of Iran\&apos;s \&apos;Salesman\&apos; talks Oscar nomination, working in America</TITLE> 
 </root>

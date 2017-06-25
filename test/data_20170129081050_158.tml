@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Credit: Tracey Laing A mostly fine morning, with sunny spells and just the odd shower. 
+<TEXT type="str">Credit: Tracey Laing A mostly fine morning, with sunny spells and just the odd shower. 
 
 However cloud will thicken from the southwest later in the day, with some rain possible in the south 
 
-Maximum Temperature 6 °C.</content> 
-<sequenceId type="str">695203388352</sequenceId> 
-<topics type="list"> 
+Maximum Temperature 6 °C.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:22Z</estimatedPublishedDate> 
-<title type="str">Weather: Sunday</title> 
+</TOPICS> 
+<DOCID type="str">695203388352</DOCID> 
+<DCT type="str">2017-01-29T08:15:22Z</DCT> 
+<TITLE type="str">Weather: Sunday</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Our new president gave one of the shortest inaugural speeches in American history. I’d say that’s not a bad start. Nobody paid much attention to the content of his message, so lost we all got in the endless back-and-forth about the size of his audience. Well, enough already. If you can’t say what you want to say in 15 minutes, you might just as well sum it up in a Tweet, which would be shorter by at least seven words and take only a twelfth of the time to read off the teleprompter. 
+<TEXT type="str">Our new president gave one of the shortest inaugural speeches in American history. I’d say that’s not a bad start. Nobody paid much attention to the content of his message, so lost we all got in the endless back-and-forth about the size of his audience. Well, enough already. If you can’t say what you want to say in 15 minutes, you might just as well sum it up in a Tweet, which would be shorter by at least seven words and take only a twelfth of the time to read off the teleprompter. 
  
 It’s a pretty well known fact that our first president, George Washington, orated for precisely two minutes on his, and they named the whole city after him. Poor William Henry Harrison went on for an hour and three quarters. He spoke in a raging snowstorm, and died of pneumonia a month later. I see no record that the media of his day second-guessed either the length of his speech or his choices of outdoor clothing. 
  
@@ -22,14 +22,14 @@ That put me in mind of an experiment by Mike Royko, the late great columnist for
  
 I could see the president was itching to put the speech behind him and get on with making America great again. Making America great again. (He says almost everything twice just in case you missed it the first time. If you took away those repetitions, I guess he may have spoken only seven and a half minutes.) Anyway, the man has been busy. His aides get calls in the middle of the night. Rumor has it they sleep in their suits. I doubt the report that his staffers all have serious cases of the bends and are being treated in a hyperbaric facility somewhere in Georgetown. 
  
-Fake news. Fake news.</content> 
-<sequenceId type="str">695196751262</sequenceId> 
-<topics type="list"> 
+Fake news. Fake news.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Sid McKeen: &apos;I do solemnly swear,&apos; and then some</title> 
+</TOPICS> 
+<DOCID type="str">695196751262</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Sid McKeen: &apos;I do solemnly swear,&apos; and then some</TITLE> 
 </root>

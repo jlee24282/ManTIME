@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">plz i would be gettin a new phone in 3 days time nd i am confused to know which phone to buy.... I&apos;ll like some advice</content> 
-<sequenceId type="str">695200938445</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">plz i would be gettin a new phone in 3 days time nd i am confused to know which phone to buy.... I&apos;ll like some advice</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Technology</group> 
 <name type="str">Telecom news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:02Z</estimatedPublishedDate> 
-<title type="str">Which Is Better: Android Or Windows Phone</title> 
+</TOPICS> 
+<DOCID type="str">695200938445</DOCID> 
+<DCT type="str">2017-01-29T06:59:02Z</DCT> 
+<TITLE type="str">Which Is Better: Android Or Windows Phone</TITLE> 
 </root>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">I see that President Trump is saying there were 3 million to 5 million fraudulent votes cast in the last election. I guess that explains how he won.
+<TEXT type="str">I see that President Trump is saying there were 3 million to 5 million fraudulent votes cast in the last election. I guess that explains how he won.
 
 ROBERT GROSS
 
-Franklin Park</content> 
-<sequenceId type="str">695201795145</sequenceId> 
-<topics type="list"> 
+Franklin Park</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:49Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s voter fraud claim explains a lot</title> 
+</TOPICS> 
+<DOCID type="str">695201795145</DOCID> 
+<DCT type="str">2017-01-29T08:08:49Z</DCT> 
+<TITLE type="str">Trump&apos;s voter fraud claim explains a lot</TITLE> 
 </root>

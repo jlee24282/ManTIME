@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Published on  : 
+<TEXT type="str">Published on  : 
   
 Comment 
     Latest news        
@@ -9,9 +9,8 @@ Palinfo.com -جميع الحقوق محفوظة - المركز الفلسطين�
      
 {{if type== &quot;link&quot;}} ${name} 
 ${caption} ${description} {{/if}} 
-${created_time}·{{if comments}}${comments.count}Comment{{if comments.count&gt;1}}s{{/if}}{{else}}0 Comments{{/if}}·{{if likes}}${likes.count}Like{{if likes.count&gt;1}}s{{/if}}{{else}}0 Likes{{/if}}</content> 
-<sequenceId type="str">695200141492</sequenceId> 
-<topics type="list"> 
+${created_time}·{{if comments}}${comments.count}Comment{{if comments.count&gt;1}}s{{/if}}{{else}}0 Comments{{/if}}·{{if likes}}${likes.count}Like{{if likes.count&gt;1}}s{{/if}}{{else}}0 Likes{{/if}}</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Central America news</name> 
@@ -32,7 +31,8 @@ ${created_time}·{{if comments}}${comments.count}Comment{{if comments.count&gt;1
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:35Z</estimatedPublishedDate> 
-<title type="str">Mexico lashes out at Netanyahu over pro-Trump wall tweet</title> 
+</TOPICS> 
+<DOCID type="str">695200141492</DOCID> 
+<DCT type="str">2017-01-29T07:52:35Z</DCT> 
+<TITLE type="str">Mexico lashes out at Netanyahu over pro-Trump wall tweet</TITLE> 
 </root>

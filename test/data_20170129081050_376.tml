@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A woman has been rushed to hospital after a crash on a main road into Preston  
+<TEXT type="str">A woman has been rushed to hospital after a crash on a main road into Preston  
 Police are at the scene on Southport New Road in Tarleton. 
  
 They&apos;ve shut off the A565 going towards Preston and officers are telling us she skidded on black ice and crashed into a tree. 
@@ -17,14 +17,14 @@ Traffic is coping well for the moment but avoid the area if you can.
  
 Here&apos;s where the crash happened: 
  
-If you would like to submit a query or provide more information on this story please get in touch below.</content> 
-<sequenceId type="str">695203572147</sequenceId> 
-<topics type="list"> 
+If you would like to submit a query or provide more information on this story please get in touch below.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:02:04Z</estimatedPublishedDate> 
-<title type="str">UPDATE driver seriously injured after crash near Preston</title> 
+</TOPICS> 
+<DOCID type="str">695203572147</DOCID> 
+<DCT type="str">2017-01-29T07:02:04Z</DCT> 
+<TITLE type="str">UPDATE driver seriously injured after crash near Preston</TITLE> 
 </root>

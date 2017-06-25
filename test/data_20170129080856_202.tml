@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, in a Fort Smith hospital. She was a homemaker and member of Greenwood First Baptist Church. 
+<TEXT type="str">, in a Fort Smith hospital. She was a homemaker and member of Greenwood First Baptist Church. 
  
 A celebration of life service will be held 11 a.m. Monday at Greenwood First Baptist Church under the direction of McConnell Funeral Home in Greenwood. Visitation with the family will be 9:30 a.m. until service time Monday at the church. 
  
@@ -8,9 +8,8 @@ She is survived by her husband, Edward; three sons, Aaron Hopper and wife Caroli
  
 Memorial contributions may be made to St. Jude Children’s Research Hospital, 501 St. Jude Place, Memphis, TN 38105. 
  
-Please visit www.mcconnellfh.com to sign an online guestbook.</content> 
-<sequenceId type="str">695199286950</sequenceId> 
-<topics type="list"> 
+Please visit www.mcconnellfh.com to sign an online guestbook.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -19,7 +18,8 @@ Please visit www.mcconnellfh.com to sign an online guestbook.</content>
 <group type="str">Society</group> 
 <name type="str">Obituaries</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:01:00Z</estimatedPublishedDate> 
-<title type="str">Diane Hopper</title> 
+</TOPICS> 
+<DOCID type="str">695199286950</DOCID> 
+<DCT type="str">2017-01-29T05:01:00Z</DCT> 
+<TITLE type="str">Diane Hopper</TITLE> 
 </root>

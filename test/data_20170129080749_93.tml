@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Views : 11. Votes : 1020. Shares : 1.  
+<TEXT type="str">Views : 11. Votes : 1020. Shares : 1.  
    
  Views : 218. Votes : 425. Shares : 0.  
    
@@ -8,9 +8,8 @@
    
  Views : 127. Votes : 38. Shares : 0.  
    
- Views : 17. Votes : 28. Shares</content> 
-<sequenceId type="str">695196562691</sequenceId> 
-<topics type="list"> 
+ Views : 17. Votes : 28. Shares</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:46Z</estimatedPublishedDate> 
-<title type="str">Klopp accepts Liverpool &apos;very bad&apos; in shock FA Cup exit</title> 
+</TOPICS> 
+<DOCID type="str">695196562691</DOCID> 
+<DCT type="str">2017-01-29T07:30:46Z</DCT> 
+<TITLE type="str">Klopp accepts Liverpool &apos;very bad&apos; in shock FA Cup exit</TITLE> 
 </root>

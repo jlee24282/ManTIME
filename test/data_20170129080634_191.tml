@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MOSUL, Iraq -- Iraqi forces discovered a mustard chemical warfare agent in eastern Mosul alongside a cache of Russian surface-to-surface missiles, an Iraqi officer said Saturday.
+<TEXT type="str">MOSUL, Iraq -- Iraqi forces discovered a mustard chemical warfare agent in eastern Mosul alongside a cache of Russian surface-to-surface missiles, an Iraqi officer said Saturday.
 
 Iraqi and U.S. officials have repeatedly warned of Islamic State group efforts to develop chemical weapons. When Iraqi forces retook Mosul University earlier this month, they found chemistry labs they believed had been converted into makeshift chemical weapons labs.
 
@@ -16,9 +16,8 @@ The number of casualties because of IS chemical weapons is a small fraction comp
 
 The types of rockets found at the site suggest the Islamic State group was attempting to weaponize the chemical agent, Fadhil said. He added that he believed the facility was being used up until just one or two weeks ago.
 
-Iraqi forces declared Mosul&apos;s eastern half fully liberated, just over three months after the operation to retake the city from IS was formally launched in October.</content> 
-<sequenceId type="str">695194016443</sequenceId> 
-<topics type="list"> 
+Iraqi forces declared Mosul&apos;s eastern half fully liberated, just over three months after the operation to retake the city from IS was formally launched in October.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -27,7 +26,8 @@ Iraqi forces declared Mosul&apos;s eastern half fully liberated, just over three
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Forces discover chemical warfare agent near Mosul</title> 
+</TOPICS> 
+<DOCID type="str">695194016443</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Forces discover chemical warfare agent near Mosul</TITLE> 
 </root>

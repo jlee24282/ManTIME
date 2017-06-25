@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Japanese swimmer Ippei Watanabe has broken the world record in the men&apos;s 200m breaststroke. 
+<TEXT type="str">Japanese swimmer Ippei Watanabe has broken the world record in the men&apos;s 200m breaststroke. 
  
 The 19-year-old university student swam two minutes, 06.67 seconds to beat the 2012 time of 2:07.01 by compatriot Akihiro Yamaguchi. 
  
 Watanabe set the new mark in Sunday&apos;s 200m breaststroke final at the Tokyo metropolitan championships. 
  
-Watanabe competed in the 100m breaststroke at the Rio Olympic Games but didn&apos;t qualify for the final. He also broke the Olympic record for the 200m breaststroke during the semi-finals in Rio.</content> 
-<sequenceId type="str">695195417330</sequenceId> 
-<topics type="list"> 
+Watanabe competed in the 100m breaststroke at the Rio Olympic Games but didn&apos;t qualify for the final. He also broke the Olympic record for the 200m breaststroke during the semi-finals in Rio.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -21,7 +20,8 @@ Watanabe competed in the 100m breaststroke at the Rio Olympic Games but didn&apo
 <group type="str">Sports</group> 
 <name type="str">Sports: swimming news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:59Z</estimatedPublishedDate> 
-<title type="str">Watanabe&apos;s 200m breaststroke world record</title> 
+</TOPICS> 
+<DOCID type="str">695195417330</DOCID> 
+<DCT type="str">2017-01-29T07:21:59Z</DCT> 
+<TITLE type="str">Watanabe&apos;s 200m breaststroke world record</TITLE> 
 </root>

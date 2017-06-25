@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Protesters gather outside John F. Kennedy International Airport in New York on Saturday to express their opposition to US president Donald Trump’s ban on admitting refugees into the country. Trump signed a sweeping executive order on Friday to suspend refugee arrivals and halt entry for 90 days for travellers from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen Continue reading...</content> 
-<sequenceId type="str">695196535640</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Protesters gather outside John F. Kennedy International Airport in New York on Saturday to express their opposition to US president Donald Trump’s ban on admitting refugees into the country. Trump signed a sweeping executive order on Friday to suspend refugee arrivals and halt entry for 90 days for travellers from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen Continue reading...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:21:43Z</estimatedPublishedDate> 
-<title type="str">Trump airport immigration protests – video | World news</title> 
+</TOPICS> 
+<DOCID type="str">695196535640</DOCID> 
+<DCT type="str">2017-01-29T04:21:43Z</DCT> 
+<TITLE type="str">Trump airport immigration protests – video | World news</TITLE> 
 </root>

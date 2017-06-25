@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Dan Levine 
+<TEXT type="str">By Dan Levine 
 
 (Reuters) - A group of state attorneys general are discussing whether to file their own court challenge against President Donald Trump&apos;s order to restrict people from seven Muslim-majority countries entering the United States, officials in three states told Reuters. 
 
@@ -22,9 +22,8 @@ However, his order hit a roadblock late on Saturday when a federal judge in New 
 
 The Department of Homeland Security said in a statement it would comply with judicial orders but that Trump&apos;s immigration restrictions remained in effect. 
 
-(Reporting by Dan Levine in San Francisco; Editing by Paul Tait)</content> 
-<sequenceId type="str">695196457514</sequenceId> 
-<topics type="list"> 
+(Reporting by Dan Levine in San Francisco; Editing by Paul Tait)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -33,7 +32,8 @@ The Department of Homeland Security said in a statement it would comply with jud
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:47Z</estimatedPublishedDate> 
-<title type="str">States discussing lawsuit over Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695196457514</DOCID> 
+<DCT type="str">2017-01-29T07:29:47Z</DCT> 
+<TITLE type="str">States discussing lawsuit over Trump immigration order</TITLE> 
 </root>

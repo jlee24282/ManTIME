@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Los Angeles, Jan 29 (IANS) Grammy winning singer John Legend has slammed President Donald Trump’s immigration ban, saying America is “open to dreamers of all races, all countries and all religions”. 
+<TEXT type="str">Los Angeles, Jan 29 (IANS) Grammy winning singer John Legend has slammed President Donald Trump’s immigration ban, saying America is “open to dreamers of all races, all countries and all religions”. 
  
 Legend took a moment to address Trump’s executive order barring US entry to citizens from Syria, Iraq, Iran, Sudan, Libya, Somalia and Yemen while presenting a clip from “La La Land” at the 28th annual Producers Guild of America Awards here, variety.com reports. 
  
@@ -10,14 +10,14 @@ He said: “Los Angeles is the home of so many immigrants, so many creative peop
  
 –IANS 
  
-sug/rb/mr</content> 
-<sequenceId type="str">695200991978</sequenceId> 
-<topics type="list"> 
+sug/rb/mr</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:00Z</estimatedPublishedDate> 
-<title type="str">John Legend slams Trump’s immigration ban</title> 
+</TOPICS> 
+<DOCID type="str">695200991978</DOCID> 
+<DCT type="str">2017-01-29T07:46:00Z</DCT> 
+<TITLE type="str">John Legend slams Trump’s immigration ban</TITLE> 
 </root>

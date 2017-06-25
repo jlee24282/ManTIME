@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Yale Law School team helped convince a judge Saturday to temporarily stop the government from deporting foreigners detained at U.S. airports based on an executive order by President Donald Trump.
+<TEXT type="str">A Yale Law School team helped convince a judge Saturday to temporarily stop the government from deporting foreigners detained at U.S. airports based on an executive order by President Donald Trump.
 
 But the order has quashed about a dozen refugee families’ plans to resettle in New Haven in coming weeks.
 
@@ -74,9 +74,8 @@ Peter Salovey, President and Chris Argyris Professor of Psychology
 
 Benjamin Polak, Provost and William C. Brainard Professor of Economics
 
-Kimberly Goff-Crews, Secretary and Vice President for Student Life</content> 
-<sequenceId type="str">695199731568</sequenceId> 
-<topics type="list"> 
+Kimberly Goff-Crews, Secretary and Vice President for Student Life</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -93,7 +92,8 @@ Kimberly Goff-Crews, Secretary and Vice President for Student Life</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:23:14Z</estimatedPublishedDate> 
-<title type="str">Law Students Help Halt Deportations</title> 
+</TOPICS> 
+<DOCID type="str">695199731568</DOCID> 
+<DCT type="str">2017-01-29T06:23:14Z</DCT> 
+<TITLE type="str">Law Students Help Halt Deportations</TITLE> 
 </root>

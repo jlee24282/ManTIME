@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tributes Bourke Street car rampage victim had Perth links  
+<TEXT type="str">Tributes Bourke Street car rampage victim had Perth links  
    
  Showpiece match Perth’s blue coup with Chelsea to take on Glory  
    
@@ -30,9 +30,8 @@ Andrew Tillett
     Best and brightest Smart business to have more women in top jobs  
 In WA, just one in eight chief executives and chairs of companies is a woman. 
   
-Tania Cecconi</content> 
-<sequenceId type="str">695204042416</sequenceId> 
-<topics type="list"> 
+Tania Cecconi</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: womens news</name> 
@@ -45,7 +44,8 @@ Tania Cecconi</content>
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:15:09Z</estimatedPublishedDate> 
-<title type="str">Vic female and child found dead in home (AAP)</title> 
+</TOPICS> 
+<DOCID type="str">695204042416</DOCID> 
+<DCT type="str">2017-01-29T08:15:09Z</DCT> 
+<TITLE type="str">Vic female and child found dead in home (AAP)</TITLE> 
 </root>

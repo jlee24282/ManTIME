@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MALIBU, Calif. – It was essentially a replay of the first Gonzaga-Pepperdine game and pretty much a replay of the WCC season thus far for the Zags. No. 3 Gonzaga dominated from tip to buzzer, crushing Pepperdine 96-49 in front of 3,104 Saturday at Firestone Fieldhouse. 
+<TEXT type="str">MALIBU, Calif. – It was essentially a replay of the first Gonzaga-Pepperdine game and pretty much a replay of the WCC season thus far for the Zags. No. 3 Gonzaga dominated from tip to buzzer, crushing Pepperdine 96-49 in front of 3,104 Saturday at Firestone Fieldhouse. 
  
 Gonzaga put together one of its best efforts of the season in its last chance to impress voters before the polls come out on Monday. No. 1 Villanova and No. 2 Kansas lost earlier this week but the Jayhawks responded with a road win over Kentucky. Villanova entertains Virginia on Sunday. 
  
@@ -20,9 +20,8 @@ The Zags bolted in front 27-8. Silas Melson, who finished with 15 points, hit a 
  
 “I thought we were good for the full 40,” coach Mark Few said. 
  
-Nigel Williams-Goss added 12 points, eight rebounds and six assists.</content> 
-<sequenceId type="str">695203992985</sequenceId> 
-<topics type="list"> 
+Nigel Williams-Goss added 12 points, eight rebounds and six assists.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -31,7 +30,8 @@ Nigel Williams-Goss added 12 points, eight rebounds and six assists.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:43Z</estimatedPublishedDate> 
-<title type="str">22-0 and rolling: Gonzaga pummels Pepperdine to remain unbeaten</title> 
+</TOPICS> 
+<DOCID type="str">695203992985</DOCID> 
+<DCT type="str">2017-01-29T08:25:43Z</DCT> 
+<TITLE type="str">22-0 and rolling: Gonzaga pummels Pepperdine to remain unbeaten</TITLE> 
 </root>

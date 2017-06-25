@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The 15-year nonexclusive franchise agreement allowing Cable One to operate in Lewiston expires this December. 
+<TEXT type="str">The 15-year nonexclusive franchise agreement allowing Cable One to operate in Lewiston expires this December. 
  
 The agreement gives the city 5 percent of gross revenue, which has equaled about $220,000 in recent years, compared with the city&apos;s overall budget of about $64 million, said Lewiston Administrative Services Director Dan Marsh. 
  
@@ -34,9 +34,8 @@ But the chances of the Lewiston-Clarkston Valley ending up without cable service
  
 --- 
  
-Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</content> 
-<sequenceId type="str">695204324935</sequenceId> 
-<topics type="list"> 
+Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Cable industry news</name> 
@@ -45,7 +44,8 @@ Williams may be contacted at ewilliam@lmtribune.com or (208) 848-2261.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Lewiston&apos;s pact with Cable One expires at the end of December</title> 
+</TOPICS> 
+<DOCID type="str">695204324935</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Lewiston&apos;s pact with Cable One expires at the end of December</TITLE> 
 </root>

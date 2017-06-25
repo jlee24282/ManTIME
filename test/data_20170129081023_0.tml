@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Joe Theismann knows how it feels to bring the NFL’s most prolific offense into the Super Bowl and leave with a loss. 
+<TEXT type="str">Joe Theismann knows how it feels to bring the NFL’s most prolific offense into the Super Bowl and leave with a loss. 
  
 The former Washington Redskins quarterback also knows how difficult it can be to deal with a defense designed by Bill Belichick. 
  
@@ -42,9 +42,8 @@ The Falcons (13-5) scored at least 30 points in 13 of their 18 games this season
  
 The Patriots (16-2) allowed more than 25 points only once in their 18 games, a 31-24 loss to Seattle in November. Since then, they’ve won nine games in a row, never trailing at any moment in their past seven. 
  
-“It’s the best defense that we’ve seen in the NFL this year. The numbers show it, and watch the film and you see exactly why their numbers are the way they are,” Shanahan said.</content> 
-<sequenceId type="str">695202479741</sequenceId> 
-<topics type="list"> 
+“It’s the best defense that we’ve seen in the NFL this year. The numbers show it, and watch the film and you see exactly why their numbers are the way they are,” Shanahan said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Washington Redskins news</name> 
@@ -69,7 +68,8 @@ The Patriots (16-2) allowed more than 25 points only once in their 18 games, a 3
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Super Bowl LI: Top D (Patriots) usually beats top O (Falcons) in Super Bowl</title> 
+</TOPICS> 
+<DOCID type="str">695202479741</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Super Bowl LI: Top D (Patriots) usually beats top O (Falcons) in Super Bowl</TITLE> 
 </root>

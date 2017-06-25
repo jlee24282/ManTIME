@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Two teams heading in opposite directions met on the U Sports Canada West men’s basketball court Saturday in Winnipeg with a predictable result. 
+<TEXT type="str">Two teams heading in opposite directions met on the U Sports Canada West men’s basketball court Saturday in Winnipeg with a predictable result. 
  
 UNBC Timberwolves came out of it on the losing end of a 77-68 decision at the hands of the Manitoba Bisons, which left the T-wolves with almost no chance to making a second-straight appearance in the Canada West playoffs.  
  
@@ -20,9 +20,8 @@ Potter finished with 17 points and Emma Thompson had 16 points and 10 rebounds. 
  
 Despite the loss, UNBC (6-10) remains in a playoff position, ranked 11 th in the 17-team league. Manitoba (2-14) is tied for last place with Thompson Rivers of Kamloops. 
  
-The T-wolves opened the weekend Friday with an 85-75 win over Manitoba.</content> 
-<sequenceId type="str">695202103884</sequenceId> 
-<topics type="list"> 
+The T-wolves opened the weekend Friday with an 85-75 win over Manitoba.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Minnesota Timberwolves news</name> 
@@ -35,7 +34,8 @@ The T-wolves opened the weekend Friday with an 85-75 win over Manitoba.</content
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:11:25Z</estimatedPublishedDate> 
-<title type="str">T-wolves&apos; playoff hopes dim</title> 
+</TOPICS> 
+<DOCID type="str">695202103884</DOCID> 
+<DCT type="str">2017-01-29T08:11:25Z</DCT> 
+<TITLE type="str">T-wolves&apos; playoff hopes dim</TITLE> 
 </root>

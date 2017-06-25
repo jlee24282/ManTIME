@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A missing boat carrying Chinese tourists has been found sunken off Malaysia&apos;s Sabah state on North Borneo, and multiple survivors were reported drifting at sea waiting for rescue, China&apos;s consulate general&apos;s office in Kota Kinabalu said Sunday. Endite</content> 
-<sequenceId type="str">695203200682</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A missing boat carrying Chinese tourists has been found sunken off Malaysia&apos;s Sabah state on North Borneo, and multiple survivors were reported drifting at sea waiting for rescue, China&apos;s consulate general&apos;s office in Kota Kinabalu said Sunday. Endite</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -19,7 +18,8 @@
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:36Z</estimatedPublishedDate> 
-<title type="str">Urgent: Missing Malaysian boat carrying Chinese tourists sinks, multiple passengers waiting for rescue</title> 
+</TOPICS> 
+<DOCID type="str">695203200682</DOCID> 
+<DCT type="str">2017-01-29T08:19:36Z</DCT> 
+<TITLE type="str">Urgent: Missing Malaysian boat carrying Chinese tourists sinks, multiple passengers waiting for rescue</TITLE> 
 </root>

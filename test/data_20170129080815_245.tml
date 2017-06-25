@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">“So what are we going to do about our number one problem?” 
+<TEXT type="str">“So what are we going to do about our number one problem?” 
  
 “Which is?” 
  
@@ -118,14 +118,14 @@ You tell them you are giving them an unprecedented opportunity to invest in a ca
  
 “Excellent, oh… just one more thing.” 
  
-“What’s that</content> 
-<sequenceId type="str">695197506079</sequenceId> 
-<topics type="list"> 
+“What’s that</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T23:01:17Z</estimatedPublishedDate> 
-<title type="str">Wanted: Extremely generous sugar-daddy airline…</title> 
+</TOPICS> 
+<DOCID type="str">695197506079</DOCID> 
+<DCT type="str">2017-01-28T23:01:17Z</DCT> 
+<TITLE type="str">Wanted: Extremely generous sugar-daddy airline…</TITLE> 
 </root>

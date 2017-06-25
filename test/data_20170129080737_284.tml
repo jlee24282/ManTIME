@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Looks like you&apos;re already verified. 
+<TEXT type="str">Looks like you&apos;re already verified. 
  
 If you still have trouble signing in, you probably need a new confirmation link email. 
  
@@ -75,9 +75,8 @@ We didn&apos;t recognize that password reset code. Enter your email address to g
 We&apos;ve sent an email with instructions to create a new password. Your existing password has not been changed. 
  Close  Thanks for verifying your email address.  
 You&apos;re now logged in. 
-  {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</content> 
-<sequenceId type="str">695196350453</sequenceId> 
-<topics type="list"> 
+  {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -90,7 +89,8 @@ You&apos;re now logged in.
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:53Z</estimatedPublishedDate> 
-<title type="str">Palestinians: 17-year-old shot dead in clashes with Israel</title> 
+</TOPICS> 
+<DOCID type="str">695196350453</DOCID> 
+<DCT type="str">2017-01-29T07:28:53Z</DCT> 
+<TITLE type="str">Palestinians: 17-year-old shot dead in clashes with Israel</TITLE> 
 </root>

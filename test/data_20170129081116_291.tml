@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Go behind the bricks in this funny new video from The LEGO Batman Movie.</content> 
-<sequenceId type="str">695204421493</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Go behind the bricks in this funny new video from The LEGO Batman Movie.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: superhero news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:31Z</estimatedPublishedDate> 
-<title type="str">LEGO Batman Explains Why He&apos;s So Awesome</title> 
+</TOPICS> 
+<DOCID type="str">695204421493</DOCID> 
+<DCT type="str">2017-01-29T07:37:31Z</DCT> 
+<TITLE type="str">LEGO Batman Explains Why He&apos;s So Awesome</TITLE> 
 </root>

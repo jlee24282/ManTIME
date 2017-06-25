@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">John Ikard often is asked to talk about how he got into the banking industry. 
+<TEXT type="str">John Ikard often is asked to talk about how he got into the banking industry. 
  
 The truth isn’t what most people expect, the longtime CEO of FirstBank admits, with a flash of the humor for which he is known. 
  
@@ -62,9 +62,8 @@ For one, he joked, his wife doesn’t want him hanging around at home, interrupt
  
 He serves as chairman of business advocacy group Colorado Concern  and will remain on FirstBank’s board of directors. 
  
-“Lucky to the organization he says yes to,” Plagge said. “He’ll go at that with the passion he’s had throughout his career.”</content> 
-<sequenceId type="str">695198023060</sequenceId> 
-<topics type="list"> 
+“Lucky to the organization he says yes to,” Plagge said. “He’ll go at that with the passion he’s had throughout his career.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Denver-Aurora news</name> 
@@ -73,7 +72,8 @@ He serves as chairman of business advocacy group Colorado Concern  and will rem
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:39Z</estimatedPublishedDate> 
-<title type="str">After 17 years as FirstBank CEO, John Ikard leaves legacy of record profits, community giving</title> 
+</TOPICS> 
+<DOCID type="str">695198023060</DOCID> 
+<DCT type="str">2017-01-29T07:38:39Z</DCT> 
+<TITLE type="str">After 17 years as FirstBank CEO, John Ikard leaves legacy of record profits, community giving</TITLE> 
 </root>

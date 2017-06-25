@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A day off that was supposed to help the Lakers improve their overall health brought news of one player getting sicker, while another may be closer to a return. 
+<TEXT type="str">A day off that was supposed to help the Lakers improve their overall health brought news of one player getting sicker, while another may be closer to a return. 
  
 Julius Randle, who sat out Thursday’s game at Utah with an illness, was diagnosed with pneumonia. Per a statement from the team, he will not participate in basketball activities for 2-3 days, but will be re-evaluated Monday. The timing allows for the possibility that Randle wouldn’t miss any more game and could be available Tuesday when the Lakers host Denver. 
  
@@ -49,9 +49,8 @@ While speaking to schoolchildren at a clinic hosted by Spectrum SportsNet on Sat
  
 “I don’t think anyone is just a winner because they woke up today,” said Fisher, who joined Spectrum as a studio analyst this season. “And so when you say winning is a skill, meaning that it’s possible for anybody, a skill is something that if you work at it in the right ways and you invest the right amount of time … if you’re willing to invest the time in something you can develop the skill to be good at it.” 
  
-Appearing with James Worthy at a clinic for students from Toland Way Elementary and Fletcher Drive Elementary, Fisher said it is important for members of the current team to be active in local communities “so that during the tough times, the people in this city will still have your back if they feel like you’re a part of it.”</content> 
-<sequenceId type="str">695199763616</sequenceId> 
-<topics type="list"> 
+Appearing with James Worthy at a clinic for students from Toland Way Elementary and Fletcher Drive Elementary, Fisher said it is important for members of the current team to be active in local communities “so that during the tough times, the people in this city will still have your back if they feel like you’re a part of it.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Los Angeles Lakers news</name> 
@@ -64,7 +63,8 @@ Appearing with James Worthy at a clinic for students from Toland Way Elementary 
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:47:18Z</estimatedPublishedDate> 
-<title type="str">Lakers notebook: Pneumonia could sideline Julius Randle</title> 
+</TOPICS> 
+<DOCID type="str">695199763616</DOCID> 
+<DCT type="str">2017-01-29T02:47:18Z</DCT> 
+<TITLE type="str">Lakers notebook: Pneumonia could sideline Julius Randle</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The house that I live in has five rooms in its center. That center, built in the mid-1800s, leaks heat the way an old wooden dam leaks water — all the time, in innumerable places. 
+<TEXT type="str">The house that I live in has five rooms in its center. That center, built in the mid-1800s, leaks heat the way an old wooden dam leaks water — all the time, in innumerable places. 
  
 But in mid-November, two workmen from HE-Energy Solutions came and calked hundreds of those leaks. They installed new weather-stripping on all my doors, wrapped pipes and replaced more than 20 of the light bulbs in the house with new LED bulbs that will use much less energy and last for years. 
  
@@ -44,9 +44,8 @@ A new study shows that nationwide, about 2.2 million people are employed in ener
  
 “It’s not just about power plants anymore,” he said. 
  
-Contact Robert Miller at earthmattersrgm@gmail.com</content> 
-<sequenceId type="str">695198817961</sequenceId> 
-<topics type="list"> 
+Contact Robert Miller at earthmattersrgm@gmail.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Renewable energy news</name> 
@@ -55,7 +54,8 @@ Contact Robert Miller at earthmattersrgm@gmail.com</content>
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">Robert Miller: How to make your house more energy efficient</title> 
+</TOPICS> 
+<DOCID type="str">695198817961</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">Robert Miller: How to make your house more energy efficient</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BOULDER- Colorado Buffaloes finally found the momentum they’ve been looking for at the Coors Events Center Saturday night. 
+<TEXT type="str">BOULDER- Colorado Buffaloes finally found the momentum they’ve been looking for at the Coors Events Center Saturday night. 
  
 The Buffs upset the No. 10 Oregon Ducks 74-65 in the most thrilling game of their season thus far. Although it did not look like it on the night, it was only Colorado’s second conference win all season, and in the process they ended a 17-game winning streak for Oregon. 
  
@@ -24,9 +24,8 @@ Colorado now finds themselves with two consecutive wins on their hands, finally 
  
 “The joy and togetherness in that locker room is something we can build on, it’s not going to be easy,” Boyle concluded. “We’re halfway through the conference season, the first nine games are in the rearview mirror… I just want these guys dialed in, if they dial in we can play with anyone in this league and there is a lot of basketball left to be played.” 
  
-The Buffs will have their chance to prove that this game was more than just a fluke when they head to Palo Alto to take on the Stanford Cardinal on Thursday.</content> 
-<sequenceId type="str">695195733352</sequenceId> 
-<topics type="list"> 
+The Buffs will have their chance to prove that this game was more than just a fluke when they head to Palo Alto to take on the Stanford Cardinal on Thursday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -35,7 +34,8 @@ The Buffs will have their chance to prove that this game was more than just a fl
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:55:13Z</estimatedPublishedDate> 
-<title type="str">White Night: Derrick White ponies up 23 as Buffs upset Ducks</title> 
+</TOPICS> 
+<DOCID type="str">695195733352</DOCID> 
+<DCT type="str">2017-01-29T06:55:13Z</DCT> 
+<TITLE type="str">White Night: Derrick White ponies up 23 as Buffs upset Ducks</TITLE> 
 </root>

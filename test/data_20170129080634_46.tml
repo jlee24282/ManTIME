@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Enlarge  
+<TEXT type="str">Enlarge  
 By Jonathan Allen and Brendan O’Brien 
  
 NEW YORK (Reuters) – After immigration agents detained two Iraqis on Saturday at New York’s John F. Kennedy International Airport, their lawyers and two U.S. representatives accompanying them tried to cross into a secure area – and were stopped themselves. 
@@ -89,9 +89,8 @@ That can create some agonizing dilemmas.
  
 “A Syrian doctor who has a dying mother in Europe cannot go visit her not knowing that he will be able to get back into the United States,” Leopold said. 
  
-(Additional reporting by John Walcott, Jeff Mason, Mica Rosenberg, Lesley Wroughton, Jeffrey Dastin, Yara Bayoumy and Yeganeh Torbati; Writing by Brian Thevenot; Editing by Kieran Murray and Bill Rigby)</content> 
-<sequenceId type="str">695193855842</sequenceId> 
-<topics type="list"> 
+(Additional reporting by John Walcott, Jeff Mason, Mica Rosenberg, Lesley Wroughton, Jeffrey Dastin, Yara Bayoumy and Yeganeh Torbati; Writing by Brian Thevenot; Editing by Kieran Murray and Bill Rigby)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -116,7 +115,8 @@ That can create some agonizing dilemmas.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:47:13Z</estimatedPublishedDate> 
-<title type="str">How Trump’s abrupt immigration ban sowed confusion at airports, agencies</title> 
+</TOPICS> 
+<DOCID type="str">695193855842</DOCID> 
+<DCT type="str">2017-01-29T06:47:13Z</DCT> 
+<TITLE type="str">How Trump’s abrupt immigration ban sowed confusion at airports, agencies</TITLE> 
 </root>

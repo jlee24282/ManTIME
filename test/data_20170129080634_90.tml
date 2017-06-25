@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Follow @edarabia  
+<TEXT type="str">Follow @edarabia  
 
  
 Dubai, UAE: AIM Middle East Consulting and Training have signed an agreement with KLAYS Consulting – UK, to bring their educational training and consulting expertise to the UAE. The two companies will work collaboratively to bring School Improvement Services, Professional Development and Headship Training Programs to the region. 
@@ -16,9 +16,8 @@ Century’ skills in students and teachers, especially as relates to developing 
  
 Maliha Ahad, Director AIM Middle East speaking on the occasion said: “We feel that our 
 partnership with KLAYS Consulting is a perfect match of local/regional market experience and knowledge, and international expertise and research. This partnership is a clear expression of our commitment to the UAE 2021 vision. We are fully aligned to the Ministry of Education’s goal of an education system that embraces diversity and prepares students for a knowledge-based economy, and we are committed to working with individuals, school leaders and regulators to achieve this goal.” 
- Jan 2</content> 
-<sequenceId type="str">695193872962</sequenceId> 
-<topics type="list"> 
+ Jan 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -39,7 +38,8 @@ partnership with KLAYS Consulting is a perfect match of local/regional market ex
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:36Z</estimatedPublishedDate> 
-<title type="str">AIM Middle East signs agreement with KLAYS Consulting-UK</title> 
+</TOPICS> 
+<DOCID type="str">695193872962</DOCID> 
+<DCT type="str">2017-01-29T07:11:36Z</DCT> 
+<TITLE type="str">AIM Middle East signs agreement with KLAYS Consulting-UK</TITLE> 
 </root>

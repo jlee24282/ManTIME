@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Our country has a new president, duly elected legally by the voters of this nation. We, as citizens, need to stand by him and give him our allegiance and honor. This is America and this is the way things are done here. 
+<TEXT type="str">Our country has a new president, duly elected legally by the voters of this nation. We, as citizens, need to stand by him and give him our allegiance and honor. This is America and this is the way things are done here. 
  
 The citizens have spoken and those who wanted someone else must accept the fact that there is one winner and one loser in any election. 
  
@@ -170,9 +170,8 @@ Mix sugar, flour, lemon zest and cinnamon. Cut in butter until it is like coarse
  
 *** 
  
-Patty Christopher is a longtime columnist for the Parkersburg News and Sentinel.</content> 
-<sequenceId type="str">695194361571</sequenceId> 
-<topics type="list"> 
+Patty Christopher is a longtime columnist for the Parkersburg News and Sentinel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: recipes</name> 
@@ -185,7 +184,8 @@ Patty Christopher is a longtime columnist for the Parkersburg News and Sentinel.
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:47Z</estimatedPublishedDate> 
-<title type="str">Comfort foods are back for the family</title> 
+</TOPICS> 
+<DOCID type="str">695194361571</DOCID> 
+<DCT type="str">2017-01-29T07:14:47Z</DCT> 
+<TITLE type="str">Comfort foods are back for the family</TITLE> 
 </root>

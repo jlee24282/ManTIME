@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Watch latest &quot;Fear Files&quot; Episodes on http://www.zeetv.com. 
+<TEXT type="str">Watch latest &quot;Fear Files&quot; Episodes on http://www.zeetv.com. 
 
 Author: ZEETV 
 Tags: 
-Posted: 29 January 2</content> 
-<sequenceId type="str">695197301800</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -15,7 +14,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:58Z</estimatedPublishedDate> 
-<title type="str">Fear Files September 16 &apos;2012 Part - 1</title> 
+</TOPICS> 
+<DOCID type="str">695197301800</DOCID> 
+<DCT type="str">2017-01-29T07:21:58Z</DCT> 
+<TITLE type="str">Fear Files September 16 &apos;2012 Part - 1</TITLE> 
 </root>

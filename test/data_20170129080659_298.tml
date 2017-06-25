@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In chess, the strategy of the other unfolds as things progress. Analyze these past moves and the pattern becomes clear.
+<TEXT type="str">In chess, the strategy of the other unfolds as things progress. Analyze these past moves and the pattern becomes clear.
 
 In 2013, in an interview, President Donald Trump stated there was “a (close) conversational relationship” between him and Russian President Vladimir Putin. Also in 2013, Secretary of State nominee Rex Tillerson was awarded the Russian Order of Friendship by Putin as a thank-you for brokering a deal between ExxonMobil and state-owned Russian (Putin) oil giant Rosneft.
 
-Posted in Letters on Sunday, Ja</content> 
-<sequenceId type="str">695194825503</sequenceId> 
-<topics type="list"> 
+Posted in Letters on Sunday, Ja</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -35,7 +34,8 @@ Posted in Letters on Sunday, Ja</content>
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Letter to the editor: The Trump-Putin-ExxonMobil connection</title> 
+</TOPICS> 
+<DOCID type="str">695194825503</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Letter to the editor: The Trump-Putin-ExxonMobil connection</TITLE> 
 </root>

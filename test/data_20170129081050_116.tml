@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tiger? Whoops? Ever since the greatest golfer of this generation laced them up at the end of 2016, signalling a return to action, there has been a clamour for his competitive return. 
+<TEXT type="str">Tiger? Whoops? Ever since the greatest golfer of this generation laced them up at the end of 2016, signalling a return to action, there has been a clamour for his competitive return. 
  
 Nostalgia is a dangerous beast in sport, because it creeps up on all of us in a manner that exposes even the most cynical among us as eternal romantics when it comes to happy endings. 
  
@@ -34,14 +34,14 @@ Now, after everything that has occurred, all that wasted time, the four victorie
  
 Not even a Tiger. 
  
-Sunday Independent</content> 
-<sequenceId type="str">695203311188</sequenceId> 
-<topics type="list"> 
+Sunday Independent</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:00Z</estimatedPublishedDate> 
-<title type="str">Time waits for no-one, not even Tiger</title> 
+</TOPICS> 
+<DOCID type="str">695203311188</DOCID> 
+<DCT type="str">2017-01-29T08:02:00Z</DCT> 
+<TITLE type="str">Time waits for no-one, not even Tiger</TITLE> 
 </root>

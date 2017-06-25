@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695197062015</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:30Z</estimatedPublishedDate> 
-<title type="str">Will Donald Trump&apos;s tough immigration policy stop terrorism?</title> 
+</TOPICS> 
+<DOCID type="str">695197062015</DOCID> 
+<DCT type="str">2017-01-29T07:34:30Z</DCT> 
+<TITLE type="str">Will Donald Trump&apos;s tough immigration policy stop terrorism?</TITLE> 
 </root>

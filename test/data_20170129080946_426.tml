@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Every day at 00:01 PST, our exciting new algorithm searches iTunes’ nearly 2 million
+<TEXT type="str">Every day at 00:01 PST, our exciting new algorithm searches iTunes’ nearly 2 million
                 apps for the top iPad games just gone free that day.  From the hundreds of apps it finds,
                 our algorithm selects only the 20 best apps iPad games free for the day to include in that ... 
 
-Full Article...</content> 
-<sequenceId type="str">695201531767</sequenceId> 
-<topics type="list"> 
+Full Article...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
@@ -19,7 +18,8 @@ Full Article...</content>
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T12:46:30Z</estimatedPublishedDate> 
-<title type="str">Top iPad games gone free for January 28th</title> 
+</TOPICS> 
+<DOCID type="str">695201531767</DOCID> 
+<DCT type="str">2017-01-28T12:46:30Z</DCT> 
+<TITLE type="str">Top iPad games gone free for January 28th</TITLE> 
 </root>

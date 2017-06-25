@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Roger Federer and Rafa Nadal take to Rod Laver Arena to reprise one of the great sporting rivalries of the modern age today, a fitting climax to an Australian Open which has sent tennis back to the future. 
+<TEXT type="str">Roger Federer and Rafa Nadal take to Rod Laver Arena to reprise one of the great sporting rivalries of the modern age today, a fitting climax to an Australian Open which has sent tennis back to the future. 
  
 Federer and Nadal will meet in a grand slam final for the first time in more than five years. Their ninth meeting in a grand slam final is all the sweeter for being so unexpected. 
  
@@ -32,9 +32,8 @@ Federer has four Australian Open titles but just a single French Open crown, his
  
 Nadal has a 6-2 edge over Federer in grand slam finals but few are making a call with any confidence over who will win today’s contest. 
  
-“I just know that two of the greatest players of tennis are going to square off on Sunday, and it’s going to be a freakin’ amazing match,” Dimitrov said on Friday.</content> 
-<sequenceId type="str">695201476313</sequenceId> 
-<topics type="list"> 
+“I just know that two of the greatest players of tennis are going to square off on Sunday, and it’s going to be a freakin’ amazing match,” Dimitrov said on Friday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -43,7 +42,8 @@ Nadal has a 6-2 edge over Federer in grand slam finals but few are making a call
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:11:04Z</estimatedPublishedDate> 
-<title type="str">Deja vu slam to climax with Roger-Rafa show</title> 
+</TOPICS> 
+<DOCID type="str">695201476313</DOCID> 
+<DCT type="str">2017-01-29T05:11:04Z</DCT> 
+<TITLE type="str">Deja vu slam to climax with Roger-Rafa show</TITLE> 
 </root>

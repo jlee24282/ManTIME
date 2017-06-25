@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">GMT 
+<TEXT type="str">GMT 
  
 Source: Dukascopy Bank SA 
  
 Indonesia &quot;deeply regrets&quot; US new immigration policies, despite not being among the seven countries whose habitants face restrictions, said Foreign Minister Retno Marsudi on Sunday. 
   
-Back to feed</content> 
-<sequenceId type="str">695204743094</sequenceId> 
-<topics type="list"> 
+Back to feed</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -41,7 +40,8 @@ Back to feed</content>
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:47Z</estimatedPublishedDate> 
-<title type="str">Muslim-majority Indonesia regrets US new immigration policies</title> 
+</TOPICS> 
+<DOCID type="str">695204743094</DOCID> 
+<DCT type="str">2017-01-29T08:29:47Z</DCT> 
+<TITLE type="str">Muslim-majority Indonesia regrets US new immigration policies</TITLE> 
 </root>

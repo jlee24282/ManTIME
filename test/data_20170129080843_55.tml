@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">x 
+<TEXT type="str">x 
  
 To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video 
   Pope Francis with Matthew Festing of the Knights of Malta Reuters  
@@ -87,9 +87,8 @@ The Vatican did not comment on the uprising at the time but many of the pope&apo
  
 The pope will now appoint a &quot;pontifical delegate&quot; to help run the order, at least until elections can be held for a new Grand Master. 
  
-In a personal letter to the Sovereign Council on Jan. 27 and seen by Reuters, Francis made clear that the Vatican did not want to interfere with the Order&apos;s sovereignty but said his delegate would seek to &quot;renew the spirituality of the Order, specifically of those members who take vows.&quot;</content> 
-<sequenceId type="str">695198543798</sequenceId> 
-<topics type="list"> 
+In a personal letter to the Sovereign Council on Jan. 27 and seen by Reuters, Francis made clear that the Vatican did not want to interfere with the Order&apos;s sovereignty but said his delegate would seek to &quot;renew the spirituality of the Order, specifically of those members who take vows.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -106,7 +105,8 @@ In a personal letter to the Sovereign Council on Jan. 27 and seen by Reuters, Fr
 <group type="str">Regional</group> 
 <name type="str">Malta news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:35:02Z</estimatedPublishedDate> 
-<title type="str">The Pope And The Knights Of Malta: High Profile Catholic Feud Explained</title> 
+</TOPICS> 
+<DOCID type="str">695198543798</DOCID> 
+<DCT type="str">2017-01-29T07:35:02Z</DCT> 
+<TITLE type="str">The Pope And The Knights Of Malta: High Profile Catholic Feud Explained</TITLE> 
 </root>

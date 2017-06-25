@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan 29 (Reuters) - Middle And West Delta Flour Mills
+<TEXT type="str">Jan 29 (Reuters) - Middle And West Delta Flour Mills
  : 
     
 * H1 net profit EGP 53.5 million versus EGP 32.3 million
@@ -12,9 +12,8 @@ ago
 Source: ( bit.ly/2jJQuj6 )
 Further company coverage: 
 
- )</content> 
-<sequenceId type="str">695199184542</sequenceId> 
-<topics type="list"> 
+ )</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Stockwatch</name> 
@@ -23,7 +22,8 @@ Further company coverage:
 <group type="str">Finance</group> 
 <name type="str">Earnings news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:49:24Z</estimatedPublishedDate> 
-<title type="str">BRIEF-Middle and West Delta Flour Mills H1 net profit rises</title> 
+</TOPICS> 
+<DOCID type="str">695199184542</DOCID> 
+<DCT type="str">2017-01-29T07:49:24Z</DCT> 
+<TITLE type="str">BRIEF-Middle and West Delta Flour Mills H1 net profit rises</TITLE> 
 </root>

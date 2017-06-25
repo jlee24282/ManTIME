@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Atletico Madrid&apos;s title chances took another hit after a scoreless draw at promoted Alaves in the Spanish league. Atletico Madrid’s title chances took another hit after a scoreless draw at promoted Alaves in the Spanish league on Saturday.
+<TEXT type="str">Atletico Madrid&apos;s title chances took another hit after a scoreless draw at promoted Alaves in the Spanish league. Atletico Madrid’s title chances took another hit after a scoreless draw at promoted Alaves in the Spanish league on Saturday.
 
 It was the second consecutive league draw for Atletico, keeping Diego Simeone’s team in fourth place, seven points off the lead. It is also in danger of dropping further behind in the fight for an automatic spot for the Champions League, as it was five points behind third-place Barcelona. The leaders play on Sunday.
 
@@ -32,9 +32,8 @@ EIBAR 3, DEPORTIVO LA CORUNA 1
 
 Eibar ended a three-game winless run at home by beating Deportivo. Eibar had drawn against Alaves and lost to Atletico Madrid and to Barcelona in its last three games at Ipurua.
 
-Deportivo was winless in four matches, and six points above the relegation zone.</content> 
-<sequenceId type="str">695203932440</sequenceId> 
-<topics type="list"> 
+Deportivo was winless in four matches, and six points above the relegation zone.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
@@ -47,7 +46,8 @@ Deportivo was winless in four matches, and six points above the relegation zone.
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:19Z</estimatedPublishedDate> 
-<title type="str">Atletico Madrid held by Alaves to scoreless draw in Spanish league</title> 
+</TOPICS> 
+<DOCID type="str">695203932440</DOCID> 
+<DCT type="str">2017-01-29T08:24:19Z</DCT> 
+<TITLE type="str">Atletico Madrid held by Alaves to scoreless draw in Spanish league</TITLE> 
 </root>

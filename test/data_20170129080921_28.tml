@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Twenty20 Big Bash League came to an end on Saturday with Perth Scorchers securing their third BBL crown by beating Sydney Sixes in the final at the WACA. Records tumbled as fans witnessed some sterling performances on-field, however, even more impressive was the sheer number of people who turned up to watch the matches. Cricket Australia on Sunday said the enormous crowds and viewership for the fast-paced format this season had surpassed expectations. The Big Bash is in its sixth season and has used a blend of sport and entertainment to draw families and younger spectators to games.
+<TEXT type="str">The Twenty20 Big Bash League came to an end on Saturday with Perth Scorchers securing their third BBL crown by beating Sydney Sixes in the final at the WACA. Records tumbled as fans witnessed some sterling performances on-field, however, even more impressive was the sheer number of people who turned up to watch the matches. Cricket Australia on Sunday said the enormous crowds and viewership for the fast-paced format this season had surpassed expectations. The Big Bash is in its sixth season and has used a blend of sport and entertainment to draw families and younger spectators to games.
 
 Pyrotechnics on and off the field has seen more than one million people attend this season&apos;s matches with an average attendance of 30,114 per match, according to the CA.
 
@@ -22,9 +22,8 @@ Cricket Australia has taken full advantage of the growing popularity of the Big 
 
 The venues have yet to be announced, although Cricket NSW chief has said holding the opening round in Hong Kong could be one option.
 
-(With AFP Inputs)</content> 
-<sequenceId type="str">695200231090</sequenceId> 
-<topics type="list"> 
+(With AFP Inputs)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -33,7 +32,8 @@ The venues have yet to be announced, although Cricket NSW chief has said holding
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:39Z</estimatedPublishedDate> 
-<title type="str">Australia&apos;s Twenty20 Tournament, Big Bash Lea...</title> 
+</TOPICS> 
+<DOCID type="str">695200231090</DOCID> 
+<DCT type="str">2017-01-29T07:52:39Z</DCT> 
+<TITLE type="str">Australia&apos;s Twenty20 Tournament, Big Bash Lea...</TITLE> 
 </root>

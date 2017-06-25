@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695195843363</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:01:00Z</estimatedPublishedDate> 
-<title type="str">Out of Africa</title> 
+</TOPICS> 
+<DOCID type="str">695195843363</DOCID> 
+<DCT type="str">2017-01-29T06:01:00Z</DCT> 
+<TITLE type="str">Out of Africa</TITLE> 
 </root>

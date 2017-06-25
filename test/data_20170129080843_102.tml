@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK &gt;&gt; After getting just their second win in eight games, the Buffalo Sabres credited the victory to a solid team effort. 
+<TEXT type="str">NEW YORK &gt;&gt; After getting just their second win in eight games, the Buffalo Sabres credited the victory to a solid team effort. 
  
 Evander Kane and Justin Bailey scored 1:42 apart around the first intermission, leading the Sabres to a 4-1 victory over the New York Rangers on Tuesday night. Zemgus Girgensons and Jack Eichel also scored, and Anders Nilsson stopped 24 shots to help the Sabres improve to 2-4-3 in their last eight. 
  
@@ -37,9 +37,8 @@ Bailey made it 3-0 with his first NHL goal 1:03 into the second. Kane trailed Ra
  
 “It’s a game of turnovers and especially when you have a play like that when handling pucks,” Bailey said. “I wasn’t surprised but happy that I could get up there and score a goal.” 
  
-NOTES: Sabres C Johan Larsson is out indefinitely and likely lost for the season after having surgery Monday for a dislocated wrist and elbow. Larsson was injured during a 3-1 loss at Boston on Saturday. ... The Sabres have won three in a row against the Rangers for the first time since Dec. 12, 2009, to April 6, 2010. ... Eichel has three goals and four assists in five career games against the Rangers. ... The teams conclude their three-game season series on Feb. 2 at Buffalo. ... Rangers coach Alain Vigneault broke a tie with Herb Brooks for seventh place on franchise’s games coached list with 286. ... The Rangers fell to 10-8-0 when giving up the first goal of the game.</content> 
-<sequenceId type="str">695198592123</sequenceId> 
-<topics type="list"> 
+NOTES: Sabres C Johan Larsson is out indefinitely and likely lost for the season after having surgery Monday for a dislocated wrist and elbow. Larsson was injured during a 3-1 loss at Boston on Saturday. ... The Sabres have won three in a row against the Rangers for the first time since Dec. 12, 2009, to April 6, 2010. ... Eichel has three goals and four assists in five career games against the Rangers. ... The teams conclude their three-game season series on Feb. 2 at Buffalo. ... Rangers coach Alain Vigneault broke a tie with Herb Brooks for seventh place on franchise’s games coached list with 286. ... The Rangers fell to 10-8-0 when giving up the first goal of the game.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NHL - Buffalo Sabres news</name> 
@@ -60,7 +59,8 @@ NOTES: Sabres C Johan Larsson is out indefinitely and likely lost for the season
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:04Z</estimatedPublishedDate> 
-<title type="str">Rangers fall to Sabres</title> 
+</TOPICS> 
+<DOCID type="str">695198592123</DOCID> 
+<DCT type="str">2017-01-29T07:45:04Z</DCT> 
+<TITLE type="str">Rangers fall to Sabres</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Pineapple buns with cream, BBQ pork buns and grilled squid are among the delicacies hitting the road</content> 
-<sequenceId type="str">695199423113</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Pineapple buns with cream, BBQ pork buns and grilled squid are among the delicacies hitting the road</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Hong Kong news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:16Z</estimatedPublishedDate> 
-<title type="str">Food truck scheme set for launch at eight Hong Kong tourist spots</title> 
+</TOPICS> 
+<DOCID type="str">695199423113</DOCID> 
+<DCT type="str">2017-01-29T07:51:16Z</DCT> 
+<TITLE type="str">Food truck scheme set for launch at eight Hong Kong tourist spots</TITLE> 
 </root>

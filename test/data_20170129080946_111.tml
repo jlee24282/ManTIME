@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Manuel Valls and Benoit Hamon pose at a televised debate last week. Photo: Bertrand Guay/Pool/AFP 
+<TEXT type="str">Manuel Valls and Benoit Hamon pose at a televised debate last week. Photo: Bertrand Guay/Pool/AFP 
 
 French Socialists will choose between reformist ex-prime minister Manuel Valls and left-winger Benoit Hamon in a presidential primary runoff on Sunday, overshadowed by a scandal engulfing the conservative election frontrunner. 
  
@@ -46,9 +46,8 @@ Both Valls and Hamon have insisted that everything is still to play for. Valls s
  
 Le Pen told TF1 television Saturday that Fillon, who has pledged to quit the race if charged over his wife&apos;s payments, faced a &quot;trust problem&quot;. 
  
-&quot;The French are rightfully asking themselves: who is the real Fillon? Is this not a man who likes money and who manoeuvred to enrich himself?&quot; she said.</content> 
-<sequenceId type="str">695201265247</sequenceId> 
-<topics type="list"> 
+&quot;The French are rightfully asking themselves: who is the real Fillon? Is this not a man who likes money and who manoeuvred to enrich himself?&quot; she said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -57,7 +56,8 @@ Le Pen told TF1 television Saturday that Fillon, who has pledged to quit the rac
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:40Z</estimatedPublishedDate> 
-<title type="str">Left-winger vs reformer in French Socialist presidential primary</title> 
+</TOPICS> 
+<DOCID type="str">695201265247</DOCID> 
+<DCT type="str">2017-01-29T07:55:40Z</DCT> 
+<TITLE type="str">Left-winger vs reformer in French Socialist presidential primary</TITLE> 
 </root>

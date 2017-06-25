@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">KANSAS CITY, Mo. - For the second straight week, people searching for a missing Raymore woman found a man&apos;s body. 
+<TEXT type="str">KANSAS CITY, Mo. - For the second straight week, people searching for a missing Raymore woman found a man&apos;s body. 
 Relatives of Jessica Runions found the body Saturday morning while searching for Runions, who has been missing since early September. 
 
 Kansas City police say the death is being investigated as suspicious but released no other details. 
@@ -9,14 +9,14 @@ The Kansas City Star reports (http://bit.ly/2kyXdNG ) Runions&apos; relatives se
 
 Last week, they found a man&apos;s decomposing body in a creek bed. He was later identified as 21-year-old Brandon Herring of Raytown, who had been reported missing in November. His death is being investigated as a homicide. 
 
-Runions was last seen leaving a gathering of friends in south Kansas City. Her burned vehicle was found two days later in a nearby wooded area.</content> 
-<sequenceId type="str">695201260598</sequenceId> 
-<topics type="list"> 
+Runions was last seen leaving a gathering of friends in south Kansas City. Her burned vehicle was found two days later in a nearby wooded area.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Kansas City news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:18Z</estimatedPublishedDate> 
-<title type="str">Searchers looking for missing Missouri woman find man&apos;s body</title> 
+</TOPICS> 
+<DOCID type="str">695201260598</DOCID> 
+<DCT type="str">2017-01-29T08:05:18Z</DCT> 
+<TITLE type="str">Searchers looking for missing Missouri woman find man&apos;s body</TITLE> 
 </root>

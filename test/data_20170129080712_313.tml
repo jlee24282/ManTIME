@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Improving cocoa yields for the chocolate industry, estimating the quality of meat in pigs and refining the design of a hydroponics system, were three farming challenges tackled by academics at a recent workshop hosted by the University of Bath&apos;s Institute for Mathematical Innovation (IMI). 
+<TEXT type="str">Improving cocoa yields for the chocolate industry, estimating the quality of meat in pigs and refining the design of a hydroponics system, were three farming challenges tackled by academics at a recent workshop hosted by the University of Bath&apos;s Institute for Mathematical Innovation (IMI). 
  
 The Agri-Food Study Group brought together over 40 mathematicians, engineers and computer scientists to work on challenges presented by representatives from the Agri-Food sector over the course of three days. The Study Group, which ran from 16-18 January 2017, was organised by the IMI and the Knowledge Transfer Network (KTN), and sponsored by Innovate UK. 
  
@@ -35,9 +35,8 @@ Adam Dixon, CEO, Phytoponics, said: &quot;The mathematicians immediately gained 
 Building new industrial partnerships 
 Manager of the IMI, Dr Joanna Jordan, said: &quot;Study Groups are an ideal catalyst for bringing together universities and companies in mutually-beneficial collaborations. They provide an easy way for industry to gain access to UK excellence in the fields of mathematics, statistics, engineering and computer science. 
  
-&quot;It&apos;s been a pleasure to work with the KTN in hosting the Study Group in Bath this week to enable the exploration of innovative approaches to real problems within the Agri-Food sector. We anticipate the collaborations we&apos;ve initiated will lead to many fruitful partnerships. We&apos;d be delighted to hear from companies interested in participating in similar events in the future.&quot;</content> 
-<sequenceId type="str">695195387393</sequenceId> 
-<topics type="list"> 
+&quot;It&apos;s been a pleasure to work with the KTN in hosting the Study Group in Bath this week to enable the exploration of innovative approaches to real problems within the Agri-Food sector. We anticipate the collaborations we&apos;ve initiated will lead to many fruitful partnerships. We&apos;d be delighted to hear from companies interested in participating in similar events in the future.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Agriculture news</name> 
@@ -46,7 +45,8 @@ Manager of the IMI, Dr Joanna Jordan, said: &quot;Study Groups are an ideal cata
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:40Z</estimatedPublishedDate> 
-<title type="str">Pigs and chocolate: Using math to solve problems in farming</title> 
+</TOPICS> 
+<DOCID type="str">695195387393</DOCID> 
+<DCT type="str">2017-01-29T07:21:40Z</DCT> 
+<TITLE type="str">Pigs and chocolate: Using math to solve problems in farming</TITLE> 
 </root>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Player 2 looks back at one of the best isometric RPG&apos;s from recent times in preparation for the sequel.</content> 
-<sequenceId type="str">695194005149</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Player 2 looks back at one of the best isometric RPG&apos;s from recent times in preparation for the sequel.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: video game news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:05:06Z</estimatedPublishedDate> 
-<title type="str">In Case You Missed It - Divinity: Original Sin</title> 
+</TOPICS> 
+<DOCID type="str">695194005149</DOCID> 
+<DCT type="str">2017-01-29T07:05:06Z</DCT> 
+<TITLE type="str">In Case You Missed It - Divinity: Original Sin</TITLE> 
 </root>

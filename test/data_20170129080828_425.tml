@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WILLIAMSBURG -- Reece Westphal captured runner-up honors at 195 pounds Saturday to lead Central DeWitt to a 10th-place finish at the 16-team WaMaC Conference wrestling tournament. 
+<TEXT type="str">WILLIAMSBURG -- Reece Westphal captured runner-up honors at 195 pounds Saturday to lead Central DeWitt to a 10th-place finish at the 16-team WaMaC Conference wrestling tournament. 
  
 Josh Holub of Williamsburg beat Westphal (29-3) 9-3 in the title match. Westphal advanced to the final with a 38-second pin in his first match and a 5-3 decision against Freddie Hosch of Western Dubuque in the semifinals. 
  
@@ -36,9 +36,8 @@ Area fifth-place matches
  
 Area seventh-place matches 
  
-113 -- Thomas Matteson (Ind) tech. fall Justin Holst (Maq) 17-0, 3:38; 152 -- Max Cousins (CD) dec. Michael Gaylon (Will) 12-5.</content> 
-<sequenceId type="str">695198410453</sequenceId> 
-<topics type="list"> 
+113 -- Thomas Matteson (Ind) tech. fall Justin Holst (Maq) 17-0, 3:38; 152 -- Max Cousins (CD) dec. Michael Gaylon (Will) 12-5.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -47,7 +46,8 @@ Area seventh-place matches
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:22Z</estimatedPublishedDate> 
-<title type="str">WaMaC wrestling: Sabers&apos; Westphal takes 2nd</title> 
+</TOPICS> 
+<DOCID type="str">695198410453</DOCID> 
+<DCT type="str">2017-01-29T07:43:22Z</DCT> 
+<TITLE type="str">WaMaC wrestling: Sabers&apos; Westphal takes 2nd</TITLE> 
 </root>

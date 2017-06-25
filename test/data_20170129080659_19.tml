@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:58 
+<TEXT type="str">:58 
    Tweet     
 Carlo Ancelotti admitted Bundesliga leaders Bayern Munich looked &quot;anxious and worried&quot; during Saturday&apos;s 2-1 win at relegation-threatened Werder Bremen. 
  
@@ -58,9 +58,8 @@ The game turned when Hoffenheim had Wagner sent off for the last 30 minutes for 
  
 &quot;We were the weaker of two good Bundesliga teams, so we deserved to lose,&quot; said Hoffenheim&apos;s 29-year-old coach Julian Nagelsmann. 
  
-&quot;I&apos;m not happy because we gave them too much time alone on the ball.&quot;</content> 
-<sequenceId type="str">695194624622</sequenceId> 
-<topics type="list"> 
+&quot;I&apos;m not happy because we gave them too much time alone on the ball.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -73,7 +72,8 @@ The game turned when Hoffenheim had Wagner sent off for the last 30 minutes for 
 <group type="str">Sports</group> 
 <name type="str">Sports: Bundesliga news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:08:36Z</estimatedPublishedDate> 
-<title type="str">&apos;Anxious&apos; Bayern concerns Ancelotti</title> 
+</TOPICS> 
+<DOCID type="str">695194624622</DOCID> 
+<DCT type="str">2017-01-29T07:08:36Z</DCT> 
+<TITLE type="str">&apos;Anxious&apos; Bayern concerns Ancelotti</TITLE> 
 </root>

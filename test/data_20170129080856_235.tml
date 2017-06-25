@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CSI Compressco LP (NASDAQ:CCLP) announced a quarterly dividend on Monday, January 23rd. Stockholders of record on Wednesday, February 1st will be given a dividend of 0.3775 per share on Tuesday, February 14th. This represents a $1.51 annualized dividend and a dividend yield of 11.92%. The ex-dividend date is Monday, January 30th. 
+<TEXT type="str">CSI Compressco LP (NASDAQ:CCLP) announced a quarterly dividend on Monday, January 23rd. Stockholders of record on Wednesday, February 1st will be given a dividend of 0.3775 per share on Tuesday, February 14th. This represents a $1.51 annualized dividend and a dividend yield of 11.92%. The ex-dividend date is Monday, January 30th. 
  
 Shares of CSI Compressco ( NASDAQ:CCLP ) opened at 12.67 on Friday. CSI Compressco has a 12-month low of $3.74 and a 12-month high of $13.54. The firm’s market capitalization is $421.43 million. The stock has a 50 day moving average price of $10.41 and a 200 day moving average price of $9.94. 
  
@@ -16,9 +16,8 @@ Hedge funds and other institutional investors have recently added to or reduced 
  
 About CSI Compressco 
  
-CSI Compressco LP, formerly Compressco Partners, L.P., is a provider of compression services and equipment for natural gas and oil production, gathering, transportation, processing and storage. The Company sells custom-designed compressor packages and oilfield fluid pump systems, and provides aftermarket services and compressor package parts and components manufactured by third-party suppliers.</content> 
-<sequenceId type="str">695199321657</sequenceId> 
-<topics type="list"> 
+CSI Compressco LP, formerly Compressco Partners, L.P., is a provider of compression services and equipment for natural gas and oil production, gathering, transportation, processing and storage. The Company sells custom-designed compressor packages and oilfield fluid pump systems, and provides aftermarket services and compressor package parts and components manufactured by third-party suppliers.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Stockwatch</name> 
@@ -27,7 +26,8 @@ CSI Compressco LP, formerly Compressco Partners, L.P., is a provider of compress
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:46Z</estimatedPublishedDate> 
-<title type="str">CSI Compressco LP (CCLP) To Go Ex-Dividend on January 30th</title> 
+</TOPICS> 
+<DOCID type="str">695199321657</DOCID> 
+<DCT type="str">2017-01-29T07:48:46Z</DCT> 
+<TITLE type="str">CSI Compressco LP (CCLP) To Go Ex-Dividend on January 30th</TITLE> 
 </root>

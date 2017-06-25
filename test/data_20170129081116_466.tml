@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Theresa May has announced a £100m deal for the development of fighter jets for Turkey, following trade talks with President Recep Tayyip Erdogan. 
+<TEXT type="str">Theresa May has announced a £100m deal for the development of fighter jets for Turkey, following trade talks with President Recep Tayyip Erdogan. 
  
 Speaking after discussions with Mr Erdogan in Ankara, Mrs May said Britain and Turkey will prepare the ground for a post-Brexit trade deal by setting up a joint working group. 
  
@@ -33,9 +33,8 @@ She signed her name in the visitors’ book and left a message which read: It is
 Let us together renew our efforts to fulfil Ataturk’s vision of peace at home and peace in the world. 
  
 (c) Sky News 2017: UK and Turkey clinch £100m fighter jet deal during Theresa May’s visit  Comments  
-comments</content> 
-<sequenceId type="str">695204538105</sequenceId> 
-<topics type="list"> 
+comments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
@@ -48,7 +47,8 @@ comments</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:20Z</estimatedPublishedDate> 
-<title type="str">UK and Turkey clinch £100m fighter jet deal during Theresa May’s…</title> 
+</TOPICS> 
+<DOCID type="str">695204538105</DOCID> 
+<DCT type="str">2017-01-29T08:30:20Z</DCT> 
+<TITLE type="str">UK and Turkey clinch £100m fighter jet deal during Theresa May’s…</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As US President Donald Trump pushes hard for goods to be “made in America,” how realistic is it to expect Apple to stop manufacturing its iconic devices in China? The freshly installed president vowed while campaigning that he would force Apple to bring production to US soil. 
+<TEXT type="str">As US President Donald Trump pushes hard for goods to be “made in America,” how realistic is it to expect Apple to stop manufacturing its iconic devices in China? The freshly installed president vowed while campaigning that he would force Apple to bring production to US soil. 
  
 Yet, as other big companies have sought to appease the new administration with promises of jobs or investments in the United States, Apple has stayed low-profile. Major Apple contractor Foxconn this month confirmed that it is considering a $7 billion investment to make flat panels in the US in a joint project with Japan’s SoftBank. 
  
@@ -22,9 +22,8 @@ Exacerbating the challenge, “it makes no sense to make phones here if you have
  
 AFP 
  
-Tags:  Apple iPhone , Donald Trump , Foxconn , iPhone , iphone made in China , iPhone made in US , Tim Cook</content> 
-<sequenceId type="str">695196151864</sequenceId> 
-<topics type="list"> 
+Tags:  Apple iPhone , Donald Trump , Foxconn , iPhone , iphone made in China , iPhone made in US , Tim Cook</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -49,7 +48,8 @@ Tags:  Apple iPhone , Donald Trump , Foxconn , iPhone , iphone made in China , i
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:23Z</estimatedPublishedDate> 
-<title type="str">No point in making iPhones in the US, if you have to ship all components from China, says ...</title> 
+</TOPICS> 
+<DOCID type="str">695196151864</DOCID> 
+<DCT type="str">2017-01-29T07:27:23Z</DCT> 
+<TITLE type="str">No point in making iPhones in the US, if you have to ship all components from China, says ...</TITLE> 
 </root>

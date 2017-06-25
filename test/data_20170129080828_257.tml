@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Abu Dhabi – Mubasher: The UAE stock markets are expected to see a better performance in 2017 as compared to last year, Al Khaleej newspaper reported. The markets’ liquidity &quot;greatly improved&quot; since the beginning of this year, according to Obaid …
+<TEXT type="str">Abu Dhabi – Mubasher: The UAE stock markets are expected to see a better performance in 2017 as compared to last year, Al Khaleej newspaper reported. The markets’ liquidity &quot;greatly improved&quot; since the beginning of this year, according to Obaid …
 
-read more</content> 
-<sequenceId type="str">695198174050</sequenceId> 
-<topics type="list"> 
+read more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Equity markets news</name> 
@@ -21,7 +20,8 @@ read more</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:50Z</estimatedPublishedDate> 
-<title type="str">UAE bourses to improve in 2017</title> 
+</TOPICS> 
+<DOCID type="str">695198174050</DOCID> 
+<DCT type="str">2017-01-29T07:41:50Z</DCT> 
+<TITLE type="str">UAE bourses to improve in 2017</TITLE> 
 </root>

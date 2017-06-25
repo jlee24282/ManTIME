@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Melbourne : Roger Federer and Rafa Nadal take to Rod Laver Arena to reprise one of the great sporting rivalries of the modern age on Sunday, a fitting climax to an Australian Open which has sent tennis back to the future. 
+<TEXT type="str">Melbourne : Roger Federer and Rafa Nadal take to Rod Laver Arena to reprise one of the great sporting rivalries of the modern age on Sunday, a fitting climax to an Australian Open which has sent tennis back to the future. 
  
 Read: Roger Federer-Rafael Nadal rivalry is greatest ever in tennis 
  
@@ -46,9 +46,8 @@ Afterwards, in his news conference, he was less candid, noting only that the pac
  
 Nadal has a 6-2 edge over Federer in grand slam finals but few are making a call with any confidence over who will win Sunday&apos;s contest. 
  
-&quot;I just know that two of the greatest players of tennis are going to square off on Sunday, and it&apos;s going to be a freakin&apos; amazing match,&quot; Dimitrov said on Friday.</content> 
-<sequenceId type="str">695203250258</sequenceId> 
-<topics type="list"> 
+&quot;I just know that two of the greatest players of tennis are going to square off on Sunday, and it&apos;s going to be a freakin&apos; amazing match,&quot; Dimitrov said on Friday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -57,7 +56,8 @@ Nadal has a 6-2 edge over Federer in grand slam finals but few are making a call
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:20:04Z</estimatedPublishedDate> 
-<title type="str">Rafael Nadal to meet Roger Federer in epic Australian Open final</title> 
+</TOPICS> 
+<DOCID type="str">695203250258</DOCID> 
+<DCT type="str">2017-01-29T08:20:04Z</DCT> 
+<TITLE type="str">Rafael Nadal to meet Roger Federer in epic Australian Open final</TITLE> 
 </root>

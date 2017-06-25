@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A leading engineering specialist has announced its latest intake of trainees.
+<TEXT type="str">A leading engineering specialist has announced its latest intake of trainees.
 
 SES Enginnering Services has created 19 trainee positions including student engineer and surveyor roles, as well as apprenticeships in both mechanical and electrical engineering.
 
@@ -8,14 +8,14 @@ The company provides a full range of mechanical, electrical and public health (M
 
 A total of eight positions have been created in the North East region, headed up by business director north Steve Joyce.
 
-Getting their first taste of a career in construction are Sean Fraser and Cameron...</content> 
-<sequenceId type="str">695203425456</sequenceId> 
-<topics type="list"> 
+Getting their first taste of a career in construction are Sean Fraser and Cameron...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Engineering news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:17Z</estimatedPublishedDate> 
-<title type="str">Next intake of apprentices taken on by engineering firm</title> 
+</TOPICS> 
+<DOCID type="str">695203425456</DOCID> 
+<DCT type="str">2017-01-29T08:21:17Z</DCT> 
+<TITLE type="str">Next intake of apprentices taken on by engineering firm</TITLE> 
 </root>

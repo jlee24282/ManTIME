@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump has passed an executive order   which halts immigration from seven Islamic nations including Iraq, Iran, Libya, Somalia, Sudan, Yemen, and Syria, for at least 90 days. For Syrian refugees, the ban is indefinite. Trump said that the order was to keep away radical Islamic terrorists. 
+<TEXT type="str">US President Donald Trump has passed an executive order   which halts immigration from seven Islamic nations including Iraq, Iran, Libya, Somalia, Sudan, Yemen, and Syria, for at least 90 days. For Syrian refugees, the ban is indefinite. Trump said that the order was to keep away radical Islamic terrorists. 
  
 This has caused a lot of furore not just among the general population, but also among technology companies. 
  
@@ -22,9 +22,8 @@ Digital storage firm Box’s CEO Aaron Levie said that the move was quite infuri
  
 Amazon’s vice president for HR, Beth Galetti, said that a diverse workforce helps Amazon make better products for its customers. It has sent out an email to its staffers, recommending US based employees from countries in the ban-list, from travelling outside the US. It has also asked such employees to get in touch with the company if they are already outside the borders for travel or work. 
  
-Tags:  Alphabet , Amazon , Apple , Box , Donald Trump , Google , Microsoft , Satya Nadella , Sundar Pichai , Tim Cook , Trump</content> 
-<sequenceId type="str">695196189861</sequenceId> 
-<topics type="list"> 
+Tags:  Alphabet , Amazon , Apple , Box , Donald Trump , Google , Microsoft , Satya Nadella , Sundar Pichai , Tim Cook , Trump</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -65,7 +64,8 @@ Tags:  Alphabet , Amazon , Apple , Box , Donald Trump , Google , Microsoft , Sat
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:34Z</estimatedPublishedDate> 
-<title type="str">Silicon Valley isn’t happy: Here’s what top tech CEOs have to say about US President Trump’s immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695196189861</DOCID> 
+<DCT type="str">2017-01-29T07:27:34Z</DCT> 
+<TITLE type="str">Silicon Valley isn’t happy: Here’s what top tech CEOs have to say about US President Trump’s immigration order</TITLE> 
 </root>

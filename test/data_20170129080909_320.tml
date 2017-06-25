@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">29/01/2017 7:51am  Dow Jones News  
+<TEXT type="str">29/01/2017 7:51am  Dow Jones News  
  Tesla Motors, Inc. (MM) (NASDAQ:TSLA) 
 Intraday Stock Chart  
 Today : Sunday 29 January 2017 
@@ -184,9 +184,8 @@ Over the past several months, I&apos;ve talked with you repeatedly about my unyi
 (END) Dow Jones Newswires 
  
 January 29, 2017 02:36 ET (07:36 GMT) 
- Copyright (c) 2017 Dow Jones &amp; Company, Inc.</content> 
-<sequenceId type="str">695200010242</sequenceId> 
-<topics type="list"> 
+ Copyright (c) 2017 Dow Jones &amp; Company, Inc.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
@@ -207,7 +206,8 @@ January 29, 2017 02:36 ET (07:36 GMT)
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:10Z</estimatedPublishedDate> 
-<title type="str">Tech Executives React to Trump Immigration Order in Their Own Words -- Update</title> 
+</TOPICS> 
+<DOCID type="str">695200010242</DOCID> 
+<DCT type="str">2017-01-29T07:56:10Z</DCT> 
+<TITLE type="str">Tech Executives React to Trump Immigration Order in Their Own Words -- Update</TITLE> 
 </root>

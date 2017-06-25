@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tony Touri doesn&apos;t know where he might have ended up if not for the support of prisoner support group Pars. 
+<TEXT type="str">Tony Touri doesn&apos;t know where he might have ended up if not for the support of prisoner support group Pars. 
    
 Dozens of Australian deportees returning to New Zealand each month, sparking concerns resources are too stretched for them to reintegrate successfully. 
  
@@ -71,9 +71,8 @@ He said in some cases in Auckland, returning offenders had checked out of suppor
 &quot;They&apos;re not breaking the law per se when they do that, because a lot of them aren&apos;t under any restrictions. They&apos;re just into the wind.&quot; 
  
   
-      Comments</content> 
-<sequenceId type="str">695194735746</sequenceId> 
-<topics type="list"> 
+      Comments</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -90,7 +89,8 @@ He said in some cases in Auckland, returning offenders had checked out of suppor
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:07:10Z</estimatedPublishedDate> 
-<title type="str">Dozens of Australian deportees are being sent to NZ on a weekly basis</title> 
+</TOPICS> 
+<DOCID type="str">695194735746</DOCID> 
+<DCT type="str">2017-01-29T07:07:10Z</DCT> 
+<TITLE type="str">Dozens of Australian deportees are being sent to NZ on a weekly basis</TITLE> 
 </root>

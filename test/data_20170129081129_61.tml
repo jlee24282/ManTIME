@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A team of scientists has used artificial intelligence (AI) to gain insight into the biophysics of cancer with their machine-learning platform predicting a trio of reagents that generated a cancer-like phenotype in tadpoles. 
+<TEXT type="str">A team of scientists has used artificial intelligence (AI) to gain insight into the biophysics of cancer with their machine-learning platform predicting a trio of reagents that generated a cancer-like phenotype in tadpoles. 
  
 The research, reported in journal Scientific Reports, showed that during these extensive experiments, the biologists observed that all the melanocytes -- a mature melanin-forming cell -- in a single frog larva either converted to the cancer-like form or remained completely normal. 
  
@@ -17,9 +17,8 @@ The team used the AI-discovered model to run 576 virtual experiments. The last t
 &quot;Such approaches are a key step for regenerative medicine, where a major obstacle is the fact that it is usually very hard to know how to manipulate the complex networks discovered by bioinformatics and wet lab experiments in such a way as to reach a desired therapeutic outcome,&quot; Levin noted. 
  
 He said that the team now wanted to do something different -- cure a disease, control cell behaviour and regenerate tissue. 
- </content> 
-<sequenceId type="str">695204656861</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Cancer news</name> 
@@ -28,7 +27,8 @@ He said that the team now wanted to do something different -- cure a disease, co
 <group type="str">Science</group> 
 <name type="str">Medical news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:03Z</estimatedPublishedDate> 
-<title type="str">AI helps scientists gain insight into cancer biophysics</title> 
+</TOPICS> 
+<DOCID type="str">695204656861</DOCID> 
+<DCT type="str">2017-01-29T08:31:03Z</DCT> 
+<TITLE type="str">AI helps scientists gain insight into cancer biophysics</TITLE> 
 </root>

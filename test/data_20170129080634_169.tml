@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ADEN, Yemen -- After reaching Yemen&apos;s shores in a packed migrant boat, the young Ethiopian coffee farmer was plunged into a living hell. The smugglers wanted thousands of dollars in ransom from the migrants, and they used him as an example of what would happen if they didn&apos;t pay.
+<TEXT type="str">ADEN, Yemen -- After reaching Yemen&apos;s shores in a packed migrant boat, the young Ethiopian coffee farmer was plunged into a living hell. The smugglers wanted thousands of dollars in ransom from the migrants, and they used him as an example of what would happen if they didn&apos;t pay.
 
 Each day for a month, they inflicted new tortures on him, Omar Farrag told The Associated Press. They put him in a tank of water and lit a fire underneath it. They wrapped his limbs with tight barbed wire. At times, they heated the barbed wire.
 
@@ -64,9 +64,8 @@ The traffickers asked each migrant for $2,000, and the abuses started.
 
 Despite all the suffering, Farrag hasn&apos;t given up.
 
-&quot;I am saving money to go to Saudi Arabia,&quot; he said.</content> 
-<sequenceId type="str">695193993331</sequenceId> 
-<topics type="list"> 
+&quot;I am saving money to go to Saudi Arabia,&quot; he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Saudi Arabia news</name> 
@@ -83,7 +82,8 @@ Despite all the suffering, Farrag hasn&apos;t given up.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Amid Yemen&apos;s chaos, migrants face torment</title> 
+</TOPICS> 
+<DOCID type="str">695193993331</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Amid Yemen&apos;s chaos, migrants face torment</TITLE> 
 </root>

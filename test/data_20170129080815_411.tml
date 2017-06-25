@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ERBIL, Kurdistan Region—In the wake of the US travel ban on people from several Middle Eastern and Muslim countries, authorities at the Erbil international airport report that so far there has been one case of stopping a traveler from boarding a plane while advising people to consult with the US consulate for details on their personal circumstances. 
+<TEXT type="str">ERBIL, Kurdistan Region—In the wake of the US travel ban on people from several Middle Eastern and Muslim countries, authorities at the Erbil international airport report that so far there has been one case of stopping a traveler from boarding a plane while advising people to consult with the US consulate for details on their personal circumstances. 
  
 Head of the Erbil International Airport, Talar Faiq told Rudaw that clear instructions have been provided to airlines on the new US rules on travel by citizens of several countries, including Iraq and people from those countries who have dual citizenship. 
  
@@ -14,9 +14,8 @@ In order to avoid complications, Faiq advised all intent on traveling to the US 
  
 US President Donald Trump signed an executive order which bans citizens of Iraq, Iran, Somalia, Syria, Sudan, Libya and Yemen from traveling to the US for 90 days. 
  
-The ban has been criticized by many across the world especially civil rights activists in the United States. </content> 
-<sequenceId type="str">695197754546</sequenceId> 
-<topics type="list"> 
+The ban has been criticized by many across the world especially civil rights activists in the United States. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -33,7 +32,8 @@ The ban has been criticized by many across the world especially civil rights act
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:10Z</estimatedPublishedDate> 
-<title type="str">Erbil airport reports one case of US-bound travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695197754546</DOCID> 
+<DCT type="str">2017-01-29T07:39:10Z</DCT> 
+<TITLE type="str">Erbil airport reports one case of US-bound travel ban</TITLE> 
 </root>

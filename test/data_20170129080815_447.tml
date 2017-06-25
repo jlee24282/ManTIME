@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The original article is no longer available online. The following was retrieved from the ACI archive. 
+<TEXT type="str">The original article is no longer available online. The following was retrieved from the ACI archive. 
  The original story may not be viewable within ACI.  Click to view the original if it does not appear below.  Press tab to enter the original web site     
 Just select a payment option then get right back to your research. 
-    View and cite full-text articles  Take your research anywhere with the ACI mobile app  Bookmark articles and organize them into lists  Receive alerts on topics that interest you  Cancel your subscription at any time</content> 
-<sequenceId type="str">695197785191</sequenceId> 
-<topics type="list"> 
+    View and cite full-text articles  Take your research anywhere with the ACI mobile app  Bookmark articles and organize them into lists  Receive alerts on topics that interest you  Cancel your subscription at any time</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Telecom news</name> 
@@ -30,7 +29,8 @@ Just select a payment option then get right back to your research.
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:28Z</estimatedPublishedDate> 
-<title type="str">T Analysts Offer Predictions for AT&amp;T Inc.’s Q1 2017 Earnings (T)</title> 
+</TOPICS> 
+<DOCID type="str">695197785191</DOCID> 
+<DCT type="str">2017-01-29T07:39:28Z</DCT> 
+<TITLE type="str">T Analysts Offer Predictions for AT&amp;T Inc.’s Q1 2017 Earnings (T)</TITLE> 
 </root>

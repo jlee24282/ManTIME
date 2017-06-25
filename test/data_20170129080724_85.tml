@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The virus &quot;has devised a new method that was unexpected by government systems.&quot; 
+<TEXT type="str">The virus &quot;has devised a new method that was unexpected by government systems.&quot; 
  Saudi computer security systems are vulnerable to the &quot;Shamoon 2&quot; virus, a senior communications official warned Thursday, confirming reports of a fresh cyberattack on the kingdom. 
 The virus &quot;has devised a new method that was unexpected by government systems&quot;, Abdulaziz al-Ruwais, governor of the Commission for Communications and Information Technology, told Makkah newspaper. 
 
@@ -20,9 +20,8 @@ Shamoon was employed in strikes against the Saudi energy sector in 2012.
 
 At that time, US intelligence officials said they suspected a link to the kingdom&apos;s regional rival Iran. 
 
-Ties between Riyadh and Tehran have worsened over the past year.</content> 
-<sequenceId type="str">695195698548</sequenceId> 
-<topics type="list"> 
+Ties between Riyadh and Tehran have worsened over the past year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Telecom news</name> 
@@ -39,7 +38,8 @@ Ties between Riyadh and Tehran have worsened over the past year.</content>
 <group type="str">Business</group> 
 <name type="str">Middle Eastern business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:57Z</estimatedPublishedDate> 
-<title type="str">In Saudi: &apos;Security systems are vulnerable to &apos;Shamoon 2&apos; virus&apos;, Telco chief says</title> 
+</TOPICS> 
+<DOCID type="str">695195698548</DOCID> 
+<DCT type="str">2017-01-29T07:23:57Z</DCT> 
+<TITLE type="str">In Saudi: &apos;Security systems are vulnerable to &apos;Shamoon 2&apos; virus&apos;, Telco chief says</TITLE> 
 </root>

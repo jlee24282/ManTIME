@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IANS 
+<TEXT type="str">IANS 
  
 Berlin, Jan 29: Bayern defended their three-point advantage atop the standings with a 2-1 win over Bremen while runners-up Leipzig came from behind to beat 10-man Hoffenheim at the 18th round in Bundesliga here. 
  
@@ -41,9 +41,8 @@ The reproduction of the story/photograph in any form will be liable for legal ac
  
 For news, views and gossips, follow @IANSLIVE at Twitter . Find us on Facebook too! 
  
-Update: 29-January-2</content> 
-<sequenceId type="str">695205083921</sequenceId> 
-<topics type="list"> 
+Update: 29-January-2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
@@ -52,7 +51,8 @@ Update: 29-January-2</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Bundesliga news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:19Z</estimatedPublishedDate> 
-<title type="str">Leipzig remain on Bayern&apos;s heels in German Bundesliga</title> 
+</TOPICS> 
+<DOCID type="str">695205083921</DOCID> 
+<DCT type="str">2017-01-29T08:34:19Z</DCT> 
+<TITLE type="str">Leipzig remain on Bayern&apos;s heels in German Bundesliga</TITLE> 
 </root>

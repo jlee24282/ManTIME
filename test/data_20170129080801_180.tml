@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Iran Press TV
+<TEXT type="str">Iran Press TV
 
 Sat Jan 28, 2017 6:36AM
 
@@ -30,9 +30,8 @@ Iraqi army soldiers and allied fighters are gearing up for a phase of operations
 
 In another development, the explosion of an improvised explosive device 40 kilometers north of Salahuddin Province on Saturday killed three Iraqi civilians and injured six others, according to an Iraqi security source.
 
-Moreover, Daesh mortar attacks against residential areas in western Mosul claimed the lives of seven civilians and wounded 21 others, including security forces.</content> 
-<sequenceId type="str">695197068058</sequenceId> 
-<topics type="list"> 
+Moreover, Daesh mortar attacks against residential areas in western Mosul claimed the lives of seven civilians and wounded 21 others, including security forces.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -49,7 +48,8 @@ Moreover, Daesh mortar attacks against residential areas in western Mosul claime
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:34Z</estimatedPublishedDate> 
-<title type="str">60 IS terrorists killed in clashes with Iraqi forces</title> 
+</TOPICS> 
+<DOCID type="str">695197068058</DOCID> 
+<DCT type="str">2017-01-29T07:34:34Z</DCT> 
+<TITLE type="str">60 IS terrorists killed in clashes with Iraqi forces</TITLE> 
 </root>

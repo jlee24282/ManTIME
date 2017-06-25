@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695200380151</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:36Z</estimatedPublishedDate> 
-<title type="str">Aline Weber Photoshoot Maxim Magazine Aot News People Aline Weber</title> 
+</TOPICS> 
+<DOCID type="str">695200380151</DOCID> 
+<DCT type="str">2017-01-29T07:59:36Z</DCT> 
+<TITLE type="str">Aline Weber Photoshoot Maxim Magazine Aot News People Aline Weber</TITLE> 
 </root>

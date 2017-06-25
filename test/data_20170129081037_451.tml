@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A controversial Nazi-themed cafe in Indonesia with swastika-bearing walls has closed over a lack of customers, a lawyer said on Thursday, but pledged it would reopen at a bigger location. The SoldatenKaffee , which also sports a painting of Adolf Hitler, sparked global outrage when reports about the unusual venue in the city of Bandung surfaced several years ago. 
+<TEXT type="str">A controversial Nazi-themed cafe in Indonesia with swastika-bearing walls has closed over a lack of customers, a lawyer said on Thursday, but pledged it would reopen at a bigger location. The SoldatenKaffee , which also sports a painting of Adolf Hitler, sparked global outrage when reports about the unusual venue in the city of Bandung surfaced several years ago. 
  
 Start the conversation, or Read more at The Star Online. 
      
@@ -8,9 +8,8 @@ Start the conversation, or Read more at The Star Online.
       
 
    
-Copyright © 2017 Topix LLC</content> 
-<sequenceId type="str">695203203698</sequenceId> 
-<topics type="list"> 
+Copyright © 2017 Topix LLC</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -31,7 +30,8 @@ Copyright © 2017 Topix LLC</content>
 <group type="str">Society</group> 
 <name type="str">Jewish news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:22Z</estimatedPublishedDate> 
-<title type="str">Indonesia&apos;s Nazi-themed cafe packs away the swastikas and Hitler painting</title> 
+</TOPICS> 
+<DOCID type="str">695203203698</DOCID> 
+<DCT type="str">2017-01-29T07:28:22Z</DCT> 
+<TITLE type="str">Indonesia&apos;s Nazi-themed cafe packs away the swastikas and Hitler painting</TITLE> 
 </root>

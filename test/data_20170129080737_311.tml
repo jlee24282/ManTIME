@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">STK Stock 
+<TEXT type="str">STK Stock 
   
 Dublin Scioto 59, Marion Harding 46 
  
@@ -88,9 +88,8 @@ Madison 12 17 17 19-65
  
 River Valley : AJ Issler 6, Hayden Wallace 14, Josh Ellwood 6, AJ Kenney 6, Dustin Johns 10, Tom Poorman 6. Totals 13 10-12 48, 4 3pt. (Wallace 4). 
  
-Madison: Kyle Jackson 10, Tyrell Ajian 28, Fields 7, Jacob Koehler 2, Nick Smith 2, Shamir Brown 16. Totals 19 3-11 65, 8 3pt. (Brown 4, Ajian 3, Fields).</content> 
-<sequenceId type="str">695196369344</sequenceId> 
-<topics type="list"> 
+Madison: Kyle Jackson 10, Tyrell Ajian 28, Fields 7, Jacob Koehler 2, Nick Smith 2, Shamir Brown 16. Totals 19 3-11 65, 8 3pt. (Brown 4, Ajian 3, Fields).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -99,7 +98,8 @@ Madison: Kyle Jackson 10, Tyrell Ajian 28, Fields 7, Jacob Koehler 2, Nick Smith
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:09:33Z</estimatedPublishedDate> 
-<title type="str">Boys Basketball: Marion Harding falls to Dublin Scioto</title> 
+</TOPICS> 
+<DOCID type="str">695196369344</DOCID> 
+<DCT type="str">2017-01-29T05:09:33Z</DCT> 
+<TITLE type="str">Boys Basketball: Marion Harding falls to Dublin Scioto</TITLE> 
 </root>

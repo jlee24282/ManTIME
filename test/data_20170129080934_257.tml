@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sports Headlines Today 
+<TEXT type="str">Sports Headlines Today 
 
 [Sun-29-Jan-2017] 
 
@@ -20,14 +20,14 @@ AFCON 2017: Burkina Faso cruises into semi finals - The Sun
 
 Afcon 2017: Cameroon beat Senegal 5-4 on penalties to reach semi-finals - BBC 
 
-AFCON 2017: CAMEROON, SENEGAL IN QUARTER-FINAL SHOWDOWN - Nigerian Pilot</content> 
-<sequenceId type="str">695200954218</sequenceId> 
-<topics type="list"> 
+AFCON 2017: CAMEROON, SENEGAL IN QUARTER-FINAL SHOWDOWN - Nigerian Pilot</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Burkina Faso news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:01Z</estimatedPublishedDate> 
-<title type="str">Boko Haram attacks: NYSC DG warns corps members</title> 
+</TOPICS> 
+<DOCID type="str">695200954218</DOCID> 
+<DCT type="str">2017-01-29T07:23:01Z</DCT> 
+<TITLE type="str">Boko Haram attacks: NYSC DG warns corps members</TITLE> 
 </root>

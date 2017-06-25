@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Researchers at the Mount Washington Observatory faced a third day of blizzard conditions on January 28 with wind speeds peaking at 127 mph. This video shows staff members venturing out into the blizzard at the New Hampshire observatory. Credit: YouTube/Mount Washington Observatory via Storyful</content> 
-<sequenceId type="str">695198687809</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Researchers at the Mount Washington Observatory faced a third day of blizzard conditions on January 28 with wind speeds peaking at 127 mph. This video shows staff members venturing out into the blizzard at the New Hampshire observatory. Credit: YouTube/Mount Washington Observatory via Storyful</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Global news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:20Z</estimatedPublishedDate> 
-<title type="str">US NH: Blizzard Conditions Whip Mount Washington Observatory January 28</title> 
+</TOPICS> 
+<DOCID type="str">695198687809</DOCID> 
+<DCT type="str">2017-01-29T07:36:20Z</DCT> 
+<TITLE type="str">US NH: Blizzard Conditions Whip Mount Washington Observatory January 28</TITLE> 
 </root>

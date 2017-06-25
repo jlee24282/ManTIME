@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Christopher Seth Japeth Bynoe, of Forde&apos;s Road, Clapham, Christ Church, today admitted before Magistrate Kristie Cuffy-Sargeant to robbing Natasha Graham of cellular phone valued $1,800 on January 21....</content> 
-<sequenceId type="str">695200717822</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Christopher Seth Japeth Bynoe, of Forde&apos;s Road, Clapham, Christ Church, today admitted before Magistrate Kristie Cuffy-Sargeant to robbing Natasha Graham of cellular phone valued $1,800 on January 21....</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Technology</group> 
 <name type="str">Telecom news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T15:24:55Z</estimatedPublishedDate> 
-<title type="str">Teen admits to daring phone theft</title> 
+</TOPICS> 
+<DOCID type="str">695200717822</DOCID> 
+<DCT type="str">2017-01-28T15:24:55Z</DCT> 
+<TITLE type="str">Teen admits to daring phone theft</TITLE> 
 </root>

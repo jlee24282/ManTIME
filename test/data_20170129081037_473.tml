@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Republican leader in Israel is confident US embassy will eventually be moved to Jerusalem despite delays 
+<TEXT type="str">Republican leader in Israel is confident US embassy will eventually be moved to Jerusalem despite delays 
  
 Israeli officials are delaying the implementation of president Donald Trump&apos;s controversial campaign promise to move the US embassy from its current location in Tel Aviv to Jerusalem, according to a report by the Ha&apos;aretz daily on Saturday. 
  
@@ -39,9 +39,8 @@ The intention to move the embassy has been welcomed by Israel, but slammed by th
  
 The status of Jerusalem is a flashpoint issue in the Israeli-Palestinian conflict. The Palestinians claim East Jerusalem as the capital of their future state, while Israel has declared the entire city as its capital. Most countries have their embassies located in Tel Aviv. 
  
-(Staff with agencies)</content> 
-<sequenceId type="str">695203218402</sequenceId> 
-<topics type="list"> 
+(Staff with agencies)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Palestinian territories news</name> 
@@ -62,7 +61,8 @@ The status of Jerusalem is a flashpoint issue in the Israeli-Palestinian conflic
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:19:45Z</estimatedPublishedDate> 
-<title type="str">Israel behind waning momentum on US embassy move: report</title> 
+</TOPICS> 
+<DOCID type="str">695203218402</DOCID> 
+<DCT type="str">2017-01-29T08:19:45Z</DCT> 
+<TITLE type="str">Israel behind waning momentum on US embassy move: report</TITLE> 
 </root>

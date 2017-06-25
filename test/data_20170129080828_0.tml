@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This will be the first time Rahul Gandhi and Akhilesh Yadav appear together after the alliance between the Congress and the Samajwadi Party was announced.</content> 
-<sequenceId type="str">695197824687</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">This will be the first time Rahul Gandhi and Akhilesh Yadav appear together after the alliance between the Congress and the Samajwadi Party was announced.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:05Z</estimatedPublishedDate> 
-<title type="str">UP Assembly election: Akhilesh Yadav, Rahul Gandhi to hold joint press meet, go on road show</title> 
+</TOPICS> 
+<DOCID type="str">695197824687</DOCID> 
+<DCT type="str">2017-01-29T07:36:05Z</DCT> 
+<TITLE type="str">UP Assembly election: Akhilesh Yadav, Rahul Gandhi to hold joint press meet, go on road show</TITLE> 
 </root>

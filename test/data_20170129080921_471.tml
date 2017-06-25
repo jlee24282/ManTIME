@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695200653020</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:37Z</estimatedPublishedDate> 
-<title type="str">Protests erupt at U.S. airports over refugee ban</title> 
+</TOPICS> 
+<DOCID type="str">695200653020</DOCID> 
+<DCT type="str">2017-01-29T07:56:37Z</DCT> 
+<TITLE type="str">Protests erupt at U.S. airports over refugee ban</TITLE> 
 </root>

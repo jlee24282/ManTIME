@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The speech was a departure from previous speeches given by both Trump’s republican and democratic predecessors 
+<TEXT type="str">The speech was a departure from previous speeches given by both Trump’s republican and democratic predecessors 
  
 The White House issued a statement defending US president Donald Trump’s Holocaust remembrance day speech on Friday that had no mention of Jews or anti-Semitism because it was meant to include ”all of those who suffered.” 
  
@@ -40,9 +40,8 @@ Hicks provided the statement that read: &quot;It does no honor to the millions o
  
 &quot;Any fair reading of the White House statement today on the International Holocaust Memorial Day will see it appropriately commemorates the suffering and the heroism that mark that dark chapter in modern history,&quot; the statement continued. 
  
-The speech in question was delivered on the same day that the right-wing firebrand came under fire for proposing to ban refugees from war-ravaged Syria and other Muslim countries from entering the US.</content> 
-<sequenceId type="str">695204335136</sequenceId> 
-<topics type="list"> 
+The speech in question was delivered on the same day that the right-wing firebrand came under fire for proposing to ban refugees from war-ravaged Syria and other Muslim countries from entering the US.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -63,7 +62,8 @@ The speech in question was delivered on the same day that the right-wing firebra
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:24Z</estimatedPublishedDate> 
-<title type="str">White House defends Holocaust remembrance speech for not mentioning Jews</title> 
+</TOPICS> 
+<DOCID type="str">695204335136</DOCID> 
+<DCT type="str">2017-01-29T08:28:24Z</DCT> 
+<TITLE type="str">White House defends Holocaust remembrance speech for not mentioning Jews</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As food industry businesses — from restaurants to farms to food production — struggle to find workers, President Trump’s actions on immigration policy could cut their workforce even more. 
+<TEXT type="str">As food industry businesses — from restaurants to farms to food production — struggle to find workers, President Trump’s actions on immigration policy could cut their workforce even more. 
  
 Trump signed executive orders Wednesday directing the construction of a wall on the U.S. border with Mexico, increasing the number of immigration officers who carry out deportations and blocking federal grant funding to sanctuary cities. 
  
@@ -37,9 +37,8 @@ As one of the fastest growing sectors in the U.S., the letter said the restauran
  
 Many in the restaurant and agriculture industry have called for comprehensive immigration reform that provides paths to citizenship for immigrants working in the U.S., as well as a streamlined process for allowing industries like the agriculture and food business to get the workers they need. 
  
-“President Trump is doing what he said he was going to do, but he also said he would put doors in the wall to allow people to work in a legitimate way, “ said Little, of the Farm Bureau. “We think working in our industry is a legitimate reason, and we view our role as helping the president figure out how to make those doors.”</content> 
-<sequenceId type="str">695195417505</sequenceId> 
-<topics type="list"> 
+“President Trump is doing what he said he was going to do, but he also said he would put doors in the wall to allow people to work in a legitimate way, “ said Little, of the Farm Bureau. “We think working in our industry is a legitimate reason, and we view our role as helping the president figure out how to make those doors.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Food industry news</name> 
@@ -52,7 +51,8 @@ Many in the restaurant and agriculture industry have called for comprehensive im
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:22:18Z</estimatedPublishedDate> 
-<title type="str">Why Trump&apos;s immigration actions should worry food businesses</title> 
+</TOPICS> 
+<DOCID type="str">695195417505</DOCID> 
+<DCT type="str">2017-01-29T00:22:18Z</DCT> 
+<TITLE type="str">Why Trump&apos;s immigration actions should worry food businesses</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New York, Jan 29 (IANS) Engineers say data from Twitter and other social media platforms can help improve event planning, route scheduling, crowd regulations and subway operations.
+<TEXT type="str">New York, Jan 29 (IANS) Engineers say data from Twitter and other social media platforms can help improve event planning, route scheduling, crowd regulations and subway operations.
 
 &quot;Social media offers a cost-effective way to obtain real-time data on monitoring subway passenger flow,&quot; said the study&apos;s corresponding author Qing He from the University of Buffalo.
 
@@ -18,9 +18,8 @@ Using six different computer models, the researchers then analysed the data and 
 
 --IANS
 
-sku/sm/vt</content> 
-<sequenceId type="str">695194210804</sequenceId> 
-<topics type="list"> 
+sku/sm/vt</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -33,7 +32,8 @@ sku/sm/vt</content>
 <group type="str">Internet</group> 
 <name type="str">Social media news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:56:03Z</estimatedPublishedDate> 
-<title type="str">Twitter data can improve subway operations</title> 
+</TOPICS> 
+<DOCID type="str">695194210804</DOCID> 
+<DCT type="str">2017-01-29T06:56:03Z</DCT> 
+<TITLE type="str">Twitter data can improve subway operations</TITLE> 
 </root>

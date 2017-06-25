@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Presidential hopeful Nkosazana Dlamini-Zuma has a house allocated to her at president Jacob Zuma’s Nkandla homestead, according to a report in the Sunday Times. 
+<TEXT type="str">Presidential hopeful Nkosazana Dlamini-Zuma has a house allocated to her at president Jacob Zuma’s Nkandla homestead, according to a report in the Sunday Times. 
  
 The report said that Dlamini-Zuma, who along with deputy president Cyril Ramaphosa, is the front-runner for the top ANC post in December, ‘spends a lot of time’ at the compound. 
  
@@ -38,9 +38,8 @@ The elective conference will not be decided by set piece speeches, media or othe
  
 The following report is can be found in the 29 January 2017 edition of the Sunday Times. 
  
-Read: Nkosazana Dlamini-Zuma will be president if Zuma wants her to be – Malema</content> 
-<sequenceId type="str">695194726571</sequenceId> 
-<topics type="list"> 
+Read: Nkosazana Dlamini-Zuma will be president if Zuma wants her to be – Malema</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
@@ -49,7 +48,8 @@ Read: Nkosazana Dlamini-Zuma will be president if Zuma wants her to be – Malem
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:53:17Z</estimatedPublishedDate> 
-<title type="str">ANC presidential candidate has a home at Nkandla compound</title> 
+</TOPICS> 
+<DOCID type="str">695194726571</DOCID> 
+<DCT type="str">2017-01-29T06:53:17Z</DCT> 
+<TITLE type="str">ANC presidential candidate has a home at Nkandla compound</TITLE> 
 </root>

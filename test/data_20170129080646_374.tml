@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NC State advances to championships 
+<TEXT type="str">NC State advances to championships 
  1/28/2017 9:47:00 PM  MALIBU, Calif.  – Despite windy conditions, the NC State women&apos;s tennis team battled to a 4-3 win over Arkansas on Saturday at the Ralphs-Straus Tennis Center at the ITA Kick-Off Weekend tournament. The match was a fight from start to finish and was tied up at 1-1, 2-2 and 3-3. 
   
 The Wolfpack got off to a hot start, taking the doubles point for a 1-0 lead in the match. The NC State duo of Martina Frantova and Anna Rogers were first to finish, beating Arkansas&apos; Hudson and Jeanjean, 6-3. Bianca Moldovan and Claudia Wiktorin fired off another 6-3 win to clinch the doubles point. 
@@ -47,9 +47,8 @@ Twitter: @PackWTennis
 Facebook: NC State Women&apos;s Tennis 
 Instagram: @PackWTennis 
   
-Print Friendly Version</content> 
-<sequenceId type="str">695194499139</sequenceId> 
-<topics type="list"> 
+Print Friendly Version</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -58,7 +57,8 @@ Print Friendly Version</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T21:47:00Z</estimatedPublishedDate> 
-<title type="str">Wolfpack Tennis Downs Arkansas at ITA Kick-Off Weekend</title> 
+</TOPICS> 
+<DOCID type="str">695194499139</DOCID> 
+<DCT type="str">2017-01-28T21:47:00Z</DCT> 
+<TITLE type="str">Wolfpack Tennis Downs Arkansas at ITA Kick-Off Weekend</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">I have a special friend 
+<TEXT type="str">I have a special friend 
  
 Her name is Audrey Byers 
  
@@ -64,14 +64,14 @@ You will have a quality of life.
  
 And they will treat you well. 
  
-Jenny Schnabel is a graduate of Arizona State University with a bachelor of fine arts degree. She also exhibits at the Brewery Arts Center. She welcomes poem ideas at carsoncitypoet@gmail.com . Skyline Estates is at 2861 Mountain St., Carson City, NV 89703. Call it at 775-885-9223.</content> 
-<sequenceId type="str">695201286229</sequenceId> 
-<topics type="list"> 
+Jenny Schnabel is a graduate of Arizona State University with a bachelor of fine arts degree. She also exhibits at the Brewery Arts Center. She welcomes poem ideas at carsoncitypoet@gmail.com . Skyline Estates is at 2861 Mountain St., Carson City, NV 89703. Call it at 775-885-9223.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:01Z</estimatedPublishedDate> 
-<title type="str">Care a priority at Skyline Estates</title> 
+</TOPICS> 
+<DOCID type="str">695201286229</DOCID> 
+<DCT type="str">2017-01-29T07:23:01Z</DCT> 
+<TITLE type="str">Care a priority at Skyline Estates</TITLE> 
 </root>

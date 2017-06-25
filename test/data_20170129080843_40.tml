@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">1:13 a.m. CT Jan. 29, 2017 
+<TEXT type="str">1:13 a.m. CT Jan. 29, 2017 
     
 Alabama head football coach Nick Saban and former Alabama and current New Orleans Sainsts tailback Mark Ingram play in the Chick-fil-A Challenge in 2013. During Saban’s 10-year tenure at Alabama, 55 Crimson Tide players have been selected in the NFL draft. (Photo: USA TODAY Sports) 
   
@@ -44,9 +44,8 @@ Of course, while Saban’s name alone won’t help improve a player’s draft st
  
 “Obviously you know what type of instruction these players are getting (at Alabama), you know the program that they have,” Brugler said. “So you’re not going to move a player up just based on where he comes from — you try to look at all these players without a logo on the helmet — you’re looking at just the individual player. But it’s impossible not (to take that into consideration). 
  
-“And if Nick Saban has a lot of nice things to say about Ryan Anderson, you don’t dismiss that. You take what Nick says and you include that in your report. But you’re not going to move a player up or down just based on who his coach is.”</content> 
-<sequenceId type="str">695198507694</sequenceId> 
-<topics type="list"> 
+“And if Nick Saban has a lot of nice things to say about Ryan Anderson, you don’t dismiss that. You take what Nick says and you include that in your report. But you’re not going to move a player up or down just based on who his coach is.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -63,7 +62,8 @@ Of course, while Saban’s name alone won’t help improve a player’s draft st
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:50Z</estimatedPublishedDate> 
-<title type="str">Saban’s reputation carries weight among NFL circles</title> 
+</TOPICS> 
+<DOCID type="str">695198507694</DOCID> 
+<DCT type="str">2017-01-29T07:13:50Z</DCT> 
+<TITLE type="str">Saban’s reputation carries weight among NFL circles</TITLE> 
 </root>

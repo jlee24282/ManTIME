@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">It was never really a retirement, it&apos;s not quite a comeback and who knows what happens this year. 
+<TEXT type="str">It was never really a retirement, it&apos;s not quite a comeback and who knows what happens this year. 
  
 What Cameron Meyer knows for sure is that riding his bike has rarely felt this good. 
  
@@ -42,9 +42,8 @@ His immediate aims are next week&apos;s Herald Sun Tour and then the world track
  
 &quot;I&apos;m just taking it as it comes now. 
  
-&quot;It might be a bit of national team stuff, it might be signing with a team, at the moment I&apos;m just really enjoying it, getting back out there and having a crack.</content> 
-<sequenceId type="str">695198939134</sequenceId> 
-<topics type="list"> 
+&quot;It might be a bit of national team stuff, it might be signing with a team, at the moment I&apos;m just really enjoying it, getting back out there and having a crack.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -53,7 +52,8 @@ His immediate aims are next week&apos;s Herald Sun Tour and then the world track
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:10Z</estimatedPublishedDate> 
-<title type="str">Cameron Meyer stars in return to cycling</title> 
+</TOPICS> 
+<DOCID type="str">695198939134</DOCID> 
+<DCT type="str">2017-01-29T07:48:10Z</DCT> 
+<TITLE type="str">Cameron Meyer stars in return to cycling</TITLE> 
 </root>

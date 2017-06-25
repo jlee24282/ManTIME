@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Paul Merson has suggested that Arsene Wenger’s touchline antics were a result of the uncertainty surrounding Mesut Ozil and Alexis Sanchez’s futures at Arsenal.  
+<TEXT type="str">Paul Merson has suggested that Arsene Wenger’s touchline antics were a result of the uncertainty surrounding Mesut Ozil and Alexis Sanchez’s futures at Arsenal.  
 Wenger has received a four-game touchline suspension after the Frenchman pushed a fourth official during Arsenal’s tense 2-1 win against Burnley at the Emirates Stadium last weekend. 
  
 Both Ozil and Sanchez are still in negotiations with the north London club about new contracts amid growing uncertainty surrounding whether Wenger’s key men will stay at Arsenal. 
@@ -29,9 +29,8 @@ MORE: Arsenal latest news
  
 MORE: Chelsea latest news 
  
-MORE: Liverpool latest news</content> 
-<sequenceId type="str">695202608381</sequenceId> 
-<topics type="list"> 
+MORE: Liverpool latest news</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -48,7 +47,8 @@ MORE: Liverpool latest news</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:36Z</estimatedPublishedDate> 
-<title type="str">Paul Merson: What Arsenal problem is weighing on Arsene Wenger’s mind</title> 
+</TOPICS> 
+<DOCID type="str">695202608381</DOCID> 
+<DCT type="str">2017-01-29T08:00:36Z</DCT> 
+<TITLE type="str">Paul Merson: What Arsenal problem is weighing on Arsene Wenger’s mind</TITLE> 
 </root>

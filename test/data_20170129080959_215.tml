@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">TENNIS
+<TEXT type="str">TENNIS
 
 12:30 a.m. Sunday
 
@@ -212,9 +212,8 @@ MLBN (Comcast 419, DirecTV 213)
 
 Pac-12 (Comcast 420/421, n/a on DirecTV)
 
-SEC (Comcast 425, DirecTV 611)</content> 
-<sequenceId type="str">695201823478</sequenceId> 
-<topics type="list"> 
+SEC (Comcast 425, DirecTV 611)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
@@ -227,7 +226,8 @@ SEC (Comcast 425, DirecTV 611)</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:11Z</estimatedPublishedDate> 
-<title type="str">Sports on TV, radio for Sunday, January 29: Trail Blazers, NHL All-Star Game, Pro Bowl</title> 
+</TOPICS> 
+<DOCID type="str">695201823478</DOCID> 
+<DCT type="str">2017-01-29T08:01:11Z</DCT> 
+<TITLE type="str">Sports on TV, radio for Sunday, January 29: Trail Blazers, NHL All-Star Game, Pro Bowl</TITLE> 
 </root>

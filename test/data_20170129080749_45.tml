@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:19 
+<TEXT type="str">:19 
  
 Serena Williams plans to play fewer tournaments in the future to aid her quest to win more grand slam titles, according to her coach Patrick Mouratoglou. 
  
@@ -36,9 +36,8 @@ And Mouratoglou said Serena would not obsess over the record of 24 held by Court
  
 &quot;With all the respect for Margaret Court, it was another era, the draws were like 16 players and they were not professionals,&quot; he said. 
  
-&quot;Of course the record is here and we definitely want to beat it, but there was a professional era and the record was Steffi Graf.&quot;</content> 
-<sequenceId type="str">695196521181</sequenceId> 
-<topics type="list"> 
+&quot;Of course the record is here and we definitely want to beat it, but there was a professional era and the record was Steffi Graf.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -51,7 +50,8 @@ And Mouratoglou said Serena would not obsess over the record of 24 held by Court
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:23Z</estimatedPublishedDate> 
-<title type="str">Serena to play fewer tournaments</title> 
+</TOPICS> 
+<DOCID type="str">695196521181</DOCID> 
+<DCT type="str">2017-01-29T07:30:23Z</DCT> 
+<TITLE type="str">Serena to play fewer tournaments</TITLE> 
 </root>

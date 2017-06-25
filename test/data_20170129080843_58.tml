@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">January 28, 2017  
+<TEXT type="str">January 28, 2017  
  
 Kuwait Financial Centre “Markaz” report on GCC stock market outlook 2017 has stated that Boursa Kuwait has started this year on an explosive note. The much followed price index gained 16 percent while the weighted index gained by 11 percent as compared to 1.4 percent for MSCI GCC index and a negative 2.7 percent for Saudi Arabia. This has been among one of the sharpest rallies for Kuwait main index in recent years as the index posted positive gains for the fourteenth consecutive day. The surge in index is also matched by surge in liquidity. 
  
@@ -48,9 +48,8 @@ GCC Debt Market Outlook 2017
  
 The prolonged period of low oil prices has put a strain on government budgets across the region, exposing the dependence that GCC economies have on oil revenues. Saudi Arabia, Oman and Bahrain have all scrambled to raise funds through bond issuances to compensate for the fall in oil revenues. Their sovereign rating was also downgraded in 2016 on back of widening fiscal balance and sluggish economic growth. However, Saudi Arabia with its “A1” rating remains in the investment grade while Oman (BBB-) and Bahrain (BB — Junk) have lower ratings. The ratings downgrade has had a visible impact on the pricing of the bonds. KSA had to pay 185 bps over the 10 yr US treasury bond while Oman had to pay 320 bps over the 10 yr treasury bond. GCC governments should carefully consider their borrowing and investment decisions while maintaining significant liquidity buffers for protecting themselves against short-term funding risk. Saudi Arabia, Kuwait, Qatar and UAE have significant headroom for borrowing as they have very little public debt outstanding. There is room for taking on more debt; however, it should be done only after careful considerations of the implications of building up debt and the impact of borrowing on domestic liquidity, credit, and central bank reserves. We expect GCC governments to cumulatively issue over $74 billion of debt in 2017. 
  
-arabtimesonline</content> 
-<sequenceId type="str">695198547193</sequenceId> 
-<topics type="list"> 
+arabtimesonline</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -83,7 +82,8 @@ arabtimesonline</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:42Z</estimatedPublishedDate> 
-<title type="str">Outlook ‘neutral’ despite Kuwait’s bull run</title> 
+</TOPICS> 
+<DOCID type="str">695198547193</DOCID> 
+<DCT type="str">2017-01-29T07:44:42Z</DCT> 
+<TITLE type="str">Outlook ‘neutral’ despite Kuwait’s bull run</TITLE> 
 </root>

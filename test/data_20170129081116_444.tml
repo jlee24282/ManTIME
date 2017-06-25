@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi: Stock market sentiment in the days to come would be driven by the country&apos;s first biggest economic event of the year, Union Budget due on February 1, say experts. 
+<TEXT type="str">New Delhi: Stock market sentiment in the days to come would be driven by the country&apos;s first biggest economic event of the year, Union Budget due on February 1, say experts. 
  
 &quot;This time market is approaching the Union Budget with very high expectations as this is the first budget after demonetisation. The market perceives the budget as an opportunity to fix the derailment caused to the growth trajectory,&quot; India Nivesh said in a report. 
  
@@ -16,9 +16,8 @@ Over the last week, the Sensex recorded a gain of 847.96 points, or 3.13 per cen
  
 &quot;The first half of following week is expected to be quiet as markets would be holding with bated breath on the likely announcements in the budget,&quot; said Vijay Singhania, Founder-Director, Trade Smart Online. &quot;Post budget, focus is likely to move to the state elections,&quot; Singhania added. 
  
-(PTI)</content> 
-<sequenceId type="str">695204515845</sequenceId> 
-<topics type="list"> 
+(PTI)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -31,7 +30,8 @@ Over the last week, the Sensex recorded a gain of 847.96 points, or 3.13 per cen
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:12Z</estimatedPublishedDate> 
-<title type="str">&apos;Stock market looks up to Union Budget for further cues&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695204515845</DOCID> 
+<DCT type="str">2017-01-29T08:30:12Z</DCT> 
+<TITLE type="str">&apos;Stock market looks up to Union Budget for further cues&apos;</TITLE> 
 </root>

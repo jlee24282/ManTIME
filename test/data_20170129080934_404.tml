@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">I rode the peace train from Washington to Philadelphia last Saturday night. When my CNN program ended on Capitol Hill at 7 p.m., I ran to make the Northeast Regional, Amtrak train No. 182, which left Union Station on time at 7:20 bound for Boston. On board with me were 600 women who had just marched against President Trump. 
+<TEXT type="str">I rode the peace train from Washington to Philadelphia last Saturday night. When my CNN program ended on Capitol Hill at 7 p.m., I ran to make the Northeast Regional, Amtrak train No. 182, which left Union Station on time at 7:20 bound for Boston. On board with me were 600 women who had just marched against President Trump. 
 
 There were no empty seats on the festive train. Many women wore hand-knitted, pink pussy hats and homemade signs dotted the overhead luggage compartment. An animated welcome on the PA from a conductor was greeted with applause, a first in my many trips aboard Amtrak. 
 
@@ -28,9 +28,8 @@ When the doors opened the platform quickly became a sea of pink. At the top of t
 
 But chances are, if I&apos;d been with 600 guys, the theme song wouldn&apos;t have been &quot;Peace Train.&quot; It would have been &quot;Saturday Night&apos;s Alright for Fighting.&quot; 
 
-Michael Smerconish can be heard 9 a.m. to noon on SiriusXM&apos;s POTUS Channel 124. He hosts &quot;Smerconish&quot; at 9 a.m. Saturdays on CNN.</content> 
-<sequenceId type="str">695201066552</sequenceId> 
-<topics type="list"> 
+Michael Smerconish can be heard 9 a.m. to noon on SiriusXM&apos;s POTUS Channel 124. He hosts &quot;Smerconish&quot; at 9 a.m. Saturdays on CNN.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Delaware Valley news</name> 
@@ -51,7 +50,8 @@ Michael Smerconish can be heard 9 a.m. to noon on SiriusXM&apos;s POTUS Channel 
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Smerconish: After the march, all aboard the Peace Train</title> 
+</TOPICS> 
+<DOCID type="str">695201066552</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">Smerconish: After the march, all aboard the Peace Train</TITLE> 
 </root>

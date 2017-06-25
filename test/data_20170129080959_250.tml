@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Bangkok:  Four people have been killed and five wounded after a grenade exploded during a fight between two rival gangs in a province in eastern Bangkok. 
+<TEXT type="str">Bangkok:  Four people have been killed and five wounded after a grenade exploded during a fight between two rival gangs in a province in eastern Bangkok. 
  
 According to police, a fight broke out between the two teen gangs early on Sunday during the celebration of a festival in eastern Bangkok&apos;s Chachoengsao province. 
  
@@ -8,9 +8,8 @@ One of the boys threw a grenade at members of the rival gang, which left four pe
  
 Police have not reported any arrests in connection with the incident so far. 
  
-EFE/AAP</content> 
-<sequenceId type="str">695201856898</sequenceId> 
-<topics type="list"> 
+EFE/AAP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Thailand news</name> 
@@ -23,7 +22,8 @@ EFE/AAP</content>
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:39Z</estimatedPublishedDate> 
-<title type="str">Grenade explosion kills four in Thailand</title> 
+</TOPICS> 
+<DOCID type="str">695201856898</DOCID> 
+<DCT type="str">2017-01-29T08:07:39Z</DCT> 
+<TITLE type="str">Grenade explosion kills four in Thailand</TITLE> 
 </root>

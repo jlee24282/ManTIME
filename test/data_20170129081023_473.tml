@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Planes land and depart from Ngurah Rai International Airport in Bali. (Antara Photo/Wira Suryantala) 
+<TEXT type="str">Planes land and depart from Ngurah Rai International Airport in Bali. (Antara Photo/Wira Suryantala) 
   
 JAKARTA: Immigration officers at Ngurah Rai International Airport in Bali have stopped an Australian from entering the resort island based on an Interpol report alleging that the man, identified only as DNW, is a pedophile. 
  
@@ -12,9 +12,8 @@ He said his office had earlier received notice from Australian authorities on th
  
 “We managed to detect the man shortly after he arrived here and deported him,” he added. 
  
-According to data from the immigration directorate, as many as 652 foreigners were prevented from entering Bali through the airport last year. – The Jakarta Post/Asia News Network</content> 
-<sequenceId type="str">695202807109</sequenceId> 
-<topics type="list"> 
+According to data from the immigration directorate, as many as 652 foreigners were prevented from entering Bali through the airport last year. – The Jakarta Post/Asia News Network</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Indonesia news</name> 
@@ -35,7 +34,8 @@ According to data from the immigration directorate, as many as 652 foreigners we
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:38Z</estimatedPublishedDate> 
-<title type="str">Alleged pedophile on AirAisa flight from Perth banned from entering Bali</title> 
+</TOPICS> 
+<DOCID type="str">695202807109</DOCID> 
+<DCT type="str">2017-01-29T08:10:38Z</DCT> 
+<TITLE type="str">Alleged pedophile on AirAisa flight from Perth banned from entering Bali</TITLE> 
 </root>

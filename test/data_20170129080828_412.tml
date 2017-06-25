@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Águilas de Mexicali was live - 2017-1-29 14:06  
+<TEXT type="str">Águilas de Mexicali was live - 2017-1-29 14:06  
    
  Águilas de Mexicali was live - 2017-1-29 13:35  
    
@@ -10,9 +10,8 @@
    
  Águilas de Mexicali - 2017-1-29 13:04  
    
- Águilas de Mexicali was live - 2017-1-29 12</content> 
-<sequenceId type="str">695198397114</sequenceId> 
-<topics type="list"> 
+ Águilas de Mexicali was live - 2017-1-29 12</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -21,7 +20,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:15Z</estimatedPublishedDate> 
-<title type="str">Águilas de Mexicali was live - 2017-1-29 15:35</title> 
+</TOPICS> 
+<DOCID type="str">695198397114</DOCID> 
+<DCT type="str">2017-01-29T07:43:15Z</DCT> 
+<TITLE type="str">Águilas de Mexicali was live - 2017-1-29 15:35</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Alex Dobuzinskis 
+<TEXT type="str">By Alex Dobuzinskis 
     
 Jan 28 (Reuters) - A Sudanese student with U.S. legal
 residency said on Saturday she was briefly handcuffed at a New
@@ -38,9 +38,8 @@ day to help immigrate to America.
     
 &quot;It scares me that I&apos;m not able to see them if I want to,&quot;
 said Elamin, who lives in New Jersey.
-  Continued...</content> 
-<sequenceId type="str">695197768529</sequenceId> 
-<topics type="list"> 
+  Continued...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Sudan news</name> 
@@ -61,7 +60,8 @@ said Elamin, who lives in New Jersey.
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:21Z</estimatedPublishedDate> 
-<title type="str">&quot;I got handcuffed and just started crying&quot;: Sudanese student describes U.S. detention</title> 
+</TOPICS> 
+<DOCID type="str">695197768529</DOCID> 
+<DCT type="str">2017-01-29T07:39:21Z</DCT> 
+<TITLE type="str">&quot;I got handcuffed and just started crying&quot;: Sudanese student describes U.S. detention</TITLE> 
 </root>

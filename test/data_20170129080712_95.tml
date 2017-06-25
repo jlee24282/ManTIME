@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695195043986</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Business</group> 
 <name type="str">Executive moves news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:24Z</estimatedPublishedDate> 
-<title type="str">Academy: It’s ‘Troubling’ Oscar-Nominated Director May Be Banned From US</title> 
+</TOPICS> 
+<DOCID type="str">695195043986</DOCID> 
+<DCT type="str">2017-01-29T07:20:24Z</DCT> 
+<TITLE type="str">Academy: It’s ‘Troubling’ Oscar-Nominated Director May Be Banned From US</TITLE> 
 </root>

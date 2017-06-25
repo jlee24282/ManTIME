@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A 48-year-old teacher, Madam Agnes Blankson, has been installed as the Baatanhemaa of Gomoa Akyimfo, near Apam in the Central Region.
+<TEXT type="str">A 48-year-old teacher, Madam Agnes Blankson, has been installed as the Baatanhemaa of Gomoa Akyimfo, near Apam in the Central Region.
 
 Her stool name is Nana Kweikua Akonoa II. 
 
@@ -22,9 +22,8 @@ She said further that she would liaise with the district assembly and the elders
 
 The Baatanhemaa noted that she could do little without support and collaboration from the elders and youth in the community.
 
-“I therefore call for backing from all groups in the community to assist me to succeed in my endeavours,” she added.</content> 
-<sequenceId type="str">695203604352</sequenceId> 
-<topics type="list"> 
+“I therefore call for backing from all groups in the community to assist me to succeed in my endeavours,” she added.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -33,7 +32,8 @@ The Baatanhemaa noted that she could do little without support and collaboration
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:51Z</estimatedPublishedDate> 
-<title type="str">Teacher installed Baatanhemaa of Gomoa Akyimfo</title> 
+</TOPICS> 
+<DOCID type="str">695203604352</DOCID> 
+<DCT type="str">2017-01-29T08:22:51Z</DCT> 
+<TITLE type="str">Teacher installed Baatanhemaa of Gomoa Akyimfo</TITLE> 
 </root>

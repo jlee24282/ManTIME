@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">After 80 years of scooping ice cream, Gill&apos;s Old Fashioned Ice Cream shop is closing at the Original Farmers Market in the Fairfax District. 
+<TEXT type="str">After 80 years of scooping ice cream, Gill&apos;s Old Fashioned Ice Cream shop is closing at the Original Farmers Market in the Fairfax District. 
  
 Sunday is your last chance to get a scoop from Gill&apos;s Old Fashioned Ice Cream shop at the Farmer&apos;s Market in the Fairfax district, which is closing after 80 years. 
   Latest Comments    
@@ -8,9 +8,8 @@ They&apos;re just trying to run the small mom and pop businesses out. Same thing
      
 Yvonne Snyder Michelle Snyder Casas is this where you used to take us sometimes by the grove? 
      
-That guy looks like he&apos;s asking for a choc dip frozen banana</content> 
-<sequenceId type="str">695197043097</sequenceId> 
-<topics type="list"> 
+That guy looks like he&apos;s asking for a choc dip frozen banana</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -19,7 +18,8 @@ That guy looks like he&apos;s asking for a choc dip frozen banana</content>
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: food and drink news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:21Z</estimatedPublishedDate> 
-<title type="str">Gill&apos;s Old Fashioned Ice Cream closing at Original Farmers Market after 80 years</title> 
+</TOPICS> 
+<DOCID type="str">695197043097</DOCID> 
+<DCT type="str">2017-01-29T07:34:21Z</DCT> 
+<TITLE type="str">Gill&apos;s Old Fashioned Ice Cream closing at Original Farmers Market after 80 years</TITLE> 
 </root>

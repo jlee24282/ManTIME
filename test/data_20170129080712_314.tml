@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Wes Edens has an impressive profile. The investment banker turned venture capitalist started Fortress Investment Group in 1998 — a firm which executes a range of investment strategies for more than 160 institutional investors and private clients around the world in private equity, credit, liquid markets and traditional asset management. 
+<TEXT type="str">Wes Edens has an impressive profile. The investment banker turned venture capitalist started Fortress Investment Group in 1998 — a firm which executes a range of investment strategies for more than 160 institutional investors and private clients around the world in private equity, credit, liquid markets and traditional asset management. 
  
 Edens proudly notes that the firm started with a little more than US$400 million and 30 employees and now manages about US$72 billion worth of assets and 1200 employees. 
  
@@ -64,9 +64,8 @@ Like many successful people, Edens admires the tenacity of other successful inve
  
 “There’s a lot of people I admire: Warren Buffett, whom I’ve met a number of times, and he has a great track record as one of the great financial investors. Elon Musk with Tesla — again it’s very easy for people to criticise what has happened and say it won’t work, but he put his own money in and didn’t take ‘no’ for an answer.” 
  
-Wes Edens spoke at The Destination Experience seminar in Kingston which ended yesterday.</content> 
-<sequenceId type="str">695195387700</sequenceId> 
-<topics type="list"> 
+Wes Edens spoke at The Destination Experience seminar in Kingston which ended yesterday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">South Florida news</name> 
@@ -83,7 +82,8 @@ Wes Edens spoke at The Destination Experience seminar in Kingston which ended ye
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:42Z</estimatedPublishedDate> 
-<title type="str">Fortress Investment Group energetic over multiple investments in Jamaica — Wes Edens</title> 
+</TOPICS> 
+<DOCID type="str">695195387700</DOCID> 
+<DCT type="str">2017-01-29T07:21:42Z</DCT> 
+<TITLE type="str">Fortress Investment Group energetic over multiple investments in Jamaica — Wes Edens</TITLE> 
 </root>

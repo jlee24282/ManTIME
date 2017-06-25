@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rio Ferdinand in the Sunday Times 
+<TEXT type="str">Rio Ferdinand in the Sunday Times 
 
 Man United old boy Rio Ferdinand has penned an interesting article in the Sunday Times looking at the problems at Liverpool and assessing the Premier League title race at large
 
@@ -38,9 +38,8 @@ If Liverpool don’t win they’re out of the title race — though in reality I
 
  
 
-Liverpool Manchester United and Manchester City are fighting it out below them The title race is a matter for London Fourth place is a battle for the northwest</content> 
-<sequenceId type="str">695205057822</sequenceId> 
-<topics type="list"> 
+Liverpool Manchester United and Manchester City are fighting it out below them The title race is a matter for London Fourth place is a battle for the northwest</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Manchester United news</name> 
@@ -53,7 +52,8 @@ Liverpool Manchester United and Manchester City are fighting it out below them T
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:34:05Z</estimatedPublishedDate> 
-<title type="str">Rio Ferdinand: Only Arsenal &amp; Spurs can catch Blues, slams Daniel Sturridge</title> 
+</TOPICS> 
+<DOCID type="str">695205057822</DOCID> 
+<DCT type="str">2017-01-29T08:34:05Z</DCT> 
+<TITLE type="str">Rio Ferdinand: Only Arsenal &amp; Spurs can catch Blues, slams Daniel Sturridge</TITLE> 
 </root>

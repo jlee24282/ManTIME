@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FOOTBALL: Melbourne City&apos;s bid for back-to-back W-League titles faces its next sudden death clash in Canberra next week after the finals make-up was completed on Sunday afternoon.
+<TEXT type="str">FOOTBALL: Melbourne City&apos;s bid for back-to-back W-League titles faces its next sudden death clash in Canberra next week after the finals make-up was completed on Sunday afternoon.
 
 As a club, City is already hunting its third trophy of the season after the senior men&apos;s side won the FFA Cup in November and the juniors won a thrilling National Youth League final on Saturday.
 
@@ -16,9 +16,8 @@ Sydney will now play in Perth next week after the Glory secured second spot with
 
 No team has won back-to-back W-League championships.
 
-City and Canberra have played twice this season, with the away team recording a 2-1 victory on both occasions.</content> 
-<sequenceId type="str">695194410195</sequenceId> 
-<topics type="list"> 
+City and Canberra have played twice this season, with the away team recording a 2-1 victory on both occasions.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -27,7 +26,8 @@ City and Canberra have played twice this season, with the away team recording a 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:11Z</estimatedPublishedDate> 
-<title type="str">City to face Canberra in sudden-death W-League final</title> 
+</TOPICS> 
+<DOCID type="str">695194410195</DOCID> 
+<DCT type="str">2017-01-29T07:15:11Z</DCT> 
+<TITLE type="str">City to face Canberra in sudden-death W-League final</TITLE> 
 </root>

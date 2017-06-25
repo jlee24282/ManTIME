@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arthur Conan Doyle and Harry Houdini fought about it, while Thomas Edison and Nikola Tesla, famously not in agreement on electricity, often wondered about it. Is there life after death? 
+<TEXT type="str">Arthur Conan Doyle and Harry Houdini fought about it, while Thomas Edison and Nikola Tesla, famously not in agreement on electricity, often wondered about it. Is there life after death? 
  
 Spiritualism, the belief that the dead survive as spirits that can communicate with the living, has been debated throughout history, and in 2017 the discussion continues unabated. Believers will tell you that the number of like-minded people is growing, and while some in the other camp may dispute that, it’s undeniable that a portion of the scientific community is conceding that the practice does have value. Dr. Robert L. Miller, a professor in the Social Welfare School at the University at Albany, says it’s a subject he addresses in his class, Social Welfare and Spiritualism. 
  
@@ -35,9 +35,8 @@ Even if most in the scientific community continue to scoff at spiritualism, ther
 According to Austin, the field of spiritualism is growing because more people are realizing that to some degree, they have the gift themselves. 
  
 “I fought against it for a while, trying to use the logical and scientific side of my brain,” said Austin, “but eventually I realized that there were very smart people who were interested in all of it, the mind, body and spirit. We all have some sort of gift. We just to have work at bringing them forward.” 
-Reach Gazette reporter Bill Buell at 395-3190 or bbuell@dailygazette.com.</content> 
-<sequenceId type="str">695197583965</sequenceId> 
-<topics type="list"> 
+Reach Gazette reporter Bill Buell at 395-3190 or bbuell@dailygazette.com.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -46,7 +45,8 @@ Reach Gazette reporter Bill Buell at 395-3190 or bbuell@dailygazette.com.</conte
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Spiritualism gaining in popularity</title> 
+</TOPICS> 
+<DOCID type="str">695197583965</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Spiritualism gaining in popularity</TITLE> 
 </root>

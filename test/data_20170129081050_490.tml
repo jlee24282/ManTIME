@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  
+<TEXT type="str">  
  
 GREEN COUNTRY LANES 
  
@@ -34,14 +34,14 @@ Women’s 550:   Sandy Floyd 591; Marie Coe 591; Danielle Lafave 564; Beth Gull
  
 Women’s 600:   Sandy Floyd 610; Marie Coe 620; Pam Marshall 607-646; Charla Fulton 600; Beth Gulley 614; Michelle Stewart 646; Mindi Morgan 600; Evelyn Talley 620 
  
-Women’s 650:  Michelle Stewart 670; Pam Marshall 673</content> 
-<sequenceId type="str">695203665809</sequenceId> 
-<topics type="list"> 
+Women’s 650:  Michelle Stewart 670; Pam Marshall 673</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:05:00Z</estimatedPublishedDate> 
-<title type="str">Bowling results</title> 
+</TOPICS> 
+<DOCID type="str">695203665809</DOCID> 
+<DCT type="str">2017-01-29T06:05:00Z</DCT> 
+<TITLE type="str">Bowling results</TITLE> 
 </root>

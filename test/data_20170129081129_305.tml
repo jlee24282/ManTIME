@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Movie times are subject to change after press time. 
+<TEXT type="str">Movie times are subject to change after press time. 
  
 Bend — Old Mill 
  
@@ -124,9 +124,8 @@ Hidden Figures (PG) 1, 4, 7
  
 La La Land (Upstairs — PG-13) 1, 4, 7 
  
-The upstairs screening room has limited accessibility.</content> 
-<sequenceId type="str">695204943807</sequenceId> 
-<topics type="list"> 
+The upstairs screening room has limited accessibility.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -135,7 +134,8 @@ The upstairs screening room has limited accessibility.</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:07Z</estimatedPublishedDate> 
-<title type="str">Movie times for Sunday, Jan. 29</title> 
+</TOPICS> 
+<DOCID type="str">695204943807</DOCID> 
+<DCT type="str">2017-01-29T08:33:07Z</DCT> 
+<TITLE type="str">Movie times for Sunday, Jan. 29</TITLE> 
 </root>

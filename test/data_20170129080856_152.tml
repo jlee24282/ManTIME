@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Marriage Licenses Issued 
+<TEXT type="str">Marriage Licenses Issued 
  
 Potter County 
  
@@ -94,14 +94,14 @@ Michael Tarone Salvato, Susan Renea Salvato
  
 Michael Shane Bohannon, Nikki Delynn Bohannon 
  
-Brandi Brianne Bradley, Nicklas Lyndsey Bradley</content> 
-<sequenceId type="str">695199261306</sequenceId> 
-<topics type="list"> 
+Brandi Brianne Bradley, Nicklas Lyndsey Bradley</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:50:15Z</estimatedPublishedDate> 
-<title type="str">Marriages and divorces for Sunday, Jan. 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695199261306</DOCID> 
+<DCT type="str">2017-01-29T07:50:15Z</DCT> 
+<TITLE type="str">Marriages and divorces for Sunday, Jan. 29, 2017</TITLE> 
 </root>

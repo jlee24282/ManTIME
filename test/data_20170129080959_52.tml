@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sign in with Twitter 
+<TEXT type="str">Sign in with Twitter 
 
 Sign in with Facebook 
 
@@ -10,9 +10,8 @@ Sign in with Yahoo!
 
 Sign in with AOL 
 
-Sign in with LinkedIn</content> 
-<sequenceId type="str">695201651443</sequenceId> 
-<topics type="list"> 
+Sign in with LinkedIn</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -25,7 +24,8 @@ Sign in with LinkedIn</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:58Z</estimatedPublishedDate> 
-<title type="str">Protesters gather at Dulles International Airport</title> 
+</TOPICS> 
+<DOCID type="str">695201651443</DOCID> 
+<DCT type="str">2017-01-29T08:07:58Z</DCT> 
+<TITLE type="str">Protesters gather at Dulles International Airport</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The ruling out of New York was the first of several Saturday night and Sunday early morning. Rulings out of federal courts in Massachusetts, Virginia, and Washington — all siding with challengers to Trump’s executive order — followed. 
+<TEXT type="str">The ruling out of New York was the first of several Saturday night and Sunday early morning. Rulings out of federal courts in Massachusetts, Virginia, and Washington — all siding with challengers to Trump’s executive order — followed. 
 
 Chris Geidner BuzzFeed News Reporter Tom Namako BuzzFeed News Reporter Cora Lewis BuzzFeed News Reporter A federal judge in Brooklyn on Saturday evening granted a nationwide stay of removal — preventing deportation — for those people affected by President Trump’s Friday executive order stopping the refugee program and halting immigration from seven majority-Muslim countries.
 
@@ -44,9 +44,8 @@ The lawyers who brought the case come from International Refugee Assistance Proj
 
 The Massachusetts court’s order, meanwhile, will remain in effect for 7 days, with the court to schedule a further hearing before that time.
 
-Read the order in the New York case: Read the order in the Virginia case: Read the order in the Washington case: Read the order in the Massachusetts case: This is a developing story. Please check back at BuzzFeed News for more.</content> 
-<sequenceId type="str">695202677850</sequenceId> 
-<topics type="list"> 
+Read the order in the New York case: Read the order in the Virginia case: Read the order in the Washington case: Read the order in the Massachusetts case: This is a developing story. Please check back at BuzzFeed News for more.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -63,7 +62,8 @@ Read the order in the New York case: Read the order in the Virginia case: Read t
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:30:04Z</estimatedPublishedDate> 
-<title type="str">Federal Judges Push Back Against Trump Order, Stopping Deportations Nationwide</title> 
+</TOPICS> 
+<DOCID type="str">695202677850</DOCID> 
+<DCT type="str">2017-01-29T02:30:04Z</DCT> 
+<TITLE type="str">Federal Judges Push Back Against Trump Order, Stopping Deportations Nationwide</TITLE> 
 </root>

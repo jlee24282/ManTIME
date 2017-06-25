@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Next on  
+<TEXT type="str">Next on  
 S1E12  Pop-Up Monster  S1E12  Today, 7.50am 
  
 S1E14  Pop-up Ball Hero  S1E14  Saturday, 6.50am 
@@ -11,14 +11,14 @@ channel 5  Roobarb and Custard Too
    
 channel 5  Lazytown  
    
-channel 5  Milkshake Show Christmas Song 2</content> 
-<sequenceId type="str">695204480683</sequenceId> 
-<topics type="list"> 
+channel 5  Milkshake Show Christmas Song 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:50Z</estimatedPublishedDate> 
-<title type="str">Zack and Quack S1 E12 6.50am</title> 
+</TOPICS> 
+<DOCID type="str">695204480683</DOCID> 
+<DCT type="str">2017-01-29T08:29:50Z</DCT> 
+<TITLE type="str">Zack and Quack S1 E12 6.50am</TITLE> 
 </root>

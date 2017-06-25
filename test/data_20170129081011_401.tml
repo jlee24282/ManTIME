@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WATERLOO — When leading scorer Kyle Schott went down with an injury to start the new year, the Waterloo Warriors needed somebody to step up.
+<TEXT type="str">WATERLOO — When leading scorer Kyle Schott went down with an injury to start the new year, the Waterloo Warriors needed somebody to step up.
 
 Saturday afternoon, the entire team took the lead as seven players scored goals in an 8-1 Midwest High School Hockey League rout of Dubuque at Young Arena.
 
@@ -46,9 +46,8 @@ Dubuque 1 7 6 — 14
 
 Waterloo 18 20 10 — 48
 
-Goalies — Dubuque, Aiden Dewitt (35 saves), Carter Fens (5 saves). Waterloo, Dawson Sturch (13 saves).</content> 
-<sequenceId type="str">695202432419</sequenceId> 
-<topics type="list"> 
+Goalies — Dubuque, Aiden Dewitt (35 saves), Carter Fens (5 saves). Waterloo, Dawson Sturch (13 saves).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -57,7 +56,8 @@ Goalies — Dubuque, Aiden Dewitt (35 saves), Carter Fens (5 saves). Waterloo, D
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:15:00Z</estimatedPublishedDate> 
-<title type="str">Prep hockey: Warriors fill void, fill net in 8-1 victory</title> 
+</TOPICS> 
+<DOCID type="str">695202432419</DOCID> 
+<DCT type="str">2017-01-29T00:15:00Z</DCT> 
+<TITLE type="str">Prep hockey: Warriors fill void, fill net in 8-1 victory</TITLE> 
 </root>

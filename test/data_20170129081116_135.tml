@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mumbai: The fitness trainer of Under-19 Indian cricket team Rajesh Sawant was found dead in a private hotel on Sunday morning, police said.
+<TEXT type="str">Mumbai: The fitness trainer of Under-19 Indian cricket team Rajesh Sawant was found dead in a private hotel on Sunday morning, police said.
 
 The incident came to light when 40-year-old Sawant did not report for the training session in morning and so other team staff went to his room, they said.
 
@@ -14,9 +14,8 @@ The exact reason of his death will be ascertained only after post-mortem, Deputy
 
 The India team is scheduled to play five 50-over games and two four-day games against England Under-19 from Monday at Wankhede Stadium.
 
-Meanwhile, the India Under-19 team media conference which was to be addressed by the team&apos;s coach Rahul Dravid has been cancelled.</content> 
-<sequenceId type="str">695204314405</sequenceId> 
-<topics type="list"> 
+Meanwhile, the India Under-19 team media conference which was to be addressed by the team&apos;s coach Rahul Dravid has been cancelled.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -25,7 +24,8 @@ Meanwhile, the India Under-19 team media conference which was to be addressed by
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:24Z</estimatedPublishedDate> 
-<title type="str">U-19 cricket team trainer Rajesh Sawant found...</title> 
+</TOPICS> 
+<DOCID type="str">695204314405</DOCID> 
+<DCT type="str">2017-01-29T08:23:24Z</DCT> 
+<TITLE type="str">U-19 cricket team trainer Rajesh Sawant found...</TITLE> 
 </root>

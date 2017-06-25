@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FORT WORTH, Texas - American Airlines&apos; fourth-quarter profit fell but met Wall Street expectations, and a key measurement of revenue trends rose for the first time since late 2014, further evidence that airlines are finally starting to push average prices higher. 
+<TEXT type="str">FORT WORTH, Texas - American Airlines&apos; fourth-quarter profit fell but met Wall Street expectations, and a key measurement of revenue trends rose for the first time since late 2014, further evidence that airlines are finally starting to push average prices higher. 
  
 American executives echoed officials at other airlines in reporting that demand for travel has picked up since the November election. 
  
@@ -28,9 +28,8 @@ American is taking other steps to boost revenue. Next month it will start sellin
  
 American&apos;s costs, however, are rising sharply. Because of profit sharing and higher wages in new union contracts, the company spent $2.8 billion on labor in the fourth quarter, an increase of more than $400 million in a year, which CFRA Research analyst Jim Corridore called alarming. And American predicted that costs per mile would jump 9 percent in the first quarter. 
  
-&quot;It&apos;s great that they&apos;ve got unit revenue moving in the right direction, but investors are very focused on costs,&quot; Corridore said. He said that concern explained the stock&apos;s slide on Friday.</content> 
-<sequenceId type="str">695204317032</sequenceId> 
-<topics type="list"> 
+&quot;It&apos;s great that they&apos;ve got unit revenue moving in the right direction, but investors are very focused on costs,&quot; Corridore said. He said that concern explained the stock&apos;s slide on Friday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -51,7 +50,8 @@ American&apos;s costs, however, are rising sharply. Because of profit sharing an
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">American Airlines matches Wall Street forecast for 4Q despite decline in profits</title> 
+</TOPICS> 
+<DOCID type="str">695204317032</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">American Airlines matches Wall Street forecast for 4Q despite decline in profits</TITLE> 
 </root>

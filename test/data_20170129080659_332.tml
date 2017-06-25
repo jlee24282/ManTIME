@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Editor’s note: This is part of an ongoing series of question-and-answer segments with college athletes that will appear in the sports section on Sundays.
+<TEXT type="str">Editor’s note: This is part of an ongoing series of question-and-answer segments with college athletes that will appear in the sports section on Sundays.
 
 Question: How does it feel to get to 1,000 career points?
 
@@ -52,9 +52,8 @@ Follow @CuylerMeade_aan on Twitter. • 5-10 Senior forward
 
 • 11.26: Points per game this season
 
-• 6.35: Rebounds per game this season</content> 
-<sequenceId type="str">695194839828</sequenceId> 
-<topics type="list"> 
+• 6.35: Rebounds per game this season</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -63,7 +62,8 @@ Follow @CuylerMeade_aan on Twitter. • 5-10 Senior forward
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:55:31Z</estimatedPublishedDate> 
-<title type="str">Q&amp;A: Senior Sydney Larson looks back on a great career</title> 
+</TOPICS> 
+<DOCID type="str">695194839828</DOCID> 
+<DCT type="str">2017-01-29T02:55:31Z</DCT> 
+<TITLE type="str">Q&amp;A: Senior Sydney Larson looks back on a great career</TITLE> 
 </root>

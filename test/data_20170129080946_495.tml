@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Aaron Samuel has joined Russian club, PCF CSKA Moscow in a four-and-a-half-year deal.</content> 
-<sequenceId type="str">695201576271</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Aaron Samuel has joined Russian club, PCF CSKA Moscow in a four-and-a-half-year deal.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:12Z</estimatedPublishedDate> 
-<title type="str">Samuel joins CSKA Moscow</title> 
+</TOPICS> 
+<DOCID type="str">695201576271</DOCID> 
+<DCT type="str">2017-01-29T08:04:12Z</DCT> 
+<TITLE type="str">Samuel joins CSKA Moscow</TITLE> 
 </root>

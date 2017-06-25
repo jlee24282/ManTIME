@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695194833058</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Food industry news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Science</group> 
 <name type="str">Public health news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:34Z</estimatedPublishedDate> 
-<title type="str">DuPont to sell food safety diagnostics business</title> 
+</TOPICS> 
+<DOCID type="str">695194833058</DOCID> 
+<DCT type="str">2017-01-29T07:18:34Z</DCT> 
+<TITLE type="str">DuPont to sell food safety diagnostics business</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">KORIYAMA, Fukushima Prefecture--A dairy company here that has withstood fears and rumors about radiation has produced a hot-selling item in the middle of winter. 
+<TEXT type="str">KORIYAMA, Fukushima Prefecture--A dairy company here that has withstood fears and rumors about radiation has produced a hot-selling item in the middle of winter. 
  
 Within two weeks in November, the initial 6,000 cups of Rakuou Cafe au Lait Ice Cream, produced by Rakuounyugyou Co. in Koriyama, were nearly sold out. 
  
@@ -32,9 +32,8 @@ It is not the first time the social networking service has helped the dairy comp
  
 Cafe au Lait is being shipped to a growing number of retailers, most of them in the greater Tokyo area. Sales of the product are up 10 percent from pre-disaster levels. 
  
-“Word of our ice cream has also been spread by our fans,” the sales official said. “We are so grateful that we are reduced to tears.”</content> 
-<sequenceId type="str">695196380284</sequenceId> 
-<topics type="list"> 
+“Word of our ice cream has also been spread by our fans,” the sales official said. “We are so grateful that we are reduced to tears.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top stories</name> 
@@ -43,7 +42,8 @@ Cafe au Lait is being shipped to a growing number of retailers, most of them in 
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:02Z</estimatedPublishedDate> 
-<title type="str">Fukushima ice cream sales immune to fears of radiation January 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695196380284</DOCID> 
+<DCT type="str">2017-01-29T07:29:02Z</DCT> 
+<TITLE type="str">Fukushima ice cream sales immune to fears of radiation January 29, 2017</TITLE> 
 </root>

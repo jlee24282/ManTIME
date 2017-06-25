@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- American Hockey League (AHL) - Binghamton Senators News Release 
+<TEXT type="str">- American Hockey League (AHL) - Binghamton Senators News Release 
  
 BINGHAMTON, N.Y. - The Binghamton Senators were defeated by the visiting Wilkes-Barre/Scranton Penguins, 6-2, on Saturday night in front of 4,486 fans at Floyd L. Maines Veterans Memorial Arena. 
  
@@ -34,9 +34,8 @@ Stay current with the latest team news by visiting  www.binghamtonsenators.com.
 Tweet 
 
  
-The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</content> 
-<sequenceId type="str">695198806909</sequenceId> 
-<topics type="list"> 
+The opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -45,7 +44,8 @@ The opinions expressed in this release are those of the organization issuing it,
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:58:00Z</estimatedPublishedDate> 
-<title type="str">B-Sens Drop Final Game Before All-Star Break 6-2</title> 
+</TOPICS> 
+<DOCID type="str">695198806909</DOCID> 
+<DCT type="str">2017-01-29T02:58:00Z</DCT> 
+<TITLE type="str">B-Sens Drop Final Game Before All-Star Break 6-2</TITLE> 
 </root>

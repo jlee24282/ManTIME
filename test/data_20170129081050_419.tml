@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON – President Donald Trump’s executive order suspending refugee arrivals and banning entry to the U.S. from seven Muslim-majority countries spawned chaos and consternation across the globe Saturday, stranding unwitting travelers, prompting passionate debate over American values and igniting a fierce legal pushback that yielded early court victories for the president’s opponents. 
+<TEXT type="str">WASHINGTON – President Donald Trump’s executive order suspending refugee arrivals and banning entry to the U.S. from seven Muslim-majority countries spawned chaos and consternation across the globe Saturday, stranding unwitting travelers, prompting passionate debate over American values and igniting a fierce legal pushback that yielded early court victories for the president’s opponents. 
  
 The abrupt ban ensnared people from all walks of life who were caught in transit or expecting to soon return to the U.S. – not only refugees but students on a break from studies, business travelers and scientists, tourists and concert musicians, even the bereaved who had gone home for funerals. 
  
@@ -40,9 +40,8 @@ As the measure’s far-reaching effect became clear, and the airport chaos mount
  
 The move has hit the technology industry, which employs thousands of foreign-born workers, many from Muslim-majority countries. Google chief executive Sundai Pichar on Friday slammed Trump’s executive order in a memo to employees, saying about 100 employees were affected, and advising those traveling abroad to reach out to the company’s immigration teams for assistance. 
  
-In Congress, reaction to the immigration chaos tended to break down along party lines, with vociferous criticism from Democrats while Republicans largely remained silent.</content> 
-<sequenceId type="str">695203608453</sequenceId> 
-<topics type="list"> 
+In Congress, reaction to the immigration chaos tended to break down along party lines, with vociferous criticism from Democrats while Republicans largely remained silent.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -59,7 +58,8 @@ In Congress, reaction to the immigration chaos tended to break down along party 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:57:17Z</estimatedPublishedDate> 
-<title type="str">Judges block Trump’s immigration order amid chaos at airports worldwide - Sat, 28 Jan 2017 PST</title> 
+</TOPICS> 
+<DOCID type="str">695203608453</DOCID> 
+<DCT type="str">2017-01-29T07:57:17Z</DCT> 
+<TITLE type="str">Judges block Trump’s immigration order amid chaos at airports worldwide - Sat, 28 Jan 2017 PST</TITLE> 
 </root>

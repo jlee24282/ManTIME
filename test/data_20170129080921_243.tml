@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">West Branch&apos;s Natalie Zuchowski (50) and Sarah Tennefoss (24) attempt to block a basket by Salem&apos;s Chloe Cheresne (23) on Saturday. (Salem News/Patti Schaeffer)
+<TEXT type="str">West Branch&apos;s Natalie Zuchowski (50) and Sarah Tennefoss (24) attempt to block a basket by Salem&apos;s Chloe Cheresne (23) on Saturday. (Salem News/Patti Schaeffer)
 
 SALEM — State-ranked West Branch’s winning streak reached 13 games as the Warriors routed Salem, 52-27, Saturday afternoon.
 
@@ -64,9 +64,8 @@ CANTON — The Salem boys basketball team hit the road on Friday and came out on
 
 Today&apos;s breaking news and more in your inbox
 
-Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</content> 
-<sequenceId type="str">695200417459</sequenceId> 
-<topics type="list"> 
+Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Cleveland news</name> 
@@ -75,7 +74,8 @@ Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, O
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:58Z</estimatedPublishedDate> 
-<title type="str">Warriors reach lucky 13, pummel Quakers</title> 
+</TOPICS> 
+<DOCID type="str">695200417459</DOCID> 
+<DCT type="str">2017-01-29T07:59:58Z</DCT> 
+<TITLE type="str">Warriors reach lucky 13, pummel Quakers</TITLE> 
 </root>

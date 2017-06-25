@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- Raghav Team - Performance</content> 
-<sequenceId type="str">695197301170</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">- Raghav Team - Performance</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:12Z</estimatedPublishedDate> 
-<title type="str">Yahan Main Ghar Ghar Kheli - Episode 505</title> 
+</TOPICS> 
+<DOCID type="str">695197301170</DOCID> 
+<DCT type="str">2017-01-29T07:22:12Z</DCT> 
+<TITLE type="str">Yahan Main Ghar Ghar Kheli - Episode 505</TITLE> 
 </root>

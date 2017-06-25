@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One week into the Trump era and there is a serious case of political whiplash in America&apos;s capital. 
+<TEXT type="str">One week into the Trump era and there is a serious case of political whiplash in America&apos;s capital. 
  Donald Trump hurtled through his first week in power, punching out at critics, dishing up &quot;alternative facts,&quot; polarizing public opinion and making good on an electoral promise to shake up Washington. 
 One week into the Trump era and there is a serious case of political whiplash in America&apos;s capital. 
 
@@ -92,9 +92,8 @@ Brian Klaas, an expert on global democracy at the London School of Economics, se
 
 Mindy Finn, who ran as a independent vice presidential candidate, summed up Trump&apos;s strategy as &quot;sow chaos, deepen division and consolidate power.&quot; 
 
-For his harshest critics, the question is now whether Donald Trump breaks the presidency, or whether the presidency breaks Donald Trump.</content> 
-<sequenceId type="str">695195700192</sequenceId> 
-<topics type="list"> 
+For his harshest critics, the question is now whether Donald Trump breaks the presidency, or whether the presidency breaks Donald Trump.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -107,7 +106,8 @@ For his harshest critics, the question is now whether Donald Trump breaks the pr
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:10:04Z</estimatedPublishedDate> 
-<title type="str">Donal Trump: U.S president&apos;s first week in power</title> 
+</TOPICS> 
+<DOCID type="str">695195700192</DOCID> 
+<DCT type="str">2017-01-29T07:10:04Z</DCT> 
+<TITLE type="str">Donal Trump: U.S president&apos;s first week in power</TITLE> 
 </root>

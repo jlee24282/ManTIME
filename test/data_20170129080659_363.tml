@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Q: I have been taking melatonin for years to help me sleep. I read that as your body ages, it makes less of this natural sleep substance. 
+<TEXT type="str">Q: I have been taking melatonin for years to help me sleep. I read that as your body ages, it makes less of this natural sleep substance. 
    
 I try to avoid sleeping pills. The TV commercials for such medications scare me when they describe horrible side effects. 
    
@@ -26,14 +26,14 @@ Now that you have stopped the medications, you might be able to control your blo
    
 Q: You have written about white-coat hypertension. My solution is to have my physician take my blood pressure after the exam rather than before. That way, I have time to relax and get through the exam. My blood pressure usually is fine, whereas at the start of the visit it is often elevated. 
    
-A:Your approach is sensible. Perhaps others will benefit from your experience .</content> 
-<sequenceId type="str">695194855055</sequenceId> 
-<topics type="list"> 
+A:Your approach is sensible. Perhaps others will benefit from your experience .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:00:00Z</estimatedPublishedDate> 
-<title type="str">People&apos;s Pharmacy: Is melatonin too risky for older insomniacs?</title> 
+</TOPICS> 
+<DOCID type="str">695194855055</DOCID> 
+<DCT type="str">2017-01-29T05:00:00Z</DCT> 
+<TITLE type="str">People&apos;s Pharmacy: Is melatonin too risky for older insomniacs?</TITLE> 
 </root>

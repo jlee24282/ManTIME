@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">| News Source: L.A. Times - Africa   
+<TEXT type="str">| News Source: L.A. Times - Africa   
 President Trump’s executive order suspending refugee arrivals and banning entry to the U.S. from seven Muslim-majority countries spawned chaos and consternation across the globe Saturday, stranding unwitting travelers, prompting passionate debate over American values and igniting a fierce legal... 
  
-Original URL: Click here to visit original article</content> 
-<sequenceId type="str">695201600851</sequenceId> 
-<topics type="list"> 
+Original URL: Click here to visit original article</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
@@ -18,7 +17,8 @@ Original URL: Click here to visit original article</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:33Z</estimatedPublishedDate> 
-<title type="str">Trump’s ban on some U.S. entries sparks confusion and protest worldwide, and legal rebukes at home</title> 
+</TOPICS> 
+<DOCID type="str">695201600851</DOCID> 
+<DCT type="str">2017-01-29T08:07:33Z</DCT> 
+<TITLE type="str">Trump’s ban on some U.S. entries sparks confusion and protest worldwide, and legal rebukes at home</TITLE> 
 </root>

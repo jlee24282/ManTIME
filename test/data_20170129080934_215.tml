@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">You can’t believe everything your parents told you any more. The world is changing so fast that if my parents were still around, they’d likely be shaking their head. 
+<TEXT type="str">You can’t believe everything your parents told you any more. The world is changing so fast that if my parents were still around, they’d likely be shaking their head. 
  
 Life might be easier today, but back then it was much simpler. 
  
@@ -24,9 +24,8 @@ My dad was good with his hands. Me? I get by. I’m not sure what advice of mine
  
 Part of growing up is being able to decide what advice your parents gave you that you should heed and which you should ignore. Parental advice that is quickly obsolete can’t be good for society. Maybe it’s time to focus more on philosophical advice rather than the mechanical/technical challenges in life. 
   
-Roger Ruthhart is managing editor of The Dispatch and The Rock Island Argus. His column appears each Sunday.</content> 
-<sequenceId type="str">695200917281</sequenceId> 
-<topics type="list"> 
+Roger Ruthhart is managing editor of The Dispatch and The Rock Island Argus. His column appears each Sunday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -35,7 +34,8 @@ Roger Ruthhart is managing editor of The Dispatch and The Rock Island Argus. His
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:09Z</estimatedPublishedDate> 
-<title type="str">Is technology making parental advice obsolete?</title> 
+</TOPICS> 
+<DOCID type="str">695200917281</DOCID> 
+<DCT type="str">2017-01-29T06:00:09Z</DCT> 
+<TITLE type="str">Is technology making parental advice obsolete?</TITLE> 
 </root>

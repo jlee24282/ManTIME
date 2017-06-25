@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ryan Fazekas and Kyron Cartwright celebrate PHOTO: Friars.com
+<TEXT type="str">Ryan Fazekas and Kyron Cartwright celebrate PHOTO: Friars.com
 
 Ryan Fazekas poured in 11 points in 20 minutes of action off the bench to help the Providence College Friars to their first ever win at Marquette, 79-78 on Saturday afternoon. 
 
@@ -46,9 +46,8 @@ Next up
 
 The Friars return to action on Wednesday, February 1 when they host #1 Villanova at the Dunkin&apos; Donuts Center. 
 
-Tip-off is set for 7 p.m.</content> 
-<sequenceId type="str">695199794930</sequenceId> 
-<topics type="list"> 
+Tip-off is set for 7 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -61,7 +60,8 @@ Tip-off is set for 7 p.m.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:00Z</estimatedPublishedDate> 
-<title type="str">Sports | Fazekas’ 11 Points Helps PC to First Ever Win at Marquette 79-78</title> 
+</TOPICS> 
+<DOCID type="str">695199794930</DOCID> 
+<DCT type="str">2017-01-29T07:14:00Z</DCT> 
+<TITLE type="str">Sports | Fazekas’ 11 Points Helps PC to First Ever Win at Marquette 79-78</TITLE> 
 </root>

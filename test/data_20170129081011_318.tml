@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Premier League Tournament Tier A, Super Eight: Colombo Cricket Club v Nondescripts Cricket Club at Colombo (PSS), Jan 28-31, 2017 
+<TEXT type="str">Premier League Tournament Tier A, Super Eight: Colombo Cricket Club v Nondescripts Cricket Club at Colombo (PSS), Jan 28-31, 2017 
          
 Nondescripts Cricket Club 
  
 Colombo Cricket Club 
  
-Nondescripts Cricket Club trail by 91 runs with 10 wickets remaining</content> 
-<sequenceId type="str">695202382730</sequenceId> 
-<topics type="list"> 
+Nondescripts Cricket Club trail by 91 runs with 10 wickets remaining</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -17,7 +16,8 @@ Nondescripts Cricket Club trail by 91 runs with 10 wickets remaining</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:24Z</estimatedPublishedDate> 
-<title type="str">Colombo Cricket Club 293/10 * v Nondescripts Cricket Club 200/10</title> 
+</TOPICS> 
+<DOCID type="str">695202382730</DOCID> 
+<DCT type="str">2017-01-29T08:13:24Z</DCT> 
+<TITLE type="str">Colombo Cricket Club 293/10 * v Nondescripts Cricket Club 200/10</TITLE> 
 </root>

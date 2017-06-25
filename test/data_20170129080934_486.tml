@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arsenal ran riot on the south-coast yesterday in the FA Cup, and the manager will now have some serious thinking to do in order to realise his best starting line-up. 
+<TEXT type="str">Arsenal ran riot on the south-coast yesterday in the FA Cup, and the manager will now have some serious thinking to do in order to realise his best starting line-up. 
  
 The Gunners beat Southampton 5-0 yesterday, thanks to Danny Welbeck and Theo Walcott with the five combined goals. 
  
@@ -16,9 +16,8 @@ Lucas Perez is another player who has really opened my eyes in his recent outing
  
 Which of our FA Cup team do you think most deserves a shot at a permanent first-team role in the coming weeks? If you had to choose your XI to play Chelsea today, who would you pick? 
  
-Pat J</content> 
-<sequenceId type="str">695201161037</sequenceId> 
-<topics type="list"> 
+Pat J</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -35,7 +34,8 @@ Pat J</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:17Z</estimatedPublishedDate> 
-<title type="str">Arsenal stars give Wenger serious selection head-ache</title> 
+</TOPICS> 
+<DOCID type="str">695201161037</DOCID> 
+<DCT type="str">2017-01-29T07:33:17Z</DCT> 
+<TITLE type="str">Arsenal stars give Wenger serious selection head-ache</TITLE> 
 </root>

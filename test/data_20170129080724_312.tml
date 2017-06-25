@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">More than 350 families attend &quot;Hugs Not Walls&quot; event in El Paso 
+<TEXT type="str">More than 350 families attend &quot;Hugs Not Walls&quot; event in El Paso 
 
 Updated: Jan 28, 2017 11:32 PM MST 
 
@@ -22,9 +22,8 @@ During the embrace, family members tried to forget about politics but ended up s
 
 According to Garcia, the BNHR denounces policies of separation and deportation that have torn families apart and left American communities in a state of suffering. 
 
-Garcia added that today’s event was the biggest turnout so far. He also plan on organizing a fourth event but he doesn’t know when that will be.</content> 
-<sequenceId type="str">695195896517</sequenceId> 
-<topics type="list"> 
+Garcia added that today’s event was the biggest turnout so far. He also plan on organizing a fourth event but he doesn’t know when that will be.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Central America news</name> 
@@ -41,7 +40,8 @@ Garcia added that today’s event was the biggest turnout so far. He also plan o
 <group type="str">Society</group> 
 <name type="str">US immigration news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:30Z</estimatedPublishedDate> 
-<title type="str">Hundreds of families divided by U.S.-Mexico border reunite</title> 
+</TOPICS> 
+<DOCID type="str">695195896517</DOCID> 
+<DCT type="str">2017-01-29T07:25:30Z</DCT> 
+<TITLE type="str">Hundreds of families divided by U.S.-Mexico border reunite</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON – Facing intense criticism and dramatic news coverage of chaos and protests at airports worldwide, several congressional Republicans on Saturday questioned President Trump&apos;s order to halt admission to the United States by refugees and citizens of seven Muslim-majority countries. 
+<TEXT type="str">WASHINGTON – Facing intense criticism and dramatic news coverage of chaos and protests at airports worldwide, several congressional Republicans on Saturday questioned President Trump&apos;s order to halt admission to the United States by refugees and citizens of seven Muslim-majority countries. 
    
 House Speaker Paul Ryan, R-Wis., and Senate Majority Leader Mitch McConnell, R-Ky., were not among them. 
    
@@ -80,9 +80,8 @@ Most Republicans, McMullin predicted, would decline to criticize the executive o
    
 – – – 
    
-The Washington Post&apos;s Sean Sullivan and David Weigel contributed to this report.</content> 
-<sequenceId type="str">695195004447</sequenceId> 
-<topics type="list"> 
+The Washington Post&apos;s Sean Sullivan and David Weigel contributed to this report.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -99,7 +98,8 @@ The Washington Post&apos;s Sean Sullivan and David Weigel contributed to this re
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:07Z</estimatedPublishedDate> 
-<title type="str">Some Republicans decry Trump&apos;s travel ban, others defend it</title> 
+</TOPICS> 
+<DOCID type="str">695195004447</DOCID> 
+<DCT type="str">2017-01-29T07:20:07Z</DCT> 
+<TITLE type="str">Some Republicans decry Trump&apos;s travel ban, others defend it</TITLE> 
 </root>

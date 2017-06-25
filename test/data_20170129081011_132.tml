@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo of Jansen Harkins courtesy of PG Cougars and Brett Cullen Photography 
+<TEXT type="str">Photo of Jansen Harkins courtesy of PG Cougars and Brett Cullen Photography 
    
 The Prince George Cougars posted their most lopsided victory of the season Saturday, 11-3 over the Edmonton Oil Kings. 
  
@@ -14,9 +14,8 @@ Colby McAuley scored twice and assisted on two others, Radovan Bondra had two go
  
 It was the 10th consecutive loss for the Oil Kings. 
  
-The same teams meet again today (Sunday) in Edmonton.</content> 
-<sequenceId type="str">695202202924</sequenceId> 
-<topics type="list"> 
+The same teams meet again today (Sunday) in Edmonton.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -25,7 +24,8 @@ The same teams meet again today (Sunday) in Edmonton.</content>
 <group type="str">Industry</group> 
 <name type="str">Oil and gas news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:17Z</estimatedPublishedDate> 
-<title type="str">Harkins sets a club record as the Cougars crush the Oil Kings</title> 
+</TOPICS> 
+<DOCID type="str">695202202924</DOCID> 
+<DCT type="str">2017-01-29T08:01:17Z</DCT> 
+<TITLE type="str">Harkins sets a club record as the Cougars crush the Oil Kings</TITLE> 
 </root>

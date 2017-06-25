@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jan. 28, 2017 
+<TEXT type="str">Jan. 28, 2017 
 By: Tim Andrzejewski ( tim.andrzejewski@rice.edu ) 
 
 Box Score | Box Score   
@@ -27,9 +27,8 @@ Rhoades added, &quot;I&apos;m really proud of our defense. (Charlotte) is a hard
  
 Rice shot 55.4% (31-of-56) from the floor, including 44.4% (8-of-18) from three and 77.8% (14-of-18) from the free throw line. Charlotte was held to 26-of-69 (37.7%) from the field and 5-of-20 (25.0%) from three. Rice also outrebounded the 49ers, 43-to-30. 
  
-Rice opens a three-game road trip next Saturday, Feb. 4, when it travels to Denton to face North Texas. Tip-off is scheduled for 2 p.m. CT and will be live-streamed by CUSA.tv.</content> 
-<sequenceId type="str">695198995726</sequenceId> 
-<topics type="list"> 
+Rice opens a three-game road trip next Saturday, Feb. 4, when it travels to Denton to face North Texas. Tip-off is scheduled for 2 p.m. CT and will be live-streamed by CUSA.tv.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -42,7 +41,8 @@ Rice opens a three-game road trip next Saturday, Feb. 4, when it travels to Dent
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T03:53:00Z</estimatedPublishedDate> 
-<title type="str">M. Basketball. Rice Uses Late Run to Pull Away From Charlotte, 84-67</title> 
+</TOPICS> 
+<DOCID type="str">695198995726</DOCID> 
+<DCT type="str">2017-01-29T03:53:00Z</DCT> 
+<TITLE type="str">M. Basketball. Rice Uses Late Run to Pull Away From Charlotte, 84-67</TITLE> 
 </root>

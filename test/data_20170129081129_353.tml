@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Submit a correction | Search events 
+<TEXT type="str">Submit a correction | Search events 
 
 San Diego’s leg of the annual PGA Tour marks the 51st time time the event has been held at Torrey Pines Golf Course and the 8th year Farmers Insurance has sponsored the tournament. Tiger Woods just announced that he’ll be back this year, his first official PGA start since the Wyndham Championship in August 2015. 
 
@@ -64,14 +64,14 @@ Earn up to $25 for album reviews.
 
 Earn up to $50 for travel stories. 
 
-Earn up to $50 for water stories.</content> 
-<sequenceId type="str">695204965894</sequenceId> 
-<topics type="list"> 
+Earn up to $50 for water stories.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Insurance industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:15Z</estimatedPublishedDate> 
-<title type="str">Sun 1/29: Farmers Insurance Open</title> 
+</TOPICS> 
+<DOCID type="str">695204965894</DOCID> 
+<DCT type="str">2017-01-29T08:33:15Z</DCT> 
+<TITLE type="str">Sun 1/29: Farmers Insurance Open</TITLE> 
 </root>

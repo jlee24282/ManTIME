@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tehran, Jan 29 (AFP) Iran’s Foreign Minister Mohammad Javad Zarif said today that US President Donald Trump’s decision to ban arrivals from seven Muslim majority countries was “a great gift to extremists”. 
+<TEXT type="str">Tehran, Jan 29 (AFP) Iran’s Foreign Minister Mohammad Javad Zarif said today that US President Donald Trump’s decision to ban arrivals from seven Muslim majority countries was “a great gift to extremists”. 
  
 “#MuslimBan will be recorded in history as a great gift to extremists and their supporters,” Zarif said as part of a string of tweets. 
  
@@ -22,9 +22,8 @@ The foreign ministry released a travel advisory, calling on all citizens travell
  
 Travel agents in Tehran said Saturday they had been instructed by foreign airlines, including Emirates, Etihad and Turkish Airlines, not to sell US tickets and that Iranians holding American visas were not being allowed to board US-bound flights.(AFP) 
  
-This is published unedited from the PTI feed.</content> 
-<sequenceId type="str">695197162174</sequenceId> 
-<topics type="list"> 
+This is published unedited from the PTI feed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -33,7 +32,8 @@ This is published unedited from the PTI feed.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:33:12Z</estimatedPublishedDate> 
-<title type="str">Trump travel ban ‘great gift to extremists’: Iran FM</title> 
+</TOPICS> 
+<DOCID type="str">695197162174</DOCID> 
+<DCT type="str">2017-01-29T07:33:12Z</DCT> 
+<TITLE type="str">Trump travel ban ‘great gift to extremists’: Iran FM</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Technology  Jan. 29, 2017 - 03:33PM JST (  ) 
+<TEXT type="str">Technology  Jan. 29, 2017 - 03:33PM JST (  ) 
   
 SAN FRANCISCO — 
  
@@ -26,9 +26,8 @@ A concern expressed by Musk was that highly advanced artificial intelligence wou
  
 People joining tech company executives on the Partnership board included Dario Amodei of Open AI along with members of the American Civil Liberties Union; the MacArthur Foundation, and the University of California, Berkeley. 
  
-© 2017 AFP</content> 
-<sequenceId type="str">695198924294</sequenceId> 
-<topics type="list"> 
+© 2017 AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -37,7 +36,8 @@ People joining tech company executives on the Partnership board included Dario A
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:33:21Z</estimatedPublishedDate> 
-<title type="str">Technology › Apple joins group devoted to keeping AI nice</title> 
+</TOPICS> 
+<DOCID type="str">695198924294</DOCID> 
+<DCT type="str">2017-01-29T06:33:21Z</DCT> 
+<TITLE type="str">Technology › Apple joins group devoted to keeping AI nice</TITLE> 
 </root>

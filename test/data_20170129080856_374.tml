@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Alphabet Inc.&apos;s Google, Apple Inc., Facebook Inc., Microsoft Corp., Uber Technologies Inc. and other companies expressed concern about the immigration order&apos;s effect on their employees, with some executives saying the ban violated their personal and company principles. 
+<TEXT type="str">Alphabet Inc.&apos;s Google, Apple Inc., Facebook Inc., Microsoft Corp., Uber Technologies Inc. and other companies expressed concern about the immigration order&apos;s effect on their employees, with some executives saying the ban violated their personal and company principles. 
  
 The ramifications of tighter immigration rules stretch from finance to meat packing to construction. In Silicon Valley, which relies on skilled foreigners to fill key roles, the order resonates with prominent founders, executives and engineers, many of whom were also foreign-born. 
  
@@ -63,9 +63,8 @@ Write to Jack Nicas at jack.nicas@wsj.com
 (END) Dow Jones Newswires 
  
 January 29, 2017 01:10 ET (06:10 GMT) 
-Copyright (c) 2017 Dow Jones &amp; Company, Inc.</content> 
-<sequenceId type="str">695199521280</sequenceId> 
-<topics type="list"> 
+Copyright (c) 2017 Dow Jones &amp; Company, Inc.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Real estate news</name> 
@@ -94,7 +93,8 @@ Copyright (c) 2017 Dow Jones &amp; Company, Inc.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:51:58Z</estimatedPublishedDate> 
-<title type="str">Silicon Valley Leaders Target Donald Trump&apos;s Travel Restrictions -- Update</title> 
+</TOPICS> 
+<DOCID type="str">695199521280</DOCID> 
+<DCT type="str">2017-01-29T07:51:58Z</DCT> 
+<TITLE type="str">Silicon Valley Leaders Target Donald Trump&apos;s Travel Restrictions -- Update</TITLE> 
 </root>

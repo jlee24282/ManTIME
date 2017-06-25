@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Topix  ›  Utah  ›  Elementary students raise trout in cl...     
+<TEXT type="str">Topix  ›  Utah  ›  Elementary students raise trout in cl...     
 ADVANCE FOR WEEKEND OF JAN. 28 AND THEREAFTER- Kenadie Sanders paints a picture of a rainbow trout on Tuesday, Jan. 24, 2017, at Park Elementary in Richmond, Utah. 
  
 Start the conversation, or Read more at Greenwich Citizen. 
@@ -13,9 +13,8 @@ Comments
       
 
    
-Copyright © 2017 Topix LLC</content> 
-<sequenceId type="str">695198446735</sequenceId> 
-<topics type="list"> 
+Copyright © 2017 Topix LLC</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -24,7 +23,8 @@ Copyright © 2017 Topix LLC</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T18:25:04Z</estimatedPublishedDate> 
-<title type="str">Elementary students raise trout in classrooms</title> 
+</TOPICS> 
+<DOCID type="str">695198446735</DOCID> 
+<DCT type="str">2017-01-28T18:25:04Z</DCT> 
+<TITLE type="str">Elementary students raise trout in classrooms</TITLE> 
 </root>

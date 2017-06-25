@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A child has been born in an Iranian hospital after 14 years of cryopreservation, the process of preserving an embryo at sub-zero temperatures. 
+<TEXT type="str">A child has been born in an Iranian hospital after 14 years of cryopreservation, the process of preserving an embryo at sub-zero temperatures. 
  
 According to Dr. Asadollah Kalantari, a founding member of Isfahan’s Fertility &amp; Infertility Center, on Saturday, the child was born in full health, adding that the 42-year-mother was also in a suitable medical condition. 
  
@@ -8,9 +8,8 @@ He added that this is the first time a child has been born with the use of an em
  
 “The newborn’s mother experienced two Ectopic pregnancies 25 years ago that resulted in her inability to get pregnant. In 2003, an embryo was implanted in her womb via in vitro fertilization, or IVF, but the baby did not survive to be born,” he added.      
  
-Kalantari also said that there are currently 100,000 fertilized frozen embryos being kept in the facility in Esfahan.</content> 
-<sequenceId type="str">695200833998</sequenceId> 
-<topics type="list"> 
+Kalantari also said that there are currently 100,000 fertilized frozen embryos being kept in the facility in Esfahan.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -19,7 +18,8 @@ Kalantari also said that there are currently 100,000 fertilized frozen embryos b
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:34Z</estimatedPublishedDate> 
-<title type="str">Baby born in Iran after 14-year cryopreservation 7hr</title> 
+</TOPICS> 
+<DOCID type="str">695200833998</DOCID> 
+<DCT type="str">2017-01-29T08:02:34Z</DCT> 
+<TITLE type="str">Baby born in Iran after 14-year cryopreservation 7hr</TITLE> 
 </root>

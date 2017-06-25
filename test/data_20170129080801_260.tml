@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A police officer attached Wagle Estate police station here was allegedly knocked down by a youth, police said today.</content> 
-<sequenceId type="str">695197126116</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">A police officer attached Wagle Estate police station here was allegedly knocked down by a youth, police said today.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Police news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:08Z</estimatedPublishedDate> 
-<title type="str">Cop knocked down by youth</title> 
+</TOPICS> 
+<DOCID type="str">695197126116</DOCID> 
+<DCT type="str">2017-01-29T07:30:08Z</DCT> 
+<TITLE type="str">Cop knocked down by youth</TITLE> 
 </root>

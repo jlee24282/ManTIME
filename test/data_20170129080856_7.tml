@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">German prosecutors said for the first time Friday that they had evidence that Volkswagen&apos;s former chief executive took part in the company&apos;s emissions fraud, significantly raising the stakes for the carmaker and undercutting its attempts to put the scandal behind it.
+<TEXT type="str">German prosecutors said for the first time Friday that they had evidence that Volkswagen&apos;s former chief executive took part in the company&apos;s emissions fraud, significantly raising the stakes for the carmaker and undercutting its attempts to put the scandal behind it.
 
 Martin Winterkorn, who resigned as chief executive in September 2015 after the emissions cheating came to light, is under investigation for fraud and false advertising, according to prosecutors in Germany. The authorities also increased the total number of people under investigation and portrayed a far more extensive conspiracy than before. Winterkorn and Hans Dieter Poetsch, the Volkswagen supervisory board chairman, were already under investigation for violations of securities laws. But the new fraud allegations suggest that prosecutors suspect Winterkorn had a more active role than he or the company have acknowledged.
 
@@ -12,9 +12,8 @@ This month, Volkswagen pleaded guilty to violations of the Clean Air Act in a se
 
 Just last week, Winterkorn told a committee of the German Parliament that he had heard of the illegal software only days before the scandal came to light, and in a statement Friday he stood by that testimony.
 
-US federal authorities have indicted six former and current Volkswagen employees on charges of conspiring to defraud the government by programming pollution controls in diesel motors to function properly only when software detected that a test was underway.</content> 
-<sequenceId type="str">695199052956</sequenceId> 
-<topics type="list"> 
+US federal authorities have indicted six former and current Volkswagen employees on charges of conspiring to defraud the government by programming pollution controls in diesel motors to function properly only when software detected that a test was underway.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -39,7 +38,8 @@ US federal authorities have indicted six former and current Volkswagen employees
 <group type="str">Business</group> 
 <name type="str">European business news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T18:24:17Z</estimatedPublishedDate> 
-<title type="str">Germany investigates ex-Volkswagen chief in emissions-cheating scandal</title> 
+</TOPICS> 
+<DOCID type="str">695199052956</DOCID> 
+<DCT type="str">2017-01-28T18:24:17Z</DCT> 
+<TITLE type="str">Germany investigates ex-Volkswagen chief in emissions-cheating scandal</TITLE> 
 </root>

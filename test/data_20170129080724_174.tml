@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">COLUMBUS — Huntington Bancshares reported a 19 percent increase in net income for the quarter ending Dec. 31 over the previous year. 
+<TEXT type="str">COLUMBUS — Huntington Bancshares reported a 19 percent increase in net income for the quarter ending Dec. 31 over the previous year. 
  
 The company reported net income for the 2016 fourth quarter of $212 million, 19 percent higher from the year-ago quarter. Earnings per common share for the 2016 fourth quarter were 18 cents, down 14 percent from the year-ago quarter. 
  
@@ -26,9 +26,8 @@ Total revenue increased 18 percent over the prior year.
  
 * $62 million, or 23 percent, increase in noninterest income, including a $19 million, or 26 percent, increase in service charges on deposit accounts, a $15 million, or 147 percent, increase in gain on sale of loans, and a $12 million, or 31 percent, increase in cards and payment processing income. 
  
-* Net charge-offs represented 0.26 percent of average loans and leases, up from 0.18 percent.</content> 
-<sequenceId type="str">695195769654</sequenceId> 
-<topics type="list"> 
+* Net charge-offs represented 0.26 percent of average loans and leases, up from 0.18 percent.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">US banking news</name> 
@@ -37,7 +36,8 @@ Total revenue increased 18 percent over the prior year.
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:32Z</estimatedPublishedDate> 
-<title type="str">Huntington Bancshares reports increase in net income</title> 
+</TOPICS> 
+<DOCID type="str">695195769654</DOCID> 
+<DCT type="str">2017-01-29T07:24:32Z</DCT> 
+<TITLE type="str">Huntington Bancshares reports increase in net income</TITLE> 
 </root>

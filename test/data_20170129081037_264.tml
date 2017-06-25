@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Brothers Abdulraouf and Sultan al-Zahab and Saif Alawai al-Jawfi were killed in the strikes carried out by drones and Apache helicopters, they said.</content> 
-<sequenceId type="str">695203078236</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Brothers Abdulraouf and Sultan al-Zahab and Saif Alawai al-Jawfi were killed in the strikes carried out by drones and Apache helicopters, they said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:13Z</estimatedPublishedDate> 
-<title type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</title> 
+</TOPICS> 
+<DOCID type="str">695203078236</DOCID> 
+<DCT type="str">2017-01-29T08:10:13Z</DCT> 
+<TITLE type="str">US raid kills Qaeda-linked Yemen tribe chiefs: sources</TITLE> 
 </root>

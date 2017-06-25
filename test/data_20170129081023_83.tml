@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">If forecasts are accurate, 2017 will bring something we haven’t seen in five years — higher gas prices. 
+<TEXT type="str">If forecasts are accurate, 2017 will bring something we haven’t seen in five years — higher gas prices. 
  
 Following high prices and volatility during the Great Recession and its aftermath, average gasoline prices have been steadily dropping since 2012. 
  
@@ -82,9 +82,8 @@ IndyGo started using fuel contracts a few years back, Luellen said, when prices 
  
 “This has been our strategy for several years, to evaluate the market and lock in when it’s advantageous,” he said. 
  
-“The fluctuations are really damaging to the business, and we need predictability.”</content> 
-<sequenceId type="str">695202523147</sequenceId> 
-<topics type="list"> 
+“The fluctuations are really damaging to the business, and we need predictability.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -97,7 +96,8 @@ IndyGo started using fuel contracts a few years back, Luellen said, when prices 
 <group type="str">US regional</group> 
 <name type="str">Indianapolis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:26Z</estimatedPublishedDate> 
-<title type="str">Pain at the pump: Gas prices heading up after years of decline</title> 
+</TOPICS> 
+<DOCID type="str">695202523147</DOCID> 
+<DCT type="str">2017-01-29T08:14:26Z</DCT> 
+<TITLE type="str">Pain at the pump: Gas prices heading up after years of decline</TITLE> 
 </root>

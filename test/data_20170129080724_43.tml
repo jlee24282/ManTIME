@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This past weekend celebrities, insiders, and more took over the streets of Park City for the  Sundance Film Festival . One of the top hitters for the festival, Debbie Durkin returned to Main Street for her 10th Annual EcoLuxe Lounge. 
+<TEXT type="str">This past weekend celebrities, insiders, and more took over the streets of Park City for the  Sundance Film Festival . One of the top hitters for the festival, Debbie Durkin returned to Main Street for her 10th Annual EcoLuxe Lounge. 
  Taking place at the Blue Iguana the suite went to benefit  Shriners for Children Medical Center . Members were onsite to discuss the hospitals mission and spread the news of the new facility opening in Pasadena, CA in July 2017. Shriners for Children Medical Center is a true advocate for helping children and giving hope to change countless lives.  Not new to spreading positivity, Real Housewives of Orange County star, Gretchen Rossi was onsite to host the  Choices Recovery Media Center . She interviewed festival attendees and notables about the growing problem of addiction in the US. Her husband, Slade, was also onsite to spread the word and gauge guests about the pressing issue.    
 Guests were able to munch on foods by Executive Chef Dean Hottle from  Snake Creek Grille  in Heber, Utah or oatmeal by  Modern Oats  while enjoying cocktails by  Tito&apos;s Vodka  and  Tsingtao beer,  or coffee by  Park City Coffee Roaste , while listening to music by “Vanderpump Rules” star DJ Mike Shay of DAT DOPE GROUP. 
  
@@ -28,9 +28,8 @@ Debbie Durkin&apos;s EcoLuxe Lounge celebrated it&apos;s 10th Anniversary and se
  
   
  
- </content> 
-<sequenceId type="str">695195648292</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -39,7 +38,8 @@ Debbie Durkin&apos;s EcoLuxe Lounge celebrated it&apos;s 10th Anniversary and se
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:23:31Z</estimatedPublishedDate> 
-<title type="str">EcoLuxe Lounge Review - Celebrating its 10th Year at Sundance Film Festival</title> 
+</TOPICS> 
+<DOCID type="str">695195648292</DOCID> 
+<DCT type="str">2017-01-29T07:23:31Z</DCT> 
+<TITLE type="str">EcoLuxe Lounge Review - Celebrating its 10th Year at Sundance Film Festival</TITLE> 
 </root>

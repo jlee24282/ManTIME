@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Review 
+<TEXT type="str">Review 
   
 Raees Movie Review: Nawaz takes the spotlight away from King Khan in this mediocre crime drama 
    
@@ -166,9 +166,8 @@ Hot
   
 Bigg Boss 10: Manveer, Bani, Manu or Lopa - Who deserves to be the winner? 
     
-Yeh danga-phasaad nahin chalega: Shatrughan Sinha urges PM Modiji to personally look into the matter of Sanjay Leela Bhansali</content> 
-<sequenceId type="str">695196618662</sequenceId> 
-<topics type="list"> 
+Yeh danga-phasaad nahin chalega: Shatrughan Sinha urges PM Modiji to personally look into the matter of Sanjay Leela Bhansali</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -177,7 +176,8 @@ Yeh danga-phasaad nahin chalega: Shatrughan Sinha urges PM Modiji to personally 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: Bollywood news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:30Z</estimatedPublishedDate> 
-<title type="str">Shah Rukh Khan and Raees team to celebrate the success of the film on a dry day!</title> 
+</TOPICS> 
+<DOCID type="str">695196618662</DOCID> 
+<DCT type="str">2017-01-29T07:15:30Z</DCT> 
+<TITLE type="str">Shah Rukh Khan and Raees team to celebrate the success of the film on a dry day!</TITLE> 
 </root>

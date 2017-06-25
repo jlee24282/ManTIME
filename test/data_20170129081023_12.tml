@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK — Ethan Happ had just scored 32 of Wisconsin’s 61 points and when he was done with a TV interview, the Badger fans at Madison Square Garden cheered him as he left the court waving and blowing kisses. 
+<TEXT type="str">NEW YORK — Ethan Happ had just scored 32 of Wisconsin’s 61 points and when he was done with a TV interview, the Badger fans at Madison Square Garden cheered him as he left the court waving and blowing kisses. 
  
 “It’s always special to play in MSG but once you get going it turns into a basketball game,” the sophomore forward said after the 15th-ranked Badgers survived a bad offensive game for a 61-54 overtime victory over Rutgers on Saturday. “But when you get a curtain call in Madison Square Garden you’re not going to turn it down.” 
  
@@ -42,9 +42,8 @@ Wisconsin is on a roll, and this week’s wins over Penn State and Rutgers won�
  UP NEXT  
 Wisconsin: The Badgers are at Illinois on Tuesday. 
  
-Rutgers: The Scarlet Knights host Iowa on Tuesday.</content> 
-<sequenceId type="str">695202484017</sequenceId> 
-<topics type="list"> 
+Rutgers: The Scarlet Knights host Iowa on Tuesday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -61,7 +60,8 @@ Rutgers: The Scarlet Knights host Iowa on Tuesday.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">College basketball: No. 15 Wisconsin beats Rutgers in OT</title> 
+</TOPICS> 
+<DOCID type="str">695202484017</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">College basketball: No. 15 Wisconsin beats Rutgers in OT</TITLE> 
 </root>

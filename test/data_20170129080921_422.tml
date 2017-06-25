@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Juba - Arabtoday   
+<TEXT type="str">Juba - Arabtoday   
 South Sudan on Saturday observed the national unity day that coincided with launch of nine days sporting activities to promote cohesion and peace in the world&apos;s youngest nation. 
  
 South Sudanese Deputy President Taban Deng Gai said during the ceremony to mart the day that his government is committed to cohesion, unity and stability that is critical to achieve economic growth. 
@@ -15,9 +15,8 @@ South Sudan descended into civil strife in December 2013 following political dif
  
 Statistics from the United Nations indicate that more than 15,000 civilians in South Sudan died during the turmoil that is yet to end despite intervention by the international community. 
  
-source: Xinhua</content> 
-<sequenceId type="str">695200539443</sequenceId> 
-<topics type="list"> 
+source: Xinhua</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">North Africa news</name> 
@@ -30,7 +29,8 @@ source: Xinhua</content>
 <group type="str">Regional</group> 
 <name type="str">South Sudan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:42Z</estimatedPublishedDate> 
-<title type="str">South Sudan marks national unity day amid…</title> 
+</TOPICS> 
+<DOCID type="str">695200539443</DOCID> 
+<DCT type="str">2017-01-29T08:00:42Z</DCT> 
+<TITLE type="str">South Sudan marks national unity day amid…</TITLE> 
 </root>

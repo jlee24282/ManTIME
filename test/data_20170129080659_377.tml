@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Wrestlers compete in an IHSAA Sectional at Calumet High School. 
+<TEXT type="str">Wrestlers compete in an IHSAA Sectional at Calumet High School. 
 
 Close 
 
@@ -32,9 +32,8 @@ Higland&apos;s Raul Mendoza controls Lake Station&apos;s Mario Guerra as they co
 
 John Luke, The Times 
 
-Calumet&apos;s Marvin Pyle tries to escape from Highland&apos;s Lee Covarrubias as they compete in the IHSAA Sectional on Saturday at Calumet High School.</content> 
-<sequenceId type="str">695194878249</sequenceId> 
-<topics type="list"> 
+Calumet&apos;s Marvin Pyle tries to escape from Highland&apos;s Lee Covarrubias as they compete in the IHSAA Sectional on Saturday at Calumet High School.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -43,7 +42,8 @@ Calumet&apos;s Marvin Pyle tries to escape from Highland&apos;s Lee Covarrubias 
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:50:00Z</estimatedPublishedDate> 
-<title type="str">Gallery: Calumet Sectional wrestling tournament</title> 
+</TOPICS> 
+<DOCID type="str">695194878249</DOCID> 
+<DCT type="str">2017-01-28T22:50:00Z</DCT> 
+<TITLE type="str">Gallery: Calumet Sectional wrestling tournament</TITLE> 
 </root>

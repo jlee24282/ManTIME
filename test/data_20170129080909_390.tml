@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The lawsuit challenging Trump&apos;s order was filed on behalf of two Iraqis with ties to US security forces who were detained despite having valid visas. 
+<TEXT type="str">The lawsuit challenging Trump&apos;s order was filed on behalf of two Iraqis with ties to US security forces who were detained despite having valid visas. 
  
 Hameed Khalid Darweesh, 53, worked for the US Army and for a US contractor in Iraq from 2003 to 2013 as an interpreter and engineer, the lawsuit said. 
  
@@ -12,9 +12,8 @@ The second plaintiff, Haider Sameer Abdulkhaleq Alshawi, 33, was also detained a
  
 He is the husband of an Iraqi woman who worked for a US contractor in Iraq. She already lives in Houston, the suit said. 
  
-The next hearing in the case was set for 10 February 2</content> 
-<sequenceId type="str">695200105529</sequenceId> 
-<topics type="list"> 
+The next hearing in the case was set for 10 February 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -27,7 +26,8 @@ The next hearing in the case was set for 10 February 2</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:53Z</estimatedPublishedDate> 
-<title type="str">Donald Trump issued an immigration ban.</title> 
+</TOPICS> 
+<DOCID type="str">695200105529</DOCID> 
+<DCT type="str">2017-01-29T07:56:53Z</DCT> 
+<TITLE type="str">Donald Trump issued an immigration ban.</TITLE> 
 </root>

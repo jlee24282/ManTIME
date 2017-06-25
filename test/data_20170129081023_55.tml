@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A Real Madrid star, who is reportedly a transfer target for Chelsea and Arsenal, has now commented on his future at the Santiago Bernabeu. 
+<TEXT type="str">A Real Madrid star, who is reportedly a transfer target for Chelsea and Arsenal, has now commented on his future at the Santiago Bernabeu. 
  
 Read:  Enrique Reveals Iniesta&apos;s Replacement? 
  
@@ -12,9 +12,8 @@ However, the striker to took social media play down the rumours linking him with
  
 The caption translated:  &quot;No matter what they say #halamadrid forever! This is Madrid and we ALL keep going to the death! With my brother @iscoalarcon in today&apos;s training!&quot; 
  
-Read: Bayern Star: I Do Not Miss Guardiola</content> 
-<sequenceId type="str">695202507962</sequenceId> 
-<topics type="list"> 
+Read: Bayern Star: I Do Not Miss Guardiola</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Arsenal news</name> 
@@ -35,7 +34,8 @@ Read: Bayern Star: I Do Not Miss Guardiola</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:21Z</estimatedPublishedDate> 
-<title type="str">Arsenal &amp; Chelsea Target Comments On Real Future</title> 
+</TOPICS> 
+<DOCID type="str">695202507962</DOCID> 
+<DCT type="str">2017-01-29T08:14:21Z</DCT> 
+<TITLE type="str">Arsenal &amp; Chelsea Target Comments On Real Future</TITLE> 
 </root>

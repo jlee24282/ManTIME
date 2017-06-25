@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Meanwhile Trump said his ban was ‘working out very nicely’ 
+<TEXT type="str">Meanwhile Trump said his ban was ‘working out very nicely’ 
   
 Protesters gathered in the piercing cold at JFK and chanted late into the night. 
  
@@ -66,9 +66,8 @@ Calzadilla says the JFK protest has given him confidence. “It’s beautiful, 
  
 Stephanie, 23, the daughter of immigrants from Panama, adds: “We will be here as long as we need to.” 
  
-@CharlieCapel</content> 
-<sequenceId type="str">695194410473</sequenceId> 
-<topics type="list"> 
+@CharlieCapel</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -81,7 +80,8 @@ Stephanie, 23, the daughter of immigrants from Panama, adds: “We will be here 
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:45:37Z</estimatedPublishedDate> 
-<title type="str">Last night, outside an airport terminal, the protests against Trump’s America began in earnest</title> 
+</TOPICS> 
+<DOCID type="str">695194410473</DOCID> 
+<DCT type="str">2017-01-29T06:45:37Z</DCT> 
+<TITLE type="str">Last night, outside an airport terminal, the protests against Trump’s America began in earnest</TITLE> 
 </root>

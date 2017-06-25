@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">American veteran Abigail Spears and Colombian partner Juan Sebastian Cabal have claimed victory in the Australian Open mixed doubles&apos; final. 
+<TEXT type="str">American veteran Abigail Spears and Colombian partner Juan Sebastian Cabal have claimed victory in the Australian Open mixed doubles&apos; final. 
  
 Age continues to be no barrier to success at the Australian Open, with American veteran Abigail Spears taking out the mixed doubles crown with Colombian partner Juan Sebastian Cabal. 
  
@@ -12,9 +12,8 @@ The victory is particularly sweet for 35-year-old Spears, who has twice finished
  
 Serena and Venus Williams - aged 35 and 36 respectively - faced off on Saturday night in the oldest women&apos;s grand slam decider, 38-year-old twins Bob and Mike Bryan lost the men&apos;s doubles final to Australian John Peers and Henri Kontinen of Finland. 
  
-The retro theme will continue on Sunday night in the men&apos;s singles final, with 35-year-old Roger Federer and 30-year-old Rafael Nadal doing battle in a hotly anticipated decider.</content> 
-<sequenceId type="str">695194730653</sequenceId> 
-<topics type="list"> 
+The retro theme will continue on Sunday night in the men&apos;s singles final, with 35-year-old Roger Federer and 30-year-old Rafael Nadal doing battle in a hotly anticipated decider.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -23,7 +22,8 @@ The retro theme will continue on Sunday night in the men&apos;s singles final, w
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:40Z</estimatedPublishedDate> 
-<title type="str">Veteran Spears wins Open mixed doubles</title> 
+</TOPICS> 
+<DOCID type="str">695194730653</DOCID> 
+<DCT type="str">2017-01-29T07:17:40Z</DCT> 
+<TITLE type="str">Veteran Spears wins Open mixed doubles</TITLE> 
 </root>

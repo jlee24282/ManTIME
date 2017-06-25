@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Autoplay 
+<TEXT type="str">Autoplay 
  
 Show Thumbnails 
  
@@ -84,9 +84,8 @@ Storylines:
  
 &gt;&gt; The Pacers have been successful at home, but there will be no climbing out of 16-point holes — like they did against the Kings — against Harden and the Rockets (35-15). If they have another lapse like they did in third quarter Friday, expect Houston to put them away.   Rockets 116, Pacers 106. 
  
-— Jim Ayello</content> 
-<sequenceId type="str">695204885692</sequenceId> 
-<topics type="list"> 
+— Jim Ayello</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Indiana Pacers news</name> 
@@ -99,7 +98,8 @@ Storylines:
 <group type="str">Sports</group> 
 <name type="str">Sports: NBA news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:32:41Z</estimatedPublishedDate> 
-<title type="str">The game that saved the Pacers</title> 
+</TOPICS> 
+<DOCID type="str">695204885692</DOCID> 
+<DCT type="str">2017-01-29T08:32:41Z</DCT> 
+<TITLE type="str">The game that saved the Pacers</TITLE> 
 </root>

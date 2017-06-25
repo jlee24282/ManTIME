@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">M, Jan 28, 2017 
+<TEXT type="str">M, Jan 28, 2017 
    
-IOWA CITY, Iowa (KCRG-TV9) - Scott Saville has highlights of the Arctic Plunge at Brown Deere. The event raises money for the Hawkeye Wrestling Club.</content> 
-<sequenceId type="str">695196265175</sequenceId> 
-<topics type="list"> 
+IOWA CITY, Iowa (KCRG-TV9) - Scott Saville has highlights of the Arctic Plunge at Brown Deere. The event raises money for the Hawkeye Wrestling Club.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -13,7 +12,8 @@ IOWA CITY, Iowa (KCRG-TV9) - Scott Saville has highlights of the Arctic Plunge a
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:08Z</estimatedPublishedDate> 
-<title type="str">Annual Arctic Plunge raises money for Hawkeye Wrestling Club</title> 
+</TOPICS> 
+<DOCID type="str">695196265175</DOCID> 
+<DCT type="str">2017-01-29T07:28:08Z</DCT> 
+<TITLE type="str">Annual Arctic Plunge raises money for Hawkeye Wrestling Club</TITLE> 
 </root>

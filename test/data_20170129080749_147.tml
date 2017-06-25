@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">US President Donald Trump with Chief of Staff Reince Priebus, Vice President Mike Pence and other officials during his phone call with Russia&apos;s President Vladimir Putin in the Oval Office at the White House in Washington, US January 28, 2017. /REUTERS  
+<TEXT type="str">US President Donald Trump with Chief of Staff Reince Priebus, Vice President Mike Pence and other officials during his phone call with Russia&apos;s President Vladimir Putin in the Oval Office at the White House in Washington, US January 28, 2017. /REUTERS  
 President Donald Trump discussed Syria and the fight against Islamic State with Russian President Vladimir Putin on Saturday in one of several calls with world leaders that the new U.S. president used to put his stamp on international affairs. 
  
 Trump&apos;s call with Putin was their first since the New York businessman took office and came as officials said he was considering lifting sanctions on Moscow despite opposition from Democrats and Republicans at home and European allies abroad. 
@@ -37,9 +37,8 @@ During his call with Japan&apos;s Abe, Trump affirmed an &quot;ironclad&quot; US
  
 The two leaders also discussed the threat posed by North Korea. They plan to meet in Washington early next month. 
  
-Trump spoke to Australia&apos;s Turnbull for 25 minutes and emphasized the close relationship between the two countries.</content> 
-<sequenceId type="str">695196650840</sequenceId> 
-<topics type="list"> 
+Trump spoke to Australia&apos;s Turnbull for 25 minutes and emphasized the close relationship between the two countries.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -52,7 +51,8 @@ Trump spoke to Australia&apos;s Turnbull for 25 minutes and emphasized the close
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:53:39Z</estimatedPublishedDate> 
-<title type="str">Trump talks to Putin, other world leaders about security threats</title> 
+</TOPICS> 
+<DOCID type="str">695196650840</DOCID> 
+<DCT type="str">2017-01-29T06:53:39Z</DCT> 
+<TITLE type="str">Trump talks to Putin, other world leaders about security threats</TITLE> 
 </root>

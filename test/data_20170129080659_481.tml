@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One of the factors hampering Jamaica’s ability to attract foreign direct investment (FDI) is the xenophobic suspicion that foreign companies doing business here are adversely exploiting workers and resources. 
+<TEXT type="str">One of the factors hampering Jamaica’s ability to attract foreign direct investment (FDI) is the xenophobic suspicion that foreign companies doing business here are adversely exploiting workers and resources. 
  
 We feel we have been exploited by the British, then the Americans, and now the Chinese. Unfortunately, it is accompanied by an anti-business attitude among many Jamaicans who often vilify successful businessmen as rapacious and dishonest and believe their wealth is attributed to ganja exporting. 
  
@@ -26,9 +26,8 @@ Local investors can also operate in a way which is harmful. A good example is th
  
 Anxious to have cement produced in Jamaica, the Government of the day allowed the company to be established at Rockfort in East Kingston. The company has never been held to account for adding to the pollution of the seventh- largest natural harbour in the world and creating an unhealthy fog over Kingston. 
  
-Foreign investment is essential for the economic development of Jamaica but unregulated investment — foreign or local — can be detrimental to our national interests.</content> 
-<sequenceId type="str">695194968588</sequenceId> 
-<topics type="list"> 
+Foreign investment is essential for the economic development of Jamaica but unregulated investment — foreign or local — can be detrimental to our national interests.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -37,7 +36,8 @@ Foreign investment is essential for the economic development of Jamaica but unre
 <group type="str">Regional</group> 
 <name type="str">Jamaica news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:19:43Z</estimatedPublishedDate> 
-<title type="str">Unregulated foreign investment can be harmful</title> 
+</TOPICS> 
+<DOCID type="str">695194968588</DOCID> 
+<DCT type="str">2017-01-29T07:19:43Z</DCT> 
+<TITLE type="str">Unregulated foreign investment can be harmful</TITLE> 
 </root>

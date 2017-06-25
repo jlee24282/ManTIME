@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ONE WEEK after his inauguration, Donald Trump received a lesson in the ways of American democracy. The new president suffered his first setback at the hands of the judiciary, a co-equal branch of the federal government that may soon replace the media as his biggest nemesis.... Read more 
+<TEXT type="str">ONE WEEK after his inauguration, Donald Trump received a lesson in the ways of American democracy. The new president suffered his first setback at the hands of the judiciary, a co-equal branch of the federal government that may soon replace the media as his biggest nemesis.... Read more 
  
-TRAVELLERS  MUSLIM  JUDGES  DEPORTATION</content> 
-<sequenceId type="str">695196359311</sequenceId> 
-<topics type="list"> 
+TRAVELLERS  MUSLIM  JUDGES  DEPORTATION</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -17,7 +16,8 @@ TRAVELLERS  MUSLIM  JUDGES  DEPORTATION</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:58Z</estimatedPublishedDate> 
-<title type="str">Judges block the deportation of Muslim travellers</title> 
+</TOPICS> 
+<DOCID type="str">695196359311</DOCID> 
+<DCT type="str">2017-01-29T07:28:58Z</DCT> 
+<TITLE type="str">Judges block the deportation of Muslim travellers</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A company advertising for a &apos;gintern&apos; has cherry picked its favourite applicants from more than 5,000 hopefuls who will now have to prove their drinking abilities.
+<TEXT type="str">A company advertising for a &apos;gintern&apos; has cherry picked its favourite applicants from more than 5,000 hopefuls who will now have to prove their drinking abilities.
 
 The dream job will see one lucky person travelling the world sampling different versions of the delicious drink while being paid £20,000 a year.
 
@@ -20,14 +20,14 @@ Whoever eventually gets the job will work one day a month in London – but the 
 
 The job spec says you&apos;d typically be visiting &apos;1-2 new gin companies each week&apos; and, apart from the day in London, &apos;you&apos;ll be able to work remotely from home (a coffee shop or wherever you wish)&apos;.
 
-You might also be interested in...</content> 
-<sequenceId type="str">695203987586</sequenceId> 
-<topics type="list"> 
+You might also be interested in...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Beverages industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Drinks company ready for first round of interviews for £20,000 gin tasting job</title> 
+</TOPICS> 
+<DOCID type="str">695203987586</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Drinks company ready for first round of interviews for £20,000 gin tasting job</TITLE> 
 </root>

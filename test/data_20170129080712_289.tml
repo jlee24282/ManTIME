@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695195374887</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Bangladesh news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:31Z</estimatedPublishedDate> 
-<title type="str">20 robber gang members surrender in Barisal</title> 
+</TOPICS> 
+<DOCID type="str">695195374887</DOCID> 
+<DCT type="str">2017-01-29T07:20:31Z</DCT> 
+<TITLE type="str">20 robber gang members surrender in Barisal</TITLE> 
 </root>

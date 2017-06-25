@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CLEVELAND, Ohio --- Do you have a question that you&apos;d like to have answered in Hey, Hoynsie? Submit it here or Tweet him at @hoynsie. 
+<TEXT type="str">CLEVELAND, Ohio --- Do you have a question that you&apos;d like to have answered in Hey, Hoynsie? Submit it here or Tweet him at @hoynsie. 
  
 Hey, Hoynsie: Has the front office indicated if 2017 will be the year for a big attendance boom at Progressive Field? - Nick Walsh, Cleveland. 
  
@@ -30,9 +30,8 @@ Hey, Gordon: Having half their power at DH and first base (Mike Napoli and Santa
  
 Hey, Hoynsie: Does Abraham Almonte have a minor league option left? Just thinking what if Michael Brantley is healthy and Austin Jackson outplays Almonte and ends up platooning in center field with Tyler Naquin? - Jack Bacevice. 
  
-Hey, Jack: In the Indians&apos; postseason guide for 2016, Almonte is listed as having one minor-league option left.</content> 
-<sequenceId type="str">695197819504</sequenceId> 
-<topics type="list"> 
+Hey, Jack: In the Indians&apos; postseason guide for 2016, Almonte is listed as having one minor-league option left.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Cleveland news</name> 
@@ -41,7 +40,8 @@ Hey, Jack: In the Indians&apos; postseason guide for 2016, Almonte is listed as 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:54Z</estimatedPublishedDate> 
-<title type="str">Hey, Hoynsie: Will attendance boom hit Indians in 2017?</title> 
+</TOPICS> 
+<DOCID type="str">695197819504</DOCID> 
+<DCT type="str">2017-01-29T07:39:54Z</DCT> 
+<TITLE type="str">Hey, Hoynsie: Will attendance boom hit Indians in 2017?</TITLE> 
 </root>

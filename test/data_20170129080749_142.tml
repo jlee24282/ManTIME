@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Coach Matt Hoops&apos; Unioto Shermans have owned the SVC In basketball in recent years. The run of championships now includes the 2016-17 Shermans. 
+<TEXT type="str">Coach Matt Hoops&apos; Unioto Shermans have owned the SVC In basketball in recent years. The run of championships now includes the 2016-17 Shermans. 
 
 Unioto clinched the crown with a 62-39 win over Adena, while second place Piketon fell to Zane Trace on Saturday night. 
 
@@ -22,9 +22,8 @@ Unioto has three conference games remaining with their consecutive conference wi
 
 © 2017 iHeartMedia, Inc.
 
-Content Goes Here</content> 
-<sequenceId type="str">695196632563</sequenceId> 
-<topics type="list"> 
+Content Goes Here</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -33,7 +32,8 @@ Content Goes Here</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:18:00Z</estimatedPublishedDate> 
-<title type="str">Unioto Locks Up SVC, Defeats Adena 62-39</title> 
+</TOPICS> 
+<DOCID type="str">695196632563</DOCID> 
+<DCT type="str">2017-01-29T04:18:00Z</DCT> 
+<TITLE type="str">Unioto Locks Up SVC, Defeats Adena 62-39</TITLE> 
 </root>

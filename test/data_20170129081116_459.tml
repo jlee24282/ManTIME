@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">RONI Bau was just 16 years old when he was roped into fighting his first fire. 
+<TEXT type="str">RONI Bau was just 16 years old when he was roped into fighting his first fire. 
  
 That was more than 46 years ago, but he&apos;s never looked back. 
  
@@ -42,9 +42,8 @@ Mr Bau is the group officer for the Stanthorpe area, first officer for Applethor
  
 He said it was an honour to be recognised for his efforts and welcomed the celebration of outstanding citizens on Australia Day. 
  
-&quot;I think it is quite important, volunteers and any member of the community that puts effort in should be recognised for their efforts,” he said.</content> 
-<sequenceId type="str">695204529806</sequenceId> 
-<topics type="list"> 
+&quot;I think it is quite important, volunteers and any member of the community that puts effort in should be recognised for their efforts,” he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -53,7 +52,8 @@ He said it was an honour to be recognised for his efforts and welcomed the celeb
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:18Z</estimatedPublishedDate> 
-<title type="str">Granite Belt firefighter honoured in Australia Day awards</title> 
+</TOPICS> 
+<DOCID type="str">695204529806</DOCID> 
+<DCT type="str">2017-01-29T08:30:18Z</DCT> 
+<TITLE type="str">Granite Belt firefighter honoured in Australia Day awards</TITLE> 
 </root>

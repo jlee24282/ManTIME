@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Australia lost, but Mitchell Starc remembers his top form the last time he played New Zealand at Eden Park. 
+<TEXT type="str">Australia lost, but Mitchell Starc remembers his top form the last time he played New Zealand at Eden Park. 
   
 It is hardly like any more could be expected of Mitchell Starc. 
  
@@ -47,9 +47,8 @@ Starc admitted they had not seen much swing or seam in their 4-1 ODI series vict
  
 And while the reminder he did not have to bowl to Brendon McCullum was greeted with a wide smile, Starc said they were wary of a Black Caps batting line-up that was particularly dangerous in their own conditions. 
  
- </content> 
-<sequenceId type="str">695193872753</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -58,7 +57,8 @@ And while the reminder he did not have to bowl to Brendon McCullum was greeted w
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:38:37Z</estimatedPublishedDate> 
-<title type="str">Australian pace spearhead Mitchell Starc ready for extra responsibility in Chappell-Hadlee series with captaincy duo absent</title> 
+</TOPICS> 
+<DOCID type="str">695193872753</DOCID> 
+<DCT type="str">2017-01-29T06:38:37Z</DCT> 
+<TITLE type="str">Australian pace spearhead Mitchell Starc ready for extra responsibility in Chappell-Hadlee series with captaincy duo absent</TITLE> 
 </root>

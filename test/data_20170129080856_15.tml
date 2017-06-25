@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Walking around Sandy Point State Park on Saturday afternoon, a crowd of colorful carousers interspersed with families from all over the region are busy exchanging horror stories of the chilly waters of the Chesapeake Bay. 
+<TEXT type="str">Walking around Sandy Point State Park on Saturday afternoon, a crowd of colorful carousers interspersed with families from all over the region are busy exchanging horror stories of the chilly waters of the Chesapeake Bay. 
  
 It&apos;s the last day of the 21st annual Maryland State Police Polar Bear Plunge, where it&apos;s a sort of general admittance to jump into the chilly waters as part of an effort to benefit the Special Olympics . 
  
@@ -48,9 +48,8 @@ For Brashler, her participating in the plunge itself &quot;wasn&apos;t as bad as
  
 But when asked about the importance of having thousands of people pledge a weekend down at a frigid beach to raise money for the community she supports, she said it&apos;s crucial to get more people to participate and contribute. 
  
-&quot;We can&apos;t really put on the programs we do without the funds that come from events like this,&quot; she said.</content> 
-<sequenceId type="str">695199064481</sequenceId> 
-<topics type="list"> 
+&quot;We can&apos;t really put on the programs we do without the funds that come from events like this,&quot; she said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Hampton Roads news</name> 
@@ -63,7 +62,8 @@ But when asked about the importance of having thousands of people pledge a weeke
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:50Z</estimatedPublishedDate> 
-<title type="str">A frigid dash into the Chesapeake Bay: You kind of just have to do it</title> 
+</TOPICS> 
+<DOCID type="str">695199064481</DOCID> 
+<DCT type="str">2017-01-29T07:48:50Z</DCT> 
+<TITLE type="str">A frigid dash into the Chesapeake Bay: You kind of just have to do it</TITLE> 
 </root>

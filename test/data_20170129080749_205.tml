@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Boston Celtics defeated the Milwaukee Bucks 112 to 108 on January 28, 2017 at BMO Harris Bradley Center. Isaiah Thomas of the Celtics led the game in scoring with 37 points on 11 for 21 shooting. The Bucks&apos; Greg Monroe cleaned up the glass, pulling down 3 offensive rebounds and 10 defensive rebounds. Thomas also led the game in assists, with 8.</content> 
-<sequenceId type="str">695196717203</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The Boston Celtics defeated the Milwaukee Bucks 112 to 108 on January 28, 2017 at BMO Harris Bradley Center. Isaiah Thomas of the Celtics led the game in scoring with 37 points on 11 for 21 shooting. The Bucks&apos; Greg Monroe cleaned up the glass, pulling down 3 offensive rebounds and 10 defensive rebounds. Thomas also led the game in assists, with 8.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Milwaukee Bucks news</name> 
@@ -19,7 +18,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: NBA news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:02:13Z</estimatedPublishedDate> 
-<title type="str">Boston Celtics at Milwaukee Bucks</title> 
+</TOPICS> 
+<DOCID type="str">695196717203</DOCID> 
+<DCT type="str">2017-01-29T04:02:13Z</DCT> 
+<TITLE type="str">Boston Celtics at Milwaukee Bucks</TITLE> 
 </root>

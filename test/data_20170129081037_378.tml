@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">What a better way to celebrate Valentine’s day than to display your love at your fingertips! 
+<TEXT type="str">What a better way to celebrate Valentine’s day than to display your love at your fingertips! 
  
 In honor of Valentine’s day, the team from  MARS The Salon , Hollywood ’s go-to nail salon, has put together the “ Lots of Love ” nail design. 
  
@@ -15,14 +15,14 @@ www.mars-salon.com
  
 3.Using a precision art brush, fill in the inside of the heard shape with the light pink polish. 
  
-4.Finish your manicure with a clear top coat to seal and add shine.</content> 
-<sequenceId type="str">695203147885</sequenceId> 
-<topics type="list"> 
+4.Finish your manicure with a clear top coat to seal and add shine.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:20:08Z</estimatedPublishedDate> 
-<title type="str">Valentine’s Nail Art From MARS The Salon</title> 
+</TOPICS> 
+<DOCID type="str">695203147885</DOCID> 
+<DCT type="str">2017-01-29T06:20:08Z</DCT> 
+<TITLE type="str">Valentine’s Nail Art From MARS The Salon</TITLE> 
 </root>

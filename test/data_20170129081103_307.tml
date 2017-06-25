@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tension is reaching fever pitch in the city as the kickoff for arguably Lincoln City&apos;s biggest ever match approaches.
+<TEXT type="str">Tension is reaching fever pitch in the city as the kickoff for arguably Lincoln City&apos;s biggest ever match approaches.
 
 Fans are on tenterhooks with the eyes of the footballing world focusing on Lincoln as The Imps take on the might of Premier League hopefuls Brighton and Hove Albion in the FA Cup fourth round at 3pm today (Saturday, January 28).
 
@@ -32,9 +32,8 @@ Among the throng were Brighton fans Dan Topley and Matt Cooke.
 
 Dan said: &quot;It wouldn&apos;t be the end of the world if we got beat as we&apos;ve got to make sure we get to the Prem. But this is the sort of game that the FA Cup is all about - we&apos;ll be the bad guys if we beat them! Everyone else will be willing Lincoln to win.&quot;
 
-Can&apos;t get to the game? Don&apos;t worry - you&apos;ll find the most comprehensive coverage of the match on our live blog here.</content> 
-<sequenceId type="str">695204021914</sequenceId> 
-<topics type="list"> 
+Can&apos;t get to the game? Don&apos;t worry - you&apos;ll find the most comprehensive coverage of the match on our live blog here.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
@@ -47,7 +46,8 @@ Can&apos;t get to the game? Don&apos;t worry - you&apos;ll find the most compreh
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T13:05:00Z</estimatedPublishedDate> 
-<title type="str">Lincoln City fans pumped up for Brighton FA Cup tie - come on you...</title> 
+</TOPICS> 
+<DOCID type="str">695204021914</DOCID> 
+<DCT type="str">2017-01-28T13:05:00Z</DCT> 
+<TITLE type="str">Lincoln City fans pumped up for Brighton FA Cup tie - come on you...</TITLE> 
 </root>

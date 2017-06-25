@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Author: ViralPosts 
+<TEXT type="str">Author: ViralPosts 
 Tags: Draymond Green  Hitting Bottom  Suspensions  Jordan  Nike  Basketball  NBA  2016  2017  2015  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695194750007</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -13,7 +12,8 @@ Posted: 29 January 2</content>
 <group type="str">Lifestyle</group> 
 <name type="str">Consumer: green news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:52:55Z</estimatedPublishedDate> 
-<title type="str">Draymond Green Hitting balls During His Suspensions</title> 
+</TOPICS> 
+<DOCID type="str">695194750007</DOCID> 
+<DCT type="str">2017-01-29T06:52:55Z</DCT> 
+<TITLE type="str">Draymond Green Hitting balls During His Suspensions</TITLE> 
 </root>

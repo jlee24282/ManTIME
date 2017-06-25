@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">India sharply trimmed exposure to US government securities, lowering the holding to USD 118.7 billion in November 2016 -- the month which saw Donald Trump win the American Presidential polls.</content> 
-<sequenceId type="str">695194221913</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">India sharply trimmed exposure to US government securities, lowering the holding to USD 118.7 billion in November 2016 -- the month which saw Donald Trump win the American Presidential polls.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:06:06Z</estimatedPublishedDate> 
-<title type="str">India&apos;s holding of US govt securities falls to $118.7 bn</title> 
+</TOPICS> 
+<DOCID type="str">695194221913</DOCID> 
+<DCT type="str">2017-01-29T07:06:06Z</DCT> 
+<TITLE type="str">India&apos;s holding of US govt securities falls to $118.7 bn</TITLE> 
 </root>

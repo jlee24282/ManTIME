@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A group promoting conversation about sexuality and gender diversity say they were effectively forced out of a Christian music festival. 
+<TEXT type="str">A group promoting conversation about sexuality and gender diversity say they were effectively forced out of a Christian music festival. 
 
 Festival One, which is being held this weekend at Mystery Creek Events Centre in Hamilton, has been running for three years. 
 
@@ -22,9 +22,8 @@ Watson said the group met with the festival organisers to find a compromise and 
 
 NZME has not been able to reach Festival One organisers for comment but chief executive Graham Burt and Incendo released a joint statement to Fairfax saying: &quot;Incendo and Festival One state that the Wilderpeople Collective accepted that the Wilderpeople Collective could not meet expectations of Festival One organisers about what their presence in the Wilder Precinct should be. Therefore the Wilderpeople Collective decided to withdraw their stall.&quot; 
 
-- NZ Herald</content> 
-<sequenceId type="str">695196113881</sequenceId> 
-<topics type="list"> 
+- NZ Herald</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
@@ -33,7 +32,8 @@ NZME has not been able to reach Festival One organisers for comment but chief ex
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:12Z</estimatedPublishedDate> 
-<title type="str">Group promoting sexuality and gender diversity &apos;forced&apos; to leave Christian festival</title> 
+</TOPICS> 
+<DOCID type="str">695196113881</DOCID> 
+<DCT type="str">2017-01-29T07:24:12Z</DCT> 
+<TITLE type="str">Group promoting sexuality and gender diversity &apos;forced&apos; to leave Christian festival</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Steph Curry took his game to another level against the Clippers, connecting on nine 3-pointers and scoring 43 points in just 29 minutes. 
+<TEXT type="str">Steph Curry took his game to another level against the Clippers, connecting on nine 3-pointers and scoring 43 points in just 29 minutes. 
  
 Durant added 23 points and Klay Thompson scored 16 to give Golden State its eighth straight win over its Southern California rival. 
  
@@ -10,9 +10,8 @@ Warriors guard Stephen Curry is 1 of 3 players to make multiple shots from at le
 
 Author: gs-bn 
 Tags: GSBN  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695197407903</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Golden State Warriors news</name> 
@@ -37,7 +36,8 @@ Posted: 29 January 2</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:10:40Z</estimatedPublishedDate> 
-<title type="str">LA Clippers 98-144 Golden State Warriors  - Game Recap - January 28, 2017 NBA</title> 
+</TOPICS> 
+<DOCID type="str">695197407903</DOCID> 
+<DCT type="str">2017-01-29T07:10:40Z</DCT> 
+<TITLE type="str">LA Clippers 98-144 Golden State Warriors  - Game Recap - January 28, 2017 NBA</TITLE> 
 </root>

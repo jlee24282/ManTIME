@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Neither snow nor rain, sleet or even the New England Patriots’ upcoming Super Bowl appearance in Houston can keep us from enjoying Boston’s uniquely diverse array of concerts, theater, museums and more. Here are just a few ways to enjoy the many offerings of our area’s arts community. 
+<TEXT type="str">Neither snow nor rain, sleet or even the New England Patriots’ upcoming Super Bowl appearance in Houston can keep us from enjoying Boston’s uniquely diverse array of concerts, theater, museums and more. Here are just a few ways to enjoy the many offerings of our area’s arts community. 
  By Nancy Olesin, MetroWest Daily News Staff  
 Neither snow nor rain, sleet or even the New England Patriots’ upcoming Super Bowl appearance in Houston can keep us from enjoying the state&apos;s uniquely diverse array of concerts, theater, museums and more. Here are just a few ways to enjoy the many offerings of our area’s arts community. 
  
@@ -138,9 +138,8 @@ Let’s dance! “Arrabal” is a new tango-infused dance theater piece followin
  
 The Lyric Stage of Boston brings us a fresh new adaptation of the tragic love story of King Arthur, Guinevere and Lancelot in the beloved classic musical “Camelot,” May 19-June 25. 617-585-5685; lyricstage.com 
  
-The Huntington brings us a new play from Pulitzer winner David Lindsay-Abaire, “Ripcord.” It’s the story of two women in assisted living who make a seemingly harmless bet that quickly escalates into a dangerous and hilarious game. At the Boston Center for the Arts May 26-June 25. 617-266-0800; www.huntingtontheatre.org</content> 
-<sequenceId type="str">695196768567</sequenceId> 
-<topics type="list"> 
+The Huntington brings us a new play from Pulitzer winner David Lindsay-Abaire, “Ripcord.” It’s the story of two women in assisted living who make a seemingly harmless bet that quickly escalates into a dangerous and hilarious game. At the Boston Center for the Arts May 26-June 25. 617-266-0800; www.huntingtontheatre.org</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - New England Patriots news</name> 
@@ -157,7 +156,8 @@ The Huntington brings us a new play from Pulitzer winner David Lindsay-Abaire, �
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">ARTS PREVIEW: Winter Wonderland</title> 
+</TOPICS> 
+<DOCID type="str">695196768567</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">ARTS PREVIEW: Winter Wonderland</TITLE> 
 </root>

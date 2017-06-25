@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Rankings for hard-cover books sold in Southern California, as reported by selected book stores: 
+<TEXT type="str">Rankings for hard-cover books sold in Southern California, as reported by selected book stores: 
 
 Fiction 
 
@@ -22,9 +22,8 @@ Fiction
 
 9.&quot;Diary of a Wimpy Kid: Double Down,&quot; by Jeff Kinney (Abrams: $13.95) Greg and Rowley try to make a scary movie after finding an old video camera. 
 
-10.&quot;Two by Two,&quot; by Nicholas Sparks (Grand Central: $27) After his marriage and business fall apart, a single father takes a chance on new love.</content> 
-<sequenceId type="str">695203571643</sequenceId> 
-<topics type="list"> 
+10.&quot;Two by Two,&quot; by Nicholas Sparks (Grand Central: $27) After his marriage and business fall apart, a single father takes a chance on new love.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -33,7 +32,8 @@ Fiction
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: book news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Best-sellers</title> 
+</TOPICS> 
+<DOCID type="str">695203571643</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Best-sellers</TITLE> 
 </root>

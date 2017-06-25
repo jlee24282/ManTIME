@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mr. Trump’s executive order suspends all immigration from countries with terrorism concerns for 90 days. 
+<TEXT type="str">Mr. Trump’s executive order suspends all immigration from countries with terrorism concerns for 90 days. 
  
 Defeat the ISIS 
  
@@ -55,9 +55,8 @@ Chaos, protests
 Hundreds of protesters gathered at airports in Dallas, Chicago, New York and elsewhere while inside, anxious family members waited and worried for travelers. 
  
 U.S immigration authorities start detaining refugees from Iran, Iraq, Syria, Sudan, Libya, Yemen and Somalia. 
- </content> 
-<sequenceId type="str">695204219163</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iran news</name> 
@@ -90,7 +89,8 @@ U.S immigration authorities start detaining refugees from Iran, Iraq, Syria, Sud
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:20Z</estimatedPublishedDate> 
-<title type="str">Live U.S. protests Trump&apos;s immigration ban</title> 
+</TOPICS> 
+<DOCID type="str">695204219163</DOCID> 
+<DCT type="str">2017-01-29T08:27:20Z</DCT> 
+<TITLE type="str">Live U.S. protests Trump&apos;s immigration ban</TITLE> 
 </root>

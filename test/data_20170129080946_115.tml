@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">What&apos;s 8 U.S.C. 1373? It&apos;s a federal law (passed by Congress) that states in pertinent part: 
+<TEXT type="str">What&apos;s 8 U.S.C. 1373? It&apos;s a federal law (passed by Congress) that states in pertinent part: 
   
 (a) In general 
  
@@ -55,9 +55,8 @@ Recommend LBREPORT.com to your Facebook friends:
  
 Twitter    
 Facebook    
-RSS</content> 
-<sequenceId type="str">695201274945</sequenceId> 
-<topics type="list"> 
+RSS</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Insurance industry news</name> 
@@ -78,7 +77,8 @@ RSS</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:25Z</estimatedPublishedDate> 
-<title type="str">Pres. Trump&apos;s Exec. Order (See Full Text) Re Enforcing Fed&apos;l Immigration Law Puts CA and Long Beach On Collision Course With Fed&apos;l Dollars</title> 
+</TOPICS> 
+<DOCID type="str">695201274945</DOCID> 
+<DCT type="str">2017-01-29T08:05:25Z</DCT> 
+<TITLE type="str">Pres. Trump&apos;s Exec. Order (See Full Text) Re Enforcing Fed&apos;l Immigration Law Puts CA and Long Beach On Collision Course With Fed&apos;l Dollars</TITLE> 
 </root>

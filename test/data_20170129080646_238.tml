@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A look back at what happened on this day January 29th in the history of Leeds United. 
+<TEXT type="str">A look back at what happened on this day January 29th in the history of Leeds United. 
 
 Results 
 1921 West Ham United H L 1-2 Division 2 
@@ -18,9 +18,8 @@ Results
 2005 Brighton and Hove Albion H D 1-1 Championship 
 2008 Southend United A L 0-1 League 1 
 
-*On this day in 1973, Leeds finally saw off Norwich City in the FA Cup at the third attempt. Having already shared two 1-1 draws, the FA Cup holders booked their place in the next round. Allan Clarke (3), Mick Jones and Peter Lorimer were all on target in the 5-0 win at Villa Park.</content> 
-<sequenceId type="str">695194401173</sequenceId> 
-<topics type="list"> 
+*On this day in 1973, Leeds finally saw off Norwich City in the FA Cup at the third attempt. Having already shared two 1-1 draws, the FA Cup holders booked their place in the next round. Allan Clarke (3), Mick Jones and Peter Lorimer were all on target in the 5-0 win at Villa Park.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -29,7 +28,8 @@ Results
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:01Z</estimatedPublishedDate> 
-<title type="str">LUFC On This Day - January 29th</title> 
+</TOPICS> 
+<DOCID type="str">695194401173</DOCID> 
+<DCT type="str">2017-01-29T07:00:01Z</DCT> 
+<TITLE type="str">LUFC On This Day - January 29th</TITLE> 
 </root>

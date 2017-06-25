@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON — President Donald Trump acted Saturday to fulfill a key portion of his pledge to &quot;drain the swamp&quot; in Washington, banning administration officials from ever lobbying the U.S. on behalf of a foreign government and imposing a separate five-year ban on other lobbying. 
+<TEXT type="str">WASHINGTON — President Donald Trump acted Saturday to fulfill a key portion of his pledge to &quot;drain the swamp&quot; in Washington, banning administration officials from ever lobbying the U.S. on behalf of a foreign government and imposing a separate five-year ban on other lobbying. 
  
 Trump has said individuals who want to aid him in his quest to &quot;Make America Great Again&quot; should focus on the jobs they will be doing to help the American people, not thinking ahead to the future income they could rake in by peddling their influence after serving in government. 
  
@@ -28,9 +28,8 @@ Trump had released the plan for a lobbying ban a few weeks before the November e
  
 Some have argued that the ban could make it difficult for Trump to fill thousands of jobs throughout the administration by causing some candidates to become squeamish about limiting their ability to make money after they leave government employment. 
  
-Others say the prohibitions on lobbying are too insignificant to be effective.</content> 
-<sequenceId type="str">695202047300</sequenceId> 
-<topics type="list"> 
+Others say the prohibitions on lobbying are too insignificant to be effective.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -39,7 +38,8 @@ Others say the prohibitions on lobbying are too insignificant to be effective.</
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:51Z</estimatedPublishedDate> 
-<title type="str">Trump sets tougher restrictions on lobbying by officials</title> 
+</TOPICS> 
+<DOCID type="str">695202047300</DOCID> 
+<DCT type="str">2017-01-29T08:10:51Z</DCT> 
+<TITLE type="str">Trump sets tougher restrictions on lobbying by officials</TITLE> 
 </root>

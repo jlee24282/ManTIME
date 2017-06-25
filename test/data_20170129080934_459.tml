@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">DUBAI Jan 29 (Reuters) - Most Gulf stock markets moved
+<TEXT type="str">DUBAI Jan 29 (Reuters) - Most Gulf stock markets moved
 little in early trade on Sunday, although Kuwait continued this
 month&apos;s bull run in heavy trade. 
     
@@ -51,9 +51,8 @@ Qatar&apos;s index dropped 0.3 percent but Widam Food
  gained 2.1 percent after saying annual net profit rose
 to 91.3 million riyals ($25.1 million) from 69.1 million riyals.
 
- (Reporting by Andrew Torchia, editing by Larry King)</content> 
-<sequenceId type="str">695201117443</sequenceId> 
-<topics type="list"> 
+ (Reporting by Andrew Torchia, editing by Larry King)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -70,7 +69,8 @@ to 91.3 million riyals ($25.1 million) from 69.1 million riyals.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:04:24Z</estimatedPublishedDate> 
-<title type="str">MIDEAST STOCKS-Most of Gulf moves little, Kuwait rises</title> 
+</TOPICS> 
+<DOCID type="str">695201117443</DOCID> 
+<DCT type="str">2017-01-29T08:04:24Z</DCT> 
+<TITLE type="str">MIDEAST STOCKS-Most of Gulf moves little, Kuwait rises</TITLE> 
 </root>

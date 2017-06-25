@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Imagine professional wrestling on a 94-foot-long, 50-foot-wide wooden court. 
+<TEXT type="str">Imagine professional wrestling on a 94-foot-long, 50-foot-wide wooden court. 
    
 That&apos;s what Marshall&apos;s 91-68 loss to UTEP before 6,781 disgruntled fans in an often raucous Henderson Center resembled Saturday night. 
    
@@ -60,9 +60,8 @@ The only glimmer of positivity was the play of Terrence Thompson, who led MU wit
    
 That&apos;s a step in the right direction on a night full of miss steps. 
    
-Where was Captain Lou when Marshall needed him?</content> 
-<sequenceId type="str">695201419984</sequenceId> 
-<topics type="list"> 
+Where was Captain Lou when Marshall needed him?</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -75,7 +74,8 @@ Where was Captain Lou when Marshall needed him?</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:01:00Z</estimatedPublishedDate> 
-<title type="str">Chuck Landon: Wrestling with MU&apos;s loss to UTEP</title> 
+</TOPICS> 
+<DOCID type="str">695201419984</DOCID> 
+<DCT type="str">2017-01-29T05:01:00Z</DCT> 
+<TITLE type="str">Chuck Landon: Wrestling with MU&apos;s loss to UTEP</TITLE> 
 </root>

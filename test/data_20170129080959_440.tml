@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Brianna MacNaught | bmacnaught@wmbb.com 
+<TEXT type="str">By Brianna MacNaught | bmacnaught@wmbb.com 
   
 Published 01/28 2017 11:47PM 
  
@@ -18,9 +18,8 @@ Men&apos;s Basketball:
  
 TCC 73 
  
-Gulf Coast 53</content> 
-<sequenceId type="str">695202010439</sequenceId> 
-<topics type="list"> 
+Gulf Coast 53</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -29,7 +28,8 @@ Gulf Coast 53</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:35Z</estimatedPublishedDate> 
-<title type="str">Gulf Coast Basketball Host TCC</title> 
+</TOPICS> 
+<DOCID type="str">695202010439</DOCID> 
+<DCT type="str">2017-01-29T08:10:35Z</DCT> 
+<TITLE type="str">Gulf Coast Basketball Host TCC</TITLE> 
 </root>

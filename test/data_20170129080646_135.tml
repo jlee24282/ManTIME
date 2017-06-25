@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Inter State Twenty-20 Tournament, East Zone: Assam v Jharkhand at Kolkata, Jan 29, 2</content> 
-<sequenceId type="str">695194349460</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Inter State Twenty-20 Tournament, East Zone: Assam v Jharkhand at Kolkata, Jan 29, 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: latest scores</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:40Z</estimatedPublishedDate> 
-<title type="str">Assam 137/6 * v Jharkhand 133/9</title> 
+</TOPICS> 
+<DOCID type="str">695194349460</DOCID> 
+<DCT type="str">2017-01-29T07:14:40Z</DCT> 
+<TITLE type="str">Assam 137/6 * v Jharkhand 133/9</TITLE> 
 </root>

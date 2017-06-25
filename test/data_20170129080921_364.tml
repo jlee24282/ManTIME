@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">More angry protests against President Donald Trump’s immigration policies are set for Sunday across the country after hundreds of demonstrators converged on airports the day before.. 
+<TEXT type="str">More angry protests against President Donald Trump’s immigration policies are set for Sunday across the country after hundreds of demonstrators converged on airports the day before.. 
  
 Protests are scheduled today in Washington, Orlando, Boston, Philadelphia, Atlanta, Seattle, and Chicago, mostly at airports. 
  
@@ -55,9 +55,8 @@ Lucia Martinez told KATU she used to be a “hashtag activist” but felt compel
 A group of community activists, attorneys and others gathered at O’Hare International Airport in Chicago. 
  
 Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey. 
-  Homeland Security to comply with orders not to deport travelers</content> 
-<sequenceId type="str">695200505788</sequenceId> 
-<topics type="list"> 
+  Homeland Security to comply with orders not to deport travelers</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -78,7 +77,8 @@ Protests also took place at airports in Boston; San Francisco, Denver, Dallas an
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:04Z</estimatedPublishedDate> 
-<title type="str">More protests against Trump’s immigration policies planned</title> 
+</TOPICS> 
+<DOCID type="str">695200505788</DOCID> 
+<DCT type="str">2017-01-29T08:00:04Z</DCT> 
+<TITLE type="str">More protests against Trump’s immigration policies planned</TITLE> 
 </root>

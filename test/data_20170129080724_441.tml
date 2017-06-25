@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tiger&apos;s Bay man Carl Frampton suffered heartbreak on his Las Vegas debut as he lost his world title. 
+<TEXT type="str">Tiger&apos;s Bay man Carl Frampton suffered heartbreak on his Las Vegas debut as he lost his world title. 
  
 Like his manager Barry McGuigan in 1986, Frampton was undone by another Cruz as the Mexican won back his WBA Super world featherweight title to hand the Ulsterman his first pro defeat. 
  
@@ -42,9 +42,8 @@ Frampton finally did better in the ninth and landed more frequently on Santa Cru
  
 The pair embraced at the start of the 12th in a sign of their mutual respect before Frampton went all out in a sign that he knew he was behind. 
  
-It was not enough and in the end judges Dave Moretti and Glenn Feldman scored the contest 115-113 for Santa Cruz, while Burt Clements saw it as a draw 114-114.</content> 
-<sequenceId type="str">695195982113</sequenceId> 
-<topics type="list"> 
+It was not enough and in the end judges Dave Moretti and Glenn Feldman scored the contest 115-113 for Santa Cruz, while Burt Clements saw it as a draw 114-114.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Las Vegas news</name> 
@@ -61,7 +60,8 @@ It was not enough and in the end judges Dave Moretti and Glenn Feldman scored th
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:41:45Z</estimatedPublishedDate> 
-<title type="str">Carl Frampton beaten by Leo Santa Cruz in Las Vegas</title> 
+</TOPICS> 
+<DOCID type="str">695195982113</DOCID> 
+<DCT type="str">2017-01-29T05:41:45Z</DCT> 
+<TITLE type="str">Carl Frampton beaten by Leo Santa Cruz in Las Vegas</TITLE> 
 </root>

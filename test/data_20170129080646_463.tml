@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IRBIL, Iraq -- Children have been tortured after being detained by Kurdish security forces here on s</content> 
-<sequenceId type="str">695194560691</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">IRBIL, Iraq -- Children have been tortured after being detained by Kurdish security forces here on s</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:28Z</estimatedPublishedDate> 
-<title type="str">Human Right Report Accuses Kurdish Forces of Child Torture in Iraq</title> 
+</TOPICS> 
+<DOCID type="str">695194560691</DOCID> 
+<DCT type="str">2017-01-29T07:16:28Z</DCT> 
+<TITLE type="str">Human Right Report Accuses Kurdish Forces of Child Torture in Iraq</TITLE> 
 </root>

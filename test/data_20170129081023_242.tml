@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Five people were injured when a staircase collapsed at an Edenbridge golf club. 
+<TEXT type="str">Five people were injured when a staircase collapsed at an Edenbridge golf club. 
  
 Emergency crews were called to the Kent and Surrey Golf and Country Club at about 3.45pm yesterday. 
  
@@ -25,9 +25,8 @@ Gat T7 responding to collapsed external staircase in Edenbridge with @kentfirere
   
 The ambulance service has been approached for further comment. 
  
-Next:  A court has ordered dogs must be destroyed after they attacked a man who took them in</content> 
-<sequenceId type="str">695202652741</sequenceId> 
-<topics type="list"> 
+Next:  A court has ordered dogs must be destroyed after they attacked a man who took them in</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
@@ -36,7 +35,8 @@ Next:  A court has ordered dogs must be destroyed after they attacked a man who 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Five injured after a staircase collapsed at the  Kent and Surrey Golf and Country Club in Edenbridge</title> 
+</TOPICS> 
+<DOCID type="str">695202652741</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Five injured after a staircase collapsed at the  Kent and Surrey Golf and Country Club in Edenbridge</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Australians who have travelled to the seven nations implicated in the Donald Trump visa ban may face hurdles heading to the US. 
+<TEXT type="str">Australians who have travelled to the seven nations implicated in the Donald Trump visa ban may face hurdles heading to the US. 
  Source:  
 AAP 
   
@@ -50,9 +50,8 @@ Foreign Minister Julie Bishop says officials are in talks with US counterparts t
  
 All travellers are being warned that rules could change at short notice. 
  
-&quot;Travellers should contact the nearest embassy or consulate of the United States for the most current information,&quot; the spokeswoman added.</content> 
-<sequenceId type="str">695204283259</sequenceId> 
-<topics type="list"> 
+&quot;Travellers should contact the nearest embassy or consulate of the United States for the most current information,&quot; the spokeswoman added.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -73,7 +72,8 @@ All travellers are being warned that rules could change at short notice.
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:59Z</estimatedPublishedDate> 
-<title type="str">Australian travellers impacted by US ban</title> 
+</TOPICS> 
+<DOCID type="str">695204283259</DOCID> 
+<DCT type="str">2017-01-29T08:27:59Z</DCT> 
+<TITLE type="str">Australian travellers impacted by US ban</TITLE> 
 </root>

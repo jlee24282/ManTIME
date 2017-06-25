@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str"> </content> 
-<sequenceId type="str">695195219336</sequenceId> 
-<topics type="list"> 
+<TEXT type="str"> </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:00Z</estimatedPublishedDate> 
-<title type="str">UPDATE2: Over 350 affected by Trump s order to halt entry to U.S.</title> 
+</TOPICS> 
+<DOCID type="str">695195219336</DOCID> 
+<DCT type="str">2017-01-29T07:21:00Z</DCT> 
+<TITLE type="str">UPDATE2: Over 350 affected by Trump s order to halt entry to U.S.</TITLE> 
 </root>

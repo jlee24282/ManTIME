@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dubai International Airport has retained its title as the world’s number one airport for international passengers after near record numbers in December 2016 propelled the hub’s annual traffic to 83.6 million passengers in 2016, according to the annual traffic report issued by operator Dubai Airports on January 24, 2017. With monthly passenger traffic breaching the 7-million mark six times during the year, including the historic 7.72 million traffic in August, DXB’s annual traffic in 2016 totalled 83,654,250 passengers, compared to 78,014,838 in 2015, a robust growth of 7.2 per cent. The surge of travellers during the holiday season boosted monthly traffic in December to 7,706,351, up 9.3 per cent compared to 7,053,243 recorded in December 2015.
+<TEXT type="str">Dubai International Airport has retained its title as the world’s number one airport for international passengers after near record numbers in December 2016 propelled the hub’s annual traffic to 83.6 million passengers in 2016, according to the annual traffic report issued by operator Dubai Airports on January 24, 2017. With monthly passenger traffic breaching the 7-million mark six times during the year, including the historic 7.72 million traffic in August, DXB’s annual traffic in 2016 totalled 83,654,250 passengers, compared to 78,014,838 in 2015, a robust growth of 7.2 per cent. The surge of travellers during the holiday season boosted monthly traffic in December to 7,706,351, up 9.3 per cent compared to 7,053,243 recorded in December 2015.
 
 During 2016 a number of new airlines, including Nepal Airlines Corporation and Rossiya launched services to DXB, while 11 new passenger destinations were added to the hub as a result of network expansion by flydubai, Emirates and other international carriers.
 
@@ -12,9 +12,8 @@ DXB also leads the way globally in terms of the average number of passengers per
 
 Aircraft movements in 2016 reached 418,220 compared to 406,705* in 2015, up 2.8 per cent. Monthly aircraft movements in December 2016 totalled 36,065, up 1.6 per cent compared to 35,491* movements during the same month in 2015, an increase of 5.9 per cent.
 
-After registering contraction throughout the third quarter, cargo volumes recovered in the last three months of 2016, rounding off the year with 2,592,454 tonnes in freight, up 3.4 per cent compared to 2,506,092 recorded during 2015. DXB handled 230,122 tonnes of cargo in December 2016, an increase of 5.4 per cent compared to 218,408 tonnes recorded during the same month in 2</content> 
-<sequenceId type="str">695202077012</sequenceId> 
-<topics type="list"> 
+After registering contraction throughout the third quarter, cargo volumes recovered in the last three months of 2016, rounding off the year with 2,592,454 tonnes in freight, up 3.4 per cent compared to 2,506,092 recorded during 2015. DXB handled 230,122 tonnes of cargo in December 2016, an increase of 5.4 per cent compared to 218,408 tonnes recorded during the same month in 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
@@ -27,7 +26,8 @@ After registering contraction throughout the third quarter, cargo volumes recove
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:19Z</estimatedPublishedDate> 
-<title type="str">Dubai retains title of world’s busiest airpor...</title> 
+</TOPICS> 
+<DOCID type="str">695202077012</DOCID> 
+<DCT type="str">2017-01-29T08:02:19Z</DCT> 
+<TITLE type="str">Dubai retains title of world’s busiest airpor...</TITLE> 
 </root>

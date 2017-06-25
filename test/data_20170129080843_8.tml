@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The statistics are quite startling -- since 2000, the United States has lost 5 million manufacturing jobs. 
+<TEXT type="str">The statistics are quite startling -- since 2000, the United States has lost 5 million manufacturing jobs. 
  
 Ohio, Michigan, Pennsylvania, Indiana and Wisconsin account for nearly a third of the manufacturing jobs lost, with wage levels in the manufacturing sector in these states either flat or sharply down. 
  
@@ -24,9 +24,8 @@ The situation is complicated by the fact that Mexicans are enraged by President 
  
 There are a lot of balls up in the air. How this sorts out remains to be seen. 
   
-Daniel E. Lee is the Marian Taft Cannon Professor in the Humanities at Augustana College; danlee@augustana.edu .</content> 
-<sequenceId type="str">695198465056</sequenceId> 
-<topics type="list"> 
+Daniel E. Lee is the Marian Taft Cannon Professor in the Humanities at Augustana College; danlee@augustana.edu .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Manufacturing industry news</name> 
@@ -51,7 +50,8 @@ Daniel E. Lee is the Marian Taft Cannon Professor in the Humanities at Augustana
 <group type="str">Business</group> 
 <name type="str">Job markets news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:12Z</estimatedPublishedDate> 
-<title type="str">Reason for loss of US manufacturing jobs complicated</title> 
+</TOPICS> 
+<DOCID type="str">695198465056</DOCID> 
+<DCT type="str">2017-01-29T06:00:12Z</DCT> 
+<TITLE type="str">Reason for loss of US manufacturing jobs complicated</TITLE> 
 </root>

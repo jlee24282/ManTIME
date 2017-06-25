@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo: Filo/  
+<TEXT type="str">Photo: Filo/  
   
 Image 1 of / 1 
   
@@ -67,9 +67,8 @@ Statewide, Molnar thinks the failure to find hosing is most directly related to 
  
 To combat the issue, Texas Voices for Reason and Justice tries to convince state legislators that registration should end when sex offenders complete probation or parole. 
  
-“One thing we focus on is we would like to see at some point a reduction in the public registry,” Molnar said. “Most require registry for life without removal from the registry. We would like to see it go down.”</content> 
-<sequenceId type="str">695193911729</sequenceId> 
-<topics type="list"> 
+“One thing we focus on is we would like to see at some point a reduction in the public registry,” Molnar said. “Most require registry for life without removal from the registry. We would like to see it go down.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Antonio news</name> 
@@ -78,7 +77,8 @@ To combat the issue, Texas Voices for Reason and Justice tries to convince state
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:54Z</estimatedPublishedDate> 
-<title type="str">Arrests increase for failing to register as sex offenders</title> 
+</TOPICS> 
+<DOCID type="str">695193911729</DOCID> 
+<DCT type="str">2017-01-29T07:11:54Z</DCT> 
+<TITLE type="str">Arrests increase for failing to register as sex offenders</TITLE> 
 </root>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">UK Prime Minister Theresa May said Sunday that she did not agree with the recent developments in the</content> 
-<sequenceId type="str">695204688629</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">UK Prime Minister Theresa May said Sunday that she did not agree with the recent developments in the</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:31:15Z</estimatedPublishedDate> 
-<title type="str">UK PM disagrees with US entry ban, pledges to respond if Britons affected</title> 
+</TOPICS> 
+<DOCID type="str">695204688629</DOCID> 
+<DCT type="str">2017-01-29T08:31:15Z</DCT> 
+<TITLE type="str">UK PM disagrees with US entry ban, pledges to respond if Britons affected</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On their website, Dorset Police say: &quot;The team aims to use a combination of enforcement and education to tackle the &apos;fatal five&apos;: drink and drug driving, excessive and inappropriate speed, not wearing a seatbelt, driver distractions such as hand-held mobile phone and careless driving.
+<TEXT type="str">On their website, Dorset Police say: &quot;The team aims to use a combination of enforcement and education to tackle the &apos;fatal five&apos;: drink and drug driving, excessive and inappropriate speed, not wearing a seatbelt, driver distractions such as hand-held mobile phone and careless driving.
 
 &quot;The No Excuse team will deploy to collision/casualty sites with visits to speed complaint/community concern sites as resources allow as per the dates below.
 
@@ -50,9 +50,8 @@ Please drive carefully around Dorset.
 
 If you want to speak to the police but it is not an emergency you can call 101 or you can log onto www.dorset.police.uk, select the service most appropriate to your enquiry and complete the form as directed.
 
-The police ask that you give as much information as you can to help them answer your enquiry.</content> 
-<sequenceId type="str">695204530855</sequenceId> 
-<topics type="list"> 
+The police ask that you give as much information as you can to help them answer your enquiry.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -65,7 +64,8 @@ The police ask that you give as much information as you can to help them answer 
 <group type="str">Regional</group> 
 <name type="str">England news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Mobile speed camera locations in Dorset from Monday 30th January</title> 
+</TOPICS> 
+<DOCID type="str">695204530855</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Mobile speed camera locations in Dorset from Monday 30th January</TITLE> 
 </root>

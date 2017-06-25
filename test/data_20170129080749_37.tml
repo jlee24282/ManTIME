@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Black Caps captain Kane Williams says Australians always provide stiff competition in any sport. 
+<TEXT type="str">Black Caps captain Kane Williams says Australians always provide stiff competition in any sport. 
   
 It won&apos;t surprise many to learn cool-headed Kane Williamson doesn&apos;t deal in redemption or revenge. 
  
@@ -68,9 +68,8 @@ New Zealand: Tom Latham, Martin Guptill, Kane Williamson (c), Ross Taylor, Neil 
  
 Australia: Aaron Finch, Shaun Marsh, Peter Handscomb, Travis Head, Glenn Maxwell, Marcus Stoinis, Matthew Wade (c), James Faulkner, Mitchell Starc, Pat Cummins, Josh Hazlewood. 
  
- </content> 
-<sequenceId type="str">695196516445</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -79,7 +78,8 @@ Australia: Aaron Finch, Shaun Marsh, Peter Handscomb, Travis Head, Glenn Maxwell
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:19Z</estimatedPublishedDate> 
-<title type="str">Kane doesn&apos;t deal in redemption</title> 
+</TOPICS> 
+<DOCID type="str">695196516445</DOCID> 
+<DCT type="str">2017-01-29T07:30:19Z</DCT> 
+<TITLE type="str">Kane doesn&apos;t deal in redemption</TITLE> 
 </root>

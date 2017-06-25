@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A former Chelsea star has slammed Manchester United midfielder Paul Pogba for failing to step up for the Red Devils in recent weeks. 
+<TEXT type="str">A former Chelsea star has slammed Manchester United midfielder Paul Pogba for failing to step up for the Red Devils in recent weeks. 
  
 Read: Former Man Utd Winger Comments On Relationship With Mourinho 
  
@@ -16,9 +16,8 @@ Craig Burley, who made 113 appearances for Chelsea, claims the French midfielder
  
 “€100 million? I’m not seeing that at the moment.” 
  
-Read: Pogba Scores As Man Utd Reach EFL Cup Final</content> 
-<sequenceId type="str">695195541973</sequenceId> 
-<topics type="list"> 
+Read: Pogba Scores As Man Utd Reach EFL Cup Final</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Chelsea news</name> 
@@ -35,7 +34,8 @@ Read: Pogba Scores As Man Utd Reach EFL Cup Final</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:57Z</estimatedPublishedDate> 
-<title type="str">Former Chelsea Midfielder Slams Pogba</title> 
+</TOPICS> 
+<DOCID type="str">695195541973</DOCID> 
+<DCT type="str">2017-01-29T07:22:57Z</DCT> 
+<TITLE type="str">Former Chelsea Midfielder Slams Pogba</TITLE> 
 </root>

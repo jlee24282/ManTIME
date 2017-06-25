@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">United Arab Emirates, January 28, 2017 
+<TEXT type="str">United Arab Emirates, January 28, 2017 
  
 Hatta witnessed a 17.2 percent increase in the number of businesses between 2012 and 2016, with at least 944 businesses operating in the city by the end of 2016, a report compiled by the Department of Economic Development (DED) in Dubai stated. 
  
@@ -17,9 +17,8 @@ Hatta has witnessed remarkable development over the past two decades, most notab
 &quot;Our goal is to enable existing and new businesses in Hatta to take advantage of our simplified procedures and automated services, particularly in trade name reservation and initial approvals. The branch office in Hatta will achieve improved capabilities in the next three years,&quot; Omar Al Muhairi, Director of Development and Follow-up Management in BRL, emphasised. 
 
  
-WAM</content> 
-<sequenceId type="str">695194548803</sequenceId> 
-<topics type="list"> 
+WAM</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -28,7 +27,8 @@ WAM</content>
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:22Z</estimatedPublishedDate> 
-<title type="str">New businesses grew by 17.2% in Hatta in last 5 years</title> 
+</TOPICS> 
+<DOCID type="str">695194548803</DOCID> 
+<DCT type="str">2017-01-29T07:16:22Z</DCT> 
+<TITLE type="str">New businesses grew by 17.2% in Hatta in last 5 years</TITLE> 
 </root>

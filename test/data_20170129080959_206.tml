@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">by Yael-Ravia Zadok* 
+<TEXT type="str">by Yael-Ravia Zadok* 
  
 “Who knows Karoline Cohn”? This call, published in the Israeli media last week, carries a fascinating discovery; a triangle-shaped pendant belonging to a Jewish girl was found at the site of Sobibor death camp, in the then-Nazi occupied Poland. 
  
@@ -22,9 +22,8 @@ The UN resolution urges member states to develop educational programmes, to help
  
 Auschwitz survivor, author Primo Levi warned: It happened. Therefore, it can happen again. All of us today should commit to: ‘Never Again’. 
  
-*Ambassador of Israel to Cyprus</content> 
-<sequenceId type="str">695201805057</sequenceId> 
-<topics type="list"> 
+*Ambassador of Israel to Cyprus</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Cyprus news</name> 
@@ -37,7 +36,8 @@ Auschwitz survivor, author Primo Levi warned: It happened. Therefore, it can hap
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:58Z</estimatedPublishedDate> 
-<title type="str">Who knows Karoline Cohn?</title> 
+</TOPICS> 
+<DOCID type="str">695201805057</DOCID> 
+<DCT type="str">2017-01-29T08:00:58Z</DCT> 
+<TITLE type="str">Who knows Karoline Cohn?</TITLE> 
 </root>

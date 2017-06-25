@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Europe is facing multiple tribulations in 2017, engulfed in uncertainties over terrorism, borders, migration, economics and President Donald Trump’s new America First message booming from across the Atlantic.
+<TEXT type="str">Europe is facing multiple tribulations in 2017, engulfed in uncertainties over terrorism, borders, migration, economics and President Donald Trump’s new America First message booming from across the Atlantic.
 
 “It’s not the first time Europe has been challenged by crisis,” said Anna-Lena Hogenauer, a researcher at the Institute of Political Science at the University of Luxembourg, but “there’s definitely a combination of crises.”
 
@@ -54,9 +54,8 @@ In France, where presidential elections are set for April 23 with a runoff betwe
 
 Germany holds federal elections Sept. 24, which will determine the future of Chancellor Angela Merkel. But her positions on European unity, open borders and generosity toward refugees have seriously weakened her popularity. Mr. Trump mocked and insulted her during his campaign, describing his Democratic adversary, Hillary Clinton, as “America’s Merkel,” and called the German leader’s refugee policy “insane.”
 
-At the same time, Germany’s biggest political story is the rapid ascent of the far-right Alternative for Germany party, which has evoked memories of the Nazis as it campaigns on denunciations of Ms. Merkel, the euro, immigration and Islam.</content> 
-<sequenceId type="str">695202212684</sequenceId> 
-<topics type="list"> 
+At the same time, Germany’s biggest political story is the rapid ascent of the far-right Alternative for Germany party, which has evoked memories of the Nazis as it campaigns on denunciations of Ms. Merkel, the euro, immigration and Islam.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -77,7 +76,8 @@ At the same time, Germany’s biggest political story is the rapid ascent of the
 <group type="str">Society</group> 
 <name type="str">European Union news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:39:46Z</estimatedPublishedDate> 
-<title type="str">Questions that could reshape a worried Europe</title> 
+</TOPICS> 
+<DOCID type="str">695202212684</DOCID> 
+<DCT type="str">2017-01-29T04:39:46Z</DCT> 
+<TITLE type="str">Questions that could reshape a worried Europe</TITLE> 
 </root>

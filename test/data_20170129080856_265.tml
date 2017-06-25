@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">FLOWERY BRANCH, Ga. — Thomas Dimitroff’s Super Bowl matchup against Bill Belichick and the New England Patriots is far more than an executive facing his former boss and employer. 
+<TEXT type="str">FLOWERY BRANCH, Ga. — Thomas Dimitroff’s Super Bowl matchup against Bill Belichick and the New England Patriots is far more than an executive facing his former boss and employer. 
  
 Dimitroff, the Atlanta Falcons general manager since 2008, has extremely deep ties with Belichick. Dimitroff’s first NFL job was on the Cleveland Browns’ grounds crew when his father was a scout and Belichick was the coach. 
  
@@ -48,9 +48,8 @@ The Super Bowl will provide Dimitroff his ultimate test to prove he learned his 
  
 “A lot of things that I brought to the table were learned in New England,” he said. “It’s just been fun watching us develop here over the years. 
  
-“There’s definitely a northeastern stamp on it in certain ways, and yet we’ve really evolved into something that is very much the Falcons and not, obviously, the Patriots.”</content> 
-<sequenceId type="str">695199394542</sequenceId> 
-<topics type="list"> 
+“There’s definitely a northeastern stamp on it in certain ways, and yet we’ve really evolved into something that is very much the Falcons and not, obviously, the Patriots.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Atlanta Falcons news</name> 
@@ -71,7 +70,8 @@ The Super Bowl will provide Dimitroff his ultimate test to prove he learned his 
 <group type="str">Sports</group> 
 <name type="str">Sports: NFL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:50:00Z</estimatedPublishedDate> 
-<title type="str">Super Bowl: Falcons&apos; GM hopes to beat former employer</title> 
+</TOPICS> 
+<DOCID type="str">695199394542</DOCID> 
+<DCT type="str">2017-01-29T06:50:00Z</DCT> 
+<TITLE type="str">Super Bowl: Falcons&apos; GM hopes to beat former employer</TITLE> 
 </root>

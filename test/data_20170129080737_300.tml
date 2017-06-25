@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PHOENIX — The Denver Nuggets set up residence at the free-throw line in the third quarter Saturday night and made the most of their time there. 
+<TEXT type="str">PHOENIX — The Denver Nuggets set up residence at the free-throw line in the third quarter Saturday night and made the most of their time there. 
  
 The Nuggets sank 18 of 19 free throws in the period to pull away and beat the Phoenix Suns for the second time in three nights, 123-112. 
  
@@ -42,9 +42,8 @@ They used a 19-3 first-quarter run to go up 29-13 on Brandon Knight&apos;s 10-fo
  
 But Denver got it going in the second, outscoring the Suns 15-5 to tie it at 44-44 when Gallinari converted a three-point play with five minutes left in the half. Denver never quite caught the Suns the rest of the half. Bledsoe&apos;s two free throws with 7.6 seconds to play put Phoenix up 61-59 lead at the break. 
  
-NOTES: Bledsoe&apos;s previous career high was 40 set in Toronto on Jan. 22. ... Booker scored at least 20 for the 12th straight game, the first player to do so in his first or second season since Blake Griffin did it 14 in a row in 2010-11. ... Knight struggled through a 1-for-8 shooting night, and his team&apos;s point differential was a staggering minus-32 when he was on the floor. ... Phoenix was without rookie Dragan Bender for the third straight game with right ankle soreness. ... Jokic is Denver&apos;s second-leading scorer at 15.5 points per game and had posted 17 double-doubles in the last 25 games. ..The Nuggets have beaten the Suns six straight times and swept the season series 4-0. ... Denver&apos;s only first-half lead was 1</content> 
-<sequenceId type="str">695196357638</sequenceId> 
-<topics type="list"> 
+NOTES: Bledsoe&apos;s previous career high was 40 set in Toronto on Jan. 22. ... Booker scored at least 20 for the 12th straight game, the first player to do so in his first or second season since Blake Griffin did it 14 in a row in 2010-11. ... Knight struggled through a 1-for-8 shooting night, and his team&apos;s point differential was a staggering minus-32 when he was on the floor. ... Phoenix was without rookie Dragan Bender for the third straight game with right ankle soreness. ... Jokic is Denver&apos;s second-leading scorer at 15.5 points per game and had posted 17 double-doubles in the last 25 games. ..The Nuggets have beaten the Suns six straight times and swept the season series 4-0. ... Denver&apos;s only first-half lead was 1</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NBA - Phoenix Suns news</name> 
@@ -61,7 +60,8 @@ NOTES: Bledsoe&apos;s previous career high was 40 set in Toronto on Jan. 22. ...
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:52Z</estimatedPublishedDate> 
-<title type="str">Nuggets use free-throw parade to beat Suns again, 123-112</title> 
+</TOPICS> 
+<DOCID type="str">695196357638</DOCID> 
+<DCT type="str">2017-01-29T07:28:52Z</DCT> 
+<TITLE type="str">Nuggets use free-throw parade to beat Suns again, 123-112</TITLE> 
 </root>

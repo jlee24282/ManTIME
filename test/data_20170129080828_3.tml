@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">*New Delhi [India], Jan. 29 (ANI): Prime Minister  Narendra Modi on Sunday congratulated the Indian Coast Guard, which is completing 40 years of existence on February 1.*</content> 
-<sequenceId type="str">695197825175</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">*New Delhi [India], Jan. 29 (ANI): Prime Minister  Narendra Modi on Sunday congratulated the Indian Coast Guard, which is completing 40 years of existence on February 1.*</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:39:08Z</estimatedPublishedDate> 
-<title type="str">PM Modi congratulates Indian Coast Guard for completing 40 years on Feb. 1</title> 
+</TOPICS> 
+<DOCID type="str">695197825175</DOCID> 
+<DCT type="str">2017-01-29T07:39:08Z</DCT> 
+<TITLE type="str">PM Modi congratulates Indian Coast Guard for completing 40 years on Feb. 1</TITLE> 
 </root>

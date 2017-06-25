@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">How many retail traders are going to get crushed chasing the Semiconductor Index (SOX) when it crashes?
+<TEXT type="str">How many retail traders are going to get crushed chasing the Semiconductor Index (SOX) when it crashes?
 
 The rubber band is stretched a long way, but during periods of irrational exuberance it can keep stretching. It&apos;s dangerous territory.
 
-SOX Weekly 2007-2</content> 
-<sequenceId type="str">695203140544</sequenceId> 
-<topics type="list"> 
+SOX Weekly 2007-2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Semiconductor industry news</name> 
@@ -19,7 +18,8 @@ SOX Weekly 2007-2</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Chart Of The Day: Semiconductor Index Becoming Parabolic?</title> 
+</TOPICS> 
+<DOCID type="str">695203140544</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Chart Of The Day: Semiconductor Index Becoming Parabolic?</TITLE> 
 </root>

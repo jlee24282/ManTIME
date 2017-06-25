@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Search by city or zip code. Press enter or select the go button to submit request 
+<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
               
 Auto Refresh: OFF  
      
@@ -47,10 +47,10 @@ Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  207.6 ft  223 ft  I
 (gauge height = 207.6)  Elevation 
 (gauge height = flood stage)  Elevation information source  NAVD88  207.6  223  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  0.00  16  Old gage zero flood stage  
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</content> 
-<sequenceId type="str">695198340193</sequenceId> 
-<topics type="list"> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:12Z</estimatedPublishedDate> 
-<title type="str">Action (221.66 ft) - Observation - ALAG1 - Alapaha River at Alapaha (Georgia)</title> 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
+<TOPICS type="list"> 
+</TOPICS> 
+<DOCID type="str">695198340193</DOCID> 
+<DCT type="str">2017-01-29T07:37:12Z</DCT> 
+<TITLE type="str">Action (221.66 ft) - Observation - ALAG1 - Alapaha River at Alapaha (Georgia)</TITLE> 
 </root>

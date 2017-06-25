@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Ole Miss couldn&apos;t quite pull off the upset of No. 5 Baylor Saturday night. Analysis, quotes, recap and box score. 
+<TEXT type="str">Ole Miss couldn&apos;t quite pull off the upset of No. 5 Baylor Saturday night. Analysis, quotes, recap and box score. 
  SPIRIT&apos;S TAKE  
 Saturday had all the makings of a season-saver. 
  
@@ -45,9 +45,8 @@ Baylor travels to face No. 2 Kansas on Wednesday.
  
 Ole Miss stays at home, where it will face Mississippi State on Tuesday. 
  
-BOX SCORE</content> 
-<sequenceId type="str">695196211930</sequenceId> 
-<topics type="list"> 
+BOX SCORE</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -56,7 +55,8 @@ BOX SCORE</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:44Z</estimatedPublishedDate> 
-<title type="str">Rebs Can&apos;t Pull Upset of Baylor</title> 
+</TOPICS> 
+<DOCID type="str">695196211930</DOCID> 
+<DCT type="str">2017-01-29T07:27:44Z</DCT> 
+<TITLE type="str">Rebs Can&apos;t Pull Upset of Baylor</TITLE> 
 </root>

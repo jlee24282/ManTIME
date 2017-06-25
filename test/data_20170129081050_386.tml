@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The file photo shows US paratroopers jumping with parachute during a military drill. (By AFP) 
+<TEXT type="str">The file photo shows US paratroopers jumping with parachute during a military drill. (By AFP) 
  
 A number of US commandos have reportedly parachuted in the southwestern Yemeni province of Bayda, where they raided a village and killed a total of 20 people, among them civilians. 
  
@@ -34,9 +34,8 @@ The Riyadh regime has been incessantly pounding Yemen since March 2015 in a bid 
  
 The Houthis and the Yemeni army have been defending Yemen against the Saudi offensive over the past almost two years. 
  
-The Saudi military aggression has claimed the lives of over 11,400 Yemenis, including women and children, according to the latest tally by a Yemeni monitoring group.</content> 
-<sequenceId type="str">695203585482</sequenceId> 
-<topics type="list"> 
+The Saudi military aggression has claimed the lives of over 11,400 Yemenis, including women and children, according to the latest tally by a Yemeni monitoring group.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -53,7 +52,8 @@ The Saudi military aggression has claimed the lives of over 11,400 Yemenis, incl
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:40Z</estimatedPublishedDate> 
-<title type="str">‘20 killed as US forces raid Yemen’s Bayda’ 2min</title> 
+</TOPICS> 
+<DOCID type="str">695203585482</DOCID> 
+<DCT type="str">2017-01-29T08:22:40Z</DCT> 
+<TITLE type="str">‘20 killed as US forces raid Yemen’s Bayda’ 2min</TITLE> 
 </root>

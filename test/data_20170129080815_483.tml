@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Court issues stay for detainees with visas 
+<TEXT type="str">Court issues stay for detainees with visas 
    
 Doug Stanglin and Alan Gomez, USA TODAY , Christopher Buchanan and Ryan Kruger, WXIA  10:45 PM. EST January 28, 2017 
    
@@ -38,9 +38,8 @@ Mohammed Al Rawi, chief information officer for Los Angeles County, said on Face
  
 In addition to protests planned at airports around the country, there is also one planned for Hartsfield-Jackson in response to the executive orders. 
  
-(© 2017 WXIA)</content> 
-<sequenceId type="str">695197815358</sequenceId> 
-<topics type="list"> 
+(© 2017 WXIA)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -61,7 +60,8 @@ In addition to protests planned at airports around the country, there is also on
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:21Z</estimatedPublishedDate> 
-<title type="str">As many as 11 detained at Hartsfield-Jackson following Trump immigration ban</title> 
+</TOPICS> 
+<DOCID type="str">695197815358</DOCID> 
+<DCT type="str">2017-01-29T07:37:21Z</DCT> 
+<TITLE type="str">As many as 11 detained at Hartsfield-Jackson following Trump immigration ban</TITLE> 
 </root>

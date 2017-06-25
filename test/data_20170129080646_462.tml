@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In their first conversation since Donald Trump s inauguration as US president, he and President of R</content> 
-<sequenceId type="str">695194560446</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">In their first conversation since Donald Trump s inauguration as US president, he and President of R</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:28Z</estimatedPublishedDate> 
-<title type="str">Trump, Putin agree on need for cooperation in fighting terrorism</title> 
+</TOPICS> 
+<DOCID type="str">695194560446</DOCID> 
+<DCT type="str">2017-01-29T07:16:28Z</DCT> 
+<TITLE type="str">Trump, Putin agree on need for cooperation in fighting terrorism</TITLE> 
 </root>

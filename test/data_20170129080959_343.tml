@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Kim Kardashian West 
+<TEXT type="str">Kim Kardashian West 
  
 Almost all of Kim Kardashian West&apos;s stolen jewels have been melted down. 
  
@@ -18,9 +18,8 @@ And Khedache admitted planning the robbery was easy, because Kim was so open abo
  
 He said: &quot;The jewels were shown on the internet, and (she said) that she didn&apos;t wear fakes... the time she would arrive in France, you just had to look at the internet and you knew everything, absolutely everything. 
  
-&quot;We had very precise information about her movements that we got from someone who was very close to her.&quot;</content> 
-<sequenceId type="str">695201924606</sequenceId> 
-<topics type="list"> 
+&quot;We had very precise information about her movements that we got from someone who was very close to her.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: celebrity gossip</name> 
@@ -29,7 +28,8 @@ He said: &quot;The jewels were shown on the internet, and (she said) that she di
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:50Z</estimatedPublishedDate> 
-<title type="str">29 January 2017 Kim Kardashian West&apos;s stolen jewels melted and sold</title> 
+</TOPICS> 
+<DOCID type="str">695201924606</DOCID> 
+<DCT type="str">2017-01-29T08:09:50Z</DCT> 
+<TITLE type="str">29 January 2017 Kim Kardashian West&apos;s stolen jewels melted and sold</TITLE> 
 </root>

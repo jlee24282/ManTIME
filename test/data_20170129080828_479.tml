@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Hundreds of protesters descended upon airports nationwide. 
+<TEXT type="str">Hundreds of protesters descended upon airports nationwide. 
   Leave a Reply  
 You must be logged in to post a comment. Hundreds of protesters descended upon airports nationwide. 
   Leave a Reply  
-You must be logged in to post a comment.</content> 
-<sequenceId type="str">695198446455</sequenceId> 
-<topics type="list"> 
+You must be logged in to post a comment.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -19,7 +18,8 @@ You must be logged in to post a comment.</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:04:55Z</estimatedPublishedDate> 
-<title type="str">Trump’s Travel Ban Sparks Airport Protests Across US</title> 
+</TOPICS> 
+<DOCID type="str">695198446455</DOCID> 
+<DCT type="str">2017-01-29T07:04:55Z</DCT> 
+<TITLE type="str">Trump’s Travel Ban Sparks Airport Protests Across US</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Girls soccer  
+<TEXT type="str">Girls soccer  
 UPLAND 3, ST. LUCY’S 0 &gt;&gt; Rachel Kline had two goals in a Baseline League shutout. PJ Dyer scored a goal in the victory. Goalkeeper Madison Soto had eight saves. 
  Girls basketball  
 YUCAIPA 47, REDLANDS EAST VALLEY 38 &gt;&gt; Marissa Holt had 26 points in the Citrus Belt League win. Julianne LeClair had eight points. 
@@ -17,9 +17,8 @@ CLAREMONT-MUDD-SCRIPPS &gt;&gt; Jocelyn Crawford finished first in the 100-yard 
  College softball  
 Redlands 6-3, Whitworth 5-11 &gt;&gt; The Bulldogs split a season-opening double header in nonconference play. In Game 1, Lali Garza went 2 for 3 with two RBIs. Summer Smith went 4 for 4 with an RBI and two runs. In Game 2, Smith went 2 for 3 with an RBI. Amanda Ang went 1 for 2 with two runs. 
  
-Advertisement</content> 
-<sequenceId type="str">695201115921</sequenceId> 
-<topics type="list"> 
+Advertisement</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -28,7 +27,8 @@ Advertisement</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Roundup: Upland girls soccer shuts out St. Lucy&apos;s</title> 
+</TOPICS> 
+<DOCID type="str">695201115921</DOCID> 
+<DCT type="str">2017-01-28T08:01:00Z</DCT> 
+<TITLE type="str">Roundup: Upland girls soccer shuts out St. Lucy&apos;s</TITLE> 
 </root>

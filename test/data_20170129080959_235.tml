@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ELLENSBURG — An already rough week for Central Washington’s men got worse Saturday night. 
+<TEXT type="str">ELLENSBURG — An already rough week for Central Washington’s men got worse Saturday night. 
    
 Upset Thursday at home by Concordia, the Wildcats were whipped 85-68 in GNAC play in Nicholson Pavilion. 
    
@@ -130,9 +130,8 @@ Simi Ratukalou and Beau Davis scored in the first half, and Cameron Marek and La
    
 Central led 15-7 at half but was up just 15-14 early in the second before it scored 20 of the next 27 points to take command. 
    
-The Wildcats play two road matches this week — at Lindenwood-Belleville on Thursday and at No. 7 Lindenwood on Saturday.</content> 
-<sequenceId type="str">695201844321</sequenceId> 
-<topics type="list"> 
+The Wildcats play two road matches this week — at Lindenwood-Belleville on Thursday and at No. 7 Lindenwood on Saturday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -141,7 +140,8 @@ The Wildcats play two road matches this week — at Lindenwood-Belleville on Thu
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:08Z</estimatedPublishedDate> 
-<title type="str">College roundup: Central men come up short in loss to Western Oregon</title> 
+</TOPICS> 
+<DOCID type="str">695201844321</DOCID> 
+<DCT type="str">2017-01-29T08:09:08Z</DCT> 
+<TITLE type="str">College roundup: Central men come up short in loss to Western Oregon</TITLE> 
 </root>

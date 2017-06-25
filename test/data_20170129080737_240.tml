@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Marwan An-Najar, a Palestinian from the south of the Gaza Strip, says he has not tasted sweet tap water in 10 years. Every day, he travels four kilometres to fill a 20-litre plastic jerry can at a local desalination station. 
+<TEXT type="str">Marwan An-Najar, a Palestinian from the south of the Gaza Strip, says he has not tasted sweet tap water in 10 years. Every day, he travels four kilometres to fill a 20-litre plastic jerry can at a local desalination station. 
 
 Gaza has long suffered severe water problems, with its aquifer contaminated by sewage, chemicals and seawater and the territory’s three desalination plants unable to meet demand. To drink, most citizens depend on imported, bottled water. 
 
@@ -33,9 +33,8 @@ A 10-million-euro, EU-funded desalination plant was opened by the European Union
 
 The big hope is that a large-scale desalination plant, costing 500 million euros ($535 million), can be built to get ahead of the rising demand. Plans are in the works, but it remains years off. 
 
-For now, two of Gaza’s three desalination facilities are functioning, producing just 8,600 cubic metres of water a day. ($1 = 0.9324 euros)</content> 
-<sequenceId type="str">695196303275</sequenceId> 
-<topics type="list"> 
+For now, two of Gaza’s three desalination facilities are functioning, producing just 8,600 cubic metres of water a day. ($1 = 0.9324 euros)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Water industry news</name> 
@@ -52,7 +51,8 @@ For now, two of Gaza’s three desalination facilities are functioning, producin
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:27Z</estimatedPublishedDate> 
-<title type="str">Gaza’s water shortage worsening, no easy solutions seen</title> 
+</TOPICS> 
+<DOCID type="str">695196303275</DOCID> 
+<DCT type="str">2017-01-29T07:28:27Z</DCT> 
+<TITLE type="str">Gaza’s water shortage worsening, no easy solutions seen</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">[embedded content]  
+<TEXT type="str">[embedded content]  
 Subscribe to FATV: http://bit.ly/FATVSub 
  
 In an FATV Focus special, Adebayo Akinfenwa sits down and speaks about Wycombe Wanderers’ excitement to take on currently in form, Tottenham Hotspurs in the 4th Round of the 2016/17 Emirates FA Cup. 
@@ -32,9 +32,8 @@ The FA WSL: http://www.facebook.com/fawsl
 Wembley Stadium: http://www.facebook.com/wembleystadium 
  
 INSTAGRAM 
-The England Football Team: http://www.instagram.com/england</content> 
-<sequenceId type="str">695204350520</sequenceId> 
-<topics type="list"> 
+The England Football Team: http://www.instagram.com/england</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Tottenham Hotspur news</name> 
@@ -51,7 +50,8 @@ The England Football Team: http://www.instagram.com/england</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: Premier League news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-27T13:19:51Z</estimatedPublishedDate> 
-<title type="str">Akinfenwa hears what Spurs players have to say about him | FATV Focus</title> 
+</TOPICS> 
+<DOCID type="str">695204350520</DOCID> 
+<DCT type="str">2017-01-27T13:19:51Z</DCT> 
+<TITLE type="str">Akinfenwa hears what Spurs players have to say about him | FATV Focus</TITLE> 
 </root>

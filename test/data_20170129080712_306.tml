@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Governor’s Office of Economic Development has a bill drafted for the 2017 legislative session that will pave the way for driverless taxicabs, driverless drone cabs and driverless ride-sharing vehicles.
+<TEXT type="str">The Governor’s Office of Economic Development has a bill drafted for the 2017 legislative session that will pave the way for driverless taxicabs, driverless drone cabs and driverless ride-sharing vehicles.
 
 Or, as Steve Hill, director of the economic development office, put it: driverless anything.
 
@@ -38,9 +38,8 @@ Hill said he is expecting the bill’s language to change as the affected compan
 
 “We’re going into this process with an open mind,” Hill said. “We want to get input from people, and that’s why we got this bill out relatively early.”
 
-Contact Nicole Raz at nraz@reviewjournal.com or 702-380-4512. Follow @JournalistNikki on Twitter. Contact Art Marroquin at amarroquin@reviewjournal.com or 702-383-0336. Follow @AMarroquin_LV on Twitter.</content> 
-<sequenceId type="str">695195384708</sequenceId> 
-<topics type="list"> 
+Contact Nicole Raz at nraz@reviewjournal.com or 702-380-4512. Follow @JournalistNikki on Twitter. Contact Art Marroquin at amarroquin@reviewjournal.com or 702-383-0336. Follow @AMarroquin_LV on Twitter.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -49,7 +48,8 @@ Contact Nicole Raz at nraz@reviewjournal.com or 702-380-4512. Follow @Journalist
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:49Z</estimatedPublishedDate> 
-<title type="str">Bill would pave way for driverless car fleets in Nevada</title> 
+</TOPICS> 
+<DOCID type="str">695195384708</DOCID> 
+<DCT type="str">2017-01-29T06:59:49Z</DCT> 
+<TITLE type="str">Bill would pave way for driverless car fleets in Nevada</TITLE> 
 </root>

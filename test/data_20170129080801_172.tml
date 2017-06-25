@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">As the world honored the memory of the millions of people exterminated in the Nazi Holocaust, the United Nations warned Friday that the rise of extremism and hatred could trigger another monstrous act of genocide.
+<TEXT type="str">As the world honored the memory of the millions of people exterminated in the Nazi Holocaust, the United Nations warned Friday that the rise of extremism and hatred could trigger another monstrous act of genocide.
 
 U.N. officials used International Holocaust Remembrance Day to urge nations to be vigilant and to take preventive action against anti-Semitism, xenophobia, racism and anti-Muslim sentiment.
 
@@ -10,9 +10,8 @@ There is anecdotal evidence of an upsurge in those kinds of crimes following the
 
 In Washington, President Donald Trump marked the day by issuing a statement saying it is with &quot;a heavy heart and somber mind&quot; that Americans remember the survivors and victims of the Holocaust.
 
-Trump pledged to do everything in his power to ensure that the forces of evil never again defeat the powers of good. In a departure from some of his campaign rhetoric that singled out various ethnic groups for criticism, Trump said his administration, together with others, will work to make love and tolerance prevalent throughout the world.</content> 
-<sequenceId type="str">695197065455</sequenceId> 
-<topics type="list"> 
+Trump pledged to do everything in his power to ensure that the forces of evil never again defeat the powers of good. In a departure from some of his campaign rhetoric that singled out various ethnic groups for criticism, Trump said his administration, together with others, will work to make love and tolerance prevalent throughout the world.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -21,7 +20,8 @@ Trump pledged to do everything in his power to ensure that the forces of evil ne
 <group type="str">Society</group> 
 <name type="str">Jewish news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:33Z</estimatedPublishedDate> 
-<title type="str">UN: Extremism, Hatred Could Trigger Holocaust</title> 
+</TOPICS> 
+<DOCID type="str">695197065455</DOCID> 
+<DCT type="str">2017-01-29T07:34:33Z</DCT> 
+<TITLE type="str">UN: Extremism, Hatred Could Trigger Holocaust</TITLE> 
 </root>

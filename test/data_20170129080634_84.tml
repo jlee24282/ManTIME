@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">To the Editor: I have been a union member for many years and have always been opposed to the political slant of the unions. However, I recognize the importance of unions as an insurance protection against aggressive managers. 
+<TEXT type="str">To the Editor: I have been a union member for many years and have always been opposed to the political slant of the unions. However, I recognize the importance of unions as an insurance protection against aggressive managers. 
 
 No one likes needing insurance, but we all know that it does provide a degree of protection. I believe everyone should be offered the right to work and not be forced or intimidated to join a union. That said, I also believe that no union should be forced to represent anyone that doesn&apos;t pay dues to the union. Shouldn&apos;t people be allowed to choose to join a union or not? 
 
@@ -10,9 +10,8 @@ ARMAND SOUCY
 
 Pembroke 
 
-.</content> 
-<sequenceId type="str">695193869761</sequenceId> 
-<topics type="list"> 
+.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Insurance industry news</name> 
@@ -25,7 +24,8 @@ Pembroke
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:01:00Z</estimatedPublishedDate> 
-<title type="str">Unions Insurance for workers</title> 
+</TOPICS> 
+<DOCID type="str">695193869761</DOCID> 
+<DCT type="str">2017-01-29T02:01:00Z</DCT> 
+<TITLE type="str">Unions Insurance for workers</TITLE> 
 </root>

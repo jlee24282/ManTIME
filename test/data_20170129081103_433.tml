@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Increasing competition from global operators, changing trade deals, and political uncertainty are causing a slowdown in Australia’s tech market with just 2% growth predicted for this year, and a further decline to 1% growth for 2018, according to global research firm Forrester. Forrester predicts that Australian technology buyers in business and government will exercise caution as the uncertainties of the world economy unfold in the upcoming year.
+<TEXT type="str">Increasing competition from global operators, changing trade deals, and political uncertainty are causing a slowdown in Australia’s tech market with just 2% growth predicted for this year, and a further decline to 1% growth for 2018, according to global research firm Forrester. Forrester predicts that Australian technology buyers in business and government will exercise caution as the uncertainties of the world economy unfold in the upcoming year.
 
 According to the research firm’s report, the entire Asia Pacific tech market, once the fastest-growing tech market in the world, is slowing down, and it forecasts only moderate growth for APAC this year in line with slowing economies in most markets in the region,
 
@@ -34,9 +34,8 @@ One of the main forces of disruption is the shift toward populist, anti-globalis
 
 &quot; The rest of Europe and Japan are still struggling with deflationary pressures and poor economic growth, which will hold down their tech spending. Low oil and commodity prices will hurt economic growth and tech spending in Russia, the Middle East, and Africa.
 
-&quot;On the other hand, Canada and the rest of the Asia Pacific region will have similar growth to that of the US, with India&apos;s and China&apos;s tech market posting the strongest growth rates of any country.&quot;</content> 
-<sequenceId type="str">695204142583</sequenceId> 
-<topics type="list"> 
+&quot;On the other hand, Canada and the rest of the Asia Pacific region will have similar growth to that of the US, with India&apos;s and China&apos;s tech market posting the strongest growth rates of any country.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
@@ -73,7 +72,8 @@ One of the main forces of disruption is the shift toward populist, anti-globalis
 <group type="str">Regional</group> 
 <name type="str">Japan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:50Z</estimatedPublishedDate> 
-<title type="str">Tech market growth rates on decline in Australia, Asia Pacific</title> 
+</TOPICS> 
+<DOCID type="str">695204142583</DOCID> 
+<DCT type="str">2017-01-29T08:26:50Z</DCT> 
+<TITLE type="str">Tech market growth rates on decline in Australia, Asia Pacific</TITLE> 
 </root>

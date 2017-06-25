@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">– The United Nations agencies dealing with global refugee and migration issues today expressed the hope that the United States will continue its strong leadership role and long tradition of protecting those who are fleeing conflict and persecution.
+<TEXT type="str">– The United Nations agencies dealing with global refugee and migration issues today expressed the hope that the United States will continue its strong leadership role and long tradition of protecting those who are fleeing conflict and persecution.
 
 &quot;The needs of refugees and migrants worldwide have never been greater, and the US resettlement programme is one of the most important in the world,&quot; says a joint statement from the Office of the UN High Commissioner for Refugees (UNHCR) and the International Organization for Migration (IOM).
 
@@ -14,9 +14,8 @@ The statement from the agencies follows incoming President Donald Trump&apos;s s
 
 UNHCR and the IOM go on to express the strong belief that refugees should receive equal treatment for protection and assistance, and opportunities for resettlement, regardless of their religion, nationality or race.
 
-&quot;We will continue to engage actively and constructively with the US Government, as we have done for decades, to protect those who need it most, and to offer our support on asylum and migration matters,&quot; the statement concludes.</content> 
-<sequenceId type="str">695197067878</sequenceId> 
-<topics type="list"> 
+&quot;We will continue to engage actively and constructively with the US Government, as we have done for decades, to protect those who need it most, and to offer our support on asylum and migration matters,&quot; the statement concludes.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -29,7 +28,8 @@ UNHCR and the IOM go on to express the strong belief that refugees should receiv
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:34Z</estimatedPublishedDate> 
-<title type="str">UN agencies express hope US will continue long tradition of protecting those fleeing conflict, persecution</title> 
+</TOPICS> 
+<DOCID type="str">695197067878</DOCID> 
+<DCT type="str">2017-01-29T07:34:34Z</DCT> 
+<TITLE type="str">UN agencies express hope US will continue long tradition of protecting those fleeing conflict, persecution</TITLE> 
 </root>

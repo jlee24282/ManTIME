@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">One Carson High student is trying to raise awareness on suicide prevention, as a way to honor her late brother. 
+<TEXT type="str">One Carson High student is trying to raise awareness on suicide prevention, as a way to honor her late brother. 
  
 Alyssa Woodward lost her brother, Jordan, in August 2015 to suicide. 
  
@@ -36,9 +36,8 @@ The scholarship application will be available in the Carson High School guidance
  
 Registration for the race is at http://ultrasignup.com/register.aspx?did=43933 . The 5K race will be $35 to register and the 10K will be $45. Race registration will close on Feb. 25. Race day registration will be available but there is an additional $5 fee for all race day registrations on the day of the race. Race day registration will begin at 7 a.m. and close at 8:30 a.m. 
  
-Donations also can be sent through the project’s GoFundMe page at https://www.gofundme.com/jog-for-joran .</content> 
-<sequenceId type="str">695201288512</sequenceId> 
-<topics type="list"> 
+Donations also can be sent through the project’s GoFundMe page at https://www.gofundme.com/jog-for-joran .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -47,7 +46,8 @@ Donations also can be sent through the project’s GoFundMe page at https://www.
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:01Z</estimatedPublishedDate> 
-<title type="str">Carson High School senior plans project to raise suicide awareness, remember her brother</title> 
+</TOPICS> 
+<DOCID type="str">695201288512</DOCID> 
+<DCT type="str">2017-01-29T07:27:01Z</DCT> 
+<TITLE type="str">Carson High School senior plans project to raise suicide awareness, remember her brother</TITLE> 
 </root>

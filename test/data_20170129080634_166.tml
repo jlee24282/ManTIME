@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON -- A federal judge issued an emergency order Saturday night temporarily barring the U.S. from deporting people from nations subject to President Donald Trump&apos;s travel ban.
+<TEXT type="str">WASHINGTON -- A federal judge issued an emergency order Saturday night temporarily barring the U.S. from deporting people from nations subject to President Donald Trump&apos;s travel ban.
 
 U.S. District Judge Ann Donnelly in New York issued the emergency order after lawyers for the American Civil Liberties Union filed a court petition on behalf of people from seven predominantly Muslim nations who were detained at airports across the country as the ban took effect.
 
@@ -68,9 +68,8 @@ Last year, the U.S. resettled 85,000 people displaced by war, political oppressi
 
 No refugees were in the air when the travel ban was signed Friday, but about 350 people were in transit in Nairobi, Kenya, and were now stuck there, said Melanie Nezer, vice president of policy and advocacy for HIAS, a refugee resettlement aid agency. She said several hundred more people who were booked on U.S.-bound flights in the next week were now stranded around the globe.
 
-&quot;This in effect could be a permanent ban,&quot; she said. &quot;Many of these people may never be able to come.&quot;</content> 
-<sequenceId type="str">695193991633</sequenceId> 
-<topics type="list"> 
+&quot;This in effect could be a permanent ban,&quot; she said. &quot;Many of these people may never be able to come.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -103,7 +102,8 @@ No refugees were in the air when the travel ban was signed Friday, but about 350
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:00Z</estimatedPublishedDate> 
-<title type="str">Federal judge bars deportations under President Trump&apos;s travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695193991633</DOCID> 
+<DCT type="str">2017-01-29T06:00:00Z</DCT> 
+<TITLE type="str">Federal judge bars deportations under President Trump&apos;s travel ban</TITLE> 
 </root>

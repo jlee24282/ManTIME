@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Share This Story!  
+<TEXT type="str">Share This Story!  
 Let friends in your social network know what you are reading about The noise reached up to 126.4 decibels before tipoff as actor Steve Zahn stoked the crowd as Guinness Book of World Records representatives were in Rupp Arena Saturday. 
     Post to Facebook    
 Try Another 
@@ -13,9 +13,8 @@ Help
 ]]&gt;  
 {#  #} 
   
-Cancel Send</content> 
-<sequenceId type="str">695195410748</sequenceId> 
-<topics type="list"> 
+Cancel Send</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -32,7 +31,8 @@ Cancel Send</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:21:45Z</estimatedPublishedDate> 
-<title type="str">UK fans create world record for loudest indoor cheer</title> 
+</TOPICS> 
+<DOCID type="str">695195410748</DOCID> 
+<DCT type="str">2017-01-29T06:21:45Z</DCT> 
+<TITLE type="str">UK fans create world record for loudest indoor cheer</TITLE> 
 </root>

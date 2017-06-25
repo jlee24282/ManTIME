@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Having helped knock Hull City out of the UEFA Europa League a couple of years ago, Denis Odoi is hoping for a similar outcome on Sunday. 
+<TEXT type="str">Having helped knock Hull City out of the UEFA Europa League a couple of years ago, Denis Odoi is hoping for a similar outcome on Sunday. 
  
 The full-back was part of the Lokeren side who caused an upset when they sent the Tigers out of the competition at the Play-Off stage in August 2014. 
   
@@ -22,9 +22,8 @@ Odoi made his FA Cup debut in the previous round in Cardiff, and he’s keen for
  
 “English competitions have a lot of publicity,” he explained. “FA Cup matches are shown on Match of the Day which you can see in Belgium. Everybody follows English football in Belgium. 
  
-“Hopefully we can get a good result out of this game and then maybe get a nice fixture in the next round.” </content> 
-<sequenceId type="str">695203758822</sequenceId> 
-<topics type="list"> 
+“Hopefully we can get a good result out of this game and then maybe get a nice fixture in the next round.” </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -33,7 +32,8 @@ Odoi made his FA Cup debut in the previous round in Cardiff, and he’s keen for
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:12Z</estimatedPublishedDate> 
-<title type="str">Odoi: Play Our Game</title> 
+</TOPICS> 
+<DOCID type="str">695203758822</DOCID> 
+<DCT type="str">2017-01-29T08:24:12Z</DCT> 
+<TITLE type="str">Odoi: Play Our Game</TITLE> 
 </root>

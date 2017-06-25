@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">30 min ago 
+<TEXT type="str">30 min ago 
 
-A U.S. judge has temporarily blocked deportations of banned travelers following the recent executive order signed by President Trump.</content> 
-<sequenceId type="str">695200285745</sequenceId> 
-<topics type="list"> 
+A U.S. judge has temporarily blocked deportations of banned travelers following the recent executive order signed by President Trump.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -13,7 +12,8 @@ A U.S. judge has temporarily blocked deportations of banned travelers following 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:00Z</estimatedPublishedDate> 
-<title type="str">U.S. judge blocks deportations of banned travelers</title> 
+</TOPICS> 
+<DOCID type="str">695200285745</DOCID> 
+<DCT type="str">2017-01-29T07:26:00Z</DCT> 
+<TITLE type="str">U.S. judge blocks deportations of banned travelers</TITLE> 
 </root>

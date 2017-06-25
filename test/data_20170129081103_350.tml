@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Omar al-Shogre describes his horrific ordeal in Syrian regime prisons, which taught him to treasure</content> 
-<sequenceId type="str">695204052258</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Omar al-Shogre describes his horrific ordeal in Syrian regime prisons, which taught him to treasure</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Crime and punishment news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:06Z</estimatedPublishedDate> 
-<title type="str">How I m still alive : Surviving Assad s prison cells</title> 
+</TOPICS> 
+<DOCID type="str">695204052258</DOCID> 
+<DCT type="str">2017-01-29T08:26:06Z</DCT> 
+<TITLE type="str">How I m still alive : Surviving Assad s prison cells</TITLE> 
 </root>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Content marketing is competitive, and the modern reader has a short attention span. How do you get them to click and read your content? 
+<TEXT type="str">Content marketing is competitive, and the modern reader has a short attention span. How do you get them to click and read your content? 
  
-In case your attention span is too short to click, here&apos;s a quick summary: 1. Write high quality content. 2. Invest in thought leadership. 3. Create highly visual content. 4. Meet the reader halfway (by using numbered lists!) 5. Publish your content across a variety of channels.</content> 
-<sequenceId type="str">695204089571</sequenceId> 
-<topics type="list"> 
+In case your attention span is too short to click, here&apos;s a quick summary: 1. Write high quality content. 2. Invest in thought leadership. 3. Create highly visual content. 4. Meet the reader halfway (by using numbered lists!) 5. Publish your content across a variety of channels.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Mobile industry news</name> 
@@ -13,7 +12,8 @@ In case your attention span is too short to click, here&apos;s a quick summary: 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:30Z</estimatedPublishedDate> 
-<title type="str">When Is a Phone Call Better Than an Email? 6 Times When You Should Take..</title> 
+</TOPICS> 
+<DOCID type="str">695204089571</DOCID> 
+<DCT type="str">2017-01-29T08:26:30Z</DCT> 
+<TITLE type="str">When Is a Phone Call Better Than an Email? 6 Times When You Should Take..</TITLE> 
 </root>

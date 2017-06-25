@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">HIGH SCHOOLS 
+<TEXT type="str">HIGH SCHOOLS 
  
 BOYS BASKETBALL 
  
@@ -70,9 +70,8 @@ Central Catholic
 
 CALL IN YOUR SCORES 
  
-Area high school and college coaches or scorekeepers are encouraged to report results immediately after games. Call 916-441-4100 or email preps@sacbee.com. Calls will be accepted everyday until 11 p.m.</content> 
-<sequenceId type="str">695194057576</sequenceId> 
-<topics type="list"> 
+Area high school and college coaches or scorekeepers are encouraged to report results immediately after games. Call 916-441-4100 or email preps@sacbee.com. Calls will be accepted everyday until 11 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -85,7 +84,8 @@ Area high school and college coaches or scorekeepers are encouraged to report re
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:09Z</estimatedPublishedDate> 
-<title type="str">Saturday’s High School Scoreboard for Jan. 28, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695194057576</DOCID> 
+<DCT type="str">2017-01-29T07:00:09Z</DCT> 
+<TITLE type="str">Saturday’s High School Scoreboard for Jan. 28, 2017</TITLE> 
 </root>

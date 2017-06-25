@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Story Links  FINDLAY, Ohio –  The University of Dayton women&apos;s track and field team competed at the Findlay Classic and Elite Throws Competition Friday and today. 
+<TEXT type="str">Story Links  FINDLAY, Ohio –  The University of Dayton women&apos;s track and field team competed at the Findlay Classic and Elite Throws Competition Friday and today. 
 Highlights 
 •    Junior Sarah Sepanski won the pentathlon Friday with 3,374 points with the help of winning the pentathlon shot put, long jump and 60m hurdles. 
 •    Junior Brittany Fisher won the 800m run in a time of 2:17.00 Saturday. 
@@ -80,9 +80,8 @@ Dayton is back in action Friday and Saturday (Feb. 3-4) at the 13th Annual Akron
 
 Follow Dayton track and field on twitter  @UDWomensTF_XC  and like us on Facebook  @UDWomensTFXC 
   
-Print Friendly Version</content> 
-<sequenceId type="str">695194010038</sequenceId> 
-<topics type="list"> 
+Print Friendly Version</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -95,7 +94,8 @@ Print Friendly Version</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T21:30:00Z</estimatedPublishedDate> 
-<title type="str">TRACK AND FIELD SET SEVEN PRs AT FINDLAY CLASSIC</title> 
+</TOPICS> 
+<DOCID type="str">695194010038</DOCID> 
+<DCT type="str">2017-01-28T21:30:00Z</DCT> 
+<TITLE type="str">TRACK AND FIELD SET SEVEN PRs AT FINDLAY CLASSIC</TITLE> 
 </root>

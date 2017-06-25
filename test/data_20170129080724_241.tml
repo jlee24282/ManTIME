@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">EDMONTON — Colby McAuley scored twice on the power play and added two assists to lead the Prince George Cougars to an 11-3 rout of the struggling Edmonton Oil Kings on Saturday in Western Hockey League action. 
+<TEXT type="str">EDMONTON — Colby McAuley scored twice on the power play and added two assists to lead the Prince George Cougars to an 11-3 rout of the struggling Edmonton Oil Kings on Saturday in Western Hockey League action. 
    
 Radovan Bondra had a pair of goals, including the eventual winner, and added an assist for Prince George (35-14-3). Jesse Gabrielle and Josh Anderson also scored on the power play, while Tate Olson, Brad Morrison, Aaron Boyd, Brogan O&apos;Brien and Kody McDonald rounded out the attack. Nick McBride made 19 saves for the win. 
    
@@ -78,9 +78,8 @@ VICTORIA — Matthew Phillips and Dante Hannoun had two goals apiece as the Roya
    
 Carter Folk, Ethan Price and Scott Walford also scored for Victoria (28-19-4). 
    
-Jordan Borstmayer was the lone scorer for the Giants (17-29-4).</content> 
-<sequenceId type="str">695195835848</sequenceId> 
-<topics type="list"> 
+Jordan Borstmayer was the lone scorer for the Giants (17-29-4).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Energy industry news</name> 
@@ -89,7 +88,8 @@ Jordan Borstmayer was the lone scorer for the Giants (17-29-4).</content>
 <group type="str">Industry</group> 
 <name type="str">Oil and gas news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:01Z</estimatedPublishedDate> 
-<title type="str">WHL Roundup: Colby McAuley leads Cougars in 11-3 rout of Oil Kings</title> 
+</TOPICS> 
+<DOCID type="str">695195835848</DOCID> 
+<DCT type="str">2017-01-29T07:25:01Z</DCT> 
+<TITLE type="str">WHL Roundup: Colby McAuley leads Cougars in 11-3 rout of Oil Kings</TITLE> 
 </root>

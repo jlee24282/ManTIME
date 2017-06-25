@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MELBOURNE — Serena Williams plans to play fewer tournaments in the future to aid her quest to win more grand slam titles, according to her coach Patrick Mouratoglou. 
+<TEXT type="str">MELBOURNE — Serena Williams plans to play fewer tournaments in the future to aid her quest to win more grand slam titles, according to her coach Patrick Mouratoglou. 
  
 The 35-year-old American won her 23rd grand slam title on Saturday (Jan 28) at the Australian Open, breaking the open-era record she held jointly with Germany’s Steffi Graf. 
  
@@ -32,9 +32,8 @@ Mouratoglou said numbers alone were not the main factor behind Serena’s contin
  
 Mouratoglou also said Serena would not obsess over the record of 24 held by Court. “With all the respect for Margaret Court, it was another era, the draws were like 16 players and they were not professionals. 
  
-“Of course, the record is here and we definitely want to beat it, but there was a professional era and the record was Steffi Graf.” REUTERS</content> 
-<sequenceId type="str">695204565029</sequenceId> 
-<topics type="list"> 
+“Of course, the record is here and we definitely want to beat it, but there was a professional era and the record was Steffi Graf.” REUTERS</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -47,7 +46,8 @@ Mouratoglou also said Serena would not obsess over the record of 24 held by Cour
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:28Z</estimatedPublishedDate> 
-<title type="str">Serena Williams to play fewer tournaments to aid grand slam quest</title> 
+</TOPICS> 
+<DOCID type="str">695204565029</DOCID> 
+<DCT type="str">2017-01-29T08:30:28Z</DCT> 
+<TITLE type="str">Serena Williams to play fewer tournaments to aid grand slam quest</TITLE> 
 </root>

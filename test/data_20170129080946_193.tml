@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Several people were injured after a fight broke out following a boxing event at the Bell Centre Saturday night. 
+<TEXT type="str">Several people were injured after a fight broke out following a boxing event at the Bell Centre Saturday night. 
  
 The brawl began after Toronto&apos;s Brandon Cook defeated Montreal&apos;s Steven Butler in the seventh round of the main event. Several objects were thrown towards the ring, including an ice bucket which struck Cook in the head. 
  
@@ -8,14 +8,14 @@ Bell Centre security and Montreal police were able to get the brawl under contro
  
 Montreal police spokesman Raphael Bergeron says authorities were able to arrest two men thanks to eyewitness accounts. They are expected to be questioned by police later Sunday. 
  
-The police investigation is ongoing.</content> 
-<sequenceId type="str">695201335110</sequenceId> 
-<topics type="list"> 
+The police investigation is ongoing.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:56Z</estimatedPublishedDate> 
-<title type="str">Arrests, injuries after brawl erupts inside Bell Centre</title> 
+</TOPICS> 
+<DOCID type="str">695201335110</DOCID> 
+<DCT type="str">2017-01-29T08:05:56Z</DCT> 
+<TITLE type="str">Arrests, injuries after brawl erupts inside Bell Centre</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A new logistics center by SSI Schaefer has recently become operational for omni-channel distribution by the Finnish Stockmann Group, one of the leading retail companies in Scandinavia and the Baltics. A combination of hanging and flat goods and a design concept based on Schaefer’s 3D-MATRIX Solution® facilitates the order processing of both over-the-counter and online trade from one single distribution facility. 
+<TEXT type="str">A new logistics center by SSI Schaefer has recently become operational for omni-channel distribution by the Finnish Stockmann Group, one of the leading retail companies in Scandinavia and the Baltics. A combination of hanging and flat goods and a design concept based on Schaefer’s 3D-MATRIX Solution® facilitates the order processing of both over-the-counter and online trade from one single distribution facility. 
  
 The capacities of four former warehouse locations were consolidated in the new facility at Tuusula. It houses about 100,000 different products – more than 1.8 million individual items in total. “All types of articles – from large products to cosmetics and decorative items to hanging textile goods – are now bundled together in one location for every distribution channel,” explains Stockmann’s Logistics Manager, Elina Laine. “The distribution centre is the central component of our omnichannel strategy.” 
  
@@ -20,14 +20,14 @@ The system as a whole is currently designed to have a performance of 55,000 orde
  
 SSI SCHAEFER 
  
-www.ssi-schaefer.co.uk</content> 
-<sequenceId type="str">695198503219</sequenceId> 
-<topics type="list"> 
+www.ssi-schaefer.co.uk</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Finland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:21Z</estimatedPublishedDate> 
-<title type="str">SSI Schaefer supply Fashion Logistics Perfection</title> 
+</TOPICS> 
+<DOCID type="str">695198503219</DOCID> 
+<DCT type="str">2017-01-29T07:44:21Z</DCT> 
+<TITLE type="str">SSI Schaefer supply Fashion Logistics Perfection</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Canterbury United players celebrate a Stephen Hoyle (second from left) goal during their match against the Wellington Phoenix reserves at Newtown Park. 
+<TEXT type="str">Canterbury United players celebrate a Stephen Hoyle (second from left) goal during their match against the Wellington Phoenix reserves at Newtown Park. 
    
 It was easy to spot which team at Newtown Park was in with a chance of making the Stirling Sports Premiership playoffs. 
  
@@ -46,9 +46,8 @@ Canterbury United 4 (Stephen Hoyle 2, Andre de Jong, Jake Williams OG) Wellingto
  
 Team Wellington 4 (Andy Bevin 2, Josh Margetts, Guillermo Moretti) Hamilton Wanderers 2 (Raymond Gunemba, Aaron Scott). HT: 1-0. 
  
- </content> 
-<sequenceId type="str">695203853247</sequenceId> 
-<topics type="list"> 
+ </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -57,7 +56,8 @@ Team Wellington 4 (Andy Bevin 2, Josh Margetts, Guillermo Moretti) Hamilton Wand
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:42Z</estimatedPublishedDate> 
-<title type="str">Canterbury United keep pace with top four after easy win over Wellington Phoenix reserves</title> 
+</TOPICS> 
+<DOCID type="str">695203853247</DOCID> 
+<DCT type="str">2017-01-29T08:24:42Z</DCT> 
+<TITLE type="str">Canterbury United keep pace with top four after easy win over Wellington Phoenix reserves</TITLE> 
 </root>

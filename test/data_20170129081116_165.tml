@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:05 
+<TEXT type="str">:05 
  
 Inter Milan defender Danilo D&apos;Ambrosio has hailed coach Stefano Pioli&apos;s clear orders as the key to the club&apos;s remarkable turnaround since Frank de Boer was sacked. 
  
@@ -40,9 +40,8 @@ And the suddenly under-pressure coach admitted he had his work cut out to turn t
  
 The top three are all in action on Sunday with the reigning champions Juventus travelling to Sassuolo looking to hold on to a one-point and one-game-in-hand advantage over Roma, who are at Sampdoria. 
  
-Third-placed Napoli host Palermo in Sunday&apos;s late match.</content> 
-<sequenceId type="str">695204334017</sequenceId> 
-<topics type="list"> 
+Third-placed Napoli host Palermo in Sunday&apos;s late match.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -59,7 +58,8 @@ Third-placed Napoli host Palermo in Sunday&apos;s late match.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:23Z</estimatedPublishedDate> 
-<title type="str">Magnificent seven for Inter, Lazio spit fury</title> 
+</TOPICS> 
+<DOCID type="str">695204334017</DOCID> 
+<DCT type="str">2017-01-29T08:28:23Z</DCT> 
+<TITLE type="str">Magnificent seven for Inter, Lazio spit fury</TITLE> 
 </root>

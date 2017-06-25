@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Los Angeles, Jan 29 (IANS): The Academy of Motion Picture Arts and Sciences says it is &quot;extremely troubling&quot; that Iranian filmmaker Asghar Farhadi, nominated for an Oscar, will be barred from entering the US for the Oscar ceremony under President Donald Trumps travel ban on seven countries. 
+<TEXT type="str">Los Angeles, Jan 29 (IANS): The Academy of Motion Picture Arts and Sciences says it is &quot;extremely troubling&quot; that Iranian filmmaker Asghar Farhadi, nominated for an Oscar, will be barred from entering the US for the Oscar ceremony under President Donald Trumps travel ban on seven countries. 
  
 A statement was issued on Saturday in response to reports that Farhadi will not get permission to enter the US according to the provisions of an executive order signed by President Trump, reports variety.com. 
  
@@ -10,9 +10,8 @@ The statement read: &quot;The Academy celebrates achievement in the art of filmm
  
 Trump signed an order to suspend entry of refugees to the US for 120 days and imposed an indefinite ban on refugees from Syria. A 90-day ban was also placed on citizens of Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. 
  
-The Academy Awards will take place on February 26 here. &quot;The Salesman&quot; star Taraneh Alidoosti has said she plans to boycott the ceremony after Trump proposed the ban.</content> 
-<sequenceId type="str">695201344243</sequenceId> 
-<topics type="list"> 
+The Academy Awards will take place on February 26 here. &quot;The Salesman&quot; star Taraneh Alidoosti has said she plans to boycott the ceremony after Trump proposed the ban.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -25,7 +24,8 @@ The Academy Awards will take place on February 26 here. &quot;The Salesman&quot;
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:00Z</estimatedPublishedDate> 
-<title type="str">Oscars says Trump travel ban troubling</title> 
+</TOPICS> 
+<DOCID type="str">695201344243</DOCID> 
+<DCT type="str">2017-01-29T08:06:00Z</DCT> 
+<TITLE type="str">Oscars says Trump travel ban troubling</TITLE> 
 </root>

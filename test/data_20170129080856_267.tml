@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ATLANTA — Mike Smith never made it to the Super Bowl with the Atlanta Falcons. 
+<TEXT type="str">ATLANTA — Mike Smith never made it to the Super Bowl with the Atlanta Falcons. 
  
 Came up 10 yards short. 
  
@@ -66,9 +66,8 @@ But that doesn’t take away what Smith accomplished in Atlanta.
  
 He deserves a few props. 
  
-He deserves another head coaching job.</content> 
-<sequenceId type="str">695199396221</sequenceId> 
-<topics type="list"> 
+He deserves another head coaching job.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Atlanta Falcons news</name> 
@@ -77,7 +76,8 @@ He deserves another head coaching job.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:50:00Z</estimatedPublishedDate> 
-<title type="str">Commentary: Former Falcons coach deserves credit</title> 
+</TOPICS> 
+<DOCID type="str">695199396221</DOCID> 
+<DCT type="str">2017-01-29T06:50:00Z</DCT> 
+<TITLE type="str">Commentary: Former Falcons coach deserves credit</TITLE> 
 </root>

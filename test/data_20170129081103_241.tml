@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">21 Views  0 Comment Chippa United, Lukhanyo Mzinzi, Premier Soccer League, Wolfson Stadium 
+<TEXT type="str">21 Views  0 Comment Chippa United, Lukhanyo Mzinzi, Premier Soccer League, Wolfson Stadium 
 
 Chippa chief executive Lukhanyo Mzinzi at Wolfson Stadium where some top-tier games will be hosted soon 
 
@@ -38,9 +38,8 @@ The only issue still outstanding is the lights. They do not conform to PSL stand
 
 “The Ajax Cape Town and Supersport United matches will be played at Wolfson later in the season. 
 
-“We hope that those two games will draw numbers of spectators and also allow our people in the area to celebrate Chippa United.</content> 
-<sequenceId type="str">695203960975</sequenceId> 
-<topics type="list"> 
+“We hope that those two games will draw numbers of spectators and also allow our people in the area to celebrate Chippa United.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -49,7 +48,8 @@ The only issue still outstanding is the lights. They do not conform to PSL stand
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:38:16Z</estimatedPublishedDate> 
-<title type="str">Top soccer games to be played at Wolfson Stadium</title> 
+</TOPICS> 
+<DOCID type="str">695203960975</DOCID> 
+<DCT type="str">2017-01-29T07:38:16Z</DCT> 
+<TITLE type="str">Top soccer games to be played at Wolfson Stadium</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WILKES-BARRE — Two pianos with three hands and a theremin. 
+<TEXT type="str">WILKES-BARRE — Two pianos with three hands and a theremin. 
  
 Without context, the phrase sounds more like the activity at a music store rummage sale than the instrumental lineup of an improvisational trio, but behind the phrase is the impromptu experiment of three experienced local musicians and the unfortunate way they came up with a name. 
  
@@ -62,14 +62,14 @@ Admission information: The event is free and open to the public, although a sugg
  
  
  
-Reach Matt Mattei at 570-991-6651 or on Twitter @TimesLeaderMatt.</content> 
-<sequenceId type="str">695201519142</sequenceId> 
-<topics type="list"> 
+Reach Matt Mattei at 570-991-6651 or on Twitter @TimesLeaderMatt.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-27T22:45:22Z</estimatedPublishedDate> 
-<title type="str">Fracture Society reunites for piano, theremin performance in Wilkes-Barre</title> 
+</TOPICS> 
+<DOCID type="str">695201519142</DOCID> 
+<DCT type="str">2017-01-27T22:45:22Z</DCT> 
+<TITLE type="str">Fracture Society reunites for piano, theremin performance in Wilkes-Barre</TITLE> 
 </root>

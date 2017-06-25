@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Nick Lindner looked at the scoreboard and saw numbers he could not accept. 
+<TEXT type="str">Nick Lindner looked at the scoreboard and saw numbers he could not accept. 
  
 Lafayette&apos;s senior leader never left the floor as he tried to lead his team back from a 28-point deficit. He and his teammates couldn&apos;t overcome their dreadful start despite the effort they delivered in the final 26 minutes. 
  
@@ -34,9 +34,8 @@ samiller@mcall.com
  
 Twitter @mcall_smiller 
  
-610-82</content> 
-<sequenceId type="str">695199902246</sequenceId> 
-<topics type="list"> 
+610-82</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -49,7 +48,8 @@ Twitter @mcall_smiller
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:44:00Z</estimatedPublishedDate> 
-<title type="str">Lafayette men&apos;s basketball team can&apos;t complete rally in loss to Loyola Maryland</title> 
+</TOPICS> 
+<DOCID type="str">695199902246</DOCID> 
+<DCT type="str">2017-01-29T01:44:00Z</DCT> 
+<TITLE type="str">Lafayette men&apos;s basketball team can&apos;t complete rally in loss to Loyola Maryland</TITLE> 
 </root>

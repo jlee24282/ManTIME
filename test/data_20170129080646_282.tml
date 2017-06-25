@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">HARARE - The Meteorological Services Department (Met) has advised that most parts of Zimbabwe will receive even heavier rains in the next three days. 
+<TEXT type="str">HARARE - The Meteorological Services Department (Met) has advised that most parts of Zimbabwe will receive even heavier rains in the next three days. 
  
 The Department warned that the severe rains could cause severe flooding in low-lying areas. 
  
@@ -32,14 +32,14 @@ Prior to that, floods ravaged parts of Mbare, Budiriro and Epworth.
  
 According to the Zimbabwe National Water Authority (Zinwa), due to the heavy rains, most dams’ water levels increased by 20 percent as of January 16. 
  
-[GoogleAd]</content> 
-<sequenceId type="str">695194439285</sequenceId> 
-<topics type="list"> 
+[GoogleAd]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Zimbabwe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:15:27Z</estimatedPublishedDate> 
-<title type="str">Brace for 3 days of heavy rains: Met</title> 
+</TOPICS> 
+<DOCID type="str">695194439285</DOCID> 
+<DCT type="str">2017-01-29T07:15:27Z</DCT> 
+<TITLE type="str">Brace for 3 days of heavy rains: Met</TITLE> 
 </root>

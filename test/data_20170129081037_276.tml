@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK — A diner in Miami, a house in Pittsburgh and a pier in Los Angeles: All of them are real places where Oscar-nominated movies were filmed. Part of “Moonlight” was shot in Jimmy’s Eastside Diner in Miami. Scenic spots around Los Angeles featured in “La La Land” included the Hermosa Beach Pier. And in Pittsburgh, “Fences” was filmed in a house that perfectly evokes playwright “August Wilson’s world,” according to his widow.
+<TEXT type="str">NEW YORK — A diner in Miami, a house in Pittsburgh and a pier in Los Angeles: All of them are real places where Oscar-nominated movies were filmed. Part of “Moonlight” was shot in Jimmy’s Eastside Diner in Miami. Scenic spots around Los Angeles featured in “La La Land” included the Hermosa Beach Pier. And in Pittsburgh, “Fences” was filmed in a house that perfectly evokes playwright “August Wilson’s world,” according to his widow.
 
 Other movies with connections to real places include “Manchester by the Sea,” filmed in coastal towns near Boston, and “Hidden Figures,” about African-American women who worked for NASA in Virginia, where several attractions may be of interest to fans.
 
@@ -46,9 +46,8 @@ Skateboarding scenes were shot on Ashley Road at East Mountain Drive and San Lea
 
 ‘FANTASTIC BEASTS’
 
-This magical romp through 1920s New York City shows many famous landmarks, including the Woolworth Building and the Statue of Liberty. But many of the places shown in the film look very different today, including Times Square, the Central Park Zoo and the Lower East Side.</content> 
-<sequenceId type="str">695203082957</sequenceId> 
-<topics type="list"> 
+This magical romp through 1920s New York City shows many famous landmarks, including the Woolworth Building and the Statue of Liberty. But many of the places shown in the film look very different today, including Times Square, the Central Park Zoo and the Lower East Side.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -65,7 +64,8 @@ This magical romp through 1920s New York City shows many famous landmarks, inclu
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:18:45Z</estimatedPublishedDate> 
-<title type="str">Real places that inspired scenes in Oscar-nominated films</title> 
+</TOPICS> 
+<DOCID type="str">695203082957</DOCID> 
+<DCT type="str">2017-01-29T08:18:45Z</DCT> 
+<TITLE type="str">Real places that inspired scenes in Oscar-nominated films</TITLE> 
 </root>

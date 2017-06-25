@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK: News has been circulating on the internet since Friday stating that Syrian President Bashar al-Assad is experiencing serious health problems. 
+<TEXT type="str">NEW YORK: News has been circulating on the internet since Friday stating that Syrian President Bashar al-Assad is experiencing serious health problems. 
  
 Some media outlets said that Assad had suffered a stroke; while others said that he was shot and has been taken to Damascus Hospital for treatment. 
  
@@ -21,14 +21,14 @@ Earlier this week, Saudi-owned newspaper Asharq al-Awsat claimed the president�
 Citing unnamed sources it said Russian officials believed Assad was “exhausted by five years of war and tension” and had developed a nervous tick in his left eye as a result of “psychological pressure”. – Samaa/Agencies 
  
  Tweet  
-Story first published: 29th January 2</content> 
-<sequenceId type="str">695202483829</sequenceId> 
-<topics type="list"> 
+Story first published: 29th January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:15Z</estimatedPublishedDate> 
-<title type="str">Rumors about Assad’s assassination and critical health</title> 
+</TOPICS> 
+<DOCID type="str">695202483829</DOCID> 
+<DCT type="str">2017-01-29T08:14:15Z</DCT> 
+<TITLE type="str">Rumors about Assad’s assassination and critical health</TITLE> 
 </root>

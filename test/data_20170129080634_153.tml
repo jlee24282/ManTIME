@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A large number of people have staged a demonstration in the British capital to protest against the government’s policy on the National Health Service (NHS). 
+<TEXT type="str">A large number of people have staged a demonstration in the British capital to protest against the government’s policy on the National Health Service (NHS). 
  
 The demonstrators marched on the parliament in London on Saturday with placards reading, “Hands off our NHS.” 
  
@@ -16,9 +16,8 @@ Organizers said the rally should serve as a notice to the government that the Na
  
 The UK’s Health Campaigns Together… 
   
-Read more</content> 
-<sequenceId type="str">695193964781</sequenceId> 
-<topics type="list"> 
+Read more</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">UK social policy news</name> 
@@ -35,7 +34,8 @@ Read more</content>
 <group type="str">Regional</group> 
 <name type="str">UK news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:06:08Z</estimatedPublishedDate> 
-<title type="str">UK protesters marching on parliament: Hands off our NHS</title> 
+</TOPICS> 
+<DOCID type="str">695193964781</DOCID> 
+<DCT type="str">2017-01-29T07:06:08Z</DCT> 
+<TITLE type="str">UK protesters marching on parliament: Hands off our NHS</TITLE> 
 </root>

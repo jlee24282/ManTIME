@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Berlin, Jan 29 (IANS): Bayern defended their three-point advantage atop the standings with a 2-1 win over Bremen while runners-up Leipzig came from behind to beat 10-man Hoffenheim at the 18th round in Bundesliga here. 
+<TEXT type="str">Berlin, Jan 29 (IANS): Bayern defended their three-point advantage atop the standings with a 2-1 win over Bremen while runners-up Leipzig came from behind to beat 10-man Hoffenheim at the 18th round in Bundesliga here. 
  
 Bayern Munich reaped their 13th straight win in the 101st encounter against Werder Bremen on Saturday to set a new club record. Goals from Arjen Robben and David Alaba helped the Bundesliga leaders to secure the 14th win of the season, reports Xinhua news agency. 
  
@@ -32,9 +32,8 @@ With the 13th victory of the season, Leipzig remain second while Hoffenheim slip
  
 Elsewhere, Cologne crushed last-placed Darmstadt 6-1 thanks to Yuya Osako&apos;s brace. 
  
-Wolfsburg lost 2-1 to Augsburg while Ingolstadt shocked Hamburg 3-1 and Monchengladbach turned the tides from two goals down to beat Leverkusen 3-2.</content> 
-<sequenceId type="str">695203526839</sequenceId> 
-<topics type="list"> 
+Wolfsburg lost 2-1 to Augsburg while Ingolstadt shocked Hamburg 3-1 and Monchengladbach turned the tides from two goals down to beat Leverkusen 3-2.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -43,7 +42,8 @@ Wolfsburg lost 2-1 to Augsburg while Ingolstadt shocked Hamburg 3-1 and Moncheng
 <group type="str">Sports</group> 
 <name type="str">Sports: Bundesliga news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:16Z</estimatedPublishedDate> 
-<title type="str">Leipzig remain on Bayern&apos;s heels in German Bundesliga</title> 
+</TOPICS> 
+<DOCID type="str">695203526839</DOCID> 
+<DCT type="str">2017-01-29T08:22:16Z</DCT> 
+<TITLE type="str">Leipzig remain on Bayern&apos;s heels in German Bundesliga</TITLE> 
 </root>

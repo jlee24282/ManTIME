@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">_</content> 
-<sequenceId type="str">695204513138</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">_</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Sacramento news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:30:10Z</estimatedPublishedDate> 
-<title type="str">Hogan High graduate Troy Plunkett, Sacramento Rollin’ Kings in Davis this weekend</title> 
+</TOPICS> 
+<DOCID type="str">695204513138</DOCID> 
+<DCT type="str">2017-01-29T08:30:10Z</DCT> 
+<TITLE type="str">Hogan High graduate Troy Plunkett, Sacramento Rollin’ Kings in Davis this weekend</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street.
+<TEXT type="str">Thousands took to the streets of Broadway in downtown Los Angeles on Saturday for a festival that celebrated the movie palaces, architecture and urban beat of the famed street.
 
 The event — which stretched from Third Street down to Olympic Boulevard — included performances on 10 stages as well as a variety of attractions.
 
@@ -14,9 +14,8 @@ There are now plans to build a streetcar on Broadway.
 
 ALSO Storm slams into Southern California, bringing flood risk, snow, mudslide warning 
 
-Hundreds of California teachers protest Trump&apos;s nominee for secretary of education</content> 
-<sequenceId type="str">695197824360</sequenceId> 
-<topics type="list"> 
+Hundreds of California teachers protest Trump&apos;s nominee for secretary of education</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Los Angeles news</name> 
@@ -29,7 +28,8 @@ Hundreds of California teachers protest Trump&apos;s nominee for secretary of ed
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">The lights of Broadway shine bright, even in downtown L.A.</title> 
+</TOPICS> 
+<DOCID type="str">695197824360</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">The lights of Broadway shine bright, even in downtown L.A.</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">PRWeb 
+<TEXT type="str">PRWeb 
 2017-01-29  
 Restaurant owners decide to give away their restaurant for $125 entrance fee 
  
@@ -26,9 +26,8 @@ To view a complete set of contest rules and to download an entry form, please vi
 http://www.RestaurantEssayContest.com 
 
  
-For the original version on PRWeb visit: http://www.prweb.com/releases/2017/01/prweb14024372.htm</content> 
-<sequenceId type="str">695204296511</sequenceId> 
-<topics type="list"> 
+For the original version on PRWeb visit: http://www.prweb.com/releases/2017/01/prweb14024372.htm</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Restaurant industry news</name> 
@@ -37,7 +36,8 @@ For the original version on PRWeb visit: http://www.prweb.com/releases/2017/01/p
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:28:10Z</estimatedPublishedDate> 
-<title type="str">Restaurant For Sale: Only $125 and 200 Words</title> 
+</TOPICS> 
+<DOCID type="str">695204296511</DOCID> 
+<DCT type="str">2017-01-29T08:28:10Z</DCT> 
+<TITLE type="str">Restaurant For Sale: Only $125 and 200 Words</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">– Decrying the anti-Semitism that led to the Holocaust, the international community today remembered millions of people who suffered in the genocide and honoured the survivors who continue to educate future generations about the ills that hatred and discrimination can bring.
+<TEXT type="str">– Decrying the anti-Semitism that led to the Holocaust, the international community today remembered millions of people who suffered in the genocide and honoured the survivors who continue to educate future generations about the ills that hatred and discrimination can bring.
 
 Calling the Holocaust &quot;an unparalleled crime against humanity,&quot; United Nations Secretary-General António Guterres said that &quot;history keeps moving forward, but anti-Semitism keeps coming back.&quot;
 
@@ -62,9 +62,8 @@ The Ambassador called on the UN to appoint a special envoy to combat anti-semiti
 
 &quot;It is our duty to work together to prevent extremism and violence by promoting tolerance, understanding and compassion,&quot; Mr. Danon said.
 
-Before leaving the podium, the Ambassador vowed that &quot;anti-Semitism would not defeat us.&quot;</content> 
-<sequenceId type="str">695197071575</sequenceId> 
-<topics type="list"> 
+Before leaving the podium, the Ambassador vowed that &quot;anti-Semitism would not defeat us.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -85,7 +84,8 @@ Before leaving the podium, the Ambassador vowed that &quot;anti-Semitism would n
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:36Z</estimatedPublishedDate> 
-<title type="str">UN remembers Holocaust</title> 
+</TOPICS> 
+<DOCID type="str">695197071575</DOCID> 
+<DCT type="str">2017-01-29T07:34:36Z</DCT> 
+<TITLE type="str">UN remembers Holocaust</TITLE> 
 </root>

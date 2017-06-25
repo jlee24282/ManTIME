@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Parity was the theme at Saturday’s Mississippi Valley Conference meet in Waterloo, Iowa. 
+<TEXT type="str">Parity was the theme at Saturday’s Mississippi Valley Conference meet in Waterloo, Iowa. 
  
 Thirteen of the 14 teams crowned an individual champion — including all three city schools. 
  
@@ -46,9 +46,8 @@ COLLEGE
  
 Dubuque 29, Simpson 19 — At McCormick Gym: Nicholas Meyer (149 pounds) and Ethan Cain (184) won by fall, helping the Spartans beat the Storm at the Iowa Conference Duals. Javier Guillen (125), Quincy Kalkbrenner (157) and Patrick Mooney (174) also won contested matches for Dubuque, which improved to 7-8 overall, 3-3 in the Iowa Conference. 
  
-2 Duhawks take 6th — At Graber Center: Mike Falco (165 pounds) and Sam Elston (174) took sixth place for Loras at the Duhawk Open.</content> 
-<sequenceId type="str">695202483382</sequenceId> 
-<topics type="list"> 
+2 Duhawks take 6th — At Graber Center: Mike Falco (165 pounds) and Sam Elston (174) took sixth place for Loras at the Duhawk Open.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -57,7 +56,8 @@ Dubuque 29, Simpson 19 — At McCormick Gym: Nicholas Meyer (149 pounds) and Eth
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Wrestling roundup: Hempstead, Wahlert, Senior each crown MVC champ</title> 
+</TOPICS> 
+<DOCID type="str">695202483382</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Wrestling roundup: Hempstead, Wahlert, Senior each crown MVC champ</TITLE> 
 </root>

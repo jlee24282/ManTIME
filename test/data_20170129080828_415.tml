@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mechanized Warfare  
+<TEXT type="str">Mechanized Warfare  
 As it becomes more and more apparent that the United States could go to war in the Gulf, it is important for us to review just what kind of defenses our forces would encounter there. If history is any indication, a battle very similar to the one we&apos;re preparing to fight today was fought nearly 50 years ago along the Eastern Front. 
  
 It is dangerous to predict the nature and outcome of battles yet to happen; however, historical examples are sometimes useful in order to highlight specific problems. News reports to date of Iraq&apos;s defense of Kuwait lead to some interesting particulars. As reported, Iraqi forces are dug into three defensive lines, each with tank redoubts and machine gun bunkers. Extensive minefields up to 400 meters in depth, with antitank ditches and barbed wire entanglements support these defensive lines. In addition to these arrangements, mobile armored reserves are prepared to seal any breach created. During the Iran-Iraq War, similar defensive arrangements were used by Iraqi forces with deadly effect. 
@@ -45,9 +45,8 @@ Maneuver warfare doctrine requires flexibility and options. If political restric
  
 At Kursk, the Soviets poured a tremendous amount of military power into a relatively small area. The rest of the Eastern Front in July 1943 was not as well defended. The Germans could have struck elsewhere to obtain their military and political objectives but chose not to. Like Kursk, Iraqi defenses are strong only along the Kuwaiti/ Saudi border. By my estimation, we have four options open to flank this type of defense: (1) An amphibious landing behind main enemy defensive lines; (2) a sweeping &quot;left hook,&quot; by U.S. Army units, penetrating Iraqi territory and ending at Basra; (3) an air assault landing behind Iraqi defensive belts; or (4) some combination of all the above. In order to force Iraq to commit its reserves, it may even be necessary to assault or feint an assault on Iraq&apos;s main defensive lines before launching one of these four options. As Steve Biddle of the Institute for Defense Analysis has recently surmised, &quot;Historically speaking, that sort of defense has been hard to defeat. It&apos;s not to say we can&apos;t do it, but it can&apos;t be done cheaply or quickly.&quot; 
  
-*This section is based on information contained in the following list of publications: Los Angeles Times, 28 November 1990; U.S. News &amp; World Report, 12 November 1990; International Defense Review, Vol. 23, No. 10, 1990; Jane&apos;s Defence Weekly, 3 November 1990; Identifying the Iraqi Threat and How They Fight (unclassified source published by the Army Intelligence and Threat Analysis Center).</content> 
-<sequenceId type="str">695198398577</sequenceId> 
-<topics type="list"> 
+*This section is based on information contained in the following list of publications: Los Angeles Times, 28 November 1990; U.S. News &amp; World Report, 12 November 1990; International Defense Review, Vol. 23, No. 10, 1990; Jane&apos;s Defence Weekly, 3 November 1990; Identifying the Iraqi Threat and How They Fight (unclassified source published by the Army Intelligence and Threat Analysis Center).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -72,7 +71,8 @@ At Kursk, the Soviets poured a tremendous amount of military power into a relati
 <group type="str">Society</group> 
 <name type="str">Military news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:15Z</estimatedPublishedDate> 
-<title type="str">Iraq&apos;s Defense of Kuwait and the Battle of Kursk</title> 
+</TOPICS> 
+<DOCID type="str">695198398577</DOCID> 
+<DCT type="str">2017-01-29T07:43:15Z</DCT> 
+<TITLE type="str">Iraq&apos;s Defense of Kuwait and the Battle of Kursk</TITLE> 
 </root>

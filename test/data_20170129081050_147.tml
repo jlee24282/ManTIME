@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Protests are scheduled today in Washington, Orlando, Boston, Philadelphia, Atlanta, Seattle, and Chicago, mostly at airports. 
+<TEXT type="str">Protests are scheduled today in Washington, Orlando, Boston, Philadelphia, Atlanta, Seattle, and Chicago, mostly at airports. 
 Olivia Katbi Smith told CNN affiliate KATU she showed up Saturday at Portland International Airport because she believes Trump&apos;s immigration policies are cruel. 
 &quot;I think it&apos;s horrific and terrible and we are basically condemning people to death by not allowing them to come here,&quot; she said. 
  
@@ -50,9 +50,8 @@ Lucia Martinez told KATU she used to be a &quot;hashtag activist&quot; but felt 
  
 A group of community activists, attorneys and others gathered at O&apos;Hare International Airport in Chicago. 
  
-Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey.</content> 
-<sequenceId type="str">695203377271</sequenceId> 
-<topics type="list"> 
+Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
@@ -69,7 +68,8 @@ Protests also took place at airports in Boston; San Francisco, Denver, Dallas an
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:55Z</estimatedPublishedDate> 
-<title type="str">Second weekend of protests after Trump’s travel order</title> 
+</TOPICS> 
+<DOCID type="str">695203377271</DOCID> 
+<DCT type="str">2017-01-29T07:46:55Z</DCT> 
+<TITLE type="str">Second weekend of protests after Trump’s travel order</TITLE> 
 </root>

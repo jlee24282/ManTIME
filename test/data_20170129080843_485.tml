@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">This video will be automatically disabled when it gets reported by several people.      Other people watching... YouTube  28 - 01 - 2017   
-[embedded content]</content> 
-<sequenceId type="str">695198988314</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">This video will be automatically disabled when it gets reported by several people.      Other people watching... YouTube  28 - 01 - 2017   
+[embedded content]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">North Africa news</name> 
@@ -20,7 +19,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:28Z</estimatedPublishedDate> 
-<title type="str">| Farouk Jweideh: Dr. Zewail was dreaming, headed by Egypt</title> 
+</TOPICS> 
+<DOCID type="str">695198988314</DOCID> 
+<DCT type="str">2017-01-29T07:48:28Z</DCT> 
+<TITLE type="str">| Farouk Jweideh: Dr. Zewail was dreaming, headed by Egypt</TITLE> 
 </root>

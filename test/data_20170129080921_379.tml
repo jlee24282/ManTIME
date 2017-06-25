@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Louise Brown believes playing the Warrnambool Seaside Carnival will provide a sound platform for the club’s return to Big V competition. 
+<TEXT type="str">Louise Brown believes playing the Warrnambool Seaside Carnival will provide a sound platform for the club’s return to Big V competition. 
 
 MERMAIDS coach Louise Brown believes the experience of playing the Warrnambool Seaside Carnival will provide a sound platform for the club’s return to Big V competition.
 
@@ -32,9 +32,8 @@ Brown also conceded the return of Holly Green from Melbourne would be a godsend 
 
 “She’s a very exciting junior and is quite raw but has a lot of potential. 
 
-“Holly is another who is great to have in Mermaids colours again. She’s had a short break from the game but you wouldn’t be able to tell.” The Warrnambool Seahawks – led by playing coach Matt Alexander – were unable to get the job done on the back of success in the pool games. Hotel Warrnambool – the south-west over 40s team – went down by 31 points in the grand final to State Bank.</content> 
-<sequenceId type="str">695200516698</sequenceId> 
-<topics type="list"> 
+“Holly is another who is great to have in Mermaids colours again. She’s had a short break from the game but you wouldn’t be able to tell.” The Warrnambool Seahawks – led by playing coach Matt Alexander – were unable to get the job done on the back of success in the pool games. Hotel Warrnambool – the south-west over 40s team – went down by 31 points in the grand final to State Bank.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -43,7 +42,8 @@ Brown also conceded the return of Holly Green from Melbourne would be a godsend 
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:03:00Z</estimatedPublishedDate> 
-<title type="str">Mermaids’ comeback is on</title> 
+</TOPICS> 
+<DOCID type="str">695200516698</DOCID> 
+<DCT type="str">2017-01-29T07:03:00Z</DCT> 
+<TITLE type="str">Mermaids’ comeback is on</TITLE> 
 </root>

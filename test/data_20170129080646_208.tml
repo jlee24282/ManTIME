@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BabyTV123 is a YouTube channel dedicated to children from the age of 1 to 5. By using happy songs and colorful animations, our videos will stimulate childrens imagination and learning ability. Each video will contain five new keywords accompanied by cute cartoon illustrations to broadens small kids vocabularies and counting skills.\r 
+<TEXT type="str">BabyTV123 is a YouTube channel dedicated to children from the age of 1 to 5. By using happy songs and colorful animations, our videos will stimulate childrens imagination and learning ability. Each video will contain five new keywords accompanied by cute cartoon illustrations to broadens small kids vocabularies and counting skills.\r 
 \r 
 All our videos are educational and family friendly, please kindly leave a like or comment to us on the comment section.\r 
 \r 
@@ -31,9 +31,8 @@ Spongebob Gangnam Style ABC Song Angry Birds Dora Disney Barney Teletubbies Toys
 
 Author: eleanorbeamish47 
 Tags: 30 surprise eggs  disney cars  marvel spider-man  cars  spider man  spongebob  party animals  hello kitty  littlest pet shop  lps  thor  wolverine  happy fee.  
-Posted: 29 January 2</content> 
-<sequenceId type="str">695194382839</sequenceId> 
-<topics type="list"> 
+Posted: 29 January 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -42,7 +41,8 @@ Posted: 29 January 2</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:56Z</estimatedPublishedDate> 
-<title type="str">Cars ColorsColor Cars Song for Learning English - baby songs, kids rhymes, children animation</title> 
+</TOPICS> 
+<DOCID type="str">695194382839</DOCID> 
+<DCT type="str">2017-01-29T07:11:56Z</DCT> 
+<TITLE type="str">Cars ColorsColor Cars Song for Learning English - baby songs, kids rhymes, children animation</TITLE> 
 </root>

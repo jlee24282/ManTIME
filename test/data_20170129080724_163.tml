@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A high-quality college education is essential in our knowledge-based economy. 
+<TEXT type="str">A high-quality college education is essential in our knowledge-based economy. 
  By MARY ANNE FITZPATRICKGuest columnist  
 I have spent nearly all of my professional career at large public research universities designed to educate tens of thousands of graduate and undergraduate students. From time to time, friends or neighbors would hesitate to “confess” that their son or daughter had chosen to attend a regional comprehensive university or perhaps begin their studies at a two-year institution, fearing I would assume all students should attend a large public research university. In fact, nothing could be further from the truth. 
  
@@ -32,9 +32,8 @@ Through the Spartanburg County Commission for Higher Education, the public provi
  
 Our very first program, nursing, was developed to avert a serious health care labor shortage in the region when Spartanburg General Hospital eliminated its nursing program. That commitment to designing and offering programs to support the community and ensure a strong and productive workforce continues today. It is fundamentally encoded in our institutional DNA. This is USC Upstate. 
  
-Mary Anne Fitzpatrick, Ph.D., is USC Upstate interim chancellor and Carolina Distinguished Professor of Psychology.</content> 
-<sequenceId type="str">695195756152</sequenceId> 
-<topics type="list"> 
+Mary Anne Fitzpatrick, Ph.D., is USC Upstate interim chancellor and Carolina Distinguished Professor of Psychology.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -43,7 +42,8 @@ Mary Anne Fitzpatrick, Ph.D., is USC Upstate interim chancellor and Carolina Dis
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Fitzpatrick: Creating the future for the Upstate</title> 
+</TOPICS> 
+<DOCID type="str">695195756152</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Fitzpatrick: Creating the future for the Upstate</TITLE> 
 </root>

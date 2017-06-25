@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Missoula Sentinel 50, Helena Capital 39 
+<TEXT type="str">Missoula Sentinel 50, Helena Capital 39 
 
 Missoula Sentinel: Mitch Roberts 5, Danny McKittrick 3, Brayden Danzinger 3, Sam Beighle 21, Elias DeWaters 5, Ethan Jones 2, Matt Messerly 2, Will Mytty 5, Griffin Line 4.
 
@@ -284,9 +284,8 @@ Roy-Winfred 67, Hobson-Moore-Judith Gap 51
 
 Roy-Winifred: Braden Urion 7, Cody Bergum 27, Justin Stulc 2, Ryan Russell 8, Tyler Fordyce 10, Raymond Levick 4, Rowan Rice 9
 
-Tri-Cities: Hayden Heilig 13, Tucker Walter 7, Zach Thomas 6, Sawyer Connerton 9, Jack Hickey 2, Brandon Bergum 4, Jacob McAllister 7, Tayt Hanson 3</content> 
-<sequenceId type="str">695200076415</sequenceId> 
-<topics type="list"> 
+Tri-Cities: Hayden Heilig 13, Tucker Walter 7, Zach Thomas 6, Sawyer Connerton 9, Jack Hickey 2, Brandon Bergum 4, Jacob McAllister 7, Tayt Hanson 3</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -295,7 +294,8 @@ Tri-Cities: Hayden Heilig 13, Tucker Walter 7, Zach Thomas 6, Sawyer Connerton 9
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:54:00Z</estimatedPublishedDate> 
-<title type="str">Boys high school basketball boxscores (Saturday, Jan. 28)</title> 
+</TOPICS> 
+<DOCID type="str">695200076415</DOCID> 
+<DCT type="str">2017-01-29T05:54:00Z</DCT> 
+<TITLE type="str">Boys high school basketball boxscores (Saturday, Jan. 28)</TITLE> 
 </root>

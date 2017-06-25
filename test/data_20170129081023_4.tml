@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LOS ANGELES — Wayne Gretzky, Mario Lemieux and Bobby Orr were among the easiest choices for The NHL 100, the group of enduring superstars chosen and honored by the league Friday night as the best players in hockey history. 
+<TEXT type="str">LOS ANGELES — Wayne Gretzky, Mario Lemieux and Bobby Orr were among the easiest choices for The NHL 100, the group of enduring superstars chosen and honored by the league Friday night as the best players in hockey history. 
  
 Nine Chicago Blackhawks joined them on the list, including current players Jonathan Toews, Patrick Kane and Duncan Keith. Other former Blackhawks included Bobby Hull, Stan Mikita, Tony Esposito, Denis Savard, Max Bentley and Glenn Hall. 
  
@@ -52,9 +52,8 @@ PORTLAND, Maine — Kamron King says his goal as the first deaf mascot at Portla
  
 Fifteen-year-old Kamron is a freshman from Saco who started donning a bulldog costume during the fall football season and is now working the sidelines at basketball games. 
  
-Kamron says being deaf doesn’t interfere with performing, other than occasionally needing someone to direct him toward young children in need of a high-five. The costume’s heavy mask obscures his vision. Kamron’s parents say it’s a natural fit for a kid who loves sports and costumes.</content> 
-<sequenceId type="str">695202481108</sequenceId> 
-<topics type="list"> 
+Kamron says being deaf doesn’t interfere with performing, other than occasionally needing someone to direct him toward young children in need of a high-five. The costume’s heavy mask obscures his vision. Kamron’s parents say it’s a natural fit for a kid who loves sports and costumes.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: MLB - Minnesota Twins news</name> 
@@ -83,7 +82,8 @@ Kamron says being deaf doesn’t interfere with performing, other than occasiona
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">Sports in brief: Nine Blackhawks land on NHL 100 list</title> 
+</TOPICS> 
+<DOCID type="str">695202481108</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">Sports in brief: Nine Blackhawks land on NHL 100 list</TITLE> 
 </root>

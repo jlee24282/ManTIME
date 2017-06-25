@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">On Monday morning, President Donald Trump met with business leaders to present a plan for keeping jobs in the U.S. He offered a carrot — a dramatic cut in the taxes and regulations — as well as a stick — a substantial tax on companies that decide to offshore their factories. 
+<TEXT type="str">On Monday morning, President Donald Trump met with business leaders to present a plan for keeping jobs in the U.S. He offered a carrot — a dramatic cut in the taxes and regulations — as well as a stick — a substantial tax on companies that decide to offshore their factories. 
  
 Whether companies follow suit will depend on how they weigh the benefits Trump is offering with the potential higher costs of keeping production in the United States. But in Trump’s statements, he claimed that the move would have no cost at all — a statement that rankled some economists. 
  
@@ -32,9 +32,8 @@ Economists also widely disagreed with Trump’s claim that the greater cost of m
  
 While shipping costs are substantial for some heavier items like steel, for many consumer products transportation costs make up a far smaller percentage of the final cost than worker wages. Veuger points to the example of the Trump apparel collection, much of which was made elsewhere and imported. 
  
-“[Trump] himself imports his ties from China. Presumably if the transportation costs were such a big deal, he’d make them in Wisconsin.”</content> 
-<sequenceId type="str">695198916580</sequenceId> 
-<topics type="list"> 
+“[Trump] himself imports his ties from China. Presumably if the transportation costs were such a big deal, he’d make them in Wisconsin.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -47,7 +46,8 @@ While shipping costs are substantial for some heavier items like steel, for many
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:31Z</estimatedPublishedDate> 
-<title type="str">Trump says making products in the U.S. is ‘going to be cheaper’; economists disagree</title> 
+</TOPICS> 
+<DOCID type="str">695198916580</DOCID> 
+<DCT type="str">2017-01-29T07:45:31Z</DCT> 
+<TITLE type="str">Trump says making products in the U.S. is ‘going to be cheaper’; economists disagree</TITLE> 
 </root>

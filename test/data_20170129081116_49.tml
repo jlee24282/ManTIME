@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON — 
+<TEXT type="str">WASHINGTON — 
  
 The flurry of bold executive orders and of highly provocative Cabinet nominations (such as a secretary of education who actually believes in school choice) has been encouraging to conservative skeptics of Donald Trump. But it shouldn’t erase the troubling memory of one major element of Trump’s inaugural address. 
  
@@ -34,9 +34,8 @@ For 70 years, we sustained an international system of open commerce and democrat
  
 — Charles Krauthammer is a columnist 
  
-for The Washington Post Writers Group.</content> 
-<sequenceId type="str">695204262436</sequenceId> 
-<topics type="list"> 
+for The Washington Post Writers Group.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -45,7 +44,8 @@ for The Washington Post Writers Group.</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:43Z</estimatedPublishedDate> 
-<title type="str">Column: Trump’s foreign policy revolution</title> 
+</TOPICS> 
+<DOCID type="str">695204262436</DOCID> 
+<DCT type="str">2017-01-29T08:27:43Z</DCT> 
+<TITLE type="str">Column: Trump’s foreign policy revolution</TITLE> 
 </root>

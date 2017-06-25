@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">reveal that several top ANC officials had allegedly given the proposed “war room” smear campaign the go-ahead, according to a report by The City Press. 
+<TEXT type="str">reveal that several top ANC officials had allegedly given the proposed “war room” smear campaign the go-ahead, according to a report by The City Press. 
  
 The war room was first brought to light by public relations expert Sihle Bolani, who claims she was owed R2.2 million for work done as part of the campaign. It was specifically tasked with discrediting opposition parties, and pushing pro-ANC propaganda. 
  
@@ -18,9 +18,8 @@ Jacobs has subsequently denied all allegations of impropriety against him his at
  
 The following report can be found in the 29 January 2017 edition of the City Press. 
  
-Read:  Alleged ANC ‘War Room’ leader denies involvement in ‘secret R50 million smear campaign’</content> 
-<sequenceId type="str">695204411577</sequenceId> 
-<topics type="list"> 
+Read:  Alleged ANC ‘War Room’ leader denies involvement in ‘secret R50 million smear campaign’</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
@@ -29,7 +28,8 @@ Read:  Alleged ANC ‘War Room’ leader denies involvement in ‘secret R50 mi
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:26Z</estimatedPublishedDate> 
-<title type="str">New recordings reveal who was really behind the ANC’s war room: report</title> 
+</TOPICS> 
+<DOCID type="str">695204411577</DOCID> 
+<DCT type="str">2017-01-29T08:02:26Z</DCT> 
+<TITLE type="str">New recordings reveal who was really behind the ANC’s war room: report</TITLE> 
 </root>

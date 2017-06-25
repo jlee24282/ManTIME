@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The defining characteristic of Elise Stefanik’s 21st Congressional District is its wilderness. The district includes the whole top of New York state, including all but a tiny corner of the immense Adirondack Park. 
+<TEXT type="str">The defining characteristic of Elise Stefanik’s 21st Congressional District is its wilderness. The district includes the whole top of New York state, including all but a tiny corner of the immense Adirondack Park. 
    
 Since she is the federal representative for one of the great natural treasures of the United States, climate change should be her top priority, so we applaud her recent decision to join a bipartisan caucus on the issue. The mission of the Climate Solutions Caucus, which now comprises 10 Democrats and 10 Republicans, is to look for “economically viable options to reduce climate risk” and “explore bipartisan policy options.” 
    
@@ -30,9 +30,8 @@ Local editorials represent the opinion of
  
 The Post-Star 
  
-editorial board, which consists of Publisher Terry Coomes, Editor Ken Tingley, Projects Editor Will Doolittle, Controller/Operations Director Brian Corcoran and citizen representatives Tim Robinson, Dan Gealt and George Nelson.</content> 
-<sequenceId type="str">695195704744</sequenceId> 
-<topics type="list"> 
+editorial board, which consists of Publisher Terry Coomes, Editor Ken Tingley, Projects Editor Will Doolittle, Controller/Operations Director Brian Corcoran and citizen representatives Tim Robinson, Dan Gealt and George Nelson.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -49,7 +48,8 @@ editorial board, which consists of Publisher Terry Coomes, Editor Ken Tingley, P
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:45:00Z</estimatedPublishedDate> 
-<title type="str">EDITORIAL: Stefanik should lead on climate change</title> 
+</TOPICS> 
+<DOCID type="str">695195704744</DOCID> 
+<DCT type="str">2017-01-29T02:45:00Z</DCT> 
+<TITLE type="str">EDITORIAL: Stefanik should lead on climate change</TITLE> 
 </root>

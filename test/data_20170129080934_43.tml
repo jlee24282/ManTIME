@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sydney FC capitulated to a stunning 5-2 defeat against Adelaide United on Sunday allowing Canberra United to snatch the W-League premiership on the final day of the regular season. 
+<TEXT type="str">Sydney FC capitulated to a stunning 5-2 defeat against Adelaide United on Sunday allowing Canberra United to snatch the W-League premiership on the final day of the regular season. 
  
 It is Canberra&apos;s second premiership in the past three seasons. 
  SHARE  Share on Facebook  SHARE  Share on Twitter  TWEET  Pin to Pinterest  PIN  Link   Shock defeat: Adelaide United surprise prior league leaders Sydney FC.  Photo: Morne de Klerk  
@@ -25,9 +25,8 @@ That lone injury-time strike from Caitlin Doeglas ensured Perth Glory earned hom
  
 Melbourne City will travel to Canberra United for the other semi-final, with the champions sneaking into fourth spot courtesy of a 2-0 win over Newcastle Jets in Coffs Harbour on Friday. 
  
-AAP</content> 
-<sequenceId type="str">695200714220</sequenceId> 
-<topics type="list"> 
+AAP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -36,7 +35,8 @@ AAP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:42Z</estimatedPublishedDate> 
-<title type="str">W-League: Canberra on top, Sydney FC falter on final day</title> 
+</TOPICS> 
+<DOCID type="str">695200714220</DOCID> 
+<DCT type="str">2017-01-29T08:01:42Z</DCT> 
+<TITLE type="str">W-League: Canberra on top, Sydney FC falter on final day</TITLE> 
 </root>

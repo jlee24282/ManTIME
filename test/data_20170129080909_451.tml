@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Q: Is there a way to group users into lists within the Twitter Android app or do you have to do it from the web? And how do you find the lists in the mobile version? 
+<TEXT type="str">Q: Is there a way to group users into lists within the Twitter Android app or do you have to do it from the web? And how do you find the lists in the mobile version? 
 
 A: You can create lists — topical collections of accounts you follow — in the Twitter apps for Android and iOS, as well as on the web. To make a new list in the Android version of the Twitter app, tap your profile icon (or the menu icon) in the upper-left corner of the screen. In the menu that slides out, select Lists. 
 
@@ -20,9 +20,8 @@ Proceed at your own risk. On the sign-up page, Microsoft warns that you will be 
 
 If you only have one computer with specific programs you rely on to get things done, you may want to skip the Insider program and wait for the final version of the software to be publicly released. If you have a secondary PC (or a separate hard-drive partition) that is not vital to your computing needs — and you do not mind working with potentially unstable code — the program gives you a jump-start on new versions of the operating system. 
 
-You can sign up using the Windows Insider option within the current Windows 10 Settings app — in Settings, go to Updates &amp; Security, then Windows Update and select Advanced Options. You can also sign up for the program on the Windows Insider page on Microsoft’s website.</content> 
-<sequenceId type="str">695200150615</sequenceId> 
-<topics type="list"> 
+You can sign up using the Windows Insider option within the current Windows 10 Settings app — in Settings, go to Updates &amp; Security, then Windows Update and select Advanced Options. You can also sign up for the program on the Windows Insider page on Microsoft’s website.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Android news</name> 
@@ -47,7 +46,8 @@ You can sign up using the Windows Insider option within the current Windows 10 S
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:52:00Z</estimatedPublishedDate> 
-<title type="str">Sorting Twitter lists on Android app</title> 
+</TOPICS> 
+<DOCID type="str">695200150615</DOCID> 
+<DCT type="str">2017-01-29T07:52:00Z</DCT> 
+<TITLE type="str">Sorting Twitter lists on Android app</TITLE> 
 </root>

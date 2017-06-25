@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IDT20100 
+<TEXT type="str">IDT20100 
  
 Australian Government Bureau of Meteorology 
 Tasmania 
@@ -19,9 +19,8 @@ Central Plateau Lakes and South West Lakes
  
 The next marine wind warning summary will be issued by 5:00 am EDT Monday. 
  
-Check the latest Coastal Waters Forecast or Local Waters Forecast for information on wind, wave and weather conditions for these coastal zones.</content> 
-<sequenceId type="str">695195542316</sequenceId> 
-<topics type="list"> 
+Check the latest Coastal Waters Forecast or Local Waters Forecast for information on wind, wave and weather conditions for these coastal zones.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -34,7 +33,8 @@ Check the latest Coastal Waters Forecast or Local Waters Forecast for informatio
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:11:30Z</estimatedPublishedDate> 
-<title type="str">29/16:11 EDT Marine Wind Warning Summary for Tasmania</title> 
+</TOPICS> 
+<DOCID type="str">695195542316</DOCID> 
+<DCT type="str">2017-01-29T05:11:30Z</DCT> 
+<TITLE type="str">29/16:11 EDT Marine Wind Warning Summary for Tasmania</TITLE> 
 </root>

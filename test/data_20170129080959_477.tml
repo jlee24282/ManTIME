@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,14 +8,14 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695202057430</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:57Z</estimatedPublishedDate> 
-<title type="str">&apos;Oxlade-Chamberlain is playing like a prime Pirlo&apos; - Arsenal fans react to midfielder&apos;s stunning showing</title> 
+</TOPICS> 
+<DOCID type="str">695202057430</DOCID> 
+<DCT type="str">2017-01-29T08:10:57Z</DCT> 
+<TITLE type="str">&apos;Oxlade-Chamberlain is playing like a prime Pirlo&apos; - Arsenal fans react to midfielder&apos;s stunning showing</TITLE> 
 </root>

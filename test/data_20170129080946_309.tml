@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Key points  
+<TEXT type="str">Key points  
  
 - Final: Roger Federer v Rafael Nadal from 08:30 GMT 
  
@@ -13,9 +13,8 @@
  
  Join the discussion  
  
-Send an SMS to 81111</content> 
-<sequenceId type="str">695201409239</sequenceId> 
-<topics type="list"> 
+Send an SMS to 81111</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Asia-Pacific stories</name> 
@@ -44,7 +43,8 @@ Send an SMS to 81111</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:26Z</estimatedPublishedDate> 
-<title type="str">Australian Open final - Federer v Nadal</title> 
+</TOPICS> 
+<DOCID type="str">695201409239</DOCID> 
+<DCT type="str">2017-01-29T08:00:26Z</DCT> 
+<TITLE type="str">Australian Open final - Federer v Nadal</TITLE> 
 </root>

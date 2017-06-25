@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">| | Sunday, January 29, 2017 | JewishPress.com    $gJD = gregoriantojd(date(&apos;n&apos;),date(&apos;j&apos;),date(&apos;Y&apos;));
+<TEXT type="str">| | Sunday, January 29, 2017 | JewishPress.com    $gJD = gregoriantojd(date(&apos;n&apos;),date(&apos;j&apos;),date(&apos;Y&apos;));
 list($hebrewMonth, $hebrewDay, $hebrewYear) = split(&apos;/&apos;,jdtojewish($gJD)); 
 $hebrewdate = &quot;$hebrewDay &quot;.jdmonthname( $gJD,4 ).&quot;, $hebrewYear&quot;; 
 $hebrewdate = preg_replace(&apos;/Adar/&apos;,&apos;Adar &apos;,$hebrewdate);
@@ -17,9 +17,8 @@ Sponsored Post
     
 Printed from: http://www.jewishpress.com/news/breaking-news/federal-judge-stays-trump-deportations-airport-protests-erupt/2017/01/29/ 
  
-Scan this QR code to visit this page online</content> 
-<sequenceId type="str">695204548083</sequenceId> 
-<topics type="list"> 
+Scan this QR code to visit this page online</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -36,7 +35,8 @@ Scan this QR code to visit this page online</content>
 <group type="str">Society</group> 
 <name type="str">US Federal Government news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:16Z</estimatedPublishedDate> 
-<title type="str">Federal Judge Stays Trump Deportations, Airport Protests Erupt</title> 
+</TOPICS> 
+<DOCID type="str">695204548083</DOCID> 
+<DCT type="str">2017-01-29T08:06:16Z</DCT> 
+<TITLE type="str">Federal Judge Stays Trump Deportations, Airport Protests Erupt</TITLE> 
 </root>

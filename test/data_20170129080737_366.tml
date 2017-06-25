@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Missouri Court of Appeals, Western District. WD 79520      Decided: January 24, 2017  Before Division Two:  Lisa White Hardwick, Presiding Judge, Gary Witt, Judge, Anthony Rex Gabbert, Judge 
+<TEXT type="str">Missouri Court of Appeals, Western District. WD 79520      Decided: January 24, 2017  Before Division Two:  Lisa White Hardwick, Presiding Judge, Gary Witt, Judge, Anthony Rex Gabbert, Judge 
 American Standard Insurance Company of Wisconsin (American Standard) appeals the circuit court&apos;s grant of summary judgment to Truman Medical Center, Inc. (Truman Medical) on Truman Medical&apos;s First Amended Petition to Enforce Hospital&apos;s Lien Pursuant to Section 430.250, RSMo. 2000. American Standard argues that the court erred in granting a judgment enforcing the lien because the lien was not a valid and enforceable lien under Section 430.240, RSMo Cum. Supp. 2013, because the lien notice failed to include the name of the person alleged to be liable to the injured person and, further, Truman Medical failed to perfect the alleged hospital lien by supplementing the lien notice once the identity of the person alleged to be liable to the injured person became known. We affirm. 
  
 There is no dispute regarding the underlying facts. On November 19, 2013, Charles Fanning was involved in an automobile accident with a driver insured by American Standard. Fanning received treatment at Truman Medical for injuries he sustained as a result of the accident. He had outstanding medical bills in the amount of $4,347.02 arising out of that treatment. Fanning claimed that the injuries sustained and the resulting damages were caused by the negligence of American Standard&apos;s insured driver. 
@@ -61,9 +61,8 @@ The circuit court did not err in granting a judgment enforcing Truman Medical&ap
  
 Anthony Rex Gabbert, Judge 
  
-All concur.</content> 
-<sequenceId type="str">695196412726</sequenceId> 
-<topics type="list"> 
+All concur.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Insurance industry news</name> 
@@ -72,7 +71,8 @@ All concur.</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:29:22Z</estimatedPublishedDate> 
-<title type="str">Truman Medical Center, Inc., Respondent, v. American Standard Insurance Company, Appellant, Charles Fanning, Respondent.</title> 
+</TOPICS> 
+<DOCID type="str">695196412726</DOCID> 
+<DCT type="str">2017-01-29T07:29:22Z</DCT> 
+<TITLE type="str">Truman Medical Center, Inc., Respondent, v. American Standard Insurance Company, Appellant, Charles Fanning, Respondent.</TITLE> 
 </root>

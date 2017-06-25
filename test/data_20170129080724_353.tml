@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The &quot;Little Hats, Big Hearts&quot; program is coming to Exeter Hospital and Wentworth-Douglass Hospital in February. 
+<TEXT type="str">The &quot;Little Hats, Big Hearts&quot; program is coming to Exeter Hospital and Wentworth-Douglass Hospital in February. 
  
 The American Heart Association has teamed up with 11 of New Hampshire’s birthing hospitals for the initiative that is expected to provide approximately 650 newborns with handmade red hats during American Heart Month, according to AHA Director of Communications Stefanie Phillips. The “Little Hats, Big Hearts&quot; mission is to increase awareness of congenital heart defects, the most common type of birth defect in the country. 
  
@@ -26,9 +26,8 @@ The American Heart Association put a call out to knitting and crocheting enthusi
  
 “The Little Hats Big Hearts program provides information to parents during one of the most crucial times – following the birth of their child,” said Dr. Jonathan Eddinger, FACC, cardiologist at Catholic Medical Center. “Since congenital heart diseases are the most common type of birth defect in the United States, we want as many parents as possible to be empowered with this information and resources when they leave the hospital.” 
  
-For more about the Little Hats, Big Heart program in New Hampshire, visit www.heart.org/littlehatsbighearts.</content> 
-<sequenceId type="str">695195911801</sequenceId> 
-<topics type="list"> 
+For more about the Little Hats, Big Heart program in New Hampshire, visit www.heart.org/littlehatsbighearts.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -37,7 +36,8 @@ For more about the Little Hats, Big Heart program in New Hampshire, visit www.h
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Seacoast newborns will sport red hats for American Heart Month</title> 
+</TOPICS> 
+<DOCID type="str">695195911801</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Seacoast newborns will sport red hats for American Heart Month</TITLE> 
 </root>

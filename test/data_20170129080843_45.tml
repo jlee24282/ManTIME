@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Where have you gone, “gone”? 
+<TEXT type="str">Where have you gone, “gone”? 
  
 I have not seen, “I saw.” 
  
@@ -28,9 +28,8 @@ There are tremendously more important problems to repair than speaking correctly
  
 John R. Cleary 
  
-Winterville</content> 
-<sequenceId type="str">695198515862</sequenceId> 
-<topics type="list"> 
+Winterville</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -39,7 +38,8 @@ Winterville</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:44:29Z</estimatedPublishedDate> 
-<title type="str">Eroding the English language</title> 
+</TOPICS> 
+<DOCID type="str">695198515862</DOCID> 
+<DCT type="str">2017-01-29T07:44:29Z</DCT> 
+<TITLE type="str">Eroding the English language</TITLE> 
 </root>

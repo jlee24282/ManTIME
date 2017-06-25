@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Mixed emotions as kids head back to school on Monday, from both students and parents. 
+<TEXT type="str">Mixed emotions as kids head back to school on Monday, from both students and parents. 
 
 MIXED emotions surround heading back to school on Monday, from both students and parents.
 
@@ -38,9 +38,8 @@ One of the challenges are packing a healthy lunch the children will enjoy,Mr Cur
 
 “We stick to a Vegemite sandwich, fruit and yogurt and it always seems to work.” 
 
-Most schools first day back on Monday, however, the start date can vary depending on school and year.</content> 
-<sequenceId type="str">695201925117</sequenceId> 
-<topics type="list"> 
+Most schools first day back on Monday, however, the start date can vary depending on school and year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -49,7 +48,8 @@ Most schools first day back on Monday, however, the start date can vary dependin
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:00Z</estimatedPublishedDate> 
-<title type="str">Starting new for school students</title> 
+</TOPICS> 
+<DOCID type="str">695201925117</DOCID> 
+<DCT type="str">2017-01-29T07:30:00Z</DCT> 
+<TITLE type="str">Starting new for school students</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donald Trump’s unilateral move to restrict immigration from predominantly Muslim countries drew sharp rebukes from several leaders of large Silicon Valley companies, who said it was harmful to America’s security and their businesses.
+<TEXT type="str">Donald Trump’s unilateral move to restrict immigration from predominantly Muslim countries drew sharp rebukes from several leaders of large Silicon Valley companies, who said it was harmful to America’s security and their businesses.
 
 The responses to President Trump’s executive order Friday instituting the anti-Muslim policy — partially — came from execs including Netflix’s Reed Hastings and Twitter’s Jack Dorsey. Showbiz figures also expressed anger and disgust about Trump’s action, which had been a key issue in his campaign.
 
@@ -18,9 +18,8 @@ Apple chief Tim Cook wrote in a memo to employees that the company does not supp
 
 Cook said that he communicated the company’s position to U.S. officials this week &quot;that Apple believes deeply in the importance of immigration — both to our company and to our nation’s future. Apple would not exist without immigration, let alone thrive and innovate the way we do.&quot;
 
-Facebook CEO Mark Zuckerberg came out against the Trump ban in a post Friday on the social service. &quot;Like many of you, I’m concerned about the impact of the recent executive orders signed by President Trump,&quot; he wrote. &quot;We need to keep this country safe, but we should do that by focusing on people who actually pose a threat. Expanding the focus of law enforcement beyond people who are real threats would make all Americans less safe by diverting resources, while millions of undocumented folks who don’t pose a threat will live in fear of deportation.&quot; But Zuckerberg also said he was &quot;glad to hear President Trump say he’s going to ‘work something out’ for Dreamers&quot; — a term for immigrants who came to the U.S. at a young age with their parents — and that Trump said the U.S. should continue to benefit from &quot;people of great talent coming into the country.&quot;</content> 
-<sequenceId type="str">695197401817</sequenceId> 
-<topics type="list"> 
+Facebook CEO Mark Zuckerberg came out against the Trump ban in a post Friday on the social service. &quot;Like many of you, I’m concerned about the impact of the recent executive orders signed by President Trump,&quot; he wrote. &quot;We need to keep this country safe, but we should do that by focusing on people who actually pose a threat. Expanding the focus of law enforcement beyond people who are real threats would make all Americans less safe by diverting resources, while millions of undocumented folks who don’t pose a threat will live in fear of deportation.&quot; But Zuckerberg also said he was &quot;glad to hear President Trump say he’s going to ‘work something out’ for Dreamers&quot; — a term for immigrants who came to the U.S. at a young age with their parents — and that Trump said the U.S. should continue to benefit from &quot;people of great talent coming into the country.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -41,7 +40,8 @@ Facebook CEO Mark Zuckerberg came out against the Trump ban in a post Friday on 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:38Z</estimatedPublishedDate> 
-<title type="str">Tech CEOs Blast Trump Muslim Immigration Ban: ‘So Un-American It Pains Us All’</title> 
+</TOPICS> 
+<DOCID type="str">695197401817</DOCID> 
+<DCT type="str">2017-01-29T07:36:38Z</DCT> 
+<TITLE type="str">Tech CEOs Blast Trump Muslim Immigration Ban: ‘So Un-American It Pains Us All’</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">releases its latest resource, the Meet and Confer Instructional Guide today, for public comment and feedback. 
+<TEXT type="str">releases its latest resource, the Meet and Confer Instructional Guide today, for public comment and feedback. 
 
 The Meet and Confer Instructional Guide has been developed to assist legal practitioners in navigating the &quot;Meet and Confer&quot; process. The document covers the technical issues involved in a meet and confer, with an emphasis on being prepared with a solid IG framework and numerous considerations around proportionality. 
 
@@ -20,9 +20,8 @@ LTPI is open to suggestions for new projects and accepting new project members. 
 About LTPI 
 Legal Technology Professional Institute () is a nonprofit legal association for legal practitioners who are involved in the use of technology utilized by the legal industry, including eDiscovery in litigation and investigations, and information governance. Sponsors of the initiative include the world&apos;s leading law firms, corporations, enterprise software companies, and litigation support providers. 
 
-Read the full story at</content> 
-<sequenceId type="str">695201972459</sequenceId> 
-<topics type="list"> 
+Read the full story at</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Biotech news</name> 
@@ -31,7 +30,8 @@ Read the full story at</content>
 <group type="str">Industry</group> 
 <name type="str">Health care industry news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:17Z</estimatedPublishedDate> 
-<title type="str">LTPI Releases Meet and Confer Instructional Guide</title> 
+</TOPICS> 
+<DOCID type="str">695201972459</DOCID> 
+<DCT type="str">2017-01-29T08:10:17Z</DCT> 
+<TITLE type="str">LTPI Releases Meet and Confer Instructional Guide</TITLE> 
 </root>

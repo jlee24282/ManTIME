@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Arima Mayor Lisa Morris-Julien has called on members of the business community to support activities in the eastern borough.
+<TEXT type="str">Arima Mayor Lisa Morris-Julien has called on members of the business community to support activities in the eastern borough.
 
 Speaking against the backdrop of the launch of Arima’s Carnival on Friday, a short distance away from the Velodrome, Morris-Julien said while some of the businessmen in the borough have responded to the calls of the borough corporation, others simply were not forthcoming. 
 
@@ -16,9 +16,8 @@ Regarding the launch of Arima Carnival, Morris-Julien said this year’s celebra
 
 So, what we are trying to do is have things in place for the children, the adults, something for everyone,” she said. 
 
-This year, entertainment was provided by the Trinidad and Tobago Fire Services Band, Denise Belfon, Third Base (Adrian Hackshaw), Asten Isaac and Skatie (Carlos James).</content> 
-<sequenceId type="str">695197281004</sequenceId> 
-<topics type="list"> 
+This year, entertainment was provided by the Trinidad and Tobago Fire Services Band, Denise Belfon, Third Base (Adrian Hackshaw), Asten Isaac and Skatie (Carlos James).</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -27,7 +26,8 @@ This year, entertainment was provided by the Trinidad and Tobago Fire Services B
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:36:06Z</estimatedPublishedDate> 
-<title type="str">Arima Mayor calls for business support</title> 
+</TOPICS> 
+<DOCID type="str">695197281004</DOCID> 
+<DCT type="str">2017-01-29T07:36:06Z</DCT> 
+<TITLE type="str">Arima Mayor calls for business support</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Tweet on Twitter 
+<TEXT type="str">Tweet on Twitter 
      Govt focusses on entertainment industry&apos;s revival: Marriyum  
 ISLAMABAD, Jan 29 (APP): Minister of State for Information, 
 Broadcasting and National Heritage Marriyum Aurangzeb said the 
@@ -59,9 +59,8 @@ Films Exhibitors Association.
 Facebook 
   
 Twitter 
-      Previous article GSMA anticipates sound 3G, 4G growth in Pakistan till 2</content> 
-<sequenceId type="str">695203419149</sequenceId> 
-<topics type="list"> 
+      Previous article GSMA anticipates sound 3G, 4G growth in Pakistan till 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Internet</group> 
 <name type="str">Internet latest</name> 
@@ -70,7 +69,8 @@ Twitter
 <group type="str">Regional</group> 
 <name type="str">Pakistan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:14Z</estimatedPublishedDate> 
-<title type="str">Govt focusses on entertainment industry’s revival: Marriyum</title> 
+</TOPICS> 
+<DOCID type="str">695203419149</DOCID> 
+<DCT type="str">2017-01-29T08:21:14Z</DCT> 
+<TITLE type="str">Govt focusses on entertainment industry’s revival: Marriyum</TITLE> 
 </root>

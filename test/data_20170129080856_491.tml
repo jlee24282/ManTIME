@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Clay Neely / The Newnan Times-Herald 
+<TEXT type="str">Clay Neely / The Newnan Times-Herald 
  
 After coming to America in 2004, Suzette and Jan Smit are now American citizens following a Naturalization ceremony on Friday. 
  
@@ -41,9 +41,8 @@ Their Sundays are spent at church and then on Skype where they visit with their 
  
 **** 
  
-Clay Neely: clay@newnan.com, @clayneely</content> 
-<sequenceId type="str">695199669688</sequenceId> 
-<topics type="list"> 
+Clay Neely: clay@newnan.com, @clayneely</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -52,7 +51,8 @@ Clay Neely: clay@newnan.com, @clayneely</content>
 <group type="str">Regional</group> 
 <name type="str">South Africa news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:25Z</estimatedPublishedDate> 
-<title type="str">Smit family celebrates new citizenship</title> 
+</TOPICS> 
+<DOCID type="str">695199669688</DOCID> 
+<DCT type="str">2017-01-29T07:53:25Z</DCT> 
+<TITLE type="str">Smit family celebrates new citizenship</TITLE> 
 </root>

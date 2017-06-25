@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Riley McCarron has grown accustomed to fighting for a job. 
+<TEXT type="str">Riley McCarron has grown accustomed to fighting for a job. 
  
 He’s ready to do it again. This time at the highest level. 
  
@@ -42,9 +42,8 @@ Now, and no matter what career path he ends up following, McCarron is excited to
  
 Even if it will be a little different. 
  
-“I’m sure it will be weird at first, just being back there but not actually playing. But I think it will be fun,” he said. “I’ll get used to enjoying the other side of football, being a fan again, and I think I’ll enjoy it.”</content> 
-<sequenceId type="str">695202484189</sequenceId> 
-<topics type="list"> 
+“I’m sure it will be weird at first, just being back there but not actually playing. But I think it will be fun,” he said. “I’ll get used to enjoying the other side of football, being a fan again, and I think I’ll enjoy it.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -57,7 +56,8 @@ Even if it will be a little different.
 <group type="str">Sports</group> 
 <name type="str">Sports: college football news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:30:00Z</estimatedPublishedDate> 
-<title type="str">College football: Iowa&apos;s McCarron, Daniels eying dream job</title> 
+</TOPICS> 
+<DOCID type="str">695202484189</DOCID> 
+<DCT type="str">2017-01-29T06:30:00Z</DCT> 
+<TITLE type="str">College football: Iowa&apos;s McCarron, Daniels eying dream job</TITLE> 
 </root>

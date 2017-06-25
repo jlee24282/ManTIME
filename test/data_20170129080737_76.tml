@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump on Monday tapped Republican Commissioner Ajit Pai to head the U.S. Federal Communications Commission, which is expected to roll back many of the Obama administration’s telecommunications and internet policies. 
+<TEXT type="str">President Donald Trump on Monday tapped Republican Commissioner Ajit Pai to head the U.S. Federal Communications Commission, which is expected to roll back many of the Obama administration’s telecommunications and internet policies. 
  
 Pai, a former Justice Department, FCC and Capitol Hill staffer, in December said the administration’s landmark net neutrality rules adopted in 2015 would not last. Pai, the son of Indian immigrants who grew up in Kansas, said last month the commission should take a “weed whacker” to unneeded rules and was harshly critical of many FCC regulations imposed during the Obama administration. 
  
@@ -10,9 +10,8 @@ Last week, then FCC chairman Tom Wheeler urged Republicans against dismantling t
  
 Reuters 
  
-Tags:  Ajit Pai , Capitol Hill , Donald Trump , FCC , Federal Communications Commission , Internet , Justice Department , Net neutrality , Trump , United States</content> 
-<sequenceId type="str">695196148462</sequenceId> 
-<topics type="list"> 
+Tags:  Ajit Pai , Capitol Hill , Donald Trump , FCC , Federal Communications Commission , Internet , Justice Department , Net neutrality , Trump , United States</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -45,7 +44,8 @@ Tags:  Ajit Pai , Capitol Hill , Donald Trump , FCC , Federal Communications Com
 <group type="str">Business</group> 
 <name type="str">Executive moves news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:27:23Z</estimatedPublishedDate> 
-<title type="str">U.S President Donald Trump appoints Ajit Pai as the new FCC head; endangers net ...</title> 
+</TOPICS> 
+<DOCID type="str">695196148462</DOCID> 
+<DCT type="str">2017-01-29T07:27:23Z</DCT> 
+<TITLE type="str">U.S President Donald Trump appoints Ajit Pai as the new FCC head; endangers net ...</TITLE> 
 </root>

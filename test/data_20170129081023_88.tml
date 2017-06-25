@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON — The Latest on U.S. President Donald Trump and his ban on refugees from Muslim-majority countries (all times local): 
+<TEXT type="str">WASHINGTON — The Latest on U.S. President Donald Trump and his ban on refugees from Muslim-majority countries (all times local): 
  
 3 a.m. 
  
@@ -268,9 +268,8 @@ In a statement issued late Friday night after the suspension was announced, IRC 
  
 The IRC statement declared that the U.S. vetting process for prospective refugees is already robust — involving biometric screening and up to 36 months of vetting by “12 to 15 government agencies.” 
  
-Miliband praised The United States’ record as a resettlement destination and said, “This is no time for America to turn its back on people ready to become patriotic Americans.”</content> 
-<sequenceId type="str">695202529150</sequenceId> 
-<topics type="list"> 
+Miliband praised The United States’ record as a resettlement destination and said, “This is no time for America to turn its back on people ready to become patriotic Americans.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Libya news</name> 
@@ -311,7 +310,8 @@ Miliband praised The United States’ record as a resettlement destination and s
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:14:28Z</estimatedPublishedDate> 
-<title type="str">The Latest: Official says ruling will not affect travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695202529150</DOCID> 
+<DCT type="str">2017-01-29T08:14:28Z</DCT> 
+<TITLE type="str">The Latest: Official says ruling will not affect travel ban</TITLE> 
 </root>

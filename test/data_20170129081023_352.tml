@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">GifsArt  
+<TEXT type="str">GifsArt  
 By now, we&apos;re all probably pretty familiar with GIFs, those looping and often loopy short videos that can sometimes say so much more than your own words. (Or an emoji.) 
  
 But what if you don&apos;t want to rely on other people&apos;s GIFs for your own expression? 
@@ -23,9 +23,8 @@ You need to make an account to start making goals, but you can opt to make your 
  
 So if you see someone else vowing to learn something new every day or to practice an instrument for 30 minutes a day, you can join them on that quest. 
  
-Free, for Android devices.</content> 
-<sequenceId type="str">695202717727</sequenceId> 
-<topics type="list"> 
+Free, for Android devices.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Apps news</name> 
@@ -34,7 +33,8 @@ Free, for Android devices.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:16:00Z</estimatedPublishedDate> 
-<title type="str">App reviews: GifsArt, Thirty</title> 
+</TOPICS> 
+<DOCID type="str">695202717727</DOCID> 
+<DCT type="str">2017-01-29T08:16:00Z</DCT> 
+<TITLE type="str">App reviews: GifsArt, Thirty</TITLE> 
 </root>

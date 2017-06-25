@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New York, Jan 29 (PTI) Scientists have found a 38,000-year-old engraved art in a rockshelter – bearing the image of a wild cow surrounded by rows of dots – that offers a window into the lives of modern humans during the period. 
+<TEXT type="str">New York, Jan 29 (PTI) Scientists have found a 38,000-year-old engraved art in a rockshelter – bearing the image of a wild cow surrounded by rows of dots – that offers a window into the lives of modern humans during the period. 
  
 “The discovery sheds new light on regional patterning of art and ornamentation across Europe at a time when the first modern humans to enter Europe dispersed westward and northward across the continent,” said Randall White, an anthropologist at the New York University, who led the excavation in France’s Vezere Valley. 
  
@@ -22,9 +22,8 @@ Over time, hundreds of personal ornaments have been discovered, including pierce
  
 The research appears in the journal Quaternary International. 
  
-This is published unedited from the PTI feed.</content> 
-<sequenceId type="str">695194449315</sequenceId> 
-<topics type="list"> 
+This is published unedited from the PTI feed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
@@ -33,7 +32,8 @@ This is published unedited from the PTI feed.</content>
 <group type="str">Science</group> 
 <name type="str">Human science news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:10Z</estimatedPublishedDate> 
-<title type="str">38k-yr-old cave art may be window to early modern human life</title> 
+</TOPICS> 
+<DOCID type="str">695194449315</DOCID> 
+<DCT type="str">2017-01-29T07:14:10Z</DCT> 
+<TITLE type="str">38k-yr-old cave art may be window to early modern human life</TITLE> 
 </root>

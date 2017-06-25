@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Jacob Beltran , San Antonio Express-News 
+<TEXT type="str">By Jacob Beltran , San Antonio Express-News 
  Updated 3:23 pm, Saturday, January 28, 2017       
  Photo: Jacob Beltran  
   
@@ -134,9 +134,8 @@ Police had not identified any suspects as of Friday night.
  
 jbeltran@express-news.net 
  
-Twitter: @JBfromSA</content> 
-<sequenceId type="str">695193909563</sequenceId> 
-<topics type="list"> 
+Twitter: @JBfromSA</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">San Antonio news</name> 
@@ -145,7 +144,8 @@ Twitter: @JBfromSA</content>
 <group type="str">Society</group> 
 <name type="str">Illegal drugs news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:55Z</estimatedPublishedDate> 
-<title type="str">Safes smelling of marijuana discovered where father, son shot...</title> 
+</TOPICS> 
+<DOCID type="str">695193909563</DOCID> 
+<DCT type="str">2017-01-29T07:11:55Z</DCT> 
+<TITLE type="str">Safes smelling of marijuana discovered where father, son shot...</TITLE> 
 </root>

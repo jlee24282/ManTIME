@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LONDON — Anger erupted on Saturday — along with some praise from the far-right — about U.S. President Donald Trump’s ban on refugees entering the United States. 
+<TEXT type="str">LONDON — Anger erupted on Saturday — along with some praise from the far-right — about U.S. President Donald Trump’s ban on refugees entering the United States. 
    
 The French president vigorously urged European leaders to present a united front against populism while the German foreign minister noted that “love thy neighbor” is a key part of America’s Christian traditions. Turkey’s prime minister insisted that “you cannot settle this issue by building walls.” 
    
@@ -54,9 +54,8 @@ Netanyahu tweeted that Israel’s wall along its border with Egypt had stemmed a
    
 FAR-RIGHT DUTCH POPULIST GEERT WILDERS 
    
-In a tweet, the Dutch anti-Islam populist Wilders, whose Party for Freedom is polling strongly ahead of the country’s March 15 election, says: “No immigrants from Islamic countries.”</content> 
-<sequenceId type="str">695196065415</sequenceId> 
-<topics type="list"> 
+In a tweet, the Dutch anti-Islam populist Wilders, whose Party for Freedom is polling strongly ahead of the country’s March 15 election, says: “No immigrants from Islamic countries.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Israel news</name> 
@@ -65,7 +64,8 @@ In a tweet, the Dutch anti-Islam populist Wilders, whose Party for Freedom is po
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:55Z</estimatedPublishedDate> 
-<title type="str">Anger erupts over Trump refugee ban</title> 
+</TOPICS> 
+<DOCID type="str">695196065415</DOCID> 
+<DCT type="str">2017-01-29T07:26:55Z</DCT> 
+<TITLE type="str">Anger erupts over Trump refugee ban</TITLE> 
 </root>

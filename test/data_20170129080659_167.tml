@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Colorado Mesa’s Ludvig Saldh takes a shot during a recent game against the University of Colorado - Colorado Springs. Saldh’s home touwn is Gothenburg, Sweden. 
+<TEXT type="str">Colorado Mesa’s Ludvig Saldh takes a shot during a recent game against the University of Colorado - Colorado Springs. Saldh’s home touwn is Gothenburg, Sweden. 
   
    
 Colorado Mesa University basketball players Maja Beier, left, and Chiara Giesselbach, right, watch the action from their seats on the sidelines during a recent game. Both women are students from Germany. 
@@ -180,9 +180,8 @@ And there are bonuses.
  
 Despite the obstacles they face in language, food and distance from home, there’s also a comfort zone. 
  
-“The sports part puts them at ease,” MacDonald said. “It gives them a place they’re used to.”</content> 
-<sequenceId type="str">695194739581</sequenceId> 
-<topics type="list"> 
+“The sports part puts them at ease,” MacDonald said. “It gives them a place they’re used to.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -207,7 +206,8 @@ Despite the obstacles they face in language, food and distance from home, there�
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:48:00Z</estimatedPublishedDate> 
-<title type="str">College education, athletics a draw for Colorado Mesa international student-athletes</title> 
+</TOPICS> 
+<DOCID type="str">695194739581</DOCID> 
+<DCT type="str">2017-01-29T04:48:00Z</DCT> 
+<TITLE type="str">College education, athletics a draw for Colorado Mesa international student-athletes</TITLE> 
 </root>

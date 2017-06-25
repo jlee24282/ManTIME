@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">2:00 a.m. ET Jan. 29, 2017 
+<TEXT type="str">2:00 a.m. ET Jan. 29, 2017 
    Buy Photo  
 Fishermen gather during the rally behind Fisherman&apos;s Supply in Point Pleasant Beach Friday, January 27, 2017. Fisherman are concerned by harvest cuts proposed by the federal government.  (Photo: THOMAS P. COSTELLO) Buy Photo 
   
@@ -44,9 +44,8 @@ Today: Fly Fishing Show at the Garden State Exhibit Center, 50 Atrium Drive, So
  
 Saturday: The Great American Outdoor Show, the world&apos;s consumer sports and outdoors show, opens at 9 a.m. in Harrisburg, Pennsylvania,  for more information greatamericanoutdoorshow.org/ 
  
-Feb. 14: Fish and Game Council meeting, 10 a.m., Central Office, 1 Eldridge Road, Robbinsville, at Assunpink WMA</content> 
-<sequenceId type="str">695195000671</sequenceId> 
-<topics type="list"> 
+Feb. 14: Fish and Game Council meeting, 10 a.m., Central Office, 1 Eldridge Road, Robbinsville, at Assunpink WMA</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
@@ -55,7 +54,8 @@ Feb. 14: Fish and Game Council meeting, 10 a.m., Central Office, 1 Eldridge Road
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:46Z</estimatedPublishedDate> 
-<title type="str">New rules could cripple flounder fishermen</title> 
+</TOPICS> 
+<DOCID type="str">695195000671</DOCID> 
+<DCT type="str">2017-01-29T07:00:46Z</DCT> 
+<TITLE type="str">New rules could cripple flounder fishermen</TITLE> 
 </root>

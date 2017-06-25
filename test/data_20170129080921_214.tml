@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">With temperatures set to soar across the state, fire authorities have issued a total fire ban across Victoria. 
+<TEXT type="str">With temperatures set to soar across the state, fire authorities have issued a total fire ban across Victoria. 
  
 The entire state has a severe or very high fire danger rating on Monday, meaning no fires can be lit or be allowed to remain alight in the open air, the CFA says. 
  
-Temperatures are tipped to hit the low 40s in the northwest of the state while Melbourne can expect a top of 36C.</content> 
-<sequenceId type="str">695200386832</sequenceId> 
-<topics type="list"> 
+Temperatures are tipped to hit the low 40s in the northwest of the state while Melbourne can expect a top of 36C.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -15,7 +14,8 @@ Temperatures are tipped to hit the low 40s in the northwest of the state while M
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:59:38Z</estimatedPublishedDate> 
-<title type="str">Vic to swelter on Monday amid fire fears</title> 
+</TOPICS> 
+<DOCID type="str">695200386832</DOCID> 
+<DCT type="str">2017-01-29T07:59:38Z</DCT> 
+<TITLE type="str">Vic to swelter on Monday amid fire fears</TITLE> 
 </root>

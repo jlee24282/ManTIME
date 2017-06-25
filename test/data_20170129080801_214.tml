@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The actress was taken to hospital on Thursday.</content> 
-<sequenceId type="str">695197088469</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The actress was taken to hospital on Thursday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:43Z</estimatedPublishedDate> 
-<title type="str">Mischa Barton blames &apos;erratic&apos; behaviour on date rape drug GHB</title> 
+</TOPICS> 
+<DOCID type="str">695197088469</DOCID> 
+<DCT type="str">2017-01-29T07:34:43Z</DCT> 
+<TITLE type="str">Mischa Barton blames &apos;erratic&apos; behaviour on date rape drug GHB</TITLE> 
 </root>

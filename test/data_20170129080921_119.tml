@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  
+<TEXT type="str">  
  
 Jan. 15: At the Danvers Indoor Sports Center, the St. John’s Girls Cadets took on Our Lady of Assumption of Lynnfield. St. John’s opened up a big halftime lead and then rolled to the win.　 
  
@@ -112,9 +112,8 @@ But there would be no comeback.
  
 Jackson Field scored off an offensive miss, Eli Zaklin made a jumper, and Tyler Chiarello ended the run to push the lead back to 14. St. John’s closed it out for their second straight win.　 
  
-St. John’s was led by a double-double of 12 points and 21 rebounds by Field. Max Field grabbed 14 rebounds. Ryan Ward and Eli Zaklin each finished with six steals to polish off the win.</content> 
-<sequenceId type="str">695200323124</sequenceId> 
-<topics type="list"> 
+St. John’s was led by a double-double of 12 points and 21 rebounds by Field. Max Field grabbed 14 rebounds. Ryan Ward and Eli Zaklin each finished with six steals to polish off the win.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -123,7 +122,8 @@ St. John’s was led by a double-double of 12 points and 21 rebounds by Field. M
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:53:12Z</estimatedPublishedDate> 
-<title type="str">St. John&apos;s CYO Basketball: Girls Cadets pull away for win over Lynnfield</title> 
+</TOPICS> 
+<DOCID type="str">695200323124</DOCID> 
+<DCT type="str">2017-01-29T04:53:12Z</DCT> 
+<TITLE type="str">St. John&apos;s CYO Basketball: Girls Cadets pull away for win over Lynnfield</TITLE> 
 </root>

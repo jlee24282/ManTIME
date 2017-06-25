@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Eighty-one percent of evangelicals voted for Donald Trump because of the Supreme Court. Was it worth it? 
+<TEXT type="str">Eighty-one percent of evangelicals voted for Donald Trump because of the Supreme Court. Was it worth it? 
  
 What did you sacrifice for Rowe vs. Wade? For one, the planet, and two, Donald Trump with the nuclear codes. It seems you couldn&apos;t see past the end of your noise when you voted. 
  
@@ -18,9 +18,8 @@ As of Jan. 19, a snapshot was taken by history. Now, we wait for what&apos;s nex
  
 Paul Sanchez, 
  
-Moline</content> 
-<sequenceId type="str">695202907181</sequenceId> 
-<topics type="list"> 
+Moline</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -33,7 +32,8 @@ Moline</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:00:19Z</estimatedPublishedDate> 
-<title type="str">Letter: In two years, we&apos;ll know what Trump has done to US</title> 
+</TOPICS> 
+<DOCID type="str">695202907181</DOCID> 
+<DCT type="str">2017-01-29T06:00:19Z</DCT> 
+<TITLE type="str">Letter: In two years, we&apos;ll know what Trump has done to US</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">What will happen to Medicare? 
+<TEXT type="str">What will happen to Medicare? 
  
 That’s not an insignificant question given the political shift in Washington. 
  
@@ -33,9 +33,8 @@ Congress has already begun to take that protection away. Beginning in 2020 insur
 Medicare does face some long-term funding shortfalls, and so far the acceptable solution is to require that seniors pay more rather than raise taxes for everyone or impose cost controls with teeth, which doctors, hospitals, drug companies, and other healthcare providers don’t want. I will explore all that, including negotiating pharmaceutical prices, in a future column. 
  
  
-— The Rural Health News Service is funded by a grant from The Commonwealth Fund and distributed through the Nebraska Press Association Foundation, the Colorado Press Association, the South Dakota Newspaper Association and the Hoosier (Indiana) State Press Association.</content> 
-<sequenceId type="str">695198948689</sequenceId> 
-<topics type="list"> 
+— The Rural Health News Service is funded by a grant from The Commonwealth Fund and distributed through the Nebraska Press Association Foundation, the Colorado Press Association, the South Dakota Newspaper Association and the Hoosier (Indiana) State Press Association.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Health insurance news</name> 
@@ -48,7 +47,8 @@ Medicare does face some long-term funding shortfalls, and so far the acceptable 
 <group type="str">Society</group> 
 <name type="str">Medicaid and Medicare news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:00Z</estimatedPublishedDate> 
-<title type="str">Thinking About Health: Major changes may be coming to Medicare</title> 
+</TOPICS> 
+<DOCID type="str">695198948689</DOCID> 
+<DCT type="str">2017-01-29T07:17:00Z</DCT> 
+<TITLE type="str">Thinking About Health: Major changes may be coming to Medicare</TITLE> 
 </root>

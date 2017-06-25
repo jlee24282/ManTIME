@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Gold Derby    
+<TEXT type="str">Gold Derby    
 Congratulations to Kevin Polowy  (Yahoo) for being the only one of 14 Experts to have a perfect score of 100% when predicting the 2017 Producers Guild Awards winners on Saturday. He was tied with 11 of our Users out of over 900 people worldwide with that top percentage picking three film and six television categories. See the Experts prediction page here. 
  
 Producers Guild Awards 2017: Complete list of winners 
@@ -14,9 +14,8 @@ You can see how your score compares to all others in our leaderboard rankings of
 Sign up to get Gold Derby’s free newsletter 
 with experts’ latest predictions and breaking news 
  
-Be sure to make your Oscar winner predictions . Weigh in now with your picks so that Hollywood insiders can see how the films and performers are faring in our Oscar odds . You can keep changing your predictions right up until just before the ceremony on February 26 at 5:00 pm PT/8:00 pm ET. Be sure to read our contest rules . And join in the fierce debate over the Oscars taking place right now with Hollywood insiders in  our forums .</content> 
-<sequenceId type="str">695201287523</sequenceId> 
-<topics type="list"> 
+Be sure to make your Oscar winner predictions . Weigh in now with your picks so that Hollywood insiders can see how the films and performers are faring in our Oscar odds . You can keep changing your predictions right up until just before the ceremony on February 26 at 5:00 pm PT/8:00 pm ET. Be sure to read our contest rules . And join in the fierce debate over the Oscars taking place right now with Hollywood insiders in  our forums .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -25,7 +24,8 @@ Be sure to make your Oscar winner predictions . Weigh in now with your picks so 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:56Z</estimatedPublishedDate> 
-<title type="str">Producers Guild Awards 2017: Kevin Polowy (Yahoo) tops all Experts with perfect predictions score</title> 
+</TOPICS> 
+<DOCID type="str">695201287523</DOCID> 
+<DCT type="str">2017-01-29T07:45:56Z</DCT> 
+<TITLE type="str">Producers Guild Awards 2017: Kevin Polowy (Yahoo) tops all Experts with perfect predictions score</TITLE> 
 </root>

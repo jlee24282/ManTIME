@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Georgia Highlands men’s basketball team rolled to a 101-65 win over conference rival South Georgia State on Saturday. 
+<TEXT type="str">The Georgia Highlands men’s basketball team rolled to a 101-65 win over conference rival South Georgia State on Saturday. 
  
 The Chargers continued their perfect season, improving to 21-0 overall and 8-0 in conference play. 
  
 Leading the way for the Chargers was Ty’lik Evans with 20 points. Antonio Wade scored 19 points and grabbed seven rebounds, D’Andre Bernard scored 18 points and pulled down 10 rebounds, Ricco Bonds scored 12 points, and Kyvon Davenport added 11 points. 
  
-The Chargers will return to action Wednesday as they travel to Albany Tech for a 7:30 p.m. matchup.</content> 
-<sequenceId type="str">695196266308</sequenceId> 
-<topics type="list"> 
+The Chargers will return to action Wednesday as they travel to Albany Tech for a 7:30 p.m. matchup.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -21,7 +20,8 @@ The Chargers will return to action Wednesday as they travel to Albany Tech for a
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:21:00Z</estimatedPublishedDate> 
-<title type="str">GHC BASKETBALL: GHC men continue perfect season</title> 
+</TOPICS> 
+<DOCID type="str">695196266308</DOCID> 
+<DCT type="str">2017-01-29T05:21:00Z</DCT> 
+<TITLE type="str">GHC BASKETBALL: GHC men continue perfect season</TITLE> 
 </root>

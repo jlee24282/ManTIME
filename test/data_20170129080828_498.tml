@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Authorities are preparing for the worst fire danger day of the 2016-2017 fire season with soaring temperatures coupled with gusty winds pushing the region into a severe danger period. Authorities are preparing for the worst fire danger day of the 2016-2017 fire season with soaring temperatures coupled with gusty winds pushing the region into a severe danger period. CFA district 15 duty officer Kade Dowie has urged residents to keep updated on the local fire situation and ensure they have fire action plans in place and are prepared to leave early. 
+<TEXT type="str">Authorities are preparing for the worst fire danger day of the 2016-2017 fire season with soaring temperatures coupled with gusty winds pushing the region into a severe danger period. Authorities are preparing for the worst fire danger day of the 2016-2017 fire season with soaring temperatures coupled with gusty winds pushing the region into a severe danger period. CFA district 15 duty officer Kade Dowie has urged residents to keep updated on the local fire situation and ensure they have fire action plans in place and are prepared to leave early. 
 
 A total fire ban day has been declared statewide with temperatures in the Ballarat region expected to peak at 32 degrees followed by a slight change in the mid-afternoon which will bring gusts of around 40km/h. 
 
@@ -26,9 +26,8 @@ He has reminded all Victorians to ensure they are aware of the restrictions on a
 
 Temperatures are expected to plunge on Monday night with temperatures on Tuesday expected to reach a maximum of 23.
 
-Conditions will remain cool through the week, with temperatures picking up on Friday Saturday. Mr Russell said low wind activity forecast for the following week would significantly reduce the fire risk. To find out information about restrictions visit cfa.vic.gov.au.</content> 
-<sequenceId type="str">695198458749</sequenceId> 
-<topics type="list"> 
+Conditions will remain cool through the week, with temperatures picking up on Friday Saturday. Mr Russell said low wind activity forecast for the following week would significantly reduce the fire risk. To find out information about restrictions visit cfa.vic.gov.au.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -37,7 +36,8 @@ Conditions will remain cool through the week, with temperatures picking up on Fr
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:00Z</estimatedPublishedDate> 
-<title type="str">Be wary, severe fire risk declared</title> 
+</TOPICS> 
+<DOCID type="str">695198458749</DOCID> 
+<DCT type="str">2017-01-29T07:00:00Z</DCT> 
+<TITLE type="str">Be wary, severe fire risk declared</TITLE> 
 </root>

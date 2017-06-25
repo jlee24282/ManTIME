@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Theresa May does &quot;not agree&quot; with Donald Trump&apos;s refugee ban and will appeal to the US if it affects British citizens, Downing Street has said.
+<TEXT type="str">Theresa May does &quot;not agree&quot; with Donald Trump&apos;s refugee ban and will appeal to the US if it affects British citizens, Downing Street has said.
 
 The prime minister was criticised for refusing to condemn President Trump&apos;s executive order on Saturday.
 
@@ -32,9 +32,8 @@ At a news conference in Ankara with Turkish Prime Minister Benali Yildirim on Sa
 
 She added: &quot;The United Kingdom is responsible for the United Kingdom&apos;s policy on refugees.
 
-&quot;[This] is to have a number of voluntary schemes to bring Syrian refugees into the country, particularly those who are most vulnerable, but also to provide significant financial contributions to support refugees in countries surrounding Syria.&quot;</content> 
-<sequenceId type="str">695194651562</sequenceId> 
-<topics type="list"> 
+&quot;[This] is to have a number of voluntary schemes to bring Syrian refugees into the country, particularly those who are most vulnerable, but also to provide significant financial contributions to support refugees in countries surrounding Syria.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -43,7 +42,8 @@ She added: &quot;The United Kingdom is responsible for the United Kingdom&apos;s
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:02Z</estimatedPublishedDate> 
-<title type="str">Theresa May does &apos;not agree&apos; with US ban on refugees</title> 
+</TOPICS> 
+<DOCID type="str">695194651562</DOCID> 
+<DCT type="str">2017-01-29T07:17:02Z</DCT> 
+<TITLE type="str">Theresa May does &apos;not agree&apos; with US ban on refugees</TITLE> 
 </root>

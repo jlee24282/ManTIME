@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Philip Fisher 
+<TEXT type="str">Philip Fisher 
  
 29th January, 2017 
  Rufus Norris 
@@ -33,9 +33,8 @@ He was also particularly proud about the transfer of People, Places and Things t
  
 Ten shows have also been confirmed in the upcoming NT Live season seven of which are home productions and three from other theatres. 
  
-Full details are now available on the National Theatre web site .﻿</content> 
-<sequenceId type="str">695204111053</sequenceId> 
-<topics type="list"> 
+Full details are now available on the National Theatre web site .﻿</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -44,7 +43,8 @@ Full details are now available on the National Theatre web site .﻿</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: theater news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:37Z</estimatedPublishedDate> 
-<title type="str">The National Theatre in 2017</title> 
+</TOPICS> 
+<DOCID type="str">695204111053</DOCID> 
+<DCT type="str">2017-01-29T08:26:37Z</DCT> 
+<TITLE type="str">The National Theatre in 2017</TITLE> 
 </root>

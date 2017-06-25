@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Donald Trump and Germany Chancellor Angela Merkel agreed Saturday on NATO&apos;s &quot;fundamental importance,&quot; the White House said, despite the American leader&apos;s past characterization of the transatlantic military alliance as &quot;obsolete.&quot;
+<TEXT type="str">President Donald Trump and Germany Chancellor Angela Merkel agreed Saturday on NATO&apos;s &quot;fundamental importance,&quot; the White House said, despite the American leader&apos;s past characterization of the transatlantic military alliance as &quot;obsolete.&quot;
 
 During their telephone call, which also touched on the situation in North Africa and the Middle East, relations with Russia, and the crisis in Ukraine, Trump accepted Merkel&apos;s invitation to attend the upcoming G20 summit in Hamburg, Germany, in July.
 
@@ -20,9 +20,8 @@ The new president — who has raised the prospect of easing sanctions imposed ag
 
 &quot;Both leaders affirmed the importance of close German-American cooperation to our countries&apos; security and prosperity and expressed their desire to deepen already close German-American relations in the coming years,&quot; the White House statement said.
 
-It added that Trump looked forward to hosting Merkel &quot;soon&quot; in Washington.</content> 
-<sequenceId type="str">695198912649</sequenceId> 
-<topics type="list"> 
+It added that Trump looked forward to hosting Merkel &quot;soon&quot; in Washington.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -43,7 +42,8 @@ It added that Trump looked forward to hosting Merkel &quot;soon&quot; in Washing
 <group type="str">Society</group> 
 <name type="str">International relations news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:43:13Z</estimatedPublishedDate> 
-<title type="str">Trump, Merkel agree on NATO&apos;s &apos;fundamental im...</title> 
+</TOPICS> 
+<DOCID type="str">695198912649</DOCID> 
+<DCT type="str">2017-01-29T07:43:13Z</DCT> 
+<TITLE type="str">Trump, Merkel agree on NATO&apos;s &apos;fundamental im...</TITLE> 
 </root>

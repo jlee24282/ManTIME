@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">YAKIMA — For Sunnyside’s wrestlers, Thursday was the emotionally charged home show and Saturday was the business trip. 
+<TEXT type="str">YAKIMA — For Sunnyside’s wrestlers, Thursday was the emotionally charged home show and Saturday was the business trip. 
    
 The Grizzlies didn’t impress themselves Saturday afternoon, but they got the job done impressively nonetheless. 
    
@@ -60,9 +60,8 @@ Team result: 3, Naches Valley.
    
 Individual Results 
    
-106: 2, John Mitchell. 120: 4, Joseph Feriante. 126: 2, Joseph Briskey. 132: 2, Joel Briscoe. 145: 1, Jared Navarro. 152: 3, Jorden Perez. 160: 1, Kolten Reynolds. 182: 1, Hunter Gangle.</content> 
-<sequenceId type="str">695201842713</sequenceId> 
-<topics type="list"> 
+106: 2, John Mitchell. 120: 4, Joseph Feriante. 126: 2, Joseph Briskey. 132: 2, Joel Briscoe. 145: 1, Jared Navarro. 152: 3, Jorden Perez. 160: 1, Kolten Reynolds. 182: 1, Hunter Gangle.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -71,7 +70,8 @@ Individual Results
 <group type="str">Sports</group> 
 <name type="str">Sports: wrestling news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:09:07Z</estimatedPublishedDate> 
-<title type="str">Sunnyside wrestlers take down Davis, claim CBBN title</title> 
+</TOPICS> 
+<DOCID type="str">695201842713</DOCID> 
+<DCT type="str">2017-01-29T08:09:07Z</DCT> 
+<TITLE type="str">Sunnyside wrestlers take down Davis, claim CBBN title</TITLE> 
 </root>

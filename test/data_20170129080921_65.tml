@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">11.35 a.m. 
+<TEXT type="str">11.35 a.m. 
  
 In India, we celebrate the spring season with Basant Panchami on February 1. It is an occasion to worship knowledge. 
  
@@ -70,9 +70,8 @@ As it is a cultural festival, Republic Day in a festival of democracy as well.
  
 We need to dwell more on our duties and rights. The more we introspect on this issue the better. 
  
-Duties and rights must be stressed equally at all levels. Tomorrow is 30th January. The death anniversary of our beloved Bapu ji. We observe it as Martyrs&apos; Day. We observe 2 minute silence in honour of all martyrs. Let it become a spontaneous practice on this day.</content> 
-<sequenceId type="str">695200267692</sequenceId> 
-<topics type="list"> 
+Duties and rights must be stressed equally at all levels. Tomorrow is 30th January. The death anniversary of our beloved Bapu ji. We observe it as Martyrs&apos; Day. We observe 2 minute silence in honour of all martyrs. Let it become a spontaneous practice on this day.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -85,7 +84,8 @@ Duties and rights must be stressed equally at all levels. Tomorrow is 30th Janua
 <group type="str">Regional</group> 
 <name type="str">Pakistan news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:36Z</estimatedPublishedDate> 
-<title type="str">Modi condoles martyred soldiers in Kashmir avalanche</title> 
+</TOPICS> 
+<DOCID type="str">695200267692</DOCID> 
+<DCT type="str">2017-01-29T07:58:36Z</DCT> 
+<TITLE type="str">Modi condoles martyred soldiers in Kashmir avalanche</TITLE> 
 </root>

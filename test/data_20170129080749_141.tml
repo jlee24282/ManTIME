@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Looks like you&apos;re already verified. 
+<TEXT type="str">Looks like you&apos;re already verified. 
  
 If you still have trouble signing in, you probably need a new confirmation link email. 
   
@@ -59,9 +59,8 @@ Sign in to complete account merge {* #tradAuthenticateMergeForm *} {* traditiona
 Change password {* newPasswordForm *} {* newPassword *} {* newPasswordConfirm *} {* submitButton *} {* /newPasswordForm *} 
  Your password has been changed  Sign in  
 Create a new password {* #forgotPasswordForm *} {* forgotPassword_emailAddress *} {* forgotPassword_sendButton *} {* /forgotPasswordForm *} 
- Create a new password  Close  Thanks for verifying your email address.   {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</content> 
-<sequenceId type="str">695196630984</sequenceId> 
-<topics type="list"> 
+ Create a new password  Close  Thanks for verifying your email address.   {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">France news</name> 
@@ -74,7 +73,8 @@ Create a new password {* #forgotPasswordForm *} {* forgotPassword_emailAddress *
 <group type="str">Society</group> 
 <name type="str">US politics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:31:09Z</estimatedPublishedDate> 
-<title type="str">French left-wing presidential primary: Hamon vs. Valls</title> 
+</TOPICS> 
+<DOCID type="str">695196630984</DOCID> 
+<DCT type="str">2017-01-29T07:31:09Z</DCT> 
+<TITLE type="str">French left-wing presidential primary: Hamon vs. Valls</TITLE> 
 </root>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">.
+<TEXT type="str">.
 
-Gerard was a resident of Sun City Center, Florida at the time of his passing.</content> 
-<sequenceId type="str">695196757181</sequenceId> 
-<topics type="list"> 
+Gerard was a resident of Sun City Center, Florida at the time of his passing.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Tampa Bay Area news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Gerard A. Emmrich, 83, Sun City Center, Florida</title> 
+</TOPICS> 
+<DOCID type="str">695196757181</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Gerard A. Emmrich, 83, Sun City Center, Florida</TITLE> 
 </root>

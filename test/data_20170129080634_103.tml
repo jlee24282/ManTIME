@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Opportunities for high school football players to further their education and continue playing will be available once again at the fifth annual California Showcase at the Orange County Great Park in Irvine on Feb. 11. 
+<TEXT type="str">Opportunities for high school football players to further their education and continue playing will be available once again at the fifth annual California Showcase at the Orange County Great Park in Irvine on Feb. 11. 
 
 The free one-day, nonprofit event is presented by Coach Terry Donahue, a Balboa Island resident, and the National Football Foundation. It is intended for high school seniors to display their skills to Division II, Division III and NAIA football programs throughout the country. 
  
@@ -26,9 +26,8 @@ To sign up, go to: cashowcase.org/students.html
 
 — From staff reports 
 
-— From staff reports</content> 
-<sequenceId type="str">695193889145</sequenceId> 
-<topics type="list"> 
+— From staff reports</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -37,7 +36,8 @@ To sign up, go to: cashowcase.org/students.html
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:43Z</estimatedPublishedDate> 
-<title type="str">California Showcase coming soon</title> 
+</TOPICS> 
+<DOCID type="str">695193889145</DOCID> 
+<DCT type="str">2017-01-29T07:11:43Z</DCT> 
+<TITLE type="str">California Showcase coming soon</TITLE> 
 </root>

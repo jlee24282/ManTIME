@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Published 01/29 2017 12:17AM 
+<TEXT type="str">Published 01/29 2017 12:17AM 
  
 Updated 01/29 2017 12:17AM 
    
@@ -62,9 +62,8 @@ A group of community activists, attorneys and others gathered at O&apos;Hare Int
  
 Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey. 
  
-© Distributed by LAKANA. This material may not be published, broadcast, rewritten or redistributed.</content> 
-<sequenceId type="str">695203942523</sequenceId> 
-<topics type="list"> 
+© Distributed by LAKANA. This material may not be published, broadcast, rewritten or redistributed.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -93,7 +92,8 @@ Protests also took place at airports in Boston; San Francisco, Denver, Dallas an
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:25:15Z</estimatedPublishedDate> 
-<title type="str">Protests against Trump&apos;s &apos;Muslim ban&apos; continue</title> 
+</TOPICS> 
+<DOCID type="str">695203942523</DOCID> 
+<DCT type="str">2017-01-29T08:25:15Z</DCT> 
+<TITLE type="str">Protests against Trump&apos;s &apos;Muslim ban&apos; continue</TITLE> 
 </root>

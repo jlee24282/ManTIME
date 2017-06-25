@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">For the second-straight week, Penn State team found itself in a close match. 
+<TEXT type="str">For the second-straight week, Penn State team found itself in a close match. 
  
 But unlike last weekend, the Nittany Lions came out of Saturday&apos;s match with a loss, falling to James Madison, 4-3, at the Indoor Tennis Center. 
  
@@ -14,9 +14,8 @@ In singles for Penn State, Katia Blik defeated Rachel Nelson in straight sets 6-
  
 In singles victories for James Madison, Tiema Guibe defeated Devan McCluskey 3-6, 6-4, 7-6, Emma Peterson beat Dasha Sapogova 1-6, 6-1, 6-4, and Kimmy Herrock downed Bennett Dunn in straight sets by a score of 7-5, 6-3. 
  
-“Today was another case of a 4-3 match that came down to a couple points here or there, and you have to credit James Madison for handling the pressure points better than we did,&quot; Cagle said. “I still think that these types of games are learning experiences that we can benefit from as the season progresses.”</content> 
-<sequenceId type="str">695201243741</sequenceId> 
-<topics type="list"> 
+“Today was another case of a 4-3 match that came down to a couple points here or there, and you have to credit James Madison for handling the pressure points better than we did,&quot; Cagle said. “I still think that these types of games are learning experiences that we can benefit from as the season progresses.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -25,7 +24,8 @@ In singles victories for James Madison, Tiema Guibe defeated Devan McCluskey 3-6
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:05:00Z</estimatedPublishedDate> 
-<title type="str">Penn State women&apos;s tennis falls to James Madison</title> 
+</TOPICS> 
+<DOCID type="str">695201243741</DOCID> 
+<DCT type="str">2017-01-29T00:05:00Z</DCT> 
+<TITLE type="str">Penn State women&apos;s tennis falls to James Madison</TITLE> 
 </root>

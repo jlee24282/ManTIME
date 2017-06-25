@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- San Francisco, CA, USA. - US Capital Partners Inc. has been engaged by Maven Research, Inc. (&quot;Maven&quot;) as its strategic advisor in capital formation needs. Maven will use the new financing for sales and marketing, research and software development, customer acquisition, and general working capital as the business continues to expand. 
+<TEXT type="str">- San Francisco, CA, USA. - US Capital Partners Inc. has been engaged by Maven Research, Inc. (&quot;Maven&quot;) as its strategic advisor in capital formation needs. Maven will use the new financing for sales and marketing, research and software development, customer acquisition, and general working capital as the business continues to expand. 
 US Capital Partners Inc. is a private investment bank headquartered in San Francisco. Through its affiliate broker dealer, US Capital Global Securities, Inc., the firm facilitates equity private placements, makes direct debt investments, participates in debt facilities, and has a wide distribution for these services and financial products for small and medium-sized businesses. 
 
 &quot;We are delighted to be assisting Maven with its growth capital needs in a strategic investment banking role, as the company moves into the next phase of its business expansion.&quot; said Jeffrey Sweeney, Chairman and CEO at US Capital Partners. &quot;The opportunity to participate in Maven&apos;s $6 million preferred equity raise is now open to eligible investors through our digital investment platform, available at www.uscgs.com, which offers a curated selection of private placement opportunities.&quot; 
@@ -22,9 +22,8 @@ San Francisco, CA 94111
 media ( @ ) uscapitalpartners dot net 
 http://www.uscapitalpartners.net 
 
-###</content> 
-<sequenceId type="str">695203854009</sequenceId> 
-<topics type="list"> 
+###</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Investment banking news</name> 
@@ -33,7 +32,8 @@ http://www.uscapitalpartners.net
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">US Capital Engaged on $6M Equity Investment for Maven Research, Inc</title> 
+</TOPICS> 
+<DOCID type="str">695203854009</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">US Capital Engaged on $6M Equity Investment for Maven Research, Inc</TITLE> 
 </root>

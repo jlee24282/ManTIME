@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New York, Jan 29 (IANS) Indian-American actor Kal Penn has started a fund raiser for Syrian refugees after a Twitter user said he doesn&apos;t belong in the US.
+<TEXT type="str">New York, Jan 29 (IANS) Indian-American actor Kal Penn has started a fund raiser for Syrian refugees after a Twitter user said he doesn&apos;t belong in the US.
 
 Penn, who has been playing pivotal roles in the American entertainment industry for over a decade now, originally set the fund raising amount at $2,500, but has raised over $128,000, reports dailymail.co.uk.
 
@@ -20,9 +20,8 @@ Additionally, he served as an associate director of the White House&apos;s offic
 
 --IANS
 
-sug/rb/vt</content> 
-<sequenceId type="str">695194211789</sequenceId> 
-<topics type="list"> 
+sug/rb/vt</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Syria news</name> 
@@ -31,7 +30,8 @@ sug/rb/vt</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:04Z</estimatedPublishedDate> 
-<title type="str">Kal Penn starts fund raiser for Syrian refugees</title> 
+</TOPICS> 
+<DOCID type="str">695194211789</DOCID> 
+<DCT type="str">2017-01-29T07:00:04Z</DCT> 
+<TITLE type="str">Kal Penn starts fund raiser for Syrian refugees</TITLE> 
 </root>

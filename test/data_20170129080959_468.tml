@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">WASHINGTON — Officials say the thorny matter of U.S.-imposed sanctions on Russia didn&apos;t come up during President Donald Trump&apos;s first phone call with Russian President Vladimir Putin, which suggests that the more difficult obstacles to warmer relations between their nations can wait. 
+<TEXT type="str">WASHINGTON — Officials say the thorny matter of U.S.-imposed sanctions on Russia didn&apos;t come up during President Donald Trump&apos;s first phone call with Russian President Vladimir Putin, which suggests that the more difficult obstacles to warmer relations between their nations can wait. 
  
 Statements from the White House and the Kremlin described the conversation Saturday in positive terms, the same tone used in White House accounts of other calls Trump made to world leaders. Only later did a White House official, responding to a question, acknowledge that sanctions were not among the topics the two leaders discussed. 
  
@@ -28,9 +28,8 @@ Shortly before leaving office, Obama also ordered sanctions on Russian spy agenc
  
 Trump&apos;s tempered approach to U.S.-Russia relations has already raised concern among several European allies who believe keeping Russia in check is essential to regional security. Domestically, some Republican lawmakers have warned against easing sanctions and pledged to put them into law. 
  
-Trump also placed calls Saturday to French President Francois Hollande, Australian Prime Minister Malcolm Turnbull, German Chancellor Angela Merkel and Japanese Prime Minister Shinzo Abe.</content> 
-<sequenceId type="str">695202047785</sequenceId> 
-<topics type="list"> 
+Trump also placed calls Saturday to French President Francois Hollande, Australian Prime Minister Malcolm Turnbull, German Chancellor Angela Merkel and Japanese Prime Minister Shinzo Abe.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -47,7 +46,8 @@ Trump also placed calls Saturday to French President Francois Hollande, Australi
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:52Z</estimatedPublishedDate> 
-<title type="str">Officials say Trump, Putin avoided topic of sanctions</title> 
+</TOPICS> 
+<DOCID type="str">695202047785</DOCID> 
+<DCT type="str">2017-01-29T08:10:52Z</DCT> 
+<TITLE type="str">Officials say Trump, Putin avoided topic of sanctions</TITLE> 
 </root>

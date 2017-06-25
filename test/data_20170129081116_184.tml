@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Posted
+<TEXT type="str">Posted
         by Matt Tait January 29, 2017 at 2:03 a.m.    
-Advertisement</content> 
-<sequenceId type="str">695204349274</sequenceId> 
-<topics type="list"> 
+Advertisement</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -13,7 +12,8 @@ Advertisement</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: horse racing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:03:56Z</estimatedPublishedDate> 
-<title type="str">KU Sports Extra: Kansas Wins Kentucky Derby</title> 
+</TOPICS> 
+<DOCID type="str">695204349274</DOCID> 
+<DCT type="str">2017-01-29T08:03:56Z</DCT> 
+<TITLE type="str">KU Sports Extra: Kansas Wins Kentucky Derby</TITLE> 
 </root>

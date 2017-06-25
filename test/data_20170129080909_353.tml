@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A look at what is happening: 
+<TEXT type="str">A look at what is happening: 
  
 ___ 
  
@@ -96,9 +96,8 @@ ___
  
 SAN DIEGO 
  
-As motorists honked their support, demonstrators outside San Diego International Airport chanted &quot;No hate, no fear, everyone is welcome here.&quot;</content> 
-<sequenceId type="str">695200077353</sequenceId> 
-<topics type="list"> 
+As motorists honked their support, demonstrators outside San Diego International Airport chanted &quot;No hate, no fear, everyone is welcome here.&quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -119,7 +118,8 @@ As motorists honked their support, demonstrators outside San Diego International
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:17Z</estimatedPublishedDate> 
-<title type="str">Protests erupt at airports following Trump travel ban</title> 
+</TOPICS> 
+<DOCID type="str">695200077353</DOCID> 
+<DCT type="str">2017-01-29T07:28:17Z</DCT> 
+<TITLE type="str">Protests erupt at airports following Trump travel ban</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Upendings: 
+<TEXT type="str">Upendings: 
  
 Omaha 83, South Dakota State 82 …..on a buzzer-beater. 
  
@@ -36,9 +36,8 @@ Napheesa Collier and Katie Lou Samuelson are on record pace for UConn .
  
 College coach news: 
  
-Louisville coach Jeff Walz preaches focus ahead of the team’s rematch with Pitt .</content> 
-<sequenceId type="str">695196310763</sequenceId> 
-<topics type="list"> 
+Louisville coach Jeff Walz preaches focus ahead of the team’s rematch with Pitt .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -47,7 +46,8 @@ Louisville coach Jeff Walz preaches focus ahead of the team’s rematch with Pit
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T04:06:02Z</estimatedPublishedDate> 
-<title type="str">A bit of irregularity</title> 
+</TOPICS> 
+<DOCID type="str">695196310763</DOCID> 
+<DCT type="str">2017-01-29T04:06:02Z</DCT> 
+<TITLE type="str">A bit of irregularity</TITLE> 
 </root>

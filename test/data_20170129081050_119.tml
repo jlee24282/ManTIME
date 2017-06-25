@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In a tiny shop in Egbeda area of Lagos, where 30-year-old Aminat, popularly called Mama Cletus in her neighbourhood, sat, selling petty goods, every day drags by with one thought on her mind, if the father of her two children was ever coming home. 
+<TEXT type="str">In a tiny shop in Egbeda area of Lagos, where 30-year-old Aminat, popularly called Mama Cletus in her neighbourhood, sat, selling petty goods, every day drags by with one thought on her mind, if the father of her two children was ever coming home. 
 At 30, Aminat had known her 37-year-old husband, David Esene, for 12 years. 
  
 Following the unfortunate turn of event, with two children, she now has to fend for herself with the help of her sister-in-law and other members of the family. 
@@ -93,9 +93,8 @@ And that was the last time anybody would hear from David .
 Despite the misgiving the family had over his decision to travel, over the last six months, they had tried every means possible to find him without news. 
  
 His friends already in Europe, who encouraged him to make the journey, have heard nothing from him. People who knew him while in Libya said they have not seen him since the day he said he was going to cross the sea. 
-No one knows the fate that has befallen David and this has increased the apprehension of his wife and other members of his family.</content> 
-<sequenceId type="str">695203314274</sequenceId> 
-<topics type="list"> 
+No one knows the fate that has befallen David and this has increased the apprehension of his wife and other members of his family.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Nigeria news</name> 
@@ -108,7 +107,8 @@ No one knows the fate that has befallen David and this has increased the apprehe
 <group type="str">Regional</group> 
 <name type="str">United Arab Emirates news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:17:19Z</estimatedPublishedDate> 
-<title type="str">I Don’t Know If I’m A Widow or Not – Woman whose husband went missing out of desperation</title> 
+</TOPICS> 
+<DOCID type="str">695203314274</DOCID> 
+<DCT type="str">2017-01-29T08:17:19Z</DCT> 
+<TITLE type="str">I Don’t Know If I’m A Widow or Not – Woman whose husband went missing out of desperation</TITLE> 
 </root>

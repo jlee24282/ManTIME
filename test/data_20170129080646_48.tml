@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695194248669</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:14:04Z</estimatedPublishedDate> 
-<title type="str">American Is Accused of Aiding ISIS With Gift Cards</title> 
+</TOPICS> 
+<DOCID type="str">695194248669</DOCID> 
+<DCT type="str">2017-01-29T07:14:04Z</DCT> 
+<TITLE type="str">American Is Accused of Aiding ISIS With Gift Cards</TITLE> 
 </root>

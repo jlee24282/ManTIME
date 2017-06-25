@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Latest on the Rolex 24 at Daytona (all times local):
+<TEXT type="str">The Latest on the Rolex 24 at Daytona (all times local):
 
 ---
 
@@ -152,9 +152,8 @@ Four-time NASCAR champion Jeff Gordon started the race in the pits, with Wayne T
 
 &quot;Dancing with the Stars&quot; runner-up and IndyCar driver James Hinchcliffe, four-time IndyCar champion Scott Dixon and 2014 Indianapolis 500 winner Ryan Hunter-Reay also are in the field.
 
-Chip Ganassi Racing, which has dominated the Rolex in recent years, has two entries. One of them includes Joey Hand, Dirk Mueller and Sebastien Bourdais, who won their class at the 24 Hours of Le Mans last year.</content> 
-<sequenceId type="str">695202560783</sequenceId> 
-<topics type="list"> 
+Chip Ganassi Racing, which has dominated the Rolex in recent years, has two entries. One of them includes Joey Hand, Dirk Mueller and Sebastien Bourdais, who won their class at the 24 Hours of Le Mans last year.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -163,7 +162,8 @@ Chip Ganassi Racing, which has dominated the Rolex in recent years, has two entr
 <group type="str">Sports</group> 
 <name type="str">Sports: NASCAR news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:01Z</estimatedPublishedDate> 
-<title type="str">The Latest: Jeff Gordon, Taylor Racing halfway home to Rolex</title> 
+</TOPICS> 
+<DOCID type="str">695202560783</DOCID> 
+<DCT type="str">2017-01-29T08:12:01Z</DCT> 
+<TITLE type="str">The Latest: Jeff Gordon, Taylor Racing halfway home to Rolex</TITLE> 
 </root>

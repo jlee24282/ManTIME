@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Review 
+<TEXT type="str">Review 
   
 Raees Movie Review: Nawaz takes the spotlight away from King Khan in this mediocre crime drama 
    
@@ -166,9 +166,8 @@ Yeh danga-phasaad nahin chalega: Shatrughan Sinha urges PM Modiji to personally 
    
 Hot 
   
-Bigg Boss 10: Manveer, Bani, Manu or Lopa - Who deserves to be the winner?</content> 
-<sequenceId type="str">695196618827</sequenceId> 
-<topics type="list"> 
+Bigg Boss 10: Manveer, Bani, Manu or Lopa - Who deserves to be the winner?</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -181,7 +180,8 @@ Bigg Boss 10: Manveer, Bani, Manu or Lopa - Who deserves to be the winner?</cont
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: television news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:17:24Z</estimatedPublishedDate> 
-<title type="str">Nakuul Mehta and wife Jankee celebrate their 5-year wedding anniversary with these sweet messages!</title> 
+</TOPICS> 
+<DOCID type="str">695196618827</DOCID> 
+<DCT type="str">2017-01-29T07:17:24Z</DCT> 
+<TITLE type="str">Nakuul Mehta and wife Jankee celebrate their 5-year wedding anniversary with these sweet messages!</TITLE> 
 </root>

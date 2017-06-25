@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Paul Merson says he would rather have Eden Hazard than Philippe Coutinho after the Arsenal legend rubbished the suggestion that the Liverpool star is world class.  
+<TEXT type="str">Paul Merson says he would rather have Eden Hazard than Philippe Coutinho after the Arsenal legend rubbished the suggestion that the Liverpool star is world class.  
 The Brazil international signed a new long-term contract with the Merseyside outfit on Wednesday as Coutinho put to bed speculation surrounding his future at Liverpool. 
  
 Coutinho scored five goals and made five assists in his opening 13 games in the 2016-17 Premier League season before picking up a serious ankle injury in a 2-0 win against Sunderland in November. 
@@ -41,9 +41,8 @@ MORE: Arsenal latest news
  
 MORE: Chelsea latest news 
  
-MORE: Liverpool latest news</content> 
-<sequenceId type="str">695194173518</sequenceId> 
-<topics type="list"> 
+MORE: Liverpool latest news</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
@@ -52,7 +51,8 @@ MORE: Liverpool latest news</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:06Z</estimatedPublishedDate> 
-<title type="str">Paul Merson: Eden Hazard is world class, this Liverpool midfielder isn’t</title> 
+</TOPICS> 
+<DOCID type="str">695194173518</DOCID> 
+<DCT type="str">2017-01-29T07:00:06Z</DCT> 
+<TITLE type="str">Paul Merson: Eden Hazard is world class, this Liverpool midfielder isn’t</TITLE> 
 </root>

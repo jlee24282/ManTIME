@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Conservative MPs were among the critics and one claimed he would be personally affected by the US border clampdown, 
+<TEXT type="str">Conservative MPs were among the critics and one claimed he would be personally affected by the US border clampdown, 
  
 Theresa May does “not agree” with Donald Trump’s travel ban on refugees and citizens of seven mainly-Muslim countries and she will make representations if it hits Britons, Downing Street has said. 
  
@@ -104,9 +104,8 @@ Speaking in the White House, Mr Trump said the ban was “working out very nicel
  
 — Justin Trudeau (@JustinTrudeau) January 28, 2017 
   
-Canada’s prime minister Justin Trudeau said his country welcomed “those fleeing persecution, terror and war”, regardless of their faith.</content> 
-<sequenceId type="str">695197981390</sequenceId> 
-<topics type="list"> 
+Canada’s prime minister Justin Trudeau said his country welcomed “those fleeing persecution, terror and war”, regardless of their faith.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
@@ -123,7 +122,8 @@ Canada’s prime minister Justin Trudeau said his country welcomed “those flee
 <group type="str">Society</group> 
 <name type="str">UK politics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:07Z</estimatedPublishedDate> 
-<title type="str">PM will intervene if Trump ban hits Britons – Downing Street</title> 
+</TOPICS> 
+<DOCID type="str">695197981390</DOCID> 
+<DCT type="str">2017-01-29T07:41:07Z</DCT> 
+<TITLE type="str">PM will intervene if Trump ban hits Britons – Downing Street</TITLE> 
 </root>

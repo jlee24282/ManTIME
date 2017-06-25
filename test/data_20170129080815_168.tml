@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jade Cheldelin couldn’t miss in the third quarter and, thanks to a team-wide defensive effort by the University of Redlands women’s basketball team in the fourth, visiting Caltech couldn’t score much at all over the final 10 minutes. 
+<TEXT type="str">Jade Cheldelin couldn’t miss in the third quarter and, thanks to a team-wide defensive effort by the University of Redlands women’s basketball team in the fourth, visiting Caltech couldn’t score much at all over the final 10 minutes. 
  
 It all added up to a 53-38 victory Saturday night for the streaking Bulldogs, their fourth SCIAC win in their last five games. 
  
@@ -41,9 +41,8 @@ Swimming and Diving
  
 Redlands’ men won, 145-89 and the women won, 137-103, in Saturday’s SCIAC meet at Whittier College on Saturday. Bulldogs coach Leslie Whittemore notched her 100th men’s dual-meet victory at Redlands. 
  
-Overall, the Bulldogs combined to win 16 events between the teams, while also recording 13 second-place performances and 14 third-place showings.</content> 
-<sequenceId type="str">695197460885</sequenceId> 
-<topics type="list"> 
+Overall, the Bulldogs combined to win 16 events between the teams, while also recording 13 second-place performances and 14 third-place showings.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -52,7 +51,8 @@ Overall, the Bulldogs combined to win 16 events between the teams, while also re
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:40Z</estimatedPublishedDate> 
-<title type="str">Redlands women’s basketball pulls away in second half</title> 
+</TOPICS> 
+<DOCID type="str">695197460885</DOCID> 
+<DCT type="str">2017-01-29T07:37:40Z</DCT> 
+<TITLE type="str">Redlands women’s basketball pulls away in second half</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">He made the remarks in a tweeter message released on Saturday. 
+<TEXT type="str">He made the remarks in a tweeter message released on Saturday. 
 
 US president Donald Trump on Friday inked an executive order which temporalily blocks the entry of citizens from certain Muslim majority countries including Iran to the United states . 
 
@@ -14,9 +14,8 @@ Zarif added, “While respecting Americans and differentiating between them and 
 
 “Unlike the US, our decision is not retroactive. All with valid Iranian visa will be gladly welcomed,” foreign minister added. 
 
-9191**1771</content> 
-<sequenceId type="str">695196989100</sequenceId> 
-<topics type="list"> 
+9191**1771</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -37,7 +36,8 @@ Zarif added, “While respecting Americans and differentiating between them and 
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:34:01Z</estimatedPublishedDate> 
-<title type="str">Zarif: Muslims entry ban, great gift to extremists</title> 
+</TOPICS> 
+<DOCID type="str">695196989100</DOCID> 
+<DCT type="str">2017-01-29T07:34:01Z</DCT> 
+<TITLE type="str">Zarif: Muslims entry ban, great gift to extremists</TITLE> 
 </root>

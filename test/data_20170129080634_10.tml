@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">New Delhi, Jan 29  
+<TEXT type="str">New Delhi, Jan 29  
 Electrocution is turning into a preferred method for trapping wild animals across Indian forests, but nothing much is being done by the government to check it. 
  
 Wildlife lovers and experts say that while poisoning, shooting, foot-traps (snares) and even explosive-traps are among some of the popular poaching methods in Indian forests, electrocution is rising because it mostly goes undetected and animals mostly die quickly. 
@@ -29,9 +29,8 @@ Two leopards, one tigress and two sambar deer were also electrocuted between Jan
  
 On January 25, a sloth bear was found electrocuted with its claws harvested, in Amravati Forest Division of Maharashtra, an official told IANS. 
  
-(Kushagra Dixit can be reached at kushagra.d@ians.in)</content> 
-<sequenceId type="str">695193829358</sequenceId> 
-<topics type="list"> 
+(Kushagra Dixit can be reached at kushagra.d@ians.in)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Nature news</name> 
@@ -40,7 +39,8 @@ On January 25, a sloth bear was found electrocuted with its claws harvested, in 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:09:02Z</estimatedPublishedDate> 
-<title type="str">Electrocution of wild animals increasing, experts raise concerns</title> 
+</TOPICS> 
+<DOCID type="str">695193829358</DOCID> 
+<DCT type="str">2017-01-29T07:09:02Z</DCT> 
+<TITLE type="str">Electrocution of wild animals increasing, experts raise concerns</TITLE> 
 </root>

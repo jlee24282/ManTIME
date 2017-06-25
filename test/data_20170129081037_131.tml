@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">ITN Live Webcast 
+<TEXT type="str">ITN Live Webcast 
  
  
 Alternative content 
@@ -10,14 +10,14 @@ ITN Live With Time Shift Function (Rewind / Pause)
 Watch Prime News 
    
 News Archive 
- News Archive</content> 
-<sequenceId type="str">695202931010</sequenceId> 
-<topics type="list"> 
+ News Archive</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:00:05Z</estimatedPublishedDate> 
-<title type="str">ITN News 2017-01-29 12.00PM</title> 
+</TOPICS> 
+<DOCID type="str">695202931010</DOCID> 
+<DCT type="str">2017-01-29T07:00:05Z</DCT> 
+<TITLE type="str">ITN News 2017-01-29 12.00PM</TITLE> 
 </root>

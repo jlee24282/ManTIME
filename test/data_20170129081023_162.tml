@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">POLICE ARE ON the scene of a two-car smash-up along the Graeme Hall section of the ABC Highway.   
+<TEXT type="str">POLICE ARE ON the scene of a two-car smash-up along the Graeme Hall section of the ABC Highway.   
  
  
- At least seven people are estimated to be involved in the collision which occurred around 3 a.m. ...</content> 
-<sequenceId type="str">695202591697</sequenceId> 
-<topics type="list"> 
+ At least seven people are estimated to be involved in the collision which occurred around 3 a.m. ...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Media</group> 
 <name type="str">Broadcasting industry news</name> 
@@ -14,7 +13,8 @@
 <group type="str">Regional</group> 
 <name type="str">Caribbean news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:00Z</estimatedPublishedDate> 
-<title type="str">Accident on ABC Highway</title> 
+</TOPICS> 
+<DOCID type="str">695202591697</DOCID> 
+<DCT type="str">2017-01-29T07:30:00Z</DCT> 
+<TITLE type="str">Accident on ABC Highway</TITLE> 
 </root>

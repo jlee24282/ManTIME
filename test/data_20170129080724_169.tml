@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo by Jeffrey Saulton One of several piles of debris on the Johns Manville site will have to be removed before the City of Vienna can progress on redevelopment. 
+<TEXT type="str">Photo by Jeffrey Saulton One of several piles of debris on the Johns Manville site will have to be removed before the City of Vienna can progress on redevelopment. 
 
 VIENNA — While a lot of work has been done on the new Spencer’s Landing in Vienna, there is still a lot of work left to do to make about half of the 35-acre site suitable for post-industrial development. 
  
@@ -44,9 +44,8 @@ When the site was purchased by the city, it was announced a company was interest
  
 Since the purchase, part of the property intended for a new public park has been developing with the addition of the Gold Star Memorial and more is planned for the spring, Rapp said. 
  
-“Our park side is developing nicely and the industrial side is cleaning up for new business,” he said. “That area will have a beautiful view of the Ohio River once everything cleared out. We will start work on the walking trail and for the park, I am looking forward to that with the picnic shelters, some of the original pad for a shelter where Johns Manville used to have a park for employees.”</content> 
-<sequenceId type="str">695195766081</sequenceId> 
-<topics type="list"> 
+“Our park side is developing nicely and the industrial side is cleaning up for new business,” he said. “That area will have a beautiful view of the Ohio River once everything cleared out. We will start work on the walking trail and for the park, I am looking forward to that with the picnic shelters, some of the original pad for a shelter where Johns Manville used to have a park for employees.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Austria news</name> 
@@ -55,7 +54,8 @@ Since the purchase, part of the property intended for a new public park has been
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:24:32Z</estimatedPublishedDate> 
-<title type="str">Vienna looking forward to Spencer’s Landing development</title> 
+</TOPICS> 
+<DOCID type="str">695195766081</DOCID> 
+<DCT type="str">2017-01-29T07:24:32Z</DCT> 
+<TITLE type="str">Vienna looking forward to Spencer’s Landing development</TITLE> 
 </root>

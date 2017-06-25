@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">3:01 a.m. ET Jan. 29, 2017 
+<TEXT type="str">3:01 a.m. ET Jan. 29, 2017 
     
 Claudia Garcia (Photo: Submitted) 
   
@@ -22,9 +22,8 @@ UT students experiencing mental health issues or who know other students who are
  
 Claudia Garcia is a Knoxville resident.   
  
-Read or Share this story: http://knoxne.ws/2jDZXef</content> 
-<sequenceId type="str">695201354479</sequenceId> 
-<topics type="list"> 
+Read or Share this story: http://knoxne.ws/2jDZXef</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Medical news</name> 
@@ -41,7 +40,8 @@ Read or Share this story: http://knoxne.ws/2jDZXef</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:06:04Z</estimatedPublishedDate> 
-<title type="str">Claudia Garcia: UT students should know mental health help is available</title> 
+</TOPICS> 
+<DOCID type="str">695201354479</DOCID> 
+<DCT type="str">2017-01-29T08:06:04Z</DCT> 
+<TITLE type="str">Claudia Garcia: UT students should know mental health help is available</TITLE> 
 </root>

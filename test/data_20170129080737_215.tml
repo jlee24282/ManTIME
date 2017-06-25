@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Canberra United finished the W-League regular season in first place, with seven wins from 12 games. 
+<TEXT type="str">Canberra United finished the W-League regular season in first place, with seven wins from 12 games. 
  
 Sydney FC capitulated to a stunning 5-2 defeat against Adelaide United on Sunday allowing Canberra United to snatch the W-League premiership on the final day of the regular season. 
  
@@ -28,9 +28,8 @@ The day got even worse for Sydney FC as Perth Glory edged a last-minute 1-0 vict
  
 That lone injury-time strike from Caitlin Doeglas ensured Perth Glory earned home advantage for next week&apos;s semifinal against Sydney FC. 
  
-Melbourne City will travel to Canberra United for the other semi, with the champions sneaking into fourth spot courtesy of a 2-0 win over Newcastle Jets in Coffs Harbour on Friday.</content> 
-<sequenceId type="str">695196269310</sequenceId> 
-<topics type="list"> 
+Melbourne City will travel to Canberra United for the other semi, with the champions sneaking into fourth spot courtesy of a 2-0 win over Newcastle Jets in Coffs Harbour on Friday.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -39,7 +38,8 @@ Melbourne City will travel to Canberra United for the other semi, with the champ
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:11Z</estimatedPublishedDate> 
-<title type="str">Sydney&apos;s shock loss to Adelaide hands W-League premiership to Canberra</title> 
+</TOPICS> 
+<DOCID type="str">695196269310</DOCID> 
+<DCT type="str">2017-01-29T07:28:11Z</DCT> 
+<TITLE type="str">Sydney&apos;s shock loss to Adelaide hands W-League premiership to Canberra</TITLE> 
 </root>

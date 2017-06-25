@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Chrissy Teigen, John Legend, More Attend Obama&apos;s Farewell Party Bryan Cranston Nails Donald Trump Impression Jessica, Jerry Seinfeld Pay Emotional Tribute to Garry Shandling 
+<TEXT type="str">Chrissy Teigen, John Legend, More Attend Obama&apos;s Farewell Party Bryan Cranston Nails Donald Trump Impression Jessica, Jerry Seinfeld Pay Emotional Tribute to Garry Shandling 
 Not quite LOLing. Jerry Seinfeld was slammed for an insensitive Black Lives Matter tweet he sent out on Thursday, January 26, in conjunction with his Crackle series Comedians in Cars Getting Coffee . 
 
  
@@ -32,9 +32,8 @@ Seinfeld has been a proponent for loosening up censorship on comedians in the pa
  
 As of Saturday morning, Seinfeld’s controversial tweet remains on his page. 
  
-Want stories like these delivered straight to your inbox?</content> 
-<sequenceId type="str">695200111017</sequenceId> 
-<topics type="list"> 
+Want stories like these delivered straight to your inbox?</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: celebrity gossip</name> 
@@ -43,7 +42,8 @@ Want stories like these delivered straight to your inbox?</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:56:57Z</estimatedPublishedDate> 
-<title type="str">Jerry Seinfeld Slammed for Insensitive Black Lives Matter Tweet 18 hours ago</title> 
+</TOPICS> 
+<DOCID type="str">695200111017</DOCID> 
+<DCT type="str">2017-01-29T07:56:57Z</DCT> 
+<TITLE type="str">Jerry Seinfeld Slammed for Insensitive Black Lives Matter Tweet 18 hours ago</TITLE> 
 </root>

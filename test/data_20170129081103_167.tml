@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">- Lewes, DE / Stratford, CT (USA) - G-PMC Group, LLC, one of the country&apos;s fasting growing ISO certification bodies with the distinguished announced it approved a number of Lockheed Martin suppliers for ISO 9001:2015 and AS9100 REV C certification. Lockheed Martin, the largest U.S. government contractor, is an American global aerospace, defense, security and advanced technologies company. G-PMC Group is accredited by the American Board of Accredited Certification (ABAC), the leading independent accreditation body in the United States at http://www.aboac.org 
+<TEXT type="str">- Lewes, DE / Stratford, CT (USA) - G-PMC Group, LLC, one of the country&apos;s fasting growing ISO certification bodies with the distinguished announced it approved a number of Lockheed Martin suppliers for ISO 9001:2015 and AS9100 REV C certification. Lockheed Martin, the largest U.S. government contractor, is an American global aerospace, defense, security and advanced technologies company. G-PMC Group is accredited by the American Board of Accredited Certification (ABAC), the leading independent accreditation body in the United States at http://www.aboac.org 
 According to Richard Milton, spokesman for G-PMC, the company&apos;s CEO, Daryl Guberman has been involved in a series of discussions with Lockheed Martin since questioning the aerospace giant&apos;s accreditation requirements for its suppliers, specifically for first tier and second tier contractors certified to ISO 9001:2015 and AS 9100 Rev C. standards. 
 
 Guberman is no stranger to the aerospace industry. In 2013 he informed the FAA of quality issues plaguing the industry, particularly associated with the growing problem of supplier certification and accreditation. His letter can be found online at http://dguberman.com/Guberman_FAA_Flight_Safety_Letter.pdf 
@@ -34,9 +34,8 @@ New York, NY 10001 - USA
 info ( @ ) aboac dot org 
 http://wwww.aboac.org 
 
-###</content> 
-<sequenceId type="str">695203867643</sequenceId> 
-<topics type="list"> 
+###</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Aerospace and defense industry news</name> 
@@ -45,7 +44,8 @@ http://wwww.aboac.org
 <group type="str">Business</group> 
 <name type="str">Competition law news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">G-PMC Group to Certify Lockheed Martin Suppliers for AS9100 and ISO 9001:2015 Certification</title> 
+</TOPICS> 
+<DOCID type="str">695203867643</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">G-PMC Group to Certify Lockheed Martin Suppliers for AS9100 and ISO 9001:2015 Certification</TITLE> 
 </root>

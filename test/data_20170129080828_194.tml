@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trump has accepted Merkel s invitation to come in July at G20 summit in Hamburg and also has invited</content> 
-<sequenceId type="str">695198003495</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Trump has accepted Merkel s invitation to come in July at G20 summit in Hamburg and also has invited</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Germany news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:13Z</estimatedPublishedDate> 
-<title type="str">Trump invites German chancellor Merkel to Washington</title> 
+</TOPICS> 
+<DOCID type="str">695198003495</DOCID> 
+<DCT type="str">2017-01-29T07:41:13Z</DCT> 
+<TITLE type="str">Trump invites German chancellor Merkel to Washington</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Close wins are starting to become a specialty for the UAA men&apos;s basketball team. 
+<TEXT type="str">Close wins are starting to become a specialty for the UAA men&apos;s basketball team. 
    
 The Seawolves won their third straight game by four or fewer points Saturday with a dramatic overtime victory over rival Seattle Pacific 83-81 in Seattle. 
    
@@ -28,9 +28,8 @@ Both teams endured foul trouble throughout the game. Devine and Svejcar played l
    
 &quot;I am proud that we were able to fight through some foul trouble,&quot; Osborne said. &quot;Connor barely played in the second half and Spencer had to sit a long time in the second. But we had guys step up and help the team.&quot; 
    
-With the win, UAA stays alone at second place in the GNAC standings. UAA hosts conference-leader Western Washington (17-3, 11-1) on Thursday at the Alaska Airlines Center.</content> 
-<sequenceId type="str">695194999430</sequenceId> 
-<topics type="list"> 
+With the win, UAA stays alone at second place in the GNAC standings. UAA hosts conference-leader Western Washington (17-3, 11-1) on Thursday at the Alaska Airlines Center.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -43,7 +42,8 @@ With the win, UAA stays alone at second place in the GNAC standings. UAA hosts c
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:05Z</estimatedPublishedDate> 
-<title type="str">Seawolves sneak past Seattle Pacific in overtime in men’s basketball</title> 
+</TOPICS> 
+<DOCID type="str">695194999430</DOCID> 
+<DCT type="str">2017-01-29T07:20:05Z</DCT> 
+<TITLE type="str">Seawolves sneak past Seattle Pacific in overtime in men’s basketball</TITLE> 
 </root>

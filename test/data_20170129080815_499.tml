@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Posing as wedding guests, a gang of &apos;Baccha Chor&apos; stole jewellery worth Rs 60 lakh during a marriage ceremony at Lodhi Road in the national capital. </content> 
-<sequenceId type="str">695197824526</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Posing as wedding guests, a gang of &apos;Baccha Chor&apos; stole jewellery worth Rs 60 lakh during a marriage ceremony at Lodhi Road in the national capital. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:29Z</estimatedPublishedDate> 
-<title type="str">Delhi: &apos;Baccha Chor&apos; gang steals jewellery worth Rs 60 lakh during marriage ceremony</title> 
+</TOPICS> 
+<DOCID type="str">695197824526</DOCID> 
+<DCT type="str">2017-01-29T07:37:29Z</DCT> 
+<TITLE type="str">Delhi: &apos;Baccha Chor&apos; gang steals jewellery worth Rs 60 lakh during marriage ceremony</TITLE> 
 </root>

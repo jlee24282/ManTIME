@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The left has gone crazy! The Women’s March on Washington where the Media Research Center reports that George Soros pumped $90 million into over 50 organizations included in the march. 
+<TEXT type="str">The left has gone crazy! The Women’s March on Washington where the Media Research Center reports that George Soros pumped $90 million into over 50 organizations included in the march. 
  
 Then you have Ashley Judd and Madonna. Wow, they were unhinged with their hate for Donald Trump, with Madonna saying she’s thought about blowing up the White House. Thankfully the Secret Service has opened an investigation on Madonna. 
  
@@ -18,9 +18,8 @@ So to the Trump haters out there I say this, eight years of the Obama administra
  
 Paul Miller 
  
-Elizabeth City</content> 
-<sequenceId type="str">695202426038</sequenceId> 
-<topics type="list"> 
+Elizabeth City</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -41,7 +40,8 @@ Elizabeth City</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:13:48Z</estimatedPublishedDate> 
-<title type="str">The legacy of Obama will be Donald Trump</title> 
+</TOPICS> 
+<DOCID type="str">695202426038</DOCID> 
+<DCT type="str">2017-01-29T08:13:48Z</DCT> 
+<TITLE type="str">The legacy of Obama will be Donald Trump</TITLE> 
 </root>

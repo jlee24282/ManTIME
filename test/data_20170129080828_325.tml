@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">LOS ANGELES – No one remembers the score from an All-Star Game. 
+<TEXT type="str">LOS ANGELES – No one remembers the score from an All-Star Game. 
  
 You’d be hard pressed to even find someone who remembers what division won last year’s inaugural 3-on-3 tournament – save for the 11 men who split the $1-million sweetener up for grabs. 
  
@@ -56,9 +56,8 @@ It’s still pretty cool to see what happens when you bring the best of the best
  
 “We’ll leave here and we’ll all be competing against each other in no time.” 
  
-[relatedlinks]</content> 
-<sequenceId type="str">695198259447</sequenceId> 
-<topics type="list"> 
+[relatedlinks]</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: ice hockey news</name> 
@@ -71,7 +70,8 @@ It’s still pretty cool to see what happens when you bring the best of the best
 <group type="str">Sports</group> 
 <name type="str">Sports: NHL news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:40:17Z</estimatedPublishedDate> 
-<title type="str">Best of the best make memories and magic at NHL All-Star Game</title> 
+</TOPICS> 
+<DOCID type="str">695198259447</DOCID> 
+<DCT type="str">2017-01-29T07:40:17Z</DCT> 
+<TITLE type="str">Best of the best make memories and magic at NHL All-Star Game</TITLE> 
 </root>

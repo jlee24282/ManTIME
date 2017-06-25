@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">G. Morty Ortega/ 
+<TEXT type="str">G. Morty Ortega/ 
 
 Related content 
 
@@ -58,9 +58,8 @@ Lucia Martinez told KATU she used to be a &quot;hashtag activist&quot; but felt 
 
 A group of community activists, attorneys and others gathered at O&apos;Hare International Airport in Chicago. 
 
-Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey.</content> 
-<sequenceId type="str">695204128895</sequenceId> 
-<topics type="list"> 
+Protests also took place at airports in Boston; San Francisco, Denver, Dallas and Newark, New Jersey.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -89,7 +88,8 @@ Protests also took place at airports in Boston; San Francisco, Denver, Dallas an
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:26:48Z</estimatedPublishedDate> 
-<title type="str">Protests against Trump&apos;s &apos;Muslim ban&apos; continue</title> 
+</TOPICS> 
+<DOCID type="str">695204128895</DOCID> 
+<DCT type="str">2017-01-29T08:26:48Z</DCT> 
+<TITLE type="str">Protests against Trump&apos;s &apos;Muslim ban&apos; continue</TITLE> 
 </root>

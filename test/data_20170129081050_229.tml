@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">.
+<TEXT type="str">.
 
 Gene was a resident of Henryetta, Oklahoma at the time of his passing.
 
@@ -13,14 +13,14 @@ Gene was a resident of Henryetta, Oklahoma at the time of his passing.
 
 
 Service JAN
-31.</content> 
-<sequenceId type="str">695203436340</sequenceId> 
-<topics type="list"> 
+31.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Genetics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Gene Lee Timothy, 71, Henryetta, Oklahoma</title> 
+</TOPICS> 
+<DOCID type="str">695203436340</DOCID> 
+<DCT type="str">2017-01-29T00:00:00Z</DCT> 
+<TITLE type="str">Gene Lee Timothy, 71, Henryetta, Oklahoma</TITLE> 
 </root>

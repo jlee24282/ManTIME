@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The billionaire tycoon Sir Philip Green is closing in on a deal to salvage the pensions of thousands of ex-BHS workers - with the agreement likely to cost him more than £350m. 
+<TEXT type="str">The billionaire tycoon Sir Philip Green is closing in on a deal to salvage the pensions of thousands of ex-BHS workers - with the agreement likely to cost him more than £350m. 
  
 Sky News has learnt that the high street chain&apos;s former owner could be just days away from signing a provisional deal with The Pensions Regulator to plug the BHS scheme&apos;s controversial deficit. 
  
@@ -38,9 +38,8 @@ Sir Philip&apos;s spokesman declined to comment on Saturday, while a spokesman f
  
 &quot;Any settlement offer we accept has to be robust enough to stand the test of time and mean that members and the PPF are not left in a worse position further down the road.&quot; 
   
-© 2017 Sky News, all rights reserved</content> 
-<sequenceId type="str">695194500683</sequenceId> 
-<topics type="list"> 
+© 2017 Sky News, all rights reserved</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Pensions news</name> 
@@ -49,7 +48,8 @@ Sir Philip&apos;s spokesman declined to comment on Saturday, while a spokesman f
 <group type="str">Business</group> 
 <name type="str">Regulatory news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:00Z</estimatedPublishedDate> 
-<title type="str">Sir Philip Green closes in on £350m BHS pensions deal</title> 
+</TOPICS> 
+<DOCID type="str">695194500683</DOCID> 
+<DCT type="str">2017-01-29T07:16:00Z</DCT> 
+<TITLE type="str">Sir Philip Green closes in on £350m BHS pensions deal</TITLE> 
 </root>

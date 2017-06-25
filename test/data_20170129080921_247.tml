@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">YOUNGSTOWN — The following area students earned dean’s list at Youngstown State University for the fall semester.
+<TEXT type="str">YOUNGSTOWN — The following area students earned dean’s list at Youngstown State University for the fall semester.
 
 ALIANCE: Alec Marsili, mechanical engineering major; Judah Maendel, computer science major; Kayla Francis, social work major.
 
@@ -38,9 +38,8 @@ YOUNGSTOWN — More than 680 students were awarded undergraduate, graduate and d
 
 Today&apos;s breaking news and more in your inbox
 
-Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</content> 
-<sequenceId type="str">695200420362</sequenceId> 
-<topics type="list"> 
+Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Engineering news</name> 
@@ -49,7 +48,8 @@ Copyright © Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, O
 <group type="str">US regional</group> 
 <name type="str">Cleveland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:01Z</estimatedPublishedDate> 
-<title type="str">YSU Dean’s List</title> 
+</TOPICS> 
+<DOCID type="str">695200420362</DOCID> 
+<DCT type="str">2017-01-29T08:00:01Z</DCT> 
+<TITLE type="str">YSU Dean’s List</TITLE> 
 </root>

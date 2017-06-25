@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">* Federal judge blocks deportation of dozens from US * Two Iraqis say connections to US forces make them targets * Lawsuit highlights legal obstacles to Trump directive * Directive banned refugees/travelers from 7 Muslim countries</content> 
-<sequenceId type="str">695203691709</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">* Federal judge blocks deportation of dozens from US * Two Iraqis say connections to US forces make them targets * Lawsuit highlights legal obstacles to Trump directive * Directive banned refugees/travelers from 7 Muslim countries</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -15,7 +14,8 @@
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:23:15Z</estimatedPublishedDate> 
-<title type="str">Trump&apos;s immigration order: Two Iraqis lead legal fight against ban</title> 
+</TOPICS> 
+<DOCID type="str">695203691709</DOCID> 
+<DCT type="str">2017-01-29T08:23:15Z</DCT> 
+<TITLE type="str">Trump&apos;s immigration order: Two Iraqis lead legal fight against ban</TITLE> 
 </root>

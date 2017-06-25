@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Alex Dobuzinskis
+<TEXT type="str">By Alex Dobuzinskis
 
 (Reuters) - A Sudanese student with U.S. legal residency said on Saturday she was briefly handcuffed at a New York airport, following President Donald Trump&apos;s order restricting entry into the United States for people from seven Muslim-majority nations. 
 
@@ -28,9 +28,8 @@ Shirana Navabha, 57, a U.S. citizen originally from Iran, said she was scheduled
 
 &quot;I told everybody that I&apos;m coming, everyone was so excited and now I&apos;m not going, it&apos;s just frustrating,&quot; Navabha, who lives in Dallas, said by phone. 
 
-(Reporting by Alex Dobuzinskis in Los Angeles; Editing by Stephen Coates)</content> 
-<sequenceId type="str">695199645954</sequenceId> 
-<topics type="list"> 
+(Reporting by Alex Dobuzinskis in Los Angeles; Editing by Stephen Coates)</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Sudan news</name> 
@@ -63,7 +62,8 @@ Shirana Navabha, 57, a U.S. citizen originally from Iran, said she was scheduled
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:10Z</estimatedPublishedDate> 
-<title type="str">&apos;I got handcuffed and just started crying&apos; - Sudanese student describes U.S. detention</title> 
+</TOPICS> 
+<DOCID type="str">695199645954</DOCID> 
+<DCT type="str">2017-01-29T07:53:10Z</DCT> 
+<TITLE type="str">&apos;I got handcuffed and just started crying&apos; - Sudanese student describes U.S. detention</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">MELBOURNE, Australia - Serena Williams held up a Grand Slam winner&apos;s trophy for the 23rd time, celebrating her unrivalled place in history, and received a congratulatory letter and a pair of custom-made shoes from Michael Jordan, the name most synonymous with No. 23. 
+<TEXT type="str">MELBOURNE, Australia - Serena Williams held up a Grand Slam winner&apos;s trophy for the 23rd time, celebrating her unrivalled place in history, and received a congratulatory letter and a pair of custom-made shoes from Michael Jordan, the name most synonymous with No. 23. 
  
 Venus Williams got to watch from close range again, and shed tears more of joy than regret after being beaten in a major final for the seventh time by her record-breaking younger sister. 
  
@@ -50,9 +50,8 @@ The third-seeded twins were trying to win their 17th Grand Slam title, which wou
  
 Speaking of records, Serena got a little bit superstitious Down Under, and hadn&apos;t wanted to talk about the No. 23 until she got it. 
  
-Now there&apos;s a limited-edition racket — 23 of them to be released — and some custom-made shoes sent by former NBA great Jordan. It had Jordan&apos;s usual jersey number No. 23 stamped on the heel, helping to provide some synchronicity for the numbers involved.</content> 
-<sequenceId type="str">695203758651</sequenceId> 
-<topics type="list"> 
+Now there&apos;s a limited-edition racket — 23 of them to be released — and some custom-made shoes sent by former NBA great Jordan. It had Jordan&apos;s usual jersey number No. 23 stamped on the heel, helping to provide some synchronicity for the numbers involved.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -61,7 +60,8 @@ Now there&apos;s a limited-edition racket — 23 of them to be released — and 
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:24:12Z</estimatedPublishedDate> 
-<title type="str">23: Serena Williams sets major record with win over Venus</title> 
+</TOPICS> 
+<DOCID type="str">695203758651</DOCID> 
+<DCT type="str">2017-01-29T08:24:12Z</DCT> 
+<TITLE type="str">23: Serena Williams sets major record with win over Venus</TITLE> 
 </root>

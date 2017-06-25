@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">President Trump&apos;s trip to Britain is currently being planned but was hit by a diplomatic row after he said he did not want to meet with Prince Charles because of climate change differences.</content> 
-<sequenceId type="str">695194026310</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">President Trump&apos;s trip to Britain is currently being planned but was hit by a diplomatic row after he said he did not want to meet with Prince Charles because of climate change differences.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -23,7 +22,8 @@
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T22:53:49Z</estimatedPublishedDate> 
-<title type="str">Trump to &apos;avoid Charles on UK visit over climate change&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695194026310</DOCID> 
+<DCT type="str">2017-01-28T22:53:49Z</DCT> 
+<TITLE type="str">Trump to &apos;avoid Charles on UK visit over climate change&apos;</TITLE> 
 </root>

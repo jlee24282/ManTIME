@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">You would think that most high school football programs would be thrilled to have a former Steeler as a head coach and the sons of the current head coach and one of his assistants as players, but, if there was a thrill for Cardinal Wuerl North Catholic, it’s gone now. 
+<TEXT type="str">You would think that most high school football programs would be thrilled to have a former Steeler as a head coach and the sons of the current head coach and one of his assistants as players, but, if there was a thrill for Cardinal Wuerl North Catholic, it’s gone now. 
  
 Jason Gildon, a former Steelers outside linebacker who held the franchise sack record until James Harrison broke it this season, was the head coach, and he was fired shortly after the season ended. 
  
@@ -66,9 +66,8 @@ On the stat sheet, Brady was 1-for-1 for 41 yards, Roethlisberger was 0-for-1. W
  
 Dink. Dunk. Super Bowl. 
  
-Brady might still be doing it when he’s 5</content> 
-<sequenceId type="str">695199725345</sequenceId> 
-<topics type="list"> 
+Brady might still be doing it when he’s 5</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - New England Patriots news</name> 
@@ -77,7 +76,8 @@ Brady might still be doing it when he’s 5</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:59:00Z</estimatedPublishedDate> 
-<title type="str">Pros need to show respect in public</title> 
+</TOPICS> 
+<DOCID type="str">695199725345</DOCID> 
+<DCT type="str">2017-01-29T06:59:00Z</DCT> 
+<TITLE type="str">Pros need to show respect in public</TITLE> 
 </root>

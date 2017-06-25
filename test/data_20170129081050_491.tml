@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">They would eventually call it the winter storm of the century. 
+<TEXT type="str">They would eventually call it the winter storm of the century. 
  
 For those who lived through the nightmarish experience that frigid weekend 40 years ago, it&apos;s small consolation that National Weather Service was initially reluctant to rank it as a blizzard because its high winds had not been sufficiently sustained over an extended period to be listed in that category. 
  
@@ -30,9 +30,8 @@ Harry Coppock of Lewiston, then a guidance counselor, decided he would drive ove
  
 At John&apos;s Motor Inn on Main Street, near the entrance to the Rainbow Bridge, one of the storm refuges kept leaving his fourth floor room to ride the hotel elevator to the basement garage. Other guests figured he was trying to start his car, but that didn&apos;t make sense in light of the driving ban throughout Niagara and Erie counties. Later, it was revealed the the frequent elevator rider was Chester Hardt, then chairman of the Niagara Frontier Transportation Authority, who was using a mobile unit in his car to communicate with the Buffalo Niagara International Airport which the NFTA operates. 
  
-Gazette features editor Michele DeLuca contributed to this story.</content> 
-<sequenceId type="str">695203666196</sequenceId> 
-<topics type="list"> 
+Gazette features editor Michele DeLuca contributed to this story.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Buffalo-Niagara Falls news</name> 
@@ -41,7 +40,8 @@ Gazette features editor Michele DeLuca contributed to this story.</content>
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T01:33:00Z</estimatedPublishedDate> 
-<title type="str">Blizzard of &apos;77: Frozen in memory</title> 
+</TOPICS> 
+<DOCID type="str">695203666196</DOCID> 
+<DCT type="str">2017-01-29T01:33:00Z</DCT> 
+<TITLE type="str">Blizzard of &apos;77: Frozen in memory</TITLE> 
 </root>

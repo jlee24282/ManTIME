@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IRBIL, Iraq -- Children have been tortured after being detained by Kurdish security forces here on suspicion of collaborating with the Islamic State, a Human Rights Watch report charged Sunday. 
+<TEXT type="str">IRBIL, Iraq -- Children have been tortured after being detained by Kurdish security forces here on suspicion of collaborating with the Islamic State, a Human Rights Watch report charged Sunday. 
  
 The human rights group said it spoke to 19 of 183 boys aged 11 to 17 being held in a facility in this northern Iraqi city in December. It said 17 of them alleged that the security forces, called Asayish, &quot;held them in stress positions, burned them with cigarettes, punched and kicked them, beat them with plastic pipes and cables, and shocked them with electricity.&quot; 
  
@@ -26,9 +26,8 @@ Most families said the informants were neighbors with whom they had past dispute
  
 One mother said she was able to see her 16-year-old son but only with Asayish supervision so he could not speak to her freely. He told her he was doing fine but the other detainees she saw looked worse. She asked that her name not be used for fear of reprisals against her son. 
  
-She added that she also visited her brother-in-law at an Asayish facility for adults and saw restraint marks on his arms. He was haggard and skinny and looked like he had been tortured, she said.</content> 
-<sequenceId type="str">695198283222</sequenceId> 
-<topics type="list"> 
+She added that she also visited her brother-in-law at an Asayish facility for adults and saw restraint marks on his arms. He was haggard and skinny and looked like he had been tortured, she said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Iraq news</name> 
@@ -37,7 +36,8 @@ She added that she also visited her brother-in-law at an Asayish facility for ad
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:42:31Z</estimatedPublishedDate> 
-<title type="str">Human Right Report Accuses Kurdish Forces of Child Torture in Iraq</title> 
+</TOPICS> 
+<DOCID type="str">695198283222</DOCID> 
+<DCT type="str">2017-01-29T07:42:31Z</DCT> 
+<TITLE type="str">Human Right Report Accuses Kurdish Forces of Child Torture in Iraq</TITLE> 
 </root>

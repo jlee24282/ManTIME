@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Home  International News Share the joy 
+<TEXT type="str">Home  International News Share the joy 
                                  
 Daniel Uria 
 Jan. 28 (UPI) — Two New York men were charged by the United States Securities and Exchange Commission in a Ponzi scheme involving tickets to high demand shows. 
 Top News – UPI.com 
-   Previous article</content> 
-<sequenceId type="str">695200148839</sequenceId> 
-<topics type="list"> 
+   Previous article</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -16,7 +15,8 @@ Top News – UPI.com
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:55:11Z</estimatedPublishedDate> 
-<title type="str">Two New York men charged by SEC in ‘Hamilton’ Ponzi scheme</title> 
+</TOPICS> 
+<DOCID type="str">695200148839</DOCID> 
+<DCT type="str">2017-01-29T07:55:11Z</DCT> 
+<TITLE type="str">Two New York men charged by SEC in ‘Hamilton’ Ponzi scheme</TITLE> 
 </root>

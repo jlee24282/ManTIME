@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Trending  
+<TEXT type="str">Trending  
   
 1 
  
@@ -20,9 +20,8 @@
  
 5 
  
-   Contrary to rumors, Bob Evans restaurants aren&apos;t going anywhere</content> 
-<sequenceId type="str">695204428612</sequenceId> 
-<topics type="list"> 
+   Contrary to rumors, Bob Evans restaurants aren&apos;t going anywhere</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -39,7 +38,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:29:21Z</estimatedPublishedDate> 
-<title type="str">new1.28.17 Video- Wheeling Jesuit vs. Charleston- mens college basketball</title> 
+</TOPICS> 
+<DOCID type="str">695204428612</DOCID> 
+<DCT type="str">2017-01-29T08:29:21Z</DCT> 
+<TITLE type="str">new1.28.17 Video- Wheeling Jesuit vs. Charleston- mens college basketball</TITLE> 
 </root>

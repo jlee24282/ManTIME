@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">When he played in the NFL, Kerry Rhodes wore all-red for the Arizona Cardinals. 
+<TEXT type="str">When he played in the NFL, Kerry Rhodes wore all-red for the Arizona Cardinals. 
  
 But on Saturday, former Neighbours star Nicky Whelan - his fiancé - was the one wearing crimson. 
  
@@ -44,9 +44,8 @@ In September, Kerry was injured by a traumatic car-crash, later taking to Instag
  
 The pair are still yet to set a date for their wedding.  
    
-&apos;He&apos;s the one&apos;: The former Neighbours star and the ex-Arizona Cardinals player are currently based in Los Angeles</content> 
-<sequenceId type="str">695202186125</sequenceId> 
-<topics type="list"> 
+&apos;He&apos;s the one&apos;: The former Neighbours star and the ex-Arizona Cardinals player are currently based in Los Angeles</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: NFL - Arizona Cardinals news</name> 
@@ -55,7 +54,8 @@ The pair are still yet to set a date for their wedding. 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:06Z</estimatedPublishedDate> 
-<title type="str">Nicky Whelan and Kerry Rhodes attend G&apos;Day USA gala</title> 
+</TOPICS> 
+<DOCID type="str">695202186125</DOCID> 
+<DCT type="str">2017-01-29T08:12:06Z</DCT> 
+<TITLE type="str">Nicky Whelan and Kerry Rhodes attend G&apos;Day USA gala</TITLE> 
 </root>

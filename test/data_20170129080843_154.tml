@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Prime Minister Malcolm Turnbull will fly to the US for a yet to be scheduled meeting with US President Donald Trump 
+<TEXT type="str">Prime Minister Malcolm Turnbull will fly to the US for a yet to be scheduled meeting with US President Donald Trump 
  Source:  
 AAP 
   
@@ -60,9 +60,8 @@ RELATED:
   
 Qantas reponds to Trump immigration freeze 
  
-Australia&apos;s largest airline, Qantas, says it will offer refunds or alternate destinations to any passengers that are blocked from entering the United States.</content> 
-<sequenceId type="str">695198666416</sequenceId> 
-<topics type="list"> 
+Australia&apos;s largest airline, Qantas, says it will offer refunds or alternate destinations to any passengers that are blocked from entering the United States.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -75,7 +74,8 @@ Australia&apos;s largest airline, Qantas, says it will offer refunds or alternat
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:34Z</estimatedPublishedDate> 
-<title type="str">Bishop says PM pleased with Trump chat</title> 
+</TOPICS> 
+<DOCID type="str">695198666416</DOCID> 
+<DCT type="str">2017-01-29T07:45:34Z</DCT> 
+<TITLE type="str">Bishop says PM pleased with Trump chat</TITLE> 
 </root>

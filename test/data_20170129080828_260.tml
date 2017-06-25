@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dhaka [Bangladesh], Jan. 29 : New trouble on the anti-terror front has emerged in Bangladesh as radicalised Bangladeshis with dual citizenship have become a major concern for counter-terrorism surveillance by the law enforcers. 
+<TEXT type="str">Dhaka [Bangladesh], Jan. 29 : New trouble on the anti-terror front has emerged in Bangladesh as radicalised Bangladeshis with dual citizenship have become a major concern for counter-terrorism surveillance by the law enforcers. 
 According to the Daily Star, the law enforcers have little information on Bangladesh-origin foreign nationals, who secretly went to Iraq or Syria from abroad and joined the Islamic State (IS). 
 
 Members of the ISIS are being driven out of their territories and are forced to look for shelters in other countries as the terror group is gradually losing out battles in Iraq and Syria. 
@@ -17,9 +17,8 @@ Another official said that such IS operatives after entering the country will ce
 
 Additional commissioner of DMP, Monirul Islam, said that Bangladeshis who don&apos;t have dual citizenship and left the country to join IS will not be able to enter the country undetected as officials will have information about them. 
 
-Source</content> 
-<sequenceId type="str">695198174573</sequenceId> 
-<topics type="list"> 
+Source</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -44,7 +43,8 @@ Source</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:41:50Z</estimatedPublishedDate> 
-<title type="str">Radicalised Bangladeshis become major concern for counter-terrorism surveillance</title> 
+</TOPICS> 
+<DOCID type="str">695198174573</DOCID> 
+<DCT type="str">2017-01-29T07:41:50Z</DCT> 
+<TITLE type="str">Radicalised Bangladeshis become major concern for counter-terrorism surveillance</TITLE> 
 </root>

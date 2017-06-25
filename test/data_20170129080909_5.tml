@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The New York Times reported that airport officials began detaining travelers following the president’s executive order closing America’s borders to refugees ©  NORTH AMERICA/AFP/File / CHRIS HONDROS  
+<TEXT type="str">The New York Times reported that airport officials began detaining travelers following the president’s executive order closing America’s borders to refugees ©  NORTH AMERICA/AFP/File / CHRIS HONDROS  
 By AGENCE FRANCE PRESSE , Washington, United States, Jan 28 – US authorities wasted no time implementing Donald Trump’s order halting Muslim arrivals, detaining travelers arriving at American airports within hours of the US president signing the tough new measures, media reports said Saturday. 
  
 The New York Times reported that airport officials as early as Friday night began detaining travelers, some of whom already had been aboard their flights when Trump announced his executive order closing America’s borders to refugees. 
@@ -15,9 +15,8 @@ The move makes good on one of Trump’s most controversial campaign promises, wh
  
 The Times said the detentions have been met with early legal challenges, as lawyers representing two Iraqi refugees being held at New York’s John F. Kennedy Airport filed a court appeal for their release, alleging that the two travelers were being unlawfully detained. 
   
-Source link</content> 
-<sequenceId type="str">695199681873</sequenceId> 
-<topics type="list"> 
+Source link</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
@@ -30,7 +29,8 @@ Source link</content>
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:37:50Z</estimatedPublishedDate> 
-<title type="str">Arrivals from Muslim countries being detained at US aiports: reports » Capital News</title> 
+</TOPICS> 
+<DOCID type="str">695199681873</DOCID> 
+<DCT type="str">2017-01-29T07:37:50Z</DCT> 
+<TITLE type="str">Arrivals from Muslim countries being detained at US aiports: reports » Capital News</TITLE> 
 </root>

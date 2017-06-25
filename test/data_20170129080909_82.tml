@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">CLEVELAND, Ohio -- Australian Open 2017 lived a charmed life. 
+<TEXT type="str">CLEVELAND, Ohio -- Australian Open 2017 lived a charmed life. 
  
 One day after a women&apos;s singles final of the Williams sisters, Serena and Venus, the men&apos;s singles final was Rafael Nadal vs. Roger Federer. 
  
@@ -14,9 +14,8 @@ Federer ranks No. 1 among men in the Open Era with 17 major titles. Nadal is tie
  
 Nadal, 30, seeded ninth in this year&apos;s Australian Open, is seeking to become the first men&apos;s player in the Open Era to win each Grand Slam tournament at least twice.   
  
-Federer, 35, is seeded 17th.</content> 
-<sequenceId type="str">695199728035</sequenceId> 
-<topics type="list"> 
+Federer, 35, is seeded 17th.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -25,7 +24,8 @@ Federer, 35, is seeded 17th.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:54:03Z</estimatedPublishedDate> 
-<title type="str">Australian Open 2017: Federer vs. Nadal live scoring</title> 
+</TOPICS> 
+<DOCID type="str">695199728035</DOCID> 
+<DCT type="str">2017-01-29T07:54:03Z</DCT> 
+<TITLE type="str">Australian Open 2017: Federer vs. Nadal live scoring</TITLE> 
 </root>

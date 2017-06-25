@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:29 
+<TEXT type="str">:29 
    Tweet     
 A draw seems the most likely outcome when play resumes on the fourth and final day of the Sunfoil Series match between the Multiply Titans and the BuildNat Cape Cobras in Centurion on Sunday. 
  
@@ -17,9 +17,8 @@ Report Day 3
  
 MULTIPLY TITANS: AK Markram, HG Kuhn, D Elgar, TG Mokoena, H Davids (capt), JD Vandiar, H Klaasen (wk), D Wiese, MP Siboto, CJ Dala, RR Richards 
  
-BUILDNAT CAPE COBRAS: OA Ramela, AG Puttick, S van Zyl, JL Ontong, JF Smith, DJ Vilas (wk), A Mgijima, RK Kleinveldt, DL Piedt (capt), TL Moreki, LB Williams</content> 
-<sequenceId type="str">695201582199</sequenceId> 
-<topics type="list"> 
+BUILDNAT CAPE COBRAS: OA Ramela, AG Puttick, S van Zyl, JL Ontong, JF Smith, DJ Vilas (wk), A Mgijima, RK Kleinveldt, DL Piedt (capt), TL Moreki, LB Williams</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -28,7 +27,8 @@ BUILDNAT CAPE COBRAS: OA Ramela, AG Puttick, S van Zyl, JL Ontong, JF Smith, DJ 
 <group type="str">Sports</group> 
 <name type="str">Sports: cricket news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:07:22Z</estimatedPublishedDate> 
-<title type="str">Titans, Cobras heading for a draw</title> 
+</TOPICS> 
+<DOCID type="str">695201582199</DOCID> 
+<DCT type="str">2017-01-29T08:07:22Z</DCT> 
+<TITLE type="str">Titans, Cobras heading for a draw</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">IDW20100 
+<TEXT type="str">IDW20100 
  
 Australian Government Bureau of Meteorology 
 Western Australia 
@@ -16,9 +16,8 @@ Bunbury Geographe Coast and Leeuwin Coast
  
 The next marine wind warning summary will be issued by 4:00 am WST Monday. 
  
-Check the latest Coastal Waters Forecast or Local Waters Forecast for information on wind, wave and weather conditions for these coastal zones.</content> 
-<sequenceId type="str">695201340372</sequenceId> 
-<topics type="list"> 
+Check the latest Coastal Waters Forecast or Local Waters Forecast for information on wind, wave and weather conditions for these coastal zones.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -31,7 +30,8 @@ Check the latest Coastal Waters Forecast or Local Waters Forecast for informatio
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:23Z</estimatedPublishedDate> 
-<title type="str">29/16:00 WST Marine Wind Warning Summary for Western Australia</title> 
+</TOPICS> 
+<DOCID type="str">695201340372</DOCID> 
+<DCT type="str">2017-01-29T08:00:23Z</DCT> 
+<TITLE type="str">29/16:00 WST Marine Wind Warning Summary for Western Australia</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jennifer Hudson 
+<TEXT type="str">Jennifer Hudson 
  
 Jennifer Hudson wants to move to the UK. 
  
@@ -24,9 +24,8 @@ She said: &quot;This process [on The Voice] is so much quicker - it leaps from p
  
 &quot;I feel like that could be necessary to have a taste of hat contestants are really trying to get into and that&apos;s when you learn if you have a tough enough skin for it. 
  
-&quot;I thought, &apos;It&apos;s either gonna make me or break me.&apos; &quot;</content> 
-<sequenceId type="str">695196051622</sequenceId> 
-<topics type="list"> 
+&quot;I thought, &apos;It&apos;s either gonna make me or break me.&apos; &quot;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: celebrity gossip</name> 
@@ -35,7 +34,8 @@ She said: &quot;This process [on The Voice] is so much quicker - it leaps from p
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:26:46Z</estimatedPublishedDate> 
-<title type="str">29 January 2017 Jennifer Hudson wants UK move</title> 
+</TOPICS> 
+<DOCID type="str">695196051622</DOCID> 
+<DCT type="str">2017-01-29T07:26:46Z</DCT> 
+<TITLE type="str">29 January 2017 Jennifer Hudson wants UK move</TITLE> 
 </root>

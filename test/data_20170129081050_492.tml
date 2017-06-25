@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Share Tweet  
+<TEXT type="str">Share Tweet  
 INDIO, CALIF. – Action heroes are special. There are precious few of them in any generation. We like to pretend that every fight was an event, but mostly they are like any other fighter except for a few great nights. 
  
 Mickey Ward was in his share of dreck fights. So was Arturo Gstti. 
@@ -22,9 +22,8 @@ Francisco Vargas (23-1-2, 1 KO) wasn’t betrayed by lack of skill, or determina
 You could argue that had Vargas not been betrayed by the scar tissue around his eyes, he’d have won, but that misses the point. Berchelt forced the stoppage. He did the damage when it counted. That’s all that matters, and that for 11 rounds; they gave us one hell of a fight. 
  
 In the co-feature, Takashi Miura (31-3-2, 24 KO) stopped Miguel Roman (56-12, 43 KO) in a slugfest. Roman will never be a world-class fighter, and Miura is just barely that, but the carnage they served up is worthy of admiration. 
- Share Tweet</content> 
-<sequenceId type="str">695203666717</sequenceId> 
-<topics type="list"> 
+ Share Tweet</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -33,7 +32,8 @@ In the co-feature, Takashi Miura (31-3-2, 24 KO) stopped Miguel Roman (56-12, 43
 <group type="str">Sports</group> 
 <name type="str">Sports: boxing news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:06:49Z</estimatedPublishedDate> 
-<title type="str">We All Get Old: Berchelt Beats Vargas</title> 
+</TOPICS> 
+<DOCID type="str">695203666717</DOCID> 
+<DCT type="str">2017-01-29T07:06:49Z</DCT> 
+<TITLE type="str">We All Get Old: Berchelt Beats Vargas</TITLE> 
 </root>

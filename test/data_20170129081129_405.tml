@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Reuters/Valentyn Ogirenko 
+<TEXT type="str">Reuters/Valentyn Ogirenko 
  
 Ukrainian and EU flags fly in front of the Presidential Administration in Kiev, Ukraine, April 7, 2016. 
   
@@ -38,9 +38,8 @@ Roughly  13,500 companies use financial passporting  in relation to the UK with
  
 “The agreement with the Ukraine is unlikely to satisfy the United Kingdom as regards the scope of trade liberalisation because it contains numerous restrictions on market access particularly for cross-border services. The United Kingdom will probably require better access to the EU internal market, primarily in the interests of the British finance industry,” the report notes. 
  
-That’s where the “Plus” comes in, with the UK creating a bespoke deal that includes many of the features of the Ukrainian agreement, but also includes concessions to the banking and finance sectors.</content> 
-<sequenceId type="str">695205002285</sequenceId> 
-<topics type="list"> 
+That’s where the “Plus” comes in, with the UK creating a bespoke deal that includes many of the features of the Ukrainian agreement, but also includes concessions to the banking and finance sectors.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -69,7 +68,8 @@ That’s where the “Plus” comes in, with the UK creating a bespoke deal that
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:33:38Z</estimatedPublishedDate> 
-<title type="str">Britain could strike a ‘Ukraine Plus’ style Brexit deal</title> 
+</TOPICS> 
+<DOCID type="str">695205002285</DOCID> 
+<DCT type="str">2017-01-29T08:33:38Z</DCT> 
+<TITLE type="str">Britain could strike a ‘Ukraine Plus’ style Brexit deal</TITLE> 
 </root>

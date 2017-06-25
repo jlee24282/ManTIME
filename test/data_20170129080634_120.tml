@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Some 300 protesters gathered at Los Angeles International Airport (LAX) Saturday evening to demonstrate solidarity with Muslim immigrants and refugees detained under President Donald Trump&apos;s &quot;Muslim ban.&quot;
+<TEXT type="str">Some 300 protesters gathered at Los Angeles International Airport (LAX) Saturday evening to demonstrate solidarity with Muslim immigrants and refugees detained under President Donald Trump&apos;s &quot;Muslim ban.&quot;
 
 Chanting &quot;Trump has to go,&quot; &quot;No Trump, No KKK, No Fascism in USA&quot; and other slogans, the crowd called on people to defy Friday&apos;s executive order that slaps a 90-day ban on travel to the country by citizens of seven Muslim-majority countries and a 120-day suspension of the U.S. refugee program.
 
@@ -14,9 +14,8 @@ Trump&apos;s travel ban, widely described as a &quot;Muslim ban,&quot; has trigg
 
 Similar protests have erupted at airports in many other cities. In Chicago, more than 1,000 rallied at the O&apos;Hare airport. In Denver, Colorado, dozens of protesters gathered outside the international airport to show support for refugees.
 
-This was the second weekend of demonstrations in Los Angeles after Trump was sworn into the Oval Office. More than 1 million people came out last weekend for the Women&apos;s March.</content> 
-<sequenceId type="str">695193913401</sequenceId> 
-<topics type="list"> 
+This was the second weekend of demonstrations in Los Angeles after Trump was sworn into the Oval Office. More than 1 million people came out last weekend for the Women&apos;s March.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -33,7 +32,8 @@ This was the second weekend of demonstrations in Los Angeles after Trump was swo
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:52Z</estimatedPublishedDate> 
-<title type="str">Hundreds protest at L.A. in&apos;l airport against Trump&apos;s &quot;Muslim ban&quot;</title> 
+</TOPICS> 
+<DOCID type="str">695193913401</DOCID> 
+<DCT type="str">2017-01-29T07:11:52Z</DCT> 
+<TITLE type="str">Hundreds protest at L.A. in&apos;l airport against Trump&apos;s &quot;Muslim ban&quot;</TITLE> 
 </root>

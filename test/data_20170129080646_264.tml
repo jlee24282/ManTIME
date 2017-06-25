@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Maria Panaritis is a metro regional reporter. She has been an award-winning business writer and columnist, investigative reporter, and immigration beat writer, and has traveled nationally and internationally since joining the Inquirer as a city-news journalist in 1998. 
+<TEXT type="str">Maria Panaritis is a metro regional reporter. She has been an award-winning business writer and columnist, investigative reporter, and immigration beat writer, and has traveled nationally and internationally since joining the Inquirer as a city-news journalist in 1998. 
  
 Start the conversation, or Read more at Philly.com. 
     
@@ -12,9 +12,8 @@ Comments
       
 
    
-Copyright © 2017 Topix LLC</content> 
-<sequenceId type="str">695194418997</sequenceId> 
-<topics type="list"> 
+Copyright © 2017 Topix LLC</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -31,7 +30,8 @@ Copyright © 2017 Topix LLC</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T19:49:48Z</estimatedPublishedDate> 
-<title type="str">Pennsylvania GOP eyes southeast in quest for domination</title> 
+</TOPICS> 
+<DOCID type="str">695194418997</DOCID> 
+<DCT type="str">2017-01-28T19:49:48Z</DCT> 
+<TITLE type="str">Pennsylvania GOP eyes southeast in quest for domination</TITLE> 
 </root>

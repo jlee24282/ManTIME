@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">By Keith Lockhart, conductor of the Boston Pops for the past 22 years, laughs a little when he says that The Pops playing the Beatles is hardly a programming stretch for Florida, where the audiences of Baby Boomers fit exactly into the Beatles demographic.  
+<TEXT type="str">By Keith Lockhart, conductor of the Boston Pops for the past 22 years, laughs a little when he says that The Pops playing the Beatles is hardly a programming stretch for Florida, where the audiences of Baby Boomers fit exactly into the Beatles demographic.  
  
 “This is a very typical Boston Pops program, with a very wide musical expression and look at music that broadens the definition of what it means to be classical music,” said Lockhart in a telephone interview. “My definition of classical music is music that speaks to generations to which it wasn’t intended. This will have an equal appeal to people born 40 years after the Beatles broke up.”  
  
@@ -30,9 +30,8 @@ Lockhart’s favorites in the Pops’ rock selections are “Here Comes the Sun,
  
 And while the Beatles, Led Zeppelin and The Who might not meet the definition of brand-new rock, Lockhart said he’s always on the lookout for new music to incorporate into the Pops’ programming.  
  
-“In every generation there is contemporary popular music that has thought behind it, creative process behind it. We do try hard to find them,” he said. “We have collaborated with indie artists of all sorts. That’s not the sort of program we’d tend to take to Florida, if you know what I mean.”</content> 
-<sequenceId type="str">695195211204</sequenceId> 
-<topics type="list"> 
+“In every generation there is contemporary popular music that has thought behind it, creative process behind it. We do try hard to find them,” he said. “We have collaborated with indie artists of all sorts. That’s not the sort of program we’d tend to take to Florida, if you know what I mean.”</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Boston news</name> 
@@ -49,7 +48,8 @@ And while the Beatles, Led Zeppelin and The Who might not meet the definition of
 <group type="str">Regional</group> 
 <name type="str">Europe news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Boston Pops salute the Beatles and an enduring British invasion</title> 
+</TOPICS> 
+<DOCID type="str">695195211204</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Boston Pops salute the Beatles and an enduring British invasion</TITLE> 
 </root>

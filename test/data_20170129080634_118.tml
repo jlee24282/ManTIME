@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">More than 1,000 people gathered at the international terminal of Chicago&apos;s O&apos;Hare airport Saturday night to protest against what is known as President Donald Trump&apos;s &quot;Muslim ban.&quot;
+<TEXT type="str">More than 1,000 people gathered at the international terminal of Chicago&apos;s O&apos;Hare airport Saturday night to protest against what is known as President Donald Trump&apos;s &quot;Muslim ban.&quot;
 
 Protesters started gathering at O&apos;Hare&apos;s Terminal 5 in the late afternoon, and their number kept growing until more than 1,000 of them blocked the driveway outside the terminal.
 
@@ -12,9 +12,8 @@ According to local WGN-TV, earlier this afternoon several local groups called fo
 
 The measure has triggered confusion and chaos across the country and drawn concern and criticism from across the world. Similar protests have erupted at airports in many other cities.
 
-Since the executive order took effect, as many as 18 people were believed to have been detained at O&apos;Hare alone, some of them being green card holders with Muslim backgrounds, local daily Chicago Tribune reported.</content> 
-<sequenceId type="str">695193912834</sequenceId> 
-<topics type="list"> 
+Since the executive order took effect, as many as 18 people were believed to have been detained at O&apos;Hare alone, some of them being green card holders with Muslim backgrounds, local daily Chicago Tribune reported.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -35,7 +34,8 @@ Since the executive order took effect, as many as 18 people were believed to hav
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:52Z</estimatedPublishedDate> 
-<title type="str">Thousands gather at Chicago in&apos;l airport to protest against Trump&apos;s &quot;Muslim ban&quot;</title> 
+</TOPICS> 
+<DOCID type="str">695193912834</DOCID> 
+<DCT type="str">2017-01-29T07:11:52Z</DCT> 
+<TITLE type="str">Thousands gather at Chicago in&apos;l airport to protest against Trump&apos;s &quot;Muslim ban&quot;</TITLE> 
 </root>

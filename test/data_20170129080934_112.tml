@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BOULDER, Colo. — Derrick White scored 17 of his 23 points in the second half, keying Colorado’s 74-65 upset of No. 10 Oregon that snapped the Ducks’ 17-game winning streak on Saturday night. 
+<TEXT type="str">BOULDER, Colo. — Derrick White scored 17 of his 23 points in the second half, keying Colorado’s 74-65 upset of No. 10 Oregon that snapped the Ducks’ 17-game winning streak on Saturday night. 
  
 Xavier Johnson added 13 points as the Buffaloes (12-10, 2-7 Pac-12) kept the Ducks winless in seven trips all-time in Boulder. 
  
@@ -22,9 +22,8 @@ UP NEXT
  
 The Ducks return home to Matthew Knight Arena, where they’ve won a school-record 38 consecutive games — second-longest in the nation to Kansas’ 50-game streak — and will host Arizona State on Thursday night. 
  
-The Buffaloes visit Stanford on Thursday night seeking to snap a five-game road losing streak since their last win away from home, on Dec. 19 at Air Force.</content> 
-<sequenceId type="str">695200764205</sequenceId> 
-<topics type="list"> 
+The Buffaloes visit Stanford on Thursday night seeking to snap a five-game road losing streak since their last win away from home, on Dec. 19 at Air Force.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -33,7 +32,8 @@ The Buffaloes visit Stanford on Thursday night seeking to snap a five-game road 
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:02:09Z</estimatedPublishedDate> 
-<title type="str">Colorado ends No. 10 Oregon&apos;s streak at 17</title> 
+</TOPICS> 
+<DOCID type="str">695200764205</DOCID> 
+<DCT type="str">2017-01-29T08:02:09Z</DCT> 
+<TITLE type="str">Colorado ends No. 10 Oregon&apos;s streak at 17</TITLE> 
 </root>

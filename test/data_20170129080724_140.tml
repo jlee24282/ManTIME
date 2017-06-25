@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Labor warns that the NSW police commissioner must report to two ministers under the change 
+<TEXT type="str">Labor warns that the NSW police commissioner must report to two ministers under the change 
 
 The appointment of a new minister for counter-terrorism in NSW has been slammed by the Labor opposition as irresponsible and against the public interest.
 
@@ -34,9 +34,8 @@ The NSW Bar Association said it provided Mr Grant &quot;with unprecedented power
 
 The NSW Law Society warned the arrangement meant police were &quot;ostensibly responsible for criminal law policy, while at the same time, the traditional roles of the attorney-general as first law officer of the state, which includes preserving civil liberties, are being eroded&quot;.
 
-Ms Berejiklian has confirmed the cluster has been reworked so that new attorney-general Mark Speakman, SC, is the lead minister. The story first appeared on The Sydney Morning Herald.</content> 
-<sequenceId type="str">695195733822</sequenceId> 
-<topics type="list"> 
+Ms Berejiklian has confirmed the cluster has been reworked so that new attorney-general Mark Speakman, SC, is the lead minister. The story first appeared on The Sydney Morning Herald.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Terrorism news</name> 
@@ -49,7 +48,8 @@ Ms Berejiklian has confirmed the cluster has been reworked so that new attorney-
 <group type="str">Regional</group> 
 <name type="str">Australia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:29:42Z</estimatedPublishedDate> 
-<title type="str">New counter terrorism role slammed as &apos;against the public interest&apos;</title> 
+</TOPICS> 
+<DOCID type="str">695195733822</DOCID> 
+<DCT type="str">2017-01-29T06:29:42Z</DCT> 
+<TITLE type="str">New counter terrorism role slammed as &apos;against the public interest&apos;</TITLE> 
 </root>

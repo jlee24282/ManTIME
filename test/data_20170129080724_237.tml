@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Every party is required to submit its audit report before the Election Commission to claim Income Tax exemption.</content> 
-<sequenceId type="str">695195835063</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Every party is required to submit its audit report before the Election Commission to claim Income Tax exemption.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:13Z</estimatedPublishedDate> 
-<title type="str">I-T audit: CPI(M) declared Rs 3 cr cash-in-hand; Cong, BJP</title> 
+</TOPICS> 
+<DOCID type="str">695195835063</DOCID> 
+<DCT type="str">2017-01-29T07:18:13Z</DCT> 
+<TITLE type="str">I-T audit: CPI(M) declared Rs 3 cr cash-in-hand; Cong, BJP</TITLE> 
 </root>

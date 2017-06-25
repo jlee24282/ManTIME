@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Take a look at all the best from Saturday&apos;s NBA action on this edition of the Top 1</content> 
-<sequenceId type="str">695202259636</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Take a look at all the best from Saturday&apos;s NBA action on this edition of the Top 1</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -15,7 +14,8 @@
 <group type="str">Sports</group> 
 <name type="str">Sports: basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:37Z</estimatedPublishedDate> 
-<title type="str">NBA top plays: Curry goes wild and more</title> 
+</TOPICS> 
+<DOCID type="str">695202259636</DOCID> 
+<DCT type="str">2017-01-29T08:12:37Z</DCT> 
+<TITLE type="str">NBA top plays: Curry goes wild and more</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">NEW YORK (CNNMoney) - The ink was barely dry on President Donald Trump&apos;s sweeping immigration order Friday when the backlash from the tech industry began. 
+<TEXT type="str">NEW YORK (CNNMoney) - The ink was barely dry on President Donald Trump&apos;s sweeping immigration order Friday when the backlash from the tech industry began. 
  
 Four of America&apos;s biggest tech companies warned their employees about the ban. And leaders throughout the industry, where foreign-born entrepreneurs are central to its success, condemned the decree. 
  
@@ -70,9 +70,8 @@ Box CEO Aaron Levie also promised to donate, and in an email sent to CNNMoney Sa
  
 &quot;It&apos;s also deeply flawed as a matter of policy and will undermine our economy and security in the long-term if maintained,&quot; Levie wrote. &quot;America&apos;s principles should be about openness and inclusion, and we&apos;re sending the wrong message to our communities and the rest of the world about maintaining these principles.&quot; 
  
-Selena Larson contributed reporting.</content> 
-<sequenceId type="str">695195222664</sequenceId> 
-<topics type="list"> 
+Selena Larson contributed reporting.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -105,7 +104,8 @@ Selena Larson contributed reporting.</content>
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:59Z</estimatedPublishedDate> 
-<title type="str">Tech leaders line up against Trump&apos;s immigrant ban</title> 
+</TOPICS> 
+<DOCID type="str">695195222664</DOCID> 
+<DCT type="str">2017-01-29T07:20:59Z</DCT> 
+<TITLE type="str">Tech leaders line up against Trump&apos;s immigrant ban</TITLE> 
 </root>

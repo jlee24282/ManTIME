@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">French President François Hollande | Dan Kitwood/ 
+<TEXT type="str">French President François Hollande | Dan Kitwood/ 
 
 British prime minister says “we do not agree with this kind of approach.” 
 
@@ -48,9 +48,8 @@ And when exactly are you going to talk to the Donald? You’ll be out of office 
 
 Posted on 1/28/17 | 5:15 PM CET 
 
-Guess a “firm discussion” with a soon to be ex president with a popularity rating somewhere around the usual +/- margin of error in opinion polls is really going to shake things</content> 
-<sequenceId type="str">695201239793</sequenceId> 
-<topics type="list"> 
+Guess a “firm discussion” with a soon to be ex president with a popularity rating somewhere around the usual +/- margin of error in opinion polls is really going to shake things</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -67,7 +66,8 @@ Guess a “firm discussion” with a soon to be ex president with a popularity r
 <group type="str">Regional</group> 
 <name type="str">Turkey news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:05:06Z</estimatedPublishedDate> 
-<title type="str">Theresa May, the French slam Trump refugee move</title> 
+</TOPICS> 
+<DOCID type="str">695201239793</DOCID> 
+<DCT type="str">2017-01-29T08:05:06Z</DCT> 
+<TITLE type="str">Theresa May, the French slam Trump refugee move</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The ban impacted several individuals, who had valid US visas and green cards and who had travelled abroad for work or on personal visits. Hundreds of thousands of people gathered at airports across the US to protest the ban announced by President Donald Trump on immigrants from seven Muslim-majority countries, extending solidarity to those affected as chaos and fear gripped individuals trying to enter the country.
+<TEXT type="str">The ban impacted several individuals, who had valid US visas and green cards and who had travelled abroad for work or on personal visits. Hundreds of thousands of people gathered at airports across the US to protest the ban announced by President Donald Trump on immigrants from seven Muslim-majority countries, extending solidarity to those affected as chaos and fear gripped individuals trying to enter the country.
 
 As news of immigrants, even those holding green cards, being held and banned from flying into the US and entering the country spread, people started gathering at nation’s airports, holding banners opposing Trump’s action.
 
@@ -18,9 +18,8 @@ American Civil Liberties Union (ACLU) National said on Twitter that “lawyers a
 
 Partial relief to those detained at airports or in transit came as US judge Ann Donnelly in an order temporarily halted removal of individuals detained in the country.
 
-The ruling by the federal judge in New York came after the ACLU filed a petition on behalf of two Iraqi men, detained at the JFK International Airport.</content> 
-<sequenceId type="str">695194986928</sequenceId> 
-<topics type="list"> 
+The ruling by the federal judge in New York came after the ACLU filed a petition on behalf of two Iraqi men, detained at the JFK International Airport.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -49,7 +48,8 @@ The ruling by the federal judge in New York came after the ACLU filed a petition
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:12:11Z</estimatedPublishedDate> 
-<title type="str">Donald Trump’s immigration ban sparks protest at airports across US</title> 
+</TOPICS> 
+<DOCID type="str">695194986928</DOCID> 
+<DCT type="str">2017-01-29T07:12:11Z</DCT> 
+<TITLE type="str">Donald Trump’s immigration ban sparks protest at airports across US</TITLE> 
 </root>

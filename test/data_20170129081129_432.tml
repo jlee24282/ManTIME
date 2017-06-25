@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">BALTIMORE (WJZ) — Baltimore County Police are investigating two fatal crashes that happened three hours apart in the same area in Randallstown Friday night. 
+<TEXT type="str">BALTIMORE (WJZ) — Baltimore County Police are investigating two fatal crashes that happened three hours apart in the same area in Randallstown Friday night. 
  
 Two lives were lost on the same stretch of road Friday night, just hours apart. Baltimore County Police are now trying to piece together the timelines of two fatal accidents. 
  
@@ -30,9 +30,8 @@ Now, investigations continue to look into a pair of tragic encounters, that clai
  
 The speed limit the area along Liberty Road where the incidents occurred is 40 MPH. That, and the fact that there are no bike lanes may play a part in the investigations. 
  
-Follow @CBSBaltimore on</content> 
-<sequenceId type="str">695205033772</sequenceId> 
-<topics type="list"> 
+Follow @CBSBaltimore on</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -41,7 +40,8 @@ Follow @CBSBaltimore on</content>
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:00:08Z</estimatedPublishedDate> 
-<title type="str">Teen Boy, Man Die In 2 Accidents, Hours Apart On Liberty Rd.</title> 
+</TOPICS> 
+<DOCID type="str">695205033772</DOCID> 
+<DCT type="str">2017-01-29T02:00:08Z</DCT> 
+<TITLE type="str">Teen Boy, Man Die In 2 Accidents, Hours Apart On Liberty Rd.</TITLE> 
 </root>

@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">  
+<TEXT type="str">  
 
   
 
 166 Bedford Highway, 
 
-Halifax, Nova Scotia, B3M 2J6</content> 
-<sequenceId type="str">695200258694</sequenceId> 
-<topics type="list"> 
+Halifax, Nova Scotia, B3M 2J6</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -17,7 +16,8 @@ Halifax, Nova Scotia, B3M 2J6</content>
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:58:31Z</estimatedPublishedDate> 
-<title type="str">Provincial Holiday - University closed</title> 
+</TOPICS> 
+<DOCID type="str">695200258694</DOCID> 
+<DCT type="str">2017-01-29T07:58:31Z</DCT> 
+<TITLE type="str">Provincial Holiday - University closed</TITLE> 
 </root>

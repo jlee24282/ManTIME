@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Welcome to our live coverage of Day 2 of the Wellington Sevens at the Cake Tin. 
+<TEXT type="str">Welcome to our live coverage of Day 2 of the Wellington Sevens at the Cake Tin. 
    
 We will keep you up to date with all the action from Wellington Regional Stadium. 
    The new kid on the All Blacks Sevens&apos; block is already proving he&apos;s one to watch. 
@@ -203,9 +203,8 @@ NZ team for Wellington: Scott Curry (captain), Dylan Collier, DJ Forbes, Iopu Io
  
 1.18pm - New Zealand 5 v Fiji 26 - Cup QF 
  
-1.18pm - New Zealand 5 v Fiji 26 - Cup QF</content> 
-<sequenceId type="str">695196365629</sequenceId> 
-<topics type="list"> 
+1.18pm - New Zealand 5 v Fiji 26 - Cup QF</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Asia-Pacific stories</name> 
@@ -246,7 +245,8 @@ NZ team for Wellington: Scott Curry (captain), Dylan Collier, DJ Forbes, Iopu Io
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:28:57Z</estimatedPublishedDate> 
-<title type="str">Live updates: Blitzboks, Flying Fijians take field eyeing Wellington glory in Cup Final</title> 
+</TOPICS> 
+<DOCID type="str">695196365629</DOCID> 
+<DCT type="str">2017-01-29T07:28:57Z</DCT> 
+<TITLE type="str">Live updates: Blitzboks, Flying Fijians take field eyeing Wellington glory in Cup Final</TITLE> 
 </root>

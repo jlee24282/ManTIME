@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">SORT BY  
+<TEXT type="str">SORT BY  
  
 CATEGORIES  
  
@@ -8,9 +8,8 @@ LANGUAGES
  
 MEDIA  
  
-TIME</content> 
-<sequenceId type="str">695203503898</sequenceId> 
-<topics type="list"> 
+TIME</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -19,7 +18,8 @@ TIME</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:22:03Z</estimatedPublishedDate> 
-<title type="str">‘Give Me Your Tired, Your Poor’: The Story Behind the Statue of Liberty’s Famous Immigration Poem</title> 
+</TOPICS> 
+<DOCID type="str">695203503898</DOCID> 
+<DCT type="str">2017-01-29T08:22:03Z</DCT> 
+<TITLE type="str">‘Give Me Your Tired, Your Poor’: The Story Behind the Statue of Liberty’s Famous Immigration Poem</TITLE> 
 </root>

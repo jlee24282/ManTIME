@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A boat carrying 31 people, including 28 Chinese tourists, is missing off the coast of Borneo, Malaysian maritime authorities said today. 
+<TEXT type="str">A boat carrying 31 people, including 28 Chinese tourists, is missing off the coast of Borneo, Malaysian maritime authorities said today. 
  
 The boat left Kota Kinabalu, the capital of Malaysia&apos;s eastern Sabah state, at about 9 am (0100 GMT) yesterday bound for the popular tourist spot of Mengalum island, officials said. 
  
@@ -14,9 +14,8 @@ The Malaysian navy, maritime police and air force were involved in the search, t
  
 The Chinese consulate in Kota Kinabalu has asked the state government to step up the search effort, the Chinese official Xinhua news agency said. 
  
-The China National Tourism Administration said it has initiated emergency response procedures.</content> 
-<sequenceId type="str">695200119052</sequenceId> 
-<topics type="list"> 
+The China National Tourism Administration said it has initiated emergency response procedures.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Asia-Pacific latest</name> 
@@ -33,7 +32,8 @@ The China National Tourism Administration said it has initiated emergency respon
 <group type="str">Regional</group> 
 <name type="str">Southeast Asia news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:46:00Z</estimatedPublishedDate> 
-<title type="str">Boat carrying 28 Chinese tourists goes missing in Borneo</title> 
+</TOPICS> 
+<DOCID type="str">695200119052</DOCID> 
+<DCT type="str">2017-01-29T07:46:00Z</DCT> 
+<TITLE type="str">Boat carrying 28 Chinese tourists goes missing in Borneo</TITLE> 
 </root>

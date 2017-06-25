@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donald Trump has been excoriated for his interest in the Barack Obama birther movement most recently in the E-R though it coincidentally resulted in Obama releasing his long form Hawaiian birth certificate. 
+<TEXT type="str">Donald Trump has been excoriated for his interest in the Barack Obama birther movement most recently in the E-R though it coincidentally resulted in Obama releasing his long form Hawaiian birth certificate. 
  
 I have no means to prove or disprove Obama was born in Hawaii. I do believe Obama himself planted the seeds of the “birther” movement. 
  
@@ -12,9 +12,8 @@ Obama believed it was to his advantage to promote himself as a foreign born, man
  
 Unbelievably no U.S. journalist had the guts to ask him about facts. 
  
-— Todd F. Radke, Paradise</content> 
-<sequenceId type="str">695203901647</sequenceId> 
-<topics type="list"> 
+— Todd F. Radke, Paradise</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -35,7 +34,8 @@ Unbelievably no U.S. journalist had the guts to ask him about facts.
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:02:00Z</estimatedPublishedDate> 
-<title type="str">Letter: Obama&apos;s words may have created birther movement</title> 
+</TOPICS> 
+<DOCID type="str">695203901647</DOCID> 
+<DCT type="str">2017-01-29T07:02:00Z</DCT> 
+<TITLE type="str">Letter: Obama&apos;s words may have created birther movement</TITLE> 
 </root>

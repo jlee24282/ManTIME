@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Negative media coverage is being blamed for a lack of people in seats at Wellington&apos;s Rugby Sevens. 
+<TEXT type="str">Negative media coverage is being blamed for a lack of people in seats at Wellington&apos;s Rugby Sevens. 
  
 The global rugby tournament is selling out in Vancouver and almost sold out in Sydney. 
  
@@ -18,9 +18,8 @@ But he said they&apos;re having difficulty shaking the negative connotations lin
  
 Harmon added the tickets are almost twice the price of the Sydney matches. 
  
-New Zealand Rugby along with Wellington City Council will be responsible for deciding if the event is now too small for the stadium.</content> 
-<sequenceId type="str">695194122195</sequenceId> 
-<topics type="list"> 
+New Zealand Rugby along with Wellington City Council will be responsible for deciding if the event is now too small for the stadium.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -29,7 +28,8 @@ New Zealand Rugby along with Wellington City Council will be responsible for dec
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:13:18Z</estimatedPublishedDate> 
-<title type="str">Is its boozy reputation putting punters off the Wellington Sevens? yesterday</title> 
+</TOPICS> 
+<DOCID type="str">695194122195</DOCID> 
+<DCT type="str">2017-01-29T07:13:18Z</DCT> 
+<TITLE type="str">Is its boozy reputation putting punters off the Wellington Sevens? yesterday</TITLE> 
 </root>

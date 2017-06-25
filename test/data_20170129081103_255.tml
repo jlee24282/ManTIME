@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Crea il tuo account, costruisci giorno per giorno la tua community, scopri nuovi video</content> 
-<sequenceId type="str">695203969600</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Crea il tuo account, costruisci giorno per giorno la tua community, scopri nuovi video</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: theater news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:20:31Z</estimatedPublishedDate> 
-<title type="str">Yardbirds -bootleg Anderson Theatre,NYC,03-30-1967</title> 
+</TOPICS> 
+<DOCID type="str">695203969600</DOCID> 
+<DCT type="str">2017-01-29T08:20:31Z</DCT> 
+<TITLE type="str">Yardbirds -bootleg Anderson Theatre,NYC,03-30-1967</TITLE> 
 </root>

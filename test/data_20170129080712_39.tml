@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The UAA women&apos;s 1,600-meter relay team set a school record, brought home a victory and provisionally qualified for the NCAA championships Saturday in Seattle. 
+<TEXT type="str">The UAA women&apos;s 1,600-meter relay team set a school record, brought home a victory and provisionally qualified for the NCAA championships Saturday in Seattle. 
    
 The team of Jamie Ashcroft, Vanessa Aniteye, Hayley Bezanson and Mary-Kathleen Cross recorded a winning and school-record time of 3 minutes, 49.75 seconds at the University of Washington Invitational. 
    
@@ -18,9 +18,8 @@ Competing against Divison I and Division II teams, the Seawolves registered six 
    
 — A 10:03.45 by the 11th-place men&apos;s distance medley relay team of Commandeur, Jesse Miller, Joe Day and Michael Mendenhall; 
    
-— Ashcroft&apos;s 14th-place time of 24.90 seconds in the women&apos;s 2</content> 
-<sequenceId type="str">695194999976</sequenceId> 
-<topics type="list"> 
+— Ashcroft&apos;s 14th-place time of 24.90 seconds in the women&apos;s 2</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -29,7 +28,8 @@ Competing against Divison I and Division II teams, the Seawolves registered six 
 <group type="str">Sports</group> 
 <name type="str">Sports: athletics news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:20:04Z</estimatedPublishedDate> 
-<title type="str">Record-setting relay team sparks UAA track team</title> 
+</TOPICS> 
+<DOCID type="str">695194999976</DOCID> 
+<DCT type="str">2017-01-29T07:20:04Z</DCT> 
+<TITLE type="str">Record-setting relay team sparks UAA track team</TITLE> 
 </root>

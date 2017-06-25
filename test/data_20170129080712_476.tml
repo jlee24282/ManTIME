@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">KOTA KINABALU: Bad weather is hampering search operations for the 28 China tourists and three crew members of a catamaran that went missing on a trip to Pulau Mengalum.   
+<TEXT type="str">KOTA KINABALU: Bad weather is hampering search operations for the 28 China tourists and three crew members of a catamaran that went missing on a trip to Pulau Mengalum.   
  
 Sabah and Labuan Malaysian Maritime Enforcement Agency (MMEA) deputy director Rahim Ramli said Sunday that the search covers an area of about 400 sq miles. 
  
@@ -18,9 +18,8 @@ Royal Malaysia Navy (RMN) chief Laksamana Tan Sri Ahmad Kamarulzaman Ahmad Badar
  
 He said search and rescue efforts by the navy, police, Royal Malaysian Air Force and MMEA were launched for the missing boat.   
  
-“It is sad that it occurred during Chinese New Year,” he said.</content> 
-<sequenceId type="str">695195536493</sequenceId> 
-<topics type="list"> 
+“It is sad that it occurred during Chinese New Year,” he said.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Weather news</name> 
@@ -37,7 +36,8 @@ He said search and rescue efforts by the navy, police, Royal Malaysian Air Force
 <group type="str">Regional</group> 
 <name type="str">China news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:22:54Z</estimatedPublishedDate> 
-<title type="str">Bad weather hampers search for missing boat with China tourists</title> 
+</TOPICS> 
+<DOCID type="str">695195536493</DOCID> 
+<DCT type="str">2017-01-29T07:22:54Z</DCT> 
+<TITLE type="str">Bad weather hampers search for missing boat with China tourists</TITLE> 
 </root>

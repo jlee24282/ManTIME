@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">iTunes services are unavailable. Prices were last updated about 11 hours ago 
+<TEXT type="str">iTunes services are unavailable. Prices were last updated about 11 hours ago 
 
-We find the best iPad app gone free for you daily. Our appPicker PDI selects only the top iPad apps free for the day as they happen so you know they are only the best and latest deals. Never miss a great deal again! Sign up to our daily appsale newsletter Subscribe.</content> 
-<sequenceId type="str">695201532811</sequenceId> 
-<topics type="list"> 
+We find the best iPad app gone free for you daily. Our appPicker PDI selects only the top iPad apps free for the day as they happen so you know they are only the best and latest deals. Never miss a great deal again! Sign up to our daily appsale newsletter Subscribe.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Handhelds news</name> 
@@ -17,7 +16,8 @@ We find the best iPad app gone free for you daily. Our appPicker PDI selects onl
 <group type="str">Companies</group> 
 <name type="str">Apple news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T08:42:27Z</estimatedPublishedDate> 
-<title type="str">Top iPad apps gone free for January 28th</title> 
+</TOPICS> 
+<DOCID type="str">695201532811</DOCID> 
+<DCT type="str">2017-01-28T08:42:27Z</DCT> 
+<TITLE type="str">Top iPad apps gone free for January 28th</TITLE> 
 </root>

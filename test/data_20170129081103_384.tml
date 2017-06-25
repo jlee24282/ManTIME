@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">In a report issued on January 27, Dmitry Netis from William Blair reiterated a Hold rating on Juniper Networks (NYSE: JNPR ). The company’s shares closed last Friday at $26.67. 
+<TEXT type="str">In a report issued on January 27, Dmitry Netis from William Blair reiterated a Hold rating on Juniper Networks (NYSE: JNPR ). The company’s shares closed last Friday at $26.67. 
  
 According to TipRanks.com , Netis is a 5-star analyst with an average return of 11.0% and a 65.2% success rate. Netis covers the Technology sector, focusing on stocks such as Interactive Intelligence, Vonage Holdings, and Arista Networks. 
  
@@ -18,9 +18,8 @@ Juniper Networks, Inc. engages in the design, development, and sale of products 
  
 
 
-The post appeared first on Analyst Ratings .</content> 
-<sequenceId type="str">695204078249</sequenceId> 
-<topics type="list"> 
+The post appeared first on Analyst Ratings .</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Communications equipment news</name> 
@@ -29,7 +28,8 @@ The post appeared first on Analyst Ratings .</content>
 <group type="str">Finance</group> 
 <name type="str">Finance latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:10:23Z</estimatedPublishedDate> 
-<title type="str">William Blair Reiterates a Hold Rating on Juniper Networks</title> 
+</TOPICS> 
+<DOCID type="str">695204078249</DOCID> 
+<DCT type="str">2017-01-29T08:10:23Z</DCT> 
+<TITLE type="str">William Blair Reiterates a Hold Rating on Juniper Networks</TITLE> 
 </root>

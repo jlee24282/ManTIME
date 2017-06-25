@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Lukas Graham: 7 p.m. Jan. 29, House of Blues, 15 Lansdowne St., Boston. $27.95 to $37.95. 
+<TEXT type="str">Lukas Graham: 7 p.m. Jan. 29, House of Blues, 15 Lansdowne St., Boston. $27.95 to $37.95. 
 
 Joe Purdy and Garrison Starr: 7:30 p.m., Jan. 29, Brighton Music Hall, 158 Brighton Ave., Allston. $25. 
  
@@ -35,9 +35,8 @@ Backyard Swagger: 8 p.m. Feb. 3, Plainridge Park Casino, 301 Washington St., P
 
 NorthBeast Regional Poetry Slam: Individual poetry slam, 7 p.m. Feb. 3; Poetry slam featuring eight teams from around the Northeast, 7 p.m. Feb. 4. The World War II Club, 50 Conz St, Northampton. $5 each night. 
  
-The Nields: with Kalliope Jones, 7 p.m. Feb. 4. Iron Horse Music Hall, 20 Center St., Northampton. $20 in advance, $25 cash-only at the door. $17.50 in advance, $20 cash-only at the door. </content> 
-<sequenceId type="str">695196753712</sequenceId> 
-<topics type="list"> 
+The Nields: with Kalliope Jones, 7 p.m. Feb. 4. Iron Horse Music Hall, 20 Center St., Northampton. $20 in advance, $25 cash-only at the door. $17.50 in advance, $20 cash-only at the door. </TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -46,7 +45,8 @@ The Nields: with Kalliope Jones, 7 p.m. Feb. 4. Iron Horse Music Hall, 20 Cente
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T00:00:00Z</estimatedPublishedDate> 
-<title type="str">Regional highlights</title> 
+</TOPICS> 
+<DOCID type="str">695196753712</DOCID> 
+<DCT type="str">2017-01-28T00:00:00Z</DCT> 
+<TITLE type="str">Regional highlights</TITLE> 
 </root>

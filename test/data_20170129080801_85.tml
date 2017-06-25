@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Big agendas and bigger issues are being talked about by the new president and the Republican Congress. This is a good thing. 
+<TEXT type="str">Big agendas and bigger issues are being talked about by the new president and the Republican Congress. This is a good thing. 
  
 This new government should aim to act boldly and quickly. 
  
@@ -42,9 +42,8 @@ This Congress has the opportunity to do a great deal. Much of it can and needs t
  
 These are Five Easy Pieces, which would allow this new government to help put together the puzzle that will produce a better government. 
  
-Judd Gregg of Rye is a former governor and three-term senator from New Hampshire who served as chairman and ranking member of the Senate Budget Committee, and as ranking member of the Senate Appropriations Foreign Operations subcommittee. This column originally ran in The Hill and is reprinted here by permission of the writer.</content> 
-<sequenceId type="str">695197008191</sequenceId> 
-<topics type="list"> 
+Judd Gregg of Rye is a former governor and three-term senator from New Hampshire who served as chairman and ranking member of the Senate Budget Committee, and as ranking member of the Senate Appropriations Foreign Operations subcommittee. This column originally ran in The Hill and is reprinted here by permission of the writer.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -65,7 +64,8 @@ Judd Gregg of Rye is a former governor and three-term senator from New Hampshire
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Five easy pieces of business for GOP</title> 
+</TOPICS> 
+<DOCID type="str">695197008191</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Five easy pieces of business for GOP</TITLE> 
 </root>

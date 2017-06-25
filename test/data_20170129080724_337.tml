@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">COLUMBIA, Mo. — Missouri men&apos;s basketball had one last chance for a January win. 
+<TEXT type="str">COLUMBIA, Mo. — Missouri men&apos;s basketball had one last chance for a January win. 
    
 Final: Missouri loses 63-53 to South Carolina. 12 game losing streak, one away from the school record 
 — Andrew Hodgson (@ahodgson92) January 29, 2017   
@@ -48,9 +48,8 @@ Woods did, however, finish with a career-high 18 points. Walton added 12.
  
 Missouri is off until Thursday when the Tigers play at No. 25 Florida. 
  
-Game time is 6 p.m.</content> 
-<sequenceId type="str">695195905639</sequenceId> 
-<topics type="list"> 
+Game time is 6 p.m.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: US college sports news</name> 
@@ -59,7 +58,8 @@ Game time is 6 p.m.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:25:42Z</estimatedPublishedDate> 
-<title type="str">Missouri loses to South Carolina to go 0-for-January</title> 
+</TOPICS> 
+<DOCID type="str">695195905639</DOCID> 
+<DCT type="str">2017-01-29T07:25:42Z</DCT> 
+<TITLE type="str">Missouri loses to South Carolina to go 0-for-January</TITLE> 
 </root>

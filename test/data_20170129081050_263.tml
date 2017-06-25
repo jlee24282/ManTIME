@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">__</content> 
-<sequenceId type="str">695203461954</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">__</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:21:37Z</estimatedPublishedDate> 
-<title type="str">Trump sets tougher restrictions on lobbying by officials</title> 
+</TOPICS> 
+<DOCID type="str">695203461954</DOCID> 
+<DCT type="str">2017-01-29T08:21:37Z</DCT> 
+<TITLE type="str">Trump sets tougher restrictions on lobbying by officials</TITLE> 
 </root>

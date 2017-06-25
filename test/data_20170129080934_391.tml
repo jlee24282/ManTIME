@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Beth Kephart 
+<TEXT type="str">Beth Kephart 
 
 is the author of 21 books and a cofounder of Juncture Workshops, http://junctureworkshops.com/ 
 
@@ -30,9 +30,8 @@ I look up, toward the lounge, in search of my mother. I look across, toward the 
 
 I call him instead, on my way home. &quot;Dad,&quot; I say. &quot;I was there.&quot; 
 
-b.kephart@fusion-communications.com</content> 
-<sequenceId type="str">695201056326</sequenceId> 
-<topics type="list"> 
+b.kephart@fusion-communications.com</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Delaware Valley news</name> 
@@ -49,7 +48,8 @@ b.kephart@fusion-communications.com</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:01:00Z</estimatedPublishedDate> 
-<title type="str">Gliding into the past and dreams of youth</title> 
+</TOPICS> 
+<DOCID type="str">695201056326</DOCID> 
+<DCT type="str">2017-01-29T08:01:00Z</DCT> 
+<TITLE type="str">Gliding into the past and dreams of youth</TITLE> 
 </root>

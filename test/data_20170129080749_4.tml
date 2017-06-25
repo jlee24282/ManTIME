@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">• Residents worry about a man half-frozen in the cold weather. 
+<TEXT type="str">• Residents worry about a man half-frozen in the cold weather. 
  
 George Tuttle of Mercer Street was lying in the Youngstown City Hospital in a serious condition from exposure. He was found half frozen and unconscious near the Standard Table Oilcloth Works west of Girard about midnight. 
  
@@ -56,9 +56,8 @@ The store was expected to be half as large as the Canfield Township location and
  
 “We expect to attract motorcycle enthusiasts from a large area, and that will benefit the township as a whole,” Wronkovich said. 
  
-Compiled from Tribune Chronicle archives by Emily Earnhart</content> 
-<sequenceId type="str">695196488175</sequenceId> 
-<topics type="list"> 
+Compiled from Tribune Chronicle archives by Emily Earnhart</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Automotive industry news</name> 
@@ -67,7 +66,8 @@ Compiled from Tribune Chronicle archives by Emily Earnhart</content>
 <group type="str">US regional</group> 
 <name type="str">Cleveland news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:04Z</estimatedPublishedDate> 
-<title type="str">Harley-Davidson fans get ‘Bike Town’</title> 
+</TOPICS> 
+<DOCID type="str">695196488175</DOCID> 
+<DCT type="str">2017-01-29T07:30:04Z</DCT> 
+<TITLE type="str">Harley-Davidson fans get ‘Bike Town’</TITLE> 
 </root>

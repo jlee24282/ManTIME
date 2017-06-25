@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Greg Gard&apos;s basketball team, tied for first in the Big Ten and ranked No. 15 in the nation, looked like a mediocre unit for almost 40 minutes Saturday at Madison Square Garden. 
+<TEXT type="str">Greg Gard&apos;s basketball team, tied for first in the Big Ten and ranked No. 15 in the nation, looked like a mediocre unit for almost 40 minutes Saturday at Madison Square Garden. 
 
 Facing unranked Rutgers, Wisconsin shot poorly and at times struggled to keep the ball out of the lane. 
 
@@ -38,9 +38,8 @@ The Badgers missed their first six shots of the second half before Happ scored i
 
 That ended UW&apos;s run of misses at 18 in a row and a span of 13:52. 
 
-Ouch.</content> 
-<sequenceId type="str">695202201609</sequenceId> 
-<topics type="list"> 
+Ouch.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Education news</name> 
@@ -53,7 +52,8 @@ Ouch.</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Happ helps Wisconsin escape Rutgers in OT, 61-54</title> 
+</TOPICS> 
+<DOCID type="str">695202201609</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Happ helps Wisconsin escape Rutgers in OT, 61-54</TITLE> 
 </root>

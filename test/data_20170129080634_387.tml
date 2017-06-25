@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Amazon has a new original series due for release next month, with “Patriot” set to premiere on February 24 exclusively on Prime Video in the US, UK, Germany and Austria. 
+<TEXT type="str">Amazon has a new original series due for release next month, with “Patriot” set to premiere on February 24 exclusively on Prime Video in the US, UK, Germany and Austria. 
  
 You can also check out the poster and photos from the new one-hour series below. 
  
@@ -14,9 +14,8 @@ Facebook
   
 Twitter 
       Previous article Fox orders vampire drama The Passage  Next article Watch the new clips from John Wick 2 &amp; Fifty Shades Darker     
-Ashleigh is an editor and one of the day-to-day managers of Moviehole. Also been known to binge watch &quot;Friends&quot; and &quot;Orange is the New Black&quot;.</content> 
-<sequenceId type="str">695194197042</sequenceId> 
-<topics type="list"> 
+Ashleigh is an editor and one of the day-to-day managers of Moviehole. Also been known to binge watch &quot;Friends&quot; and &quot;Orange is the New Black&quot;.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -29,7 +28,8 @@ Ashleigh is an editor and one of the day-to-day managers of Moviehole. Also been
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: movie reviews</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:52:39Z</estimatedPublishedDate> 
-<title type="str">Amazon reveals Patriot premiere date &amp; new images</title> 
+</TOPICS> 
+<DOCID type="str">695194197042</DOCID> 
+<DCT type="str">2017-01-29T00:52:39Z</DCT> 
+<TITLE type="str">Amazon reveals Patriot premiere date &amp; new images</TITLE> 
 </root>

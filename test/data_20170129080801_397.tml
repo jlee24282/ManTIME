@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Well, that ends a tough week. For just the second time this season, the Notre Dame Fighting Irish are on a losing streak after falling 62-60 to the Georgia Tech Yellow Jackets on the road. The loss is Notre Dame’s first against an unranked opponent this season, all though the Yellow Jackets (who took down Florida State earlier this week) are no cakewalk. 
+<TEXT type="str">Well, that ends a tough week. For just the second time this season, the Notre Dame Fighting Irish are on a losing streak after falling 62-60 to the Georgia Tech Yellow Jackets on the road. The loss is Notre Dame’s first against an unranked opponent this season, all though the Yellow Jackets (who took down Florida State earlier this week) are no cakewalk. 
  
 Here is what we learned from Saturday’s deflating defeat: 
  The Irish have tasted their own medicine, and it is bitter!  
@@ -16,9 +16,8 @@ The largest concern would be the free throw shooting, which really turned out to
  Thanks to the crazy ACC, this loss is slightly more bearable  
 This is absolutely a tough loss. All conference road games are tough, but you always want to record wins against unranked opponents. However, after seeing how the rest of the conference fared on Saturday, it is a little easier to swallow the loss. 
  
-Miami throttled first place North Carolina at home. Syracuse downed Florida State at home, and Duke did not seem to find an energy boost after coach K’s tirade, as they struggled with Wake Forest. Upsets of this nature are bound to happen in a conference of this caliber. That being said, this will be a huge week for the Irish to get back on track before a frustrating week turns into a long-term state of panic.</content> 
-<sequenceId type="str">695197281509</sequenceId> 
-<topics type="list"> 
+Miami throttled first place North Carolina at home. Syracuse downed Florida State at home, and Duke did not seem to find an energy boost after coach K’s tirade, as they struggled with Wake Forest. Upsets of this nature are bound to happen in a conference of this caliber. That being said, this will be a huge week for the Irish to get back on track before a frustrating week turns into a long-term state of panic.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -27,7 +26,8 @@ Miami throttled first place North Carolina at home. Syracuse downed Florida Stat
 <group type="str">Sports</group> 
 <name type="str">Sports: college basketball news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:46:54Z</estimatedPublishedDate> 
-<title type="str">Notre Dame vs. Georgia Tech: Three Things We Learned</title> 
+</TOPICS> 
+<DOCID type="str">695197281509</DOCID> 
+<DCT type="str">2017-01-29T06:46:54Z</DCT> 
+<TITLE type="str">Notre Dame vs. Georgia Tech: Three Things We Learned</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Sophomore Lisa Neumann goes down to return a shot during her 6-1, 6-0 win at No.2 singles in the Cobbers&apos; season opener. 
+<TEXT type="str">Sophomore Lisa Neumann goes down to return a shot during her 6-1, 6-0 win at No.2 singles in the Cobbers&apos; season opener. 
    
 Jan 28, 2017 
   
@@ -36,9 +36,8 @@ Singles competition
 Doubles competition 
 1. Jessica Solberg/Madeleine Scanlan (CSS) def. Kendra Stoick / Lisa Neumann (CC) 8-1 
 2. Daniela Rojas/Miki Samz (CSS) def. Ivy Mattson / Mikaila Carney (CC) 8-1 
-3. Syd Holt/Alexia Brascugli (CSS) def. Breann Adamek / Talia Dalzell (CC) 8-</content> 
-<sequenceId type="str">695199710203</sequenceId> 
-<topics type="list"> 
+3. Syd Holt/Alexia Brascugli (CSS) def. Breann Adamek / Talia Dalzell (CC) 8-</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -47,7 +46,8 @@ Doubles competition
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:53:56Z</estimatedPublishedDate> 
-<title type="str">Signs Of Improvement In Season Opener</title> 
+</TOPICS> 
+<DOCID type="str">695199710203</DOCID> 
+<DCT type="str">2017-01-29T07:53:56Z</DCT> 
+<TITLE type="str">Signs Of Improvement In Season Opener</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The protesters sentiments has been projected onto a wall of the JFK International Airport on Saturday. (Photo: Justin Lane, EPA) 
+<TEXT type="str">The protesters sentiments has been projected onto a wall of the JFK International Airport on Saturday. (Photo: Justin Lane, EPA) 
   
 SAN FRANCISCO — Hundreds of outraged demonstrators converged on San Francisco International Airport Saturday afternoon, in defiance of President Trump&apos;s executive order banning refugees and foreign citizens from seven predominantly Muslim countries entry into the U.S. 
  
@@ -46,9 +46,8 @@ Contributing: Elizabeth Weise in San Francisco.
  
 Follow USA TODAY San Francisco Bureau Chief Jon Swartz @jswartz on Twitter. 
  
-Read or Share this story: http://usat.ly/2jJghIw</content> 
-<sequenceId type="str">695198937727</sequenceId> 
-<topics type="list"> 
+Read or Share this story: http://usat.ly/2jJghIw</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -69,7 +68,8 @@ Read or Share this story: http://usat.ly/2jJghIw</content>
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:48:09Z</estimatedPublishedDate> 
-<title type="str">&quot;You put a wall, we tear it down&quot;: 1,000 protest ban at SF airport</title> 
+</TOPICS> 
+<DOCID type="str">695198937727</DOCID> 
+<DCT type="str">2017-01-29T07:48:09Z</DCT> 
+<TITLE type="str">&quot;You put a wall, we tear it down&quot;: 1,000 protest ban at SF airport</TITLE> 
 </root>

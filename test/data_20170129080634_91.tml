@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">(c) 2017, Bloomberg. 
+<TEXT type="str">(c) 2017, Bloomberg. 
  
 Alphabet Inc.‘s Google asked staffers who may be affected by a new executive order on immigration to return to the U.S. quickly, joining a growing number of technology executives voicing concerns over restrictions that could interfere with how they do business. 
  
@@ -60,9 +60,8 @@ With assistance from Caroline Chen.
  
 google-1stld-writethru 
  
-Keywords</content> 
-<sequenceId type="str">695193874537</sequenceId> 
-<topics type="list"> 
+Keywords</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Technology</group> 
 <name type="str">Tech latest</name> 
@@ -99,7 +98,8 @@ Keywords</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:34Z</estimatedPublishedDate> 
-<title type="str">Google, Facebook show dismay on Trump immigration order</title> 
+</TOPICS> 
+<DOCID type="str">695193874537</DOCID> 
+<DCT type="str">2017-01-29T07:11:34Z</DCT> 
+<TITLE type="str">Google, Facebook show dismay on Trump immigration order</TITLE> 
 </root>

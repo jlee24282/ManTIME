@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">by 
+<TEXT type="str">by 
 
 Posted Jan 29, 2017 1:49 am EST
 
@@ -66,9 +66,8 @@ We have sent a confirmation email to . Please check your email and click on the 
 
 Please confirm the information below before signing up.
 
-We didn&apos;t recognize that password reset code. Enter your email address to get a new one.</content> 
-<sequenceId type="str">695197350892</sequenceId> 
-<topics type="list"> 
+We didn&apos;t recognize that password reset code. Enter your email address to get a new one.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Science</group> 
 <name type="str">Environment news</name> 
@@ -89,7 +88,8 @@ We didn&apos;t recognize that password reset code. Enter your email address to g
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:49:16Z</estimatedPublishedDate> 
-<title type="str">Environmentalists preparing to battle Trump, GOP in court</title> 
+</TOPICS> 
+<DOCID type="str">695197350892</DOCID> 
+<DCT type="str">2017-01-29T06:49:16Z</DCT> 
+<TITLE type="str">Environmentalists preparing to battle Trump, GOP in court</TITLE> 
 </root>

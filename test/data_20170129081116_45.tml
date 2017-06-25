@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Oregon’s graduation rate rose incrementally for the class of 2016. While this certainly isn’t bad news, it’s hardly reason for wild celebration. The state still has a long way to go. 
+<TEXT type="str">Oregon’s graduation rate rose incrementally for the class of 2016. While this certainly isn’t bad news, it’s hardly reason for wild celebration. The state still has a long way to go. 
  
 The state Department of Education’s announcement tried to stay positive. 
  
@@ -12,9 +12,8 @@ In Central Oregon, some districts did see bigger changes. Redmond School Distric
  
 Some districts basically stayed the same. Bend schools stayed at 77 percent, though the number ticked fractionally upward. 
  
-Educators say they are not satisfied with the state’s performance. Neither should you be.</content> 
-<sequenceId type="str">695204261180</sequenceId> 
-<topics type="list"> 
+Educators say they are not satisfied with the state’s performance. Neither should you be.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -23,7 +22,8 @@ Educators say they are not satisfied with the state’s performance. Neither sho
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:27:43Z</estimatedPublishedDate> 
-<title type="str">Editorial: State progress in graduation rates is no triumph</title> 
+</TOPICS> 
+<DOCID type="str">695204261180</DOCID> 
+<DCT type="str">2017-01-29T08:27:43Z</DCT> 
+<TITLE type="str">Editorial: State progress in graduation rates is no triumph</TITLE> 
 </root>

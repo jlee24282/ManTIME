@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Closed between Spy Run and Parnell avenues through Feb. 3. Lane restrictions between Randallia Drive and Coliseum Boulevard through Feb. 7. Closed between Delta Avenue and North Anthony Boulevard through Feb. 18. Closed to through traffic at Lafayette Center Road until further notice. Only right turns allowed at intersections.</content> 
-<sequenceId type="str">695204128338</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Closed between Spy Run and Parnell avenues through Feb. 3. Lane restrictions between Randallia Drive and Coliseum Boulevard through Feb. 7. Closed between Delta Avenue and North Anthony Boulevard through Feb. 18. Closed to through traffic at Lafayette Center Road until further notice. Only right turns allowed at intersections.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Indianapolis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:07:12Z</estimatedPublishedDate> 
-<title type="str">Road restrictions for Jan. 29</title> 
+</TOPICS> 
+<DOCID type="str">695204128338</DOCID> 
+<DCT type="str">2017-01-29T00:07:12Z</DCT> 
+<TITLE type="str">Road restrictions for Jan. 29</TITLE> 
 </root>

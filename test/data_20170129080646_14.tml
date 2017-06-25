@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Daily Independent Headlines Today 
+<TEXT type="str">Daily Independent Headlines Today 
 
 [Sun-29-Jan-2017] 
 
@@ -24,9 +24,8 @@ AFCON 2017: Burkina Faso cruises into semi finals - The Sun
 
 Afcon 2017: Cameroon beat Senegal 5-4 on penalties to reach semi-finals - BBC 
 
-AFCON 2017: CAMEROON, SENEGAL IN QUARTER-FINAL SHOWDOWN - Nigerian Pilot</content> 
-<sequenceId type="str">695194229828</sequenceId> 
-<topics type="list"> 
+AFCON 2017: CAMEROON, SENEGAL IN QUARTER-FINAL SHOWDOWN - Nigerian Pilot</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -43,7 +42,8 @@ AFCON 2017: CAMEROON, SENEGAL IN QUARTER-FINAL SHOWDOWN - Nigerian Pilot</conten
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T06:15:41Z</estimatedPublishedDate> 
-<title type="str">Rafael Nadal beats Dimitrov to set up Australian Open final with Federer</title> 
+</TOPICS> 
+<DOCID type="str">695194229828</DOCID> 
+<DCT type="str">2017-01-29T06:15:41Z</DCT> 
+<TITLE type="str">Rafael Nadal beats Dimitrov to set up Australian Open final with Federer</TITLE> 
 </root>

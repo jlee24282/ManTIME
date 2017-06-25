@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Washington. President Donald Trump discussed Syria and the fight against Islamic State with Russian President Vladimir Putin on Saturday (28/01) in one of several calls with world leaders that the new United States president used to put his stamp on international affairs. 
+<TEXT type="str">Washington. President Donald Trump discussed Syria and the fight against Islamic State with Russian President Vladimir Putin on Saturday (28/01) in one of several calls with world leaders that the new United States president used to put his stamp on international affairs. 
 
 Trump&apos;s call with Putin was their first since the New York businessman took office and came as officials said he was considering lifting sanctions on Moscow despite opposition from Democrats and Republicans at home and European allies abroad. 
 
@@ -32,9 +32,8 @@ During his call with Japan&apos;s Abe, Trump affirmed an &quot;ironclad&quot; US
 
 Trump spoke to Australia&apos;s Turnbull for 25 minutes and emphasized the close relationship between the two countries. 
 
-Reuters</content> 
-<sequenceId type="str">695194338835</sequenceId> 
-<topics type="list"> 
+Reuters</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Russia news</name> 
@@ -47,7 +46,8 @@ Reuters</content>
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T00:00:09Z</estimatedPublishedDate> 
-<title type="str">Trump Talks to Putin, Other World Leaders About Security Threats</title> 
+</TOPICS> 
+<DOCID type="str">695194338835</DOCID> 
+<DCT type="str">2017-01-29T00:00:09Z</DCT> 
+<TITLE type="str">Trump Talks to Putin, Other World Leaders About Security Threats</TITLE> 
 </root>

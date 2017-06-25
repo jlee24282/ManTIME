@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Jaipur, Jan 29 (IANS) One person was killed and 40 others were injured in a massive 35-vehicle highway pile-up near Rajasthan&apos;s capital city of Jaipur on Sunday, the state police said.
+<TEXT type="str">Jaipur, Jan 29 (IANS) One person was killed and 40 others were injured in a massive 35-vehicle highway pile-up near Rajasthan&apos;s capital city of Jaipur on Sunday, the state police said.
 
 The accident took place in dense fog around 8.30 a.m. near Kanota, about 15 km from Jaipur, on the Agra-Jaipur highway.
 
@@ -10,14 +10,14 @@ The seriously injured have been referred to the SMS Hospital in Jaipur.
 
 --IANS
 
-as/ksk/vt</content> 
-<sequenceId type="str">695197577786</sequenceId> 
-<topics type="list"> 
+as/ksk/vt</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">India news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:30:04Z</estimatedPublishedDate> 
-<title type="str">1 killed, 40 injured in highway pile-up in Rajasthan</title> 
+</TOPICS> 
+<DOCID type="str">695197577786</DOCID> 
+<DCT type="str">2017-01-29T07:30:04Z</DCT> 
+<TITLE type="str">1 killed, 40 injured in highway pile-up in Rajasthan</TITLE> 
 </root>

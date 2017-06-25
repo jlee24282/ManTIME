@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">THE anti-Muslim rally by far-right group Reclaim Australia in Sydney has been a fizzer, with more police and media turning up than protesters.
+<TEXT type="str">THE anti-Muslim rally by far-right group Reclaim Australia in Sydney has been a fizzer, with more police and media turning up than protesters.
 
 Around 400 people registered to attend the rally in Sydney’s Martin Place on Saturday afternoon, drawing a heavy police and media presence in the fear of a violent clash.
 
@@ -34,9 +34,8 @@ Supporter Dan Evans, who spoke at the rally, told the crowd he would not “subm
 
 “Australia is a monoculture. One culture, an Australian culture- the superior culture.”
 
-Originally published as</content> 
-<sequenceId type="str">695196940715</sequenceId> 
-<topics type="list"> 
+Originally published as</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -53,7 +52,8 @@ Originally published as</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:56:00Z</estimatedPublishedDate> 
-<title type="str">Far-right ‘Reclaim Australia’ rally a fizzer</title> 
+</TOPICS> 
+<DOCID type="str">695196940715</DOCID> 
+<DCT type="str">2017-01-29T05:56:00Z</DCT> 
+<TITLE type="str">Far-right ‘Reclaim Australia’ rally a fizzer</TITLE> 
 </root>

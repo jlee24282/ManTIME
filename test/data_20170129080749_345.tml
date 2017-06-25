@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Washington: As US President Donald Trump&apos;s order targeting citizens from seven predominantly Muslim countries reverberated across the world on Saturday, it became increasingly clear that the controversial measure he had promised during his presidential campaign was casting a wider net than even his opponents had feared.
+<TEXT type="str">Washington: As US President Donald Trump&apos;s order targeting citizens from seven predominantly Muslim countries reverberated across the world on Saturday, it became increasingly clear that the controversial measure he had promised during his presidential campaign was casting a wider net than even his opponents had feared.
 
 Confusion and concern among immigrant advocates mounted throughout the day as travellers from the Middle East were detained at US airports or sent home. A middle-of-the-night lawsuit filed on behalf of two Iraqi men challenged Trump&apos;s executive action, which was signed on Friday and initially cast as applying to refugees and migrants.
 
@@ -114,9 +114,8 @@ In Philadelphia, Sarah Assali said six relatives from Syria - two uncles, their 
 
 She said her family members were not allowed to call or contact their family in the United States before being removed. &quot;We don&apos;t know what&apos;s going to happen next.&quot;
 
-Washington Post, New York Times, Dallas Morning News</content> 
-<sequenceId type="str">695196832447</sequenceId> 
-<topics type="list"> 
+Washington Post, New York Times, Dallas Morning News</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Industry</group> 
 <name type="str">Airline industry news</name> 
@@ -157,7 +156,8 @@ Washington Post, New York Times, Dallas Morning News</content>
 <group type="str">Business</group> 
 <name type="str">Lawsuits news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:32:40Z</estimatedPublishedDate> 
-<title type="str">Judge orders stay on Trump&apos;s Muslim ban as protesters flood airports</title> 
+</TOPICS> 
+<DOCID type="str">695196832447</DOCID> 
+<DCT type="str">2017-01-29T07:32:40Z</DCT> 
+<TITLE type="str">Judge orders stay on Trump&apos;s Muslim ban as protesters flood airports</TITLE> 
 </root>

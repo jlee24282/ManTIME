@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Amazingly, no one was seriously hurt when a truck crashed through a crowded city bus in Syracuse, NY, earlier this month. Video of the brutal accident has gone viral.</content> 
-<sequenceId type="str">695199901079</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Amazingly, no one was seriously hurt when a truck crashed through a crowded city bus in Syracuse, NY, earlier this month. Video of the brutal accident has gone viral.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">New York metro area news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Regional</group> 
 <name type="str">US news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-27T21:59:04Z</estimatedPublishedDate> 
-<title type="str">RAW VIDEO: Truck crashes into crowded bus in New York</title> 
+</TOPICS> 
+<DOCID type="str">695199901079</DOCID> 
+<DCT type="str">2017-01-27T21:59:04Z</DCT> 
+<TITLE type="str">RAW VIDEO: Truck crashes into crowded bus in New York</TITLE> 
 </root>

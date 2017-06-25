@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A tiger was running loose on the streets of Sicily after escaping from a travelling circus. 
+<TEXT type="str">A tiger was running loose on the streets of Sicily after escaping from a travelling circus. 
 
 The big cat, called Oscar, was spotted strolling through the town of Monreale, Palermo where the circus troupe was performing at the time. 
 
@@ -26,9 +26,8 @@ After his escapade the tiger is due to perform at the circus on Monday (30 Janua
 
 Get your daily digest with the best of the day&apos;s news, opinion, entertainment and sport 
 
-You may be interested in</content> 
-<sequenceId type="str">695198666189</sequenceId> 
-<topics type="list"> 
+You may be interested in</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Indian subcontinent news</name> 
@@ -37,7 +36,8 @@ You may be interested in</content>
 <group type="str">Regional</group> 
 <name type="str">Italy news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:45:34Z</estimatedPublishedDate> 
-<title type="str">Bengal tiger causes panic on streets of Sicily after escaping from circus</title> 
+</TOPICS> 
+<DOCID type="str">695198666189</DOCID> 
+<DCT type="str">2017-01-29T07:45:34Z</DCT> 
+<TITLE type="str">Bengal tiger causes panic on streets of Sicily after escaping from circus</TITLE> 
 </root>

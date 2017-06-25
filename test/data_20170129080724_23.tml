@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Britt Cox and Matt Graham have claimed twin World Cup victories in Canada, marking the most successful day for the Australian mogul skiing team. 
+<TEXT type="str">Britt Cox and Matt Graham have claimed twin World Cup victories in Canada, marking the most successful day for the Australian mogul skiing team. 
  
 Overall leader Cox won the women&apos;s event in Calgary - her third triumph of a standout season. 
  Cold Gold: Matt Graham of Australia reacts to winning the Men&apos;s Moguls at the 2017 FIS Freestyle Ski World Cup in Calgary.  Photo: TODD KOROL  
@@ -26,9 +26,8 @@ There are seven more World Cups before the world championships in early March in
  
 In other action, Australian slopestyle skier Russ Henshaw finished third in the World Cup round in Seiser Alm, Italy. 
  
-AAP</content> 
-<sequenceId type="str">695195610439</sequenceId> 
-<topics type="list"> 
+AAP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Top stories</group> 
 <name type="str">Top Australia stories</name> 
@@ -45,7 +44,8 @@ AAP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:16:08Z</estimatedPublishedDate> 
-<title type="str">Double moguls gold for Australian skiers Britt Cox and Matt Graham</title> 
+</TOPICS> 
+<DOCID type="str">695195610439</DOCID> 
+<DCT type="str">2017-01-29T07:16:08Z</DCT> 
+<TITLE type="str">Double moguls gold for Australian skiers Britt Cox and Matt Graham</TITLE> 
 </root>

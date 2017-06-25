@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Live updates    Sort posts by     Share via Email  Post on facebook wall  Share on Google Plus  Share on twitter  Post to Linkedin  Share on Reddit   
-1 new post(s) available. View post(s)  Dismiss</content> 
-<sequenceId type="str">695195514920</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Live updates    Sort posts by     Share via Email  Post on facebook wall  Share on Google Plus  Share on twitter  Post to Linkedin  Share on Reddit   
+1 new post(s) available. View post(s)  Dismiss</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
@@ -24,7 +23,8 @@
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:21:30Z</estimatedPublishedDate> 
-<title type="str">Australian Open 2017 Men&apos;s Final Live: Roger Federer vs Rafael Nadal</title> 
+</TOPICS> 
+<DOCID type="str">695195514920</DOCID> 
+<DCT type="str">2017-01-29T07:21:30Z</DCT> 
+<TITLE type="str">Australian Open 2017 Men&apos;s Final Live: Roger Federer vs Rafael Nadal</TITLE> 
 </root>

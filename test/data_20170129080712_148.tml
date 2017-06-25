@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">:18am Antonio Conte praised the depth of his Chelsea squad after they eased into the last 16 of the FA Cup with a 4-0 win over Brentford as he told the Premier League leaders to prepare for tougher challenges ahead. 
+<TEXT type="str">:18am Antonio Conte praised the depth of his Chelsea squad after they eased into the last 16 of the FA Cup with a 4-0 win over Brentford as he told the Premier League leaders to prepare for tougher challenges ahead. 
  
 Branislav Ivanovic, in what could be his final appearance for the Blues if a reported move away from Stamford Bridge takes place in the closing days of the January transfer window, scored one goal and created another in a 30-minute substitute appearance. 
  
@@ -42,9 +42,8 @@ Hogan is rated at £15 million ($19 million, 17.6 million euros) but West Ham ha
  
 &quot;I fear interest all the time and I don&apos;t know if his valuation will be met. If it&apos;s not, then he will remain a Brentford player.&quot; 
  
-AFP</content> 
-<sequenceId type="str">695195117433</sequenceId> 
-<topics type="list"> 
+AFP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports Teams</group> 
 <name type="str">Sports: EPL - Liverpool news</name> 
@@ -57,7 +56,8 @@ AFP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: soccer news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:18:00Z</estimatedPublishedDate> 
-<title type="str">Conte readies Chelsea for sterner tests after FA Cup stroll</title> 
+</TOPICS> 
+<DOCID type="str">695195117433</DOCID> 
+<DCT type="str">2017-01-29T07:18:00Z</DCT> 
+<TITLE type="str">Conte readies Chelsea for sterner tests after FA Cup stroll</TITLE> 
 </root>

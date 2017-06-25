@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Richard L. Harders Sr. Around the State Jill (Hanks) Koehn Out of State</content> 
-<sequenceId type="str">695197828944</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">Richard L. Harders Sr. Around the State Jill (Hanks) Koehn Out of State</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -11,7 +10,8 @@
 <group type="str">Society</group> 
 <name type="str">Obituaries</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:00:00Z</estimatedPublishedDate> 
-<title type="str">Obituary Directory for January 29, 2017</title> 
+</TOPICS> 
+<DOCID type="str">695197828944</DOCID> 
+<DCT type="str">2017-01-29T02:00:00Z</DCT> 
+<TITLE type="str">Obituary Directory for January 29, 2017</TITLE> 
 </root>

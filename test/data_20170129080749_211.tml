@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Donald Trump may be drawing attacks for his tough stance on immigration, but he is understood to have assured Malcolm Turnbull the refugee arrangement between the two countries will stand under his presidency. 
+<TEXT type="str">Donald Trump may be drawing attacks for his tough stance on immigration, but he is understood to have assured Malcolm Turnbull the refugee arrangement between the two countries will stand under his presidency. 
 
 The prime minister held a 25-minute phone call with Trump today, their first conversation since the billionaire&apos;s inauguration as US president last weekend. 
 
@@ -38,9 +38,8 @@ German Chancellor Angela Merkel and Trump are reported to have agreed on the fun
 
 Russian President Vladimir Putin and the US president also want to co-operate in Syria to defeat Islamic State. 
 
-But French President Francois Hollande warned Trump against taking a protectionist approach, saying it would have economic and political consequences.</content> 
-<sequenceId type="str">695196719188</sequenceId> 
-<topics type="list"> 
+But French President Francois Hollande warned Trump against taking a protectionist approach, saying it would have economic and political consequences.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">New Zealand news</name> 
@@ -49,7 +48,8 @@ But French President Francois Hollande warned Trump against taking a protectioni
 <group type="str">Regional</group> 
 <name type="str">Oceania latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T05:42:27Z</estimatedPublishedDate> 
-<title type="str">Trump assures Turnbull refugee deal stands</title> 
+</TOPICS> 
+<DOCID type="str">695196719188</DOCID> 
+<DCT type="str">2017-01-29T05:42:27Z</DCT> 
+<TITLE type="str">Trump assures Turnbull refugee deal stands</TITLE> 
 </root>

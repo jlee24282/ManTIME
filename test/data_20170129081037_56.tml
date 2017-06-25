@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Dear Mr. President,
+<TEXT type="str">Dear Mr. President,
 
 Please, enough with the vanity. It&apos;s bad for the country and undermining your administration at what should be its strongest point.
 
@@ -32,9 +32,8 @@ They&apos;re scared. They&apos;re scared you might come after them now that you 
 
 You still have time, President Trump -- time to turn it around, time to prove us all wrong.
 
-So, please, Mr. President. Act the part.</content> 
-<sequenceId type="str">695202867204</sequenceId> 
-<topics type="list"> 
+So, please, Mr. President. Act the part.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Politics latest</name> 
@@ -43,7 +42,8 @@ So, please, Mr. President. Act the part.</content>
 <group type="str">Society</group> 
 <name type="str">Opinion latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:00:00Z</estimatedPublishedDate> 
-<title type="str">Editorial: An open letter to President Trump</title> 
+</TOPICS> 
+<DOCID type="str">695202867204</DOCID> 
+<DCT type="str">2017-01-29T08:00:00Z</DCT> 
+<TITLE type="str">Editorial: An open letter to President Trump</TITLE> 
 </root>

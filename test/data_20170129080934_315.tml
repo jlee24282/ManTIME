@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Western Kentucky&apos;s women&apos;s tennis team closed out the weekend with a 5-2 loss versus Louisville on its home court at the Bass-Rudd Tennis Center on Saturday.
+<TEXT type="str">Western Kentucky&apos;s women&apos;s tennis team closed out the weekend with a 5-2 loss versus Louisville on its home court at the Bass-Rudd Tennis Center on Saturday.
 
 After the Cardinals (4-0) built a 1-0 lead winning the doubles point, the Lady Toppers (1-1) evened the score with senior Elpida Malamou clinching the singles No. 1 spot over Sena Suswam 4-6, 6-1, 6-2. Fellow senior Andreanna Christopoulou held her own going toe-to-toe with Aleksandra Mally, but came up short in a 7-6, 6-4 affair.
 
@@ -8,9 +8,8 @@ Louisville won next two matches before WKU freshman Monica Malinen claimed her s
 
 At the No. 6 spot, WKU&apos;s Violetta Shatalova won the first set 6-4, before dropping the next two 0-6, 6-3 to Louisville’s Jessie Paul.
 
-WKU will take the court again against Conference USA opponent Middle Tennessee on Feb. 4 at 10 a.m. at the Adams Tennis Complex in Murfreesboro, Tenn.</content> 
-<sequenceId type="str">695201004650</sequenceId> 
-<topics type="list"> 
+WKU will take the court again against Conference USA opponent Middle Tennessee on Feb. 4 at 10 a.m. at the Adams Tennis Complex in Murfreesboro, Tenn.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -19,7 +18,8 @@ WKU will take the court again against Conference USA opponent Middle Tennessee o
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:18:00Z</estimatedPublishedDate> 
-<title type="str">Lady Tops fall to Louisville in tennis</title> 
+</TOPICS> 
+<DOCID type="str">695201004650</DOCID> 
+<DCT type="str">2017-01-29T02:18:00Z</DCT> 
+<TITLE type="str">Lady Tops fall to Louisville in tennis</TITLE> 
 </root>

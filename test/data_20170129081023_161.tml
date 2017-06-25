@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Words by triple j. Photo: triple j. 
+<TEXT type="str">Words by triple j. Photo: triple j. 
 
 Not-so-spoiler Alert: Flume topped the Hottest 100 with &apos;Never Be Like You&apos;. But if you&apos;re still asking &apos;where the hell was [insert artist who isn&apos;t Flume]!?&apos; then you&apos;ll want to see if they turned up in the other 100 hottest songs of 2016. 
 
@@ -47,14 +47,14 @@ Check out the first 20 in the Hottest 200 - 101 below and view the full list her
 117 Emma Louise - &apos;Illuminate&apos; 
 118 Sarah Blasko - &apos;Life On Mars (Like A Version)&apos; 
 119 Phantogram - &apos;You Don&apos;t Get Me High Anymore&apos; 
-120 The Cat Empire - &apos;Bulls&apos;</content> 
-<sequenceId type="str">695202591272</sequenceId> 
-<topics type="list"> 
+120 The Cat Empire - &apos;Bulls&apos;</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-28T13:00:00Z</estimatedPublishedDate> 
-<title type="str">Hottest 200 -101: the other hottest songs of 2016</title> 
+</TOPICS> 
+<DOCID type="str">695202591272</DOCID> 
+<DCT type="str">2017-01-28T13:00:00Z</DCT> 
+<TITLE type="str">Hottest 200 -101: the other hottest songs of 2016</TITLE> 
 </root>

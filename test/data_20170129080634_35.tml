@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Photo: Photo By Rafael Aguilera For The Texas Tribune  
+<TEXT type="str">Photo: Photo By Rafael Aguilera For The Texas Tribune  
   
 Image 1 of / 2 
   
@@ -73,9 +73,8 @@ Cross said his agency’s experts don’t believe this area will see a &quot;cat
  
 failure like near Wink, “but they have no idea how deep this subsidence will continue to go.” 
  
-Or how much it will cost.</content> 
-<sequenceId type="str">695193847131</sequenceId> 
-<topics type="list"> 
+Or how much it will cost.</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Finance</group> 
 <name type="str">Tax news</name> 
@@ -84,7 +83,8 @@ Or how much it will cost.</content>
 <group type="str">Business</group> 
 <name type="str">Business latest</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:11:17Z</estimatedPublishedDate> 
-<title type="str">West Texas’ abandoned water well sinks land, sucks tax dollars</title> 
+</TOPICS> 
+<DOCID type="str">695193847131</DOCID> 
+<DCT type="str">2017-01-29T07:11:17Z</DCT> 
+<TITLE type="str">West Texas’ abandoned water well sinks land, sucks tax dollars</TITLE> 
 </root>

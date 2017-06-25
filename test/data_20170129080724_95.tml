@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Providence Journal’s “GLOBAL REBUKE” headline on Jan. 22, in a type and size that should be reserved for “WORLD WAR III BEGINS,” is a reminder that “we have nothing to fear but fear itself.” 
+<TEXT type="str">The Providence Journal’s “GLOBAL REBUKE” headline on Jan. 22, in a type and size that should be reserved for “WORLD WAR III BEGINS,” is a reminder that “we have nothing to fear but fear itself.” 
  
 I realize that many people are horrified by Donald Trump taking over the presidency of the United States, but let&apos;s get a hold of ourselves. Do Americans know what&apos;s really horrifying? The fact that we are nearly $20 trillion in debt, that the Navy can&apos;t get spare parts and has been put on its knees and buzzed by Russian planes, that we&apos;ve had horrid foreign affairs management (including the Iran deal), that illegal immigration seems to be out of control, that hundreds of innocent people are being shot in our cities (in the kind of carnage that Trump mentioned in his inaugural speech) and that race relations are going backward to the early 1960s. All of these items are leftovers from the previous presidential administration. 
  
@@ -8,9 +8,8 @@ The marches and demonstrations last weekend had more to do with people not getti
  
 Steve Bianchi 
  
-Warwick</content> 
-<sequenceId type="str">695195706667</sequenceId> 
-<topics type="list"> 
+Warwick</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">US regional</group> 
 <name type="str">Providence news</name> 
@@ -23,7 +22,8 @@ Warwick</content>
 <group type="str">Society</group> 
 <name type="str">Political unrest news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:01:00Z</estimatedPublishedDate> 
-<title type="str">Steve Bianchi: Protesters need to stop and take deep breath</title> 
+</TOPICS> 
+<DOCID type="str">695195706667</DOCID> 
+<DCT type="str">2017-01-29T07:01:00Z</DCT> 
+<TITLE type="str">Steve Bianchi: Protesters need to stop and take deep breath</TITLE> 
 </root>

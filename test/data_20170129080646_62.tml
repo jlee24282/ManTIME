@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">, 6:02 pm 
+<TEXT type="str">, 6:02 pm 
    
 Just hours out from arguably the biggest match of his career, Roger Federer gifted Omar Jasika an opportunity the young Aussie will never forget. 
  
@@ -28,9 +28,8 @@ Nadal, chasing his 15th slam, is hoping to crown his own comeback from an injury
 
 Watch the Australian Open LIVE on the screens of Seven including the 7Tennis App and PLUS7 . 
 
-with AAP</content> 
-<sequenceId type="str">695194270199</sequenceId> 
-<topics type="list"> 
+with AAP</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Sports</group> 
 <name type="str">Sports: latest</name> 
@@ -39,7 +38,8 @@ with AAP</content>
 <group type="str">Sports</group> 
 <name type="str">Sports: tennis news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T07:02:44Z</estimatedPublishedDate> 
-<title type="str">Federer&apos;s incredible gesture for Aussie teenager (7Sport)</title> 
+</TOPICS> 
+<DOCID type="str">695194270199</DOCID> 
+<DCT type="str">2017-01-29T07:02:44Z</DCT> 
+<TITLE type="str">Federer&apos;s incredible gesture for Aussie teenager (7Sport)</TITLE> 
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">Raising their voices once again, this time against the Muslim ban, stars like Mark Ruffalo, Mark Hamill, Ava DuVernay, Michael Moore, Miley Cyrus, Chrissy Teigen and others spoke about controversial anti-Muslim immigration ban in the US. 
+<TEXT type="str">Raising their voices once again, this time against the Muslim ban, stars like Mark Ruffalo, Mark Hamill, Ava DuVernay, Michael Moore, Miley Cyrus, Chrissy Teigen and others spoke about controversial anti-Muslim immigration ban in the US. 
  
 US President Donald Trump signed an executive order on Friday afternoon to suspend the entry of refugees to the US for 120 days and imposed an indefinite ban on refugees from Syria. A 90-day ban was also placed on citizens of seven predominantly Muslim countries: Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen. 
  
@@ -97,9 +97,8 @@ My best friend, Alaa Mohammad Khaled, is Muslim. His parents were Palestinian re
    
 Article Images:  
    
-(L-R) Ava DuVernay, Mark Hamill, Patricia Arquette</content> 
-<sequenceId type="str">695204410243</sequenceId> 
-<topics type="list"> 
+(L-R) Ava DuVernay, Mark Hamill, Patricia Arquette</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Regional</group> 
 <name type="str">Pakistan news</name> 
@@ -120,7 +119,8 @@ Article Images: 
 <group type="str">Society</group> 
 <name type="str">Religion news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:12:48Z</estimatedPublishedDate> 
-<title type="str">US Muslim Ban: Mark Hamill, Ava DuVernay, Miley Cyrus, The Academy, other celebs blast Trump</title> 
+</TOPICS> 
+<DOCID type="str">695204410243</DOCID> 
+<DCT type="str">2017-01-29T08:12:48Z</DCT> 
+<TITLE type="str">US Muslim Ban: Mark Hamill, Ava DuVernay, Miley Cyrus, The Academy, other celebs blast Trump</TITLE> 
 </root>

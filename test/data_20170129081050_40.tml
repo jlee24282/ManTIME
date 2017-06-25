@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">The Sundance Film Festival[1] wrapped with awards for “I don’t feel at home in this world anymore.” and “Dina,” the grand jury winners in the U.S. dramatic and documentary competitions. The directorial debut of Macon Blair, “I don’t feel at home…” announces a bold new writing-directing talent best known as an actor in such films as “Blue Ruin” and “Green Room.” With its mouthful title and roller coaster vibe, the loony thriller stars Melanie Lynskey as a mild-mannered woman who refuses to let...</content> 
-<sequenceId type="str">695203253654</sequenceId> 
-<topics type="list"> 
+<TEXT type="str">The Sundance Film Festival[1] wrapped with awards for “I don’t feel at home in this world anymore.” and “Dina,” the grand jury winners in the U.S. dramatic and documentary competitions. The directorial debut of Macon Blair, “I don’t feel at home…” announces a bold new writing-directing talent best known as an actor in such films as “Blue Ruin” and “Green Room.” With its mouthful title and roller coaster vibe, the loony thriller stars Melanie Lynskey as a mild-mannered woman who refuses to let...</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: latest</name> 
@@ -11,7 +10,8 @@
 <group type="str">Entertainment</group> 
 <name type="str">Entertainment: fine arts news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T02:30:25Z</estimatedPublishedDate> 
-<title type="str">Sundance Film Festival Announces 2017 Winners</title> 
+</TOPICS> 
+<DOCID type="str">695203253654</DOCID> 
+<DCT type="str">2017-01-29T02:30:25Z</DCT> 
+<TITLE type="str">Sundance Film Festival Announces 2017 Winners</TITLE> 
 </root>

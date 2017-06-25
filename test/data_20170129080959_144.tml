@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <root> 
-<content type="str">A US judge has issued a stay temporarily halting the deportation of visa holders or refugees under an executive order from President Trump. 
+<TEXT type="str">A US judge has issued a stay temporarily halting the deportation of visa holders or refugees under an executive order from President Trump. 
  
 The American Civil Liberties Union (ACLU) filed a legal case early on Saturday in response to the order. 
  
@@ -59,9 +59,8 @@ Dutch airline KLM said it had turned away seven people who were booked on to its
 The restriction applies to dual nationals - so, for example, a British citizen who is also a citizen of Iran would not be able to enter the US. 
  
 Published: 29-01-2017 13:17 
- The Kathmandu Post  › World  › Bbc</content> 
-<sequenceId type="str">695201705714</sequenceId> 
-<topics type="list"> 
+ The Kathmandu Post  › World  › Bbc</TEXT> 
+<TOPICS type="list"> 
 <item type="dict"> 
 <group type="str">Society</group> 
 <name type="str">Society news</name> 
@@ -78,7 +77,8 @@ Published: 29-01-2017 13:17
 <group type="str">Regional</group> 
 <name type="str">Middle East news</name> 
 </item> 
-</topics> 
-<estimatedPublishedDate type="str">2017-01-29T08:08:19Z</estimatedPublishedDate> 
-<title type="str">Trump executive order: US judge temporarily halts deportations</title> 
+</TOPICS> 
+<DOCID type="str">695201705714</DOCID> 
+<DCT type="str">2017-01-29T08:08:19Z</DCT> 
+<TITLE type="str">Trump executive order: US judge temporarily halts deportations</TITLE> 
 </root>
