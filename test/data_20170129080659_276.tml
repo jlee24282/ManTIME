@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">Resend Email Verification 
+
+Sorry we could not verify that email address. Enter your email below and we&apos;ll send you another email. 
+
+{* #resendVerificationForm *} {* traditionalSignIn_emailAddress *} 
+
+{* submitButton *} 
+
+{* /resendVerificationForm *}</content> 
+<sequenceId type="str">695194810011</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Society</group> 
+<name type="str">Society news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">US news</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T07:18:22Z</estimatedPublishedDate> 
+<title type="str">News US judge bars deportations under Trump travel ban</title> 
+</root>

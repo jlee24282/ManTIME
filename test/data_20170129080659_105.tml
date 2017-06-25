@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">I have a entity-component-based game engine.   
+ 
+There are many systems, e.g. System_A , System_B ,... all derived from SystemDefault . 
+ 
+If I want to use custom memory allocator, how can I used it in a real game?   
+ 
+  
+ 
+Question 1: Where is the field &quot;allocator&quot;, how many of them? 
+ 
+Solution 1A :  Store it in a top header.   There might be 3 types: stack, one frame, and heap. 
+ 
+Disadvantage: 
+ 
+Many systems will tend to use the share allocator, thus this solution may not give much advantage about cache coherence. 
+ 
+  
+ 
+Solution 1B  :  Store it in each and every System.  (1-3 allocator per System) 
+ 
+The most appropriate way for a big game is adding a field &quot;memory pool&quot; for SystemDefault . 
+ 
+Disadvantage: 
+ 
+Not all memory-allocation demand is in System_xxx.  
+ 
+For example :- 
+ Some AI or physic engines use its own architecture that is not component-entity.      Some custom datastructure may contain another small datastructure.  For these cases, how should allocator be passed?  
+Solution 1C  : Store it in each and every &quot;Allocator holder&quot; 
+ 
+Make every class that want to allocate some memory derived from a certain class AllocatorHolder. 
+ 
+Disadvantage:  crazy? 
+ 
+  
+ 
+Question 2: How to enforce a code to use a certain allocator? 
+ 
+Solution 2A : Use allocator of the system that contains the code. 
+ 
+Disadvantage: There is a call like :- 
+ 
+  
+ 
+//System_A  or System_B 
+ 
+fA () or fB () { 
+ 
+    loop {    
+ 
+        array = System_C :: doSomething () ; 
+ 
+    } 
+ 
+} 
+ 
+  
+ 
+I don&apos;t think it is good - System_C::doSomething should use allocator of A, and B for each situation.  (right?) 
+ 
+That is C should aware what class is using it - not just blindly use its own C allocator. 
+ 
+  
+ 
+Solution 2B : Passing allocator when calling every function. 
+ 
+Now the calling will be :- 
+ 
+  
+ 
+//System_A  or System_B 
+ 
+fA () or fB () { 
+ 
+    loop {    
+ 
+        array = System_C :: doSomething (this) ;  //or this-&gt;stack_allocator or this-&gt;oneFrame_allocator, etc. 
+ 
+    } 
+ 
+         } 
+ 
+  
+ 
+Disadvantage : Now, every function practically should have allocator as a parameter - ugly. 
+ 
+  
+ 
+Question 3: How to initialize datastructure? 
+ 
+In my old code it is easy like this:- 
+ //inside SystemA
+    fA(){
+         MyArray ts;
+    }  
+Should I have to make it more harder like (applicable for 1A 1B or 1C):- 
+ //inside SystemA
+    fA(){
+         MyArray ts;
+         ts.setAllocator(this-&gt;stackAllocator);  
+    }  
+or (1A only) 
+ //inside SystemA   
+    fA(){
+         MyArray ts;
+    }  
+------------------------------------------------------ 
+ 
+  
+ 
+There are a lot of memory pool resources in the internet, but none mention how to use it in practice. 
+ 
+Here is what I read:- 
+ Are we out of memory?                   (a popular article)  C++: Custom memory allocation    (very long, provide usable code)</content> 
+<sequenceId type="str">695194706242</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Entertainment</group> 
+<name type="str">Entertainment: video game news</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T07:14:04Z</estimatedPublishedDate> 
+<title type="str">Apply memory management &quot;Alloc()&quot; in **real** practice</title> 
+</root>

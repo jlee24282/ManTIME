@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">IDW20100 
+ 
+Australian Government Bureau of Meteorology 
+Western Australia 
+ Marine Wind Warning Summary for Western Australia  
+Issued at 4:00 pm WST on Sunday 29 January 2017 
+for the period until midnight WST Monday 30 January 2017. 
+ Wind Warnings for Sunday 29 January  
+Strong Wind Warning for the following areas: 
+Perth Local Waters, Geraldton Coast, Lancelin Coast, Perth Coast, Bunbury Geographe Coast and Leeuwin Coast 
+ Wind Warnings for Monday 30 January  
+Strong Wind Warning for the following areas: 
+Bunbury Geographe Coast and Leeuwin Coast 
+ 
+The next marine wind warning summary will be issued by 4:00 am WST Monday. 
+ 
+Check the latest Coastal Waters Forecast or Local Waters Forecast for information on wind, wave and weather conditions for these coastal zones.</content> 
+<sequenceId type="str">695201340372</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Science</group> 
+<name type="str">Weather news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">Oceania latest</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">Australia news</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T08:00:23Z</estimatedPublishedDate> 
+<title type="str">29/16:00 WST Marine Wind Warning Summary for Western Australia</title> 
+</root>

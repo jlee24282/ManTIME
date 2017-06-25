@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">President Donald Trump is arguably Twitter&apos;s most prominent user. But, as many outlets have reported over the past couple of days, the people operating his administration&apos;s Twitter accounts may not be using all their security options to the fullest. As CNN reported, a hacker specifically wrote to the president with tips on how to lock hackers out of his official Twitter account. 
+ 
+Although your own Twitter account may not be as sought-after as the president&apos;s, the hubbub over the security of the White House&apos;s accounts is a good reminder for all Twitter users to take a spin through their settings. Below are some tips. 
+ 
+• Require personal information to reset your password: This is the main tip that hacker WauchulaGhost recommended to the Trump Twitter team. It&apos;s also a tip that Twitter itself recommends in every password reset email. In Twitter settings, there&apos;s an option to require someone to put in a phone number or email address before they see your redacted password. 
+ 
+• Verify your log-in requests: Look at the accompanying screenshot, and you&apos;ll see an option to &quot;verify login requests,&quot; which is Twitter&apos;s way of trying to de-jargonize the phrase &quot;two-factor authentication.&quot; Using two-factor authentication means signing in with a special code in addition to your password. The code can come via text, a login notification on your phone or by using an authentication mobile app that will automatically generate codes for you. Doing any of those things makes your account harder to hack, since it requires someone to both know your password and have access to your phone or text messages. 
+ 
+Yes, it&apos;s a bit of a pain, but it&apos;s worth it. 
+ 
+Also, if you receive your codes by text, don&apos;t reply to them. As my colleague Abby Ohlheiser reported, doing so will post whatever you reply straight to Twitter. Some theorize that this is how White House press secretary Sean Spicer ended up sending two apparently nonsensical eight-letter strings to his account two days in a row -- though the White House&apos;s official response is that both messages were a &quot;pocket tweet.&quot; 
+ 
+• Use an email address that doesn&apos;t have your name attached to it: If you really don&apos;t want to use two-factor authentication, then do your best to register your Twitter account using an email address that isn&apos;t easy to guess. Why? If someone is trying to hack into your Twitter account, the first thing they&apos;ll probably do is try to figure out your email address, via the &quot;Forgot Password?&quot; link that shows a redacted version of your email address. 
+ 
+If your name is John Doe and your email address shows up as jd***@gmail.com, it&apos;s probably going to be pretty easy for a hacker to fill in the blanks. In fact, that&apos;s exactly what WauchulaGhost did with the @VP account. Per the CNN report: He said the email associated with Vice President Mike Pence was easy to guess once you saw the redacted version: vi***************@gmail.com, which WauchulaGhost pieced together as vicepresident2017@gmail.com. 
+ 
+--- 
+ 
+The @VP account is no longer linked to a Gmail account. Nor is the @POTUS Twitter account, which was also tied to a personal Gmail account -- an address the Hill and others say appears to have belonged to White House director of social media Dan Scavino. That&apos;s not illegal -- though many companies and agencies have policies against using personal accounts for professional Twitter accounts. It&apos;s also arguably pretty insecure, depending on the security settings enabled on Gmail. 
+ 
+Since that news broke, the account has been changed to link to two different accounts, which appear to have the government &quot;who.eop.gov&quot; domain. As of time of writing, it still did not have the personal information requirement enabled. 
+ 
+This tip won&apos;t always work, though. If you -- like many politicians and journalists -- must use a work account for Twitter to be verified, then that will generally make it pretty easy to figure out your address. In that case, two-factor is the way to go.</content> 
+<sequenceId type="str">695202718816</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Internet</group> 
+<name type="str">Internet latest</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Internet</group> 
+<name type="str">Blogging news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Business</group> 
+<name type="str">Business latest</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T08:16:00Z</estimatedPublishedDate> 
+<title type="str">Twitter security tips we can learn from the Trump administration</title> 
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">Published on  : 
+  
+Comment 
+    Latest news        
+Palinfo.com -جميع الحقوق محفوظة - المركز الفلسطيني للإعلام - © 2015 
+   
+     
+{{if type== &quot;link&quot;}} ${name} 
+${caption} ${description} {{/if}} 
+${created_time}·{{if comments}}${comments.count}Comment{{if comments.count&gt;1}}s{{/if}}{{else}}0 Comments{{/if}}·{{if likes}}${likes.count}Like{{if likes.count&gt;1}}s{{/if}}{{else}}0 Likes{{/if}}</content> 
+<sequenceId type="str">695200141492</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">Central America news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">Israel news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">Mexico news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">Middle East news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">Palestinian territories news</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T07:52:35Z</estimatedPublishedDate> 
+<title type="str">Mexico lashes out at Netanyahu over pro-Trump wall tweet</title> 
+</root>

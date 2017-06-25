@@ -20,12 +20,6 @@ HOME = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 
 LANGUAGE = 'english'
 
-"""
-PATH_CRF_PP_ENGINE_TEST = os.path.abspath(os.environ['crf_test'])
-PATH_CRF_PP_ENGINE_TRAIN = os.path.abspath(os.environ['CRF_LEARN'])
-PATH_CORENLP_FOLDER = os.path.abspath(os.environ['MANTIME_CORENLP_FOLDER'])
-"""
-
 PATH_CRF_PP_ENGINE_TEST = os.path.abspath('/Users/JLee/Documents/workspace/ManTIME/CRF++/crf_test')
 PATH_CRF_PP_ENGINE_TRAIN = os.path.abspath('/Users/JLee/Documents/workspace/ManTIME/CRF++/crf_learn')
 PATH_CORENLP_FOLDER = os.path.abspath('/Users/JLee/PycharmProjects/ManTIME/corenlp-python/stanford-corenlp/')

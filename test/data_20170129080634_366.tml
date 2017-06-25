@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">function onPlayerReadyVidible(e){&apos;undefined&apos;!=typeof HPTrack&amp;&amp;HPTrack.Vid.Vidible_track(e)}!function(e,i){if(e.vdb_Player){if(&apos;object&apos;==typeof commercial_video){var a=&apos;&apos;,o=&apos;m.fwsitesection=&apos;+commercial_video.site_and_category;if(a+=o,commercial_video[&apos;package&apos;]){var c=&apos;&amp;m.fwkeyvalues=sponsorship%3D&apos;+commercial_video[&apos;package&apos;];a+=c}e.setAttribute(&apos;vdb_params&apos;,a)}i(e.vdb_Player)}else{var t=arguments.callee</content> 
+<sequenceId type="str">695194179276</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Society</group> 
+<name type="str">Society news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Society</group> 
+<name type="str">US immigration news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Regional</group> 
+<name type="str">US news</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T05:59:11Z</estimatedPublishedDate> 
+<title type="str">Americans Are Using #WeTooAreAmerica To Share Their Immigration Stories</title> 
+</root>

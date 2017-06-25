@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">A team of scientists has used artificial intelligence (AI) to gain insight into the biophysics of cancer with their machine-learning platform predicting a trio of reagents that generated a cancer-like phenotype in tadpoles. 
+ 
+The research, reported in journal Scientific Reports, showed that during these extensive experiments, the biologists observed that all the melanocytes -- a mature melanin-forming cell -- in a single frog larva either converted to the cancer-like form or remained completely normal. 
+ 
+In their study, the researchers asked their AI-derived model to answer the question of how to achieve partial melanocyte conversion within the same animal using one or more interventions. 
+ 
+&quot;We wanted to see if we could break the concordance among cells, which would help us understand how cells make group decisions and determine complex body-wide outcomes,&quot; said Tufts University&apos;s Michael Levin, who is the paper&apos;s corresponding author. 
+ 
+The AI model ultimately predicted that a precise combination of three reagents -- altanserin, a 5HTR2 inhibitor; reserpine, a VMAT inhibitor, and VP16-XlCreb1, mRNA encoding constitutively active CREB -- would achieve that outcome. 
+ 
+The team used the AI-discovered model to run 576 virtual experiments. The last try gave one precise combination of three drugs predicting partial melanocyte conversion. 
+ 
+&quot;Our system predicted a three-component treatment, which we had never have come up with on our own, that achieved the exact outcome we wanted, and which we had not seen before in years of diverse experiments,&quot; Levin added. 
+ 
+&quot;Such approaches are a key step for regenerative medicine, where a major obstacle is the fact that it is usually very hard to know how to manipulate the complex networks discovered by bioinformatics and wet lab experiments in such a way as to reach a desired therapeutic outcome,&quot; Levin noted. 
+ 
+He said that the team now wanted to do something different -- cure a disease, control cell behaviour and regenerate tissue. 
+ </content> 
+<sequenceId type="str">695204656861</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Science</group> 
+<name type="str">Cancer news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Science</group> 
+<name type="str">Medical news</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T08:31:03Z</estimatedPublishedDate> 
+<title type="str">AI helps scientists gain insight into cancer biophysics</title> 
+</root>

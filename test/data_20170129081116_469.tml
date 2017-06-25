@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root> 
+<content type="str">| | Sunday, January 29, 2017 | JewishPress.com    $gJD = gregoriantojd(date(&apos;n&apos;),date(&apos;j&apos;),date(&apos;Y&apos;));
+list($hebrewMonth, $hebrewDay, $hebrewYear) = split(&apos;/&apos;,jdtojewish($gJD)); 
+$hebrewdate = &quot;$hebrewDay &quot;.jdmonthname( $gJD,4 ).&quot;, $hebrewYear&quot;; 
+$hebrewdate = preg_replace(&apos;/Adar/&apos;,&apos;Adar &apos;,$hebrewdate);
+$hebrewdate = preg_replace(&apos;/Iyyar/&apos;,&apos;Iyar&apos;,$hebrewdate);
+?&gt;  
+January 29, 2017 / 2 Shevat, 5777 
+   
+News &amp; Views 
+    
+click for 
+eEdition 
+  
+Sponsored Post 
+    
+Printed from: http://www.jewishpress.com/news/breaking-news/federal-judge-stays-trump-deportations-airport-protests-erupt/2017/01/29/ 
+ 
+Scan this QR code to visit this page online</content> 
+<sequenceId type="str">695204548083</sequenceId> 
+<topics type="list"> 
+<item type="dict"> 
+<group type="str">Industry</group> 
+<name type="str">Airline industry news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Society</group> 
+<name type="str">Society news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Society</group> 
+<name type="str">Political unrest news</name> 
+</item> 
+<item type="dict"> 
+<group type="str">Society</group> 
+<name type="str">US Federal Government news</name> 
+</item> 
+</topics> 
+<estimatedPublishedDate type="str">2017-01-29T08:06:16Z</estimatedPublishedDate> 
+<title type="str">Federal Judge Stays Trump Deportations, Airport Protests Erupt</title> 
+</root>
