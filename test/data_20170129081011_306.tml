@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">an 29 : Prime Minister Narendra Modi on Sunday addressed his monthly radio broadcast &apos;Mann Ki Baat&apos; where he urged students to celebrate exams as festivals while not taking pressure. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202378928</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Exams should be celebrated as festivals: PM Modi tells students</TITLE>
+<TEXT>an 29 : Prime Minister Narendra Modi on Sunday addressed his monthly radio broadcast 'Mann Ki Baat' where he urged students to celebrate exams as festivals while not taking pressure. 
  
 PM Modi dedicated Sundays Mann Ki Baat to students who are appearing for board exams this year. 
 
@@ -18,18 +21,5 @@ Only studying for marks will lead to shortcuts and one will limit himself or her
 
 The PM said it it important to compete with oneself not with others. 
 
-Look at the life of Sachin Tendulkar. He kept challenging himself and bettered his own records. That is what is inspiring. Competing with others can make you unhappy and jealous. Complete with yourself and you will be energised more determined to excel, said Modi.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202378928</DOCID> 
-<DCT type="str">2017-01-29T08:05:56Z</DCT> 
-<TITLE type="str">Exams should be celebrated as festivals: PM Modi tells students</TITLE> 
-</root>
+Look at the life of Sachin Tendulkar. He kept challenging himself and bettered his own records. That is what is inspiring. Competing with others can make you unhappy and jealous. Complete with yourself and you will be energised more determined to excel, said Modi.</TEXT>
+</TimeML>

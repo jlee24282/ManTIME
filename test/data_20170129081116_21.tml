@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A new PvP Scene, a new Siege Map, and a wealth of new items and refinements make up Shroud of the Avatar Release 38&apos;s content.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204235408</DOCID> 
-<DCT type="str">2017-01-29T08:23:18Z</DCT> 
-<TITLE type="str">Shroud of the Avatar Release 38 Adds Polish, PvP Zone and More</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204235408</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Shroud of the Avatar Release 38 Adds Polish, PvP Zone and More</TITLE>
+<TEXT>A new PvP Scene, a new Siege Map, and a wealth of new items and refinements make up Shroud of the Avatar Release 38's content.</TEXT>
+</TimeML>

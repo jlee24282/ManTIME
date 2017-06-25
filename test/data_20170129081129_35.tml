@@ -1,31 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Keeping farm activities in mind, the India Meteorological Department (IMD) has decided to set up weather stations in 660 districts of the country, a plan which will be further taken up to the blocks level. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204635356</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>IMD to set up weather stations in 660 districts</TITLE>
+<TEXT>Keeping farm activities in mind, the India Meteorological Department (IMD) has decided to set up weather stations in 660 districts of the country, a plan which will be further taken up to the blocks level. 
 
 In the first phase, the IMD plans to set up the system in 130 districts which have already been shortlisted. 
 
 The IMD has also tied up with the Ministry of Agriculture to use the Krishi Vigyan Kendras (KVKs), under the Indian Council of Agricultural Research (ICAR) in the districts, to use them as weather forecasting observatories. 
 
-Weather forecasts will be issued four days a week between Monday to Thursday. 
+Weather forecasts will be issued four days a week betweenMondaytoThursday. 
 
-&quot;We have weather forecasting system in 130 districts which gives predictions for a cluster of neighbouring districts. This will now be diversified and every district will have its own weather forecast. 
+"We have weather forecasting system in 130 districts which gives predictions for a cluster of neighbouring districts. This will now be diversified and every district will have its own weather forecast. 
 
-&quot;The KVKs have a good mix of scientists with an expertise on different aspects of agriculture. Among them, someone will be made as an in-charge scientist. Plus, we will also make monetary arrangement for a scientific officer and a technical assistant,&quot; IMD Director General K J Ramesh said. 
+"The KVKs have a good mix of scientists with an expertise on different aspects of agriculture. Among them, someone will be made as an in-charge scientist. Plus, we will also make monetary arrangement for a scientific officer and a technical assistant," IMD Director General K J Ramesh said. 
 
-Ramesh added that this will further percolate at the block level, with the MET department giving predictions, keeping the rain-fed and non-rain-fed areas into consideration to give &quot;crop specific advisories&quot;. 
+Ramesh added that this will further percolate at the block level, with the MET department giving predictions, keeping the rain-fed and non-rain-fed areas into consideration to give "crop specific advisories". 
 
 Every centre in a district will cost nearly Rs 10 lakh for salary and upkeep of infrastructure. Apart from it, the IMD will also spend Rs 3-4 lakh for setting up automatic weather stations which can measure temperature, wind velocity humidity and rains. 
 
-&quot;We plan to cover 660 districts by 2019,&quot; Ramesh added. 
+"We plan to cover 660 districts by 2019," Ramesh added. 
 
-&quot;As and when district units are made functional at Krishi Vigyan Kendras (KVKs) in gradual manner, issue of advisories to those very districts will begin,&quot; he added. 
+"As and when district units are made functional at Krishi Vigyan Kendras (KVKs) in gradual manner, issue of advisories to those very districts will begin," he added. 
 
 The IMD will also start giving state-specific weather forecasts from this year. 
 
-It currently gives region-specific weather forecasts namely for the southern peninsula, northwest, central and northeast regions during monsoons.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204635356</DOCID> 
-<DCT type="str">2017-01-29T08:30:56Z</DCT> 
-<TITLE type="str">IMD to set up weather stations in 660 districts</TITLE> 
-</root>
+It currently gives region-specific weather forecasts namely for the southern peninsula, northwest, central and northeast regions during monsoons.</TEXT>
+</TimeML>

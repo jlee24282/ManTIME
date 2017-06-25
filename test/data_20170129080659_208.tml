@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Palestinian media reported on Sunday morning that a 19-year-old Palestinian man was killed by IDF fire during clashes in a West Bank refugee camp. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194755625</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>19-year-old Killed by IDF in West Bank Refugee Camp, Palestinian Media Reports</TITLE>
+<TEXT>Palestinian media reported on Sunday morning that a 19-year-old Palestinian man was killed by IDF fire during clashes in a West Bank refugee camp. 
 
                                                                                          
                 
@@ -20,27 +23,10 @@ A local resident, Mohammed Mahmoud Abu Khalifa, was wounded by a live bullet to 
                                                                                          
                 
                                                                                                                                                                                                                                                                                  
-The IDF responded that pipe bombs were thrown at soldiers during their operation in the refugee camp. As a result, it said, the soldiers responded by firing at the residents, some of whom were hit.   
+The IDF responded that pipe bombs were thrown at soldiers during their operation in the refugee camp. As a result, it said, the soldiers responded by firing at the residents, some of whom were hit.  
 
                                                                                          
                 
                                                                                                                                                                                                                                                                                  
-About two weeks ago, a 17-year-old Palestinian was killed by Border Patrol fire during clashes near the Palestinian town of Tuqu near Bethlehem. Last week, the Israel Police and the Justice Ministry’s department for the investigation of police officers opened an investigation into the death of the youth , Qusai al-Amour, who was documented being dragged away from the scene by the security forces.  </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Palestinian territories news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Israel news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194755625</DOCID> 
-<DCT type="str">2017-01-29T07:17:51Z</DCT> 
-<TITLE type="str">19-year-old Killed by IDF in West Bank Refugee Camp, Palestinian Media Reports</TITLE> 
-</root>
+About two weeks ago, a 17-year-old Palestinian was killed by Border Patrol fire during clashes near the Palestinian town of Tuqu near Bethlehem. Last week, the Israel Police and the Justice Ministrys department for the investigation of police officers opened an investigation into the death of the youth , Qusai al-Amour, who was documented being dragged away from the scene by the security forces. </TEXT>
+</TimeML>

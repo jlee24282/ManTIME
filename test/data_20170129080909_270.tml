@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">This video has been age-restricted based on our Community Guidelines  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199980533</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>"Smelling Pub , music, noises, humor, message sexy..."</TITLE>
+<TEXT>This video has been age-restricted based on our Community Guidelines  
 Dailymotion understands that some content may not be appropriate for all users. 
 We provide an age gate so that you can block certain inappropriate content. 
 Turning OFF the Age Gate may display content that is only suitable for viewers over 18 years of age. 
 
-Click the button below if you are over 18 and would like to turn OFF the Age Gate.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199980533</DOCID> 
-<DCT type="str">2017-01-29T07:29:45Z</DCT> 
-<TITLE type="str">&quot;Smelling Pub , music, noises, humor, message sexy...&quot;</TITLE> 
-</root>
+Click the button below if you are over 18 and would like to turn OFF the Age Gate.</TEXT>
+</TimeML>

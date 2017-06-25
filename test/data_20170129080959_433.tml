@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The comedian posted this photo via his page, which got some of his fans worried. I’m guessing it’s a movie or…? 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202002063</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>AY Says He Was Shot In South Africa Over Nothing</TITLE>
+<TEXT>The comedian posted this photo via his page, which got some of his fans worried. Im guessing its a movie or? 
  
 
  
@@ -17,7 +20,7 @@ Upvotes percentage: 0.000000%
 Downvotes: 0 
  
 Downvotes percentage: 0.000000% 
-     Don&apos;t Miss     
+     Don't Miss     
 Hot  Popular 
   
 by  Zack  November 20, 2016, 9:04 pm 
@@ -36,18 +39,5 @@ by  Zack  November 16, 2016, 3:23 pm
      
 Hot 
   
-by  jane  December 25, 2016, 6</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">South Africa news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202002063</DOCID> 
-<DCT type="str">2017-01-29T08:06:39Z</DCT> 
-<TITLE type="str">AY Says He Was Shot In South Africa Over Nothing</TITLE> 
-</root>
+by  jane  December 25, 2016, 6</TEXT>
+</TimeML>

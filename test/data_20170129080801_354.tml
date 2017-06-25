@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Some Guy Painted Over Graffiti With More Legible Fonts  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197257134</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>The 7 Worst Types Of Movies To Watch With Your Parents</TITLE>
+<TEXT>Some Guy Painted Over Graffiti With More Legible Fonts  
    
  5 Ways Parties Change As You Get Older - CollegeHumor  
    
@@ -8,20 +11,7 @@
    
  15 Boob Tricks As Incredible As They Are Sexy  
    
- 8 Stupid Comics That&apos;ll Give You a Chuckle  
+ 8 Stupid Comics That'll Give You a Chuckle  
    
- If Porn Sites Were Actually Realistic - CollegeHumor</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197257134</DOCID> 
-<DCT type="str">2017-01-29T07:35:53Z</DCT> 
-<TITLE type="str">The 7 Worst Types Of Movies To Watch With Your Parents</TITLE> 
-</root>
+ If Porn Sites Were Actually Realistic - CollegeHumor</TEXT>
+</TimeML>

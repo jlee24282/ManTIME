@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Protests take place in some airports in the US over President Trump&apos;s executive order on immigration.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Airline industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194200354</DOCID> 
-<DCT type="str">2017-01-29T06:00:21Z</DCT> 
-<TITLE type="str">Trump executive order: Calls of &apos;let them in&apos; at airport protests</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194200354</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump executive order: Calls of 'let them in' at airport protests</TITLE>
+<TEXT>Protests take place in some airports in the US over President Trump's executive order on immigration.</TEXT>
+</TimeML>

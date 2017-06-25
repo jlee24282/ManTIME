@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">What a better way to celebrate Valentine’s day than to display your love at your fingertips! 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203147885</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Valentines Nail Art From MARS The Salon</TITLE>
+<TEXT>What a better way to celebrate Valentines day than to display your love at your fingertips! 
  
-In honor of Valentine’s day, the team from  MARS The Salon , Hollywood ’s go-to nail salon, has put together the “ Lots of Love ” nail design. 
+In honor of Valentines day, the team from MARS The Salon , Hollywood s go-to nail salon, has put together the  Lots of Love  nail design. 
  
 Featuring a pink heart drawn on top of a bright red base, this is the quintessential sign for this annual day of love. 
  
@@ -15,14 +18,5 @@ www.mars-salon.com
  
 3.Using a precision art brush, fill in the inside of the heard shape with the light pink polish. 
  
-4.Finish your manicure with a clear top coat to seal and add shine.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: fine arts news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203147885</DOCID> 
-<DCT type="str">2017-01-29T06:20:08Z</DCT> 
-<TITLE type="str">Valentine’s Nail Art From MARS The Salon</TITLE> 
-</root>
+4.Finish your manicure with a clear top coat to seal and add shine.</TEXT>
+</TimeML>

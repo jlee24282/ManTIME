@@ -1,27 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">David Beckham says young players at Manchester United were forced to perform &quot;a funny dance&quot; in front of senior professionals as a punishment for stepping out of line. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196242742</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>David Beckham says young players had to dance as punishment at Man United</TITLE>
+<TEXT>David Beckham says young players at Manchester United were forced to perform "a funny dance" in front of senior professionals as a punishment for stepping out of line. 
  
-The former England captain was</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Manchester United news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: Premier League news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196242742</DOCID> 
-<DCT type="str">2017-01-29T02:52:10Z</DCT> 
-<TITLE type="str">David Beckham says young players had to dance as punishment at Man United</TITLE> 
-</root>
+The former England captain was</TEXT>
+</TimeML>

@@ -1,25 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">I am not a teacher, related to a teacher, nor do I have children in school.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194815271</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Letter to the editor: Schools have no incentives to save money</TITLE>
+<TEXT>I am not a teacher, related to a teacher, nor do I have children in school.
 
-I could not believe that Tulsa Public Schools Superintendent Deborah Gist said, when hiring six-figure support staff to work in her office, such salaries were needed to “be competitive.&quot;
+I could not believe that Tulsa Public Schools Superintendent Deborah Gist said, when hiring six-figure support staff to work in her office, such salaries were needed to be competitive."
 
-Posted in Letters on Sunday, Ja</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194815271</DOCID> 
-<DCT type="str">2017-01-29T06:00:00Z</DCT> 
-<TITLE type="str">Letter to the editor: Schools have no incentives to save money</TITLE> 
-</root>
+Posted in Letters on Sunday, Ja</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Improving cocoa yields for the chocolate industry, estimating the quality of meat in pigs and refining the design of a hydroponics system, were three farming challenges tackled by academics at a recent workshop hosted by the University of Bath&apos;s Institute for Mathematical Innovation (IMI). 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195387393</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Pigs and chocolate: Using math to solve problems in farming</TITLE>
+<TEXT>Improving cocoa yields for the chocolate industry, estimating the quality of meat in pigs and refining the design of a hydroponics system, were three farming challenges tackled by academics at a recent workshop hosted by the University of Bath's Institute for Mathematical Innovation (IMI). 
  
 The Agri-Food Study Group brought together over 40 mathematicians, engineers and computer scientists to work on challenges presented by representatives from the Agri-Food sector over the course of three days. The Study Group, which ran from 16-18 January 2017, was organised by the IMI and the Knowledge Transfer Network (KTN), and sponsored by Innovate UK. 
  
@@ -10,19 +13,19 @@ Cocoa yields can vary hugely from year to year depending on climate conditions, 
  
 Being able to model the potential variation in yields would enable Mondelez to offer targeted advice to smallholder farmers on how to improve their yields, and help secure the development of sustainable farming communities. 
  
-Dr Eamon Haughy, Statistician and Data Analyst, Mondelez International, said: &quot;This workshop was a fantastic opportunity to engage with a diverse group of applied mathematicians. Participants got really involved with the problem presented and generated innovative ideas on how to deal with the effects of climate on cocoa yield variation. This work has the potential to make a real difference to the lives of cocoa farmers.&quot; 
+Dr Eamon Haughy, Statistician and Data Analyst, Mondelez International, said: "This workshop was a fantastic opportunity to engage with a diverse group of applied mathematicians. Participants got really involved with the problem presented and generated innovative ideas on how to deal with the effects of climate on cocoa yield variation. This work has the potential to make a real difference to the lives of cocoa farmers." 
  
-Modelling the &quot;Full value pig&quot; 
-Agricultural software developers Innovent Technology posed the challenge of developing a model for the &quot;full value pig&quot;, the theoretical maximum value of a pig based on the weight of the animal and quality of its meat. 
+Modelling the "Full value pig" 
+Agricultural software developers Innovent Technology posed the challenge of developing a model for the "full value pig", the theoretical maximum value of a pig based on the weight of the animal and quality of its meat. 
  
 Abattoirs pay farmers for meat depending on the dead weight and fat content of each animal, penalising farmers for animals that are too large, small or fat. Each abattoir has its own set of target values depending on where in the world the meat is to be sold. 
  
-Innovent therefore would like to develop a mathematical model that would allow a producer to identify which pigs would attain the best return on investment based on the abattoir contracts available, and to provide tailored information on how best to optimise their farming practises to achieve the &quot;full value pig&quot;. 
+Innovent therefore would like to develop a mathematical model that would allow a producer to identify which pigs would attain the best return on investment based on the abattoir contracts available, and to provide tailored information on how best to optimise their farming practises to achieve the "full value pig". 
  
-&quot;Taking part in the study group was a really positive experience. I found it a fun, fascinating process and it certainly has opened my eyes to the opportunities offered by applied mathematics to agriculture. Thanks to everyone for their hard work; hopefully we can find a way to continue this interaction in the near future,&quot; said Willie Thomson, Director, Innovent Technologies. 
+"Taking part in the study group was a really positive experience. I found it a fun, fascinating process and it certainly has opened my eyes to the opportunities offered by applied mathematics to agriculture. Thanks to everyone for their hard work; hopefully we can find a way to continue this interaction in the near future," said Willie Thomson, Director, Innovent Technologies. 
  
 Optimising hydroponic technology 
-With the world&apos;s population growing rapidly, humans need to produce as much food in the next 50 years as has been grown in the last 10,000 years. 
+With the world's population growing rapidly, humans need to produce as much food in the next 50 years as has been grown in the last 10,000 years. 
  
 A way of meeting this colossal increase in demand for food is by growing more crops using hydroponic methods, where plants grow in nutrient rich water instead of soil. Hydroponics increase crop yields and reduces the amount of space needed in food production, however the current systems are bulky, costly, and difficult to scale up. 
  
@@ -30,23 +33,10 @@ Phytoponics Ltd is developing a new system, called the HydrosacTM, which is a fl
  
 Participants at the Study Group were tasked with optimising the dimensions and geometry of the HydrosacTM grow bag to improve the weight-carrying capacity so that heavier crops may be grown without the need for twine support, whilst maximising the growing surface of the platform, which will reduce costs. 
  
-Adam Dixon, CEO, Phytoponics, said: &quot;The mathematicians immediately gained a full appreciation of our problem; it was a real pleasure seeing their minds at work. After the Agri-Food Study Group we really feel we have a thorough understanding of the equations describing our product and are incorporating them into our design.&quot; 
+Adam Dixon, CEO, Phytoponics, said: "The mathematicians immediately gained a full appreciation of our problem; it was a real pleasure seeing their minds at work. After the Agri-Food Study Group we really feel we have a thorough understanding of the equations describing our product and are incorporating them into our design." 
  
 Building new industrial partnerships 
-Manager of the IMI, Dr Joanna Jordan, said: &quot;Study Groups are an ideal catalyst for bringing together universities and companies in mutually-beneficial collaborations. They provide an easy way for industry to gain access to UK excellence in the fields of mathematics, statistics, engineering and computer science. 
+Manager of the IMI, Dr Joanna Jordan, said: "Study Groups are an ideal catalyst for bringing together universities and companies in mutually-beneficial collaborations. They provide an easy way for industry to gain access to UK excellence in the fields of mathematics, statistics, engineering and computer science. 
  
-&quot;It&apos;s been a pleasure to work with the KTN in hosting the Study Group in Bath this week to enable the exploration of innovative approaches to real problems within the Agri-Food sector. We anticipate the collaborations we&apos;ve initiated will lead to many fruitful partnerships. We&apos;d be delighted to hear from companies interested in participating in similar events in the future.&quot;</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Agriculture news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195387393</DOCID> 
-<DCT type="str">2017-01-29T07:21:40Z</DCT> 
-<TITLE type="str">Pigs and chocolate: Using math to solve problems in farming</TITLE> 
-</root>
+"It's been a pleasure to work with the KTN in hosting the Study Group in Bath this week to enable the exploration of innovative approaches to real problems within the Agri-Food sector. We anticipate the collaborations we've initiated will lead to many fruitful partnerships. We'd be delighted to hear from companies interested in participating in similar events in the future."</TEXT>
+</TimeML>

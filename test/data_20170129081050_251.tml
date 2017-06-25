@@ -1,33 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Trending  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203453614</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Local high schools rolls in conference finals</TITLE>
+<TEXT>Trending  
   
 1 
  
-   Get a wrong number asking &apos;can you hear me?&apos; Police say you better hang up  
+  Get a wrong number asking 'can you hear me?' Police say you better hang up  
  
 2 
  
-   Local teachers react to Betsy DeVos as nominee for Secretary of Education  
+  Local teachers react to Betsy DeVos as nominee for Secretary of Education  
  
 3 
  
-   First Baptist Church plans auction of items at &apos;Old Kearney High School&apos;  
+  First Baptist Church plans auction of items at 'Old Kearney High School'  
  
 4 
  
-   Fraternity in Nebraska denies vulgar comment allegations  
+  Fraternity in Nebraska denies vulgar comment allegations  
  
 5 
  
-   Vital Signs: Antiperspirants and Breast Cancer</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203453614</DOCID> 
-<DCT type="str">2017-01-29T08:21:33Z</DCT> 
-<TITLE type="str">Local high schools rolls in conference finals</TITLE> 
-</root>
+  Vital Signs: Antiperspirants and Breast Cancer</TEXT>
+</TimeML>

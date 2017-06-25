@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">In the last six years at least 152 people were killed in railway accidents in Bangladesh, official figures show. - AFP/file 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194581512</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bangladesh rail hero dies saving a mother and daughter</TITLE>
+<TEXT>In the last six years at least 152 people were killed in railway accidents in Bangladesh, official figures show. - AFP/file 
   
 Dhaka (AFP) - A Bangladesh railway employee was hit and killed by a train after saving a mother and daughter from being run over, an official said Saturday. 
  
 Railroad maintenance worker Badal Mia, 58, was on duty in the capital Dhaka on Friday when he noticed a woman and five-year-old girl trying to cross the track as an inter-city train approached them at full speed, divisional railway manager Arif-uz Zaman said. 
  
-&quot;Mia jumped and pushed them away from the track, he managed to save both of them. But he was run over by the train as he tried to jump away from the track,&quot; Zaman told AFP. 
+"Mia jumped and pushed them away from the track, he managed to save both of them. But he was run over by the train as he tried to jump away from the track," Zaman told AFP. 
  
-&quot;He died on the spot. It&apos;s shocking for us to lose a colleague like this but Mia has set an example of gallantry and true heroism,&quot; he said. 
+"He died on the spot. It's shocking for us to lose a colleague like this but Mia has set an example of gallantry and true heroism," he said. 
  
 The father of eight was only a few months away from his retirement, local media reported. 
  
@@ -16,22 +19,5 @@ Last month a 50-year-old railway lineman also risked his life by dragging a man 
  
 Fatal railway accidents are common in the south Asian country where some 40 percent of around 2,500 rail crossings are unmanned. 
  
-In the last six years at least 152 people were killed in railway accidents, official figures show.   </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Transportation industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Bangladesh news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194581512</DOCID> 
-<DCT type="str">2017-01-29T07:08:25Z</DCT> 
-<TITLE type="str">Bangladesh rail hero dies saving a mother and daughter</TITLE> 
-</root>
+In the last six years at least 152 people were killed in railway accidents, official figures show. </TEXT>
+</TimeML>

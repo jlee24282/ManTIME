@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">LOCAL hero Jeremy Loops enthralled a record-breaking Durban crowd with a stunning performance at Durban Botanic Gardens on Saturday night. The audience of 7000 was the biggest gathering for a live performance ever at Durban’s popular outdoor music venue.    The Old Mutual Music at the Lake is organised by Impi Concerts in support of the Durban Botanic Gardens Trust and is sponsored by Old Mutual, Durban and East Coast Radio.    
-Photos: Impi Concerts/Timothy Lubbe</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">South Africa news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196764464</DOCID> 
-<DCT type="str">2017-01-29T06:17:42Z</DCT> 
-<TITLE type="str">Jeremy Loops draws capacity crowd</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196764464</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Jeremy Loops draws capacity crowd</TITLE>
+<TEXT>LOCALhero Jeremy Loops enthralled a record-breaking Durban crowd with a stunning performance at Durban Botanic Gardens on Saturday night. The audience of 7000 was the biggest gathering for a live performance ever at Durbans popular outdoor music venue.    The Old Mutual Music at the Lake is organised by Impi Concerts in support of the Durban Botanic Gardens Trust and is sponsored by Old Mutual, Durban and East Coast Radio.    
+Photos: Impi Concerts/Timothy Lubbe</TEXT>
+</TimeML>

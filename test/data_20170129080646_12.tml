@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">function onPlayerReadyVidible(e){&apos;undefined&apos;!=typeof HPTrack&amp;&amp;HPTrack.Vid.Vidible_track(e)}!function(e,i){if(e.vdb_Player){if(&apos;object&apos;==typeof commercial_video){var a=&apos;&apos;,o=&apos;m.fwsitesection=&apos;+commercial_video.site_and_category;if(a+=o,commercial_video[&apos;package&apos;]){var c=&apos;&amp;m.fwkeyvalues=sponsorship%3D&apos;+commercial_video[&apos;package&apos;];a+=c}e.setAttribute(&apos;vdb_params&apos;,a)}i(e.vdb_Player)}else{var t=arguments.callee</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Airline industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194229483</DOCID> 
-<DCT type="str">2017-01-29T05:59:11Z</DCT> 
-<TITLE type="str">Protests Erupt At Airports After Trump&apos;s Executive Order Limiting Muslim Entry Into U.S.</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194229483</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Protests Erupt At Airports After Trump's Executive Order Limiting Muslim Entry Into U.S.</TITLE>
+<TEXT>function onPlayerReadyVidible(e){'undefined'!=typeof HPTrack&&HPTrack.Vid.Vidible_track(e)}!function(e,i){if(e.vdb_Player){if('object'==typeof commercial_video){var a='',o='m.fwsitesection='+commercial_video.site_and_category;if(a+=o,commercial_video['package']){var c='&m.fwkeyvalues=sponsorship%3D'+commercial_video['package'];a+=c}e.setAttribute('vdb_params',a)}i(e.vdb_Player)}else{var t=arguments.callee</TEXT>
+</TimeML>

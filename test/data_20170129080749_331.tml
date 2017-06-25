@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Bujumbura - ArabToday   
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196812203</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Burundi protests against European parliament report on</TITLE>
+<TEXT>Bujumbura - ArabToday   
 Thousands of people Saturday went to the streets in the Burundian capital to protest against a report by the European parliament on alleged human rights violations in the east African nation. 
  
 Demonstrators gathered at the United Nations square in Ngagara neighborhood and proceeded to the city center where they ended their march at the Independence Square. 
  
-Reading the Burundian government statement, Assistant Home Affairs Minister Therence Ntahiraja said, &quot;We call on the African Union (AU) leaders meeting in Ethiopia on Jan. 31 and the United Nations not to consider the European parliament report that contains lies, fabrications and rumors.&quot; 
+Reading the Burundian government statement, Assistant Home Affairs Minister Therence Ntahiraja said, "We call on the African Union (AU) leaders meeting in Ethiopia on Jan. 31 and the United Nations not to consider the European parliament report that contains lies, fabrications and rumors." 
  
 The demonstrations also served as an opportunity to denounce other reports earlier published by some international organizations like Human Rights Watch ( HRW ) and the International Federation for Human Rights (FIDH) on Burundi. 
  
@@ -13,24 +16,7 @@ Such demonstrations also took place nationwide and government officials had join
  
 On Jan. 19, the European parliament issued a resolution whereby it pointed out violations of human rights in Burundi. 
  
-However, the Burundian government and the country&apos;s parliament rejected the report, saying that it was ill-intended with outdated information. 
+However, the Burundian government and the country's parliament rejected the report, saying that it was ill-intended with outdated information. 
  
-source: Xinhua</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Burundi news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196812203</DOCID> 
-<DCT type="str">2017-01-29T07:32:32Z</DCT> 
-<TITLE type="str">Burundi protests against European parliament report on…</TITLE> 
-</root>
+source: Xinhua</TEXT>
+</TimeML>

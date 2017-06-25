@@ -1,37 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">India Inc wants Finance Minister Arun Jaitley to slash corporate income tax rate, incentivise digital transactions, introduce radical steps to reduce litigation and strengthen dispute resolution mechanism in the forthcoming Budget to be unveiled on February 1.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Personal finance news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Tax news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Global news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Economics news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195888747</DOCID> 
-<DCT type="str">2017-01-29T07:16:15Z</DCT> 
-<TITLE type="str">Budget 2017: India Inc pitches for lower tax rates</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195888747</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Budget 2017: India Inc pitches for lower tax rates</TITLE>
+<TEXT>India Inc wants Finance Minister Arun Jaitley to slash corporate income tax rate, incentivise digital transactions, introduce radical steps to reduce litigation and strengthen dispute resolution mechanism in the forthcoming Budget to be unveiled on February 1.</TEXT>
+</TimeML>

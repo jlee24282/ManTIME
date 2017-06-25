@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">TOKYO - The following is the latest available news video. Japan s research base in Antarctica mark</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Japan news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Antarctic news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196660412</DOCID> 
-<DCT type="str">2017-01-29T07:31:23Z</DCT> 
-<TITLE type="str">Video Advisory (Jan. 29) Japan s research base in Antarctica marks 60th anniversary</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196660412</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Video Advisory (Jan. 29) Japan s research base in Antarctica marks 60th anniversary</TITLE>
+<TEXT>TOKYO - The following is the latest available news video. Japan s research base in Antarctica mark</TEXT>
+</TimeML>

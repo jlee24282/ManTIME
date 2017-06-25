@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">If you are wondering what to do next, start with something blank: a clean white sheet of paper or a fresh browser window. Or a stretched canvas. Or the fraught still air of a quiet moment. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202398939</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Wondering what to do next</TITLE>
+<TEXT>If you are wondering what to do next, start with something blank: a clean white sheet of paper or a fresh browser window. Or a stretched canvas. Or the fraught still air of a quiet moment. 
  
 Gather whatever tools you have. Your paint pots, your pencils, your coffee, your guitar. Your nerve. The flick of hubris you try to keep tamped down during social interactions. That part of you that imagines your expression worth the attention of others. The inarticulate furiousness and dissatisfaction that troubles your sleep. Your conscience. Your truth. 
  
@@ -24,17 +27,17 @@ But the world was never a blank--it was rife with creatures before we got here. 
  
 Climbs are hard. Falls are easy, though they seem unimaginable until they happen. But they happen. All the time. Things fall apart. What we make is unmade. 
  
-It is possible that you will one day be powerless. That your voice won&apos;t matter. But now is not that time. 
+It is possible that you will one day be powerless. That your voice won't matter. But now is not that time. 
  
 Someday you may worry that your neighbor will report on you. It is easy to think that cannot happen here, but it could. It has. If you read history you know this, you know how people can imagine themselves good people even as they permit (or suborn) evil. 
  
-Consider that one of the lucky things about living in this country, in this age, is that up to now most of us have never really had to make a hard choice about which side we&apos;re on. Most of us have been able to take for granted that--no matter how heated the rhetoric becomes--most of what we argue about amounts to very little. 
+Consider that one of the lucky things about living in this country, in this age, is that up to now most of us have never really had to make a hard choice about which side we're on. Most of us have been able to take for granted that--no matter how heated the rhetoric becomes--most of what we argue about amounts to very little. 
  
 There are petty inequalities: Someone pays a little more, someone else a little less. Someone is allowed access, someone else waits in the hallway. We are used to being insulated from the consequences of our choices. We can cheer for blue or red; someone will win and someone will lose and they will line up again in a year or two or four and play the game again. 
  
 Nobody goes to prison. Nobody gets tossed from an airplane in the middle of the night. (Not yet. Not that we know of, at least.) 
  
-But this can change. We might believe we have made something more resilient than what people in other parts of the world have made--a better machine into which we plug the egos and delusions of needy people who imagine themselves great, and who imagine that they might somehow &quot;lead&quot; us to greatness (or maybe just want to secure the spoils of office)-- but nothing lasts forever. 
+But this can change. We might believe we have made something more resilient than what people in other parts of the world have made--a better machine into which we plug the egos and delusions of needy people who imagine themselves great, and who imagine that they might somehow "lead" us to greatness (or maybe just want to secure the spoils of office)-- but nothing lasts forever. 
  
 You know how people behave. Why do you imagine yourself immune to the forces of history? Why do you imagine your nation more durable than the empires of the past? Is it because we have better Wi-Fi? 
  
@@ -52,10 +55,5 @@ Read more at
  
 www.blooddirtangels.com 
  
-Editorial on 01/29/2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695202398939</DOCID> 
-<DCT type="str">2017-01-29T08:06:45Z</DCT> 
-<TITLE type="str">Wondering what to do next</TITLE> 
-</root>
+Editorial on 01/29/2</TEXT>
+</TimeML>

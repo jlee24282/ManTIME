@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Cape Town - The Economic Freedom Fighters (EFF) in the Johannesburg region on Saturday distanced itself from a statement sent out in its name, which had called for party leader Julius Malema to step d</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">South Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Johannesburg news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204843683</DOCID> 
-<DCT type="str">2017-01-28T21:01:15Z</DCT> 
-<TITLE type="str">EFF JHB accuses ANC of sending out bogus Malema statement in its name</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204843683</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>EFF JHB accuses ANC of sending out bogus Malema statement in its name</TITLE>
+<TEXT>Cape Town - The Economic Freedom Fighters (EFF) in the Johannesburg region on Saturday distanced itself from a statement sent out in its name, which had called for party leader Julius Malema to step d</TEXT>
+</TimeML>

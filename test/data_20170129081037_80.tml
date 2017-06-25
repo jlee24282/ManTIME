@@ -1,43 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Rankings for hard-cover books sold in Southern California, as reported by selected book stores: 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202885223</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Best-sellers</TITLE>
+<TEXT>Rankings for hard-cover books sold in Southern California, as reported by selected book stores: 
 
 Fiction 
 
-1.&quot;The Underground Railroad,&quot; by Colson Whitehead (Doubleday: $26.95) A slave escapes via the Underground Railroad, imagined as a train running under America. 
+1."The Underground Railroad," by Colson Whitehead (Doubleday: $26.95) A slave escapes via the Underground Railroad, imagined as a train running under America. 
 
-2.&quot;A Gentleman in Moscow,&quot; by Amor Towles (Viking: $27) In 1922, a Russian count is sentenced to house arrest in a grand hotel for the rest of his life. 
+2."A Gentleman in Moscow," by Amor Towles (Viking: $27) In 1922, a Russian count is sentenced to house arrest in a grand hotel for the rest of his life. 
 
-3.&quot;Moonglow,&quot; by Michael Chabon (Harper: $28.99) A multi-generational saga of a family&apos;s secrets, lies and loves. 
+3."Moonglow," by Michael Chabon (Harper: $28.99) A multi-generational saga of a family's secrets, lies and loves. 
 
-4.&quot;Difficult Women,&quot; by Roxane Gay (Grove Press: $25) A collection of short stories featuring passionate women living complex lives. 
+4."Difficult Women," by Roxane Gay (Grove Press: $25) A collection of short stories featuring passionate women living complex lives. 
 
-5.&quot;Harry Potter and the Cursed Child,&quot; by J.K. Rowling, Jack Thorne &amp; John Tiffany (Pottermore: $29.99) This script from the West End play finds adult Harry Potter working at the Ministry of Magic. 
+5."Harry Potter and the Cursed Child," by J.K. Rowling, Jack Thorne & John Tiffany (Pottermore: $29.99) This script from the West End play finds adult Harry Potter working at the Ministry of Magic. 
 
-6.&quot;Commonwealth,&quot; by Ann Patchett (Harper: $27.99) A kiss in California leads to divorce, remarriage and a family secret that unfolds over a generation. 
+6."Commonwealth," by Ann Patchett (Harper: $27.99) A kiss in California leads to divorce, remarriage and a family secret that unfolds over a generation. 
 
-7.&quot;All the Light We Cannot See,&quot; by Anthony Doerr (Scribner: $27) A blind French girl and a German teen struggle in occupied France during World War II. 
+7."All the Light We Cannot See," by Anthony Doerr (Scribner: $27) A blind French girl and a German teen struggle in occupied France during World War II. 
 
-8.&quot;The Wrong Side of Goodbye,&quot; by Michael Connelly (Little, Brown: $29) A dying magnate hires Harry Bosch to track down an heir to his fortune. 
+8."The Wrong Side of Goodbye," by Michael Connelly (Little, Brown: $29) A dying magnate hires Harry Bosch to track down an heir to his fortune. 
 
-9.&quot;Diary of a Wimpy Kid: Double Down,&quot; by Jeff Kinney (Abrams: $13.95) Greg and Rowley try to make a scary movie after finding an old video camera. 
+9."Diary of a Wimpy Kid: Double Down," by Jeff Kinney (Abrams: $13.95) Greg and Rowley try to make a scary movie after finding an old video camera. 
 
-10.&quot;Two by Two,&quot; by Nicholas Sparks (Grand Central: $27) After his marriage and business fall apart, a single father takes a chance on new love.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: book news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202885223</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">Best-sellers</TITLE> 
-</root>
+10."Two by Two," by Nicholas Sparks (Grand Central: $27) After his marriage and business fall apart, a single father takes a chance on new love.</TEXT>
+</TimeML>

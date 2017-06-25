@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">LOUISVILLE, KY (WAVE) – Two people have died after being hit by a car.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203472329</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>2 pedestrians hit, killed on S. 3rd St. Rd</TITLE>
+<TEXT>LOUISVILLE, KY (WAVE)  Two people have died after being hit by a car.
 
 It happened on S. 3rd Street Road near McNair Road just before 1 a.m. Sunday morning.
 
@@ -12,10 +15,5 @@ The identity of the victims are still unknown this morning.
 
 LMPD is still investigating the crash.
 
-This story will be updated when more information becomes available.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695203472329</DOCID> 
-<DCT type="str">2017-01-29T08:19:00Z</DCT> 
-<TITLE type="str">2 pedestrians hit, killed on S. 3rd St. Rd</TITLE> 
-</root>
+This story will be updated when more information becomes available.</TEXT>
+</TimeML>

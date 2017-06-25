@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tweet on Twitter ISLAMABAD, Jan 29 (APP): More than ten thousands 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203417362</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>More than 10,000 tourists daily visits Murree, Galiyat: PTDC</TITLE>
+<TEXT>Tweet on Twitter ISLAMABAD, Jan 29 (APP): More than ten thousands 
 domestic tourists are visiting hilly areas especially 
 Murree, Galiyat and other northern parts of the country on daily 
 basis to enjoy snowfall. 
@@ -25,18 +28,5 @@ Pindi Point, Mall Road and Ayubia were packed with tourists.
 Facebook 
   
 Twitter 
-      Previous article Trump’s new order to deliver blow to refugees but do little to address terrorism: HRW  Next article GSMA anticipates sound 3G, 4G growth in Pakistan till 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Pakistan news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203417362</DOCID> 
-<DCT type="str">2017-01-29T08:21:13Z</DCT> 
-<TITLE type="str">More than 10,000 tourists daily visits Murree, Galiyat: PTDC</TITLE> 
-</root>
+      Previous article Trumps new order to deliver blow to refugees but do little to address terrorism: HRW  Next article GSMA anticipates sound 3G, 4G growth in Pakistan till 2</TEXT>
+</TimeML>

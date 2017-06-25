@@ -1,36 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The price of petroleum product, also known as premium motor spirit has increased as long queue resurfaces in filling stations across Yobe state. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195505693</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Fuel price hits N160 as marketer hoard products in Yobe</TITLE>
+<TEXT>The price of petroleum product, also known as premium motor spirit has increased as long queue resurfaces in filling stations across Yobe state. 
 
 Daily Trust checks reveals that the product is selling above regulated price in Damaturu, Potiskum, Gashua, Gaidam and Nguru local government areas of the state. 
-Our correspondent who went round the state capital, Damaturu  reports that the filling stations, sold a litre of petrol between N155 to N160 while many filling stations refused to open for customers. 
+Our correspondent who went round the state capital, Damaturu reports that the filling stations, sold a litre of petrol between N155 to N160 while many filling stations refused to open for customers. 
 
 He also gathered that the product sold at N160 in Nguru, N165 in Gashua, and N160 in Gaidam town. 
 
-He said that most filling stations in the four major town&apos;s of the state have closed down, creating long queue of vehicles in the few ones in operation. 
+He said that most filling stations in the four major town's of the state have closed down, creating long queue of vehicles in the few ones in operation. 
 
 A commercial driver in Damaturu, Yusuf Mamman, said that most of filling stations in the town hoarded the fuel in anticipation of short supply. 
 
-&quot;They hoarded the fuel just to create artificial scarcity. I wish, governor Gaidam will borrow a leaf from his sokoto counterpart, Tambuwal, and seal filling stations that violated selling at regulated price,&quot; he said.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Energy industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Oil and gas news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Marketing news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195505693</DOCID> 
-<DCT type="str">2017-01-29T07:22:41Z</DCT> 
-<TITLE type="str">Fuel price hits N160 as marketer hoard products in Yobe</TITLE> 
-</root>
+"They hoarded the fuel just to create artificial scarcity. I wish, governor Gaidam will borrow a leaf from his sokoto counterpart, Tambuwal, and seal filling stations that violated selling at regulated price," he said.</TEXT>
+</TimeML>

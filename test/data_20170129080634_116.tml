@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Jacob Beltran , San Antonio Express-News 
- Updated 3:23 pm, Saturday, January 28, 2017       
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193909563</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Safes smelling of marijuana discovered where father, son shot...</TITLE>
+<TEXT>By Jacob Beltran , San Antonio Express-News 
+ Updated 3:23pm, Saturday, January 28, 2017       
  Photo: Jacob Beltran  
   
 Image 1 of / 15 
@@ -98,7 +101,7 @@ Image  15  of  15
     
 Safes smelling of marijuana discovered where father, son shot by robbers 
  
-1  /  15 
+1 / 15 
  
 Back to Gallery 
    
@@ -112,13 +115,13 @@ RELATED: Helicopter searching for gunman who shot neighbor at West Side apartmen
  
 He was taken to University Hospital in critical condition. An update on his condition was not available Friday. 
  
-The victims told police that one of the suspects shouted “Caught you slipping!” as he entered the complex, police said. 
+The victims told police that one of the suspects shouted Caught you slipping! as he entered the complex, police said. 
  
-Investigators noted the suspects demanded only their cash, but didn’t believe the victims had given all they had. 
+Investigators noted the suspects demanded only their cash, but didnt believe the victims had given all they had. 
  
 RELATED: Assailants at large after pregnant woman tied up, robbed in NW Side home 
  
-As the injured man’s 54-year-old father was being interviewed by detectives, they noted he realized he had been shot below his waist and dropped his pants to reveal the injury. 
+As the injured mans 54-year-old father was being interviewed by detectives, they noted he realized he had been shot below his waist and dropped his pants to reveal the injury. 
  
 The father was also taken to UH, the report states. 
  
@@ -134,18 +137,5 @@ Police had not identified any suspects as of Friday night.
  
 jbeltran@express-news.net 
  
-Twitter: @JBfromSA</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">San Antonio news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Illegal drugs news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193909563</DOCID> 
-<DCT type="str">2017-01-29T07:11:55Z</DCT> 
-<TITLE type="str">Safes smelling of marijuana discovered where father, son shot...</TITLE> 
-</root>
+Twitter: @JBfromSA</TEXT>
+</TimeML>

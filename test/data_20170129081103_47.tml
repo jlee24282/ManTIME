@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">CBSSports.com    Showtime boxing results: Santa Cruz gets revenge on Frampton with majority decision 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203714300</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Showtime boxing results: Santa Cruz gets revenge on Frampton with majority decision  CBSSports.com</TITLE>
+<TEXT>CBSSports.com    Showtime boxing results: Santa Cruz gets revenge on Frampton with majority decision 
 CBSSports.com 
-Former three-division champion Leo Santa Cruz avenged a first career defeat handed to him last summer by Carl Frampton, winning a majority decision in a rematch that allowed him to regain the WBA featherweight title he&apos;d lost to the Northern Irishman. 
-Léo Santa Cruz beats Carl Frampton for WBA world featherweight title – as it happened The Guardian 
+Former three-division champion Leo Santa Cruz avenged a first career defeat handed to him last summer by Carl Frampton, winning a majority decision in a rematch that allowed him to regain the WBA featherweight title he'd lost to the Northern Irishman. 
+Lo Santa Cruz beats Carl Frampton for WBA world featherweight title  as it happened The Guardian 
 This Week In Boxing Biz: Carl Frampton-Leo Santa Cruz Storylines, Vargas-Berchelt, Golden Boy Issues Forbes 
 Leo Santa Cruz beats Carl Frampton Boxing News 24 
-BoxingScene.com  – USA TODAY 
-all 235 news articles »  
+BoxingScene.com  USA TODAY 
+all 235 news articles  
    
-More:  continued here</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: boxing news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203714300</DOCID> 
-<DCT type="str">2017-01-29T08:23:50Z</DCT> 
-<TITLE type="str">Showtime boxing results: Santa Cruz gets revenge on Frampton with majority decision – CBSSports.com</TITLE> 
-</root>
+More:  continued here</TEXT>
+</TimeML>

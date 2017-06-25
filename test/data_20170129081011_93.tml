@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">&quot;The harvest mouse and its majestic prehensile tail...&quot;  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202165826</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>"Glorious fox colors..." - The Meta Picture</TITLE>
+<TEXT>"The harvest mouse and its majestic prehensile tail..."  
    
- &quot;The Ocellated Turkey and its iridescent feathers...&quot;  
+ "The Ocellated Turkey and its iridescent feathers..."  
    
- &quot;Wedding day...&quot; - The Meta Picture  
+ "Wedding day..." - The Meta Picture  
    
- &quot;Surprised baby goat...&quot; - The Meta Picture  
+ "Surprised baby goat..." - The Meta Picture  
    
- &quot;Baby Margays deserve more appreciation...&quot;  
+ "Baby Margays deserve more appreciation..."  
    
- &quot;Kittens photobombed by mama cat...&quot; :) - The Meta Picture</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202165826</DOCID> 
-<DCT type="str">2017-01-29T08:11:53Z</DCT> 
-<TITLE type="str">&quot;Glorious fox colors...&quot; - The Meta Picture</TITLE> 
-</root>
+ "Kittens photobombed by mama cat..." :) - The Meta Picture</TEXT>
+</TimeML>

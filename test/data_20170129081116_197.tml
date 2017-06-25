@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Demonstrators block traffic at the international arrival terminal as they protest against Donald Trump&apos;s immigration order at San Francisco International Airport on Jan. 28. | Getty The rush to respond added to the confusion spurred by the far-reaching executive order Trump signed on Friday. By Nahal Toosi[1] 01/28/17 09:24 PM EST Updated 01/28/17 11:18 PM EST Protesters, lawyers and lawmakers rushed to major U.S. airports on Saturday as word spread that refugees, legal permanent residents an...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204353349</DOCID> 
-<DCT type="str">2017-01-29T02:24:51Z</DCT> 
-<TITLE type="str">Protesters and lawyers scramble in response to Trump refugee order</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204353349</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Protesters and lawyers scramble in response to Trump refugee order</TITLE>
+<TEXT>Demonstrators block traffic at the international arrival terminal as they protest against Donald Trump's immigration order at San Francisco International Airport on Jan. 28. | Getty The rush to respond added to the confusion spurred by the far-reaching executive order Trump signed on Friday. By Nahal Toosi[1] 01/28/17 09:24 PM EST Updated 01/28/17 11:18 PM EST Protesters, lawyers and lawmakers rushed to major U.S. airports on Saturday as word spread that refugees, legal permanent residents an...</TEXT>
+</TimeML>

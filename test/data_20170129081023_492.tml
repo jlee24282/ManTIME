@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Our Guidelines  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202826678</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Federal judge in New York bars U.S. from deporting travelers with valid visas covered by Trump order</TITLE>
+<TEXT>Our Guidelines  
 Stay on topic - This helps keep the thread focused on the discussion at hand. If you would like to discuss another topic, look for a relevant article. 
  
-Share with Us - We&apos;d love to hear eyewitness accounts, the history behind an article, and smart, constructive criticism. 
+Share with Us - We'd love to hear eyewitness accounts, the history behind an article, and smart, constructive criticism. 
  
-Be Civil - It&apos;s OK to have a difference in opinion but there&apos;s no need to be a jerk. We reserve the right to delete any comments that we feel are spammy, off-topic, or reckless to the community. 
+Be Civil - It's OK to have a difference in opinion but there's no need to be a jerk. We reserve the right to delete any comments that we feel are spammy, off-topic, or reckless to the community. 
  
-Be proactive - Use the &apos;Flag as Inappropriate&apos; link at the upper right corner of each comment to let us know of abusive posts. 
- ×</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">New York metro area news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US Federal Government news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202826678</DOCID> 
-<DCT type="str">2017-01-28T23:31:22Z</DCT> 
-<TITLE type="str">Federal judge in New York bars U.S. from deporting travelers with valid visas covered by Trump order</TITLE> 
-</root>
+Be proactive - Use the 'Flag as Inappropriate' link at the upper right corner of each comment to let us know of abusive posts. 
+ </TEXT>
+</TimeML>

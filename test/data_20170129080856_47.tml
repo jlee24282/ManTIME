@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">“I’m anxious. Scared. I don’t know if I will have health insurance next week.” This is how Edgerton... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199145337</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Our Views: On Obamacare, dont make any rash cuts</TITLE>
+<TEXT>Im anxious. Scared. I dont know if I will have health insurance next week. This is how Edgerton... 
   
 Thank you for visiting. 
  
@@ -14,30 +17,5 @@ Not signed up yet? View Membership Options
  
 No thank you 
   
-TO READ THIS ARTICLE, please Sign In or Sign up .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Health insurance news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Medicaid and Medicare news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199145337</DOCID> 
-<DCT type="str">2017-01-29T07:49:07Z</DCT> 
-<TITLE type="str">Our Views: On Obamacare, don’t make any rash cuts</TITLE> 
-</root>
+TO READ THIS ARTICLE, please Sign In or Sign up .</TEXT>
+</TimeML>

@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Berlin: A wild boar has gone on a rampage in a northern Berlin park, causing minor injuries to three people before being shot dead by police. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204243472</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Wild boar injures three in Berlin rampage</TITLE>
+<TEXT>Berlin: A wild boar has gone on a rampage in a northern Berlin park, causing minor injuries to three people before being shot dead by police. 
  
-A sounder of boars showed up near the city&apos;s Tegel Airport about 2pm on Saturday before one of the male boars moved away from the group to a nearby park, local police said. 
+A sounder of boars showed up near the city's Tegel Airport about 2pm on Saturdaybefore one of the male boars moved away from the group to a nearby park, local police said. 
  
 The boar then proceeded to attack a number of people, injuring a woman on her leg as well as two other men. 
  
@@ -12,22 +15,5 @@ Meanwhile, in the western German city of Siegen, a wild boar disrupted traffic a
  
 The animal was also eventually shot dead by the authorities. 
  
-AAP</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Berlin news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Germany news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Europe news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204243472</DOCID> 
-<DCT type="str">2017-01-29T08:27:38Z</DCT> 
-<TITLE type="str">Wild boar injures three in Berlin rampage</TITLE> 
-</root>
+AAP</TEXT>
+</TimeML>

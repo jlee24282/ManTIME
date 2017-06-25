@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Submit a correction | Search events 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204965894</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Farmers Insurance Open</TITLE>
+<TEXT>Submit a correction | Search events 
 
-San Diego’s leg of the annual PGA Tour marks the 51st time time the event has been held at Torrey Pines Golf Course and the 8th year Farmers Insurance has sponsored the tournament. Tiger Woods just announced that he’ll be back this year, his first official PGA start since the Wyndham Championship in August 2015. 
+San Diegos leg of the annual PGA Tour marks the 51st time time the event has been held at Torrey Pines Golf Course and the 8th year Farmers Insurance has sponsored the tournament. Tiger Woods just announced that hell be back this year, his first official PGA start since the Wyndham Championship in August 2015. 
 
 Where: 
 
@@ -22,7 +25,7 @@ Username
 
 I have an account. 
 
-I&apos;m new. 
+I'm new. 
 
 Password Forgot? 
 
@@ -64,14 +67,5 @@ Earn up to $25 for album reviews.
 
 Earn up to $50 for travel stories. 
 
-Earn up to $50 for water stories.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Insurance industry news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204965894</DOCID> 
-<DCT type="str">2017-01-29T08:33:15Z</DCT> 
-<TITLE type="str">Sun 1/29: Farmers Insurance Open</TITLE> 
-</root>
+Earn up to $50 for water stories.</TEXT>
+</TimeML>

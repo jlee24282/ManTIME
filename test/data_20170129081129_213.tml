@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Cape Town - A man was shot dead after he and two accomplices hijacked an Audi in Rosettenville, Johannesburg metro police said on Saturday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204843514</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Hijacker with fake gun shot dead in Joburg</TITLE>
+<TEXT>Cape Town - A man was shot dead after he and two accomplices hijacked an Audi in Rosettenville, Johannesburg metro police said on Saturday. 
  
-The three had hijacked the vehicle in Phillips Street on Fr</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Johannesburg news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204843514</DOCID> 
-<DCT type="str">2017-01-28T19:34:26Z</DCT> 
-<TITLE type="str">Hijacker with fake gun shot dead in Joburg</TITLE> 
-</root>
+The three had hijacked the vehicle in Phillips Street on Fr</TEXT>
+</TimeML>

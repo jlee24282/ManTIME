@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">JUST days after three people lost their lives crossing a flooded river crossing, another group has been swept off a road near Jabiru.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194983728</DOCID> 
-<DCT type="str">2017-01-29T07:19:52Z</DCT> 
-<TITLE type="str">Another car washed off flooded river crossing</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194983728</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Another car washed off flooded river crossing</TITLE>
+<TEXT>JUST days after three people lost their lives crossing a flooded river crossing, another group has been swept off a road near Jabiru.</TEXT>
+</TimeML>

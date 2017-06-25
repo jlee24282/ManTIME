@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Please enable Javascript to watch this video  We asked the staff of Relapse Records who some of their all-time Relapse Records artists were!If you want to check out any of the bands mentioned in the segment, check out their social media pages below: 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194484402</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Favorite Relapse Records Artists on Weekend Philler</TITLE>
+<TEXT>Please enable Javascript to watch this video  We asked the staff of Relapse Records who some of their all-time Relapse Records artists were!If you want to check out any of the bands mentioned in the segment, check out their social media pages below: 
 Nasum 
 Facebook - https://www.facebook.com/NasumBand/ 
  
@@ -24,7 +27,7 @@ Twitter - https://twitter.com/coalesceox
 Ulcerate 
 Facebook - https://www.facebook.com/Ulcerate/ 
  
-If you want to check out Relapse Records on social media, here’s where you can find them. 
+If you want to check out Relapse Records on social media, heres where you can find them. 
  
 Relapse Records 
 Facebook - https://www.facebook.com/RelapseRecords 
@@ -33,14 +36,5 @@ Twitter - https://twitter.com/RelapseRecords
  
 Be sure to follow us on Twitter and Instagram to keep up with all things Weekend Philler! 
  
-And make sure you tune in Saturday nights at 11:30p on PHL17 for the latest episodes!</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194484402</DOCID> 
-<DCT type="str">2017-01-29T04:59:54Z</DCT> 
-<TITLE type="str">Favorite Relapse Records Artists on Weekend Philler</TITLE> 
-</root>
+And make sure you tune in Saturday nights at 11:30p on PHL17 for the latest episodes!</TEXT>
+</TimeML>

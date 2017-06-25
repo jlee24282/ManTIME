@@ -1,31 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Clinton tweeted, &quot;I stand with the people gathered across the country tonight defending our values and our Constitution. This is not who we are.&quot; 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197101211</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>This is not who we are: Hillary Clinton slams Trump's ban on Muslims</TITLE>
+<TEXT>Clinton tweeted, "I stand with the people gathered across the country tonight defending our values and our Constitution. This is not who we are." 
 
-Hillary&apos;s tweet came after President Donald Trump ordered extreme vetting of people entering the US from seven Muslim-majority countries, as part of new measures to keep radical Islamic terrorists out of America. The countries impacted are Iran, Iraq, Syria, Sudan, Libya, Yemen and Somalia.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US politics news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197101211</DOCID> 
-<DCT type="str">2017-01-29T07:24:33Z</DCT> 
-<TITLE type="str">This is not who we are: Hillary Clinton slams Trump&apos;s ban on Muslims</TITLE> 
-</root>
+Hillary's tweet came after President Donald Trump ordered extreme vetting of people entering the US from seven Muslim-majority countries, as part of new measures to keep radical Islamic terrorists out of America. The countries impacted are Iran, Iraq, Syria, Sudan, Libya, Yemen and Somalia.</TEXT>
+</TimeML>

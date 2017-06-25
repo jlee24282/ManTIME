@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Family day at Wilderness Walk in Hayward. Pictured are: Landen, 12, and Trevyn, 2. Their parents are Melissa and Ryan Tahtinen of Hermantown. Also pictured are Logan, 5; Emma, 2; and Henry, 4 months. Their parents are Kyle and Alli Liljegren of Duluth. Grandparents are Debbie and Jeff Liljegren of Hermantown.   
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201046257</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Grandma's Brag Book for Jan. 29, 2017</TITLE>
+<TEXT>Family day at Wilderness Walk in Hayward. Pictured are: Landen, 12, and Trevyn, 2. Their parents are Melissa and Ryan Tahtinen of Hermantown. Also pictured are Logan, 5; Emma, 2; and Henry, 4 months. Their parents are Kyle and Alli Liljegren of Duluth. Grandparents are Debbie and Jeff Liljegren of Hermantown.   
 Family day at Wilderness Walk in Hayward. Pictured are: Landen, 12, and Trevyn, 2. Their parents are Melissa and Ryan Tahtinen of Hermantown. Also pictured are Logan, 5; Emma, 2; and Henry, 4 months. Their parents are Kyle and Alli Liljegren of Duluth. Grandparents are Debbie and Jeff Liljegren of Hermantown. 
-  Advertisement</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: book news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201046257</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">Grandma&apos;s Brag Book for Jan. 29, 2017</TITLE> 
-</root>
+  Advertisement</TEXT>
+</TimeML>

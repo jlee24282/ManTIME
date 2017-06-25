@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Guides laughingly point out that the fellow in this Snapshot is not pointing to the rest rooms in the visitor center. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203423579</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Snapshot: Lofty monument recalls American Revolution battle</TITLE>
+<TEXT>Guides laughingly point out that the fellow in this Snapshot is not pointing to the rest rooms in the visitor center. 
  
 He is Brigadier General John Stark, and that lofty tower behind him is the Bennington Battle Monument in Bennington, Vt. 
  
@@ -14,12 +17,7 @@ An elevator whisks visitors to the observation deck, where the view from the top
  
 Exhibits and informational placards at the base of the monument and in the visitor center illustrate the importance of the battle 
  
-It was Gen. Stark who in a toast to the survivors of the battle at Bennington urged them to &quot;Live free or die!&quot; That quote by that Vermonter became the motto of the neighboring state of New Hampshire. 
+It was Gen. Stark who in a toast to the survivors of the battle at Bennington urged them to "Live free or die!" That quote by that Vermonter became the motto of the neighboring state of New Hampshire. 
  
-And, by the way, the restrooms at the visitor center really are over in the direction where the good General is pointing.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695203423579</DOCID> 
-<DCT type="str">2017-01-29T08:21:17Z</DCT> 
-<TITLE type="str">Snapshot: Lofty monument recalls American Revolution battle</TITLE> 
-</root>
+And, by the way, the restrooms at the visitor center really are over in the direction where the good General is pointing.</TEXT>
+</TimeML>

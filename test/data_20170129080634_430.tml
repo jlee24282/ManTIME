@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Scarcity of kerosene is biting harder in Kano State as price of the product and that of its by-products have gone beyond the reach of most residents. Major filling stations located at Zaria road, Airport, [...]The post appeared first on Tribune.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695194206863</DOCID> 
-<DCT type="str">2017-01-29T06:23:01Z</DCT> 
-<TITLE type="str">More hardship as kerosene scarcity worsens &apos;Products sells for N750 per litre in Kano</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194206863</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>More hardship as kerosene scarcity worsens 'Products sells for N750 per litre in Kano</TITLE>
+<TEXT>Scarcity of kerosene is biting harder in Kano State as price of the product and that of its by-products have gone beyond the reach of most residents. Major filling stations located at Zaria road, Airport, [...]The post appeared first on Tribune.</TEXT>
+</TimeML>

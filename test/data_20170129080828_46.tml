@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A bespoke hospitality brand is to be launched in the UAE at the  Gulf and Indian Ocean Hotel Investors’ Summit (GIOHIS) next week. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197851676</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>New brand to be launched at GIOHIS, Abu Dhabi</TITLE>
+<TEXT>A bespoke hospitality brand is to be launched in the UAE at the Gulf and Indian Ocean Hotel Investors Summit (GIOHIS) next week. 
  
 Simon Allison, the CEO of Hoftel, the organisation behind the GIOHIS event. 
  
@@ -8,28 +11,11 @@ Smartotels will be launched at a media roundtable which will be part of the GIOH
  
 RELATED:  Investors check in at GIOHIS 2016 
  
-“This pioneering ‘concept hotel’ brand is poised to introduce an innovative experience for the first time in the Middle East,” said a spokesperson. 
+This pioneering concept hotel brand is poised to introduce an innovative experience for the first time in the Middle East, said a spokesperson. 
  
-“With the growth of the UAE’s tourism sector and the rising demand in the upper midscale and upscale hospitality segment, boutique brands are arriving on the scene and are demonstrating their staying power in a competitive marketplace.” 
+With the growth of the UAEs tourism sector and the rising demand in the upper midscale and upscale hospitality segment, boutique brands are arriving on the scene and are demonstrating their staying power in a competitive marketplace. 
  
-  
  
-The post appeared first on Hotel News ME .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">United Arab Emirates news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197851676</DOCID> 
-<DCT type="str">2017-01-29T06:55:22Z</DCT> 
-<TITLE type="str">New brand to be launched at GIOHIS, Abu Dhabi</TITLE> 
-</root>
+ 
+The post appeared first on Hotel News ME .</TEXT>
+</TimeML>

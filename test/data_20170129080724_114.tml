@@ -1,29 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Warder - Ethiopia is struggling to counter a new drought in its east that authorities say has left 5.6 million people in urgent need of assistance. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195719806</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Ethiopia faces new drought, seeks urgent aid for 5 million</TITLE>
+<TEXT>Warder - Ethiopia is struggling to counter a new drought in its east that authorities say has left 5.6 million people in urgent need of assistance. 
  
-The UN humanitarian chief Stephen O&apos;Brien visited the remote region on Saturday, saying that &quot;these people are really struggling to survive.&quot; He cautioned, however, against &quot;dramatising by saying this may degenerate into famine.&quot; 
+The UN humanitarian chief Stephen O'Brien visited the remote region on Saturday, saying that "these people are really struggling to survive." He cautioned, however, against "dramatising by saying this may degenerate into famine." 
  
-Last year&apos;s drought left 10.2 million people hungry and killed several hundred thousand of the animals that the local pastoralists depend on for their livelihood. 
+Last year's drought left 10.2 million people hungry and killed several hundred thousand of the animals that the local pastoralists depend on for their livelihood. 
  
-For this drought, Ethiopia&apos;s government is appealing for $948m from the international community. The country&apos;s disaster prevention chief, Mitiku Kassa, says the government has allocated than $47m. 
+For this drought, Ethiopia's government is appealing for $948m from the international community. The country's disaster prevention chief, Mitiku Kassa, says the government has allocated than $47m. 
      
-The charity Save the Children warns that malnourished refugees are arriving from neighboring Somalia as well, compounding the crisis.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Natural disasters news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Ethiopia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195719806</DOCID> 
-<DCT type="str">2017-01-29T07:00:04Z</DCT> 
-<TITLE type="str">Ethiopia faces new drought, seeks urgent aid for 5 million</TITLE> 
-</root>
+The charity Save the Children warns that malnourished refugees are arriving from neighboring Somalia as well, compounding the crisis.</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">LE MARS — The list of Le Mars Community High School students who made Honor Roll for the first semester of the 2016-17 school year has been released. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197755639</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>LCHS releases first semester honor roll (1/28/17) LE MARS  The list of Le Mars Community High School students who made Honor Roll for the first semester of the 2016-17 school year has been released. These students attained a grade point average of 3.00 t</TITLE>
+<TEXT>LE MARS  The list of Le Mars Community High School students who made Honor Roll for the first semester of the 2016-17 school year has been released. 
  
 These students attained a grade point average of 3.00 to 4.00. 
  
@@ -18,7 +21,7 @@ Jensen, Braden; Johnson, Jack; Jongerius, Shaylei; Jost, Eryn; Jungers, Caleb; K
  
 Lamoreux, Anthony; Lamp, Alyssa; Leusink, Kady; Madsen, Ellianna; Manley, Jacob; Marsh, Nathan; Martens, Eli; Martin, Emily; McShane, Katelyn Leigh. 
  
-Meis, Sarah; Minar, Rachael; Nieman, Zoe; O’Dwyer, Jacob; Oswald, Drake Thomas; Otto, Justin; Parmelee, Conlen; Peck, Jordan. 
+Meis, Sarah; Minar, Rachael; Nieman, Zoe; ODwyer, Jacob; Oswald, Drake Thomas; Otto, Justin; Parmelee, Conlen; Peck, Jordan. 
  
 Pippett, Maddilyn (Maddi); Plueger, Hailey: Porter, Ty: Pratt, Joshua; Probst, Claudia; Rasmussen, Rhyan; Renken, Kaylee; Ruhland, Lauryn; Scheitler, Shauna. 
  
@@ -88,18 +91,5 @@ Pottebaum, Jacob; Pratt, Zach; Rand, Sydney; Raymond, Walker; Reeves, Sarah; Reu
  
 Schmidt, Levi Robert; Schurr, Logan; Schwartz, Craig; Susemihl, Kelli; Tabbert, Lauren; Ten Napel, Morgan; Ten Napel, Samantha; Thompson, Jacob. 
  
-Thrun, Michaela; Toben, Skyler; Toki, Gabriel; Van Otterloo, Emily; Waldman, Alejandro; Webner, Colton; White, Alex; Wood, Samantha; Zenk, Krista.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197755639</DOCID> 
-<DCT type="str">2017-01-29T07:39:11Z</DCT> 
-<TITLE type="str">LCHS releases first semester honor roll (1/28/17) LE MARS — The list of Le Mars Community High School students who made Honor Roll for the first semester of the 2016-17 school year has been released. These students attained a grade point average of 3.00 t</TITLE> 
-</root>
+Thrun, Michaela; Toben, Skyler; Toki, Gabriel; Van Otterloo, Emily; Waldman, Alejandro; Webner, Colton; White, Alex; Wood, Samantha; Zenk, Krista.</TEXT>
+</TimeML>

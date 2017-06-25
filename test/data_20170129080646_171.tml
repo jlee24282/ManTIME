@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">CASA GRANDE — The Casa Grande Union High School Cougar SpiritLine placed fourth in the all-girl category for Division 2 at the 2017 Arizona Interscholastic Association state championships. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194369069</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>CGUHS SpiritLine places fourth at state championship</TITLE>
+<TEXT>CASA GRANDE  The Casa Grande Union High School Cougar SpiritLine placed fourth in the all-girl category for Division 2 at the 2017 Arizona Interscholastic Association state championships. 
  
 This year, the team qualified for state competition in the top 10. In a competition in December, they placed sixth, and they moved up two spots with their performance at the state championship. 
  
 Cougar SpiritLine has qualified and competed at the AIA state championships for five consecutive years in the same category and division. 
  
-This year is the second time the team has placed fourth at the AIA.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">UK business news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194369069</DOCID> 
-<DCT type="str">2017-01-29T06:45:00Z</DCT> 
-<TITLE type="str">CGUHS SpiritLine places fourth at state championship</TITLE> 
-</root>
+This year is the second time the team has placed fourth at the AIA.</TEXT>
+</TimeML>

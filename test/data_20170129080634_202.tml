@@ -1,29 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">President Trump&apos;s trip to Britain is currently being planned but was hit by a diplomatic row after he said he did not want to meet with Prince Charles because of climate change differences.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Weather news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Environment news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Climate change news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Europe news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194026310</DOCID> 
-<DCT type="str">2017-01-28T22:53:49Z</DCT> 
-<TITLE type="str">Trump to &apos;avoid Charles on UK visit over climate change&apos;</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194026310</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Trump to 'avoid Charles on UK visit over climate change'</TITLE>
+<TEXT>President Trump's trip to Britain is currently being planned but was hit by a diplomatic row after he said he did not want to meet with Prince Charles because of climate change differences.</TEXT>
+</TimeML>

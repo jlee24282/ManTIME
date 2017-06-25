@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">It will be a case seeing double for teachers at Linton Primary School and Ballarat North Primary School on Monday morning. It will be a case seeing double for teachers at Linton Primary School and Ballarat North Primary School when two sets of twins embark on their first day at school this week. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199320553</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Double the fun as school year begins</TITLE>
+<TEXT>It will be a case seeing double for teachers at Linton Primary School and Ballarat North Primary School on Monday morning. It will be a case seeing double for teachers at Linton Primary School and Ballarat North Primary School when two sets of twins embark on their first day at school this week. 
 
 They will be joining the hundreds of children from across Victoria, pulling on their school uniforms and heading into classrooms for the first time.
 
@@ -8,13 +11,13 @@ But for Linton mother Kelly Dishot, the milestone is all the more special.
 
 Her five-year-old fraternal twin boys, Liam and Rhys, were both diagnosed as being on the autism spectrum when they were two. 
 
-“For us, it’s a huge milestone,” Ms Dishot said. “We were always really proactive about getting them a lot of assistance early on to get to the point where they could go to a mainstream school with support in place for them throughout their schooling.” 
+For us, its a huge milestone, Ms Dishot said. We were always really proactive about getting them a lot of assistance early on to get to the point where they could go to a mainstream school with support in place for them throughout their schooling. 
 
 The boys will start at Linton Primary School on Tuesday. 
 
 Ms Dishort said six of the seven preps starting at the tight-knit primary school had attended kindergarten together.
 
-“The other children already have a big acceptance of the boys and their differences already,” she said. “It’s also really great because it has educated the other children who have gone to kindergarten with Liam and Rhys from a young age, that all children are different, and not everybody is the same.”
+The other children already have a big acceptance of the boys and their differences already, she said. Its also really great because it has educated the other children who have gone to kindergarten with Liam and Rhys from a young age, that all children are different, and not everybody is the same.
 
 Ms Dishort said she wanted to send her boys to Linton Primary School because of its inclusiveness and the and the strong educational support system the school has in place.
 
@@ -22,22 +25,5 @@ And, if the boys were feeling a little apprehensive on their first day, their ol
 
 Ballarat father David Willison is expecting the house will be a a lot quieter without his five-year-old twin daughters Ella and Jade. They start school at Ballarat North Primary School on Wednesday.
 
-“It’s certainly going to be little weird to begin with,” he said. “But they are both so excited and really looking forward to it. They do a lot together, but they’re also very independent and have opted to go in separate classes this year.”</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199320553</DOCID> 
-<DCT type="str">2017-01-29T02:02:00Z</DCT> 
-<TITLE type="str">Double the fun as school year begins</TITLE> 
-</root>
+Its certainly going to be little weird to begin with, he said. But they are both so excited and really looking forward to it. They do a lot together, but theyre also very independent and have opted to go in separate classes this year.</TEXT>
+</TimeML>

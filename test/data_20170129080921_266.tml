@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Detail Description : 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200436983</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Yankee Candle Summer Scoop Jar Candle - Large</TITLE>
+<TEXT>Detail Description : 
 http://tinyurl.com/h2xsd2p [ln] Authentic, true-to-life fragrance [ln] [ln] 
 - [ln] With pure, natural plant extracts [ln] [ln] 
 - [ln] Convenient and easy to use [ln] [ln] 
@@ -11,10 +14,5 @@ http://tinyurl.com/h2xsd2p [ln] Authentic, true-to-life fragrance [ln] [ln]
 
 Author: carolinemonicaa 
 Tags: home  kitchen  Home and Kitchen  Home Kitchen  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200436983</DOCID> 
-<DCT type="str">2017-01-29T07:47:05Z</DCT> 
-<TITLE type="str">Yankee Candle Summer Scoop Jar Candle - Large</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

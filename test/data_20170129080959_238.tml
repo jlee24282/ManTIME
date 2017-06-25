@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Green Cards Trump Defends Order ‘Great Gift’ Tech CEOs ‘Too Broad’</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201845522</DOCID> 
-<DCT type="str">2017-01-29T08:04:25Z</DCT> 
-<TITLE type="str">Judges Block Parts of Trump’s Order on Muslim Immigration</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201845522</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Judges Block Parts of Trumps Order on Muslim Immigration</TITLE>
+<TEXT>Green Cards Trump Defends Order Great Gift Tech CEOs Too Broad</TEXT>
+</TimeML>

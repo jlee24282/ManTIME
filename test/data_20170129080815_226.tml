@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tuberculosis (TB) affects some 35-million people globally. In 2009 testing for TB using molecular diagnostics proved a game-changer for national TB programmes. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197501288</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Improving the accuracy of TB testing</TITLE>
+<TEXT>Tuberculosis (TB) affects some 35-million people globally. In 2009 testing for TB using molecular diagnostics proved a game-changer for national TB programmes. 
 
 The molecular diagnostics technology increased access to TB testing, which then improved diagnosis and treatment and ultimately inhibited further infection. However, when the World Health Organization endorsed this molecular diagnostic test, there was no quality assurance in place for checking the accuracy of the testing machine. 
 
@@ -12,7 +15,7 @@ In the absence of TB Check, 78 000 test results out of the three million tests p
 
 The Global Laboratory Initiative, an advisor to the WHO, has endorsed TB Check for verification. The technology was developed in collaboration with the Centres for Disease Control, which provided significant funding, the National Health Laboratory Services, which was responsible for the rollout of the new diagnostic programme in South Africa, and the AIDS Clinical Trial Group in the USA, which provided funding for testing in particular countries. 
 
-TB Check was so successfully rolled out to local and international TB testing programmes at scale that Wits Enterprise &quot;spun out&quot; a new company, SmartSpot Quality (Pty) Ltd in 2015. TB Check has thus since been exported to 22 countries, with more in the pipeline. 
+TB Check was so successfully rolled out to local and international TB testing programmes at scale that Wits Enterprise "spun out" a new company, SmartSpot Quality (Pty) Ltd in 2015. TB Check has thus since been exported to 22 countries, with more in the pipeline. 
 
 Provided by: Wits University 
 
@@ -46,10 +49,5 @@ Zika virus: Optimized tests for reliable diagnosis
 
 May 12, 2016 
 
-DZIF scientists from the University of Bonn have shown that not all conventional Zika virus molecular diagnostic tests for are sufficiently reliable. They developed optimised assays and a control for quantifying viruses in ...</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695197501288</DOCID> 
-<DCT type="str">2017-01-29T07:38:05Z</DCT> 
-<TITLE type="str">Improving the accuracy of TB testing</TITLE> 
-</root>
+DZIF scientists from the University of Bonn have shown that not all conventional Zika virus molecular diagnostic tests for are sufficiently reliable. They developed optimised assays and a control for quantifying viruses in ...</TEXT>
+</TimeML>

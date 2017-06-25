@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A technology industry alliance devoted to making sure smart machines don&apos;t turn against humanity said Friday that Apple has signed on and will have a seat on the board. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194615032</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Apple joins group devoted to keeping AI nice</TITLE>
+<TEXT>A technology industry alliance devoted to making sure smart machines don't turn against humanity said Friday that Apple has signed on and will have a seat on the board. 
  
-Microsoft, Amazon, Google, Facebook, IBM, and Google-owned British AI firm DeepMind last year established the non-profit organization, called &quot;Partnership on AI,&quot; which will have its inaugural board meeting in San Francisco on February 3. 
+Microsoft, Amazon, Google, Facebook, IBM, and Google-owned British AI firm DeepMind last year established the non-profit organization, called "Partnership on AI," which will have its inaugural board meeting in San Francisco on February 3. 
  
-Apple &quot;has been involved and collaborating with the partnership since before it was first announced and is thrilled to formalize its membership,&quot; the alliance said in an online post. 
+Apple "has been involved and collaborating with the partnership since before it was first announced and is thrilled to formalize its membership," the alliance said in an online post. 
  
-Major technology firms joined forces in the group, with stated aims including cooperation on &quot;best practices&quot; for AI and using the technology &quot;to benefit people and society.&quot; 
+Major technology firms joined forces in the group, with stated aims including cooperation on "best practices" for AI and using the technology "to benefit people and society." 
  
 Creation of the group came amid concerns that new artificial intelligence efforts could spin out of control and end up being detrimental to society. 
  
-The companies &quot;will conduct research, recommend best practices, and publish research under an open license in areas such as ethics, fairness, and inclusivity; transparency, privacy, and interoperability; collaboration between people and AI systems; and the trustworthiness, reliability, and robustness of the technology,&quot; according to a statement. 
+The companies "will conduct research, recommend best practices, and publish research under an open license in areas such as ethics, fairness, and inclusivity; transparency, privacy, and interoperability; collaboration between people and AI systems; and the trustworthiness, reliability, and robustness of the technology," according to a statement. 
  
 Internet giants have been investing heavily in creating software to help machines think more like people, ideally acting as virtual assistants who get to know users and perhaps even anticipate needs. 
  
@@ -34,18 +37,5 @@ IBM
  
 Facebook 
  
-GOOGLE</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194615032</DOCID> 
-<DCT type="str">2017-01-29T01:34:18Z</DCT> 
-<TITLE type="str">Apple joins group devoted to keeping AI nice</TITLE> 
-</root>
+GOOGLE</TEXT>
+</TimeML>

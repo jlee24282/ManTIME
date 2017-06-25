@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Megan Rupe | mrupe@ksee.com 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204936822</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Hundreds across country protest executive order</TITLE>
+<TEXT>By Megan Rupe | mrupe@ksee.com 
   
 Published 01/29 2017 12:16AM 
  
 Updated 01/29 2017 12:16AM 
    
-The demonstrators gathered at airports from San Francisco to Chicago. At least 100 were detained at airports today, in response to one of President Donald Trump&apos;s executive orders.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204936822</DOCID> 
-<DCT type="str">2017-01-29T08:33:06Z</DCT> 
-<TITLE type="str">Hundreds across country protest executive order</TITLE> 
-</root>
+The demonstrators gathered at airports from San Francisco to Chicago. At least 100 were detained at airports today, in response to one of President Donald Trump's executive orders.</TEXT>
+</TimeML>

@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">*Lambi (Punjab) [India], Jan. 29 (ANI): Accusing the Congress Party of indulging in vendetta politics, Chief Minister Parkash Singh Badal on Sunday rubbished the baseless allegations being levelled by the opposition and said that the Shiromani Akali Dal (SAD)-Bharatiya Janata Party (BJP) alliance will form the next government in Punjab.*</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203242011</DOCID> 
-<DCT type="str">2017-01-29T08:18:14Z</DCT> 
-<TITLE type="str">Have always stood against Cong whenever they did injustice: Punjab CM</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203242011</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Have always stood against Cong whenever they did injustice: Punjab CM</TITLE>
+<TEXT>*Lambi (Punjab) [India], Jan. 29 (ANI): Accusing the Congress Party of indulging in vendetta politics, Chief Minister Parkash Singh Badal on Sunday rubbished the baseless allegations being levelled by the opposition and said that the Shiromani Akali Dal (SAD)-Bharatiya Janata Party (BJP) alliance will form the next government in Punjab.*</TEXT>
+</TimeML>

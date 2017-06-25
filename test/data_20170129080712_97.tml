@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">US President Donald Trump will speak with the Saudi King and Crown Prince of United Arab Emirates on Sunday over phone, amid an uproar over his controversial immigration order against people from seven Muslim-majority countries. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195044560</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>1hr Donald Trump to speak with Saudi King, UAE and S. Korea President</TITLE>
+<TEXT>US President Donald Trump will speak with the Saudi King and Crown Prince of United Arab Emirates on Sunday over phone, amid an uproar over his controversial immigration order against people from seven Muslim-majority countries. 
  
 Mr. Trump will also talk to the acting president of South Korea, Hwang Kyo-Ahn, the White House said on Saturday. 
  
-“In the afternoon, the President will speak with the King of Saudi Arabia, Salman bin Abd al-Aziz Al Saud. The President will then speak with the Crown Prince of the United Arab Emirates, Mohammed bin Zayed,” the White House said. 
+In the afternoon, the President will speak with the King of Saudi Arabia, Salman bin Abd al-Aziz Al Saud. The President will then speak with the Crown Prince of the United Arab Emirates, Mohammed bin Zayed, the White House said. 
  
-“The President will end his day with a call with the Acting President of South Korea, Hwang Kyo-Ahn,” the White House said. 
+The President will end his day with a call with the Acting President of South Korea, Hwang Kyo-Ahn, the White House said. 
  
 The new Republican President, who took office on January 20, last night spoke with the leaders of Japan, Germany, Russia, France and Australia. 
  
@@ -14,36 +17,7 @@ Earlier in the week, he spoke with Prime Minister Narendra Modi.
  
 Mr. Trump had his first foreign visitor on Friday when he met the British Prime Minister Theresa May at the Oval Office. 
  
-Neither Saudi Arabia nor the UAE are among the seven Muslim-majority countries affected by Mr. Trump’s sweeping executive order barring visas for 90 days to migrants or visitors from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. 
+Neither Saudi Arabia nor the UAE are among the seven Muslim-majority countries affected by Mr. Trumps sweeping executive order barring visas for 90 days to migrants or visitors from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. 
  
-The executive order signed by Mr. Trump bars citizens of seven Muslim-majority countries from entering the U.S. and suspends the admission of all refugees for 120 days. There is exception for Christian refugees.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">United Arab Emirates news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Saudi Arabia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Global news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">South Korea news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195044560</DOCID> 
-<DCT type="str">2017-01-29T07:20:23Z</DCT> 
-<TITLE type="str">1hr Donald Trump to speak with Saudi King, UAE and S. Korea President</TITLE> 
-</root>
+The executive order signed by Mr. Trump bars citizens of seven Muslim-majority countries from entering the U.S. and suspends the admission of all refugees for 120 days. There is exception for Christian refugees.</TEXT>
+</TimeML>

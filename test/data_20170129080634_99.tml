@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">David Leblanc (Manchester Police Department) 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193883337</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Manchester man charged with DWI after hitting pole</TITLE>
+<TEXT>David Leblanc(Manchester Police Department) 
    
 
 MANCHESTER - Manchester police tracked down a local motorist and charged him with drunken driving after police said his truck struck a utility pole and he left the scene. 
@@ -11,18 +14,9 @@ A witness saw a dark colored Ford truck crash into the pole, splintering it and 
 
 Police got from the same witness the license plate of the truck leaving the scene. 
 
-Manchester Officer Rob Megrowen followed a fluid trail to Leblanc&apos;s address on Phillips Street and found a black, Ford F-150 heavily damaged in the driveway. 
+Manchester Officer Rob Megrowen followed a fluid trail to Leblanc's address on Phillips Street and found a black, Ford F-150 heavily damaged in the driveway. 
 
-Manchester police said there was no information on Leblanc&apos;s bail status or his bail date. 
+Manchester police said there was no information on Leblanc's bail status or his bail date. 
 
-.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Crime and punishment news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193883337</DOCID> 
-<DCT type="str">2017-01-29T04:46:00Z</DCT> 
-<TITLE type="str">Manchester man charged with DWI after hitting pole</TITLE> 
-</root>
+.</TEXT>
+</TimeML>

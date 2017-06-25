@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Just like humans, dogs prefer sharing food with the familiar partners. However, they are y to share food with other animals during complex situations, a new study found.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196330749</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Dogs prefer to share food with familiar partners</TITLE>
+<TEXT>Just like humans, dogs prefer sharing food with the familiar partners. However, they are y to share food with other animals during complex situations, a new study found.
 
 The study found that dogs exhibit pro-social behaviour and they clearly showed a preference for sharing the food reward with another familiar dog, whereas unfamiliar dogs were rewarded nearly three times less often than the familiar ones. The higher level of complexity, however, impacted the general frequency of the food delivery, Rachel Dale from the University of Veterinary Medicine - Vienna in Austria, said in a statement.
 
@@ -14,24 +17,11 @@ This aspect, known as social facilitation, starts from the assumption that anima
 
 The presence of a partner appears to play a greater role. In this case too, the donor dogs preferred familiar partners, the researchers said.
 
-&quot;The difference was smaller, however, than when there was direct visual contact. Social facilitation should, therefore, be considered and controlled more strongly in future studies and in simple experiments,&quot; explained Friederike Range from the University of Veterinary Medicine Vienna.
+"The difference was smaller, however, than when there was direct visual contact. Social facilitation should, therefore, be considered and controlled more strongly in future studies and in simple experiments," explained Friederike Range from the University of Veterinary Medicine Vienna.
 
 --IANS
 
 vc/sm/vt 
 
-(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Austria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196330749</DOCID> 
-<DCT type="str">2017-01-29T00:00:00Z</DCT> 
-<TITLE type="str">Dogs prefer to share food with familiar partners</TITLE> 
-</root>
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)</TEXT>
+</TimeML>

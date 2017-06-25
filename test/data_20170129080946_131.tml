@@ -1,28 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">[embedded content] 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201288125</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Dubais Waterpark  | Play HD  Dubai Video</TITLE>
+<TEXT>[embedded content] 
 
 published: 2017-01-22 04:22:22 
 
 Atlantis the Palm. 
 
 source 
- Some local news is curated - Original might have been posted at a different date/ time! Click the source link for details.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">United Arab Emirates news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Dubai news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201288125</DOCID> 
-<DCT type="str">2017-01-29T08:01:17Z</DCT> 
-<TITLE type="str">Dubai’s Waterpark  | Play HD – Dubai Video</TITLE> 
-</root>
+ Some local news is curated - Original might have been posted at a different date/ time! Click the source link for details.</TEXT>
+</TimeML>

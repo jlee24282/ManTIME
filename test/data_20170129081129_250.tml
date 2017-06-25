@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mikey Garcia produced a &apos;Knockout of the Year&apos; contender as he stopped Dejan Zlaticanin with a thunderous right hand 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204870008</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>WATCH: Mikey Garcia's third-round KO of Dejan Zlaticanin</TITLE>
+<TEXT>Mikey Garcia produced a 'Knockout of the Year' contender as he stopped Dejan Zlaticanin with a thunderous right hand 
 
 Mikey Garcia produced an unbelievable knockout to take the WBC lightweight title away from Dejan Zlaticanin. 
 
@@ -12,24 +15,11 @@ Fight report
 
 Mikey Garcia produced a third-round KO to become a three-weight world champion 
 
-Garcia&apos;s precision and power left the Montenegrin fighter out cold but thankfully the former champion eventually got to his feet to embrace the new champion. 
+Garcia's precision and power left the Montenegrin fighter out cold but thankfully the former champion eventually got to his feet to embrace the new champion. 
 
-It means &apos;Mikey&apos; has won world titles at three weights and proved he can carry his power up the weight classes, with 30 of his 36 victories coming inside the distance. 
+It means 'Mikey' has won world titles at three weights and proved he can carry his power up the weight classes, with 30 of his 36 victories coming inside the distance. 
 
-To see Garcia&apos;s latest crushing KO, simply click play at the top of the article. 
+To see Garcia's latest crushing KO, simply click play at the top of the article. 
 
-Mikey Garcia won the WBC lightweight title in brutal fashion</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: boxing news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204870008</DOCID> 
-<DCT type="str">2017-01-29T08:30:00Z</DCT> 
-<TITLE type="str">WATCH: Mikey Garcia&apos;s third-round KO of Dejan Zlaticanin</TITLE> 
-</root>
+Mikey Garcia won the WBC lightweight title in brutal fashion</TEXT>
+</TimeML>

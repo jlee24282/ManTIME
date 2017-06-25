@@ -1,37 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">With cheese and shrimp cocktail piled on their plates, guests strolled the exhibit like patrons at an art gallery, sipping beer and pausing to ponder the displays that lined the room. But instead of paintings or sculptures, they were examining scientific charts about climate change at a state environmental...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Environment news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Climate change news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US politics news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204785568</DOCID> 
-<DCT type="str">2017-01-29T08:32:03Z</DCT> 
-<TITLE type="str">As the White House changes course on climate change, California stubbornly presses forward</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204785568</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>As the White House changes course on climate change, California stubbornly presses forward</TITLE>
+<TEXT>With cheese and shrimp cocktailpiled on their plates, guestsstrolled the exhibit like patrons at an art gallery, sipping beerand pausing to ponder the displays that lined the room.But instead of paintings or sculptures, they were examining scientific charts about climate change ata state environmental...</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Marriage Licenses Issued 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199261306</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Marriages and divorces for Sunday, Jan. 29, 2017</TITLE>
+<TEXT>Marriage Licenses Issued 
  
 Potter County 
  
@@ -94,14 +97,5 @@ Michael Tarone Salvato, Susan Renea Salvato
  
 Michael Shane Bohannon, Nikki Delynn Bohannon 
  
-Brandi Brianne Bradley, Nicklas Lyndsey Bradley</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199261306</DOCID> 
-<DCT type="str">2017-01-29T07:50:15Z</DCT> 
-<TITLE type="str">Marriages and divorces for Sunday, Jan. 29, 2017</TITLE> 
-</root>
+Brandi Brianne Bradley, Nicklas Lyndsey Bradley</TEXT>
+</TimeML>

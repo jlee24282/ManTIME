@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Description   
-Open to all vehicles manufactured in England and Europe and a special invitation to Japanese classics. Celebrating 90 years of Volvo, 60 years of Jaguar XK150, 50 years of MGC, Hillman Hunter, Ford Cortina MkII and Jaguar 420. Music, kids entertainment, trophies and catering available. Admission Display cars (driver + passengers) $20, Spectators $5 plus parking fee (VRC) $20, No concessions, Children under 18 - Free. Flemington Racecourse Carpark (Melway 28G12) www.aomc.asn.au</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695203985168</DOCID> 
-<DCT type="str">2017-01-29T08:25:38Z</DCT> 
-<TITLE type="str">RACV Classic Showcase</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203985168</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>RACV Classic Showcase</TITLE>
+<TEXT>Description   
+Open to all vehicles manufactured in England and Europe and a special invitation to Japanese classics. Celebrating 90 years of Volvo, 60 years of Jaguar XK150, 50 years of MGC, Hillman Hunter, Ford Cortina MkII and Jaguar 420. Music, kids entertainment, trophies and catering available. Admission Display cars (driver + passengers) $20, Spectators $5 plus parking fee (VRC) $20, No concessions, Children under 18 - Free. Flemington Racecourse Carpark (Melway 28G12) www.aomc.asn.au</TEXT>
+</TimeML>

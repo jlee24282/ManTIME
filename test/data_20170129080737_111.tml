@@ -1,71 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">US President Donald Trump has passed an executive order   which halts immigration from seven Islamic nations including Iraq, Iran, Libya, Somalia, Sudan, Yemen, and Syria, for at least 90 days. For Syrian refugees, the ban is indefinite. Trump said that the order was to keep away radical Islamic terrorists. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196189861</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Silicon Valley isnt happy: Heres what top tech CEOs have to say about US President Trumps immigration order</TITLE>
+<TEXT>US President Donald Trump has passed an executive order  which halts immigration from seven Islamic nations includingIraq, Iran, Libya, Somalia, Sudan, Yemen, and Syria, for at least 90 days. For Syrian refugees, the ban is indefinite. Trump said that the order was to keep away radical Islamic terrorists. 
  
 This has caused a lot of furore not just among the general population, but also among technology companies. 
  
-Most of the top technology firms in the US are filled with staff who aren’t native US citizens. And logically enough, most leaders from across the technology industry spectrum have criticised this new temporary ban that Trump has issued. 
+Most of the top technology firms in the US are filled with staff who arent native US citizens. And logically enough, most leaders from across the technology industry spectrum have criticised this new temporary ban that Trump has issued. 
  
-Microsoft Corp, Alphabet Inc, Apple Inc, Facebook Inc and Uber Technologies and many other companies have expressed concern about the immigration order’s effects on their employees, according to the Wall Street Journal .  
+Microsoft Corp, Alphabet Inc, Apple Inc, Facebook Inc and Uber Technologies and many other companies have expressed concern about the immigration orders effects on their employees, according to the Wall Street Journal . 
  
 Here is what the heads of top US tech companies have to say about this order. 
  
 Microsoft CEO Satya Nadella, himself an immigrant told the Wall Street Journal that he had experienced and seen the positive impact that immigration has had on Microsoft as well as for the US and the world. He said that Microsoft Corp would continue being an advocate on the issue. 
  
-Apple CEO Tim Cook has sent an email to his employees assuring them that Apple has contacted the White House to explain the negative effects of such restrictions. Cook had also spoken about the importance of immigration, both to Apple and the US’s future, when he had visited Washington last week. 
+Apple CEO Tim Cook has sent an email to his employees assuring them that Apple has contacted the White House to explain the negative effects of such restrictions. Cook had also spoken about the importance of immigration, both to Apple and the USs future, when he had visited Washington last week. 
  
-Google CEO Sundar Pichai said that the order affected close to 187 current Googlers. “We’re upset about the impact of this order and any proposals that could impose restrictions on Googlers and their families, or that could create barriers to bringing great talent to the US. It is painful to see the personal cost of this executive order on our colleagues,” he said. 
+Google CEO Sundar Pichai said that the order affected close to 187 current Googlers. Were upset about the impact of this order and any proposals that could impose restrictions on Googlers and their families, or that could create barriers to bringing great talent to the US.It is painful to see the personal cost of this executive order on our colleagues, he said. 
  
-Facebook CEO and founder Mark Zuckerberg put out a status on his Facebook page stating that both his and his wife’s parents were immigrants to the US. “We need to keep this country safe, but we should do that by focusing on people who actually pose a threat. Expanding the focus of law enforcement beyond people who are real threats would make all Americans less safe by diverting resources, while millions of undocumented folks who don’t pose a threat will live in fear of deportation,” said Zuckerberg. 
+Facebook CEO and founder Mark Zuckerberg put out a status on his Facebook page stating that both his and his wifes parents were immigrants to the US. We need to keep this country safe, but we should do that by focusing on people who actually pose a threat. Expanding the focus of law enforcement beyond people who are real threats would make all Americans less safe by diverting resources, while millions of undocumented folks who dont pose a threat will live in fear of deportation, said Zuckerberg. 
  
-Digital storage firm Box’s CEO Aaron Levie said that the move was quite infuriating and morally wrong. He said that he was looking at ways to get personally involved and fight the order. 
+Digital storage firm Boxs CEO Aaron Levie said that the move was quite infuriating and morally wrong. He said that he was looking at ways to get personally involved and fight the order. 
  
-Amazon’s vice president for HR, Beth Galetti, said that a diverse workforce helps Amazon make better products for its customers. It has sent out an email to its staffers, recommending US based employees from countries in the ban-list, from travelling outside the US. It has also asked such employees to get in touch with the company if they are already outside the borders for travel or work. 
+Amazons vice president for HR, Beth Galetti, said that a diverse workforce helps Amazon make better products for its customers. It has sent out an email to its staffers, recommending US based employees from countries in the ban-list, from travelling outside the US. It has also asked such employees to get in touch with the company if they are already outside the borders for travel or work. 
  
-Tags:  Alphabet , Amazon , Apple , Box , Donald Trump , Google , Microsoft , Satya Nadella , Sundar Pichai , Tim Cook , Trump</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Tech latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Silicon Valley news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Companies</group> 
-<name type="str">Apple news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US immigration news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US politics news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196189861</DOCID> 
-<DCT type="str">2017-01-29T07:27:34Z</DCT> 
-<TITLE type="str">Silicon Valley isn’t happy: Here’s what top tech CEOs have to say about US President Trump’s immigration order</TITLE> 
-</root>
+Tags:  Alphabet , Amazon , Apple , Box , Donald Trump , Google , Microsoft , Satya Nadella , Sundar Pichai , Tim Cook , Trump</TEXT>
+</TimeML>

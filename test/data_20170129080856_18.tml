@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">29/1/2017 15:43 
-                                                      湖北省當陽市發生交通意外, 一架載有35人的巴士, 在行駛途中失事翻側, 當局說, 有至少5人受傷, 傷情較重.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199070365</DOCID> 
-<DCT type="str">2017-01-29T07:48:51Z</DCT> 
-<TITLE type="str">湖北當陽巴士翻側五人傷勢較重</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199070365</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE></TITLE>
+<TEXT>29/1/2017 15:43 
+                                              , 35, , , 5, .</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">SORT BY  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200920811</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Tet dl Andla Pn? Myslm, e asi nebude. Bav m ale nahrvat Trojanovi na gly, k Dvok</TITLE>
+<TEXT>SORT BY  
  
 CATEGORIES  
  
@@ -8,10 +11,5 @@ LANGUAGES
  
 MEDIA  
  
-TIME</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200920811</DOCID> 
-<DCT type="str">2017-01-29T08:03:01Z</DCT> 
-<TITLE type="str">Třetí díl Anděla Páně? Myslím, že asi nebude. Baví mě ale nahrávat Trojanovi na góly, říká Dvořák</TITLE> 
-</root>
+TIME</TEXT>
+</TimeML>

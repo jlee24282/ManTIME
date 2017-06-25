@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Read on the original site</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204461194</DOCID> 
-<DCT type="str">2017-01-29T08:29:45Z</DCT> 
-<TITLE type="str">PREMIOS ÓSCAR - Teruel viajará a los Óscar 45 años después de la estatuilla a Luis Buñuel</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204461194</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>PREMIOS SCAR - Teruel viajar a los scar 45 aos despus de la estatuilla a Luis Buuel</TITLE>
+<TEXT>Read on the original site</TEXT>
+</TimeML>

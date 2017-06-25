@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A CENTENARY is an anniversary worthy of a celebration. A CENTENARY is an anniversary worthy of a celebration. The Ballarat RSL has survived a tumultuous 10 decades that saw many other branches fold. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198839887</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Centenary celebration an achievement</TITLE>
+<TEXT>A CENTENARY is an anniversary worthy of a celebration. A CENTENARY is an anniversary worthy of a celebration. The Ballarat RSL has survived a tumultuous 10 decades that saw many other branches fold. 
 
 The branch is stronger than ever and celebrated its centenary with a vehicle display, luncheon and dinner. 
 
@@ -10,14 +13,5 @@ She said one man, who she had never met before, came and showed her a picture of
 
 Ms Tascas, an army veteran, said these stories showed the significance and importance of the RSL.
 
-The story first appeared on The Courier.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198839887</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">Centenary celebration an achievement</TITLE> 
-</root>
+The story first appeared on The Courier.</TEXT>
+</TimeML>

@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">. Trending posts on www.trendinginsocial.com 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197435525</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Oreo TVC 2017 shows father son bonding at its best</TITLE>
+<TEXT>. Trending posts on www.trendinginsocial.com 
 
 Author: trendinginsocial 
 Tags: Oreo  Oreo Ad 2017  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197435525</DOCID> 
-<DCT type="str">2017-01-29T07:30:19Z</DCT> 
-<TITLE type="str">Oreo TVC 2017 shows father son bonding at its best</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

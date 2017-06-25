@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Regarding &quot;Trump owes us tax records,&quot; editorial, Jan. 25: President Donald Trump obviously does as he pleases. If it had been to his benefit to release his tax returns before the election, he would have done so. We can assume that it was not. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195706291</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Raymond Jussaume: Dont hold breath on Trumps tax returns</TITLE>
+<TEXT>Regarding "Trump owes us tax records," editorial, Jan. 25: President Donald Trump obviously does as he pleases. If it had been to his benefit to release his tax returns before the election, he would have done so. We can assume that it was not. 
  
-Now that he is president, it’s not likely that he will change his mind. We may have to forget about seeing his tax returns. That bird has flown. 
+Now that he is president, its not likely that he will change his mind. We may have to forget about seeing his tax returns. That bird has flown. 
  
 Raymond Jussaume 
  
-Somerset</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Tax news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195706291</DOCID> 
-<DCT type="str">2017-01-29T07:01:00Z</DCT> 
-<TITLE type="str">Raymond Jussaume: Don’t hold breath on Trump’s tax returns</TITLE> 
-</root>
+Somerset</TEXT>
+</TimeML>

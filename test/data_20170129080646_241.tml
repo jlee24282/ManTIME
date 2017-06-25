@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">700 S. Broadway, St. Louis St. Louis - Downtown MO 63102 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194401921</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Tom Hall & Dan Bliss Read More</TITLE>
+<TEXT>700 S. Broadway, St. Louis St. Louis - Downtown MO 63102 
 
 38.61972;-90.19210 
 
@@ -18,20 +21,11 @@ Nearby
 
 Beale on Broadway  (0.02 miles) 
 
-Eugene Field House &amp; St. Louis Toy Museum  (0.05 miles) 
+Eugene Field House & St. Louis Toy Museum  (0.05 miles) 
 
 4th St and Washington Ave  (0.05 miles) 
 
 Angry Beaver  (0.06 miles) 
 
-Imo&apos;s Pizza-Downtown  (0.07 miles)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">St Louis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194401921</DOCID> 
-<DCT type="str">2017-01-29T07:15:09Z</DCT> 
-<TITLE type="str">Tom Hall &amp; Dan Bliss Read More</TITLE> 
-</root>
+Imo's Pizza-Downtown  (0.07 miles)</TEXT>
+</TimeML>

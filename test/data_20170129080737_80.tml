@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">It was reported earlier that US President Donald Trump had to give up his Android device for a secure, Secret Service-vetted mobile device. It turns out however, that Trump has in fact decided to continue using his Android phone . 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196153435</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Donald Trumps unsecured Android phone can be turned into a spy cam: ...</TITLE>
+<TEXT>It was reported earlier that US President Donald Trump had to give up his Android device for a secure, Secret Service-vetted mobile device. It turns out however, that Trump has in fact decided to continue using his Android phone . 
  
-The exact model of Trump’s phone is unknown, but it’s speculated to be a Samsung Galaxy S3. If you’re interested, the S3 has a 4.8-inch Amoled display with an HD resolution. The device up to 64GB of onboard memory, a 1.4GHz Exynos 4412 SoC and 1GB of RAM. 
+The exact model of Trumps phone is unknown, but its speculated to be a Samsung Galaxy S3. If youre interested, the S3 has a 4.8-inch Amoled display with an HD resolution. The device up to 64GB of onboard memory, a 1.4GHz Exynos 4412 SoC and 1GB of RAM. 
  
 The phone was launched in 2012. 
  
@@ -10,38 +13,13 @@ Trump did intend to maintain his existing Twitter account after taking over @pot
  
 The New York Times reports that this is not the case. 
  
-Reputed security analyst Bruce Schneier was surprised that the Oresident was still using the device. As he explains to Politico , Trump’s Android phone is a “consumer” device and easily vulnerable to hacks. The obvious hacks involving email accounts and Twitter passwords is a small risk, he says, compared to the risk of turning Trump’s phone into a recording device with relatively simple hacks. 
+Reputed security analyst Bruce Schneier was surprised that the Oresident was still using the device. As he explains to Politico , Trumps Android phone is a consumer device and easily vulnerable to hacks. The obvious hacks involving email accounts and Twitter passwords is a small risk, he says, compared to the risk of turning Trumps phone into a recording device with relatively simple hacks. 
  
-Schneier explains that a motivated hacker, not just a state-sponsored one, can potentially commandeer Trump’s phone, use it to record conversations, and take pictures remotely. 
+Schneier explains that a motivated hacker, not just a state-sponsored one, can potentially commandeer Trumps phone, use it to record conversations, and take pictures remotely. 
  
 The White House and the Secret Service have apparently refused to comment on the matter. 
  
-If that’s not bad enough, two of Trump’s advisors have been reported (by Newsweek ) to be using private email servers for all their emails, including official ones. It was on the charge of using a private email server that Hillary Clinton was investigated by the FBI. 
+If thats not bad enough, two of Trumps advisors have been reported (by Newsweek ) to be using private email servers for all their emails, including official ones. It was on the charge of using a private email server that Hillary Clinton was investigated by the FBI. 
  
-Tags:  Android , android phone , Android Security , CIA , Donald Trump , FBI , Secret Service , US President</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Mobile industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Handhelds news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Tech latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Telecom news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Android news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196153435</DOCID> 
-<DCT type="str">2017-01-29T07:27:25Z</DCT> 
-<TITLE type="str">Donald Trump’s unsecured Android phone can be turned into a spy cam: ...</TITLE> 
-</root>
+Tags:  Android , android phone , Android Security , CIA , Donald Trump , FBI , Secret Service , US President</TEXT>
+</TimeML>

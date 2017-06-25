@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">It was a nervous Friday night of travel for Milwaukee Bucks rookie center Thon Maker. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196243220</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bucks concerned for rookie C Maker after travel order</TITLE>
+<TEXT>It was a nervous Friday night of travel for Milwaukee Bucks rookie center Thon Maker. 
  
-New president Donald Trump&apos;s executive order earlier Friday temporarily banned citizens from seven different Musl</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: NBA - Milwaukee Bucks news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196243220</DOCID> 
-<DCT type="str">2017-01-29T03:50:06Z</DCT> 
-<TITLE type="str">Bucks concerned for rookie C Maker after travel order</TITLE> 
-</root>
+New president Donald Trump's executive order earlier Friday temporarily banned citizens from seven different Musl</TEXT>
+</TimeML>

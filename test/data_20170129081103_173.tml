@@ -1,30 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">STEPANAKERT. – The adversary violated the ceasefire along the line of contact between the Karabakh and Azerbaijani opposing forces more than 25 times, from late Saturday night to early Sunday morning. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203872845</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Karabakh army: Azerbaijan fired around 220 shots at night</TITLE>
+<TEXT>STEPANAKERT.  The adversary violated the ceasefire along the line of contact between the Karabakh and Azerbaijani opposing forces more than 25 times, from late Saturday night to early Sunday morning. 
  
 During this time the Azerbaijani armed forces fired around 220 shots toward the Armenian position-holders, and with shooting weapons, the Nagorno-Karabakh Republic (NKR/Artsakh) Defense Army informed Armenian News-NEWS.am. 
  
 But the NKR Defense Army vanguard units refrained from taking actions in response, and continued confidently carrying out their military service. 
- Armenia News - NEWS.am</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Caucasus news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Azerbaijan news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Armenia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Military news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203872845</DOCID> 
-<DCT type="str">2017-01-29T08:13:47Z</DCT> 
-<TITLE type="str">Karabakh army: Azerbaijan fired around 220 shots at night</TITLE> 
-</root>
+ Armenia News - NEWS.am</TEXT>
+</TimeML>

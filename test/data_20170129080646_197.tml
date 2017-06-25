@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">زوروا موقعنا لمشاهدة كل المسلسلات : https://goo.gl/1uoHSH 
-تابعونا ع تويتر : https://twitter.com/q3sk_dizi 
-ارجوا الاعجاب بصفحتنا ع الفيس بوك : https://goo.gl/WPXbj0 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194380638</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>     12  1   -     </TITLE>
+<TEXT>     : https://goo.gl/1uoHSH 
+   : https://twitter.com/q3sk_dizi 
+      : https://goo.gl/WPXbj0 
 
 Author: hoblayfhm 
 Tags: 
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194380638</DOCID> 
-<DCT type="str">2017-01-29T07:11:06Z</DCT> 
-<TITLE type="str">مسلسل ماوي و الحب الحلقة 12 القسم 1 مترجم للعربية - زوروا رابط موقعنا بأسفل الفيديو</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

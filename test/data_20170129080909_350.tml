@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Billings Skyview 42, Laurel 41 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200071498</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Girls high school basketball boxscores (Saturday, Jan. 28)</TITLE>
+<TEXT>Billings Skyview 42, Laurel 41 
 
-Laurel (4-7): Rylee Clark 15, Aspen Cotter 11, Paige O&apos;Toole 1, Dakota Boehler 3, Riley Chapman 1, Ellie Kildahl 5, Sammi Spitzer 5.
+Laurel (4-7): Rylee Clark 15, Aspen Cotter 11, Paige O'Toole 1, Dakota Boehler 3, Riley Chapman 1, Ellie Kildahl 5, Sammi Spitzer 5.
 
 Skyview (4-6): Sophie Stott 5, Hannah Stubson 8, Kenzie Ketchum 4, Aiyana Ereaux 2, Ashley Pomroy 6, Briana Guse 2, Jacey Reiter 16.
 
@@ -64,7 +67,7 @@ Harlem 59, Cut Bank 48
 
 Cut Bank: Marissa Vanden-Bos 21, Brynne Finstad 5, Macee Barry 5, Jasmine Spotted Bear 10, Sarah Phies 1, Madison Seistert 2, Jaycee Fryndenlund 4. 
 
-Harlem: Kailee Henry 13, Skylee Dirden 14, L&apos;Tia Lawrence 13, Autumn Eagleman 9, Taeshon Scheaffer 2, Jazz Benson 8. 
+Harlem: Kailee Henry 13, Skylee Dirden 14, L'Tia Lawrence 13, Autumn Eagleman 9, Taeshon Scheaffer 2, Jazz Benson 8. 
 
 Townsend 61, Manhattan 28 
 
@@ -106,7 +109,7 @@ Poplar 53, Glasgow 39
 
 Glasgow: Khloe Krumwiede 1, Lexi Nixdorf 4, Jordan Kolsvyk 13, Leinie Hughes 19, Tyra Johnson 2. 
 
-Poplar: Alleen Russell 20, Kylee Stump 5, Samantha Youngman 5, Reese Belton 1, Chlo&apos;e Shields 6, Imani Bighorn 16. 
+Poplar: Alleen Russell 20, Kylee Stump 5, Samantha Youngman 5, Reese Belton 1, Chlo'e Shields 6, Imani Bighorn 16. 
 
 Colstrip 84, Lodge Grass 38 
 
@@ -268,18 +271,5 @@ Scobey: Tia Hallock 2, ShaAnn Danielson 12, Kortney Nelson 8, Alexa Welchlin 2, 
 
 Northern Cheyenne 59, Lame Deer 41 Lame Deer: Tamia Two Moons 17, Kianna King 4, Loretta Collins 5, Caitlin Shoulder Blade 1, Nizhoni Russell 1, Mishayne Bear Chum 11, Cheyenna One Bear 2. 
 
-Northern Cheyenne: Diera Elk Shoulder 3, Davia Iron Shirt 11, Jeanal Shorty 17, Larshay Shorty 13, Asia Strange Owl 3, Tatianna Pine 12.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: basketball news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200071498</DOCID> 
-<DCT type="str">2017-01-29T06:09:00Z</DCT> 
-<TITLE type="str">Girls high school basketball boxscores (Saturday, Jan. 28)</TITLE> 
-</root>
+Northern Cheyenne: Diera Elk Shoulder 3, Davia Iron Shirt 11, Jeanal Shorty 17, Larshay Shorty 13, Asia Strange Owl 3, Tatianna Pine 12.</TEXT>
+</TimeML>

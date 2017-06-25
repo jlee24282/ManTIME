@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">AACS SCHOOL NEWS 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193826347</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>News and notes from Ashtabula</TITLE>
+<TEXT>AACS SCHOOL NEWS 
  
-Students from every school in the Ashtabula Area City School District gave a monthly building update at Wednesday night’s Board of Education meeting at Lakeside High School.  
+Students from every school in the Ashtabula Area City School District gave a monthly building update at Wednesday nights Board of Education meeting at Lakeside High School. 
  
 They received new Chromebooks and said they are playing new math games, as well as enjoying family math night and family reading night at their schools. 
  
@@ -28,7 +31,7 @@ Cost is $15 for AARP members; $20 for non-members. To register, call the Ashtabu
  
 BUMP BUMP BUMP 
  
-To report dangerous potholes, call the city’s pothole hotline at 440-992-7100. 
+To report dangerous potholes, call the citys pothole hotline at 440-992-7100. 
  
 BLOOD DRIVE 
  
@@ -40,16 +43,11 @@ Check out the groundhog on Thursday!
  
 ARTS CENTER EXHIBIT 
  
-The newest gallery exhibit at the Ashtabula Arts Center, “Astral Planes – Paintings and Sculptures by James Jones,” will be on display beginning Friday.  
+The newest gallery exhibit at the Ashtabula Arts Center, Astral Planes  Paintings and Sculptures by James Jones, will be on display beginning Friday. 
  
-An artist’s reception, free and open to the public, will be 6-8 p.m. Friday. 
+An artists reception, free and open to the public, will be 6-8 p.m. Friday. 
  
 A native of Cleveland, Jones spent many years teaching drawing and painting, and doing commissioned portraits. He recently moved his studio to the Ashtabula Harbor, where he says he finds endless inspiration for his work. 
  
-SHELLEY TERRY covers the Ashtabula area for the Star Beacon.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695193826347</DOCID> 
-<DCT type="str">2017-01-29T07:11:12Z</DCT> 
-<TITLE type="str">News and notes from Ashtabula</TITLE> 
-</root>
+SHELLEY TERRY covers the Ashtabula area for the Star Beacon.</TEXT>
+</TimeML>

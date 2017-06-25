@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The following is the latest available news video.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196331347</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Video Advisory (Jan. 29) Japan's research base in Antarctica marks 60th anniversary</TITLE>
+<TEXT>The following is the latest available news video.
 
-Japan&apos;s research base in Antarctica marks 60th anniversary
+Japan's research base in Antarctica marks 60th anniversary
 
 -- Video shot using a drone in January 2017 shows Showa Station, a Japanese permanent research station in the Antarctica. The station marked its 60th anniversary on Jan. 29, 2017.
 
@@ -10,22 +13,5 @@ Japan&apos;s research base in Antarctica marks 60th anniversary
 
 NOTE: To see and order the video, please go to the URL given. Use of the video is limited to news and other relevant broadcasting.
 
-==Kyodo</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Japan news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Antarctic news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196331347</DOCID> 
-<DCT type="str">2017-01-29T07:25:31Z</DCT> 
-<TITLE type="str">Video Advisory (Jan. 29) Japan&apos;s research base in Antarctica marks 60th anniversary</TITLE> 
-</root>
+==Kyodo</TEXT>
+</TimeML>

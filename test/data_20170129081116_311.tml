@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Director David Ayer regrets not making the Clown Prince the main villain of Suicide Squad. Is the Harley Quinn spin-off his chance to do that? The Suicide Squad director regrets not making the Clown Prince the main baddie. Is the Harley Quinn spin-off his chance to do that?</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204425686</DOCID> 
-<DCT type="str">2017-01-29T07:38:27Z</DCT> 
-<TITLE type="str">We Debate Whether Joker Should Be Harley Movie&apos;s Villain</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204425686</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>We Debate Whether Joker Should Be Harley Movie's Villain</TITLE>
+<TEXT>Director David Ayer regrets not making the Clown Prince the main villain of Suicide Squad. Is the Harley Quinn spin-off his chance to do that? The Suicide Squad director regrets not making the Clown Prince the main baddie. Is the Harley Quinn spin-off his chance to do that?</TEXT>
+</TimeML>

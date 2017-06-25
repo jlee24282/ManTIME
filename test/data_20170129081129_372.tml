@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Submit a correction | Search events 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204970017</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Tibetan Bowl & Gong Sound Healing Immersion</TITLE>
+<TEXT>Submit a correction | Search events 
 
-Recording artist and sound healer Diane Mandle presents an intense transformation sound immersion with Tibetan bowls, bells, planetary gong, and percussion. Bring a mat to lie on. $15 advance, $20 at the door.At the Japanese Friendship Garden&apos;s Inamori Pavilion, 2220 Paseo de Oro. Info: 619-232-2722. 
+Recording artist and sound healer Diane Mandle presents an intense transformation sound immersion with Tibetan bowls, bells, planetary gong, and percussion. Bring a mat to lie on. $15 advance, $20 at the door.At the Japanese Friendship Garden's Inamori Pavilion, 2220 Paseo de Oro. Info: 619-232-2722. 
 
 Where: 
 
@@ -22,7 +25,7 @@ Username
 
 I have an account. 
 
-I&apos;m new. 
+I'm new. 
 
 Password Forgot? 
 
@@ -64,22 +67,5 @@ Earn up to $25 for album reviews.
 
 Earn up to $50 for travel stories. 
 
-Earn up to $50 for water stories.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204970017</DOCID> 
-<DCT type="str">2017-01-29T08:33:17Z</DCT> 
-<TITLE type="str">Sun 1/29: Tibetan Bowl &amp; Gong Sound Healing Immersion</TITLE> 
-</root>
+Earn up to $50 for water stories.</TEXT>
+</TimeML>

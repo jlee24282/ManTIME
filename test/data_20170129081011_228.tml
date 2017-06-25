@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Gunmen have abducted a Catholic priest in-charge of St. Patrick’s Catholic Church, Eku in Ethiope East Local Government Area of Delta State, Rev. Fr. Joseph Oghenekevwe Ojakorotu. Ojakorotu was said to have been whisked away by the daredevil gunmen along the Sapele-Eku Road in Sapele Local Government Area while returning from a journey on Friday. […] 
-Gunmen kidnap Catholic priest in Delta, demand N10m as ransom</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202325545</DOCID> 
-<DCT type="str">2017-01-29T08:12:58Z</DCT> 
-<TITLE type="str">Gunmen kidnap Catholic priest in Delta, demand N10m as ransom</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202325545</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Gunmen kidnap Catholic priest in Delta, demand N10m as ransom</TITLE>
+<TEXT>Gunmen have abducted a Catholic priest in-charge of St. Patricks Catholic Church, Eku in Ethiope East Local Government Area of Delta State, Rev. Fr. Joseph Oghenekevwe Ojakorotu. Ojakorotu was said to have been whisked away by the daredevil gunmen along the Sapele-Eku Road in Sapele Local Government Area while returning from a journey on Friday. [] 
+Gunmen kidnap Catholic priest in Delta, demand N10m as ransom</TEXT>
+</TimeML>

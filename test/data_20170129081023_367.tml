@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Protests erupted at airports nationwide Saturday following the implementation of President Donald Trump&apos;s executive order placing temporary bans on entry into the U.S. of people from seven Muslim-majority countries.  With 375 travelers affected so far by the travel ban as of Saturday night, according to the Department of Homeland Security -- some being sent back to their originating countries from airports across the U.S., and others being prevented from boarding U.S.-bound flights overseas --... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202724361</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trumps Travel Ban Sparks Airport Protests Across US</TITLE>
+<TEXT>Protests erupted at airports nationwide Saturday following the implementation of President Donald Trump's executive order placing temporary bans on entry into the U.S. of people from seven Muslim-majority countries.  With 375 travelers affected so far by the travel ban as of Saturday night, according to the Department of Homeland Security -- some being sent back to their originating countries from airports across the U.S., and others being prevented from boarding U.S.-bound flights overseas --... 
 read full story 
-The post appeared first on Barberton Herald .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Airline industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202724361</DOCID> 
-<DCT type="str">2017-01-29T07:04:55Z</DCT> 
-<TITLE type="str">Trump’s Travel Ban Sparks Airport Protests Across US</TITLE> 
-</root>
+The post appeared first on Barberton Herald .</TEXT>
+</TimeML>

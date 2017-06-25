@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">In a newly released report by the National Bureau Of Statistics (NBS), total number of staff in the banking sector was reported to have dropped from 81,122 in Q1 2016 to 76, 812 in Q4 2016. Reflecting the harsh economic environment for businesses in the country. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197728548</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>NBS Q4 Financial Services Data Report: Bank Staff Drop To 76,812</TITLE>
+<TEXT>In a newly released report by the National Bureau Of Statistics (NBS), total number of staff in the banking sector was reported to have dropped from 81,122 in Q1 2016 to 76, 812 in Q4 2016. Reflecting the harsh economic environment for businesses in the country. 
  
-A total of ₦4.9 trillion worth of ATM transactions were processed in 2016. ATM transactions showed consistent growth on a quarterly basis from ₦1.0 trillion naira in Q1 2016 to ₦1.5 trillion naira in Q4 2016. POS transactions also grew from ₦144.75 billion in Q1 2016 to ₦260.58 billion in Q4 2016. The total number of transactions by cheque was ₦5.8 trillion naira in 2016.The total volume of transactions using electronic channels increased from 186.5 million in Q1 2016 to 285 million in Q4 2016. 
+A total of 4.9 trillion worth of ATM transactions were processed in 2016. ATM transactions showed consistent growth on a quarterly basis from 1.0 trillion naira in Q1 2016 to 1.5 trillion naira in Q4 2016. POS transactions also grew from 144.75 billion in Q1 2016 to 260.58 billion in Q4 2016. The total number of transactions by cheque was 5.8 trillion naira in 2016.The total volume of transactions using electronic channels increased from 186.5 million in Q1 2016 to 285 million in Q4 2016. 
  
 Below is a copy of the report. 
  
@@ -10,26 +13,5 @@ Download (PDF, 2.69MB)
  
 Source link 
  
-The post appeared first on JOLLYBOSS .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Stockwatch</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Banking news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197728548</DOCID> 
-<DCT type="str">2017-01-29T07:31:11Z</DCT> 
-<TITLE type="str">NBS Q4 Financial Services Data Report: Bank Staff Drop To 76,812</TITLE> 
-</root>
+The post appeared first on JOLLYBOSS .</TEXT>
+</TimeML>

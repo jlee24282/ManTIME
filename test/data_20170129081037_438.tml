@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Firefighters have fought for four hours to put off a fire that had erupted at a tanker at Tehran’s Tondgooyan Refinery, no lives were lost</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Energy industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Iran news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203192399</DOCID> 
-<DCT type="str">2017-01-29T08:19:34Z</DCT> 
-<TITLE type="str">Firefighters successfully quench fire at Tehran refinery</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203192399</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Firefighters successfully quench fire at Tehran refinery</TITLE>
+<TEXT>Firefighters have fought for four hours to put off a fire that had erupted at a tanker at Tehrans Tondgooyan Refinery, no lives were lost</TEXT>
+</TimeML>

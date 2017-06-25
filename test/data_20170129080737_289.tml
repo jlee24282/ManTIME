@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Famous American celebrity Lindsay Lohan met President Recep Tayyip Erdogan and First Lady Emine Erdogan in Ankara on Friday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196352289</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Lindsay Lohan returns to Instagram after meeting Turkish President Erdogan</TITLE>
+<TEXT>Famous American celebrity Lindsay Lohan met President Recep Tayyip Erdogan and First Lady Emine Erdogan in Ankara on Friday. 
 
 Lohan was joined by seven-year-old Bana Alabed -- a Syrian child who made world headlines with her tweets from the then besieged Syrian city of Aleppo -- at the presidential palace.
 
-read more</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196352289</DOCID> 
-<DCT type="str">2017-01-29T07:28:54Z</DCT> 
-<TITLE type="str">Lindsay Lohan returns to Instagram after meeting Turkish President Erdogan</TITLE> 
-</root>
+read more</TEXT>
+</TimeML>

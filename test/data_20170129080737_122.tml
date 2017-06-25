@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">McALLEN - The climb through two levels to gain the state UIL swimming tournament is now underway for Valley swimmers.  District meets across the Valley over the weekend produced qualifiers that will compete in next weekend&apos;s regional tournaments.  The 6A event will be in Brownsville.  The 5A meet swims in Corpus Christi.  CHANNEL 5&apos;s Brandon Ortega has some highlights from the 6A meet in McAllen.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196199197</DOCID> 
-<DCT type="str">2017-01-29T07:27:37Z</DCT> 
-<TITLE type="str">6A Swimmers Set to Collide</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196199197</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>6A Swimmers Set to Collide</TITLE>
+<TEXT>McALLEN - The climb through two levels to gain the state UIL swimming tournament is now underway for Valley swimmers. District meets across the Valley over the weekend produced qualifiers that will compete in next weekend's regional tournaments. The 6A event will be in Brownsville. The 5A meet swims in Corpus Christi. CHANNEL 5's Brandon Ortega has some highlights from the 6A meet in McAllen.</TEXT>
+</TimeML>

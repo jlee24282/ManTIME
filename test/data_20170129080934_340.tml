@@ -1,25 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Yuya Osako struck twice during Cologne&apos;s 6-1 win away to Darmstadt in the Bundesliga on Saturday.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201035661</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>UPDATE1: Soccer: Osako bags brace in Cologne's romp against Darmstadt</TITLE>
+<TEXT>Yuya Osako struck twice during Cologne's 6-1 win away to Darmstadt in the Bundesliga on Saturday.
 
-The Japan forward headed in Cologne&apos;s second in the 36th minute before making it a 4-1 game after 72 minutes, burying a shot into the bottom corner from outside the box for his first league brace.
+The Japan forward headed in Cologne's second in the 36th minute before making it a 4-1 game after 72 minutes, burying a shot into the bottom corner from outside the box for his first league brace.
 
-Osako, who scored in the Bundesliga for the first time since September, now has four goals on the season. Cologne are in seventh place with 29 points, 16 points off the pace of Bayern Munich.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Germany news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201035661</DOCID> 
-<DCT type="str">2017-01-29T07:57:16Z</DCT> 
-<TITLE type="str">UPDATE1: Soccer: Osako bags brace in Cologne&apos;s romp against Darmstadt</TITLE> 
-</root>
+Osako, who scored in the Bundesliga for the first time since September, now has four goals on the season. Cologne are in seventh place with 29 points, 16 points off the pace of Bayern Munich.</TEXT>
+</TimeML>

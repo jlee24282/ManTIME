@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Detail Description : 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200444186</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Intex Queen Size Pillow Rest Raised Airbed with Fiber Technology and Built-in Pump (UK SPEC) #64124</TITLE>
+<TEXT>Detail Description : 
 http://tinyurl.com/h3qhovy [ln] Enhanced with new Fibre-Tech interior construction for extra durability and comfort for an overall better sleeping experience. [ln] [ln] 
 - [ln] Inflates rapidly in 3mins with built-in electric pump. [ln] [ln] 
 - [ln] Inflated size 60 x 80 x 16.5 inches (152 x 203 x 42 cm). Queen size. [ln] [ln] 
@@ -12,10 +15,5 @@ http://tinyurl.com/h3qhovy [ln] Enhanced with new Fibre-Tech interior constructi
 
 Author: carolinemonicaa 
 Tags: home  kitchen  Home and Kitchen  Home Kitchen  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200444186</DOCID> 
-<DCT type="str">2017-01-29T07:51:59Z</DCT> 
-<TITLE type="str">Intex Queen Size Pillow Rest Raised Airbed with Fiber Technology and Built-in Pump (UK SPEC) #64124</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

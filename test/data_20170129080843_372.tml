@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Share 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198870116</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Malaysia tourist boat missing with 31 people on board</TITLE>
+<TEXT>Share 
   
 Tweet 
   
@@ -10,7 +13,7 @@ Share
   
 Email 
   
-Kualalumpur:  In a tragic incident, a boat carrying 31 people, including 28 Chinese tourists, is missing off the coast of Borneo, Malaysian maritime authorities said on Sunday. 
+Kualalumpur:In a tragic incident, a boat carrying 31 people, including 28 Chinese tourists, is missing off the coast of Borneo, Malaysian maritime authorities said on Sunday. 
  
 As per sources, the boat left Kota Kinabalu, the capital of the eastern Malaysian state of Sabah, at about 9 a.m. local time on Saturday, and was headed towards the popular tourist spot of Mengalum Island. 
  
@@ -26,10 +29,5 @@ Share
   
 Share 
   
-Email</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695198870116</DOCID> 
-<DCT type="str">2017-01-29T07:23:14Z</DCT> 
-<TITLE type="str">Malaysia tourist boat missing with 31 people on board</TITLE> 
-</root>
+Email</TEXT>
+</TimeML>

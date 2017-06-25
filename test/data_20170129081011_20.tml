@@ -1,35 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Manchester United captain Wayne Rooney is entering the latter stages of an illustrious playing career.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202096694</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Pundit makes big prediction about Manchester United captain Wayne Rooney</TITLE>
+<TEXT>Manchester United captain Wayne Rooney is entering the latter stages of an illustrious playing career.
 
 The 31-year-old, who last week scored a club record 250th goal for United, admits he is tempted by a career in management.
 
 He is under contract at United until 2018 and has offers from China to move to the Far East.
 
-And Dublin thinks Rooney’s experience at the top of the game makes him a credible candidate for management.
+And Dublin thinks Rooneys experience at the top of the game makes him a credible candidate for management.
 
-“From the make-up in players that we’ve seen over the years, you think ‘I’m not sure he’ll be a manager’,” Dublin told Football Focus.
+From the make-up in players that weve seen over the years, you think Im not sure hell be a manager, Dublin told Football Focus.
 
-“I never thought Paul Ince would be...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Manchester United news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: Premier League news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202096694</DOCID> 
-<DCT type="str">2017-01-29T08:11:25Z</DCT> 
-<TITLE type="str">Pundit makes big prediction about Manchester United captain Wayne Rooney</TITLE> 
-</root>
+I never thought Paul Ince would be...</TEXT>
+</TimeML>

@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Blitzboks have won the Wellington Sevens, beating Fiji xxx in the final with Seabelo Senatla claiming the his 180th career try and the SA record in the process.... Tell is a complete voice of the world&apos;s media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">New Zealand news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202068069</DOCID> 
-<DCT type="str">2017-01-29T08:11:03Z</DCT> 
-<TITLE type="str">Sport24.co.za | Senatla breaks record as Blitzboks win in Wellington</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202068069</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sport24.co.za | Senatla breaks record as Blitzboks win in Wellington</TITLE>
+<TEXT>The Blitzboks have won the Wellington Sevens, beating Fiji xxx in the final with Seabelo Senatla claiming the his 180th career try and the SA record in the process.... Tell is a complete voice of the world's media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</TEXT>
+</TimeML>

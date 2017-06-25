@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">went to his heavenly home surrounded by his family on Jan. 26, 2017, at Missouri Slope Lutheran Care Center, due to a long battle with dementia. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201694812</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Larry Schramm</TITLE>
+<TEXT>went to his heavenly home surrounded by his family on Jan. 26, 2017, at Missouri Slope Lutheran Care Center, due to a long battle with dementia. 
    
 Services will be held at 2 p.m. Tuesday, Jan. 31, at Zion Lutheran Church, 413 Ave. D E., Bismarck, with the Rev. Thomas R. Marcis Jr., officiating. 
    
@@ -16,14 +19,5 @@ Larry loved to plant trees and planted all the trees around his farm. He and his
    
 Larry is survived by his wife, Alta; two sons, Ross (Jane) Hazen, and Randy, Bismarck. He is grandpa to two loving granddaughters, Amber (Mike) Erickson, West Bend, Wis., and Holly (Aaron) Folk, Hazen, and four great-grandchildren, Alice and Logan Erickson, Carter Volk, and Teagan Folk; two brothers, Clayton Schramm and Lester (Virginia) Schramm; his sister, JoAnn (Leonard) Becker, all of Bismarck; and many nephews and nieces. 
    
-Larry was preceded in death by his parents, Ernie and Rose Schramm; sister-in-law, Arvada Schramm; and nephew, Tim Schramm.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201694812</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">Larry Schramm</TITLE> 
-</root>
+Larry was preceded in death by his parents, Ernie and Rose Schramm; sister-in-law, Arvada Schramm; and nephew, Tim Schramm.</TEXT>
+</TimeML>

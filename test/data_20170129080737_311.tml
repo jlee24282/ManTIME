@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">STK Stock 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196369344</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Boys Basketball: Marion Harding falls to Dublin Scioto</TITLE>
+<TEXT>STK Stock 
   
 Dublin Scioto 59, Marion Harding 46 
  
@@ -78,7 +81,7 @@ Shamir Brown hit four shots beyond the arc and Tyrell Ajian hit antother three t
  
 Ajian led all scorers with 28 points while Brown netted 16, teammate Kyle Jackson added 10 more for the Rams. 
  
-The Vikings were led by Hayden Wallace’s 14 points and Dustin Johns added 10. 
+The Vikings were led by Hayden Wallaces 14 points and Dustin Johns added 10. 
  
 Stat Book: 
  
@@ -88,18 +91,5 @@ Madison 12 17 17 19-65
  
 River Valley : AJ Issler 6, Hayden Wallace 14, Josh Ellwood 6, AJ Kenney 6, Dustin Johns 10, Tom Poorman 6. Totals 13 10-12 48, 4 3pt. (Wallace 4). 
  
-Madison: Kyle Jackson 10, Tyrell Ajian 28, Fields 7, Jacob Koehler 2, Nick Smith 2, Shamir Brown 16. Totals 19 3-11 65, 8 3pt. (Brown 4, Ajian 3, Fields).</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: basketball news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196369344</DOCID> 
-<DCT type="str">2017-01-29T05:09:33Z</DCT> 
-<TITLE type="str">Boys Basketball: Marion Harding falls to Dublin Scioto</TITLE> 
-</root>
+Madison: Kyle Jackson 10, Tyrell Ajian 28, Fields 7, Jacob Koehler 2, Nick Smith 2, Shamir Brown 16. Totals 19 3-11 65, 8 3pt. (Brown 4, Ajian 3, Fields).</TEXT>
+</TimeML>

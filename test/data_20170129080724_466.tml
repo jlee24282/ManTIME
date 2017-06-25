@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Slipknot&apos;s Corey Taylor thinks Pokémon Go is a fad | Aggressive Tendencies (TRAILER)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196001113</DOCID> 
-<DCT type="str">2017-01-29T07:19:16Z</DCT> 
-<TITLE type="str">Bundeli Song / Jija ko choto / Sadhna</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196001113</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bundeli Song / Jija ko choto / Sadhna</TITLE>
+<TEXT>Slipknot's Corey Taylor thinks Pokmon Go is a fad | Aggressive Tendencies (TRAILER)</TEXT>
+</TimeML>

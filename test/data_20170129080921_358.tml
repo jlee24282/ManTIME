@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Senior Times is published the last Sunday of each month. The deadline for submissions to Senior Update and the Senior Calendar for the next issue is 5 p.m. Feb. 21. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200495378</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Senior Calendar for Jan. 29</TITLE>
+<TEXT>Senior Times is published the last Sunday of each month. The deadline for submissions to Senior Update and the Senior Calendar for the next issue is 5 p.m. Feb. 21. 
  
 Feb. 7 
  
@@ -24,7 +27,7 @@ Sardis Seniors meet from 8 a.m. to noon weekdays in the senior center in the Sar
  
 Feb. 9 
  
-El Señor Club meets at 10 a.m. in the Senior Activity Center. 
+El Seor Club meets at 10 a.m. in the Senior Activity Center. 
  
 Goodyear Retirees meets at 11 a.m. in the union hall on Hoke Street. A covered-dish luncheon is served. Bring a door prize. 
  
@@ -60,7 +63,7 @@ Sardis Seniors meet from 8 a.m. to noon weekdays in the senior center in the Sar
  
 Feb. 16 
  
-El Señor Club meets at 10 a.m. in the Senior Activity Center. This is door-prize day. 
+El Seor Club meets at 10 a.m. in the Senior Activity Center. This is door-prize day. 
  
 Sardis Seniors meet from 8 a.m. to noon weekdays in the senior center in the Sardis Community Center. All adults are welcome. Call 256-593-6432. 
  
@@ -96,7 +99,7 @@ Southside Seniors meet at 10 a.m. in the Southside Community Center for a meal.
  
 Feb. 23 
  
-El Señor Club meets at 10 a.m. in the Senior Activity Center. 
+El Seor Club meets at 10 a.m. in the Senior Activity Center. 
  
 Sardis Seniors meet from 8 a.m. to noon weekdays in the senior center in the Sardis Community Center. All adults are welcome. Call 256-593-6432. 
  
@@ -110,10 +113,5 @@ Feb. 28
  
 Rainbow City Senior Citizens Club meets at 10 a.m. in the community center for a program and covered-dish luncheon. 
  
-Sardis Seniors meet from 8 a.m. to noon weekdays in the senior center in the Sardis Community Center. All adults are welcome. Call 256-593-6432.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200495378</DOCID> 
-<DCT type="str">2017-01-29T06:01:00Z</DCT> 
-<TITLE type="str">Senior Calendar for Jan. 29</TITLE> 
-</root>
+Sardis Seniors meet from 8 a.m. to noon weekdays in the senior center in the Sardis Community Center. All adults are welcome. Call 256-593-6432.</TEXT>
+</TimeML>

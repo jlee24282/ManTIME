@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">January to July - That was how long Marcia Silva Rodriguez spent at my Montgomery County high school as an exchange student from Rio De Janeiro in 1980. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201061166</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>After 32 years, a Rio reunion with a high school friend</TITLE>
+<TEXT>January to July - That was how long Marcia Silva Rodriguez spent at my Montgomery County high school as an exchange student from Rio De Janeiro in 1980. 
 
 I was a busy college student at the time. My sister Dana McAllister, Marcia, and I would spend time together on weekends going bowling and enjoying family dinners and fun times. 
 
@@ -8,13 +11,13 @@ After her studies at Plymouth Whitemarsh High School, Marcia returned to Rio to 
 
 Fast-forward 32 years to 2012. I had such fond memories of befriending an exchange student I decided to become a host parent. From August 2012 to January 2013, I hosted a 16-year-old Brazilian girl, Isabella Corbi Silva, at my home. 
 
-In a strange twist of serendipity, I got a friend request on Facebook from Marcia just after Isabella left the United States. &quot;Come to Rio, you will like it here,&quot; she wrote. We emailed each other often, but traveling out of the country wasn&apos;t in the cards for me. 
+In a strange twist of serendipity, I got a friend request on Facebook from Marcia just after Isabella left the United States. "Come to Rio, you will like it here," she wrote. We emailed each other often, but traveling out of the country wasn't in the cards for me. 
 
 After three years, I made a plane reservation for two weeks in August. The timing lined up with the 2016 Olympics in Rio, my birthday, and a three-week vacation break for Marcia. 
 
 Before the trip, I wanted to learn the language and rented a Portuguese CD to learn some basics: obrigado (thank you) and bom dia (good day) were my go-to phrases. 
 
-My plane left JFK Airport for the 10-hour flight from New York to Rio. With all the planning behind me, I finally had time to think about what was ahead. I hadn&apos;t seen Marcia in more than 30 years. 
+My plane left JFK Airport for the 10-hour flight from New York to Rio. With all the planning behind me, I finally had time to think about what was ahead. I hadn't seen Marcia in more than 30 years. 
 
 Would we get along? Would I like Brazilian food? Would I understand the language ? 
 
@@ -30,22 +33,5 @@ Although it was winter in Rio, the weather was just right, 65 to 75 degrees each
 
 Marcia loves to shop, and we managed to see every mall as well as a movie (in English with Portuguese subtitles) and a concert. I was constantly converting the prices in my head. We shared many laughs, fun times, and great memories. Yes, it was a long time coming but our friendship was renewed and I look forward to seeing her here in the U.S. in August. 
 
-Did a travel experience move you, change you, or give you great memories? Email us how, in 500 words or fewer (include a photo, caption information, and daytime phone number): inquirer.travel@phillynews.com . Put &quot;Personal Journey&quot; in the subject line. If we publish your piece, we&apos;ll pay you $25. (Response volume prohibits our returning or acknowledging your submission.)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201061166</DOCID> 
-<DCT type="str">2017-01-29T08:01:00Z</DCT> 
-<TITLE type="str">After 32 years, a Rio reunion with a high school friend</TITLE> 
-</root>
+Did a travel experience move you, change you, or give you great memories? Email us how, in 500 words or fewer (include a photo, caption information, and daytime phone number): inquirer.travel@phillynews.com . Put "Personal Journey" in the subject line. If we publish your piece, we'll pay you $25. (Response volume prohibits our returning or acknowledging your submission.)</TEXT>
+</TimeML>

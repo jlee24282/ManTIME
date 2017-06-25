@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Paris Saint-Germain&apos;s preparations for Sunday&apos;s huge Ligue 1 clash with AS Monaco were dealt a blow on Friday when it emerged that midfielder Marco Verratti is suffering from a calf injury. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196248812</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Paris Saint Germain face acid test of their midseason revival in Ligue 1 clash with Monaco</TITLE>
+<TEXT>Paris Saint-Germain's preparations for Sunday's huge Ligue 1 clash with AS Monaco were dealt a blow on Friday when it emerged that midfielder Marco Verratti is suffering from a calf injury. 
  
-The issue</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196248812</DOCID> 
-<DCT type="str">2017-01-29T00:18:18Z</DCT> 
-<TITLE type="str">Paris Saint Germain face acid test of their midseason revival in Ligue 1 clash with Monaco</TITLE> 
-</root>
+The issue</TEXT>
+</TimeML>

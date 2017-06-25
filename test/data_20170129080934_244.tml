@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">White House calls phone call &apos;significant start&apos; to fixing ties with Russia; Kremlin pledges &apos;constructive&apos; cooperation.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Russia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200937815</DOCID> 
-<DCT type="str">2017-01-29T07:01:21Z</DCT> 
-<TITLE type="str">Trump and Putin vow to cooperate in ISIL fight</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200937815</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump and Putin vow to cooperate in ISIL fight</TITLE>
+<TEXT>White House calls phone call 'significant start' to fixing ties with Russia; Kremlin pledges 'constructive' cooperation.</TEXT>
+</TimeML>

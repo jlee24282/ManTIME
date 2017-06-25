@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">COLLEGE BASKETBALL - MEN 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197665992</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Area Sports Scores - January 28, 2017</TITLE>
+<TEXT>COLLEGE BASKETBALL - MEN 
  
 South Carolina 63, Missouri 53 
  
@@ -14,7 +17,7 @@ Harris-Stowe 76, William Woods 65
  
 Central Methodist 96, Avila 74 
  
-Missouri S&amp;T 96, Truman State 91 
+Missouri S&T 96, Truman State 91 
  
 COLLEGE BASKETBALL - WOMEN 
  
@@ -28,7 +31,7 @@ William Woods 65, Harris-Stowe 58
  
 Central Methodist 78, Avila 63 
  
-Truman State 89, Missouri S&amp;T 56 
+Truman State 89, Missouri S&T 56 
  
 HIGH SCHOOL BASKETBALL - BOYS 
  
@@ -42,7 +45,7 @@ South Callaway 68, Westran 53
  
 New Franklin 56, Sturgeon 52 
  
-Smith-Cotton 63, O&apos;Fallon Christian 50 
+Smith-Cotton 63, O'Fallon Christian 50 
  
 Eugene 76, Lebanon 62 
  
@@ -86,14 +89,5 @@ Eldon 71, Marquette 45
  
 Tuscumbia 61, Vienna 47 
  
-Iberia 44, Jamestown 29</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197665992</DOCID> 
-<DCT type="str">2017-01-29T07:38:51Z</DCT> 
-<TITLE type="str">Area Sports Scores - January 28, 2017</TITLE> 
-</root>
+Iberia 44, Jamestown 29</TEXT>
+</TimeML>

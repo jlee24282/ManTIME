@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Dimitri Illarionov: &quot;Grand Overture&quot; by Mauro Giuliani 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196001438</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Dimitri Illarionov - "Grand Overture" by Mauro Giuliani</TITLE>
+<TEXT>Dimitri Illarionov: "Grand Overture" by Mauro Giuliani 
 
 Author: elduendecillo1979 
 Tags: Classical music  Classical guitar repertoire  classical guitar  guiliani  Dimitri Illarionov  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196001438</DOCID> 
-<DCT type="str">2017-01-29T07:15:47Z</DCT> 
-<TITLE type="str">Dimitri Illarionov - &quot;Grand Overture&quot; by Mauro Giuliani</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

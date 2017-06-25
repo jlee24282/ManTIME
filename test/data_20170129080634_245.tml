@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Attackers believed to be Boko Haram members have killed unknown number of people and injured several others in an ambush on motorists in Borno state on Saturday, January 28. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194059101</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Boko Haram attacks Borno again, scores feared killed</TITLE>
+<TEXT>Attackers believed to be Boko Haram members have killed unknown number of people and injured several others in an ambush on motorists in Borno state on Saturday, January 28. 
  
 Suspected Boko Haram fighters have reportedly attacked motorists on a popular Borno road. 
   
@@ -10,11 +13,11 @@ The report quotes a driver Mallam Aliyu Yau as claiming that he managed to escap
  
 READ ALSO:  DSS summons Apostle John Suleiman for speaking against killings of Christians 
  
-He said: “Most of the passengers killed and injured were not by Boko Haram sect, but by military escorts who opened fire on fleeing passengers into the bush, mistaking them as escaping terrorists. 
+He said: Most of the passengers killed and injured were not by Boko Haram sect, but by military escorts who opened fire on fleeing passengers into the bush, mistaking them as escaping terrorists. 
  
-“It is unfortunate that our road is not safe today (Saturday morning) as some Boko Haram terrorists laid ambush on the road. It is regrettable that during the ambush and exchange of gunfire between military escorts and the terrorists, many passengers took to their heels into the bush, and most of them fell victim in the cross fire.. 
+It is unfortunate that our road is not safe today (Saturday morning) as some Boko Haram terrorists laid ambush on the road. It is regrettable that during the ambush and exchange of gunfire between military escorts and the terrorists, many passengers took to their heels into the bush, and most of them fell victim in the cross fire.. 
  
-“I cannot ascertain the number of those killed as I managed to escape with my passengers. But I learnt that scores of people were killed or injured.” 
+I cannot ascertain the number of those killed as I managed to escape with my passengers. But I learnt that scores of people were killed or injured. 
  
 [embedded content] 
  
@@ -26,18 +29,5 @@ Meanwhile, statistics have shown that January 2017 has been full of deaths for N
  
 While it is true that people die daily, the deaths recorded below occurred on a scale that affected the country as a whole. 
    
-Think it is important? Share with your friends!</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Nigeria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Terrorism news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194059101</DOCID> 
-<DCT type="str">2017-01-29T07:12:52Z</DCT> 
-<TITLE type="str">Boko Haram attacks Borno again, scores feared killed</TITLE> 
-</root>
+Think it is important? Share with your friends!</TEXT>
+</TimeML>

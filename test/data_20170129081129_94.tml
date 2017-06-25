@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Advertisement: CourtCast will continue in ...Skip this ad »</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204706413</DOCID> 
-<DCT type="str">2017-01-29T08:31:20Z</DCT> 
-<TITLE type="str">Follow live: Federer, Nadal take court for Aussie Open battle</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204706413</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Follow live: Federer, Nadal take court for Aussie Open battle</TITLE>
+<TEXT>Advertisement: CourtCast will continue in ...Skip this ad </TEXT>
+</TimeML>

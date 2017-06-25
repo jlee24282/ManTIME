@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A court in Mzuzu has sentenced a 26 year-old man to 20 years in prison for pouring acid on a woman’s face, which left her blind. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200741026</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Man gets 20 years for acid attack which left victim blind</TITLE>
+<TEXT>A court in Mzuzu has sentenced a 26 year-old man to 20 years in prison for pouring acid on a womans face, which left her blind. 
 
 The convict has been identified as Peter Nyundo while the victim is 18 year-old Mary Kuyokwa of Yafeti Village, T/A Mwenemisuku in Chitipa. 
 
@@ -10,7 +13,7 @@ On October 17, 2016 the convict approached Kuyokwa and asked for cash transfer o
 
 After finishing the transaction, Kuyokwa demanded cash from the convict. 
 
-However, instead of giving the agent the money, the convict produced a bottle and splashed the contents on Kuyokwa’s face. 
+However, instead of giving the agent the money, the convict produced a bottle and splashed the contents on Kuyokwas face. 
 
 Kuyokwa fell down and it was later on known that the bottle contained acid. 
 
@@ -34,10 +37,5 @@ Website
 
 Notify me of follow-up comments by email. 
 
-Notify me of new posts by email.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200741026</DOCID> 
-<DCT type="str">2017-01-29T07:24:09Z</DCT> 
-<TITLE type="str">Man gets 20 years for acid attack which left victim blind</TITLE> 
-</root>
+Notify me of new posts by email.</TEXT>
+</TimeML>

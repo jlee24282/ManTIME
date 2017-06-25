@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">From the section Health Image copyright Science Photo Library Image caption Tamoxifen is used to treat breast cancer UK prices for generic cancer drugs have risen sharply in the past five years, restricting their use in treating NHS patients, research from the European Cancer Congress has found.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193926101</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Cancer drugs price rise 'costing NHS millions'</TITLE>
+<TEXT>From the section Health Image copyright Science Photo Library Image caption Tamoxifen is used to treat breast cancer UK prices for generic cancer drugs have risen sharply in the past five years, restricting their use in treating NHS patients, research from the European Cancer Congress has found.
 
 Drugs such as tamoxifen and bulsufan are now 10 times more expensive despite no longer being under patent.
 
@@ -8,7 +11,7 @@ The British Generic Manufacturers Association said trusts often paid much less t
 
 It said the NHS had benefited from competition over generic drugs.
 
-But the UK researchers said NHS negotiations with drug companies were failing to contain costs, and getting access to cheaper drugs would allow more people to be treated with more modern medicines. They estimated that the cost of these price rises to the NHS in England was around £380m a year - which only included community-based prescribing, not hospital prescribing.
+But the UK researchers said NHS negotiations with drug companies were failing to contain costs, and getting access to cheaper drugs would allow more people to be treated with more modern medicines. They estimated that the cost of these price rises to the NHS in England was around 380m a year - which only included community-based prescribing, not hospital prescribing.
 
 Rationing
 
@@ -22,9 +25,9 @@ New treatments then have to be rationed.
 
 Dr Andrew Hill, senior research fellow in pharmacology and therapeutics at the University of Liverpool, and Melissa Barber from the London School of Hygiene and Tropical Medicine, collected prices on medicines available on the NHS for their presentation at the cancer conference.
 
-They discovered that busulfan, which is used to treat leukaemia, cost 21p per tablet in 2011 and £2.61 in 2016.
+They discovered that busulfan, which is used to treat leukaemia, cost 21p per tablet in 2011 and 2.61 in 2016.
 
-Tamoxifen, used to treat breast cancer, cost 10p per tablet in 2011 and £1.21 in 2016.
+Tamoxifen, used to treat breast cancer, cost 10p per tablet in 2011 and 1.21 in 2016.
 
 Of 89 cancer medicines looked at in the analysis, 21 showed price rises from 2011 to 2016 - with 17 of those classified as generic.
 
@@ -32,23 +35,23 @@ Fourteen generic cancer drugs showed price rises of more than 100%.
 
 And compared with prices for the same drugs in India, the UK drugs were roughly 20 times more expensive.
 
-&apos;Worrying&apos;
+'Worrying'
 
 Dr Hill said he was surprised to find several companies had consistently raised the prices of cancer treatment.
 
-&quot;We have found that some companies take over the supply of some generic cancer medicines and then raise the price progressively,&quot; he said.
+"We have found that some companies take over the supply of some generic cancer medicines and then raise the price progressively," he said.
 
-He said this was &quot;worrying&quot;, particularly when the Cancer Drugs Fund is under pressure from high prices.
+He said this was "worrying", particularly when the Cancer Drugs Fund is under pressure from high prices.
 
 But Warwick Smith, director-general of the British Generic Manufacturers Association, said the actual prices paid by hospitals were usually much lower than the list prices.
 
-He said the tendered price paid by hospitals for tamoxifen 10mg tablets is £4.85 for a pack of 30, or 16p per tablet. 
+He said the tendered price paid by hospitals for tamoxifen 10mg tablets is 4.85 for a pack of 30, or 16p per tablet. 
 
-&apos;Significant savings&apos;
+'Significant savings'
 
-&quot;Generic competition in the oncology market has produced very significant savings for the NHS and generated access for patients to medicines such as tamoxifen which can be used to reduce the risk of breast cancer and not just to treat it.
+"Generic competition in the oncology market has produced very significant savings for the NHS and generated access for patients to medicines such as tamoxifen which can be used to reduce the risk of breast cancer and not just to treat it.
 
-&quot;In the case of generic medicines used in hospitals, it is important to distinguish between the actual price paid by trusts and the much higher list prices often quoted.&quot;
+"In the case of generic medicines used in hospitals, it is important to distinguish between the actual price paid by trusts and the much higher list prices often quoted."
 
 The Health Services Medical Supplies (Costs) Bill, currently going through Parliament, is designed to allow the NHS to regulate prices in the future.
 
@@ -58,26 +61,5 @@ There is a similar situation in other European countries.
 
 In Spain and Italy, failure to accept the high prices demanded for some generic treatments has led to warnings from companies that they could stop their supply.
 
-&quot;At a time when cancer patients are living longer and better lives due to effective treatments, this situation is particularly worrying,&quot; Dr Hill said.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Pharma industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Cancer news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Medical news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">NHS news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193926101</DOCID> 
-<DCT type="str">2017-01-29T06:47:33Z</DCT> 
-<TITLE type="str">Cancer drugs price rise &apos;costing NHS millions&apos;</TITLE> 
-</root>
+"At a time when cancer patients are living longer and better lives due to effective treatments, this situation is particularly worrying," Dr Hill said.</TEXT>
+</TimeML>

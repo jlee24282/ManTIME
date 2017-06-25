@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">CE 485 - Engineering Hydrology
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197282208</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Engineering Hydrology.pdf</TITLE>
+<TEXT>CE 485 - Engineering Hydrology
 Spring Term 2001
 Monday and Wednesday 8:00 - 10:05 PM, 155 BEC
 Instructor: Bob Pitt
 Current Catalog Data: Hydrologic principles including hydrologic cycle, precipitation data, stream flow
 measurements and application of stream flow data, runoff, evaporation, transpiration, and groundwater.
 Applications to engineering problems related to groundwater yield, streamflow analysis, watershed
-management and probability as basis for design. Prerequisite: CE 333. 3 hours (2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695197282208</DOCID> 
-<DCT type="str">2017-01-29T06:50:05Z</DCT> 
-<TITLE type="str">Engineering Hydrology.pdf</TITLE> 
-</root>
+management and probability as basis for design. Prerequisite: CE 333. 3 hours (2</TEXT>
+</TimeML>

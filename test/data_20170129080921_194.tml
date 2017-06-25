@@ -1,27 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">President Donald Trump&apos;s travel ban barring citizens of seven predominantly Muslim Countries entry into the U.S. has sparked protests around the country. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200375049</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Protests erupt at airports around U.S. following Trump travel ban</TITLE>
+<TEXT>President Donald Trump's travel ban barring citizens of seven predominantly Muslim Countries entry into the U.S. has sparked protests around the country. 
  
 Big Protests held in New Jersey, Denver, Chicago, Dallas, Los Angeles, San Francisco and San Diego. 
  
-Protestors chanted &quot;Say it loud, say it clear, refugees are welcome here&quot; and &quot;No ban no wall America is for us all.&quot; 
+Protestors chanted "Say it loud, say it clear, refugees are welcome here" and "No ban no wall America is for us all." 
   
-Third-party Ads</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Airline industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200375049</DOCID> 
-<DCT type="str">2017-01-29T07:59:31Z</DCT> 
-<TITLE type="str">Protests erupt at airports around U.S. following Trump travel ban</TITLE> 
-</root>
+Third-party Ads</TEXT>
+</TimeML>

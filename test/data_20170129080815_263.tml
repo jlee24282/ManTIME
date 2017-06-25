@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A Clark County woman has pleaded not guilty to involuntary manslaughter in the death of her 7-week-old son. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197523669</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Clark County Woman Pleads Not Guilty In Death Of Her Son</TITLE>
+<TEXT>A Clark County woman has pleaded not guilty to involuntary manslaughter in the death of her 7-week-old son. 
  
-20-year-old Shania Delawder is charged in the October death of Liam Spencer. Prosecutors say the infant died of blunt force trauma.  The baby&apos;s father, Brian Spencer Junior, has pleaded guilty to involuntary manslaughter. Prosecutors say Spencer still hasn&apos;t provided a full statement about what happened, but authorities know medical help wasn&apos;t sought for several hours after the baby was injured.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695197523669</DOCID> 
-<DCT type="str">2017-01-29T07:03:59Z</DCT> 
-<TITLE type="str">Clark County Woman Pleads Not Guilty In Death Of Her Son</TITLE> 
-</root>
+20-year-old Shania Delawder is charged in the October death of Liam Spencer. Prosecutors say the infant died of blunt force trauma. The baby's father, Brian Spencer Junior, has pleaded guilty to involuntary manslaughter. Prosecutors say Spencer still hasn't provided a full statement about what happened, but authorities know medical help wasn't sought for several hours after the baby was injured.</TEXT>
+</TimeML>

@@ -1,27 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">JUST days after three people lost their lives crossing a flooded river crossing, another group has been swept off a road near Jabiru.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194779268</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Another car washed off flooded river crossing</TITLE>
+<TEXT>JUST days after three people lost their lives crossing a flooded river crossing, another group has been swept off a road near Jabiru.
 
 Police expressed their frustration on Facebook after a Toyota Prado with six people on board was washed off Magela Crossing on the Oenpelli Road just before midday Sunday after trying to cross the flooded path.
 
-All passengers managed to get to shore safely.“The Toyota Prado attempted to cross the creek, which was running at just below 1.4m with a fast flow, but got into trouble about halfway across,” the Facebook post stated.
+All passengers managed to get to shore safely.The Toyota Prado attempted to cross the creek, which was running at just below 1.4m with a fast flow, but got into trouble about halfway across, the Facebook post stated.
 
-“Police continue to urge all drivers not to take the risk. If it is flooded — forget it.”
+Police continue to urge all drivers not to take the risk. If it is flooded  forget it.
 
-Magela Crossing is listed as ‘Impassable’ on the Secure NT website.
+Magela Crossing is listed as Impassable on the Secure NT website.
 
-Originally published as</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194779268</DOCID> 
-<DCT type="str">2017-01-29T07:03:00Z</DCT> 
-<TITLE type="str">Another car washed off flooded river crossing</TITLE> 
-</root>
+Originally published as</TEXT>
+</TimeML>

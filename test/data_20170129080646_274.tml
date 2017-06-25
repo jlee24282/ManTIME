@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Four people have been killed and five wounded after a grenade exploded during a fight between two rival gangs in a province in eastern Bangkok.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Southeast Asia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Thailand news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194430757</DOCID> 
-<DCT type="str">2017-01-29T07:02:01Z</DCT> 
-<TITLE type="str">Grenade explosion kills four in Thailand</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194430757</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Grenade explosion kills four in Thailand</TITLE>
+<TEXT>Four people have been killed and five wounded after a grenade exploded during a fight between two rival gangs in a province in eastern Bangkok.</TEXT>
+</TimeML>

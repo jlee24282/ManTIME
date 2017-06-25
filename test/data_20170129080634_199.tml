@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Watford manager Walter Mazzarri will not be afraid to ring the changes ahead of his side&apos;s potential banana skin of an FA Cup tie at Millwall on Sunday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194025822</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Walter Mazzarri set to shuffle Watford pack for FA Cup clash with Millwall</TITLE>
+<TEXT>Watford manager Walter Mazzarri will not be afraid to ring the changes ahead of his side's potential banana skin of an FA Cup tie at Millwall on Sunday. 
  
-The Hornets head to the Den to take on the Lio</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194025822</DOCID> 
-<DCT type="str">2017-01-28T23:18:19Z</DCT> 
-<TITLE type="str">Walter Mazzarri set to shuffle Watford pack for FA Cup clash with Millwall</TITLE> 
-</root>
+The Hornets head to the Den to take on the Lio</TEXT>
+</TimeML>

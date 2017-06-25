@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Historic Crests 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194074924</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Minor (16.7 ft) - Observation - AYSG1 - Satilla River near Waycross (Georgia)</TITLE>
+<TEXT>Historic Crests 
 (1) 22.40 ft on 04/04/1948 
 (2) 22.36 ft on 04/05/2009 
 (3) 22.20 ft on 05/01/1928 
@@ -35,10 +38,5 @@ Low Water Records
 (3) 3.98 ft on 11/26/2010 
 (4) 3.99 ft on 12/14/2007 
 (5) 4.03 ft on 11/25/2012 
-Show More Low Water Records</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695194074924</DOCID> 
-<DCT type="str">2017-01-29T07:07:32Z</DCT> 
-<TITLE type="str">Minor (16.7 ft) - Observation - AYSG1 - Satilla River near Waycross (Georgia)</TITLE> 
-</root>
+Show More Low Water Records</TEXT>
+</TimeML>

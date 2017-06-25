@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Cape Town - Phillipi trainer Brett Crawford saddled his third winner in the Cape&apos;s flagship race when the Australian-bred Whisky Baron continued his meteoric rise through the ranks with a superb win i</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Beverages industry news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204852163</DOCID> 
-<DCT type="str">2017-01-28T21:02:26Z</DCT> 
-<TITLE type="str">Whisky Baron wins Sun Met in style</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204852163</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Whisky Baron wins Sun Met in style</TITLE>
+<TEXT>Cape Town - Phillipi trainer Brett Crawford saddled his third winner in the Cape's flagship race when the Australian-bred Whisky Baron continued his meteoric rise through the ranks with a superb win i</TEXT>
+</TimeML>

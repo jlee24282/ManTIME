@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196443801</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Moderate (15.32 ft) - Observation - BRUF1 - Choctawhatchee River near Bruce-Ebro (SR 20) (Florida)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
      
-Reliability of the Forecast: Based on unobstructed flow NOTE: Forecasts for the Choctawhatchee River near Bruce-Ebro (SR 20) are issued as needed during times of high water, but are not routinely available.The statement &quot;DATUM IS MEAN SEA LEVEL&quot; on topographic sheets prior to 1975 refers to the National Geodetic Vertical Datum of 1929. 
-       Flood Categories (in feet) 
+Reliability of the Forecast: Based on unobstructed flow NOTE: Forecasts for the Choctawhatchee River near Bruce-Ebro (SR 20) are issued as needed during times of high water, but are not routinely available.The statement "DATUM IS MEAN SEA LEVEL" on topographic sheets prior to 1975 refers to the National Geodetic Vertical Datum of 1929. 
+      Flood Categories (in feet) 
  Major Flood Stage:  16.5  Moderate Flood Stage:  14  Flood Stage:  13  Action Stage:  10  Low Stage (in feet):  -9999  
 Historic Crests 
 (1) 29.19 ft on 03/15/1929 
@@ -34,11 +37,11 @@ Low Water Records
 (5) 0.59 ft on 07/20/1981 
 
    
-Show FEMA&apos;s National Flood Hazard Layers 
+Show FEMA's National Flood Hazard Layers 
    
-FEMA&apos;s National Flood Hazard Layers not showing? 
+FEMA's National Flood Hazard Layers not showing? 
   
-Note: Your zoom level may have changed. ESRI&apos;s zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
       
 Zoom Level:15 
    
@@ -49,16 +52,11 @@ FEMA Layer
 (1) Choctawhatchee River near Bruce - KML 
 (2) USGS Gage - Choctawhatchee River near Bruce, FL 
   
-Latitude: 30.450833° N, Longitude: 85.898333° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 30.450833 N, Longitude: 85.898333 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  13 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 0)  Elevation 
-(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  0 ft  13 ft  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available     
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  0 ft  13 ft  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available    
 Current/Historical Observations: 
-  Note: The Crest History has been corrected and updated reflecting crests back to March 1929 and adjusted for changing reference datums. Please note that the maximum flood of record for March 1929 was corrected from 25.00 ft which was measured from a 4.19 ft datum, to 29.19 ft which is reference Mean Sea Level (MSL). All crests listed on this site are now reference MSL ie NGVD 29 datum of 0.0 ft.     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196443801</DOCID> 
-<DCT type="str">2017-01-29T07:27:27Z</DCT> 
-<TITLE type="str">Moderate (15.32 ft) - Observation - BRUF1 - Choctawhatchee River near Bruce-Ebro (SR 20) (Florida)</TITLE> 
-</root>
+  Note: The Crest History has been corrected and updated reflecting crests back to March 1929 and adjusted for changing reference datums. Please note that the maximum flood of record for March 1929 was corrected from 25.00 ft which was measured from a 4.19 ft datum, to 29.19 ft which is reference Mean Sea Level (MSL). All crests listed on this site are now reference MSL ie NGVD 29 datum of 0.0 ft.     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

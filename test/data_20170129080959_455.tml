@@ -1,33 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Australian Open 2017 Live, Men&apos;s Singles Final: Here are all the live scores and updates from Roger Federer-Rafael Nadal&apos;s final.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Global news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202034839</DOCID> 
-<DCT type="str">2017-01-29T06:03:23Z</DCT> 
-<TITLE type="str">Australian Open 2017 Live, Men&apos;s Singles Final: Rafael Nadal trains hard ahead of the &apos;dream final&apos; against Roger Federer</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202034839</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Australian Open 2017 Live, Men's Singles Final: Rafael Nadal trains hard ahead of the 'dream final' against Roger Federer</TITLE>
+<TEXT>Australian Open 2017 Live, Men's Singles Final: Here are all the live scores and updates from Roger Federer-Rafael Nadal's final.</TEXT>
+</TimeML>

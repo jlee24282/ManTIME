@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Update: 7:46PM THERE is one change to the Fiji 7s starting line-up to face South Africa in the HSBC Wellington 7s cup final. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202093667</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Wellington 7s: Baber changes line-up</TITLE>
+<TEXT>Update: 7:46PM THERE is one change to the Fiji 7s starting line-up to face South Africa in the HSBC Wellington 7s cup final. 
  
 Coach Gareth Baber has named Setareki Bituniyata to start ahead of Kalione Nasoko in the forwards. 
   
@@ -13,40 +16,19 @@ Flyer Seabelo Senatla is expected to be an exciting battle against Fijian flyer 
  
 Fiji line-up: 
  
-Jasa Veremalua, Sevuloni Mocenacagi, Setareki Bituniyata, Jerry Tuwai, Vatemo Ravouvou, Osesa Kolinisau, Joeli Lutumailagi.  
+Jasa Veremalua, Sevuloni Mocenacagi, Setareki Bituniyata, Jerry Tuwai, Vatemo Ravouvou, Osesa Kolinisau, Joeli Lutumailagi. 
  
-Reserves:  
+Reserves: 
  
 Nasoko, Veitokani, Viriviri, Kunavula 
  
-SA line-up:  
+SA line-up: 
  
 Chris Dry, Phuilip Snyman, Kwagga Smith, Werner Kok, Branco du Preez, Geduld, Senatla 
  
-Reserves:  
+Reserves: 
  
 Dylan Sage, Siviwe Soyizwapi, Rosko Specman., Zain Davids, Ruhan Nel 
   
-Back to top</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Fiji news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">New Zealand news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">South Pacific Islands news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202093667</DOCID> 
-<DCT type="str">2017-01-29T00:00:00Z</DCT> 
-<TITLE type="str">Wellington 7s: Baber changes line-up</TITLE> 
-</root>
+Back to top</TEXT>
+</TimeML>

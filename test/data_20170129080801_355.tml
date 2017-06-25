@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Everton boss is in awe of the passion the nation&apos;s kids have and wants clubs to invest more effort in promoting players to the senior side... Tell is a complete voice of the world&apos;s media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Europe news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">UK news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197258376</DOCID> 
-<DCT type="str">2017-01-29T07:35:55Z</DCT> 
-<TITLE type="str">&apos;I have to slow them down rather than push them&apos; - Koeman in awe of English youth hunger</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197258376</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>'I have to slow them down rather than push them' - Koeman in awe of English youth hunger</TITLE>
+<TEXT>The Everton boss is in awe of the passion the nation's kids have and wants clubs to invest more effort in promoting players to the senior side... Tell is a complete voice of the world's media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</TEXT>
+</TimeML>

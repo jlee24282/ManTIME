@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Gov. Nyesom Wike has flagged off the construction of Rumuji-Ibaa-Obele-Isiokpo road and bridge in Emohua and Ikwerre local government areas in Rivers state. The News Agency of Nigeria [ NAN] reports that the road, abandoned over the years by past administrations in the state, connected two local governments. Wike, at the ceremony at Ibaa inThe post appeared first on The Herald Nigeria - 24/7 News updates from Nigeria.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Construction news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Nigeria news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194207871</DOCID> 
-<DCT type="str">2017-01-29T04:38:51Z</DCT> 
-<TITLE type="str">Wike begins construction of Rumuji-Ibaa-Obele-Isiokpo road, bridge</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194207871</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Wike begins construction of Rumuji-Ibaa-Obele-Isiokpo road, bridge</TITLE>
+<TEXT>Gov. Nyesom Wike has flagged off the construction of Rumuji-Ibaa-Obele-Isiokpo road and bridge in Emohua and Ikwerre local government areas in Rivers state. The News Agency of Nigeria [ NAN] reports that the road, abandoned over the years by past administrations in the state, connected two local governments. Wike, at the ceremony at Ibaa inThe post appeared first on The Herald Nigeria - 24/7 News updates from Nigeria.</TEXT>
+</TimeML>

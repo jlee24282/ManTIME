@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Western Kentucky&apos;s women&apos;s tennis team closed out the weekend with a 5-2 loss versus Louisville on its home court at the Bass-Rudd Tennis Center on Saturday.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201004650</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Lady Tops fall to Louisville in tennis</TITLE>
+<TEXT>Western Kentucky's women's tennis team closed out the weekend with a 5-2 loss versus Louisville on its home court at the Bass-Rudd Tennis Center on Saturday.
 
 After the Cardinals (4-0) built a 1-0 lead winning the doubles point, the Lady Toppers (1-1) evened the score with senior Elpida Malamou clinching the singles No. 1 spot over Sena Suswam 4-6, 6-1, 6-2. Fellow senior Andreanna Christopoulou held her own going toe-to-toe with Aleksandra Mally, but came up short in a 7-6, 6-4 affair.
 
 Louisville won next two matches before WKU freshman Monica Malinen claimed her second win of the year, topping Olivia Boesing 6-4, 6-3.
 
-At the No. 6 spot, WKU&apos;s Violetta Shatalova won the first set 6-4, before dropping the next two 0-6, 6-3 to Louisville’s Jessie Paul.
+At the No. 6 spot, WKU's Violetta Shatalova won the first set 6-4, before dropping the next two 0-6, 6-3 to Louisvilles Jessie Paul.
 
-WKU will take the court again against Conference USA opponent Middle Tennessee on Feb. 4 at 10 a.m. at the Adams Tennis Complex in Murfreesboro, Tenn.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201004650</DOCID> 
-<DCT type="str">2017-01-29T02:18:00Z</DCT> 
-<TITLE type="str">Lady Tops fall to Louisville in tennis</TITLE> 
-</root>
+WKU will take the court again against Conference USA opponent Middle Tennessee on Feb. 4 at 10 a.m. at the Adams Tennis Complex in Murfreesboro, Tenn.</TEXT>
+</TimeML>

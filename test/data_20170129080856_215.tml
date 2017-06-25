@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Ruth Ellen (Graham) Floyd, 84, formerly of Lavaca, died Jan. 20, 2017, in New Orleans. She was a member of Williams Boulevard Baptist Church and the widow of Thomas Floyd. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199299063</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Ruth Floyd</TITLE>
+<TEXT>Ruth Ellen (Graham) Floyd, 84, formerly of Lavaca, died Jan. 20, 2017, in New Orleans. She was a member of Williams Boulevard Baptist Churchand the widow of Thomas Floyd. 
  
 Memorial service will be noon Thursday at Williams Boulevard Baptist Church in Kenner, La., with burial at 1 p.m. Friday at Port Hudson National Cemetery under the direction of Jacob Schoen and Son Fueral Home. 
  
 She is survived by two sons Michael and Jeffrey Horn; two sisters; five brothers; four grandchildren; and three great-grandchildren. 
  
-Visitation will be 10 a.m. to 12 p.m. Thursday at the church.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199299063</DOCID> 
-<DCT type="str">2017-01-29T05:01:00Z</DCT> 
-<TITLE type="str">Ruth Floyd</TITLE> 
-</root>
+Visitation will be 10 a.m. to 12 p.m. Thursday at the church.</TEXT>
+</TimeML>

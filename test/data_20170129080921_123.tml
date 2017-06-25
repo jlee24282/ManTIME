@@ -1,45 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Donald Trump | Image: ABC News 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200339648</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>US court overturns part of Trump "Muslim Ban"</TITLE>
+<TEXT>Donald Trump | Image: ABC News 
 
-Protests at US airports but Trump says ban &quot;working nicely&quot; 
+Protests at US airports but Trump says ban "working nicely" 
 
-Part of US President Donald Trump&apos;s temporary immigration ban for nationals of seven Middle Eastern countries has been blocked by an American court. 
+Part of US President Donald Trump's temporary immigration ban for nationals of seven Middle Eastern countries has been blocked by an American court. 
 
 Lawyers from the American Civil Liberties Union have secured a ruling which stops the US from deporting refugees and visitors. 
 
-Anthony Romero is the group&apos;s executive director: 
+Anthony Romero is the group's executive director: 
 
-Protests against Trump&apos;s refugee policy are being held at airports across the US. 
+Protests against Trump's refugee policy are being held at airports across the US. 
 
 Around two thousand people gathered at JFK airport in New York to oppose the executive order. 
 
 
-The scene from above as thousands chant and scream, draping banners from above at JFK international arrivals shouting &quot;LET THEM IN!&quot; pic.twitter.com/ugU8zbKYiv 
-— Jack Smith IV (@JackSmithIV) January 28, 2017 
+The scene from above as thousands chant and scream, draping banners from above at JFK international arrivals shouting "LET THEM IN!" pic.twitter.com/ugU8zbKYiv 
+ Jack Smith IV (@JackSmithIV) January 28, 2017 
 
 
 
-However President Trump insists his immigration reforms are &quot;not a Muslim ban&quot;, and says they&apos;re &quot;working out very nicely&quot;. 
+However President Trump insists his immigration reforms are "not a Muslim ban", and says they're "working out very nicely". 
 
 The executive order has been implemented by US immigration officials at Dublin and Shannon Airports. 
 
-There&apos;s been international criticism of the ban, but Mr Trump is standing by his decisions: 
+There's been international criticism of the ban, but Mr Trump is standing by his decisions: 
 
-Organisers of the Oscars say it&apos;s &quot;extremely troubling&quot; that the makers of an Iranian film nominated for an award may not be allowed into the US. 
+Organisers of the Oscars say it's "extremely troubling" that the makers of an Iranian film nominated for an award may not be allowed into the US. 
 
-Asghar Farhadi&apos;s movie The Salesman is up for best foreign language film at next month&apos;s ceremony in Los Angeles.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200339648</DOCID> 
-<DCT type="str">2017-01-29T07:59:10Z</DCT> 
-<TITLE type="str">US court overturns part of Trump &quot;Muslim Ban&quot;</TITLE> 
-</root>
+Asghar Farhadi's movie The Salesman is up for best foreign language film at next month's ceremony in Los Angeles.</TEXT>
+</TimeML>

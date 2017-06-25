@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Researchers have now found an explanation for what triggered the largest volcanic eruption witnessed by mankind. The volcano&apos;s secret was revealed by geochemical clues hidden inside volcanic quartz crystals. The deadliest volcanoes on earth are called supervolcanoes, capable of producing cataclysmic eruptions that devastate huge regions, and cause global cooling of the climate. The Indonesian supervolcano Toba had one of these eruptions about 73000 years ago, when 2800 cubic kilometers of vol...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Natural disasters news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201209668</DOCID> 
-<DCT type="str">2017-01-29T01:34:12Z</DCT> 
-<TITLE type="str">The secret of the supervolcano</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201209668</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>The secret of the supervolcano</TITLE>
+<TEXT>Researchers have now found an explanation for what triggered the largest volcanic eruption witnessed by mankind. The volcano's secret was revealed by geochemical clues hidden inside volcanic quartz crystals. The deadliest volcanoes on earth are called supervolcanoes, capable of producing cataclysmic eruptions that devastate huge regions, and cause global cooling of the climate. The Indonesian supervolcano Toba had one of these eruptions about 73000 years ago, when 2800 cubic kilometers of vol...</TEXT>
+</TimeML>

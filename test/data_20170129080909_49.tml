@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Isaiah Blackmon and Randall Gaskins Jr. scored 20 points each as Saint Francis edged away from Robert Morris, 89-83 in overtime, on Saturday night. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199715768</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>College basketball: Red Flash top Colonials in overtime</TITLE>
+<TEXT>Isaiah Blackmon and Randall Gaskins Jr. scored 20 points each as Saint Francis edged away from Robert Morris, 89-83 in overtime, on Saturday night. 
  
 Gaskins fed Blackmon for a 3-pointer that answered a Robert Morris dunk, giving Saint Francis a 73-72 lead early in overtime, and the teams battled from there with four ties and three lead changes. 
  
@@ -10,11 +13,11 @@ Josh Nebo scored 15 points and had 10 rebounds and six blocks for the Red Flash 
  
 Matty McConnell blocked a Nebo attempt at a layup and Kavon Stewart scored at the other end to send the game to overtime tied 68-68. McConnell scored 16 to lead the Colonials (7-16, 3-7), Aaron Tate a career-high 15 and Stewart 14. 
  
-RICHMOND 101, DUQUESNE 90: T.J. Cline scored Richmond’s first-ever triple-double with 34 points, 12 rebounds and a career-high 11 assists, ShawnDre’ Jones added 30 points and fueled a game-breaking second-half run, and the Spiders beat Duquesne. 
+RICHMOND 101, DUQUESNE 90: T.J. Cline scored Richmonds first-ever triple-double with 34 points, 12 rebounds and a career-high 11 assists, ShawnDre Jones added 30 points and fueled a game-breaking second-half run, and the Spiders beat Duquesne. 
  
 Julius Johnson set career highs with 16 points and four 3s and Nick Sherod added 12 for the Spiders (13-8, 7-2 Atlantic 10), who used a season-high 24 assists to make 31 of 58 field goal attempts (53.4 percent). 
  
-Duquesne led 57-52 in the second half after Emile Blackman’s 3 capped a 10-0 run, but Richmond tied it at 71 on Jones’ 3-pointer, which sparked a 13-2 run capped by his 3, for an 81-73 lead. 
+Duquesne led 57-52 in the second half after Emile Blackmans 3 capped a 10-0 run, but Richmond tied it at 71 on Jones 3-pointer, which sparked a 13-2 run capped by his 3, for an 81-73 lead. 
  
 Duquesne closed to 89-82 on a 3 by Mike Lewis II, but got no closer the rest of the way. 
  
@@ -22,26 +25,5 @@ Cline scored his second career 30-point game on 11-for-15 shooting from the floo
  
 Richmond led 46-44 at halftime after shooting 60 percent from the floor. 
  
-Isiaha Mike scored 23 points, Blackman had 22 and Lewis 21 for Duquesne (9-13, 2-7), which has lost five straight.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: US college sports news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: basketball news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: college basketball news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199715768</DOCID> 
-<DCT type="str">2017-01-29T06:45:00Z</DCT> 
-<TITLE type="str">College basketball: Red Flash top Colonials in overtime</TITLE> 
-</root>
+Isiaha Mike scored 23 points, Blackman had 22 and Lewis 21 for Duquesne (9-13, 2-7), which has lost five straight.</TEXT>
+</TimeML>

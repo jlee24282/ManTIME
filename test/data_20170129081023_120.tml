@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Pitman High&apos;s Adam Velasquez won a first-place belt for the second straight year at Pitman&apos;s Rumble In The Jungle, held Saturday, Jan. 28, 2017, at Turlock, Ca. (By Ron Agostini/ragostini@modbee.com) 
-  mrowland@modbee.com</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202558690</DOCID> 
-<DCT type="str">2017-01-29T08:09:27Z</DCT> 
-<TITLE type="str">Pitman star wins again at Rumble</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202558690</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Pitman star wins again at Rumble</TITLE>
+<TEXT>Pitman High's Adam Velasquez won a first-place belt for the second straight year at Pitman's Rumble In The Jungle, held Saturday, Jan. 28, 2017, at Turlock, Ca. (By Ron Agostini/ragostini@modbee.com) 
+  mrowland@modbee.com</TEXT>
+</TimeML>

@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Description   
-HOTRODS,CUSTOMS,CLASSIC, VINTAGE &amp; VETERAN CARS &amp;TRUCKS and now featuring Man Cave Market Stalls in the MAN CAVE ALLEY Aussie Falcons, Holdens and Chrysler Valiants up to 1975 (Show Cond’t) Man Cave Stall Sites Available On Behalf of the Rotary Club of Emerald &amp; District Inc. &amp; The Thunderbirds Rod &amp; Custom Club Inc.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204012562</DOCID> 
-<DCT type="str">2017-01-29T08:25:48Z</DCT> 
-<TITLE type="str">24th Annual All American Car Display &amp; Man Cave Alley</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204012562</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>24th Annual All American Car Display & Man Cave Alley</TITLE>
+<TEXT>Description   
+HOTRODS,CUSTOMS,CLASSIC, VINTAGE & VETERAN CARS &TRUCKS and now featuring Man Cave Market Stalls in the MAN CAVE ALLEY Aussie Falcons, Holdens and Chrysler Valiants up to 1975 (Show Condt) Man Cave Stall Sites Available On Behalf of the Rotary Club of Emerald & District Inc. & The Thunderbirds Rod & Custom Club Inc.</TEXT>
+</TimeML>

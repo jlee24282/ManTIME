@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Fire crews rescued a female who had been trapped under a motorbike for about 10 hours. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205004849</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trapped for 10 hours</TITLE>
+<TEXT>Fire crews rescued a female who had been trapped under a motorbike for about 10 hours. 
    
-A female has been flown to hospital after being trapped under a motorbike for about 10 hours. 
+A female has been flown to hospital after beingtrapped under a motorbike for about 10 hours. 
  
-Emergency crews were called to a rural address in Bennydale around 7.30pm on Sunday. 
+Emergency crews were called to a rural address in Bennydalearound 7.30pm on Sunday. 
  
-Fire Communications shift manager Dallas Ramsay said a crew from Bennydale and a crew from Te Kuiti responded. 
+FireCommunications shift managerDallas Ramsay said a crew from Bennydale and a crew from Te Kuiti responded. 
  
 The patient was flown by rescue helicopter to hospital. 
  
- </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205004849</DOCID> 
-<DCT type="str">2017-01-29T08:33:33Z</DCT> 
-<TITLE type="str">Trapped for 10 hours</TITLE> 
-</root>
+</TEXT>
+</TimeML>

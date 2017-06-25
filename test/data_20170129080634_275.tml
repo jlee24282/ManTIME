@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">MURS &quot;Rick Grimes Is Dead&quot; New Official Hip Hop Music Video Strange Music | 2016 Starring: MURS &amp; Noa James Story by: MURS &amp; Benjamin Younger V Rick Grimes I... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194086749</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Rick Grimes is dead. - STRANGE MUSIC INC</TITLE>
+<TEXT>MURS "Rick Grimes Is Dead" New Official Hip Hop Music Video Strange Music | 2016 Starring: MURS & Noa James Story by: MURS & Benjamin Younger V Rick Grimes I... 
  
-Rick Grimes is dead.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194086749</DOCID> 
-<DCT type="str">2017-01-29T07:13:04Z</DCT> 
-<TITLE type="str">Rick Grimes is dead. - STRANGE MUSIC INC</TITLE> 
-</root>
+Rick Grimes is dead.</TEXT>
+</TimeML>

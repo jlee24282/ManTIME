@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Kamami Christine Michira Mweti at Bowmans Kenya explores the significance of Kenya’s Banking Amendment Act which came into force in September 2016. Kenya’s real interest rate spread, among the highest in the world, has been a source of great public ...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Banking news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Kenya news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201003667</DOCID> 
-<DCT type="str">2017-01-28T21:34:00Z</DCT> 
-<TITLE type="str">Salient Features of Kenya’s Banking Amendment Act, 2016</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201003667</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Salient Features of Kenyas Banking Amendment Act, 2016</TITLE>
+<TEXT>Kamami Christine Michira Mweti at Bowmans Kenya explores the significance of Kenyas Banking Amendment Act which came into force in September 2016. Kenyas real interest rate spread, among the highest in the world, has been a source of great public ...</TEXT>
+</TimeML>

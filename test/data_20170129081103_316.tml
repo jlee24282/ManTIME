@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Bureau of Land Management has scheduled two information meetings to seek input on recreational target shooting management alternatives for the Sonoran Desert National Monument, according to a press release. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204034969</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>BLM to host meetings on target shooting management on Sonoran Desert National Monument</TITLE>
+<TEXT>The Bureau of Land Management has scheduled two information meetings to seek input on recreational target shooting management alternatives for the Sonoran Desert National Monument, according to a press release. 
  
 The meeting dates and locations are: 
  noon-3 p.m. Feb. 11 at the Copper Sky Recreation Center, 44342 W Martin Luther King Blvd. in Maricopa.  4-7 p.m. Feb. 21 at the Burton Barr Central Library, 1221 N. Central Ave. in Phoenix.  
@@ -12,22 +15,5 @@ The 90-day comment period will close on March 15. All comments must be received 
  
 Following the public comment period, the BLM will consider all of the input and begin work to finalize the Draft Environmental Impact Statement and Draft Resource Management Plan Amendment. 
  
-Stakeholders and other members of the public are encouraged to submit their comments for the record through the BLM online land use planning tool, ePlanning. Written comments may be mailed to the BLM’s project manager, Wayne Monger, at 21605 N. 7th Ave., Phoenix, AZ 85027, faxed to 623-580-5623, or e-mailed to BLM_AZ_SDNMtargetshooting@BLM.gov .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Phoenix news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Management news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204034969</DOCID> 
-<DCT type="str">2017-01-29T08:26:00Z</DCT> 
-<TITLE type="str">BLM to host meetings on target shooting management on Sonoran Desert National Monument</TITLE> 
-</root>
+Stakeholders and other members of the public are encouraged to submit their comments for the record through the BLM online land use planning tool, ePlanning. Written comments may be mailed to the BLMs project manager, Wayne Monger, at 21605 N. 7th Ave., Phoenix, AZ 85027, faxed to 623-580-5623, or e-mailed to BLM_AZ_SDNMtargetshooting@BLM.gov .</TEXT>
+</TimeML>

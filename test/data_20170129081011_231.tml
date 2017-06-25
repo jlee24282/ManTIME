@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Historic Crests 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202331588</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Minor (14.28 ft) - Observation - TMOG1 - Satilla River at GA-158 above Millwood (Georgia)</TITLE>
+<TEXT>Historic Crests 
 (1) 26.60 ft on 04/15/1928 (P) 
 (2) 26.60 ft on 04/04/1948 
 (3) 19.78 ft on 02/28/2013 
@@ -35,10 +38,5 @@ Low Water Records
 (3) 2.16 ft on 09/20/2011 
 (4) 2.16 ft on 09/18/2011 
 (5) 2.16 ft on 09/17/2011 
-Show More Low Water Records</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695202331588</DOCID> 
-<DCT type="str">2017-01-29T08:07:30Z</DCT> 
-<TITLE type="str">Minor (14.28 ft) - Observation - TMOG1 - Satilla River at GA-158 above Millwood (Georgia)</TITLE> 
-</root>
+Show More Low Water Records</TEXT>
+</TimeML>

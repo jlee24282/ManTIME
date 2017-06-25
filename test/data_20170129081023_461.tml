@@ -1,26 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jennifer Jolly finds great way to save money on your new TV. 
-                 </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Tech latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: American football news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202799641</DOCID> 
-<DCT type="str">2017-01-29T08:15:05Z</DCT> 
-<TITLE type="str">Super Bowl TV shopping? Read this first</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202799641</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Super Bowl TV shopping? Read this first</TITLE>
+<TEXT>Jennifer Jolly finds great way to save money on your new TV. 
+         </TEXT>
+</TimeML>

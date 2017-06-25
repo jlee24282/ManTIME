@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Call for Beta Testers!
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196949824</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Typoman: Revised soon available on SteamOS + Linux</TITLE>
+<TEXT>Call for Beta Testers!
 
-Took us quite a while - but we&apos;re almost there! If everything goes well, we&apos;ll be releasing Typoman for SteamOS + Linux on February 10th!
+Took us quite a while - but we're almost there! If everything goes well, we'll be releasing Typoman for SteamOS + Linux on February 10th!
 
-We tested the game thoroughly on Ubuntu 16.04.1 LTS and latest SteamOS. We&apos;re not expecting any major bugs, but would appreciate your help in polishing the game before we release it in February!
+We tested the game thoroughly on Ubuntu 16.04.1 LTS and latest SteamOS. We're not expecting any major bugs, but would appreciate your help in polishing the game before we release it in February!
 
-Would you like to play the game for free on your system? Should work on any Linux distribution that&apos;s greater than Ubuntu 12.xx.xx or compatible.
+Would you like to play the game for free on your system? Should work on any Linux distribution that's greater than Ubuntu 12.xx.xx or compatible.
 
 Please apply for beta testing via studio@brainseed-factory.com asap!
 
@@ -14,9 +17,9 @@ Your Brainseed Factory
 
 About the Game
 
-Inspired by the life of devoted writers Typoman takes you on a journey to explore the power of words in the everlasting battle between good and evil. You slip into the role of a character made of letters, struggling to make your way through a dark and hostile world. Despite your small stature you have a powerful gift: You can craft words which will have an effect on the environment. But you&apos;ll have to choose your words wisely - they can either be a blessing ...or a curse!
+Inspired by the life of devoted writers Typoman takes you on a journey to explore the power of words in the everlasting battle between good and evil. You slip into the role of a character made of letters, struggling to make your way through a dark and hostile world. Despite your small stature you have a powerful gift: You can craft words which will have an effect on the environment. But you'll have to choose your words wisely - they can either be a blessing ...or a curse!
 
-Game features at a glance Wield the power of altering the world by by creating, changing or destroying words Solve ingenious and challenging puzzles with a unique aesthetic mix of typography and pen &amp; ink graphics Captivating, carefully drafted, on-the-fly told story using witty word puzzles and puns Surreal, atmospheric game world Featuring Steam Trading Cards, Badges, Leaderboards and Achievements Distinct soundtrack specifically composed for the game What has been said about Typoman
+Game features at a glance Wield the power of altering the world by by creating, changing or destroying words Solve ingenious and challenging puzzles with a unique aesthetic mix of typography and pen & ink graphics Captivating, carefully drafted, on-the-fly told story using witty word puzzles and puns Surreal, atmospheric game world Featuring Steam Trading Cards, Badges, Leaderboards and Achievements Distinct soundtrack specifically composed for the game What has been said about Typoman
 
 Gaming Nexus 85%
 
@@ -24,11 +27,11 @@ Great core concept, clever puzzles, stark, haunting aesthetic
 
 The Gaming Ground 90%
 
-A solid game for those who love words, puzzles &amp; platformers
+A solid game for those who love words, puzzles & platformers
 
 Gaming Trend 80%
 
-Intriguing &amp; atmospheric world, immersive sights &amp; sounds
+Intriguing & atmospheric world, immersive sights & sounds
 
 IGN Italia 87%
 
@@ -38,9 +41,9 @@ Cubed3 80%
 
 A genuinely original idea, a breathing world and a good flow
 
-Awards &amp; Recognition &quot;Featured at Indie Game Revolution&quot; EMP Museum, Seattle &quot;Beste Inszenierung / Best Production&quot; German Video Game Awards 2016, Munich &quot;Finalist Indie Prize 2016 Showcase&quot; Casual Connect Europe 2016, Amsterdam &quot;Best Casual Game&quot; Game Connection Development Awards 2015, San Francisco &quot;Nominee for Best Game, Best Indie Game, Best Sound, Best Game Design, Best Console Game&quot; German Dev Awards 2015, Cologne &quot;Winner Best Art Style&quot; Gaming Trend&apos;s Best of E3 2015 Awards, Los Angeles &quot;Winner Best of Quo Vadis 2015&quot; Best of Quo Vadis Show, Berlin &quot;Nominee Best Indie Game&quot; gamescom award 2015, Cologne About Brainseed Factory
+Awards & Recognition "Featured at Indie Game Revolution" EMP Museum, Seattle "Beste Inszenierung / Best Production" German Video Game Awards 2016, Munich "Finalist Indie Prize 2016 Showcase" Casual Connect Europe 2016, Amsterdam "Best Casual Game" Game Connection Development Awards 2015, San Francisco "Nominee for Best Game, Best Indie Game, Best Sound, Best Game Design, Best Console Game" German Dev Awards 2015, Cologne "Winner Best Art Style" Gaming Trend's Best of E3 2015 Awards, Los Angeles "Winner Best of Quo Vadis 2015" Best of Quo Vadis Show, Berlin "Nominee Best Indie Game" gamescom award 2015, Cologne About Brainseed Factory
 
-Brainseed Factory is an independent game studio based in Germany&apos;s former capital city Bonn. It was founded by Bilal Chbib and is made up of 7 creative minds and gaming enthusiasts who love playing but also creating unique memorable games. With Brainseed Factory&apos;s debut title Typoman the studio managed to secure awards and nominations at industry events worldwide.
+Brainseed Factory is an independent game studio based in Germany's former capital city Bonn. It was founded by Bilal Chbib and is made up of 7 creative minds and gaming enthusiasts who love playing but also creating unique memorable games. With Brainseed Factory's debut title Typoman the studio managed to secure awards and nominations at industry events worldwide.
 
 Notes
 
@@ -58,14 +61,5 @@ Visit our website: http://www.typoman.net/
 
 Facebook: https://www.facebook.com/typoman.net
 
-Twitter: https://twitter.com/brainseed_fcty</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196949824</DOCID> 
-<DCT type="str">2017-01-29T07:33:39Z</DCT> 
-<TITLE type="str">Typoman: Revised soon available on SteamOS + Linux</TITLE> 
-</root>
+Twitter: https://twitter.com/brainseed_fcty</TEXT>
+</TimeML>

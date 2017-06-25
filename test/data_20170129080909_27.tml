@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Historic Crests 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199702540</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Minor (10.88 ft) - Observation - GIVS1 - Edisto River near Givhans Ferry (South Carolina)</TITLE>
+<TEXT>Historic Crests 
 (1) 17.50 ft on 02/01/1925 
 (2) 17.28 ft on 09/21/1945 
 (3) 17.00 ft on 08/01/1904 
@@ -35,10 +38,5 @@ Low Water Records
 (3) 0.62 ft on 07/26/2011 
 (4) 0.70 ft on 07/09/2012 
 (5) 0.79 ft on 06/20/2002 
-Show More Low Water Records</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695199702540</DOCID> 
-<DCT type="str">2017-01-29T07:52:14Z</DCT> 
-<TITLE type="str">Minor (10.88 ft) - Observation - GIVS1 - Edisto River near Givhans Ferry (South Carolina)</TITLE> 
-</root>
+Show More Low Water Records</TEXT>
+</TimeML>

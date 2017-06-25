@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">\r 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202434910</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Hippo Peppa - Train - Best Apps For Toddlers - Cartoon For Kids - Game Play</TITLE>
+<TEXT>\r 
 \r 
 Please dont forget to subscribe to our channel: \r 
 \r 
@@ -25,14 +28,5 @@ Baby Hazel Games for Kids - Baby Hazel Pilot Dressup - New Full Episodes -
 
 Author: beatricewilliamson47 
 Tags: Peppa Pig  peppa pig english episodes  Hippo Kids Games  hippo Pepa  hippo peppa pig  pepa pig  educational games  educational  baby games  children games  b.  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202434910</DOCID> 
-<DCT type="str">2017-01-29T08:11:10Z</DCT> 
-<TITLE type="str">Hippo Peppa - Train - Best Apps For Toddlers - Cartoon For Kids - Game Play</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

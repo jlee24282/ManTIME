@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">John Krasinski and Emily Blunt are one of the sweetest couples in Hollywood. The two started dating in 2008, tied the knot in 2010, welcomed their first child , daughter Hazel, in 2014, and second daughter Violet in July 2016. Whenever they pose for pictures together on the red carpet, John regularly whispers into Emily&apos;s ear, and instead of focusing on the cameras, they get completely wrapped up in each another. Take a look at some of their sweetest snaps through the years, then check out 35 times John was just so damn adorable .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: celebrity gossip</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197415801</DOCID> 
-<DCT type="str">2017-01-29T05:38:19Z</DCT> 
-<TITLE type="str">John Krasinski and Emily Blunt Really Have the Look of Love Down</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197415801</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>John Krasinski and Emily Blunt Really Have the Look of Love Down</TITLE>
+<TEXT>John Krasinski and Emily Blunt are one of the sweetest couples in Hollywood. The two started dating in 2008, tied the knot in 2010, welcomed their first child , daughter Hazel, in 2014, and second daughter Violet in July 2016. Whenever they pose for pictures together on the red carpet, John regularly whispers into Emily's ear, and instead of focusing on the cameras, they get completely wrapped up in each another. Take a look at some of their sweetest snaps through the years, then check out 35 times John was just so damn adorable .</TEXT>
+</TimeML>

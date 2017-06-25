@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Roger Federer and Rafael Nadal will clash in the men&apos;s singles final of the Australian Open. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201989605</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Live: Federer v Nadal</TITLE>
+<TEXT>Roger Federer and Rafael Nadal will clash in the men's singles final of the Australian Open. 
    
-Titans of world tennis Roger Federer and Rafael Nadal collide in an unlikely final match-up at the Australian Open.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201989605</DOCID> 
-<DCT type="str">2017-01-29T08:10:25Z</DCT> 
-<TITLE type="str">Live: Federer v Nadal</TITLE> 
-</root>
+Titans of world tennis Roger Federer and Rafael Nadal collide in an unlikely final match-up at the Australian Open.</TEXT>
+</TimeML>

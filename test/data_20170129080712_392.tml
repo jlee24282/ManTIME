@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">To the editor, 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195454109</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Letter: A different view of Mexico from El Paso</TITLE>
+<TEXT>To the editor, 
  
 President Donald Trump is carrying through on his campaign promise to build a wall along the U.S.-Mexico border. I lived in El Paso, Texas, for many years and would like to offer my perspective. 
  
@@ -14,30 +17,5 @@ I think that most border cities would welcome increased security, but I am not s
  
 Ann Blumensaadt 
  
-Greenwich</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Central America news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Mexico news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195454109</DOCID> 
-<DCT type="str">2017-01-29T05:00:00Z</DCT> 
-<TITLE type="str">Letter: A different view of Mexico from El Paso</TITLE> 
-</root>
+Greenwich</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Revise or correct this event listing 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204973920</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: James Earp</TITLE>
+<TEXT>Revise or correct this event listing 
 
 Please log in to submit event corrections 
 
@@ -12,7 +15,7 @@ Username
 
 I have an account. 
 
-I&apos;m new. 
+I'm new. 
 
 Password Forgot? 
 
@@ -32,7 +35,7 @@ Or login with:
 
 Connect to Facebook Connect to Twitter Google 
 
-Cougar Vineyard &amp; Winery 
+Cougar Vineyard & Winery 
 
 Search event categories | Submit an event 
 
@@ -54,10 +57,5 @@ Earn up to $25 for album reviews.
 
 Earn up to $50 for travel stories. 
 
-Earn up to $50 for water stories.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204973920</DOCID> 
-<DCT type="str">2017-01-29T08:33:17Z</DCT> 
-<TITLE type="str">Sun 1/29: James Earp</TITLE> 
-</root>
+Earn up to $50 for water stories.</TEXT>
+</TimeML>

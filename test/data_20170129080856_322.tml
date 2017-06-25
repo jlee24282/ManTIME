@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Leeds United head coach Garry Monk is promising to make a number of changes to his side for the FA Cup tie at Sutton United. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199468745</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>LUFC Monk - We Will Have To Make Changes</TITLE>
+<TEXT>Leeds United head coach Garry Monk is promising to make a number of changes to his side for the FA Cup tie at Sutton United. 
 
 With Leeds back in Championship action at Blackburn Rovers in midweek, Monk will once again rotate his squad for the potential banana-skin cup-tie. 
 
-&quot;We will have to make changes, we have a game against Blackburn Rovers the following Wednesday,&quot; Monk told the Leeds official website. 
+"We will have to make changes, we have a game against Blackburn Rovers the following Wednesday," Monk told the Leeds official website. 
 
-&quot;We have to get the balance right in the squad to be competitive in both games, so there will be changes because we have to think about the squad correctly. 
+"We have to get the balance right in the squad to be competitive in both games, so there will be changes because we have to think about the squad correctly. 
 
-&quot;Our aim doesn`t change, we want to win, we have that mentality, we want to go to Sutton and put on a good performance. 
+"Our aim doesn`t change, we want to win, we have that mentality, we want to go to Sutton and put on a good performance. 
 
-&quot;Whoever steps on that pitch knows exactly what is expected of them and the levels they need to reach, I have confidence in all of my players and all of the squad. 
+"Whoever steps on that pitch knows exactly what is expected of them and the levels they need to reach, I have confidence in all of my players and all of the squad. 
 
 Monk will welcome Liam Cooper and Hadi Sacko back into the squad after recovering from injury and Marco Silvestri, Lewie Coyle, Tyler Denton, Kalvin Phillips, Matt Grimes and Marcus Antonsson could all feature having started the third round tie at Cambridge United. 
 
@@ -34,18 +37,5 @@ Vital Leeds on:
 
 Join Vital Leeds 
 
-It&apos;s easy to REGISTER HERE , simply click the link and enjoy getting involved!</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199468745</DOCID> 
-<DCT type="str">2017-01-29T07:30:00Z</DCT> 
-<TITLE type="str">LUFC Monk - We Will Have To Make Changes</TITLE> 
-</root>
+It's easy to REGISTER HERE , simply click the link and enjoy getting involved!</TEXT>
+</TimeML>

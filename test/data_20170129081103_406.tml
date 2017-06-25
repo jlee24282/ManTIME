@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Philip Fisher 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204111053</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>The National Theatre in 2017</TITLE>
+<TEXT>Philip Fisher 
  
 29th January, 2017 
  Rufus Norris 
@@ -11,7 +14,7 @@ Norris started with the Olivier Theatre welcoming what he believes may be a prev
  
 He positively enthused about St George and the Dragon by Rory Mullarkey. This piece, which will be directed by Lyndsey Turner, is a new incarnation of the epic folk play looking into what it means to be English today. 
  
-In addition to St George , Anne-Marie Duff (who is also taking the lead in D C Moore’s Common ) and Rory Kinnear will be starring in a new production of Macbeth marking two auspicious anniversaries. It is both 25 years since the Olivier last saw a production of this play and 25 years since Norris himself last directed a work by Shakespeare. 
+In addition to St George , Anne-Marie Duff (who is also taking the lead in D C Moores Common ) and Rory Kinnear will be starring in a new production of Macbeth marking two auspicious anniversaries. It is both 25 years since the Olivier last saw a production of this play and 25 years since Norris himself last directed a work by Shakespeare. 
  
 Finally, in January 2018 Amadeus is to be revived with Lucien Msamati and Adam Gillen once again taking the leading roles. 
  Lyttelton  
@@ -25,26 +28,13 @@ That opens in August, while in October Polly Findlay will be directing Beginning
  
 Finally, Annie Baker, whose strikingly different The Flick challenged audiences in 2016, is returning with John directed by James Macdonald and starring George Engel, who starred in the original production in New York for and for whom the play was written. 
  Touring and NT Live  
-Norris was also excited about the National’s series of touring productions which will be supplemented by Jane Eyre , My Country; a Work in Progress by Carol Ann Duffy with Norris and People, Places and Things . 
+Norris was also excited about the Nationals series of touring productions which will be supplemented by Jane Eyre , My Country; a Work in Progress by Carol Ann Duffy with Norris and People, Places and Things . 
  
 As he explained, while the National has worked on a large number of co-productions with regional theatres during the first 18 months of his tenure, this would be a different way of getting to places that are less well served by live arts. 
  
-He was also particularly proud about the transfer of People, Places and Things to St Ann&apos;s Warehouse in Brooklyn, which he confirmed would star Denise Gough, once she had finished taking on the National’s revival of Tony Kushner’s epic Angels in America . 
+He was also particularly proud about the transfer of People, Places and Things to St Ann's Warehouse in Brooklyn, which he confirmed would star Denise Gough, once she had finished taking on the Nationals revival of Tony Kushners epic Angels in America . 
  
 Ten shows have also been confirmed in the upcoming NT Live season seven of which are home productions and three from other theatres. 
  
-Full details are now available on the National Theatre web site .﻿</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: theater news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204111053</DOCID> 
-<DCT type="str">2017-01-29T08:26:37Z</DCT> 
-<TITLE type="str">The National Theatre in 2017</TITLE> 
-</root>
+Full details are now available on the National Theatre web site .</TEXT>
+</TimeML>

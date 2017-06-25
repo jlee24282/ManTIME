@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Three area basketball teams claimed titles this weekend in a flurry of tournament activity. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193959289</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Borgia, Pacific, New Haven Win Tournament Titles</TITLE>
+<TEXT>Three area basketball teams claimed titles this weekend in a flurry of tournament activity. 
    
-Borgia’s boys capped off the Union Tournament Saturday, defeating Lutheran South for the title, 65-57. 
+Borgias boys capped off the Union Tournament Saturday, defeating Lutheran South for the title, 65-57. 
    
 Borgia built up a big early lead and was up 23-9 after a quarter, 37-27 at the half and 55-35 after three quarters. 
    
@@ -58,14 +61,5 @@ At the Hermann Tournament, the New Haven Lady Shamrocks stunned the top-seeded h
    
 St. Clair placed third, beating Owensville, 57-47. 
    
-Additional coverage will be in the Wednesday Missourian.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193959289</DOCID> 
-<DCT type="str">2017-01-29T04:48:00Z</DCT> 
-<TITLE type="str">Borgia, Pacific, New Haven Win Tournament Titles</TITLE> 
-</root>
+Additional coverage will be in the Wednesday Missourian.</TEXT>
+</TimeML>

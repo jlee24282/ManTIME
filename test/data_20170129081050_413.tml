@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A 48-year-old teacher, Madam Agnes Blankson, has been installed as the Baatanhemaa of Gomoa Akyimfo, near Apam in the Central Region.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203604352</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Teacher installed Baatanhemaa of Gomoa Akyimfo</TITLE>
+<TEXT>A 48-year-old teacher, Madam Agnes Blankson, has been installed as the Baatanhemaa of Gomoa Akyimfo, near Apam in the Central Region.
 
 Her stool name is Nana Kweikua Akonoa II. 
 
 Nana Akonoa also swore the oath of allegiance to the Omanhene of the Gomoa Akyimpim Traditional Area, Nana Obirifo Ehunako Ahor, at Gomoa Assin.
 
-Speaking after her installation, Nana Akonoa said she intended to tackle the problems of teenage pregnancy, lack of job opportunities and insanitary conditions along the town’s beaches which had become a major headache to the community. 
+Speaking after her installation, Nana Akonoa said she intended to tackle the problems of teenage pregnancy, lack of job opportunities and insanitary conditions along the towns beaches which had become a major headache to the community. 
 
 In tackling the challenges, she said, she would collaborate with the elders of the town and the Gomoa West District Assembly. 
 
@@ -16,24 +19,11 @@ She urged the youth of the town to lend their support towards initiatives to dev
 
 Nana Akonoa said she would campaign to promote education in the community, since quality education was an effective means of preventing child labour and teenage pregnancy.
 
-“Education is the most precious legacy any parent can give to their child, and for national development,” she said.
+Education is the most precious legacy any parent can give to their child, and for national development, she said.
 
-She said further that she would liaise with the district assembly and the elders of the community to develop the town’s beach front as a means of promoting tourism and creating jobs in the community.
+She said further that she would liaise with the district assembly and the elders of the community to develop the towns beach front as a means of promoting tourism and creating jobs in the community.
 
 The Baatanhemaa noted that she could do little without support and collaboration from the elders and youth in the community.
 
-“I therefore call for backing from all groups in the community to assist me to succeed in my endeavours,” she added.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203604352</DOCID> 
-<DCT type="str">2017-01-29T08:22:51Z</DCT> 
-<TITLE type="str">Teacher installed Baatanhemaa of Gomoa Akyimfo</TITLE> 
-</root>
+I therefore call for backing from all groups in the community to assist me to succeed in my endeavours, she added.</TEXT>
+</TimeML>

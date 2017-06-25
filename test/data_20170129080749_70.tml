@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Days before Rajan Pegu was beaten to death, the villagers of Baspora had held a meeting. A string of unexplained deaths had occurred within weeks and the villagers believed some dark magic was at play. They asked Pegu, an elderly herdsman: “Old man, are you a witch?” He told them: “No, no, I am not a witch.” Then they called his son Nurul to face the crowd and asked: “Is your father practising black magic?” He replied: “No, no, my father is not a witch.” Four years since his father died in th...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196536516</DOCID> 
-<DCT type="str">2017-01-29T01:25:31Z</DCT> 
-<TITLE type="str">Doctors are scarce on India’s river island – so the witch-hunters are back | World news</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196536516</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Doctors are scarce on Indias river island  so the witch-hunters are back | World news</TITLE>
+<TEXT>Days before Rajan Pegu was beaten to death, the villagers of Baspora had held a meeting. A string of unexplained deaths had occurred within weeks and the villagers believed some dark magic was at play. They asked Pegu, an elderly herdsman: Old man, are you a witch? He told them: No, no, I am not a witch. Then they called his son Nurul to face the crowd and asked: Is your father practising black magic? He replied: No, no, my father is not a witch. Four years since his father died in th...</TEXT>
+</TimeML>

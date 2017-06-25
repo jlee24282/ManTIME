@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mishawaka, Ind.– A packed crowd at Gates Gymnasium on the campus of Bethel College was on hand to see the No. 4 ranked Bethel College Pilots defeat the No. 6 ranked Indiana Wesleyan Wildcats on Saturday afternoon. The victory gives the senior class their one-hundredth win as members of the Bethel College Pilots. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201572176</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>No. 4 Pilots Defeat No. 6 Indiana Wesleyan In Front of Packed House</TITLE>
+<TEXT>Mishawaka, Ind. A packed crowd at Gates Gymnasium on the campus of Bethel College was on hand to see the No. 4 ranked Bethel College Pilots defeat the No. 6 ranked Indiana Wesleyan Wildcats on Saturday afternoon. The victory gives the senior class their one-hundredth win as members of the Bethel College Pilots. 
  
 Caleb Oetjen led three Pilots in double figures with 22 points going 8-of-12 from the field. Jordyn Coon contributed 18 points, nine rebounds, and four assists. Junior Gage Ott added 17 points, six rebounds, and three assists. 
  
@@ -15,18 +18,5 @@ The Pilots pressured the Wildcats defensively, holding them to just 42.6 percent
  
 With the win over the Wildcats, Bethel College now improves to 21-3 overall, and 11-1 in the Crossroads League. The Pilots have now won 11 straight in league play. The Pilots currently sit atop of the Crossroads League two games ahead of the Wildcats, who are second. 
  
-The Pilots will travel to Goshen, Ind. this coming Wednesday, February 1, to take on the Maple Leafs from Goshen College. The Maple Leafs are currently 3-9 in the Crossroads League and 10-14 overall after losing to Grace College on Saturday.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: US college sports news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201572176</DOCID> 
-<DCT type="str">2017-01-29T08:07:23Z</DCT> 
-<TITLE type="str">No. 4 Pilots Defeat No. 6 Indiana Wesleyan In Front of Packed House</TITLE> 
-</root>
+The Pilots will travel to Goshen, Ind. this coming Wednesday, February 1, to take on the Maple Leafs from Goshen College. The Maple Leafs are currently 3-9 in the Crossroads League and 10-14 overall after losing to Grace College on Saturday.</TEXT>
+</TimeML>

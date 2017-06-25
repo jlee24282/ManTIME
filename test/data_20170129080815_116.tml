@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">January 28th 9:14 pm | Molly Dischner, The Bristol Bay Times-Dutch Harbor Fisherman      
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197434702</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Kokhanok teen dies in ATV accident</TITLE>
+<TEXT>January 28th 9:14 pm | Molly Dischner, The Bristol Bay Times-Dutch Harbor Fisherman    
  
 Alaska State Troopers said Alex Nielsen, 17, died January 19 after the ATV he was driving hit a snowbank on Iliamna Lake. 
  
 In the days that followed, friends and family have remembered Nielsen on Facebook as a fun friend and cousin, writing that it was hard to lose someone so young. 
  
-Nielsen was a past winner of the Alaska Migratory Bird Calendar contest, and was featured in a &quot;Day in our Bay&quot; video about subsistence hunting. In an essay he wrote in fifth grade, he listed subsistence as one of the most important parts of his heritage, along with respect and survival. 
+Nielsen was a past winner of the Alaska Migratory Bird Calendar contest, and was featured in a "Day in our Bay" video about subsistence hunting. In an essay he wrote in fifth grade, he listed subsistence as one of the most important parts of his heritage, along with respect and survival. 
  
 The ATV flipped after hitting the snowbank at about 40 mph, and two teens riding the machine were ejected. Nielsen was hit in the head by the handlebar when the machine flipped, and had significant head injuries, according to troopers. 
  
@@ -18,10 +21,5 @@ Neither teen was wearing a helmet, according to troopers.
  
 The accident occurred about 12 miles north of Kokhanok. 
  
-A family member said Jan. 23 that the family was still waiting for Nielsen&apos;s return, and had not yet scheduled a memorial service.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695197434702</DOCID> 
-<DCT type="str">2017-01-29T07:37:24Z</DCT> 
-<TITLE type="str">Kokhanok teen dies in ATV accident</TITLE> 
-</root>
+A family member said Jan. 23 that the family was still waiting for Nielsen's return, and had not yet scheduled a memorial service.</TEXT>
+</TimeML>

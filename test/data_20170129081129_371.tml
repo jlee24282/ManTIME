@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Chinese New Year Celebration   
-Everyone is welcome to join us for the upcoming Chinese New Year Celebration from 1/27-1/29. There will be offering for first annual incense, New Year&apos;s eve service, Thousand Buddhas&apos; chanting service, lion dance, fortune gods giving our chocolate gold coins, make your wish by sounding the wishing gong, write down your prayers for the new year, and many more.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204969825</DOCID> 
-<DCT type="str">2017-01-29T08:33:16Z</DCT> 
-<TITLE type="str">Sun 1/29: Chinese New Year Celebration</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204969825</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Chinese New Year Celebration</TITLE>
+<TEXT>Chinese New Year Celebration   
+Everyone is welcome to join us for the upcoming Chinese New Year Celebration from 1/27-1/29. There will be offering for first annual incense, New Year's eve service, Thousand Buddhas' chanting service, lion dance, fortune gods giving our chocolate gold coins, make your wish by sounding the wishing gong, write down your prayers for the new year, and many more.</TEXT>
+</TimeML>

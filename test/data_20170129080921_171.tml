@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">US President Donald Trump and his Russian counterpart have made a &quot;significant start&quot; in fixing their countries&apos; relationship, while agreeing to cooperate in fighting the Islamic State of Iraq and the Levant group, the White House said following an hour-long phone call. The two leaders&apos; first conversation since Trump&apos;s inauguration covered topics ranging from cooperation in defeating ISIL &quot;to efforts in working together to achieve more peace throughout the world including Syria,&quot; the statemen...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Russia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200355777</DOCID> 
-<DCT type="str">2017-01-29T06:31:12Z</DCT> 
-<TITLE type="str">Trump and Putin vow to cooperate in ISIL fight | ISIS News</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200355777</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump and Putin vow to cooperate in ISIL fight | ISIS News</TITLE>
+<TEXT>US President Donald Trump and his Russian counterpart have made a "significant start" in fixing their countries' relationship, while agreeing to cooperate in fighting the Islamic State of Iraq and the Levant group, the White House said following an hour-long phone call. The two leaders' first conversation since Trump's inauguration covered topics ranging from cooperation in defeating ISIL "to efforts in working together to achieve more peace throughout the world including Syria," the statemen...</TEXT>
+</TimeML>

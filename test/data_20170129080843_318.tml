@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">An India-origin researcher has put together a system that would help analyze whether your tweet is credible or not, a report said. A team led by Georgia Tech Ph.D. candidate Tanushree Mitra scanned 66 million tweets linked to nearly 1,400 real-world events to build a language model that identified words and phrases that lead to strong or weak perceived levels of credibility on Twitter. “There have been many studies about social media credibility in recent years but very little is known about what types of words or phrases create credibility perceptions during rapidly unfolding events,” Mitra said in a statement. The team looked at tweets surrounding events in 2014 and 2015, including the emergence of Ebola in West Africa, the</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695198820329</DOCID> 
-<DCT type="str">2017-01-29T07:39:15Z</DCT> 
-<TITLE type="str">Researchers develop system to analyze credibility of tweets</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198820329</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Researchers develop system to analyze credibility of tweets</TITLE>
+<TEXT>An India-origin researcher has put together a system that would help analyze whether your tweet is credible or not, a report said. A team led by Georgia Tech Ph.D. candidate Tanushree Mitra scanned 66 million tweets linked to nearly 1,400 real-world events to build a language model that identified words and phrases that lead to strong or weak perceived levels of credibility on Twitter. There have been many studies about social media credibility in recent years but very little is known about what types of words or phrases create credibility perceptions during rapidly unfolding events, Mitra said in a statement. The team looked at tweets surrounding events in 2014 and 2015, including the emergence of Ebola in West Africa, the</TEXT>
+</TimeML>

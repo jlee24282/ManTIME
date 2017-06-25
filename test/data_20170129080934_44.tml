@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Action all day Police spokesman Acting Inspector Roland Cobbler says the 74-year-old resident of Monroe Road, Haggatt Hall, St Michael, was attacked by a &quot;pack of dogs&quot; around 5:30 a.m. A 30 year-old male who tried to help was also attacked and he was taken to the Queen Elizabeth Hospital for treatment. Cobbler said they were told the dogs were pitbulls, but have been unable to confirm this. ... 
-Read More</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200716212</DOCID> 
-<DCT type="str">2017-01-28T15:37:06Z</DCT> 
-<TITLE type="str">UPDATE: Woman killed by dogs</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200716212</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>UPDATE: Woman killed by dogs</TITLE>
+<TEXT>Action all day Police spokesman Acting Inspector Roland Cobbler says the 74-year-old resident of Monroe Road, Haggatt Hall, St Michael, was attacked by a "pack of dogs" around 5:30 a.m. A 30 year-old male who tried to help was also attacked and he was taken to the Queen Elizabeth Hospital for treatment. Cobbler said they were told the dogs were pitbulls, but have been unable to confirm this. ... 
+Read More</TEXT>
+</TimeML>

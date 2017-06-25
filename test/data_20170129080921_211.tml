@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">1888PressRelease 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200383957</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>US Capital Engaged on $6M Equity Investment for Maven Research, Inc</TITLE>
+<TEXT>1888PressRelease 
 2017-01-29  (1888PressRelease) San Francisco-based private investment bank backs innovative provider of cloud-based micro-consulting platform, with growing network of qualified domain experts. 
-San Francisco, CA, USA. - US Capital Partners Inc. has been engaged by Maven Research, Inc. (&quot;Maven&quot;) as its strategic advisor in capital formation needs. Maven will use the new financing for sales and marketing, research and software development, customer acquisition, and general working capital as the business continues to expand. 
+San Francisco, CA, USA. - US Capital Partners Inc. has been engaged by Maven Research, Inc. ("Maven") as its strategic advisor in capital formation needs. Maven will use the new financing for sales and marketing, research and software development, customer acquisition, and general working capital as the business continues to expand. 
 
 US Capital Partners Inc. is a private investment bank headquartered in San Francisco. Through its affiliate broker dealer, US Capital Global Securities, Inc., the firm facilitates equity private placements, makes direct debt investments, participates in debt facilities, and has a wide distribution for these services and financial products for small and medium-sized businesses. 
 
-&quot;We are delighted to be assisting Maven with its growth capital needs in a strategic investment banking role, as the company moves into the next phase of its business expansion.&quot; said Jeffrey Sweeney, Chairman and CEO at US Capital Partners. &quot;The opportunity to participate in Maven&apos;s $6 million preferred equity raise is now open to eligible investors through our digital investment platform, available at www.uscgs.com, which offers a curated selection of private placement opportunities.&quot; 
+"We are delighted to be assisting Maven with its growth capital needs in a strategic investment banking role, as the company moves into the next phase of its business expansion." said Jeffrey Sweeney, Chairman and CEO at US Capital Partners. "The opportunity to participate in Maven's $6 million preferred equity raise is now open to eligible investors through our digital investment platform, available at www.uscgs.com, which offers a curated selection of private placement opportunities." 
  About Maven Research, Inc. 
-Founded in 2008, Maven Research, Inc. is a privately owned company that offers a cloud-based enterprise software-as-a-service platform that empowers Fortune 500 companies to build, control, and manage private knowledge communities and to access a broad base of external providers of professional expertise. Maven&apos;s customer base consists primarily of well-known international manufacturers, industrial companies, conglomerates, and pharmaceutical enterprises. For more information, visit http://bit.ly/2jZPD1p. 
+Founded in 2008, Maven Research, Inc. is a privately owned company that offers a cloud-based enterprise software-as-a-service platform that empowers Fortune 500 companies to build, control, and manage private knowledge communities and to access a broad base of external providers of professional expertise. Maven's customer base consists primarily of well-known international manufacturers, industrial companies, conglomerates, and pharmaceutical enterprises. For more information, visit http://bit.ly/2jZPD1p. 
 About US Capital Partners Inc. 
 Since 1998, US Capital Partners has been providing well-structured, custom finance solutions to private and public companies in the United States and abroad. Headquartered in San Francisco, US Capital Partners, operating with its affiliate US Capital Global Securities Inc., is a full-service private investment bank with a wide distribution for debt and equity private placements. The group makes debt investments between $500,000 and $100 million, participates in debt facilities, and offers asset management, financial advisory services for buy-side and sell-side engagements, and capital formation, including early-stage financings requiring equity or debt. For more information, visit www.uscapitalpartners.net. 
 
@@ -25,22 +28,5 @@ http://www.uscapitalpartners.net
 
 ### 
 
-Press Release Distribution In Partnership With 1888PressRelease</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Investment banking news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200383957</DOCID> 
-<DCT type="str">2017-01-29T07:59:37Z</DCT> 
-<TITLE type="str">US Capital Engaged on $6M Equity Investment for Maven Research, Inc</TITLE> 
-</root>
+Press Release Distribution In Partnership With 1888PressRelease</TEXT>
+</TimeML>

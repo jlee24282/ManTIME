@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, 3 p.m. to 7 p.m. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204968084</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Farmers Insurance Open: Craft Beer Garden</TITLE>
+<TEXT>, 3 p.m. to 7 p.m. 
  
 Where: Hilton La Jolla Torrey Pines, 10950 North Torrey Pines Road, San Diego 
  
@@ -9,18 +12,5 @@ Cost: Not available
 Age limit: 21+ 
  
 Description: 
-Join us on Torreyana&apos;s Terrace for our Annual Craft Beer Garden after the tournament and enjoy local San Diego craft beer, street tacos, live music, photo booth fun, and sunsets. Follow @HiltonLaJolla on Instagram and Twitter for giveaways and exclusive coverage from the Farmers Insurance Open.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Insurance industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Beverages industry news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204968084</DOCID> 
-<DCT type="str">2017-01-29T08:33:17Z</DCT> 
-<TITLE type="str">Sun 1/29: Farmers Insurance Open: Craft Beer Garden</TITLE> 
-</root>
+Join us on Torreyana's Terrace for our Annual Craft Beer Garden after the tournament and enjoy local San Diego craft beer, street tacos, live music, photo booth fun, and sunsets. Follow @HiltonLaJolla on Instagram and Twitter for giveaways and exclusive coverage from the Farmers Insurance Open.</TEXT>
+</TimeML>

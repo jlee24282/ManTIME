@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Indian-origin American actor Kal Penn has started a CrowdRise fundraiser in the name of a commenter who told him he doesn&apos;t belong in the US.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Syria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196959901</DOCID> 
-<DCT type="str">2017-01-29T07:31:13Z</DCT> 
-<TITLE type="str">Kal Penn starts fundraiser for Syrian refugees</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196959901</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Kal Penn starts fundraiser for Syrian refugees</TITLE>
+<TEXT>Indian-origin American actor Kal Penn has started a CrowdRise fundraiser in the name of a commenter who told him he doesn't belong in the US.</TEXT>
+</TimeML>

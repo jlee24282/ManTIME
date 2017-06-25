@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Home  Other News  I blew into a Tostitos bag and it told me to call...    
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198908953</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>I blew into a Tostitos bag and it told me to call an Uber  CNET</TITLE>
+<TEXT>Home  Other News  I blew into a Tostitos bag and it told me to call...    
 Share the joy 
-                                 
-An alcohol-detecting Tostitos chip bag wants you to be safe on Super Bowl Sunday and call an Uber if you’ve been drinking. 
+                       
+An alcohol-detecting Tostitos chip bag wants you to be safe on Super Bowl Sunday and call an Uber if youve been drinking. 
 CNET Crave 
-    Previous article    Next article</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Online content news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198908953</DOCID> 
-<DCT type="str">2017-01-29T06:43:14Z</DCT> 
-<TITLE type="str">I blew into a Tostitos bag and it told me to call an Uber – CNET</TITLE> 
-</root>
+    Previous article    Next article</TEXT>
+</TimeML>

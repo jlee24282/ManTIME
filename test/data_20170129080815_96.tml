@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">(Cincinnati, OH)--Damage was set at $5,000 after an apartment fire in Price Hill Saturday night. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197425608</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Fire Damages Apartment in Price Hill</TITLE>
+<TEXT>(Cincinnati, OH)--Damage was set at $5,000 after an apartment fire in Price Hill Saturday night. 
  
 Firefighters responded to a building at 4001 West 8th St. around 10:40 p.m. Crews found fire in the attic. 
  
@@ -8,14 +11,5 @@ Firefighters were able to access the attic through a scuttle hole, and put out t
  
 The cause is believed to be an electrical problem. 
  
-Four displaced adults were assisted by the Red Cross. No one was hurt.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Cincinnati news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197425608</DOCID> 
-<DCT type="str">2017-01-29T07:37:19Z</DCT> 
-<TITLE type="str">Fire Damages Apartment in Price Hill</TITLE> 
-</root>
+Four displaced adults were assisted by the Red Cross. No one was hurt.</TEXT>
+</TimeML>

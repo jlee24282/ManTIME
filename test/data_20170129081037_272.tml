@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tributes Bourke Street car rampage victim had Perth links  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203081517</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Australian travellers impacted by US ban (AAP)</TITLE>
+<TEXT>Tributes Bourke Street car rampage victim had Perth links  
    
- Showpiece match Perth’s blue coup with Chelsea to take on Glory  
+ Showpiece match Perths blue coup with Chelsea to take on Glory  
    
  Made tough Injured, underrated Scorchers champions again  
     
@@ -12,7 +15,7 @@
    
  Australia Day tragedy Mangled plane wreckage pulled from Swan River  
    
- World beaters Third title cements Scorchers as world’s best T20 team  
+ World beaters Third title cements Scorchers as worlds best T20 team  
    
  Australian first Free meningococcal jabs for WA teens  
    
@@ -24,28 +27,11 @@ Caustic debate around Australia Day shows us as a brittle, divided society.
   
 Paul Murray 
     Bush capital A PM far from the heartland  
-Menzies’ commitment to Canberra puts him in stark contrast to Malcolm Turnbull. 
+Menzies commitment to Canberra puts him in stark contrast to Malcolm Turnbull. 
   
 Andrew Tillett 
     Best and brightest Smart business to have more women in top jobs  
 In WA, just one in eight chief executives and chairs of companies is a woman. 
   
-Tania Cecconi</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203081517</DOCID> 
-<DCT type="str">2017-01-29T08:05:08Z</DCT> 
-<TITLE type="str">Australian travellers impacted by US ban (AAP)</TITLE> 
-</root>
+Tania Cecconi</TEXT>
+</TimeML>

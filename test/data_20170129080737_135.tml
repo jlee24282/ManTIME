@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Looks like you&apos;re already verified. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196217012</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Reggae, soft rock help dogs relax, study says</TITLE>
+<TEXT>Looks like you're already verified. 
  
 If you still have trouble signing in, you probably need a new confirmation link email. 
  
@@ -12,9 +15,9 @@ Password has been successfully updated.
  Sign in   
 We have sent you an email with a link to change your password. 
   Create a new password  
-We didn&apos;t recognize that password reset code. Enter your email address to get a new one. 
+We didn't recognize that password reset code. Enter your email address to get a new one. 
 {* #forgotPasswordForm *} {* forgotPassword_emailAddress *} {* forgotPassword_sendButton *} {* /forgotPasswordForm *}  Create a new password  
-We&apos;ve sent an email with instructions to create a new password. Your existing password has not been changed. 
+We've sent an email with instructions to create a new password. Your existing password has not been changed. 
  Close    
 OR 
   Sign in using your daytondailynews.com profile  
@@ -45,7 +48,7 @@ Need a Profile? Register Now.
 *PASSWORD 
  Forgot your password? {* traditionalSignIn_password *} {* traditionalSignIn_signInButton *} {* /userInformationForm *}  
  Sign in using your existing account {* loginWidget *} 
-   You&apos;re Almost Done!  Please confirm the information below before signing in.  
+   You're Almost Done!  Please confirm the information below before signing in.  
 *Required 
 {* #socialRegistrationForm *} {* socialRegistration_displayName *} {* socialRegistration_emailAddress *}
 
@@ -66,7 +69,7 @@ We look forward to seeing you on daytondailynews.com frequently. Visit us and si
  
 Click here to return to the page you were visiting. 
   Create a new password  
-Don&apos;t worry, it happens. We&apos;ll send you a link to create a new password. 
+Don't worry, it happens. We'll send you a link to create a new password. 
 {* #forgotPasswordForm *} {* forgotPassword_emailAddress *} {* forgotPassword_sendButton *} {* /forgotPasswordForm *}  Email sent  
 We have sent you an email with a link to change your password. 
  Close  
@@ -80,7 +83,7 @@ Click submit to receive another verification email
 {* /resendVerificationForm *}   
 Check your email for a verification link 
   Thanks for verifying your email address.  
-You&apos;re now logged in. 
+You're now logged in. 
   Sign In  It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. {* #userInformationForm *} {* traditionalSignIn_emailAddress *} {* traditionalSignIn_password *} {* traditionalSignIn_signInButton *} Use another account {* /userInformationForm *}  
 Change password {* newPasswordForm *} {* newPassword *} {* newPasswordConfirm *} {* submitButton *} {* /newPasswordForm *} 
  Your password has been changed  
@@ -88,15 +91,10 @@ Password has been successfully updated.
  Sign in   
 We have sent you an email with a link to change your password. 
   Create a new password  
-We didn&apos;t recognize that password reset code. Enter your email address to get a new one. 
+We didn't recognize that password reset code. Enter your email address to get a new one. 
 {* #forgotPasswordForm *} {* forgotPassword_emailAddress *} {* forgotPassword_sendButton *} {* /forgotPasswordForm *}  Create a new password  
-We&apos;ve sent an email with instructions to create a new password. Your existing password has not been changed. 
+We've sent an email with instructions to create a new password. Your existing password has not been changed. 
  Close  Thanks for verifying your email address.  
-You&apos;re now logged in. 
-  {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196217012</DOCID> 
-<DCT type="str">2017-01-29T07:27:45Z</DCT> 
-<TITLE type="str">Reggae, soft rock help dogs relax, study says</TITLE> 
-</root>
+You're now logged in. 
+  {% include "includes/auth/janrain/signIn_traditional.html" with message='It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. ' %}</TEXT>
+</TimeML>

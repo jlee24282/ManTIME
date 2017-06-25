@@ -1,37 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Al-Arabiya Syrian, Lebanese represent Venezuela, Tanzania in Miss Universe 2017Al-ArabiyaAmong the countries competing is Jihan Dimachk, Miss Tanzania who is originally from southern Lebanon, and Mary Habash, Miss Venezuela who is originally Syrian from Tartous. Staff writer, Al Arabiya English Sunday, 29 January 2017. Text size A A A. Source link</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Syria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Lebanon news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Tanzania news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">South America news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Venezuela news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198842655</DOCID> 
-<DCT type="str">2017-01-29T07:38:02Z</DCT> 
-<TITLE type="str">Syrian, Lebanese represent Venezuela, Tanzania in Miss Universe 2017 – Al-Arabiya</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198842655</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Syrian, Lebanese represent Venezuela, Tanzania in Miss Universe 2017  Al-Arabiya</TITLE>
+<TEXT>Al-Arabiya Syrian, Lebanese represent Venezuela, Tanzania in Miss Universe 2017Al-ArabiyaAmong the countries competing is Jihan Dimachk, Miss Tanzania who is originally from southern Lebanon, and Mary Habash, Miss Venezuela who is originally Syrian from Tartous. Staff writer, Al Arabiya English Sunday, 29 January 2017. Text size A A A. Source link</TEXT>
+</TimeML>

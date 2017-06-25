@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Maryland 85 — Minnesota 78 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204177230</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Jackson scores career-high 28 as Terps rally</TITLE>
+<TEXT>Maryland 85  Minnesota 78 
    
-MINNEAPOLIS (TNS) — Maryland had much to overcome Saturday afternoon at raucous Williams Arena. The No. 22 Terps were down by a dozen to Minnesota in the first half, and by nine early in the second half. They were over the foul limit with more than 12 minutes left in the game. 
+MINNEAPOLIS (TNS)  Maryland had much to overcome Saturday afternoon at raucous Williams Arena. The No. 22 Terps were down by a dozen to Minnesota in the first half, and by nine early in the second half. They were over the foul limit with more than 12 minutes left in the game. 
    
-Led by a pair of cold-blooded freshmen, forward Justin Jackson and wing Kevin Huerter, as well as junior guard Melo Trimble, Maryland overcame the Gophers, their crowd and maybe even a trio of whistle-happy refs to win, 85-78, to match the school’s best start since 1998-99. 
+Led by a pair of cold-blooded freshmen, forward Justin Jackson and wing Kevin Huerter, as well as junior guard Melo Trimble, Maryland overcame the Gophers, their crowd and maybe even a trio of whistle-happy refs to win, 85-78, to match the schools best start since 1998-99. 
    
 Jackson finished with a career-high 28 points on 9-for-15 shooting, including 5-for-5 from 3-point range, to go with 10 rebounds for Maryland (19-2, 7-1 Big Ten). Huerter had 19 points, hitting five of seven of his 3-pointers. 
    
-It was orchestrated down the stretch by Trimble, who after a quiet first half finished with 13 points, nine assists and seven rebounds while committing one turnover in 33 minutes. The victory, the Terps’ sixth straight, helped Maryland stay tied with Wisconsin for first place in the conference. 
+It was orchestrated down the stretch by Trimble, who after a quiet first half finished with 13 points, nine assists and seven rebounds while committing one turnover in 33 minutes. The victory, the Terps sixth straight, helped Maryland stay tied with Wisconsin for first place in the conference. 
    
 The Terps matched the 19-2 start of the 1998-99 team. To end a stretch of four road games in five contests, Maryland plays at Ohio State on Tuesday. 
    
@@ -20,7 +23,7 @@ Down by seven at halftime and by nine early in the second half, the Terps climbe
    
 After a three-point play by Minnesota center Reggie Lynch right before the under-16 minute timeout, a layup by redshirt sophomore Ivan Bender made it a three-point deficit, 47-44. 
    
-Jackson’s fifth 3-pointer of the game — on as many attempts — cut the deficit to two, 49-47. But the Terps went over the foul limit with 12:12 remaining when junior guard Jaylen Brantley tried for a steal on a loose ball in the backcourt. 
+Jacksons fifth 3-pointer of the game  on as many attempts  cut the deficit to two, 49-47. But the Terps went over the foul limit with 12:12 remaining when junior guard Jaylen Brantley tried for a steal on a loose ball in the backcourt. 
    
 Springs hit both ends of a one-and-one, and after freshman guard Anthony Cowan made a tough drive at the end of the 30-second shot clock, Murphy made one of two free throws. 
    
@@ -30,7 +33,7 @@ In a span of nine possessions, there were two ties and six lead changes, the las
    
 If that was a physical mistake, Dodd then made two straight mental gaffes, twice stepping in the lane before Murphy missed free throws, that gave the Murphy two extra free-throw tries and helped tie the game. 
    
-But the Terps eventually took control, not trailing after Trimble’s layup gave them a 72-71 lead with 2:49 to go. 
+But the Terps eventually took control, not trailing after Trimbles layup gave them a 72-71 lead with 2:49 to go. 
    
 The Terps trailed by as many as 12 points midway through the first half. 
    
@@ -42,18 +45,5 @@ But two straight turnovers by Gill allowed the Gophers to close the half on a 5-
    
 The Terps were 4-for-9 on 3-pointers, including Jackson making all three of his 3-point attempts. Jackson led Maryland with nine points at halftime, and Huerter added seven. Coffey led Minnesota with 11 points, four rebounds and four assists. 
    
-© 2017 The Baltimore Sun</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: US college sports news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204177230</DOCID> 
-<DCT type="str">2017-01-28T23:20:00Z</DCT> 
-<TITLE type="str">Jackson scores career-high 28 as Terps rally</TITLE> 
-</root>
+ 2017 The Baltimore Sun</TEXT>
+</TimeML>

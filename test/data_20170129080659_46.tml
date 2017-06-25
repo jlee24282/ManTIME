@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">:09 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194652348</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Chelsea to play Perth Glory in Australia</TITLE>
+<TEXT>:09 
  
-Premier League giants Chelsea will play the A-League&apos;s Perth Glory in a friendly next year in the team&apos;s only Australian appearance, officials said on Sunday. 
+Premier League giants Chelsea will play the A-League's Perth Glory in a friendly next year in the team's only Australian appearance, officials said on Sunday. 
  
-The match will take place in late July or early August at Perth&apos;s new 65 000-capacity stadium, Western Australia Premier Colin Barnett said in a statement. 
+The match will take place in late July or early August at Perth's new 65000-capacity stadium, Western Australia Premier Colin Barnett said in a statement. 
  
-Officials are hopeful Antonio Conte&apos;s side – the 2014-15 Premier League champions and current league leaders – will attract fans from across the island continent and from Asia. 
+Officials are hopeful Antonio Conte's side  the 2014-15 Premier League champions and current league leaders  will attract fans from across the island continent and from Asia. 
  
-&quot;This is an enormous opportunity for not only football fans, but sport fans in general, from around the nation and the Asia-Pacific region, to witness one of the best and biggest clubs in the world to play in our own backyard,&quot; Glory&apos;s chief executive Peter Filopoulos said. 
+"This is an enormous opportunity for not only football fans, but sport fans in general, from around the nation and the Asia-Pacific region, to witness one of the best and biggest clubs in the world to play in our own backyard," Glory's chief executive Peter Filopoulos said. 
  
 There has been a growing trend of top clubs choosing Australia as a warm-up destination. 
  
@@ -18,22 +21,5 @@ A string of other clubs including Liverpool, Manchester City and Real Madrid hav
  
 Perth Glory are currently fifth on the A-League table. 
  
-London club Chelsea – owned by Russian billionaire Roman Abramovich – last played in Sydney in 2015, the club&apos;s first game in the country for 41 years.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Chelsea news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: cricket news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194652348</DOCID> 
-<DCT type="str">2017-01-29T07:16:57Z</DCT> 
-<TITLE type="str">Chelsea to play Perth Glory in Australia</TITLE> 
-</root>
+London club Chelsea  owned by Russian billionaire Roman Abramovich  last played in Sydney in 2015, the club's first game in the country for 41 years.</TEXT>
+</TimeML>

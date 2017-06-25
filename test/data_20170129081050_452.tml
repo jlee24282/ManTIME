@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">in News | 0 comments 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203635021</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Successful applicants shun Federal Polytechnic, KauraNamoda, says Rector</TITLE>
+<TEXT>in News | 0 comments 
   
-The Rector of the Federal Polytechnic, Kaura -Namoda, Ahmad Lugga, said only a fraction of candidates who were offered admission into the college in the 2016/2017 session took up the offer. Lugga said this on Saturday during the matriculation ceremony of new intakes. He said, “we recorded the sale of over 5,000 forms, but to […] 
+The Rector of the Federal Polytechnic, Kaura -Namoda, Ahmad Lugga, said only a fraction of candidates who were offered admission into the college in the 2016/2017 session took up the offer. Lugga said this on Saturday during the matriculation ceremony of new intakes. He said, we recorded the sale of over 5,000 forms, but to [] 
  Got something awesome to share with the world? Click here to share  
 The post appeared first on Nigerian Pilot: Nigerian Newspaper . 
  
@@ -12,14 +15,5 @@ Follow us on twitter @NigeriaTodayNG
  
 Also, Like us on facebook 
   Share this:   Facebook  Twitter  WhatsApp  Email  Google  Tumblr  LinkedIn  Skype  Pocket  Reddit  Print  Pinterest    
- Related</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Nigeria news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203635021</DOCID> 
-<DCT type="str">2017-01-29T07:26:15Z</DCT> 
-<TITLE type="str">Successful applicants shun Federal Polytechnic, Kaura–Namoda, says Rector</TITLE> 
-</root>
+ Related</TEXT>
+</TimeML>

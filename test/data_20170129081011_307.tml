@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">an 29 : Prime Minister Narendra Modi on Sunday is addressing his monthly radio address Mann Ki Baat. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202379548</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Narendra Modi addresses students in Mann Ki Baat</TITLE>
+<TEXT>an 29 : Prime Minister Narendra Modi on Sunday is addressing his monthly radio address Mann Ki Baat. 
  
 Modi is dedicating the address to students and teachers. 
 
 He has urged students not to run behind marks. 
 
-PM Modi asked students to smile more to score more.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202379548</DOCID> 
-<DCT type="str">2017-01-29T08:05:56Z</DCT> 
-<TITLE type="str">Narendra Modi addresses students in Mann Ki Baat</TITLE> 
-</root>
+PM Modi asked students to smile more to score more.</TEXT>
+</TimeML>

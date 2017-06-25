@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Former Italian Prime Minister Silvio Berlusconi faces another trial, after being charged with bribing witnesses to silence them over accusations he paid for sex with young women. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195619868</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Witness bribery trial for Berlusconi</TITLE>
+<TEXT>Former Italian Prime Minister Silvio Berlusconi faces another trial, after being charged with bribing witnesses to silence them over accusations he paid for sex with young women. 
  
-In 2013, Mr Berlusconi was convicted of sex with an underage prostitute in what became known as the &quot;bunga bunga&quot; case. 
+In 2013, Mr Berlusconi was convicted of sex with an underage prostitute in what became known as the "bunga bunga" case. 
  
 He was cleared in 2015, after an appeal, but prosecutors claim witnesses were bought off. 
  
@@ -14,17 +17,17 @@ The new charges stem from the previous case, when he was accused of having sex w
  
 The Moroccan nightclub dancer became better known by her stage name, Ruby the Heartstealer, in the press. 
  
-The new trial will focus on the accusation that the billionaire businessman paid more than 10m euros (£8.5m; $10.7m), between 2011 and 2015, to get witnesses to testify in his favour. 
+The new trial will focus on the accusation that the billionaire businessman paid more than 10m euros (8.5m; $10.7m), between 2011 and 2015, to get witnesses to testify in his favour. 
  
 Over half of that money is alleged to have been spent on Ms El Mahroug. 
  
-He is said to have brought gifts and cars, and paid for housing, bills and medical expenses, for guests visiting his Milan mansion, where he held his &quot;bunga-bunga&quot; parties. 
+He is said to have brought gifts and cars, and paid for housing, bills and medical expenses, for guests visiting his Milan mansion, where he held his "bunga-bunga" parties. 
  
 His lawyer, Federico Cecconi, has quipped that he must be on trial for generosity. 
  
 In Italy, the age of consent is 14, but paying for sex with a woman under 18 is seen as involvement in underage prostitution. 
  
-Before Mr Berlusconi&apos;s sentence was overturned, he was handed a seven-year jail term and banned from holding public office ever again. 
+Before Mr Berlusconi's sentence was overturned, he was handed a seven-year jail term and banned from holding public office ever again. 
  
 However, he was allowed to remain free pending the outcome of the appeal. 
  
@@ -34,18 +37,5 @@ She was being held for theft.
  
 Mr Berlusconi has been embroiled in several high-profile legal battles. 
  
-In 2013, he was also convicted of tax fraud, and ejected from the Italian Senate.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Italy news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195619868</DOCID> 
-<DCT type="str">2017-01-29T07:16:30Z</DCT> 
-<TITLE type="str">Witness bribery trial for Berlusconi</TITLE> 
-</root>
+In 2013, he was also convicted of tax fraud, and ejected from the Italian Senate.</TEXT>
+</TimeML>

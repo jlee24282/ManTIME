@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Sultan Shoaib 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204478710</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Pakistan is home to worlds largest ice glaciers</TITLE>
+<TEXT>By Sultan Shoaib 
 GILGIT, Jan 29 (APP):For millenia,glaciers have formed life lines of cultures,food 
 production,livelihoods and biodiversity. 
 In modern times ,these rivers of ice also considered as the water reservoirs 
@@ -20,9 +23,9 @@ Glacier depletion especially the melting were causing flash floods in
 many areas of Pakistan causing human displacement and lose of lives. 
 In future this can affect agriculture, drinking water supplies, 
 hydroelectric power, and ecological habitats. 
-This can also affect Pakistan’s economy that depends mainly on water from 
+This can also affect Pakistans economy that depends mainly on water from 
 glacier melt. 
-A group of mountaineers and researcher from Shimshal Valley – Hunza Gilgit, 
+A group of mountaineers and researcher from Shimshal Valley  Hunza Gilgit, 
 reached Askoli, a remote mountain village in Skardu, 
 after walking across the Braldu Pass. They are on a mission to raise awareness 
 about saving glaciers from depleting. 
@@ -50,26 +53,9 @@ Samiullah, one of the researchers in the PIMCP,
 said that the data and information collected during the expedition would be 
 shared with various University students and research organization in 
 Pakistan who were conducting research work on glaciers. 
-“It will also work for raising awareness about the rapid and alarming rate 
-of glaciers’ depletion due to human made Global Warming and inspiring people 
+It will also work for raising awareness about the rapid and alarming rate 
+of glaciers depletion due to human made Global Warming and inspiring people 
 at every level around the world in general and Pakistan in particular to 
 stand up and take some substantial steps in addressing the issues of 
-global warming and climate change,” he added.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Climate change news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Pakistan news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204478710</DOCID> 
-<DCT type="str">2017-01-29T08:26:45Z</DCT> 
-<TITLE type="str">Pakistan is home to world’s largest ice glaciers</TITLE> 
-</root>
+global warming and climate change, he added.</TEXT>
+</TimeML>

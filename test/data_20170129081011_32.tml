@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202104195</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Lucy Saeger</TITLE>
+<TEXT>.
 
 She was born in Hobart, November 6, 1934, to Miles and Jane Tolbert. She graduated from OU. She married Richard Davidson in 1957, and they had Jane, Sarah, and Miles.
 
@@ -12,18 +15,9 @@ Lucy will be remembered as a compassionate person, a talented songwriter, and a 
 
 She was preceded in death by her parents, her brother Miles, Jr, her sister Ellen, and her husband Armin.
 
-She is survived by her sisters Ann (Robert) Ivester, McAlester, and Nancy (Max) Hamm, Lawton; children Jane (John) Zanol, Wenatchee, Washington; Sarah (David) Dirrim, Ada; Miles (Amanda) Davidson, Davenport, Iowa; stepchildren Laura (Butch) Renfro, Talequah; Louis (Tessy) Saeger, Minneapolis; Julie (Earl Levitt) Nierenberg, Toronto; Bob (Marla) Saeger, Tahlequah; grandchildren Jezula (Daniel) Jonka, Ada; Raphael (Emma) Dirrim, Owasso; Liliane (Felix) N&apos;Gouan, Ada; Avery Dirrim, Ada; Briana (Justin) Lane, Ada; Joe Dirrim, Ada; Abbey Davidson and Max Davidson, Davenport; and many stepgrandchildren and greatgrandchildren.
+She is survived by her sisters Ann (Robert) Ivester, McAlester, and Nancy (Max) Hamm, Lawton; children Jane (John) Zanol, Wenatchee, Washington; Sarah (David) Dirrim, Ada; Miles (Amanda) Davidson, Davenport, Iowa; stepchildren Laura (Butch) Renfro, Talequah; Louis (Tessy) Saeger, Minneapolis; Julie (Earl Levitt) Nierenberg, Toronto; Bob (Marla) Saeger, Tahlequah; grandchildren Jezula (Daniel) Jonka, Ada; Raphael (Emma) Dirrim, Owasso; Liliane (Felix) N'Gouan, Ada; Avery Dirrim, Ada; Briana (Justin) Lane, Ada; Joe Dirrim, Ada; Abbey Davidson and Max Davidson, Davenport; and many stepgrandchildren and greatgrandchildren.
 
 There will be a memorial service for Lucy Saturday, February 4, 1 p.m., at Inverness Village Founders Room.
 
-tulsacremation.com</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202104195</DOCID> 
-<DCT type="str">2017-01-29T06:00:00Z</DCT> 
-<TITLE type="str">Lucy Saeger</TITLE> 
-</root>
+tulsacremation.com</TEXT>
+</TimeML>

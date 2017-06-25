@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">CASO REAL DE CRIANÇAS ATACADAS POR FANTASMA NO BRASIL ASSUSTADOR</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202708208</DOCID> 
-<DCT type="str">2017-01-29T07:57:03Z</DCT> 
-<TITLE type="str">O VÍDEO MAIS CHOCANTE QUE VOCÊ IRÁ VER A VIAGEM DA MORTE</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202708208</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>O VDEO MAIS CHOCANTE QUE VOC IR VER A VIAGEM DA MORTE</TITLE>
+<TEXT>CASO REAL DE CRIANAS ATACADAS POR FANTASMA NO BRASIL ASSUSTADOR</TEXT>
+</TimeML>

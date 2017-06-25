@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">News18.com 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196656486</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Beauty and The Beast: Experience The Magic With New Motion Posters</TITLE>
+<TEXT>News18.com 
  First published: January 29, 2017, 12:47 PM IST | Updated: 2 mins ago   A still from Beauty and The Beast.    
 Prepare for some magical moments as the makers of Beauty and The Beast have released motion posters of every important character from the film. After a magical ride through the trailer and Emma Watson singing the iconic Something There track as Belle, the makers have finally introduced the characters with new posters. 
  
@@ -9,25 +12,12 @@ Just to make it into the realm of mystical Disney world, every character has a m
 Meet Belle. See more when our final trailer for Beauty and the Beast debuts on Monday #BeOurGuest 
 Meet the Beast: https://t.co/Zez7tyh38P  pic.twitter.com/B2yWg8MtLR 
  
-— Beauty and the Beast (@beourguest) January 26, 2017 
+ Beauty and the Beast (@beourguest) January 26, 2017 
    
 Meet the Beast. See more when our final trailer for Beauty and the Beast debuts on Monday #BeOurGuest 
 Meet Gaston: https://t.co/TsPNqKZjC6  pic.twitter.com/L5mZr6OkUX 
  
-— Beauty and the Beast (@beourguest) January 26, 2017 
+ Beauty and the Beast (@beourguest) January 26, 2017 
   
-The wait is already killing us!</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196656486</DOCID> 
-<DCT type="str">2017-01-29T07:31:22Z</DCT> 
-<TITLE type="str">Beauty and The Beast: Experience The Magic With New Motion Posters</TITLE> 
-</root>
+The wait is already killing us!</TEXT>
+</TimeML>

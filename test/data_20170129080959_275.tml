@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">WERE you making the news in North Lincolnshire on this week in the past?
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201874615</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>On This Day: Jamie Oliver invited to Scunthorpe, plans for hotels & a Zeppelin raid remembered</TITLE>
+<TEXT>WERE you making the news in North Lincolnshire on this week in the past?
 
 Or if not, can you remember some of the stories which were hitting the headlines in the Scunthorpe Telegraph?
 
 Here, we take a look back at some of the things which were happening in the Scunthorpe area this time last year, 10 years ago and in 2003.
 
-One year ago This time last year, plans were announced to transform North Lincolnshire Council&apos;s Civic Centre headquarters in Scunthorpe into a hotel or new homes.
+One year ago This time last year, plans were announced to transform North Lincolnshire Council's Civic Centre headquarters in Scunthorpe into a hotel or new homes.
 
-The proposal was revealed by the council to the Scunthorpe Telegraph as part of plans to relocate its offices...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Hospitality industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201874615</DOCID> 
-<DCT type="str">2017-01-29T08:07:53Z</DCT> 
-<TITLE type="str">On This Day: Jamie Oliver invited to Scunthorpe, plans for hotels &amp; a Zeppelin raid remembered</TITLE> 
-</root>
+The proposal was revealed by the council to the Scunthorpe Telegraph as part of plans to relocate its offices...</TEXT>
+</TimeML>

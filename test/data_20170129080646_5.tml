@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Bruce Arena will test out some new players and a new formation as he embarks on his second stint as U.S. coach with Sunday&apos;s friendly versus Serbia.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194227112</DOCID> 
-<DCT type="str">2017-01-29T05:59:31Z</DCT> 
-<TITLE type="str">Plenty riding on U.S. team&apos;s first match of 2017</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194227112</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Plenty riding on U.S. team's first match of 2017</TITLE>
+<TEXT>Bruce Arena will test out some new players and a new formation as he embarks on his second stint as U.S. coach with Sunday's friendly versus Serbia.</TEXT>
+</TimeML>

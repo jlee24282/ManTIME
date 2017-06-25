@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">It has been reported that Gold Rock is in bad shape and I just wanted to remind Nash County commissioners that Nash County covers 543 square miles. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204941217</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Speak Up: Gold Rock's problems</TITLE>
+<TEXT>It has been reported that Gold Rock is in bad shape and I just wanted to remind Nash County commissioners that Nash County covers 543 square miles. 
  
 It has also been reported that they are having meetings twice per month and even reported they are getting people now to come in and generate new businesses to get more money in the area. 
  
@@ -14,14 +17,5 @@ It is not about Gold Rock being in bad shape because of Rocky Mount.
  
 Gold Rock is in bad shape because of elected people from this area and the Nash County commissioners have neglected it. 
  
-They need to do more than just meet.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204941217</DOCID> 
-<DCT type="str">2017-01-29T08:33:06Z</DCT> 
-<TITLE type="str">Speak Up: Gold Rock&apos;s problems</TITLE> 
-</root>
+They need to do more than just meet.</TEXT>
+</TimeML>

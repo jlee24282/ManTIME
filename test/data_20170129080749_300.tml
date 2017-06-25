@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">- Celebration of African-American Music on TheClassicalStation.org 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196772143</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>WCPE FM Celebrates Black History Month</TITLE>
+<TEXT>- Celebration of African-American Music on TheClassicalStation.org 
 
-WCPE&apos;s Music Director William Woltz announces a celebration of African-American contributions to classical music to commemorate Black History Month. 
+WCPE's Music Director William Woltz announces a celebration of African-American contributions to classical music to commemorate Black History Month. 
 
-�We&apos;ll celebrate music by composers and performers of African ancestry throughout the month,&quot; offers Woltz. 
+We'll celebrate music by composers and performers of African ancestry throughout the month," offers Woltz. 
 
 Some of the works offered include: 
 
 1 Wednesday 
 
-7:00 p.m. Joplin: �Solace&quot; 
+7:00 p.m. Joplin: Solace" 
 
 2 Thursday 
 
@@ -22,7 +25,7 @@ Some of the works offered include:
 
 4 Saturday 
 
-8:00 a.m. Joplin: �Elite Syncopations&quot; 
+8:00 a.m. Joplin: Elite Syncopations" 
 
 5 Sunday 
 
@@ -38,11 +41,11 @@ Some of the works offered include:
 
 9 Thursday 
 
-12:00 p.m. Price: �Dances in the Canebrakes&quot; 
+12:00 p.m. Price: Dances in the Canebrakes" 
 
 10 Friday 
 
-12:00 p.m. Brouwer: �Cancion de Cuna&quot; 
+12:00 p.m. Brouwer: Cancion de Cuna" 
 
 12 Sunday 
 
@@ -50,7 +53,7 @@ Some of the works offered include:
 
 13 Monday 
 
-12:00 p.m. Joplin: �Bethena (A Concert Waltz)&quot; 
+12:00 p.m. Joplin: Bethena (A Concert Waltz)" 
 
 15 Wednesday 
 
@@ -58,7 +61,7 @@ Some of the works offered include:
 
 17 Friday 
 
-12:00 p.m. Hailstork: �Fanfare on �Amazing Grace&apos;&quot; 
+12:00 p.m. Hailstork: Fanfare on Amazing Grace'" 
 
 18 Saturday 
 
@@ -70,11 +73,11 @@ Some of the works offered include:
 
 22 Wednesday 
 
-10:00 p.m. Still: �Summerland&quot; from Three Visions Suite 
+10:00 p.m. Still: Summerland" from Three Visions Suite 
 
 23 Thursday 
 
-10:00 p.m. Joplin: �The Chrysanthemum (an Afro-American Intermezzo)&quot; 
+10:00 p.m. Joplin: The Chrysanthemum (an Afro-American Intermezzo)" 
 
 25 Saturday 
 
@@ -88,7 +91,7 @@ In addition you may request your favorite every Saturday and the last Friday by 
 
 About WCPE: 
 
-With a 38 plus year history, WCPE 89.7 FM is a non-commercial, 100 percent listener-supported, independent station dedicated to excellence in Great Classical Music broadcasting. Community-minded business underwriters and foundations are among the 150,000 listeners in the North Carolina broadcast area. General Manager Deborah S. Proctor&apos;s leadership has enabled the WCPE community to include national and worldwide listeners. Big and small dish home satellite transmissions serve North America. Other radio stations and cable television systems use these services to rebroadcast Great Classical Music, 24 Hours A Day. WCPE is one of the first public broadcasters to stream on the Internet. WCPE is heard worldwide on the Internet in multiple formats, including the next generation IPv6. Because WCPE receives no tax-derived support, the station conducts two on-air fundraising campaigns and two major mail-out campaigns per year to raise needed operating funds. For more information, visit http://www.TheClassicalStation.org or call 919-556-5178. 
+With a 38 plus year history, WCPE 89.7 FM is a non-commercial, 100 percent listener-supported, independent station dedicated to excellence in Great Classical Music broadcasting. Community-minded business underwriters and foundations are among the 150,000 listeners in the North Carolina broadcast area. General Manager Deborah S. Proctor's leadership has enabled the WCPE community to include national and worldwide listeners. Big and small dish home satellite transmissions serve North America. Other radio stations and cable television systems use these services to rebroadcast Great Classical Music, 24 Hours A Day. WCPE is one of the first public broadcasters to stream on the Internet. WCPE is heard worldwide on the Internet in multiple formats, including the next generation IPv6. Because WCPE receives no tax-derived support, the station conducts two on-air fundraising campaigns and two major mail-out campaigns per year to raise needed operating funds. For more information, visit http://www.TheClassicalStation.org or call 919-556-5178. 
 
 Media Contact: 
 
@@ -112,18 +115,5 @@ Related Sites: IBC News ,  BN - Broadcast Newsroom ,  DMN Newswire ,  BN - Avid 
 
 Related Newsletter: Waveform Newsletter ,  DMNForums ,  Tutorial Finder ,  Review Seeker ,  BN - Broadcast Newswire ,  DMN Newswire Newsletter 
 
-Source:PRWEB.COM Newswire. All Rights Reserved</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Media latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Black interest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196772143</DOCID> 
-<DCT type="str">2017-01-29T07:32:19Z</DCT> 
-<TITLE type="str">WCPE FM Celebrates Black History Month</TITLE> 
-</root>
+Source:PRWEB.COM Newswire. All Rights Reserved</TEXT>
+</TimeML>

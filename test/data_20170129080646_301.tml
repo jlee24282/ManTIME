@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Housing and Development Bank (HDB) has increased the number of its branches to 71, after opening a new branch in El Tor. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194449490</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>HDB raises number of branches to 71, opens in El Tor</TITLE>
+<TEXT>The Housing and Development Bank (HDB) has increased the number of its branches to 71, after opening a new branch in El Tor. 
  
 Fathy El-Sebai, chairperson of the HDB, inaugurated the new branch in El Tor last week. This would be the fifth branch in South Sinai, along with three branches in Sharm El-Sheikh in Hadaba, Naama Bay, and Nabaq, as well as a branch in Dahab. 
  
@@ -8,14 +11,5 @@ El-Sebai said that expanding through increasing branches aims to deliver the ban
  
 He added that the bank intends to continue its expansion strategy to reach 100 branches by the end of 2018 to achieve geographical spread and access more clients to provide the best banking services in Egypt using the latest technologies available. 
  
-The post appeared first on Daily News Egypt .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Egypt news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194449490</DOCID> 
-<DCT type="str">2017-01-29T07:00:55Z</DCT> 
-<TITLE type="str">HDB raises number of branches to 71, opens in El Tor</TITLE> 
-</root>
+The post appeared first on Daily News Egypt .</TEXT>
+</TimeML>

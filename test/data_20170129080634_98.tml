@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Kyle Joyce&apos;s hat trick accounted for half of the goals for the Nashua South/Pelham boys&apos; hockey team in its 6-3 win over Manchester Memorial on Saturday at JFK Coliseum. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193883144</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>High School Roundup SouthPelham dumps Memorial</TITLE>
+<TEXT>Kyle Joyce's hat trick accounted for half of the goals for the Nashua South/Pelham boys' hockey team in its 6-3 win over Manchester Memorial on Saturday at JFK Coliseum. 
 
-The game was tied 2-2 after one period before Joyce and Bobby Haverty scored a goal apiece in the second to snag a two-goal edge for the South/Pelham (2-7). Josh Kinghorn and Vincent Annicchiarico added South/Pelham&apos;s third-period tallies. 
+The game was tied 2-2 after one period before Joyce and Bobby Haverty scored a goal apiece in the second to snag a two-goal edge for the South/Pelham (2-7). Josh Kinghorn and Vincent Annicchiarico added South/Pelham's third-period tallies. 
 
 Memorial (1-9) got scores from Pat Goren, Ryan Cardow and Eric Langley. 
 
@@ -10,11 +13,11 @@ Concord 4, Manchester Central 3: At JFK Coliseum, Sam Hebert scored a pair of go
 
 Andy Cole had two goals and an assist for Concord. 
 
-Dover 6, Merrimack 1: In Merrimack, the Green Wave (8-4) reeled off their sixth win in a row with help from Alex Schlapak&apos;s hat trick. Schlapak scored all three of his goals consecutively. Jesse Frase collected two goals for Dover while Jameson Goodrich had one. The Green Wave were also helped by an 18-save effort from goalie Colby Sewart. 
+Dover 6, Merrimack 1: In Merrimack, the Green Wave (8-4) reeled off their sixth win in a row with help from Alex Schlapak's hat trick. Schlapak scored all three of his goals consecutively. Jesse Frase collected two goals for Dover while Jameson Goodrich had one. The Green Wave were also helped by an 18-save effort from goalie Colby Sewart. 
 
 The lone goal by Merrimack (3-5-1) came from John Tiano. 
 
-Boys&apos; basketball 
+Boys' basketball 
 
 Goffstown 46, Hanover 45: In Hanover on Friday, Ryan Hall hit a pair of treys in the final 20 seconds of the game, inclduing one at the buzzer to win it for the Grizzlies. Hall finished with 18 points while Ethan Skinner provided all 11 of his points in the second half for Goffstown (5-3). Benny Ganish scored 19 points for Hanover, which led by five points heading into the final quarter (2-7). 
 
@@ -103,14 +106,5 @@ Girls Slalom
 Team results: 1. Hollis/Brookline, 378; 2. Hanover, 374; 3. Oyster River, 354; 4. Windham, 350; 5. Souhegan, 346; t-6. ConVal, 310; t-6. Pembroke, 310 
 
 Individual results: 1. Stephanie Menard, Hollis/Brookline, 1:05.70; 2. Lauren Reid, Oyster River, 1:11.23; 3. Laila Stevens, Hanover, 1:11.35; 4. Izzy Menard, Hollis/Brookline, 1:13.00; 5. Olivia Colarusso, Oyster River, 1:14.03; 6. Carly Craft, Hanover, 1:14.65; 7. Erica Irvin, Windham, 1:15.20; 8. Olivia Bennett, Souhegan, 1:16.18; 9. Catherine Donovan, Hollis/Brookline, 1:19.52; 10. Maggie Kohl, Hanover, 1:20.12 
-..</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193883144</DOCID> 
-<DCT type="str">2017-01-29T05:55:00Z</DCT> 
-<TITLE type="str">High School Roundup SouthPelham dumps Memorial</TITLE> 
-</root>
+..</TEXT>
+</TimeML>

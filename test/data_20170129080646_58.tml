@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Max Angelelli, who has decided the 55th Rolex 24 Hours at Daytona will be his last race in the IMSA WeatherTech SportsCar Championship, is leading by 75 seconds as the rain falls harder and the temperatures barely stay over 50degF.  Prototype  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194267643</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Daytona 24 Hours: Hr11  Angelelli leading his final race</TITLE>
+<TEXT>Max Angelelli, who has decided the 55th Rolex 24 Hours at Daytona will be his last race in the IMSA WeatherTech SportsCar Championship, is leading by 75 seconds as the rain falls harder and the temperatures barely stay over 50degF.  Prototype  
 Prototype lap times have climbed to the 2min mark as the track gets wetter, and causes huge problems for cars trying to get new tires up to temperature. 
  
-Angelelli’s closest opponent is Rene Rast in the Multimatic Riley, who is another 80sec ahead of Christian Fittipaldi in the lead Action Express Cadillac. A lap down on this pair is Scott Sharp in the ESM Nissan #2, with Eric Curran five laps down in the second AXR Cadillac. 
+Angelellis closest opponent is Rene Rast in the Multimatic Riley, who is another 80sec ahead of Christian Fittipaldi in the lead Action Express Cadillac. A lap down on this pair is Scott Sharp in the ESM Nissan #2, with Eric Curran five laps down in the second AXR Cadillac. 
  GT Le Mans  
 Patrick Pilet and Kevin Estre have the Porsches running 1-2, with apparently superior traction than the Fords in these treacherous conditions. 
  
-Joey Hand and Harry Tincknell have the #66 and #69 Fords in third and fourth, 12 and 27sec behind the Porsches respectively. Toni Vilander is fifth in the Risi Competizione Ferrari , ahead of Billy Johnson’s #68 Ford, and the #3 Corvette now driven by Antonio Garcia. 
+Joey Hand and Harry Tincknell have the #66 and #69 Fords in third and fourth, 12 and 27sec behind the Porsches respectively. Toni Vilander is fifth in the Risi Competizione Ferrari , ahead of Billy Johnsons #68 Ford, and the #3 Corvette now driven by Antonio Garcia. 
  
 It has not been plain sailing for the Fords, as Briscoe had a major off in the #67 Ford and had to be taken behind the wall for repairs. 
  GT Daytona  
@@ -15,14 +18,5 @@ Jeff Segal has the Michael Shank Racing Acura NSX in the lead, 25sec ahead of Ad
  
 Fourth in class is Katherine Legge in the second Acura, 16sec behind De Phillippi, and fifth is Mirko Bortolottin in the lead Lamborghini Huracan. 
  
-In Prototype Challenge , Patricio O’Ward’s Peformance Tech Motorsports entry is four laps ahead of Gustavo Yacaman’s BAR1 car.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194267643</DOCID> 
-<DCT type="str">2017-01-29T07:04:30Z</DCT> 
-<TITLE type="str">Daytona 24 Hours: Hr11 – Angelelli leading his final race</TITLE> 
-</root>
+In Prototype Challenge , Patricio OWards Peformance Tech Motorsports entry is four laps ahead of Gustavo Yacamans BAR1 car.</TEXT>
+</TimeML>

@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Anfield faithful watched on in horror as their side was dumped out the FA Cup at the hands of Wolves yesterday.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200687204</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Liverpool agree midfielder deal days before transfer window closes</TITLE>
+<TEXT>The Anfield faithful watched on in horror as their side was dumped out the FA Cup at the hands of Wolves yesterday.
 
-They are enduring a horror January, compounded by the fact it&apos;s unlikely any new faces will arrive before the transfer window slams shut.
+They are enduring a horror January, compounded by the fact it's unlikely any new faces will arrive before the transfer window slams shut.
 
-But they have done one deal at least with Lallana giving the green light to a new £120,000-a-week deal, according to the Sunday Express.
+But they have done one deal at least with Lallana giving the green light to a new 120,000-a-week deal, according to the Sunday Express.
 
-The contract will see his wages doubled from the £60,000 he currently earns.
+The contract will see his wages doubled from the 60,000 he currently earns.
 
-Every Liverpool player&apos;s weekly wages revealed Saturday, 28th January 2017 HOW much does each Liverpool star earn at Anfield?...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Liverpool news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200687204</DOCID> 
-<DCT type="str">2017-01-29T08:01:27Z</DCT> 
-<TITLE type="str">Liverpool agree midfielder deal days before transfer window closes</TITLE> 
-</root>
+Every Liverpool player's weekly wages revealed Saturday, 28th January 2017 HOW much does each Liverpool star earn at Anfield?...</TEXT>
+</TimeML>

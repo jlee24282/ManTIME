@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">(BSS) - An woman was killed and 20 others injured as a passenger bus collided on with another bus of Bangladesh Road Transport Corporation (BRTC) in Ashulia area in Saver today. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199805709</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Accident kills woman in Saver</TITLE>
+<TEXT>(BSS) - An woman was killed and 20 others injured as a passenger bus collided on with another bus of Bangladesh Road Transport Corporation (BRTC) in Ashulia area in Saver today. 
 
 The deceased was not identified immediately. 
 
 Witnesses said the accident took place morning when a bus of Palash Paribahan collided on with another bus of BRTC in Mojarmil area on Nabinagar-Chandra Highway. The woman died on the spot. The injured people were admitted to nearby clinics. 
 
-The body was sent to Dhaka Medical College Hospital for autopsy.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Bangladesh news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199805709</DOCID> 
-<DCT type="str">2017-01-29T07:54:44Z</DCT> 
-<TITLE type="str">Accident kills woman in Saver</TITLE> 
-</root>
+The body was sent to Dhaka Medical College Hospital for autopsy.</TEXT>
+</TimeML>

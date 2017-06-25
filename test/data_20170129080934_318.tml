@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">© Copyright 2006-2017 GateHouse Media, LLC. Some rights reserved  •  GateHouse News 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201007842</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Polish American Pulaski Club's 2017 officers</TITLE>
+<TEXT> Copyright 2006-2017 GateHouse Media, LLC. Some rights reservedGateHouse News 
  
 Original content available for non-commercial use under a Creative Commons license, except where noted. 
-Daytona Beach News-Journal Online ~ 901 6th Street, Daytona Beach, FL 32117 ~ Privacy Policy ~ Terms Of Service</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201007842</DOCID> 
-<DCT type="str">2017-01-29T07:01:00Z</DCT> 
-<TITLE type="str">Polish American Pulaski Club&apos;s 2017 officers</TITLE> 
-</root>
+Daytona Beach News-Journal Online ~ 901 6th Street, Daytona Beach, FL 32117 ~ Privacy Policy ~ Terms Of Service</TEXT>
+</TimeML>

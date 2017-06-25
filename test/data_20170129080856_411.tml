@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">DOVER, Del. (Jan. 28) – The FAMU Women’s Basketball team pulled away from host Delaware State in the second half Saturday afternoon, for a 65-56 Mid-Eastern Athletic Conference victory at Memorial Hall. 
-For FAMU (5-15, 3-4 MEAC), the win was the team’s second straight, the first time all season they had managed back-to-back victories, and they clinched the win with a second half scoring surge which built on their slim one-point halftime lead. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199583841</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Second Half Surge Lifts FAMU Women Past DSU, 65-56</TITLE>
+<TEXT>DOVER, Del. (Jan. 28)  The FAMU Womens Basketball team pulled away from host Delaware State in the second half Saturday afternoon, for a 65-56 Mid-Eastern Athletic Conference victory at Memorial Hall. 
+For FAMU (5-15, 3-4 MEAC), the win was the teams second straight, the first time all season they had managed back-to-back victories, and they clinched the win with a second half scoring surge which built on their slim one-point halftime lead. 
  
 Junior Dawn King led FAMU with 13 points, knocking down a trio of three-pointers, while senior Cedrick Sweeting cashed in three triples en route to a 12-point effort. Junior Shakerrya Morrison added nine points and nine rebounds, while junior Alicia McCray pulled down eight rebounds. 
  
@@ -13,18 +16,5 @@ FAMU shot 44 percent (13 of 29) from the floor, knocking down six of 13 three-po
  
 The Hornets went ice cold in the second half, managing a 19.4 percent (6 of 31) from the floor, as they scored just five points in the third period to 18 for FAMU, which proved to be the clincher for the Rattlers. 
  
-Still, State outscored FAMU in the fourth stanza, 17-12, but the 13-point difference in the third was enough for the Rattlers to hold on for the victory.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest scores</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199583841</DOCID> 
-<DCT type="str">2017-01-29T07:52:32Z</DCT> 
-<TITLE type="str">Second Half Surge Lifts FAMU Women Past DSU, 65-56</TITLE> 
-</root>
+Still, State outscored FAMU in the fourth stanza, 17-12, but the 13-point difference in the third was enough for the Rattlers to hold on for the victory.</TEXT>
+</TimeML>

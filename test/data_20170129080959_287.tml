@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Megan Rupe | mrupe@ksee.com 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201880922</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Clovis "Explorers Post 355" honored Saturday</TITLE>
+<TEXT>By Megan Rupe | mrupe@ksee.com 
   
 Published 01/29 2017 12:02AM 
  
 Updated 01/29 2017 12:02AM 
    
-The youth work and train with the Clovis Police Department as part of a program funded by the department. They also volunteer in the community.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201880922</DOCID> 
-<DCT type="str">2017-01-29T08:09:29Z</DCT> 
-<TITLE type="str">Clovis &quot;Explorers Post 355&quot; honored Saturday</TITLE> 
-</root>
+The youth work and train with the Clovis Police Department as part of a program funded by the department. They also volunteer in the community.</TEXT>
+</TimeML>

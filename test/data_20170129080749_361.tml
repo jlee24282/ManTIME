@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The article below represents a preview only and is not meant for reuse or republishing. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196852259</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Apple joins group to keep Artificial Intelligence from turning against humans</TITLE>
+<TEXT>The article below represents a preview only and is not meant for reuse or republishing. 
 
-India, Jan. 29 -- A technology industry alliance devoted to making sure smart machines don&apos;t turn against humanity said Friday that Apple has signed on and will have a seat on the board. 
+India, Jan. 29 -- A technology industry alliance devoted to making sure smart machines don't turn against humanity said Friday that Apple has signed on and will have a seat on the board. 
 
-Microsoft, Amazon, Google, Facebook, IBM, and Google-owned British AI firm DeepMind last year established the non-profit organization, called &quot;Partnership on AI,&quot; which will have its inaugural board meeting in San Francisco on February 3. 
+Microsoft, Amazon, Google, Facebook, IBM, and Google-owned British AI firm DeepMind last year established the non-profit organization, called "Partnership on AI," which will have its inaugural board meeting in San Francisco on February 3. 
 
-Apple &quot;has been involved and collaborating with the partnership since before it was first announced and is thrilled to formalize its membership,&quot; the alliance said in an online post. 
+Apple "has been involved and collaborating with the partnership since before it was first announced and is thrilled to formalize its membership," the alliance said in an online post. 
 
-Major technology firms joined forces in the group, with stated aims including cooperation on &quot;best practices&quot; for AI and using the techn...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Robotics news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196852259</DOCID> 
-<DCT type="str">2017-01-29T07:32:48Z</DCT> 
-<TITLE type="str">Apple joins group to keep Artificial Intelligence from turning against humans</TITLE> 
-</root>
+Major technology firms joined forces in the group, with stated aims including cooperation on "best practices" for AI and using the techn...</TEXT>
+</TimeML>

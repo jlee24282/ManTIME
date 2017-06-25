@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A Zimbabwean man reportedly killed his wife with a pestle after suspecting her of cheating. The wife died after sustaining three deep cuts on her head. Start the conversation, or Read more at News24. Source link</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Zimbabwe news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Ethiopia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203522242</DOCID> 
-<DCT type="str">2017-01-29T06:56:48Z</DCT> 
-<TITLE type="str">.com | Mugabe ‘flies in, flies out’ as ‘weighty matters’ await him in Ethiopia – News24</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203522242</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>.com | Mugabe flies in, flies out as weighty matters await him in Ethiopia  News24</TITLE>
+<TEXT>A Zimbabwean man reportedly killed his wife with a pestle after suspecting her of cheating. The wife died after sustaining three deep cuts on her head. Start the conversation, or Read more at News24. Source link</TEXT>
+</TimeML>

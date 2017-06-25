@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">JoyFLIPS, a revolutionary new technology for discovering, preserving and sharing family history will be launched at RootsTech 2017, where they will give away four Apple iPad-2 tablets during the event, Feb. 8-11, 2017, in Salt Lake City. JoyFLIPS is also a semi-finalist in the annual Innovator Showdown competition to be held during the conference. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202642390</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>JoyFLIPS to Give Away 4 Apple iPads at Its RootsTech 2017 Launch</TITLE>
+<TEXT>JoyFLIPS, a revolutionary new technology for discovering, preserving and sharing family history will be launched at RootsTech 2017, where they will give away four Apple iPad-2 tablets during the event, Feb. 8-11, 2017, in Salt Lake City. JoyFLIPS is also a semi-finalist in the annual Innovator Showdown competition to be held during the conference. 
  
 Attendance at the conference is not necessary to win. Anyone opening a free JoyFLIPS account on February 8 through 11 will be entered into the daily drawings. All JoyFLIPS accounts created before the event opens will be included in the drawing on February 8.Winners will be announced each day at the JoyFLIPS booth #1335. 
  
-“Our mission is to take family history mainstream and combine it with the JOY of using old print photos to help people easily discover, share and preserve their family&apos;s history.” said Vincent Titolo, JoyFLIPS co-founder and CEO. “To accomplish this, we have been quietly at work for several years developing innovative technology that will automate this journey for millions of families worldwide.” He added. 
+Our mission is to take family history mainstream and combine it with the JOY of using old print photos to help people easily discover, share and preserve their family's history. said Vincent Titolo, JoyFLIPS co-founder and CEO. To accomplish this, we have been quietly at work for several years developing innovative technology that will automate this journey for millions of families worldwide. He added. 
  
-“We are thrilled to be a semifinalist in the Innovator Showdown as we launch the free and unlimited JoyFLIPS platform at RootsTech 2017” added Scott Shebby, JoyFLIPS co-founder and CTO. 
+We are thrilled to be a semifinalist in the Innovator Showdown as we launch the free and unlimited JoyFLIPS platform at RootsTech 2017 added Scott Shebby, JoyFLIPS co-founder and CTO. 
  
 For information about attending RootsTech and the Innovator Showdown, visit https://www.rootstech.org/innovator-showdown 
  
@@ -24,14 +27,5 @@ Drawings will be held each day from February 8th through 11th. The winner on the
  
 To view the full press release please visit http://www.prweb.com/releases/2017/01/prweb14022337.htm 
   
-Share article on social media or email</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Companies</group> 
-<name type="str">Apple news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202642390</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">JoyFLIPS to Give Away 4 Apple iPads at Its RootsTech 2017 Launch</TITLE> 
-</root>
+Share article on social media or email</TEXT>
+</TimeML>

@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">WERE you making the news in North Lincolnshire on this week in the past? 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196764546</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>David Elliott published On This Day: Jamie Oliver invited to Scunthorpe, plans for hotels...</TITLE>
+<TEXT>WERE you making the news in North Lincolnshire on this week in the past? 
  
 Or if not, can you remember some of the stories which were hitting the headlines in the Scunthorpe Telegraph? 
  
 Here, we take a look back at some of the things which were happening in the Scunthorpe area this time last year, 10 years ago and in 2003. 
  One year ago  
-This time last year, plans were announced to transform North Lincolnshire Council&apos;s Civic Centre headquarters in Scunthorpe into a hotel or new homes. 
+This time last year, plans were announced to transform North Lincolnshire Council's Civic Centre headquarters in Scunthorpe into a hotel or new homes. 
  
 
  
@@ -64,48 +67,31 @@ And it was reported that the move could allow every pub in North Lincolnshire to
  
 Also that week, the gauntlet was thrown down to celebrity chef Jamie Oliver by North Lincolnshire Council to sample a school meal. 
  
-Jamie branded school dinners &quot;cheap and rubbish&quot; in an interview with the BBC Good Food magazine. 
+Jamie branded school dinners "cheap and rubbish" in an interview with the BBC Good Food magazine. 
  
-But Councillor Tony Gosling challenged the man known as The Naked Chef to have a meal in one of North Lincolnshire&apos;s schools and then see if he stood by his comments. 
+But Councillor Tony Gosling challenged the man known as The Naked Chef to have a meal in one of North Lincolnshire's schools and then see if he stood by his comments. 
  
 
  
 The Telegraph also reported on the story of an epic flight across the North Sea by a balloon released in Scunthorpe. 
  
-The balloon was one of 111 let go to mark the opening of the Kingsway Children&apos;s Centre. 
+The balloon was one of 111 let go to mark the opening of the Kingsway Children's Centre. 
  
 And amazingly, it travelled all the way to Norway and remained intact until it was caught by two children in the town of Valen. 
  
 
  
-And as Scunthorpe United&apos;s Division Three promotion push continued, it was one of their young players who caught the eye in a 4-1 home victory over Southend United. 
+And as Scunthorpe United's Division Three promotion push continued, it was one of their young players who caught the eye in a 4-1 home victory over Southend United. 
  
 That man was 19-year-old striker Paul Hayes, who came off the bench to score one of the goals. 
  
-Hayes went on to be one of United&apos;s key men in two spells with the club, the second of which saw him play a part in the Iron earning promotion to the Championship in 2009. 
+Hayes went on to be one of United's key men in two spells with the club, the second of which saw him play a part in the Iron earning promotion to the Championship in 2009. 
  
 
  
-Read today&apos;s top stories 
+Read today's top stories 
 
  
 
- Follow us on</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Hospitality industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196764546</DOCID> 
-<DCT type="str">2017-01-29T06:25:00Z</DCT> 
-<TITLE type="str">David Elliott published On This Day: Jamie Oliver invited to Scunthorpe, plans for hotels...</TITLE> 
-</root>
+ Follow us on</TEXT>
+</TimeML>

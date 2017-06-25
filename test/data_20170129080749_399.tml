@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A total of 18 Daesh terrorists have been killed, 130 targets have been shelled by the Turkish military on the 159th day of Operation Euphrates Shield, the military said on Sunday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196885818</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>18 Daesh terrorists killed in military ops carried out in northern Syria</TITLE>
+<TEXT>A total of 18 Daesh terrorists have been killed, 130 targets have been shelled by the Turkish military on the 159th day of Operation Euphrates Shield, the military said on Sunday. 
  
 The Turkish military provided up-to-date information on the military developments that took place between Jan. 28, 7 a.m. (GMT 4 a.m.) to Jan. 29, 7 a.m. local time. 
  
@@ -14,38 +17,5 @@ Meanwhile, 87 improvised explosive devices (IEDs) were destroyed by explosive or
  
 Turkey launched Operation Euphrates Shield On Aug. 24, 2016 declaring that is was exercising its rights of self-defense codified under the U.N. Charter Article 51. 
  
-A National Security Council press release (Nov. 30, 2016) stated that the operation&apos;s objectives were to maintain border security and confront Daesh terrorism within the framework of the U.N. Charter. It also emphasized not allowing the PKK terrorist organization along with its affiliates, the Democratic Union Party (PYD) and People&apos;s Protection Units (YPG), to establish a corridor of terror on Turkey&apos;s doorstep.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Terrorism news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Military news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Syria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Turkey news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196885818</DOCID> 
-<DCT type="str">2017-01-29T05:02:45Z</DCT> 
-<TITLE type="str">18 Daesh terrorists killed in military ops carried out in northern Syria</TITLE> 
-</root>
+A National Security Council press release (Nov. 30, 2016) stated that the operation's objectives were to maintain border security and confront Daesh terrorism within the framework of the U.N. Charter. It also emphasized not allowing the PKK terrorist organization along with its affiliates, the Democratic Union Party (PYD) and People's Protection Units (YPG), to establish a corridor of terror on Turkey's doorstep.</TEXT>
+</TimeML>

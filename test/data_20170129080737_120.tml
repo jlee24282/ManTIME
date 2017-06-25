@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Joe Kenny proved to be a thorn in Wagga City’s side before Wagga RSL were bowled out for 193 at McPherson Oval. Joe Kenny proved to be a thorn in Wagga City’s side on Saturday.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196197020</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Kenny resists as Nicoll takes 5</TITLE>
+<TEXT>Joe Kenny proved to be a thorn in Wagga Citys side before Wagga RSL were bowled out for 193 at McPherson Oval. Joe Kenny proved to be a thorn in Wagga Citys side on Saturday.
 
 Kenny finished unbeaten on 78 as Wagga RSL were bowled out for 193 at McPherson Oval.
 
@@ -8,26 +11,13 @@ Coming in with the Bulldogs in trouble at 3-, Kenny was a rock for the last plac
 
 Coach Jon Nicoll, who took five wickets in the innings, thought Wagga RSL did a good job to work their way out of a sticky situation.
 
-“I thought they batted quite well”, Nicoll said.
+I thought they batted quite well, Nicoll said.
 
-“I thought we did enough by Joe Kenny batted quite well and their lower order gave him plenty of support.
+I thought we did enough by Joe Kenny batted quite well and their lower order gave him plenty of support.
 
-“We lost an early one in the couple of overs we had to face but we just have to turn up next week and bat as well as we possibly can.”
+We lost an early one in the couple of overs we had to face but we just have to turn up next week and bat as well as we possibly can.
 
 The Cats will resume at 1-1 after Jake Hindmarsh snared the dangerous Josh Thompson for 0 in the first over.
 
-Harry Rosengren came in as night watchman and after surviving the session, Nicoll believes it will be a good opportunity for the teenager.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196197020</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">Kenny resists as Nicoll takes 5</TITLE> 
-</root>
+Harry Rosengren came in as night watchman and after surviving the session, Nicoll believes it will be a good opportunity for the teenager.</TEXT>
+</TimeML>

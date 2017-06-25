@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">This is not a drill. A local Virginia brewery really is making Oreo-flavored beer. The Veil Brewing[1] in Richmond recently debuted a brand new limited release beer they’re calling the “Hornswoggler with Oreos” available in 16 oz. cans. The evil geniuses behind the new brewery simply aged their existing milk stout with Oreos, creating the boozy, chocolatey libation of our dreams. “We took our 7% robust chocolate milk stout Hornswoggler and conditioned it on hundreds of pounds of Oreo cookies,...</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201897330</DOCID> 
-<DCT type="str">2017-01-27T21:27:51Z</DCT> 
-<TITLE type="str">Virginia Brewery Makes Oreo-Flavored Beer</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201897330</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-27" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+<TITLE>Virginia Brewery Makes Oreo-Flavored Beer</TITLE>
+<TEXT>This is not a drill. A local Virginia brewery really is making Oreo-flavored beer. The Veil Brewing[1] in Richmond recently debuted a brand new limited release beer theyre calling the Hornswoggler with Oreos available in 16 oz. cans. The evil geniuses behind the new brewery simply aged their existing milk stout with Oreos, creating the boozy, chocolatey libation of our dreams. We took our 7% robust chocolate milk stout Hornswoggler and conditioned it on hundreds of pounds of Oreo cookies,...</TEXT>
+</TimeML>

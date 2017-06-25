@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">\r 
-Trượt ván là môn thể thao đang rất được giới trẻ thế giới ưa chuộng hiện nay.\r 
-Bắt kịp xu thế đó hãng True Axis đã cho ra trò chơi True Skate phù hợp cho mọi lứa tuổi đặc biệt là những bạn đam mê trò chơi này! 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205036411</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>True Skate</TITLE>
+<TEXT>\r 
+Trt vn l mn th thao ang rt c gii tr th gii a chung hin nay.\r 
+Bt kp xu th  hng True Axis  cho ra tr chi True Skate ph hp cho mi la tui c bit l nhng bn am m tr chi ny! 
 
 Author: edwinpangborne67 
 Tags: True  Skate  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205036411</DOCID> 
-<DCT type="str">2017-01-29T08:31:24Z</DCT> 
-<TITLE type="str">True Skate</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Upendings: 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196310763</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>A bit of irregularity</TITLE>
+<TEXT>Upendings: 
  
-Omaha 83, South Dakota State 82 …..on a buzzer-beater. 
+Omaha 83, South Dakota State 82 ..on a buzzer-beater. 
  
 Loyola Marymount outlasted BYU in overtime, 77-74, for the second victory in the series history . 
  
@@ -20,7 +23,7 @@ Middle Tennessee 79, Louisiana Tech 65 .
  
 All scores . 
  
-Tomorrow’s schedule is packed. 
+Tomorrows schedule is packed. 
  
 College team news: 
  
@@ -36,18 +39,5 @@ Napheesa Collier and Katie Lou Samuelson are on record pace for UConn .
  
 College coach news: 
  
-Louisville coach Jeff Walz preaches focus ahead of the team’s rematch with Pitt .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: basketball news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196310763</DOCID> 
-<DCT type="str">2017-01-29T04:06:02Z</DCT> 
-<TITLE type="str">A bit of irregularity</TITLE> 
-</root>
+Louisville coach Jeff Walz preaches focus ahead of the teams rematch with Pitt .</TEXT>
+</TimeML>

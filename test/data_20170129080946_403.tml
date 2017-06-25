@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">1 USD Buy 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201512378</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>1 USD Buy Launched One Dollar Laptop Along with Many Other Low-Cost Products January 28, 20171 USD Buy, an online shopping site, now offers laptops and other consumer electronic products for just one dollar to its...</TITLE>
+<TEXT>1 USD Buy 
    
 1 USD Buy Launched One Dollar Laptop Along with Many Other Low-Cost Products 
    
@@ -14,7 +17,7 @@ Buyers on the ecommerce store can now sign up on the website and enter the membe
  
 Keeo, the CEO of 1 USD Buy, recently appeared in a press conference and said that their ecommerce brand is determined to make the idea of one dollar shopping popular as it almost turns shopping into a festival in which everybody can take part. 
  
-“For just one dollar, buyers can get the best products in different categories. We maintain full transparency and buyers can see the names of the winners and contact the users personally to verify whether they really won the products. We are trying to add more excitement to online shopping”, Keeo said. 
+For just one dollar, buyers can get the best products in different categories. We maintain full transparency and buyers can see the names of the winners and contact the users personally to verify whether they really won the products. We are trying to add more excitement to online shopping, Keeo said. 
  
 About the Company 
  
@@ -22,14 +25,5 @@ About the Company
  
 To know more, visit http://www.1usdbuy.com/ 
   
-Share article on social media or email</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201512378</DOCID> 
-<DCT type="str">2017-01-29T08:06:57Z</DCT> 
-<TITLE type="str">1 USD Buy Launched One Dollar Laptop Along with Many Other Low-Cost Products January 28, 20171 USD Buy, an online shopping site, now offers laptops and other consumer electronic products for just one dollar to its...</TITLE> 
-</root>
+Share article on social media or email</TEXT>
+</TimeML>

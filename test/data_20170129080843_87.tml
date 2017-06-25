@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Bugging out in the park 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198585314</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>ThexGreatxCod's Live PS4 Broadcast (269)</TITLE>
+<TEXT>Bugging out in the park 
 
 Author: Tbanga1 
-Tags: #PS4Live  PlayStation 4  Sony Interactive Entertainment  Call of Duty®: Advanced Warfare  ThexGreatxCod  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198585314</DOCID> 
-<DCT type="str">2017-01-29T07:35:13Z</DCT> 
-<TITLE type="str">ThexGreatxCod&apos;s Live PS4 Broadcast (269)</TITLE> 
-</root>
+Tags: #PS4Live  PlayStation 4  Sony Interactive Entertainment  Call of Duty: Advanced Warfare  ThexGreatxCod  
+Posted: 29 January 2</TEXT>
+</TimeML>

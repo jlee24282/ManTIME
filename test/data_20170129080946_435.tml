@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201534010</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Minor (34.14 ft) - Observation - SHNI2 - Ohio River at Shawneetown (Illinois)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
       
 NOTE: River forecasts for this location take into account past precipitation and the precipitation amounts expected approximately 48 hours into the future from the forecast issuance time. 
- NOTE: Forecasts for the Ohio River at Shawneetown are issued routinely year-round.        Flood Categories (in feet) 
+ NOTE: Forecasts for the Ohio River at Shawneetown are issued routinely year-round.       Flood Categories (in feet) 
  Major Flood Stage:  53  Moderate Flood Stage:  43  Flood Stage:  33  Action Stage:  30  Low Stage (in feet):  -9999  
 Historic Crests 
 (1) 65.64 ft on 01/30/1937 
@@ -32,11 +35,11 @@ Low Water Records
 (3) 14.16 ft on 08/28/2012 
 Show More Low Water Records 
    
-Show FEMA&apos;s National Flood Hazard Layers 
+Show FEMA's National Flood Hazard Layers 
    
-FEMA&apos;s National Flood Hazard Layers not showing? 
+FEMA's National Flood Hazard Layers not showing? 
   
-Note: Your zoom level may have changed. ESRI&apos;s zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
       
 Zoom Level:16 
    
@@ -50,14 +53,9 @@ FEMA Layer
 (4) Kentucky Bank 
 (5) Incline Gage at Boat Ramp 
   
-Latitude: 37.691944° N, Longitude: 88.133333° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 37.691944 N, Longitude: 88.133333 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  33 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 0)  Elevation 
-(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  309.07 ft  342.07 ft         The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201534010</DOCID> 
-<DCT type="str">2017-01-29T08:02:49Z</DCT> 
-<TITLE type="str">Minor (34.14 ft) - Observation - SHNI2 - Ohio River at Shawneetown (Illinois)</TITLE> 
-</root>
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  309.07 ft  342.07 ft        The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">(Before It&apos;s News)
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205000859</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Moderate earthquake - Western Indian-antarctic Ridge on January 29, 2017</TITLE>
+<TEXT>(Before It's News)
 
 The best independent earthquake reporting website in the world 
 
@@ -8,22 +11,5 @@ Earthquake-report.com only survives with (mostly small) PRIVATE DONATIONS. Your 
 
 Share your earthquake experience (I Have Felt It) with our readers.
 
-Click on the &quot;I Felt It&quot; button behind the corresponding earthquake. Your earthquake experience is not only important for science, but also for people in the area as well as our global readership. Our Fast Earthquake and Tsunami Twitter Accounts : M4+ - ALL</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Natural disasters news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205000859</DOCID> 
-<DCT type="str">2017-01-29T08:33:38Z</DCT> 
-<TITLE type="str">Moderate earthquake - Western Indian-antarctic Ridge on January 29, 2017</TITLE> 
-</root>
+Click on the "I Felt It" button behind the corresponding earthquake. Your earthquake experience is not only important for science, but also for people in the area as well as our global readership. Our Fast Earthquake and Tsunami Twitter Accounts : M4+ - ALL</TEXT>
+</TimeML>

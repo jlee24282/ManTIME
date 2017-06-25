@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Historic Crests 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200884312</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Low Water (-0.2 ft) - Observation - BATN6 - New York Harbor at The Battery (New York)</TITLE>
+<TEXT>Historic Crests 
 (1) 13.88 ft on 10/29/2012 
 (2) 10.02 ft on 09/12/1960 
 (3) 9.70 ft on 12/11/1992 
@@ -30,18 +33,5 @@ Show More Recent Crests
 (P) : Preliminary values subject to further review. 
 
 Low Water Records 
-Currently none available.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">New York metro area news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200884312</DOCID> 
-<DCT type="str">2017-01-29T07:57:24Z</DCT> 
-<TITLE type="str">Low Water (-0.2 ft) - Observation - BATN6 - New York Harbor at The Battery (New York)</TITLE> 
-</root>
+Currently none available.</TEXT>
+</TimeML>

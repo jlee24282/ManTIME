@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Historic Crests 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202331761</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Minor (9.49 ft) - Observation - ABAG1 - Alabaha River at GA Highway 203 near Blackshear (Georgia)</TITLE>
+<TEXT>Historic Crests 
 (1) 15.60 ft on 04/05/1948 
 (2) 14.30 ft on 03/19/1929 
 (3) 12.36 ft on 09/26/1953 
@@ -35,10 +38,5 @@ Low Water Records
 (3) 1.21 ft on 12/10/2010 
 (4) 1.23 ft on 10/27/2010 
 (5) 1.24 ft on 07/22/2014 
-Show More Low Water Records</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695202331761</DOCID> 
-<DCT type="str">2017-01-29T08:07:30Z</DCT> 
-<TITLE type="str">Minor (9.49 ft) - Observation - ABAG1 - Alabaha River at GA Highway 203 near Blackshear (Georgia)</TITLE> 
-</root>
+Show More Low Water Records</TEXT>
+</TimeML>

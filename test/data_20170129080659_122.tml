@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194723621</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Action (619.81 ft) - Observation - LYNW3 - Mississippi River at Lynxville (Wisconsin)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
       
 NOTE: River forecasts for this location take into account past precipitation and the precipitation amounts expected approximately 48 hours into the future from the forecast issuance time. 
- NOTE: Forecasts for the Mississippi River at Lynxville are issued routinely during the warm season, and as needed at other times of the year.        Flood Categories (in feet) 
+ NOTE: Forecasts for the Mississippi River at Lynxville are issued routinely during the warm season, and as needed at other times of the year.       Flood Categories (in feet) 
  Major Flood Stage:  631  Moderate Flood Stage:  628  Flood Stage:  625  Action Stage:  619  Low Stage (in feet):  -9999  
 Historic Crests 
 (1) 633.16 ft on 04/24/1965 
@@ -32,11 +35,11 @@ Low Water Records
 (3) 610.20 ft on 12/09/1939 
 Show More Low Water Records 
    
-Show FEMA&apos;s National Flood Hazard Layers 
+Show FEMA's National Flood Hazard Layers 
    
-FEMA&apos;s National Flood Hazard Layers not showing? 
+FEMA's National Flood Hazard Layers not showing? 
   
-Note: Your zoom level may have changed. ESRI&apos;s zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
       
 Zoom Level:15 
    
@@ -47,16 +50,11 @@ FEMA Layer
 (1) Upstream View 
 (2) Downstream View 
   
-Latitude: 43.211667° N, Longitude: 91.098611° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 43.211667 N, Longitude: 91.098611 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  608.07 ft  625 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 608.07)  Elevation 
 (gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available  U.S. Army Corps of Engineers utilizes the 1912 Datum  
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695194723621</DOCID> 
-<DCT type="str">2017-01-29T07:12:05Z</DCT> 
-<TITLE type="str">Action (619.81 ft) - Observation - LYNW3 - Mississippi River at Lynxville (Wisconsin)</TITLE> 
-</root>
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

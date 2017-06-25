@@ -1,29 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Arsenal currently sit second in the table - eight points behind Chelsea - with Tottenham and Liverpool occupying the rest of the top four spots.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202096422</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Stan Collymore: This is where Arsenal, Liverpool are Tottenham have gone wrong this season</TITLE>
+<TEXT>Arsenal currently sit second in the table - eight points behind Chelsea - with Tottenham and Liverpool occupying the rest of the top four spots.
 
 But Collymore has questioned the depth of their squads.
 
-The pundit reckons Spurs boss Mauricio Pochettino and Liverpool manager Jurgen Klopp have tried to be &apos;too clever&apos; with limited senior players.
+The pundit reckons Spurs boss Mauricio Pochettino and Liverpool manager Jurgen Klopp have tried to be 'too clever' with limited senior players.
 
 And the former Liverpool striker believes Gunners chief Arsene Wenger has struggled to get his squad size right for the past 20 years.
 
-&quot;Pochettino has tried to be too clever by having a very small squad,&quot; Collymore told BoyleSports....</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Arsenal news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">London news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202096422</DOCID> 
-<DCT type="str">2017-01-29T08:11:25Z</DCT> 
-<TITLE type="str">Stan Collymore: This is where Arsenal, Liverpool are Tottenham have gone wrong this season</TITLE> 
-</root>
+"Pochettino has tried to be too clever by having a very small squad," Collymore told BoyleSports....</TEXT>
+</TimeML>

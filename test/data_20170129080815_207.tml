@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Abbee Sigel scored 20 points, including hitting three 3-pointers, as Rock Falls beat Kaneland 54-51 on the road on Saturday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197488082</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Roundup: Rockets knock off Kaneland</TITLE>
+<TEXT>Abbee Sigel scored 20 points, including hitting three 3-pointers, as Rock Falls beat Kaneland 54-51 on the road on Saturday. 
    
 Olivia Babcock added 11 points. Molly Buck scored eight. 
  
@@ -42,7 +45,7 @@ Katie Krogman had six points, six rebounds, a steal and two assists. MaKenzie Fi
  
 Tyra Clark led Pearl City with 20 points. Tia Clark added 15. 
  
-Saturday&apos;s stars 
+Saturday's stars 
  
 Abbee Sigel, Rock Falls, 20 points 
  
@@ -51,14 +54,5 @@ Delaney Wilhelm, Amboy, 18 points, 6 rebounds, 5 assists, 6 steals
 Gylian Finch, Oregon, 22 points 
  
 Lydia Coatney, Eastland, 20 points 
-   Comments</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197488082</DOCID> 
-<DCT type="str">2017-01-29T07:38:01Z</DCT> 
-<TITLE type="str">Roundup: Rockets knock off Kaneland</TITLE> 
-</root>
+   Comments</TEXT>
+</TimeML>

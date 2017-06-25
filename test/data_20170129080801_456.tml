@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The fifth-ranked McLennan Highlassies opened their 2017 season with a sweep of the No. 17 Howard Lady Hawks. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197311652</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>No. 5 Highlassies handle No. 17 Howard in season opener</TITLE>
+<TEXT>The fifth-ranked McLennan Highlassies opened their 2017 season with a sweep of the No. 17 Howard Lady Hawks. 
  
 The Highlassies run-ruled the Lady Hawks 12-4 in game one with Vannessa Castro getting the win in the circle. 
  
@@ -30,14 +33,5 @@ McLennan took control of the game with nine runs in the top of the sixth inning.
  
 Howard rounded out the scoring with a run in the bottom of the seventh. Lee was safe at first on an error and moved to second on a ground out by Hilton. Neff then singled to score Lee. 
  
-The Highlassies will face Western Texas in a 1 p.m. doubleheader tomorrow in Snyder.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197311652</DOCID> 
-<DCT type="str">2017-01-29T07:36:14Z</DCT> 
-<TITLE type="str">No. 5 Highlassies handle No. 17 Howard in season opener</TITLE> 
-</root>
+The Highlassies will face Western Texas in a 1 p.m. doubleheader tomorrow in Snyder.</TEXT>
+</TimeML>

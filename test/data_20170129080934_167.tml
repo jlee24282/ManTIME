@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">       
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200846299</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Joplin Carpet Cleaning Low Moisture Pet Safe Odor Service Launched</TITLE>
+<TEXT>   
 A Joplin based carpet cleaning specialist, Crystal Clean Carpets, have launched a new service. The new service is a low moisture method of cleaning carpets that leaves them clean and quick drying. 
  
 Joplin, United States - January 29, 2017 /PressCable/ -- 
@@ -41,10 +44,5 @@ Hemp Genix Announces Partnership with NutraFuels for Manufacturing CBD Oil Spray
  
 Satellite Suites Announces Upgrade to ADA Plus 2 Restroom Trailers (Sat 28th Jan 17) 
  
-24 Hour Self Storage Launched Online Rental Pay 49445 49442 Muskegon (Sat 28th Jan 17)</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200846299</DOCID> 
-<DCT type="str">2017-01-29T08:02:39Z</DCT> 
-<TITLE type="str">Joplin Carpet Cleaning Low Moisture Pet Safe Odor Service Launched</TITLE> 
-</root>
+24 Hour Self Storage Launched Online Rental Pay 49445 49442 Muskegon (Sat 28th Jan 17)</TEXT>
+</TimeML>

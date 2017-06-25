@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">London, Jan 29 (PTI) Dogs share food with their friends just like humans, according to a new study which also found that the animals are not as generous with strangers. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203263072</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Dogs prefer to share food with friends: study</TITLE>
+<TEXT>London, Jan 29 (PTI) Dogs share food with their friends just like humans, according to a new study which also found that the animals are not as generous with strangers. 
  
 Researchers used a complex task set-up to confirm the prosocial behaviour of dogs. The experiment showed that dogs continued to prefer familiar partners. 
  
 The researchers from University of Veterinary Medicine in Austria had earlier showed that dogs share food rewards with other dogs. 
  
-Using a bar-pulling task, the dogs delivered the treats to partner dogs – especially if these were already known to them. 
+Using a bar-pulling task, the dogs delivered the treats to partner dogs  especially if these were already known to them. 
  
 However, the increased complexity of the task influenced the readiness with which the dogs delivered a food reward to another animal. 
  
@@ -14,9 +17,9 @@ The new study confirmed that the chosen method affects the result and is much mo
  
 For the study, the dogs had to recognise special objects in form of tokens in order to deliver a food reward to the other dog. 
  
-“This time we not only tested a different experimental set-up but also the level of difficulty. The dogs were first trained to touch a token in exchange for a food reward for themselves,” said Rachel Dale from the university. 
+This time we not only tested a different experimental set-up but also the level of difficulty. The dogs were first trained to touch a token in exchange for a food reward for themselves, said Rachel Dale from the university. 
  
-“They were then trained to recognise two more tokens: one that resulted in a reward being delivered to a partner dog and another which did not,” Dale said. 
+They were then trained to recognise two more tokens: one that resulted in a reward being delivered to a partner dog and another which did not, Dale said. 
  
 The researchers tested whether it made a difference to the donor dog if the receiver was familiar or a stranger and whether the presence of another dog was enough to trigger generous behaviour in the test dog even if the partner had no access to the food. 
  
@@ -36,10 +39,5 @@ The dogs clearly showed a preference for sharing the food reward with a familiar
  
 The study appears in the journal PLOS ONE. 
  
-This is published unedited from the PTI feed.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695203263072</DOCID> 
-<DCT type="str">2017-01-29T08:18:13Z</DCT> 
-<TITLE type="str">Dogs prefer to share food with friends: study</TITLE> 
-</root>
+This is published unedited from the PTI feed.</TEXT>
+</TimeML>

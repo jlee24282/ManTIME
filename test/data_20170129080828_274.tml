@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">MSI has partnered with Ubisoft to bundle a free copy of the new game For Honor along with the company’s GAMING motherboards and desktops. The promotion started on the 25th of this month and ends on 18th April 2017 or while stocks last. The bundle is available with the following motherboards from MSI... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198182507</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>MSI is bundling For Honor with its GAMING motherboards and desktops</TITLE>
+<TEXT>MSI has partnered with Ubisoft to bundle a free copy of the new game For Honor along with the companys GAMING motherboards and desktops. The promotion started on the 25th of this month and ends on 18th April 2017 or while stocks last. The bundle is available with the following motherboards from MSI... 
  
-MSI is bundling For Honor with its GAMING motherboards and desktops</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Gaming news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">PC industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198182507</DOCID> 
-<DCT type="str">2017-01-29T07:41:54Z</DCT> 
-<TITLE type="str">MSI is bundling For Honor with its GAMING motherboards and desktops</TITLE> 
-</root>
+MSI is bundling For Honor with its GAMING motherboards and desktops</TEXT>
+</TimeML>

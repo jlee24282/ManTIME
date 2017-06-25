@@ -1,24 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">FloSports, Inc.  
-FloSports, an innovative sports media and events company, based in Austin, Texas, is the authentic source for content and a new world of coverage that true fans have been waiting for. Focused on three areas – live competition and coverage, original content, and owned and operated events – the company takes fragmented communities and provides them the platform to connect with the sports they love. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200536755</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>High School Boy's 400m, Heat 5 - Sophomore White</TITLE>
+<TEXT>FloSports, Inc.  
+FloSports, an innovative sports media and events company, based in Austin, Texas, is the authentic source for content and a new world of coverage that true fans have been waiting for. Focused on three areas  live competition and coverage, original content, and owned and operated events  the company takes fragmented communities and provides them the platform to connect with the sports they love. 
  
-Learn More at FloSports.tv</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: athletics news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest scores</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200536755</DOCID> 
-<DCT type="str">2017-01-29T08:00:38Z</DCT> 
-<TITLE type="str">High School Boy&apos;s 400m, Heat 5 - Sophomore White</TITLE> 
-</root>
+Learn More at FloSports.tv</TEXT>
+</TimeML>

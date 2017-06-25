@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Barcelona football star Lionel Messi has finally fixed a sate to get married to his girlfriend of nine years (and mother of his two kids), Antonella Rocuzzo. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205009939</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Top footballer Lionel Messi sets wedding date to marry his beautiful girlfriend!</TITLE>
+<TEXT>Barcelona football star Lionel Messi has finally fixed a sate to get married to his girlfriend of nine years (and mother of his two kids), Antonella Rocuzzo. 
   
 Lionel Messi and girlfriend, Antonella Rocuzzo. 
   
-Reports say that the childhood sweethearts date is June 24, 2017 and the wedding will take place in Messi’s hometown, Rosario. 
+Reports say that the childhood sweethearts date is June 24, 2017 and the wedding will take place in Messis hometown, Rosario. 
  
 The couple have been dating for 9 years now. 
   
-The guest list is said to include up to 600 people and will definitely be ‘Argentina’s biggest wedding’. 
+The guest list is said to include up to 600 people and will definitely be Argentinas biggest wedding. 
  
 The couple have two children together. 
   
@@ -27,7 +30,7 @@ January 28, 2017, 11:06 pm
 January 28, 2017, 9:49 pm 
       
 January 28, 2017, 8:04 pm 
-    Don&apos;t Miss    
+    Don't Miss    
 Hot  Popular 
    
 January 3, 2017, 10:25 pm 
@@ -50,18 +53,5 @@ January 18, 2017, 12:02 am
     
 Hot 
    
-January 21, 2017, 5</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205009939</DOCID> 
-<DCT type="str">2017-01-29T08:33:39Z</DCT> 
-<TITLE type="str">Top footballer Lionel Messi sets wedding date to marry his beautiful girlfriend!</TITLE> 
-</root>
+January 21, 2017, 5</TEXT>
+</TimeML>

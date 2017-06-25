@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Posted by: in Equities  3 mins ago  2 Views 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204788480</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Equities See 6th Month Of Inflows, Mutual Funds Pour In Rs 5,000 Crore</TITLE>
+<TEXT>Posted by: in Equities  3 mins ago  2 Views 
   
-New Delhi: Mutual fund managers have purchased stocks worth nearly Rs 5,000 crore so far in January — making it the sixth straight monthly inflow — after retail investors continued to lap up shares. Besides, fund managers have pumped in over Rs 30,000 … 
-  Share this:    2017-</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Fund management news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Mutual funds news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204788480</DOCID> 
-<DCT type="str">2017-01-29T08:26:00Z</DCT> 
-<TITLE type="str">Equities See 6th Month Of Inflows, Mutual Funds Pour In Rs 5,000 Crore</TITLE> 
-</root>
+New Delhi: Mutual fund managers have purchased stocks worth nearly Rs 5,000 crore so far in January  making it the sixth straight monthly inflow  after retail investors continued to lap up shares. Besides, fund managers have pumped in over Rs 30,000  
+  Share this:    2017-</TEXT>
+</TimeML>

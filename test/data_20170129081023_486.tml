@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">ABU DHABI, 28th January, 2017 (WAM) -- Telecommunications services provider Etisalat has apologised to its customers for the inconvenience caused by the disruption of its mobile and internet services</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Telecom news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">United Arab Emirates news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Middle Eastern business news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202819131</DOCID> 
-<DCT type="str">2017-01-28T15:12:11Z</DCT> 
-<TITLE type="str">Etisalat apologises for Friday&apos;s service disruption</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202819131</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Etisalat apologises for Friday's service disruption</TITLE>
+<TEXT>ABU DHABI, 28th January, 2017 (WAM) -- Telecommunications services provider Etisalat has apologised to its customers for the inconvenience caused by the disruption of its mobile and internet services</TEXT>
+</TimeML>

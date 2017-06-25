@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jan. 29 --Natural gas prices are rising for the first time in years, as a colder-than-average winter remains in the forecast and energy companies are withdrawing more natural gas from storage. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195369755</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Natural gas prices climbing for first time in years</TITLE>
+<TEXT>Jan. 29 --Natural gas prices are rising for the first time in years, as a colder-than-average winter remains in the forecast and energy companies are withdrawing more natural gas from storage. 
  
 Analysts expect that natural gas spot prices will average $3.55 per million British thermal units in 2017 and $3.73 in 2018, up from 2.51 in 2016. If the colder winter forecast holds, it would be the first rise in average natural gas prices since 2014. 
  
@@ -8,7 +11,7 @@ Natural gas prices in 2016 were the lowest they had been since 1999, after a mil
  
 With a cold start to the winter in much of the U.S. , demand is growing, storage levels are dropping and prices are rising. Last week, withdrawals of natural gas from storage in the U.S. topped five-year averages, analysts for the Energy Department found. 
  
-Storage is &quot;where supply and demand kind of meet,&quot; said Tim Hess , who manages the Short-Term Energy Outlook for the U.S. Energy Information Administration . &quot;If there is excess in the market, it will go into storage. If there is more demand than supply, then storage levels drop.&quot; 
+Storage is "where supply and demand kind of meet," said Tim Hess , who manages the Short-Term Energy Outlook for the U.S. Energy Information Administration . "If there is excess in the market, it will go into storage. If there is more demand than supply, then storage levels drop." 
  
 Part of the natural gas surplus was the result of hydraulic fracturing and drilling technologies that unlocked previously in-accessible natural gas reservoirs from shale formations. 
  
@@ -30,18 +33,5 @@ ___
  
 Visit the Houston Chronicle at www.chron.com 
  
-Distributed by Tribune Content Agency, LLC.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Energy industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Oil and gas news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195369755</DOCID> 
-<DCT type="str">2017-01-29T02:35:12Z</DCT> 
-<TITLE type="str">Natural gas prices climbing for first time in years</TITLE> 
-</root>
+Distributed by Tribune Content Agency, LLC.</TEXT>
+</TimeML>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Salmon is an excellent source of Omega 3 Fatty Acid and is a delicious alternative to meat. POLOKWANE – Not only is it delicious but Salmon is known as being one of the healthiest fish to eat because it has so many benefits.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194502853</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>#WFD  Grilled Salmon</TITLE>
+<TEXT>Salmon is an excellent source of Omega 3 Fatty Acid and is a delicious alternative to meat. POLOKWANE  Not only is it delicious but Salmon is known as being one of the healthiest fish to eat because it has so many benefits.
 
-When eaten two to three times per week, salmon can protect you from problems such as heart attack, stroke, arrhythmia, high blood pressure and high triglycerides What’s for Dinner has made things simple for your Sunday night dinner with an easy Salmon recipe.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695194502853</DOCID> 
-<DCT type="str">2017-01-29T07:16:01Z</DCT> 
-<TITLE type="str">#WFD – Grilled Salmon</TITLE> 
-</root>
+When eaten two to three times per week, salmon can protect you from problems such as heart attack, stroke, arrhythmia, high blood pressure and high triglycerides Whats for Dinner has made things simple for your Sunday night dinner with an easy Salmon recipe.</TEXT>
+</TimeML>

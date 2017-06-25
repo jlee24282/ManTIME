@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, [India], Jan. 29 (ANI): The Srinagar-Jammu National Highway was cleared today, five days after snowfall in the valley led to closure of the roads. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204742889</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Srinagar-Jammu highway cleared after five-day long snowfall</TITLE>
+<TEXT>, [India], Jan. 29 (ANI): The Srinagar-Jammu National Highway was cleared today, five days after snowfall in the valley led to closure of the roads. 
  
 Following the improvement in weather, the national highway has been thrown open for traffic after the road was cleared-off snow and debris left behind at few place. 
  
 Kashmir experienced fresh snowfall on Tuesday which continued intermittently yesterday as well. 
  
-The snowfall also hit flight operations at Srinagar airport. (ANI)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204742889</DOCID> 
-<DCT type="str">2017-01-29T02:46:00Z</DCT> 
-<TITLE type="str">Srinagar-Jammu highway cleared after five-day long snowfall</TITLE> 
-</root>
+The snowfall also hit flight operations at Srinagar airport. (ANI)</TEXT>
+</TimeML>

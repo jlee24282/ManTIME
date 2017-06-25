@@ -1,27 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">تحذیر: هذه الصفحة هي مجرد قاریء تلقائي للأخبار باستخدام خدمة الـ RSS الذي بإمكانه قراءة وعرض الاخبار الجديدة عن طریق البرامج الإلکترونیة ودون تحکم أی قوة بشریة. تجدر الإشارة بأن نشر هذه الأخبار هنا لاتعني تأییدها علی الإطلاق و هذه الصفحة لیست مسئولتاً عن العناوین ومحتوی الأخبار المنشورة. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204147044</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Qatari Prime Minister, Greek Defence Minister discuss cooperation</TITLE>
+<TEXT>:           RSS               .                     . 
 DOHA, 29th January, 2017 (WAM) -- Sheikh Abdullah bin Nasser bin Khalifa Al-Thani, Prime Minister and Interior Minister, met with the visiting Greek Minister of National Defence, Panos Kammenos, on Sunday, along with his accompanying delegation. 
-Read on the original site</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Qatar news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Greece news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204147044</DOCID> 
-<DCT type="str">2017-01-29T08:26:52Z</DCT> 
-<TITLE type="str">Qatari Prime Minister, Greek Defence Minister discuss cooperation</TITLE> 
-</root>
+Read on the original site</TEXT>
+</TimeML>

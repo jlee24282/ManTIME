@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">You are logged in as 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197130670</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Top Stories: 11 p.m. 1-28-17</TITLE>
+<TEXT>You are logged in as 
 
 Log out Sign In FAQ 
 
@@ -16,16 +19,7 @@ Jan. 6, 2017, 6:37 a.m.
 
 Jan. 6, 2017, 9:22 a.m. 
 
-FCC Online Public Inspection File  • EEO Public File Report 
+FCC Online Public Inspection File   EEO Public File Report 
 
-© 2017 NWCN-TV</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Seattle-Tacoma news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197130670</DOCID> 
-<DCT type="str">2017-01-29T07:35:05Z</DCT> 
-<TITLE type="str">Top Stories: 11 p.m. 1-28-17</TITLE> 
-</root>
+ 2017 NWCN-TV</TEXT>
+</TimeML>

@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196771669</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Action (15.32 ft) - Observation - CVGI3 - Wabash River at Covington (Indiana)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
       
 NOTE: Gauge reading may be affected by ice. Forecast flows are unadjusted for ice. 
-Reliability of the Forecast: Based on current and forecast river, weather and reservoir conditions NOTE: Forecasts for the Wabash River at Covington are issued as needed during times of high water, but are not routinely available.        Flood Categories (in feet) 
+Reliability of the Forecast: Based on current and forecast river, weather and reservoir conditions NOTE: Forecasts for the Wabash River at Covington are issued as needed during times of high water, but are not routinely available.       Flood Categories (in feet) 
  Major Flood Stage:  28  Moderate Flood Stage:  24  Flood Stage:  16  Action Stage:  11  Low Flow (in KCFS):  1.04  
 Historic Crests 
 (1) 35.10 ft on 03/27/1913 
@@ -44,18 +47,18 @@ Low Water Records
 (5) 3.60 ft on 07/19/2012 
 
    
-Show FEMA&apos;s National Flood Hazard Layers 
+Show FEMA's National Flood Hazard Layers 
    
-FEMA&apos;s National Flood Hazard Layers not showing? 
+FEMA's National Flood Hazard Layers not showing? 
   
-Note: Your zoom level may have changed. ESRI&apos;s zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
       
 Zoom Level:15 
    
 Legend 
    
 FEMA Layer 
-    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  35.1  Record flood is in progress.  34.5  Water is at bottom of U.S. Highway 136 bridge. Near record flood is in progress.  32  Flood affects possibly as many as 250 families and causes major damage to as many as 40 homes.  30  Six or 7 homes downstream of gage in Covington begin to flood. Access road behind the cottages floods.  29  Major flood in progress. Extensive rural flooding in Warren, Fountain and Vermillion Counties. Many local roads are flooded. Several river communities are flooded. Water Street and lowest portion of Jefferson Street begin to flood in Covington.  28  At 28 feet River Road would flood.  27  Covington Lion&apos;s Club begins to flood. First floor flooding begins in some cottages across river in Warren County. Over topping of agricultural levees occurs. Crocket Street in Covington begins to flood as well as some rural residential property just north of Covington.  26.5  State Road 234 near Lodi begins to flood. Homes are affected along Warren CR South on opposite side of river.  26  The approach to the Independence Bridge floods.  25.6  The Wabash River is nearly 3 miles wide along SR 234 by backing up into Coal Creek on the west side of Lodi and the Vermillion River on the north side of Cayuga. Flood waters are at the edge of the north side of SR 234 but not on the road. North Sandhill Road and W CR 260 N on the northeast side of Covington extensively flooded in places. Silver Island Road just south of SR 32 is impassable.  25  Many local roads are impassable. High water backs up into Mud Run, cutting off some county roads just northwest of Covington. North Sandhill Road begins to flood from Mallory Branch. Mud Creek extensively floods W CR 260 N and Sandhill Road by backwater from the Wabash River.  24  Basement flooding begins in 10 to 12 cottages. The approach to new bridge downstream of SR 28 in Attica floods.  23  Flood water is at critical height for most agricultural levees.  21  Lanes to river residences west of South River Road south of Covington flooded. Sandhill Road at Mud Run just northeast of Covington begins to flood. Extensive lowland flooding in progress. Higher bottomlands flood.  20.5  Williamsport Road may begin to flood in Fountain County.  20  A few county roads begin to flood. Higher bottomlands begin to flood. The first cottage upstream from U.S. 136 bridge may become isolated by high water.  18  Five Crossings, a local county river park at old U.S. Highway 136 bridge site, begins to flood.  17.5  Some low agricultural fields flood. Backyard flood of cottages a short distance north of U.S. Highway 136. High water blocks land access to at least one residence.  16  Low agricultural lands begin to flood. Backyard flooding of cottages on right bank starts a short distance upstream of gage. Critical stage of Young-Neal Levee is reached.  Photos 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  35.1  Record flood is in progress.  34.5  Water is at bottom of U.S. Highway 136 bridge. Near record flood is in progress.  32  Flood affects possibly as many as 250 families and causes major damage to as many as 40 homes.  30  Six or 7 homes downstream of gage in Covington begin to flood. Access road behind the cottages floods.  29  Major flood in progress. Extensive rural flooding in Warren, Fountain and Vermillion Counties. Many local roads are flooded. Several river communities are flooded. Water Street and lowest portion of Jefferson Street begin to flood in Covington.  28  At 28 feet River Road would flood.  27  Covington Lion's Club begins to flood. First floor flooding begins in some cottages across river in Warren County. Over topping of agricultural levees occurs. Crocket Street in Covington begins to flood as well as some rural residential property just north of Covington.  26.5  State Road 234 near Lodi begins to flood. Homes are affected along Warren CR South on opposite side of river.  26  The approach to the Independence Bridge floods.  25.6  The Wabash River is nearly 3 miles wide along SR 234 by backing up into Coal Creek on the west side of Lodi and the Vermillion River on the north side of Cayuga. Flood waters are at the edge of the north side of SR 234 but not on the road. North Sandhill Road and W CR 260 N on the northeast side of Covington extensively flooded in places. Silver Island Road just south of SR 32 is impassable.  25  Many local roads are impassable. High water backs up into Mud Run, cutting off some county roads just northwest of Covington. North Sandhill Road begins to flood from Mallory Branch. Mud Creek extensively floods W CR 260 N and Sandhill Road by backwater from the Wabash River.  24  Basement flooding begins in 10 to 12 cottages. The approach to new bridge downstream of SR 28 in Attica floods.  23  Flood water is at critical height for most agricultural levees.  21  Lanes to river residences west of South River Road south of Covington flooded. Sandhill Road at Mud Run just northeast of Covington begins to flood. Extensive lowland flooding in progress. Higher bottomlands flood.  20.5  Williamsport Road may begin to flood in Fountain County.  20  A few county roads begin to flood. Higher bottomlands begin to flood. The first cottage upstream from U.S. 136 bridge may become isolated by high water.  18  Five Crossings, a local county river park at old U.S. Highway 136 bridge site, begins to flood.  17.5  Some low agricultural fields flood. Backyard flood of cottages a short distance north of U.S. Highway 136. High water blocks land access to at least one residence.  16  Low agricultural lands begin to flood. Backyard flooding of cottages on right bank starts a short distance upstream of gage. Critical stage of Young-Neal Levee is reached.  Photos 
 (1) Silver Island and Liberty Church Roads Dec 31, 2008 
 (2) Silver Island Rd just south of SR 32 Dec 31, 2008 
 (3) Sand Hill Road Dec 31, 2008 
@@ -71,16 +74,11 @@ FEMA Layer
 (13) A low Wabash River at Covington looking south on March 27, 2003. 
 (14) A low Wabash River at Covington looking northwest on March 27, 2003. 
   
-Latitude: 40.140000° N, Longitude: 87.406667° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 40.140000 N, Longitude: 87.406667 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  16 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 0)  Elevation 
-(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  473.97 ft  489.97 ft  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available     
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  473.97 ft  489.97 ft  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available    
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196771669</DOCID> 
-<DCT type="str">2017-01-29T07:27:07Z</DCT> 
-<TITLE type="str">Action (15.32 ft) - Observation - CVGI3 - Wabash River at Covington (Indiana)</TITLE> 
-</root>
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

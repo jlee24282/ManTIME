@@ -1,33 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Canadian National Railway Company (NYSE:CNI) (TSE:CNR) – Research analysts at Seaport Global Securities issued their Q1 2017 earnings per share estimates for shares of Canadian National Railway Company in a report issued on Wednesday. Seaport Global Securities analyst M. Levin forecasts that the brokerage will earn $0.86 per share for the quarter. Seaport Global Securities…</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Transportation industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Rail transport news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Stockwatch</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Earnings news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Canada news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203866939</DOCID> 
-<DCT type="str">2017-01-29T08:24:42Z</DCT> 
-<TITLE type="str">Canadian National Railway Company to Post Q1 2017 Earnings of $0.86 Per Share, Seaport Global Securities Forecasts (CNI)</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203866939</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Canadian National Railway Company to Post Q1 2017 Earnings of $0.86 Per Share, Seaport Global Securities Forecasts (CNI)</TITLE>
+<TEXT>Canadian National Railway Company (NYSE:CNI) (TSE:CNR)  Research analysts at Seaport Global Securities issued their Q1 2017 earnings per share estimates for shares of Canadian National Railway Company in a report issued on Wednesday. Seaport Global Securities analyst M. Levin forecasts that the brokerage will earn $0.86 per share for the quarter. Seaport Global Securities</TEXT>
+</TimeML>

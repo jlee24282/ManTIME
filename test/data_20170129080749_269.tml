@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By As an only child who went on vacations frequently with my parents growing up, I understand the primary benefit of families sailing during spring break. Classes are out of session, and it&apos;s prime time for a school holiday, particularly a weeklong cruise. However, there are some suggestions we&apos;d recommend considering to ensure smooth sailing before and during the season: 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196753338</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>7 tips for families traveling on cruise for spring break</TITLE>
+<TEXT>By As an only child who went on vacations frequently with my parents growing up, I understand the primary benefit of families sailing during spring break. Classes are out of session, and it's prime time for a school holiday, particularly a weeklong cruise. However, there are some suggestions we'd recommend considering to ensure smooth sailing before and during the season: 
  
 Reserve Your Voyage Well in Advance 
  
@@ -18,7 +21,7 @@ It should go without saying, but your family will not be the only family onboard
  
 Book an Alternative Cruise Line 
  
-If you&apos;re a family with older children or teens less interested in traditional kids facilities at sea, you might do well to consider a different cruise line to find more breathing room away from lots of youngsters. 
+If you're a family with older children or teens less interested in traditional kids facilities at sea, you might do well to consider a different cruise line to find more breathing room away from lots of youngsters. 
  
 Even premium, upscale and luxury lines are likely to receive more families during spring break than usual, but they will be less overrun with children than standard mainstream brands. Celebrity Cruises and Holland America Line still feature kids facilities, for example, and are great for multigenerational travelers as well. 
  
@@ -28,7 +31,7 @@ Not everyone else onboard for spring break necessarily has children of their own
  
 Take Advantage of Exclusive Venues 
  
-Family members like to sail because of the great travel memories that can be made together, but everyone occasionally enjoys some time to themselves. That&apos;s why cruise lines include spaces just for children and just for adults to escape to. 
+Family members like to sail because of the great travel memories that can be made together, but everyone occasionally enjoys some time to themselves. That's why cruise lines include spaces just for children and just for adults to escape to. 
  
 Mom and dad might enjoy a cocktail and entertainment in the evening while their children are having a blast in the kids club. The benefit of a cruise ship is neither group is ever far apart, and a rendezvous back at the cabin afterward is super easy. 
  
@@ -36,14 +39,5 @@ Pick Another Time of Year
  
 Ideally, to avoid the need to adhere to any of the tips above, your family might prefer a different time altogether. School holidays in the middle of the year are compressed with little wiggle room for planning. 
  
-However, summer vacation time between school years is a broader period with more options and less density of people during any singular week. As such, this is a better alternative for scheduling a cruise longer than seven days, or there&apos;s always the option to take shorter weekend getaways during the year with minimal time required off school or work.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196753338</DOCID> 
-<DCT type="str">2017-01-28T00:00:00Z</DCT> 
-<TITLE type="str">7 tips for families traveling on cruise for spring break</TITLE> 
-</root>
+However, summer vacation time between school years is a broader period with more options and less density of people during any singular week. As such, this is a better alternative for scheduling a cruise longer than seven days, or there's always the option to take shorter weekend getaways during the year with minimal time required off school or work.</TEXT>
+</TimeML>

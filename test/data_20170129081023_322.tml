@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">On Sunday evening, Jan. 8, my mother and I ate supper at the Saddle Club. While we were eating, the waitress told us that our bill had been taken care of. Happy new year to whoever you are. We will pay it forward. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202699427</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>"Happy New Year to whoever you ar"</TITLE>
+<TEXT>On Sunday evening, Jan. 8, my mother and I ate supper at the Saddle Club. While we were eating, the waitress told us that our bill had been taken care of. Happy new year to whoever you are. We will pay it forward. 
  
 Jon Sass 
   
-3813 E. Seedling Mile Road</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202699427</DOCID> 
-<DCT type="str">2017-01-29T08:15:49Z</DCT> 
-<TITLE type="str">&quot;Happy New Year to whoever you ar&quot;</TITLE> 
-</root>
+3813 E. Seedling Mile Road</TEXT>
+</TimeML>

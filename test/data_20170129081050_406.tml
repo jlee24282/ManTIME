@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Chaos looms at Bus Eireann as management says it will press ahead with cuts at the troubled company,... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203600219</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Charming Chatterbox/Cluck Stars (Animation about three friends with magical...) - 08:20:00 29/1/2017</TITLE>
+<TEXT>Chaos looms at Bus Eireann as management says it will press ahead with cuts at the troubled company,... 
 
 Friday, 27 January 2017 
 
-Relations between the US and Mexico have soured even more over Donald Trump&apos;s plan to build a wall... 
+Relations between the US and Mexico have soured even more over Donald Trump's plan to build a wall... 
 
 Thursday, 26 January 2017 
 
-The Taoiseach says he&apos;ll raise the plight of the undocumented Irish when he visits President Trump in... 
+The Taoiseach says he'll raise the plight of the undocumented Irish when he visits President Trump in... 
 
 Thursday, 26 January 2017 
 
@@ -26,14 +29,5 @@ Wednesday, 25 January 2017
 
 Click here to view more 
 
-© TV3 2013. All Rights Reserved. TV3 Group, Westgate Business Park, Ballymount, Dublin 24</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Ireland news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203600219</DOCID> 
-<DCT type="str">2017-01-29T08:20:00Z</DCT> 
-<TITLE type="str">Charming Chatterbox/Cluck Stars (Animation about three friends with magical...) - 08:20:00 29/1/2017</TITLE> 
-</root>
+ TV3 2013. All Rights Reserved. TV3 Group, Westgate Business Park, Ballymount, Dublin 24</TEXT>
+</TimeML>

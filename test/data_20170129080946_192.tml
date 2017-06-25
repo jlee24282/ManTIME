@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">SORT BY  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201334479</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>"Year of the Rooster" Brings Celebrations and Hazardous Smog</TITLE>
+<TEXT>SORT BY  
  
 CATEGORIES  
  
@@ -8,14 +11,5 @@ LANGUAGES
  
 MEDIA  
  
-TIME</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Environment news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201334479</DOCID> 
-<DCT type="str">2017-01-29T08:05:54Z</DCT> 
-<TITLE type="str">&quot;Year of the Rooster&quot; Brings Celebrations and Hazardous Smog</TITLE> 
-</root>
+TIME</TEXT>
+</TimeML>

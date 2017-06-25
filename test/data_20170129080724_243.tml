@@ -1,21 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A presentation this week will focus on the history of agriculture in Jo Daviess County. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195837015</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>'John Deere' to present at Galena History Matters program</TITLE>
+<TEXT>A presentation this week will focus on the history of agriculture in Jo Daviess County. 
  
-“John Deere: The past and future of agriculture in Jo Daviess County” is set for 3 p.m. Saturday, Feb. 4, at Galena Territory Owner’s Club. There is no cost to attend the family-friendly show. 
+John Deere: The past and future of agriculture in Jo Daviess County is set for 3 p.m. Saturday, Feb. 4, at Galena Territory Owners Club. There is no cost to attend the family-friendly show. 
  
-Brian “Fox” Ellis will assume the role of John Deere, a 19th-century blacksmith who “proceeded to revolutionize agriculture through the mass production of his farm tool inventions,” according to a press release. 
+Brian Fox Ellis will assume the role of John Deere, a 19th-century blacksmith who proceeded to revolutionize agriculture through the mass production of his farm tool inventions, according to a press release. 
  
 The second half of the presentation will focus on the history of Midwestern agriculture. 
  
-The presentation is part of the Galena-Jo Daviess County Historical Society’s History Matters program.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Agriculture news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195837015</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">&apos;John Deere&apos; to present at Galena History Matters program</TITLE> 
-</root>
+The presentation is part of the Galena-Jo Daviess County Historical Societys History Matters program.</TEXT>
+</TimeML>

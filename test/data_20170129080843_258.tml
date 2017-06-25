@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Lien vente immo : http://www.immo-diffusion.fr/vente72764-immobilier-marseille.htm 
-- Ref : VDO72764 - Marseille, secteur Saint julien, la comtesse, T3 d&apos;environ 63 m2 comprenant 3 piece(s) dont 2 chambre(s) + Balcon de 10 m2 - Vue : Parc, piscine -  Construction 1960 - Equipements annexes : balcon,  parking,  double vitrage,  piscine, cave  - chauffage : Gaz Collectif - Classe Energie  : 213 kWh.m2.an  - Plus d&apos;informations disponibles sur demande... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198768398</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>T3 A vendre Marseille 63m2 - 179 000 Euros</TITLE>
+<TEXT>Lien vente immo : http://www.immo-diffusion.fr/vente72764-immobilier-marseille.htm 
+- Ref : VDO72764 - Marseille, secteur Saint julien, la comtesse, T3 d'environ 63 m2 comprenant 3 piece(s) dont 2 chambre(s) + Balcon de 10 m2 - Vue : Parc, piscine -  Construction 1960 - Equipements annexes : balcon,  parking,  double vitrage,  piscine, cave  - chauffage : Gaz Collectif - Classe Energie  : 213 kWh.m2.an  - Plus d'informations disponibles sur demande... 
 
 Author: reseauimmodiffusion 
 Tags: varwwwhtmlgeneratorVideoDailymotionvideost3-a-vendre-marseille-63m2---179-000-euros.mp4  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695198768398</DOCID> 
-<DCT type="str">2017-01-29T07:33:00Z</DCT> 
-<TITLE type="str">T3 A vendre Marseille 63m2 - 179 000 Euros</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

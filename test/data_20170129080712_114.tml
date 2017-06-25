@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A statue of Princess Diana has been commissioned by Prince William and Prince Harry to mark the 20th anniversary of her death. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195071630</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Princess Diana statue commissioned by Prince William and Harry</TITLE>
+<TEXT>A statue of Princess Diana has been commissioned by Prince William and Prince Harry to mark the 20th anniversary of her death. 
  
-&quot;The time is right to recognise her positive impact&quot; with a permanent statue in the public gardens at Kensington Palace, the two princes said in a statement. 
+"The time is right to recognise her positive impact" with a permanent statue in the public gardens at Kensington Palace, the two princes said in a statement. 
  
-&quot;Our mother touched so many lives. We hope the statue will help all those who visit Kensington Palace to reflect on her life and her legacy.&quot; 
+"Our mother touched so many lives. We hope the statue will help all those who visit Kensington Palace to reflect on her life and her legacy." 
  
-Details on the sculptor and design will be announced later, the statement said.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">UK news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195071630</DOCID> 
-<DCT type="str">2017-01-29T06:42:14Z</DCT> 
-<TITLE type="str">Princess Diana statue commissioned by Prince William and Harry</TITLE> 
-</root>
+Details on the sculptor and design will be announced later, the statement said.</TEXT>
+</TimeML>

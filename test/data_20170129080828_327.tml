@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">No surprises here.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198263210</DOCID> 
-<DCT type="str">2017-01-29T07:38:24Z</DCT> 
-<TITLE type="str">Guess who Sachin Tendulkar is supporting in the Australian Open final between Federer and Nadal?</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198263210</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Guess who Sachin Tendulkar is supporting in the Australian Open final between Federer and Nadal?</TITLE>
+<TEXT>No surprises here.</TEXT>
+</TimeML>

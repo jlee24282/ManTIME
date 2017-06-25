@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Louisiana’s coast is in peril. And that peril puts us all — anyone who lives within tidal surge distance of the Gulf of Mexico — in peril. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198480161</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Our opinion: Weighing in on plan for the coast</TITLE>
+<TEXT>Louisianas coast is in peril. And that peril puts us all  anyone who lives within tidal surge distance of the Gulf of Mexico  in peril. 
  
 We have watched for decades as our land washed away into the Gulf. We have also watched the sea level rise and our ground subside beneath us. 
  
 For far too long, our state and federal governments did nothing to offset this unsettling trend. 
  
-But that has begun to change. Chance hasn’t come quickly, but the momentum away from inaction and toward urgent action has at least started. 
+But that has begun to change. Chance hasnt come quickly, but the momentum away from inaction and toward urgent action has at least started. 
  
 Our state government has embraced the notion of fighting for the survival of our coast and the betterment of all the people it protects. 
  
@@ -28,26 +31,17 @@ The next step will be for state officials to finalize the latest iteration of th
  
 That might not seem like a huge goal when the money to fully pay for the plan is still lacking. But the plan is an essential part of our way forward. 
  
-And there is some money. Much of the money coming in from fines paid by BP for its part in the 2010 oil spill will go toward coastal restoration. The cash won’t pay for all the projects in the plan, but it will create some progress. 
+And there is some money. Much of the money coming in from fines paid by BP for its part in the 2010 oil spill will go toward coastal restoration. The cash wont pay for all the projects in the plan, but it will create some progress. 
  
 That, too, is important. 
  
-The fact that we have stopped ignoring the problem and started addressing it is a major step in the right direction. The state’s plan represents our best chance at keeping the most of us safe from future storms. 
+The fact that we have stopped ignoring the problem and started addressing it is a major step in the right direction. The states plan represents our best chance at keeping the most of us safe from future storms. 
  
 Now, our challenge becomes getting the money to put fully implement the plan. The sooner the work begins, the more good it can do over the long run. 
  
-Tuesday’s meeting was a great chance for local people to learn more and to get involved. But there are other chances as well. You can learn about the plan and make comments at coastal.la.gov. 
+Tuesdays meeting was a great chance for local people to learn more and to get involved. But there are other chances as well. You can learn about the plan and make comments at coastal.la.gov. 
  
 Take this opportunity to join the conversation that will help shape our future. 
  
-Editorials represent the opinion of the newspaper, not of any individual.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198480161</DOCID> 
-<DCT type="str">2017-01-29T06:01:00Z</DCT> 
-<TITLE type="str">Our opinion: Weighing in on plan for the coast</TITLE> 
-</root>
+Editorials represent the opinion of the newspaper, not of any individual.</TEXT>
+</TimeML>

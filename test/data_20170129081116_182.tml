@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">WILDER, Idaho - A 20-year-old city councilor who was one of the youngest people ever elected in Idaho, has died after being involved in a car accident. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204348867</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Wilder city councilor dies in crash</TITLE>
+<TEXT>WILDER, Idaho - A 20-year-old city councilor who was one of the youngest people ever elected in Idaho, has died after being involved in a car accident. 
  
 Wilder City Councilor Ismael Fernandez died Friday in a collision in Canyon County, according to the Idaho Press-Tribune. 
  
-Fernandez was a 19-year-old freshman at the College of Idaho when he was elected in 2015 to the four-member Wilder City Council, the newspaper said. He decided to run for the council just three days before the election. His win made national headlines and placed him on the state&apos;s first all-Latino city council. 
+Fernandez was a 19-year-old freshman at the College of Idaho when he was elected in 2015 to the four-member Wilder City Council, the newspaper said. He decided to run for the council just three days before the election. His win made national headlines and placed him on the state's first all-Latino city council. 
  
 During his campaign, he went door-to-door with his grandmother, the paper said. 
  
-&quot;The lack of a youth voice leads to cynicism in politics,&quot; Fernandez said at the time. &quot;When you don&apos;t have that open-mindedness, that&apos;s what gets people disengaged with politics.&quot; 
+"The lack of a youth voice leads to cynicism in politics," Fernandez said at the time. "When you don't have that open-mindedness, that's what gets people disengaged with politics." 
  
 Fernandez got a start in politics as a teenager with a seat on the Juvenile Justice Commission. 
  
@@ -20,14 +23,5 @@ Wilder has about 1,500 residents and is located in southwestern Idaho near the O
  
 Fernandez was traveling west on Highway 19 when he crossed the center line and crashed into a truck hauling two trailers loaded with beets, the Idaho State Police said. 
  
-He was ejected from his car despite wearing a seat belt and died a short time later at Saint Alphonsus Regional Medical Center in Boise.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Local government news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204348867</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">Wilder city councilor dies in crash</TITLE> 
-</root>
+He was ejected from his car despite wearing a seat belt and died a short time later at Saint Alphonsus Regional Medical Center in Boise.</TEXT>
+</TimeML>

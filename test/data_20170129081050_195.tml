@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tweet on Twitter 
-     Govt focusses on entertainment industry&apos;s revival: Marriyum  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203419149</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Govt focusses on entertainment industrys revival: Marriyum</TITLE>
+<TEXT>Tweet on Twitter 
+     Govt focusses on entertainment industry's revival: Marriyum  
 ISLAMABAD, Jan 29 (APP): Minister of State for Information, 
 Broadcasting and National Heritage Marriyum Aurangzeb said the 
 government has decided to maintain the present policy regarding 
@@ -47,7 +50,7 @@ local production and broadcast industry in Pakistan.
 A complete review of the regional and global best practices 
 and models of the production and broadcast industry is being 
 conducted to replicate them in Pakistan, she addede. 
-For the purpose, the Ministry of IB&amp;NH has planned a 
+For the purpose, the Ministry of IB&NH has planned a 
 consultative meeting/sessions of the stakeholders with the 
 production and broadcast industry in the month of February 2017, 
 Marriyum Aurangzeb said. 
@@ -59,18 +62,5 @@ Films Exhibitors Association.
 Facebook 
   
 Twitter 
-      Previous article GSMA anticipates sound 3G, 4G growth in Pakistan till 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Pakistan news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203419149</DOCID> 
-<DCT type="str">2017-01-29T08:21:14Z</DCT> 
-<TITLE type="str">Govt focusses on entertainment industry’s revival: Marriyum</TITLE> 
-</root>
+      Previous article GSMA anticipates sound 3G, 4G growth in Pakistan till 2</TEXT>
+</TimeML>

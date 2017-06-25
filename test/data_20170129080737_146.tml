@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Historic Crests 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196228526</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Action (95.67 ft) - Observation - STNG1 - Alapaha River at Statenville (Georgia)</TITLE>
+<TEXT>Historic Crests 
 (1) 107.62 ft on 04/07/2009 
 (2) 105.90 ft on 04/06/1948 
 (3) 105.60 ft on 03/15/1998 
@@ -35,10 +38,5 @@ Low Water Records
 (3) 76.79 ft on 11/16/2007 
 (4) 76.97 ft on 10/23/2008 
 (5) 76.98 ft on 12/11/2010 
-Show More Low Water Records</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196228526</DOCID> 
-<DCT type="str">2017-01-29T07:22:34Z</DCT> 
-<TITLE type="str">Action (95.67 ft) - Observation - STNG1 - Alapaha River at Statenville (Georgia)</TITLE> 
-</root>
+Show More Low Water Records</TEXT>
+</TimeML>

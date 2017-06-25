@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">. He was born on February 19, 1918, in The Hauge, a city located on the western coast of the Netherlands.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202116707</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Feodor van den Dool</TITLE>
+<TEXT>. He was born on February 19, 1918, in The Hauge, a city located on the western coast of the Netherlands.
 
 Feodor is preceded in death by his parents Leendert Willem Coenraad and Betty Regine Oelrichs van den Dool; his wife and the love of his life, Gertrude, and his second wife, Alice van den Dool; two brothers Case and Lein and one sister, Betty.
 
@@ -12,9 +15,9 @@ Feodor is eternally grateful to Barbara Friend; neighbor, Antonio Perez, and mem
 
 Feodor was a lifelong member of the Southminster Presbyterian church in Tulsa and at the time of his passing, was the oldest living member of the church where his children were baptized.
 
-Feodor served in the Dutch military in the years leading up to World War II. When Nazi Germany occupied the Netherlands, Feodor led an &quot;underground&quot; resistance movement by providing the allies with vital information to help with the war effort.
+Feodor served in the Dutch military in the years leading up to World War II. When Nazi Germany occupied the Netherlands, Feodor led an "underground" resistance movement by providing the allies with vital information to help with the war effort.
 
-Feodor was a radio operator and actually built the radio he used to transmit information of the German activities to the allies. Remarkably, Feodor actually rode a stationary bike to generate power for the radio transmissions. Had Feodor&apos;s activities been discovered by the Germans, it would have meant certain death.
+Feodor was a radio operator and actually built the radio he used to transmit information of the German activities to the allies. Remarkably, Feodor actually rode a stationary bike to generate power for the radio transmissions. Had Feodor's activities been discovered by the Germans, it would have meant certain death.
 
 After the war, much of the Netherlands lie in ruins from the Nazi bombing campaigns; housing was limited, so Feodor and his new bride made a decision to start a new life and family in America.
 
@@ -24,14 +27,5 @@ On October 9, 1963, Feodor and his wife Gertrude, would become citizens of the U
 
 Feodor was an avid ham operator and member of the Broken Arrow Amateur Radio Club. During his life, he repaired and refurbished reel-to-reel recorders for radio stations all over the country. He also enjoyed camping and fishing, and always insisted on leaving the campground cleaner than he found it.
 
-A memorial service will be held on Tuesday, January 31, 2017, at 10:00 a.m., at the Memorial Park Cemetery Chapel. Moore&apos;s Southlawn 918-663-2233 share memories at www.moorefuneral.com</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202116707</DOCID> 
-<DCT type="str">2017-01-29T06:00:00Z</DCT> 
-<TITLE type="str">Feodor van den Dool</TITLE> 
-</root>
+A memorial service will be held on Tuesday, January 31, 2017, at 10:00 a.m., at the Memorial Park Cemetery Chapel. Moore's Southlawn 918-663-2233 share memories at www.moorefuneral.com</TEXT>
+</TimeML>

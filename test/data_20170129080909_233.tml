@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Cameroon players celebrate their win against Senegal in the ongoing Nations Cup, qualified for semis. /BBC  
-Liverpool&apos;s Sadio Mane missed the decisive spot kick as Cameroon beat Senegal 5-4 on penalties to reach the Africa Cup of Nations semi-finals. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199933993</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Mane misses penalty as Cameroon reaches semis in Nations Cup</TITLE>
+<TEXT>Cameroon players celebrate their win against Senegal in the ongoing Nations Cup, qualified for semis. /BBC  
+Liverpool's Sadio Mane missed the decisive spot kick as Cameroon beat Senegal 5-4 on penalties to reach the Africa Cup of Nations semi-finals. 
  
-Mane, Africa&apos;s most expensive player, was denied by Fabrice Ondoa, Vincent Aboubakar hitting the winning penalty. 
+Mane, Africa's most expensive player, was denied by Fabrice Ondoa, Vincent Aboubakar hitting the winning penalty. 
  
 Much fancied Senegal had a great chance to win it in normal time but Moussa Sow volleyed wide from close range to leave the game scoreless after 120 minutes. 
  
@@ -17,7 +20,7 @@ On that occasion, Cameroon beat Senegal 3-2 on penalties after a goalless 120 mi
  
 Senegal were made to pay for missing a number of chances in both normal time and extra time. 
  
-West Ham&apos;s Cheikhou Kouyate headed an early chance over the bar while Stoke City&apos;s Mame Biram Diouf was close with a lob from inside the area. 
+West Ham's Cheikhou Kouyate headed an early chance over the bar while Stoke City's Mame Biram Diouf was close with a lob from inside the area. 
  
 Cameroon, who will now face the Democratic Republic of Congo or Ghana on Thursday for a place in the final, failed to register a noteworthy shot in the opening hour. 
  
@@ -27,22 +30,5 @@ Diallo was responsible for ensuring the tie went to penalties after a fine stop 
  
 In the shootout, there was nothing to choose between the two teams as the first eight penalties went to plan. 
  
-At 4-4, Mane stepped forward but Ondoa saved his kick. That presented Aboubakar with a chance to seal victory and the Besiktas forward made no mistake.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Cameroon news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Senegal news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199933993</DOCID> 
-<DCT type="str">2017-01-29T07:18:15Z</DCT> 
-<TITLE type="str">Mane misses penalty as Cameroon reaches semis in Nations Cup</TITLE> 
-</root>
+At 4-4, Mane stepped forward but Ondoa saved his kick. That presented Aboubakar with a chance to seal victory and the Besiktas forward made no mistake.</TEXT>
+</TimeML>

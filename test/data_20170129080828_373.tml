@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Pineapple buns with cream, BBQ pork buns and grilled squid are among the delicacies hitting the road from Thursday when Hong Kong’s much awaited food truck project comes to fruition. Will it be a hit or a miss? 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198337706</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Food truck scheme set for launch at eight Hong Kong tourist spots</TITLE>
+<TEXT>Pineapple buns with cream, BBQ pork buns and grilled squid are among the delicacies hitting the road from Thursday when Hong Kongs much awaited food truck project comes to fruition. Will it be a hit or a miss? 
  
 What is it? 
  
@@ -18,7 +21,7 @@ Where can they be found?
  
 The food trucks are to operate on a rotating basis at eight locations popular with tourists: Golden Bauhinia Square in Wan Chai; Salisbury Garden and Art Square at Tsim Sha Tsui; the Central harbourfront; Ocean Park; Hong Kong Disneyland, the Energising Kowloon East harbourfront; and the square next to Wong Tai Sin Temple. 
  
-Food trucks coming to Hong Kong Disneyland and Ocean park — and six other prime spots 
+Food trucks coming to Hong Kong Disneyland and Ocean park  and six other prime spots 
  
 What they will be offering? 
  
@@ -36,24 +39,7 @@ Critics said smaller players could balk at the cost as the government estimated 
  
 
  
-There was also criticism the government’s red tape meant a lengthy process to win approval. Licences from several different government departments are needed to run a food truck. 
+There was also criticism the governments red tape meant a lengthy process to win approval. Licences from several different government departments are needed to run a food truck. 
  
-Others questioned the representation of food, with local snacks such as fish balls, wonton noodles and deep-fried bean curd left off the menus.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Hong Kong news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198337706</DOCID> 
-<DCT type="str">2017-01-29T07:35:29Z</DCT> 
-<TITLE type="str">Food truck scheme set for launch at eight Hong Kong tourist spots</TITLE> 
-</root>
+Others questioned the representation of food, with local snacks such as fish balls, wonton noodles and deep-fried bean curd left off the menus.</TEXT>
+</TimeML>

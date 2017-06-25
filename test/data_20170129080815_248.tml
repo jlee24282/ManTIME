@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Schematic model for the roles of GRA7 and GRA7-mediated regulatory pathways against intracellular pathogens such as Mycobacteria and T. gondii. Credit: Koh et al., Hanyang University, S. KOREA. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197510184</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Parasite protein could help inform new anti-tuberculosis strategies</TITLE>
+<TEXT>Schematic model for the roles of GRA7 and GRA7-mediated regulatory pathways against intracellular pathogens such as Mycobacteria and T. gondii. Credit: Koh et al., Hanyang University, S. KOREA. 
 
 Proteins produced by the parasite that causes toxoplasmosis may be involved in immune system processes that can help fight mycobacteria, according to a new study. The findings, published in PLOS Pathogens, suggest that these proteins could potentially play a role in new treatment strategies for tuberculosis. 
 
@@ -8,11 +11,11 @@ Tuberculosis infects millions worldwide and kills over two million people each y
 
 In the new study, Hyun-Jung Koh and colleagues at Hanyang University in South Korea suggest that proteins produced by a different pathogen, the parasite that causes the disease toxoplasmosis, could play a role in the development of host-directed tuberculosis therapies. 
 
-The scientists reported that mycobacteria-infected mice and human cell lines were treated with recombinant GRA7 to investigate the activity of GRA7 proteins, which are produced by the parasites after they infect a host cell. They found that a host protein called PKCα is essential for interactions between GRA7 and host proteins known as ASC and PLD1. 
+The scientists reported that mycobacteria-infected mice and human cell lines were treated with recombinant GRA7 to investigate the activity of GRA7 proteins, which are produced by the parasites after they infect a host cell. They found that a host protein called PKC is essential for interactions between GRA7 and host proteins known as ASC and PLD1. 
 
 These interactions are known to contribute to anti-tuberculosis defense mechanisms, suggesting the potential for development of GRA7-based host-directed tuberculosis therapies. However, this study was performed in mice and human cells, not in tuberculosis patients, and further research is needed to better understand the molecular role of GRA7 in humans. 
 
-More information: Koh H-J, Kim Y-R, Kim J-S, Yun J-S, Jang K, Yang C-S (2017) Toxoplasma gondii GRA7-Targeted ASC and PLD1 Promote Antibacterial Host Defense via PKCα. PLoS Pathog 13(1): e1006126. DOI: 10.1371/journal.ppat.1006126 
+More information: Koh H-J, Kim Y-R, Kim J-S, Yun J-S, Jang K, Yang C-S (2017) Toxoplasma gondii GRA7-Targeted ASC and PLD1 Promote Antibacterial Host Defense via PKC. PLoS Pathog 13(1): e1006126. DOI: 10.1371/journal.ppat.1006126 
 
 Provided by: Public Library of Science 
 
@@ -28,7 +31,7 @@ Scientists identify protein central to immune response against tuberculosis bact
 
 Jan 12, 2017 
 
-UT Southwestern Medical Center researchers have identified a protein that is central to the immune system&apos;s ability to recognize and destroy the bacterium responsible for the global tuberculosis (TB) epidemic.The new finding, ... 
+UT Southwestern Medical Center researchers have identified a protein that is central to the immune system's ability to recognize and destroy the bacterium responsible for the global tuberculosis (TB) epidemic.The new finding, ... 
 
 Toward an effective TB vaccine: Analysis of the immune response to a promising candidate 
 
@@ -46,10 +49,5 @@ How our immune system targets tuberculosis
 
 Dec 07, 2016 
 
-Every 18 seconds someone dies from tuberculosis (TB). It is the world&apos;s most deadly infectious disease.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695197510184</DOCID> 
-<DCT type="str">2017-01-29T07:38:11Z</DCT> 
-<TITLE type="str">Parasite protein could help inform new anti-tuberculosis strategies</TITLE> 
-</root>
+Every 18 seconds someone dies from tuberculosis (TB). It is the world's most deadly infectious disease.</TEXT>
+</TimeML>

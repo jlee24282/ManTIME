@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Bengaluru, Jan 29: We have previously given updates of the championship match results that will take place on this Sunday at the Royal Rumble PPV. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197226684</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>WWE Rumour: Major championship changes happening at the Royal Rumble PPV</TITLE>
+<TEXT>Bengaluru, Jan 29: We have previously given updates of the championship match results that will take place on this Sunday at the Royal Rumble PPV. 
  
 Since this is a dual brand PPV, both the prime titles from Raw and Smackdown will be on the line. 
   
@@ -14,7 +17,7 @@ Both the champions have picked up their title almost at the same time i.e. after
  
 According to the reports of Wrestling Observer Newsletter, both Owens and Styles are planned to drop their respective Universal and WWE championship at Royal Rumble. 
  
-Roman Reigns will win his first Universal title whereas this will mark John Cena’s 16th world title reign to tie the record of the legendary Ric Flair. 
+Roman Reigns will win his first Universal title whereas this will mark John Cenas 16th world title reign to tie the record of the legendary Ric Flair. 
  
 The reason behind the title changes is the beginning of the Wrestlemania season, tonight despite both the champs having a successful title reign. 
  
@@ -28,26 +31,9 @@ After losing the title, AJ Styles will most probably move on to have a feud with
  
 The seeds of the feud were already started planting after Styles cut a furious promo towards Shane after the return of the Elimination Chamber PPV was officially announced. 
  
-As for Owens, he will indulge in a much-awaited program with Chris Jericho. This one is speculated for a long time and we have seen the tease from WWE’s part for numerous times in recent past. This will finally happen at Wrestlemania. 
+As for Owens, he will indulge in a much-awaited program with Chris Jericho. This one is speculated for a long time and we have seen the tease from WWEs part for numerous times in recent past. This will finally happen at Wrestlemania. 
  
-Interestingly, both the champions will be barred from championship matches since the company thinks that they have not earned the right to feature in prime championship matches at Wrestlemania.  
+Interestingly, both the champions will be barred from championship matches since the company thinks that they have not earned the right to feature in prime championship matches at Wrestlemania. 
  
-OneIndia News</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Television industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Pay television industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197226684</DOCID> 
-<DCT type="str">2017-01-29T07:10:40Z</DCT> 
-<TITLE type="str">WWE Rumour: Major championship changes happening at the Royal Rumble PPV</TITLE> 
-</root>
+OneIndia News</TEXT>
+</TimeML>

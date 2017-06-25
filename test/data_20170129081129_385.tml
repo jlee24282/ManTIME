@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Greater SD Music Coterie Chamber Orchestra &amp; Chorus   
-The Greater San Diego Chamber Orchestra and Chorus will perform selections from Mendelssohn&apos;s &quot;Elijah&quot; and Copland&apos;s &quot;Old American Songs&quot; with Irene Marie Patton, soprano, and Frank Hallock, baritone.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: fine arts news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204973228</DOCID> 
-<DCT type="str">2017-01-29T08:33:16Z</DCT> 
-<TITLE type="str">Sun 1/29: Greater SD Music Coterie Chamber Orchestra &amp; Chorus</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204973228</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Greater SD Music Coterie Chamber Orchestra & Chorus</TITLE>
+<TEXT>Greater SD Music Coterie Chamber Orchestra & Chorus   
+The Greater San Diego Chamber Orchestra and Chorus will perform selections from Mendelssohn's "Elijah" and Copland's "Old American Songs" with Irene Marie Patton, soprano, and Frank Hallock, baritone.</TEXT>
+</TimeML>

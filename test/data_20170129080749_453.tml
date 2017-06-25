@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tours and Events 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196931916</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Greeley Senior Center news for Jan. 29</TITLE>
+<TEXT>Tours and Events 
  
-GRASP (Greeley Retiree Academic Study Program), 1:30-3:30 p.m. Monday. Open to members interested in informal academic learning. Each group will be led by member facilitators and participants are expected to contribute to the discussion. Discussion will be on “Refugees and Their Culture.” 
+GRASP (Greeley Retiree Academic Study Program), 1:30-3:30 p.m. Monday. Open to members interested in informal academic learning. Each group will be led by member facilitators and participants are expected to contribute to the discussion. Discussion will be on Refugees and Their Culture. 
  
 Centennial IKEA Visit, 9 a.m. Tuesday. Attendees will have time to roam the store and have lunch before returning home. Cost is $10 for members, and $15 for nonmembers. 
  
@@ -16,7 +19,7 @@ Rock and Mineral Society, 6 p.m. Thursday.
  
 Porcelain Art, 9-11 a.m. Feb. 6. All supplies must be purchased by participants. 
  
-Hammond’s Candy Factory Visit, 9 a.m. Feb. 9. Cost is $15 for members, $20 for nonmembers. See how candy is made and try some free samples at the oldest candy factory in the area. After the tour, a lunch stop will be at Cinzzetti’s, an Italian restaurant. 
+Hammonds Candy Factory Visit, 9 a.m. Feb. 9. Cost is $15 for members, $20 for nonmembers. See how candy is made and try some free samples at the oldest candy factory in the area. After the tour, a lunch stop will be at Cinzzettis, an Italian restaurant. 
  
 Bunco, 1 p.m. Feb. 10 and 24. 
  
@@ -42,16 +45,7 @@ Ceramics class, 1-3 p.m. Wednesday. Learn about greenware, paints, stains, glaze
  
 Other 
  
-Valentine’s Day is right around the corner — show off the love of your life in the February Display. Bring in your wedding photo, anniversary photo or your favorite photo of you and your significant other to display during the month. Bring in photos by Wednesday. 
+Valentines Day is right around the corner  show off the love of your life in the February Display. Bring in your wedding photo, anniversary photo or your favorite photo of you and your significant other to display during the month. Bring in photos by Wednesday. 
  
-You only need to be 50 years of age to join the Greeley Senior Activity Center. Annual membership cost is $22 for Greeley residents and $24 for nonresidents. For more information about the Greeley Senior Center, call (970) 350-944</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196931916</DOCID> 
-<DCT type="str">2017-01-29T07:21:01Z</DCT> 
-<TITLE type="str">Greeley Senior Center news for Jan. 29</TITLE> 
-</root>
+You only need to be 50 years of age to join the Greeley Senior Activity Center. Annual membership cost is $22 for Greeley residents and $24 for nonresidents. For more information about the Greeley Senior Center, call (970) 350-944</TEXT>
+</TimeML>

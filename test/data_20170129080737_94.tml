@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">HERSHEY — The Zac Brown Band will be returning at Hersheypark Stadium on Sunday, Sept. 3 at 7 p.m. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196174546</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Zac Brown Band returning to Hersheypark</TITLE>
+<TEXT>HERSHEY  The Zac Brown Band will be returning at Hersheypark Stadium on Sunday, Sept. 3 at 7 p.m. 
  
 Tickets for this show are available at Giant Center Box Office. They can be charged by phone at 717-534-3911 or 800-745-3000, and online at www.HersheyEntertainment.com or www.TicketMaster.com . 
  
-Three-time Grammy winners and multi-platinum artists Zac Brown Band have become one of music’s most heralded acts. Their latest platinum-certified album ‘Jekyll + Hyde,’ out now on Southern Ground Artists/John Varvatos Records/Big Machine Label Group/Republic Records, marks the band’s third consecutive No. 1 debut on the Billboard 200 chart. 
+Three-time Grammy winners and multi-platinum artists Zac Brown Band have become one of musics most heralded acts. Their latest platinum-certified album Jekyll + Hyde, out now on Southern Ground Artists/John Varvatos Records/Big Machine Label Group/Republic Records, marks the bands third consecutive No. 1 debut on the Billboard 200 chart. 
  
-Zac Brown Band is: Zac Brown (vocals/guitar), Jimmy De Martini (vocals/violin/guitar), John Driskell Hopkins (vocals/guitar/banjo/ukulele), Coy Bowles (vocals/keys/guitar), Clay Cook (vocals/guitar/keys), Chris Fryar (drums), Daniel de los Reyes (percussion) and Matt Mangano (bass).</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196174546</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">Zac Brown Band returning to Hersheypark</TITLE> 
-</root>
+Zac Brown Band is: Zac Brown (vocals/guitar), Jimmy De Martini (vocals/violin/guitar), John Driskell Hopkins (vocals/guitar/banjo/ukulele), Coy Bowles (vocals/keys/guitar), Clay Cook (vocals/guitar/keys), Chris Fryar (drums), Daniel de los Reyes (percussion) and Matt Mangano (bass).</TEXT>
+</TimeML>

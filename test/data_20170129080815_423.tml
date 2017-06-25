@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Washington state Attorney General Bob Ferguson today issued the following statement: 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197759470</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>AG Ferguson Statement on Federal Executive Order on Immigration</TITLE>
+<TEXT>Washington state Attorney General Bob Ferguson today issued the following statement: 
  
-&quot;The President&apos;s executive order on immigration is un-American and unconstitutional. 
+"The President's executive order on immigration is un-American and unconstitutional. 
  
-&quot;My team and I are working this weekend to explore our options to oppose this illegal action. 
+"My team and I are working this weekend to explore our options to oppose this illegal action. 
  
-&quot;The rule of law applies to everyone — including President Trump — and I will use the authority of my office to hold him accountable to it.&quot; 
+"The rule of law applies to everyone  including President Trump  and I will use the authority of my office to hold him accountable to it." 
  
 -30- 
  
@@ -14,18 +17,5 @@ The Office of the Attorney General is the chief legal office for the state of Wa
  
 Contact: 
  
-Peter Lavallee, Communications Director, (360) 586-0725; PeterL@atg.wa.gov</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US Federal Government news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197759470</DOCID> 
-<DCT type="str">2017-01-29T02:04:07Z</DCT> 
-<TITLE type="str">AG Ferguson Statement on Federal Executive Order on Immigration</TITLE> 
-</root>
+Peter Lavallee, Communications Director, (360) 586-0725; PeterL@atg.wa.gov</TEXT>
+</TimeML>

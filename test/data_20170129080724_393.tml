@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jan Dhan accounts have witnessed net withdrawal of Rs 5,582.83 crore since December 7, the day deposits in these accounts soared to all time high in the backdrop of demonetisation. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195936566</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Rs 5K cr withdrawn from Jan Dhan a/cs in a mnth post note ban</TITLE>
+<TEXT>Jan Dhan accounts have witnessed net withdrawal of Rs 5,582.83 crore since December 7, the day deposits in these accounts soared to all time high in the backdrop of demonetisation. 
  
 Total deposits had increased to a record high of Rs 74,610 crore on December 7 and thereafter, it started gradual decline to close at Rs 69,027.17 crore on January 11, according to the latest Finance Ministry data. 
  
@@ -18,10 +21,5 @@ Meanwhile, the number of Aadhaar seeded Jan Dhan accounts have increased to 15.3
  
 The Pradhan Mantri Jan Dhan Yojana was launched in August 2014 to increase banking penetration and promote financial inclusion in the country. 
  
-(This article has not been edited by DNA&apos;s editorial team and is auto-generated from an agency feed.)</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695195936566</DOCID> 
-<DCT type="str">2017-01-29T07:20:02Z</DCT> 
-<TITLE type="str">Rs 5K cr withdrawn from Jan Dhan a/cs in a mnth post note ban</TITLE> 
-</root>
+(This article has not been edited by DNA's editorial team and is auto-generated from an agency feed.)</TEXT>
+</TimeML>

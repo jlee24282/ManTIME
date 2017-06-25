@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mike Miller couldn&apos;t fault his teams&apos; effort in either of its games this week. Even so, Janesville Craig&apos;s hopes of winning its... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196372413</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Middleton beats Craig in final minutes</TITLE>
+<TEXT>Mike Miller couldn't fault his teams' effort in either of its games this week. Even so, Janesville Craig's hopes of winning its... 
   
 Thank you for visiting. 
  
@@ -14,14 +17,5 @@ Not signed up yet? View Membership Options
  
 No thank you 
   
-TO READ THIS ARTICLE, please Sign In or Sign up .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196372413</DOCID> 
-<DCT type="str">2017-01-29T07:29:01Z</DCT> 
-<TITLE type="str">Middleton beats Craig in final minutes</TITLE> 
-</root>
+TO READ THIS ARTICLE, please Sign In or Sign up .</TEXT>
+</TimeML>

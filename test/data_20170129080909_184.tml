@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Feb 1 : Practical Nurse Program Info Session 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199842328</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Pancake breakfast @ Seniors Drop in Center</TITLE>
+<TEXT>Feb 1 : Practical Nurse Program Info Session 
 
 Feb 2 : Open Crib Night 
 
@@ -14,14 +17,5 @@ Feb 3 : PUBSTUMPERS Season 11 Starts
 
 Feb 4 : Meat Draw and 50/50 draw 
 
-Feb 5 : All Saints Anglican Church Community Hymn Sing “Plus”</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Lifestyle</group> 
-<name type="str">Consumer: seniors news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199842328</DOCID> 
-<DCT type="str">2017-01-29T07:55:01Z</DCT> 
-<TITLE type="str">Pancake breakfast @ Seniors Drop in Center</TITLE> 
-</root>
+Feb 5 : All Saints Anglican Church Community Hymn Sing Plus</TEXT>
+</TimeML>

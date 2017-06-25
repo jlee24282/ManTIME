@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Source: Taran’s Free Jazz Hour . 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201601282</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Tarans Free Jazz Hour Podcast 04/2017</TITLE>
+<TEXT>Source: Tarans Free Jazz Hour . 
   
 Fmr 
 in Layers: Onno Gogvaert, Dr/ Marcelo Dos Reis, G/ Luis Vincente, Tpt/ Kristjan Martinsson, P 
@@ -28,21 +31,12 @@ Maddalena Ghezzi
 Fuwah: Maddalena Ghezzi, Vo/ Luca Pissavini, B 
  
 Plumes 
-Plumes Quartet: Pierrick Menuau, Ts: Nicolas Rousserie, G/ Cédric Piromalli, Oargan/ Arnaud Lechantre, Dr 
+Plumes Quartet: Pierrick Menuau, Ts: Nicolas Rousserie, G/ Cdric Piromalli, Oargan/ Arnaud Lechantre, Dr 
  
 Adam Schneit 
 Light Shines in: Adam Schneit, Ts, Cl/ Sean Moran (Guitar), Eivind Opvik (Bass), and Kenny Wollesen (Drums) 
  
 Cipsela 
 Flowers: Joe Mcphee , Also Sax 
-       Share this:    Like this:  Like  Loading...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201601282</DOCID> 
-<DCT type="str">2017-01-29T06:14:54Z</DCT> 
-<TITLE type="str">Taran’s Free Jazz Hour Podcast 04/2017</TITLE> 
-</root>
+       Share this:    Like this:  Like  Loading...</TEXT>
+</TimeML>

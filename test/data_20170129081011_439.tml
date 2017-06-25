@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Nick Selbe  of Graphiq  |   Bing Predicts: Africa Cup of Nations   
-In 1957, three nations competed in the first-ever Africa Cup of Nations: Egypt, Sudan and Ethiopia. The Egyptians defeated Ethiopia, 4-0, in that year&apos;s final, with Ad-Diba scoring all four goals. Sixty years later, 16 teams were selected to participate for the continent&apos;s highest honor. After play finished on Jan. 25, the field has been trimmed to eight, with the knockout stage set to begin on Saturday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202453034</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bing predicts: Africa Cup of Nations</TITLE>
+<TEXT>By Nick Selbe  of Graphiq  |   Bing Predicts: Africa Cup of Nations   
+In 1957, three nations competed in the first-ever Africa Cup of Nations: Egypt, Sudan and Ethiopia. The Egyptians defeated Ethiopia, 4-0, in that year's final, with Ad-Diba scoring all four goals. Sixty years later, 16 teams were selected to participate for the continent's highest honor. After play finished on Jan. 25, the field has been trimmed to eight, with the knockout stage set to begin on Saturday. 
  
-As fans anticipate the start of these win-or-go-home matches, PointAfter , a sports data site powered by Graphiq , used data from Bing Predicts to analyze every remaining match and predict each winner. Bing Predicts uses web activity and social sentiment — in addition to historical player, team and match stats — to predict the outcome of soccer matches. Web and social data allow Bing Predicts to capture real-time information about lineup changes and reaction to them to tune the strengths of teams . 
+As fans anticipate the start of these win-or-go-home matches, PointAfter , a sports data site powered by Graphiq , used data from Bing Predicts to analyze every remaining match and predict each winner. Bing Predicts uses web activity and social sentiment  in addition to historical player, team and match stats  to predict the outcome of soccer matches. Web and social data allow Bing Predicts to capture real-time information about lineup changes and reaction to them to tune the strengths of teams . 
  
-Egypt, who has won more titles (seven) than any other nation, again appears to be the team to beat, though the path to glory won&apos;t be easy. This year&apos;s quarterfinals begin on Saturday, with Tunisia taking on Burkina Faso and Cameroon facing Senegal. 
+Egypt, who has won more titles (seven) than any other nation, again appears to be the team to beat, though the path to glory won't be easy. This year's quarterfinals begin on Saturday, with Tunisia taking on Burkina Faso and Cameroon facing Senegal. 
  
-In each match prediction, Bing assigns percentage amount signifying its level of confidence in each pick — the higher the percentage, the more confident Bing is in picking the winner. We&apos;ll run through each match, from the closest match to the most lopsided — until we have the entire tournament on the record ahead of the final on Feb. 5, which will be played at Stade d&apos;Angondjé in Libreville, Gabon. 
+In each match prediction, Bing assigns percentage amount signifying its level of confidence in each pick  the higher the percentage, the more confident Bing is in picking the winner. We'll run through each match, from the closest match to the most lopsided  until we have the entire tournament on the record ahead of the final on Feb. 5, which will be played at Stade d'Angondj in Libreville, Gabon. 
  
 Note: All kickoff times are displayed in local time. 
-  © Justin Tallis/</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202453034</DOCID> 
-<DCT type="str">2017-01-29T08:13:58Z</DCT> 
-<TITLE type="str">Bing predicts: Africa Cup of Nations</TITLE> 
-</root>
+  Justin Tallis/</TEXT>
+</TimeML>

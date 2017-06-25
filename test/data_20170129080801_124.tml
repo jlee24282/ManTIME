@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Dave Del Grande, The Sports Xchange OAKLAND, Calif. -- Golden State Warriors All-Star guard Stephen Curry took time at halftime to reflect on something his college coach once told him.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: NBA - Golden State Warriors news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: NBA - Los Angeles Clippers news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197029934</DOCID> 
-<DCT type="str">2017-01-29T07:34:19Z</DCT> 
-<TITLE type="str">Stephen Curry explodes for 45 as Golden State Warriors annihilate Los Angeles Clippers</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197029934</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Stephen Curry explodes for 45 as Golden State Warriors annihilate Los Angeles Clippers</TITLE>
+<TEXT>By Dave Del Grande, The Sports Xchange OAKLAND, Calif. -- Golden State Warriors All-Star guard Stephen Curry took time at halftime to reflect on something his college coach once told him.</TEXT>
+</TimeML>

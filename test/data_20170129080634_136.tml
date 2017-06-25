@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Would you like to receive the following exclusive updates &amp; privileges: 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193945477</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>A Time for Queens</TITLE>
+<TEXT>Would you like to receive the following exclusive updates & privileges: 
  
 What best describes you and your interests: 
  
@@ -19,10 +22,5 @@ Seniority:
 Monthy Income: 
  
  
-Submit</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695193945477</DOCID> 
-<DCT type="str">2017-01-29T07:12:06Z</DCT> 
-<TITLE type="str">A Time for Queens</TITLE> 
-</root>
+Submit</TEXT>
+</TimeML>

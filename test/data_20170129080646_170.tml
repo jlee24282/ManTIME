@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">President Donald Trump and British Prime Minister Theresa May didn’t hold the only meeting between representatives of the two nations this month. A group of British scientists came to the University of Arizona Maricopa Agricultural Center to share ideas and techniques in a field called phenomics, studying how an organism’s traits change due to environment. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194368893</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Science for more food</TITLE>
+<TEXT>President Donald Trump and British Prime Minister Theresa May didnt hold the only meeting between representatives of the two nations this month. A group of British scientists came to the University of Arizona Maricopa Agricultural Center to share ideas and techniques in a field called phenomics, studying how an organisms traits change due to environment. 
  
 Their goal is basically to modify plants so that crops can have higher yields to feed a growing world population. Contrary to the extreme view that modification of plants is harmful, the scientists are doing that to make things better. 
  
 The MAC site was a great place to meet because it has a robot that scans crops to obtain phenotype data in a fraction of the time that was required for scientists to walk through fields and do it by hand. That allows conclusions that can be used much more rapidly. The British and UA scientists were joined by representatives of the U.S. Agriculture and Energy departments. 
  
-The world needs such cooperative efforts, and Maricopa was a fine place to pursue that.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194368893</DOCID> 
-<DCT type="str">2017-01-29T06:45:00Z</DCT> 
-<TITLE type="str">Science for more food</TITLE> 
-</root>
+The world needs such cooperative efforts, and Maricopa was a fine place to pursue that.</TEXT>
+</TimeML>

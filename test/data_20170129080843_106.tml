@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mandana Karimi loathes Bigg Boss 10 finalist Lopamudra Raut and her Twitter is proof enough.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198593919</DOCID> 
-<DCT type="str">2017-01-29T07:42:04Z</DCT> 
-<TITLE type="str">Bigg Boss 10: Mandana Karimi HATES Lopamudra Raut and here’s proof</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198593919</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bigg Boss 10: Mandana Karimi HATES Lopamudra Raut and heres proof</TITLE>
+<TEXT>Mandana Karimi loathes Bigg Boss 10 finalist Lopamudra Raut and her Twitter is proof enough.</TEXT>
+</TimeML>

@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A MASSIVE mystery space rock is on collision course with Earth, according to crackpot theorists.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Tech latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Natural disasters news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Space science news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202490731</DOCID> 
-<DCT type="str">2017-01-29T08:14:13Z</DCT> 
-<TITLE type="str">Asteroid could trigger mega-tsunami</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202490731</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Asteroid could trigger mega-tsunami</TITLE>
+<TEXT>A MASSIVE mystery space rock is on collision course with Earth, according to crackpot theorists.</TEXT>
+</TimeML>

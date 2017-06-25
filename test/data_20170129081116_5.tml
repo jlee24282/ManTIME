@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Ryanair Holdings plc
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204206373</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Ryanair-Holdings-PLC.pdf</TITLE>
+<TEXT>Ryanair Holdings plc
 
 Company Profile
 Publication Date: 11 Jan 2008
@@ -19,7 +22,7 @@ London NW3 5JJ
 United Kingdom
 
 Datamonitor Germany
-Kastor &amp; Pollux
+Kastor & Pollux
 Platz der Einheit 1
 60327 Frankfurt
 Deutschland
@@ -35,10 +38,5 @@ f:+1 212 686 2626
 e:usinfo@datamonitor.com
 
 t:+44 20 7675 7000
-f:+44 2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204206373</DOCID> 
-<DCT type="str">2017-01-29T07:43:22Z</DCT> 
-<TITLE type="str">Ryanair-Holdings-PLC.pdf</TITLE> 
-</root>
+f:+44 2</TEXT>
+</TimeML>

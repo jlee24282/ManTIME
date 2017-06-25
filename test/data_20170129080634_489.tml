@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Bollywood director was attacked on set by members of an extremist group and his set destroyed
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194220871</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sanjay Leela Bhansali cancels Padmavati shoot, issues statement</TITLE>
+<TEXT>Bollywood director was attacked on set by members of an extremist group and his set destroyed
 
-read more</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194220871</DOCID> 
-<DCT type="str">2017-01-29T07:13:53Z</DCT> 
-<TITLE type="str">Sanjay Leela Bhansali cancels ‘Padmavati’ shoot, issues statement</TITLE> 
-</root>
+read more</TEXT>
+</TimeML>

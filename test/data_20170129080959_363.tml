@@ -1,44 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">US President Donald Trump will hold telephone talks Saturday with Russian President Vladimir Putin , French President Francois Hollande and German Chancellor Angela Merkel , the White House said on Friday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201941350</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump Schedules Saturday Talks with Putin, Merkel</TITLE>
+<TEXT>US President Donald Trump will hold telephone talks Saturday with Russian President Vladimir Putin , French President Francois Hollande and German Chancellor Angela Merkel , the White House said on Friday. 
  
 The Trump-Putin call will be their first official contact since the Republican took office a week ago. 
  
 
-The pair spoke by telephone in November, shortly after Trump’s election victory. 
+The pair spoke by telephone in November, shortly after Trumps election victory. 
  
-Each leader has said they would like to forge better relations between their two countries. In a press conference on Friday, broadcast on CNN, Trump said, “I hope we have a fantastic relationship… that’s possible.” 
+Each leader has said they would like to forge better relations between their two countries. In a press conference on Friday, broadcast on CNN, Trump said, I hope we have a fantastic relationship thats possible. 
  
-Trump expressed a hope that the two countries will cooperate in the fight to eradicate ISIS. “If we go after ISIS together, which has to be stopped, its an evil which has to be stopped… I will consider that a good thing.” 
+Trump expressed a hope that the two countries will cooperate in the fight to eradicate ISIS. If we go after ISIS together, which has to be stopped, its an evil which has to be stopped I will consider that a good thing. 
  
-On Friday, Trump welcomed British Prime Minister Theresa May at the White House as the first world leader to visit during his tenure. They discussed post-Brexit trade ties and injecting new momentum into the “special relationship” between the United States and Britain. 
+On Friday, Trump welcomed British Prime Minister Theresa May at the White House as the first world leader to visit during his tenure. They discussed post-Brexit trade ties and injecting new momentum into the special relationship between the United States and Britain. 
  
- During a joint press conference, also aired on CNN, Trump praised the U.K.’s departure from the European Union saying, “Brexit is going to be a wonderful thing for your country.” He also affirmed the importance of NATO saying he was “100% behind NATO.” 
+During a joint press conference, also aired on CNN, Trump praised the U.K.s departure from the European Union saying, Brexit is going to be a wonderful thing for your country. He also affirmed the importance of NATO saying he was 100% behind NATO. 
  
 As for Merkel and Hollande, the two leaders have not made their concern regarding Trump a secret, presenting a possible challenge for future relations between the countries and the U.S. under Trump. 
  
-Hollande travelled to Germany this week and, together, he and Merkel called for EU unity over Trump and Brexit. According to Euronews, Merkel spoke of the new economic challenges facing the EU in terms of defending “free trade” and a “free society.” She also stressed the importance of recognizing that “the world changes radically and quickly.” 
+Hollande travelled to Germany this week and, together, he and Merkel called for EU unity over Trump and Brexit. According to Euronews, Merkel spoke of the new economic challenges facing the EU in terms of defending free trade and a free society. She also stressed the importance of recognizing that the world changes radically and quickly. 
  
-Source :Morocco World News</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Russia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Europe news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Germany news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201941350</DOCID> 
-<DCT type="str">2017-01-29T08:10:00Z</DCT> 
-<TITLE type="str">Trump Schedules Saturday Talks with Putin, Merkel…</TITLE> 
-</root>
+Source :Morocco World News</TEXT>
+</TimeML>

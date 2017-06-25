@@ -1,43 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Frampton won the WBA featherweight title against Santa Cruz in July last year but lost his unbeaten record in the rematch.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200690951</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Carl Frampton wants Leo Santa Cruz rematch in Belfast after Las Vegas title defeat</TITLE>
+<TEXT>Frampton won the WBA featherweight title against Santa Cruz in July last year but lost his unbeaten record in the rematch.
 
 And in the wake of his first career defeat, the Northern Irishman revealed he wanted to settle the score with his Mexican rival back at home.
 
-&quot;We will have to do it again,&quot; Frampton said.
+"We will have to do it again," Frampton said.
 
-&quot;We have to do it again.
+"We have to do it again.
 
-“He was very clever and he used his reach. I think he deserved it. I’m being honest.
+He was very clever and he used his reach. I think he deserved it. Im being honest.
 
-&quot;I think he deserved it. But it was a very good fight.
+"I think he deserved it. But it was a very good fight.
 
-&quot;I think I can perform slightly better. No excuses.
+"I think I can perform slightly better. No excuses.
 
-“Let’s do it again. I hope he’s a man of...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Las Vegas news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Ireland news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Northern Ireland news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">UK news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200690951</DOCID> 
-<DCT type="str">2017-01-29T08:01:28Z</DCT> 
-<TITLE type="str">Carl Frampton wants Leo Santa Cruz rematch in Belfast after Las Vegas title defeat</TITLE> 
-</root>
+Lets do it again. I hope hes a man of...</TEXT>
+</TimeML>

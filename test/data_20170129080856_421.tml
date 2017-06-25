@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Valdevino Miguel da Silva (pictured, left) and his wife Maria (right) show off their new home. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199589628</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Brazilian man builds upside down house</TITLE>
+<TEXT>Valdevino Miguel da Silva (pictured, left) and his wife Maria (right) show off their new home. 
  
 A retired builder has constructed a completely upside down house in southeastern Brazil. 
  
@@ -10,14 +13,5 @@ The house, with its roof at the bottom and a garden at the top, has already beco
  
 
  
-While the outside of the house is totally bizarre, the inside is perfectly normal. There is a kitchen and a bathroom on the ground floor while there are two bedrooms upstairs. The entrance door of the 400-square-meter house is behind the house, on the ground floor.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">South America news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199589628</DOCID> 
-<DCT type="str">2017-01-29T07:52:36Z</DCT> 
-<TITLE type="str">Brazilian man builds upside down house</TITLE> 
-</root>
+While the outside of the house is totally bizarre, the inside is perfectly normal. There is a kitchen and a bathroom on the ground floor while there are two bedrooms upstairs. The entrance door of the 400-square-meter house is behind the house, on the ground floor.</TEXT>
+</TimeML>

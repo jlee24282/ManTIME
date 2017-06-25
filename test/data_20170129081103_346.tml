@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">29/01/2017  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204048901</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Fruit and nut salad with chilli and lime</TITLE>
+<TEXT>29/01/2017  
 Whip up this fruit and nut salad for a quick, healthy vegetarian dish. 
  
-This vegetarian fruit and nut salad with chilli and lime is a vibrant, crunchy dish that’s good for a starter. Or just double up on the portion size for a zingy lunch that will leave your tummy feeling very happy. 
+This vegetarian fruit and nut salad with chilli and lime is a vibrant, crunchy dish thats good for a starter. Or just double up on the portion size for a zingy lunch that will leave your tummy feeling very happy. 
  
-  Ingredients (serves 4) 
+ Ingredients (serves 4) 
  
 For the dressing: 
  
@@ -13,13 +16,13 @@ For the dressing:
  
 1tbsp sweet chilli sauce 
  
-½tsp soy sauce (gluten-free soy sauce is available in most supermarkets) 
+tsp soy sauce (gluten-free soy sauce is available in most supermarkets) 
  
 1 lime, juiced 
  
- For the salad: 
+For the salad: 
  
-100g of your favourite salad leaves (we like lamb’s lettuce, rocket or chicory) 
+100g of your favourite salad leaves (we like lambs lettuce, rocket or chicory) 
  
 160g Cauldron marinated tofu pieces 
  
@@ -29,15 +32,15 @@ For the dressing:
  
 1 carrot, cut into ribbons or fine strips 
  
-¼ red onion, sliced very thinly 
+ red onion, sliced very thinly 
  
-½ cucumber, halved length ways, watery centre discarded, peeled into ribbons 
+ cucumber, halved length ways, watery centre discarded, peeled into ribbons 
  
 50g mixed seeds (such as pumpkin or sunflower) 
  
 50g mixed nuts (such as cashews or peanuts), roughly chopped 
  
- To garnish: 
+To garnish: 
  
 A few fresh coriander leaves, roughly chopped 
  
@@ -45,11 +48,11 @@ Method
  
 To make the salad dressing, combine all the ingredients in a bowl and whisk together using a fork. Whisk again just before serving. 
  
- To serve, divide the leaves between four plates, top with the tofu and add the rest of the salad ingredients, finishing with the seeds and nuts. 
+To serve, divide the leaves between four plates, top with the tofu and add the rest of the salad ingredients, finishing with the seeds and nuts. 
  
 Just before serving, drizzle a little dressing over each salad and scatter with the coriander. 
  
- Recipe courtesy of The Vegetarian Society 
+Recipe courtesy of The Vegetarian Society 
   Did you enjoy this recipe? Please rate it     
 Recipe Fruit and nut salad with chilli and lime 
  
@@ -59,14 +62,5 @@ Published On
  
 2017-01-29 
  
-Rating</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Lifestyle</group> 
-<name type="str">Consumer: recipes</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204048901</DOCID> 
-<DCT type="str">2017-01-29T07:00:11Z</DCT> 
-<TITLE type="str">Fruit and nut salad with chilli and lime</TITLE> 
-</root>
+Rating</TEXT>
+</TimeML>

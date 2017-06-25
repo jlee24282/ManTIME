@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tarek Mahmud, DMCH Correspondent 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200739550</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Woman found dead in Gulshan</TITLE>
+<TEXT>Tarek Mahmud, DMCH Correspondent 
 
-A woman’s dead body was found in Gulshan 2 area of the capital yesterday. 
+A womans dead body was found in Gulshan 2 area of the capital yesterday. 
 
 Rani, 35, was found lying dead in a pool of blood on Road 43 around midnight Friday, Dhaka Metropolitan Police Assistant Commissioner (Gulshan Zone) Rafiqul Islam told the Dhaka Tribune. 
 
@@ -22,10 +25,5 @@ The sisters were originally from Jaflong, Sylhet.
 
 SI Faruk of the Gulshan Police said the body was brought to DMC around 12:45am yesterday. 
 
-“It looked like there was a road accident. There was a lot of blood,” he said.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200739550</DOCID> 
-<DCT type="str">2017-01-29T08:01:54Z</DCT> 
-<TITLE type="str">Woman found dead in Gulshan</TITLE> 
-</root>
+It looked like there was a road accident. There was a lot of blood, he said.</TEXT>
+</TimeML>

@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">LENEXA, Kan. — Bernice N. Swisher, 105, of Lenexa, Kan., died Wednesday, Jan. 25, 2017, at the Olathe Hospice House in Olathe, Kan.Graveside service will be 11 a.m. Saturday at Mountain View Cemetery in Hackett. </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199284312</DOCID> 
-<DCT type="str">2017-01-29T05:01:00Z</DCT> 
-<TITLE type="str">Bernice Swisher</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199284312</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bernice Swisher</TITLE>
+<TEXT>LENEXA, Kan.  Bernice N. Swisher,105, of Lenexa, Kan., diedWednesday, Jan. 25, 2017, atthe Olathe Hospice House in Olathe, Kan.Gravesideservice will be 11 a.m.Saturday atMountain View Cemetery inHackett.</TEXT>
+</TimeML>

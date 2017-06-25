@@ -1,39 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Join the Goethe-Zentrum for their latest lecture in our “A Note on Opera” series as we look at “A German in Paris: Giacomo Meyerbeer and Grand Opéra.” 
-Giacomo Meyerbeer, born Jakob Liebmann Beer in Berlin in 1791, was a Jewish expatriate who immigrated to France, eventually becoming the dominant musical presence in the French capital for much of the 19th-century. He developed the genre of grand opéra to its full scope, with its epic tone, sweeping historical narrative, huge casts, ballet, and special effects – including ice-skating on stage! 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202142663</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>A Note on Opera:  A German in Paris: Giacomo Meyerbeer and Grand Opra</TITLE>
+<TEXT>Join the Goethe-Zentrum for their latest lecture in our A Note on Opera series as we look at A German in Paris: Giacomo Meyerbeer and Grand Opra. 
+Giacomo Meyerbeer, born Jakob Liebmann Beer in Berlin in 1791, was a Jewish expatriate who immigrated to France, eventually becoming the dominant musical presence in the French capital for much of the 19th-century. He developed the genre of grand opra to its full scope, with its epic tone, sweeping historical narrative, huge casts, ballet, and special effects  including ice-skating on stage! 
  
-His works have never completely gone into obscurity and are now slowly being revived. Regardless of how one finds this “Andrew Lloyd Webber” of French opera, his influence is palpable in works by later composers as diverse as Richard Wagner, Giuseppe Verdi, and Modest Mussorgsky. 
+His works have never completely gone into obscurity and are now slowly being revived. Regardless of how one finds this Andrew Lloyd Webber of French opera, his influence is palpable in works by later composers as diverse as Richard Wagner, Giuseppe Verdi, and Modest Mussorgsky. 
  
-They’ll be looking at Meyerbeer’s life as a Jewish composer living in early 19th-century Germany and then his later life as the “Toast of Paris,” defining exactly what is grand opéra and how it evolved by examining bits of Meyerbeer’s “Les Huguenots” and “Le prophète.” Meyerbeer’s influence on other opera traditions will also be illustrated. 
+Theyll be looking at Meyerbeers life as a Jewish composer living in early 19th-century Germany and then his later life as the Toast of Paris, defining exactly what is grand opra and how it evolved by examining bits of Meyerbeers Les Huguenots and Le prophte. Meyerbeers influence on other opera traditions will also be illustrated. 
  
 Course to be taught in English by David Kerr. No pre-existing knowledge of music required. 
  
 Admission: $15.00 for members, $25.00 non-members. 
-Please use the link to register in advance for this event.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: fine arts news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">France news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Paris news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Germany news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202142663</DOCID> 
-<DCT type="str">2017-01-29T08:11:35Z</DCT> 
-<TITLE type="str">A Note on Opera:  “A German in Paris: Giacomo Meyerbeer and Grand Opéra”</TITLE> 
-</root>
+Please use the link to register in advance for this event.</TEXT>
+</TimeML>

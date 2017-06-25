@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">After a dry Northeast Monsoon, rains have finally showed up in both the states of Tamil Nadu and Kerala in the last couple of days thereby eliminating the prolonged dry spell. So much so that many parts of the states have ended up recording heavy rains as well. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197368741</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Light rains to continue over Tamil Nadu, Kerala</TITLE>
+<TEXT>After a dry Northeast Monsoon, rains have finally showed up in both the states of Tamil Nadu and Kerala in the last couple of days thereby eliminating the prolonged dry spell. So much so that many parts of the states have ended up recording heavy rains as well. 
  
 In a span of 24 hours from 08:30 am on Saturday, Pamban witnessed a whopping of 131 mm of rainfall, followed by Coonoor that recorded 80 mm. Likewise, Coimbatore witnessed 16 mm, Kodaikanal 14 mm, Periakulum 14 mm, Alapuzha 21 mm and Kottayam 17 mm of rainfall. 
  
@@ -11,18 +14,5 @@ According to Skymet Weather, in the next 24 hours this rain activity is likely t
 The weather is expected to remain pleasant over all these areas. This can be labelled as the last rainy spell in the month of January for both the states. 
  
 Image Credit: pinterest.com 
-  You may also like</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197368741</DOCID> 
-<DCT type="str">2017-01-29T07:36:47Z</DCT> 
-<TITLE type="str">Light rains to continue over Tamil Nadu, Kerala</TITLE> 
-</root>
+  You may also like</TEXT>
+</TimeML>

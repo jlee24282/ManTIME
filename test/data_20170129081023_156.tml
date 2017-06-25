@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">SORT BY  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202587976</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>10 insanely stunning Miss Universe costumes that we cant stop looking at</TITLE>
+<TEXT>SORT BY  
  
 CATEGORIES  
  
@@ -8,14 +11,5 @@ LANGUAGES
  
 MEDIA  
  
-TIME</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202587976</DOCID> 
-<DCT type="str">2017-01-29T08:14:51Z</DCT> 
-<TITLE type="str">10 insanely stunning Miss Universe costumes that we can’t stop looking at</TITLE> 
-</root>
+TIME</TEXT>
+</TimeML>

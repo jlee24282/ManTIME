@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">SAN FRANCISCO: Alphabet Inc’s Google delivered a sharp message to staff travelling overseas who may be impacted by a new executive order on immigration from President Donald Trump: Get back to the US now. Google CEO Sundar Pichai slammed Trump’s move in a note to employees on Friday, telling them that more than 100 company staff are affected by the order. “It’s painful to see the personal cost of this executive order on our colleagues,” Pichai wrote in the memo, a copy of which was obtained by Bloomberg. “We’ve always made our view on immigration issues known publicly and will continue to do so.” The comments underscore a growing rift between the Trump administration and several US technology companies, which include many immigrants in their ranks and have lobbied for fewer immigration restrictions. Pichai’s note echoed similar statements from tech peers voicing concerns about the harm such policies could have on their businesses. Sundar Pichai Trump signed an executive order prohibiting entry by people from seven majority-Muslim nations for 90 days. Citizens of Syria, Iraq, Iran, Sudan, Somalia, Yemen and Libya would be banned from entering the US for the period, while the government determines what information it needs to safely admit visitors. Meanwhile, Facebook CEO Mark Zuckerberg said America is a nation of immigrants and should be proud of it, as he criticised Trump’s decision to limit immigrants and refugees from certain Muslim-majority countries. “Like many of you, I’m concerned about the impact of the recent executive orders signed by President Trump,” Zuckerberg wrote on his</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Facebook news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199469753</DOCID> 
-<DCT type="str">2017-01-29T07:51:26Z</DCT> 
-<TITLE type="str">Pichai, Zuckerberg slam Donald Trump on immigration</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199469753</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Pichai, Zuckerberg slam Donald Trump on immigration</TITLE>
+<TEXT>SAN FRANCISCO: Alphabet Incs Google delivered a sharp message to staff travelling overseas who may be impacted by a new executive order on immigration from President Donald Trump: Get back to the US now. Google CEO Sundar Pichai slammed Trumps move in a note to employees on Friday, telling them that more than 100 company staff are affected by the order. Its painful to see the personal cost of this executive order on our colleagues, Pichai wrote in the memo, a copy of which was obtained by Bloomberg. Weve always made our view on immigration issues known publicly and will continue to do so. The comments underscore a growing rift between the Trump administration and several US technology companies, which include many immigrants in their ranks and have lobbied for fewer immigration restrictions. Pichais note echoed similar statements from tech peers voicing concerns about the harm such policies could have on their businesses. Sundar Pichai Trump signed an executive order prohibiting entry by people from seven majority-Muslim nations for 90 days. Citizens of Syria, Iraq, Iran, Sudan, Somalia, Yemen and Libya would be banned from entering the US for the period, while the government determines what information it needs to safely admit visitors. Meanwhile, Facebook CEO Mark Zuckerberg said America is a nation of immigrants and should be proud of it, as he criticised Trumps decision to limit immigrants and refugees from certain Muslim-majority countries. Like many of you, Im concerned about the impact of the recent executive orders signed by President Trump, Zuckerberg wrote on his</TEXT>
+</TimeML>

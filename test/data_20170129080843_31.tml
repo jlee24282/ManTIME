@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">* Federal judge blocks deportation of dozens from US 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198501253</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>UPDATE 4-Two Iraqis lead legal fight against Trump order blocking entry</TITLE>
+<TEXT>* Federal judge blocks deportation of dozens from US 
     
 * Two Iraqis say connections to US forces make them targets 
     
@@ -20,13 +23,13 @@ an order from President Donald Trump, after a lawsuit filed on
 behalf of two Iraqis with ties to U.S. security forces. 
     
 In the lawsuit filed in federal court in Brooklyn, New York,
-the two men challenged Trump&apos;s directive on constitutional
+the two men challenged Trump's directive on constitutional
 grounds. The suit said their connections to U.S. forces made
 them targets in their home country and that the pair had valid
 visas to enter the United States. 
     
 The lawsuit highlights some of the legal obstacles facing
-Trump&apos;s new administration as it tries to carry out the
+Trump's new administration as it tries to carry out the
 directive, which the president signed late on Friday to impose a
 four-month ban on refugees entering the United States and a
 90-day hold on travelers from Syria, Iran and five other
@@ -34,22 +37,9 @@ Muslim-majority countries.
     
 In an emergency ruling on Saturday, U.S. District Judge Ann
 Donnelly ordered U.S. authorities to refrain from deporting
-previously approved refugees as well as &quot;approved holders of
+previously approved refugees as well as "approved holders of
 valid immigrant and non-immigrant visas and other individuals
-... legally authorized to enter the United States&quot; from the
-countries targeted in Trump&apos;s order.
-  Continued...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Iraq news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198501253</DOCID> 
-<DCT type="str">2017-01-29T07:44:20Z</DCT> 
-<TITLE type="str">UPDATE 4-Two Iraqis lead legal fight against Trump order blocking entry</TITLE> 
-</root>
+... legally authorized to enter the United States" from the
+countries targeted in Trump's order.
+ Continued...</TEXT>
+</TimeML>

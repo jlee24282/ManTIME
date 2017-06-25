@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Lok Sabha Speaker Sumitra Mahajan, Bangladesh Parliament Speaker Shirin Sharmin Chaudhury, Governor E S L Narasimhan, Rajasthan Chief Minister Vasundhara Raje Scindia, Puducherry Lieutenant Governor Kiran Bedi, noted Gandhian Ela Bhatt, Lata Mangeshkar, actresses Juhi Chawla, Manisha Koirala, Sania Mirza , Nobel laureate Muhammad ...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201946793</DOCID> 
-<DCT type="str">2017-01-29T08:08:18Z</DCT> 
-<TITLE type="str">There would be seven plenary sessions at the event with</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201946793</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>There would be seven plenary sessions at the event with</TITLE>
+<TEXT>Lok Sabha Speaker Sumitra Mahajan, Bangladesh Parliament Speaker Shirin Sharmin Chaudhury, Governor E S L Narasimhan, Rajasthan Chief Minister Vasundhara Raje Scindia, Puducherry Lieutenant Governor Kiran Bedi, noted Gandhian Ela Bhatt, Lata Mangeshkar, actresses Juhi Chawla, Manisha Koirala, Sania Mirza , Nobel laureate Muhammad ...</TEXT>
+</TimeML>

@@ -1,25 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A New Brighton school was vandalised during a burglary on Friday and the thieves even made off with a stove. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197264231</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Burglars steal schools stove</TITLE>
+<TEXT>A New Brighton school was vandalised during a burglary on Friday and the thieves even made off with a stove. 
 The post appeared first on HeraldLIVE. 
  
 Views : 0. Votes : 0. Shares : 0. 
- Read...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Crime and punishment news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197264231</DOCID> 
-<DCT type="str">2017-01-29T07:35:56Z</DCT> 
-<TITLE type="str">Burglars steal school’s stove</TITLE> 
-</root>
+ Read...</TEXT>
+</TimeML>

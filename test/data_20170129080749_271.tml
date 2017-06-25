@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Lukas Graham: 7 p.m. Jan. 29, House of Blues, 15 Lansdowne St., Boston. $27.95 to $37.95. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196753712</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Regional highlights</TITLE>
+<TEXT>Lukas Graham: 7 p.m. Jan. 29,House of Blues, 15 Lansdowne St., Boston.$27.95 to $37.95. 
 
 Joe Purdy and Garrison Starr: 7:30 p.m., Jan. 29, Brighton Music Hall, 158 Brighton Ave., Allston. $25. 
  
@@ -13,14 +16,14 @@ Isaiah Rashad: 8 p.m., Jan. 30. The Sinclair, 52 Church St., Cambridge. $15 to $
 
 Boston Poetry Slam: Poet Sasha Banks performs, with poetry slam and open mic, 8 p.m. Feb. 1. The Cantab Lounge, 738 Massachusetts Ave., Cambridge. $3. 
  
-Julie Rhodes: 9 p.m., Feb. 1. Atwood&apos;s Tavern, 877 Cambridge St., Cambridge. $10. 
+Julie Rhodes: 9 p.m., Feb. 1. Atwood's Tavern, 877 Cambridge St., Cambridge. $10. 
  
 Miranda Lambert: 7 p.m., Feb. 2, Dunkin Donuts Center, 1 La Salle Square, Providence. $36.75 to $66. 
 
 Yonas: 7 p.m., Feb. 2. The Middle East Downstairs, 472 Massachusetts Ave., Cambridge. $12. 
  
 
-MIT Heavy Metal 101 Presents Matt Zappa: Drummer Matt Zappa of Protean Collective and Walter Sickert &amp; the Army of Broken Toys discusses his upbringing in the metal scene and breaks down the evolution of metal drumming with a live demonstration, 5:30 p.m. Feb. 2. Massachusetts Institute of Technology, Room 4-149, 182 Memorial Dr, Cambridge. 
+MIT Heavy Metal 101 Presents Matt Zappa: Drummer Matt Zappa of Protean Collective and Walter Sickert & the Army of Broken Toys discusses his upbringing in the metal scene and breaks down the evolution of metal drumming with a live demonstration, 5:30 p.m. Feb. 2. Massachusetts Institute of Technology, Room 4-149, 182 Memorial Dr, Cambridge. 
 
 Catie Curtis: 7 p.m. Feb. 3. Iron Horse Music Hall, 20 Center St., Northampton. $20 in advance, $25 cash-only at the door. 
  
@@ -30,23 +33,10 @@ Berlin Philharmonic Wind Quintet: 7:15, Feb. 3. Jordan Hall, New England Conserv
 The Saints: 8 p.m., Feb. 3. Gordon Chapel at Old South Church, 645 Boylston St., Boston. $10 to $20. 
  
 
-Backyard Swagger: 8 p.m. Feb. 3, Plainridge Park Casino, 301 Washington St., Plainville. 
+Backyard Swagger: 8 p.m. Feb. 3,Plainridge Park Casino,301 Washington St., Plainville. 
  
 
 NorthBeast Regional Poetry Slam: Individual poetry slam, 7 p.m. Feb. 3; Poetry slam featuring eight teams from around the Northeast, 7 p.m. Feb. 4. The World War II Club, 50 Conz St, Northampton. $5 each night. 
  
-The Nields: with Kalliope Jones, 7 p.m. Feb. 4. Iron Horse Music Hall, 20 Center St., Northampton. $20 in advance, $25 cash-only at the door. $17.50 in advance, $20 cash-only at the door. </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196753712</DOCID> 
-<DCT type="str">2017-01-28T00:00:00Z</DCT> 
-<TITLE type="str">Regional highlights</TITLE> 
-</root>
+The Nields: with Kalliope Jones, 7 p.m. Feb. 4.Iron Horse Music Hall, 20 Center St., Northampton. $20 in advance, $25 cash-only at the door. $17.50 in advance,$20 cash-only at the door.</TEXT>
+</TimeML>

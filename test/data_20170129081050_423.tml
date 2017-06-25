@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jeffrey Wright has been arrested for a DWI 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203609435</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Catching Fire's Jeffrey Wright arrested for DWI</TITLE>
+<TEXT>Jeffrey Wright has been arrested for a DWI 
 
 He was driving while intoxicated in NYC 
 
@@ -10,24 +13,11 @@ Jeffrey Wright, one of the most prolific character actors in Hollywood, just bee
 
 Jeffrey Wright has been arrested for a DWI in NYC 
 
-According to the report, Wright was pulled over for an &apos;unknown traffic violation&apos;, and that was when the cops could smell the alcohol on his breath. Of course, he ended up failing the field sobriety test, and got booked for a DWI [Driving While Intoxicated]. 
+According to the report, Wright was pulled over for an 'unknown traffic violation', and that was when the cops could smell the alcohol on his breath. Of course, he ended up failing the field sobriety test, and got booked for a DWI [Driving While Intoxicated]. 
 
-This has been a week full of celebrity DUIs, as Reese Witherspoon and her husband were also arrested in Atlanta for driving while drunk. However, the backlash is likely to be much less in Wright&apos;s case because he&apos;s not as well known and his image, unlike Reese&apos;s, is not that of America&apos;s sweetheart. 
+This has been a week full of celebrity DUIs, as Reese Witherspoon and her husband were also arrested in Atlanta for driving while drunk. However, the backlash is likely to be much less in Wright's case because he's not as well known and his image, unlike Reese's, is not that of America's sweetheart. 
 
 Jeffrey Wright plays Beetee in The Hunger Games: Catching Fire 
 
-Wright was most recently seen in &apos;Broken City&apos;, and he will next be seen in &apos;The Hunger Games: Catching Fire&apos;, an incredibly high profile release that will likely get some coverage because of this incident. Wright plays Beetee in Catching Fire, one of the tributes in the Quarter Quell, which is the 75th Hunger Games taking place towards the latter half of the story.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203609435</DOCID> 
-<DCT type="str">2017-01-29T08:22:54Z</DCT> 
-<TITLE type="str">Catching Fire&apos;s Jeffrey Wright arrested for DWI</TITLE> 
-</root>
+Wright was most recently seen in 'Broken City', and he will next be seen in 'The Hunger Games: Catching Fire', an incredibly high profile release that will likely get some coverage because of this incident. Wright plays Beetee in Catching Fire, one of the tributes in the Quarter Quell, which is the 75th Hunger Games taking place towards the latter half of the story.</TEXT>
+</TimeML>

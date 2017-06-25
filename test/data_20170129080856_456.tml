@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mischa Barton is home and opening up about her recent hospitalization. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199620265</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Mischa Barton Released from Hospital, Claims She Was Drugged While Drinking</TITLE>
+<TEXT>Mischa Barton is home and opening up about her recent hospitalization. 
 
-The 31-year-old actress was hospitalized at Cedars-Sinai Hospital in Los Angeles on Thursday, the morning after she celebrated her birthday with friends -- and says that the erratic behavior she exhibited that day was a result of Ghb, commonly known as the &quot;date rape drug.&quot; 
+The 31-year-old actress was hospitalized at Cedars-Sinai Hospital in Los Angeles on Thursday, the morning after she celebrated her birthday with friends -- and says that the erratic behavior she exhibited that day was a result of Ghb, commonly known as the "date rape drug." 
 
-&quot;On the evening of the 25th, I went out with a group of friends to celebrate my birthday. While having drinks, I realized that something was not right as my behavior was becoming erratic and continued to intensify over the next several hours,&quot; Barton said in a statement obtained by People. 
+"On the evening of the 25th, I went out with a group of friends to celebrate my birthday. While having drinks, I realized that something was not right as my behavior was becoming erratic and continued to intensify over the next several hours," Barton said in a statement obtained by People. 
 
-&quot;I voluntarily went to get professional help, and I was informed by their staff that I had been given Ghb. After an overnight stay, I am home and doing well. I would like to extend a big thanks of gratitude »</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199620265</DOCID> 
-<DCT type="str">2017-01-29T07:52:54Z</DCT> 
-<TITLE type="str">Mischa Barton Released from Hospital, Claims She Was Drugged While Drinking</TITLE> 
-</root>
+"I voluntarily went to get professional help, and I was informed by their staff that I had been given Ghb. After an overnight stay, I am home and doing well. I would like to extend a big thanks of gratitude </TEXT>
+</TimeML>

@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">They don&apos;t make toys today quite like they did in the 1980s. In fact, there were so many rad toys and games that came out of the totally awesome decade, the Etch A Sketch being one of them.  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204718852</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>We Asked iHeart80s Party Lineup To Use A Giant Etch A Sketch & This Is The...</TITLE>
+<TEXT>They don't make toys today quite like they did in the 1980s. In fact, there were so many rad toys and games that came out of the totally awesome decade, the Etch A Sketch being one of them. 
  
-Backstage during our iHeart80s Party this weekend (Jan. 28), we brought an enormous Etch A Sketch for each artist on the lineup to play with. And the results are AMAZING. We&apos;re talking works of ART here. Check it out below: 
+Backstage during our iHeart80s Party this weekend (Jan. 28), we brought an enormous Etch A Sketch for each artist on the lineup to play with. And the results are AMAZING. We're talking works of ART here. Check it out below: 
  New Kids On The Block  Rick Astley  Night Ranger  Colin Hay of Men At Work  Starship  UB40  Eddie Money  
 Photos: Wendy George for iHeartRadio 
  
-{&quot;position1&quot;:{&quot;name&quot;:&quot;Rick Astley&quot;,&quot;id&quot;:118093,&quot;url&quot;:&quot;http:\/\/www.iheart.com\/artist\/rick-astley-118093&quot;,&quot;type&quot;:&quot;artist&quot;,&quot;errors&quot;:null,&quot;tagged&quot;:true}}</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204718852</DOCID> 
-<DCT type="str">2017-01-29T08:31:26Z</DCT> 
-<TITLE type="str">We Asked iHeart80s Party Lineup To Use A Giant Etch A Sketch &amp; This Is The...</TITLE> 
-</root>
+{"position1":{"name":"Rick Astley","id":118093,"url":"http:\/\/www.iheart.com\/artist\/rick-astley-118093","type":"artist","errors":null,"tagged":true}}</TEXT>
+</TimeML>

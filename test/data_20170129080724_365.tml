@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mohammed Masaba a popular polygamist and Islamic cleric is dead. He died yesterday at his home in Niger State after a brief illness. He became very popular due to the number of wives he had. The Janiza prayer and interment is slated for this morning by 10 am. He was 93.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195921308</DOCID> 
-<DCT type="str">2017-01-29T07:25:47Z</DCT> 
-<TITLE type="str">Popular Polygamist And Islamic Cleric Who Married 97 Wives Dies At 93</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195921308</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Popular Polygamist And Islamic Cleric Who Married 97 Wives Dies At 93</TITLE>
+<TEXT>Mohammed Masaba a popular polygamist and Islamic cleric is dead. He died yesterday at his home in Niger State after a brief illness. He became very popular due to the number of wives he had. The Janiza prayer and interment is slated for this morning by 10 am. He was 93.</TEXT>
+</TimeML>

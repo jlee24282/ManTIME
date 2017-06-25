@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">City plans to install medians on the most congest part of Lake Havasu Avenue address only a small part of a bigger issue involving traffic flow through that part of town. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196061349</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Our View: Median may help, but it wont alone solve traffic issue</TITLE>
+<TEXT>City plans to install medians on the most congest part of Lake Havasu Avenue address only a small part of a bigger issue involving traffic flow through that part of town. 
    
 Assuming the project goes forward, it will take months to complete and is tentatively scheduled for the busiest traffic months of the year, beginning next November. 
    
@@ -22,24 +25,11 @@ The entire highway needs better signal synchronization.
    
 The Mulberry mess may require more than that. It may need an overpass to connect traffic on Lake Havasu Avenue and the highway. 
    
-None of them would be improved with traffic circles, which we mention only because they seem to be ADOT’s currently preferred option for traffic control elsewhere. 
+None of them would be improved with traffic circles, which we mention only because they seem to be ADOTs currently preferred option for traffic control elsewhere. 
    
-In considering the Lake Havasu Avenue medians, the city may wish to do the project in a way that can be easily undone when, not if, future traffic needs warrant more reconfiguration. To that end, minimal-width median barriers with “no left turn” signs may be enough to address immediate needs. 
+In considering the Lake Havasu Avenue medians, the city may wish to do the project in a way that can be easily undone when, not if, future traffic needs warrant more reconfiguration. To that end, minimal-width median barriers with no left turn signs may be enough to address immediate needs. 
    
 The purpose of roads is to move traffic. If some median work helps, great. The project needs to be cost effective. It must anticipate the disruption, especially including the extra north-south traffic that will use the highway during the construction. ADOT needs to be a prime partner and must arrange highway signals to efficiently move the extra traffic. 
    
-— Today’s News-Herald</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Advertising industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196061349</DOCID> 
-<DCT type="str">2017-01-29T07:26:54Z</DCT> 
-<TITLE type="str">Our View: Median may help, but it won’t alone solve traffic issue</TITLE> 
-</root>
+ Todays News-Herald</TEXT>
+</TimeML>

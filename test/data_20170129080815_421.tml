@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Historic Crests 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197757861</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Action (37.04 ft) - Observation - GEEM6 - Mississippi River near Greenville (Mississippi)</TITLE>
+<TEXT>Historic Crests 
 (1) 65.40 ft on 04/21/1927 
 (2) 64.22 ft on 05/16/2011 
 (3) 64.05 ft on 05/30/1929 
@@ -33,10 +36,5 @@ Low Water Records
 (1) 6.70 ft on 01/04/1964 
 (2) 6.90 ft on 09/15/1976 
 (3) 6.91 ft on 08/27/2012 
-Show More Low Water Records</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695197757861</DOCID> 
-<DCT type="str">2017-01-29T07:37:12Z</DCT> 
-<TITLE type="str">Action (37.04 ft) - Observation - GEEM6 - Mississippi River near Greenville (Mississippi)</TITLE> 
-</root>
+Show More Low Water Records</TEXT>
+</TimeML>

@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">https://www.youtube.com/watch?v=ojSarqEZ5YE - Hello, Next House REMIX - this time Watermat &amp; Mougai - PortlandVideo recorded in Warsaw, Poland. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202682062</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Watermat _ MOGUAI - Portland (Mitsky M Remix) Warsaw Video</TITLE>
+<TEXT>https://www.youtube.com/watch?v=ojSarqEZ5YE - Hello, Next House REMIX - this time Watermat & Mougai - PortlandVideo recorded in Warsaw, Poland. 
 
 Author: Miababesz 
 Tags: music remix watermat  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: pop music news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202682062</DOCID> 
-<DCT type="str">2017-01-29T07:53:09Z</DCT> 
-<TITLE type="str">Watermat _ MOGUAI - Portland (Mitsky M Remix) Warsaw Video</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

@@ -1,33 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Britain has agreed a 100 million dollar defence deal to help develop fighter jets for the Turkish air force. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195011137</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Britain to develop fighter jets for Turkish air force</TITLE>
+<TEXT>Britain has agreed a 100 million dollar defence deal to help develop fighter jets for the Turkish air force. 
  
 The announcement came after UK Prime Minister Theresa May met the Turkish president and Prime minister in Ankara. 
   
-Third-party Ads</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Turkey news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Europe news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">UK news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Military news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195011137</DOCID> 
-<DCT type="str">2017-01-29T07:20:10Z</DCT> 
-<TITLE type="str">Britain to develop fighter jets for Turkish air force</TITLE> 
-</root>
+Third-party Ads</TEXT>
+</TimeML>

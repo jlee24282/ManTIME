@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jan. 28 --A Stanislaus Union School District employee was convicted this month of workers compensation insurance fraud, the Stanislaus County District Attorneys Office announced Friday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197472739</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Stanislaus Union School District employee guilty of insurance fraud</TITLE>
+<TEXT>Jan. 28 --A Stanislaus Union School District employee was convicted this month of workers compensation insurance fraud, the Stanislaus County District Attorneys Office announced Friday. 
 
 John Heaton was employed as a campus monitor for the district and reported an on-the-job injury in November 2015 . Heaton filed a workers compensation claim and as a result, received medical treatment and workers compensation benefits. 
 
@@ -20,26 +23,5 @@ Visit The Modesto Bee (Modesto, Calif.) at www.modbee.com
 
 Distributed by Tribune Content Agency, LLC. 
 
-The post appeared first on InsuranceNewsNet .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Insurance industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197472739</DOCID> 
-<DCT type="str">2017-01-29T07:35:22Z</DCT> 
-<TITLE type="str">Stanislaus Union School District employee guilty of insurance fraud</TITLE> 
-</root>
+The post appeared first on InsuranceNewsNet .</TEXT>
+</TimeML>

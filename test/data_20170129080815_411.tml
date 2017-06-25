@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">ERBIL, Kurdistan Region—In the wake of the US travel ban on people from several Middle Eastern and Muslim countries, authorities at the Erbil international airport report that so far there has been one case of stopping a traveler from boarding a plane while advising people to consult with the US consulate for details on their personal circumstances. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197754546</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Erbil airport reports one case of US-bound travel ban</TITLE>
+<TEXT>ERBIL, Kurdistan RegionIn the wake of the US travel ban on people from several Middle Eastern and Muslim countries, authorities at the Erbil international airport report that so far there has been one case of stopping a traveler from boarding a plane while advising people to consult with the US consulate for details on their personal circumstances. 
  
 Head of the Erbil International Airport, Talar Faiq told Rudaw that clear instructions have been provided to airlines on the new US rules on travel by citizens of several countries, including Iraq and people from those countries who have dual citizenship. 
  
@@ -14,26 +17,5 @@ In order to avoid complications, Faiq advised all intent on traveling to the US 
  
 US President Donald Trump signed an executive order which bans citizens of Iraq, Iran, Somalia, Syria, Sudan, Libya and Yemen from traveling to the US for 90 days. 
  
-The ban has been criticized by many across the world especially civil rights activists in the United States. </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Airline industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Media latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197754546</DOCID> 
-<DCT type="str">2017-01-29T07:39:10Z</DCT> 
-<TITLE type="str">Erbil airport reports one case of US-bound travel ban</TITLE> 
-</root>
+The ban has been criticized by many across the world especially civil rights activists in the United States.</TEXT>
+</TimeML>

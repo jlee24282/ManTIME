@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Center Chorale &amp; Pacific Chorale &amp; Symphony Orchestra    
-The mature Johannes Brahms wrote “A German Requiem” in 1868, and it has remained as one of the most important musical works of the 19th Century. The Center Chorale is joined by the Pacific Coast Chorale, full symphony orchestra, and soloists Caroline Nelms and Clifford Derix for a performance of this glorious masterwork.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: fine arts news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204972719</DOCID> 
-<DCT type="str">2017-01-29T08:33:16Z</DCT> 
-<TITLE type="str">Sun 1/29: Center Chorale &amp; Pacific Chorale &amp; Symphony Orchestra</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204972719</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Center Chorale & Pacific Chorale & Symphony Orchestra</TITLE>
+<TEXT>Center Chorale & Pacific Chorale & Symphony Orchestra    
+The mature Johannes Brahms wrote A German Requiem in 1868, and it has remained as one of the most important musical works of the 19th Century. The Center Chorale is joined by the Pacific Coast Chorale, full symphony orchestra, and soloists Caroline Nelms and Clifford Derix for a performance of this glorious masterwork.</TEXT>
+</TimeML>

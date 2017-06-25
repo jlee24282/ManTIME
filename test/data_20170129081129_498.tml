@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Queen is to make history when she becomes the first British monarch to reach their Sapphire Jubilee.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205096654</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Queen to become first British monarch to reach SapphireJubilee</TITLE>
+<TEXT>The Queen is to make history when she becomes the first British monarch to reach their Sapphire Jubilee.
 
-On February 6 – the anniversary of the day she became Queen – Elizabeth II will have reigned for 65 years.
+On February 6  the anniversary of the day she became Queen  Elizabeth II will have reigned for 65 years.
 
-But there are no grand festivities planned to mark the head-of-state’s new milestone.
+But there are no grand festivities planned to mark the head-of-states new milestone.
 
 The Queen is, at this stage, not due to be out and about on official engagements on the landmark day.
 
 The sovereign, who missed church over Christmas due to a heavy cold, will undoubtedly be matter of fact about this historic occasion.
 
-In 2015, when she thanked the nation for its kind messages...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">UK news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205096654</DOCID> 
-<DCT type="str">2017-01-29T08:33:12Z</DCT> 
-<TITLE type="str">Queen to become first British monarch to reach Sapphire Jubilee</TITLE> 
-</root>
+In 2015, when she thanked the nation for its kind messages...</TEXT>
+</TimeML>

@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Five years before Rajiv Gandhi was killed in 1991, the US Central Intelligence Agency had prepared a very detailed and thorough &quot;brief&quot; on what would happen if he is assassinated or makes an &quot;abrupt departure&quot; from the Indian political scene.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US security news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201945958</DOCID> 
-<DCT type="str">2017-01-29T08:01:22Z</DCT> 
-<TITLE type="str">CIA had detailed brief on Rajiv Gandhi assassination aftermath, 5 years before he was killed: Declassified report</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201945958</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>CIA had detailed brief on Rajiv Gandhi assassination aftermath, 5 years before he was killed: Declassified report</TITLE>
+<TEXT>Five years before Rajiv Gandhi was killed in 1991, the US Central Intelligence Agency had prepared a very detailed and thorough "brief" on what would happen if he is assassinated or makes an "abrupt departure" from the Indian political scene.</TEXT>
+</TimeML>

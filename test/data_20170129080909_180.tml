@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Hamilton Place Rotary Club has partnered with Operation Warm for the past seven years to provide local students with new winter coats through the club&apos;s annual Warm Coats for Cool Kidz project. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199838277</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Good Deed: Rotary Club's winter coat program keeps kids warm</TITLE>
+<TEXT>The Hamilton Place Rotary Club has partnered with Operation Warm for the past seven years to provide local students with new winter coats through the club's annual Warm Coats for Cool Kidz project. 
  
 This year, 180 coats were delivered to nine elementary schools: Woodmore, Bess T. Shepherd, Harrison, East Lake, Spring Creek, East Side, Hillcrest, Orchard Knob and East Ridge. 
  
-A new winter coat can be more than just a coat. It helps build self-esteem and tells a child, &quot;You&apos;re worth it.&quot; A new winter coat can inspire pride and joy within a child, while also increasing peer acceptance. It can change a child&apos;s life and empower them with greater self-confidence and increased school attendance. 
+A new winter coat can be more than just a coat. It helps build self-esteem and tells a child, "You're worth it." A new winter coat can inspire pride and joy within a child, while also increasing peer acceptance. It can change a child's life and empower them with greater self-confidence and increased school attendance. 
  
-Beverlee Bartley</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199838277</DOCID> 
-<DCT type="str">2017-01-29T07:54:57Z</DCT> 
-<TITLE type="str">Good Deed: Rotary Club&apos;s winter coat program keeps kids warm</TITLE> 
-</root>
+Beverlee Bartley</TEXT>
+</TimeML>

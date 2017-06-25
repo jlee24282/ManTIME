@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Is gluten really bad for you? Should everyone be avoiding it, or just those who have allergies? 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204198196</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Why is gluten such a problem?</TITLE>
+<TEXT>Is gluten really bad for you? Should everyone be avoiding it, or just those who have allergies? 
  
 When you pour water into a bowl of wheatflour, the reason it sticks together is gluten. 
  
@@ -12,12 +15,7 @@ There are many different varieties of wheat. Years ago, we consumed varieties su
  
 Many studies show modern wheat varieties tend to raise our sugar levels at a much faster rate. 
  
-Two slices of brown bread, for instance, raise your sugar levels as much as a bar of chocolate would – a reason we see a spike in the number of people suffering from type 2 diabetes, insulin resistance, impaired glucose tolerance and so on. 
+Two slices of brown bread, for instance, raise your sugar levels as much as a bar of chocolate would  a reason we see a spike in the number of people suffering from type 2 diabetes, insulin resistance, impaired glucose tolerance and so on. 
  
-Wheat also causes gut inflammation. If you are struggling with diabetes, acne or elevated fasting insulin levels, try to cut back on wheat to see if there are any positive changes.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204198196</DOCID> 
-<DCT type="str">2017-01-29T08:27:09Z</DCT> 
-<TITLE type="str">Why is gluten such a problem?</TITLE> 
-</root>
+Wheat also causes gut inflammation. If you are struggling with diabetes, acne or elevated fasting insulin levels, try to cut back on wheat to see if there are any positive changes.</TEXT>
+</TimeML>

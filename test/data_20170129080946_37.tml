@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Author: travishaney5 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201199487</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>travio20's Live PS4 Broadcast (5)</TITLE>
+<TEXT>Author: travishaney5 
 Tags: #PS4Live  PlayStation 4  Sony Interactive Entertainment  Madden NFL 16  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201199487</DOCID> 
-<DCT type="str">2017-01-29T07:55:31Z</DCT> 
-<TITLE type="str">travio20&apos;s Live PS4 Broadcast (5)</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

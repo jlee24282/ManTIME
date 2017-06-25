@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">It is second runners-up finish for Sania and Dodig together after losing the final of the 2016 French Open.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203150312</DOCID> 
-<DCT type="str">2017-01-29T08:19:14Z</DCT> 
-<TITLE type="str">Aus Open, mixed doubles final: Sania Mirza-Ivan Dodig stunned by Abigail Spears and Juan Sebastian Cabal</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203150312</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Aus Open, mixed doubles final: Sania Mirza-Ivan Dodig stunned by Abigail Spears and Juan Sebastian Cabal</TITLE>
+<TEXT>It is second runners-up finish for Sania and Dodig together after losing the final of the 2016 French Open.</TEXT>
+</TimeML>

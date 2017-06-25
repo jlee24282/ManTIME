@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">. It has many features. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195426653</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>I use an all-in-one security app-LEO Privacy</TITLE>
+<TEXT>. It has many features. 
 AppLock: Lock Everything - Lock up your Facebook, Whatsapp, Messenger and other important apps which may leak your privacy. - Nobody can open locked apps without entering the right password. - Pin code or pattern lock, two types of password with interesting applock theme. - Delicate themes to decorate your applock screen - Customize your lock mode, lock different apps under different circumstances. 
-What&apos;s more, LEO Privacy can automatically and intelligently lock apps by time or location. .It&apos;s a vault .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Apps news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195426653</DOCID> 
-<DCT type="str">2017-01-29T07:22:02Z</DCT> 
-<TITLE type="str">I use an all-in-one security app-LEO Privacy</TITLE> 
-</root>
+What's more, LEO Privacy can automatically and intelligently lock apps by time or location..It's a vault .</TEXT>
+</TimeML>

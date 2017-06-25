@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">LOS ANGELES (KABC) -- 
-Protests were held in Los Angeles and around the country over President Donald Trump&apos;s executive order banning travels from seven Muslim-majority countries. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199777176</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Protests held in LA, nationwide over Trump travel ban</TITLE>
+<TEXT>LOS ANGELES (KABC) -- 
+Protests were held in Los Angeles and around the country over President Donald Trump's executive order banning travels from seven Muslim-majority countries. 
 While a judge ordered a halt to deportations of those who arrive at U.S. airports, confusion and chaos still reign over what exactly the order means for travelers. 
 
  
@@ -10,32 +13,7 @@ Hundreds gathered at the Tom Bradley International Terminal at LAX to show suppo
 
  
 Similar protests were held in New York and other areas of the country. 
-The Department of Homeland Security issued a statement saying that less than 1 percent of the 325,000 travelers who fly into the United States every day were &quot;inconvenienced&quot; by the enhanced security measures. 
+The Department of Homeland Security issued a statement saying that less than 1 percent of the 325,000 travelers who fly into the United States every day were "inconvenienced" by the enhanced security measures. 
  
-(Copyright ©2017 KABC-TV. All Rights Reserved.)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Los Angeles news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199777176</DOCID> 
-<DCT type="str">2017-01-29T07:51:35Z</DCT> 
-<TITLE type="str">Protests held in LA, nationwide over Trump travel ban</TITLE> 
-</root>
+(Copyright 2017 KABC-TV. All Rights Reserved.)</TEXT>
+</TimeML>

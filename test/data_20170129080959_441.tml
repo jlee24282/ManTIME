@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Brianna MacNaught | bmacnaught@wmbb.com 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202015262</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>FSU Beach Volleyball Makes a Pit Stop in PCB</TITLE>
+<TEXT>By Brianna MacNaught | bmacnaught@wmbb.com 
   
 Published 01/28 2017 11:47PM 
  
@@ -8,24 +11,11 @@ Updated 01/28 2017 11:55PM
    
 PANAMA CITY BEACH, Fla 
  
-FSU&apos;s beach volleyball team made a pit stop in Panama City Beach today. 
+FSU's beach volleyball team made a pit stop in Panama City Beach today. 
  
-They hosted a practice at Sharky&apos;s for FSU fans followed by a dinner with the team. 
+They hosted a practice at Sharky's for FSU fans followed by a dinner with the team. 
  
-FSU head coach, Brooke Niles, said practicing at beaches like Panama City&apos;s is one of the ways they prepare for the tough season ahead. 
+FSU head coach, Brooke Niles, said practicing at beaches like Panama City's is one of the ways they prepare for the tough season ahead. 
  
-&quot;We are here in Panama City just to practice in a different location and get out and meet some of our boosters and just prepare for a long season on the road. This is very similar to where we play our national championships in Gulf Shores so the wind can come off the ocean, it can be swirly, you just cant predict it. This year with the strength of our schedule being strong the entire season is going to prepare us for the national championships so we can take home that win,&quot; said Coach Brooke Niles.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: volleyball news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202015262</DOCID> 
-<DCT type="str">2017-01-29T08:10:37Z</DCT> 
-<TITLE type="str">FSU Beach Volleyball Makes a Pit Stop in PCB</TITLE> 
-</root>
+"We are here in Panama City just to practice in a different location and get out and meet some of our boosters and just prepare for a long season on the road. This is very similar to where we play our national championships in Gulf Shores so the wind can come off the ocean, it can be swirly, you just cant predict it. This year with the strength of our schedule being strong the entire season is going to prepare us for the national championships so we can take home that win," said Coach Brooke Niles.</TEXT>
+</TimeML>

@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Roma have signed France midfielder Clement Grenier on loan from Lyon until June, with the option to make the deal permanent. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196250315</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Lyon France international Clement Grenier moves to Roma on loan</TITLE>
+<TEXT>Roma have signed France midfielder Clement Grenier on loan from Lyon until June, with the option to make the deal permanent. 
  
-The Serie A club said on Saturday that Grenier will wear the No. 7 shirt, w</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: Serie A news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196250315</DOCID> 
-<DCT type="str">2017-01-29T00:18:14Z</DCT> 
-<TITLE type="str">Lyon France international Clement Grenier moves to Roma on loan</TITLE> 
-</root>
+The Serie A club said on Saturday that Grenier will wear the No. 7 shirt, w</TEXT>
+</TimeML>

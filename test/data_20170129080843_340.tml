@@ -1,27 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A group of researchers has invented new ways to interact with smartwatches that not only eases the user-device communication but also gives users better control over the gadget. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198855060</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>New ways to interact with smartwatches to help user-device communication developed by researchers</TITLE>
+<TEXT>A group of researchers has invented new ways to interact with smartwatches that not only eases the user-device communication but also gives users better control over the gadget. 
  
 Georgia Institute of Technology researchers developed enhancements using LG and Sony smartwatches that allow a user to scroll through apps by running fingers along the watch band, and let him/her launch eight smartwatch apps by tapping key points on the watch case (or bezel) and reject phone calls by blowing on the screen or tapping the side of the watch. 
  
 The new enhancements, recently presented at the 2016 ACM International Conference on Interactive Surfaces and Spaces, also let a user to edit dictated text message errors by breathing on the screen, transfer on-screen information from the watch to a phone with breaths and select numbers by tapping the back of the hand. 
  
-Ph.D. student Cheng Zhang oversaw WatchOut — an interaction technique that uses taps and scrolling gestures on the case and watchband. The tapping and scrolling on the smartwatch band was possible because of the watch’s gyroscope and accelerometer sensors. 
+Ph.D. student Cheng Zhang oversaw WatchOut  an interaction technique that uses taps and scrolling gestures on the case and watchband. The tapping and scrolling on the smartwatch band was possible because of the watchs gyroscope and accelerometer sensors. 
  
-“We wanted to create a technique that allows the user to tap the watch to accept or deny phone calls. Hitting the right side answers the call; the left side ignores it,” Zhang said in a statement. 
+We wanted to create a technique that allows the user to tap the watch to accept or deny phone calls. Hitting the right side answers the call; the left side ignores it, Zhang said in a statement. 
  
-“Other techniques that improve control of smartwatches have included 3D gestures above the screen, bigger screens or adding an extra armband. We wanted to show it could be done with existing technology already common on today’s devices,” Zhang added. 
+Other techniques that improve control of smartwatches have included 3D gestures above the screen, bigger screens or adding an extra armband. We wanted to show it could be done with existing technology already common on todays devices, Zhang added. 
  
 IANS 
  
-Tags:  LG smartwatch , Samsung smartwatch , SmartWatch , smartwatch interaction</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Tech latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198855060</DOCID> 
-<DCT type="str">2017-01-29T07:47:17Z</DCT> 
-<TITLE type="str">New ways to interact with smartwatches to help user-device communication developed by researchers</TITLE> 
-</root>
+Tags:  LG smartwatch , Samsung smartwatch , SmartWatch , smartwatch interaction</TEXT>
+</TimeML>

@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Shah Rukh Khan &apos;s Raees isn&apos;t too far ahead of Hrithik Roshan &apos;s Kaabil.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196485075</DOCID> 
-<DCT type="str">2017-01-29T07:26:11Z</DCT> 
-<TITLE type="str">Raees Vs Kaabil: Hrithik Roshan’s film is closing in on Shah Rukh Khan’s film, Sunday will be crucial for both</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196485075</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Raees Vs Kaabil: Hrithik Roshans film is closing in on Shah Rukh Khans film, Sunday will be crucial for both</TITLE>
+<TEXT>Shah Rukh Khan 's Raees isn't too far ahead of Hrithik Roshan 's Kaabil.</TEXT>
+</TimeML>

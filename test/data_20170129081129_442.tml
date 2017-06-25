@@ -1,41 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Federal Government has approved US$1.2 billion for the construction of the Kano-Kaduna standard gauge railway project. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205038552</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>FG approves $1.2bn for Kano-Kaduna rail project Seeks fresh loan from China</TITLE>
+<TEXT>The Federal Government has approved US$1.2 billion for the construction of the Kano-Kaduna standard gauge railway project. 
  
 Minister of Transport, Mr Rotimi Amaechi, disclosed this in Kano, on Saturday, when he visited Governor Abdullahi Ganduje at the Government House, Kano. 
  
 According the the News Agency of Nigeria (NAN), Amaechi said the Federal Government was negotiating with China EXIM bank to finance the project. 
  
-“We are negotiating with China EXIM bank and we are convinced that this negotiation will end by June,” he said. 
+We are negotiating with China EXIM bank and we are convinced that this negotiation will end by June, he said. 
  
 The minister said the government would provide about 100 locomotives for narrow gauge rail that would run through Lagos, Kano, Port Harcourt, Funtua and Gombe to improve the economy. 
  
-“Before the end of June, Lagos-Kano narrow gauge rail would have more locomotives that would run through Lagos, Port Harcourt, Funtua, Kano and Gombe states in order to… 
+Before the end of June, Lagos-Kano narrow gauge rail would have more locomotives that would run through Lagos, Port Harcourt, Funtua, Kano and Gombe states in order to 
   
-Read More….. Tribune Newspaper</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Rail transport news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Transportation industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Nigeria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205038552</DOCID> 
-<DCT type="str">2017-01-29T08:32:44Z</DCT> 
-<TITLE type="str">FG approves $1.2bn for Kano-Kaduna rail project •Seeks fresh loan from China</TITLE> 
-</root>
+Read More.. Tribune Newspaper</TEXT>
+</TimeML>

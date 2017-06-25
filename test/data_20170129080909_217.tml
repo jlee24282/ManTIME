@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Amazingly, no one was seriously hurt when a truck crashed through a crowded city bus in Syracuse, NY, earlier this month. Video of the brutal accident has gone viral.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">New York metro area news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199901079</DOCID> 
-<DCT type="str">2017-01-27T21:59:04Z</DCT> 
-<TITLE type="str">RAW VIDEO: Truck crashes into crowded bus in New York</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199901079</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-27" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+<TITLE>RAW VIDEO: Truck crashes into crowded bus in New York</TITLE>
+<TEXT>Amazingly, no one was seriously hurt when a truck crashed through a crowded city bus in Syracuse, NY, earlier this month. Video of the brutal accident has gone viral.</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jan. 11, 2017 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201046425</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Births for Jan. 29, 2017</TITLE>
+<TEXT>Jan. 11, 2017 
    
 Lennartson, Ashlee and Dennis, girl, Gia Marie. 
    
@@ -29,14 +32,5 @@ SUPERIOR
 Jan. 16, 2017 
  
 Lindstrom, Hannah and Jonathan, girl, Senja Hope. 
-  Advertisement</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201046425</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">Births for Jan. 29, 2017</TITLE> 
-</root>
+  Advertisement</TEXT>
+</TimeML>

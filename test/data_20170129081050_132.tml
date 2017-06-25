@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By   Azertac   
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203355718</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Networking event of Azerbaijani students held in Baku</TITLE>
+<TEXT>By  Azertac  
  
 Azerbaijan-Scandinavia Alumni Association arranged its first ever alumni networking event in Baku. 
  
@@ -12,26 +15,5 @@ Vusal Guliyev, Head of Youth Sector of Social and Political Department at the Pr
  
 Norwegian Ambassador to the country Bard Ivar Svendsen praised the activity of the Association. 
  
- Connect with us. Get latest news and updates.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Caucasus news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Azerbaijan news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203355718</DOCID> 
-<DCT type="str">2017-01-29T06:19:00Z</DCT> 
-<TITLE type="str">Networking event of Azerbaijani students held in Baku</TITLE> 
-</root>
+ Connect with us. Get latest news and updates.</TEXT>
+</TimeML>

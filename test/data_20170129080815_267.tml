@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Eli Tomac won the AMA Supercross race in Arizona</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197524318</DOCID> 
-<DCT type="str">2017-01-29T05:43:33Z</DCT> 
-<TITLE type="str">Eli Tomac wins AMA Supercross race in Arizona</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197524318</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Eli Tomac wins AMA Supercross race in Arizona</TITLE>
+<TEXT>Eli Tomac won the AMA Supercross race in Arizona</TEXT>
+</TimeML>

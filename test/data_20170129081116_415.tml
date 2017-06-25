@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">ZANESVILLE — Ilse Matheis Crites, 90, formerly of Newton Falls, passed away Thursday, Jan. 12, 2017, at her home in Zanesville. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204495549</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Ilse Crites</TITLE>
+<TEXT>ZANESVILLE  Ilse Matheis Crites, 90, formerly of Newton Falls, passed away Thursday, Jan. 12, 2017, at her home in Zanesville. 
  
 Ilse was born Feb. 27, 1926, in Gollheim, Germany. 
  
@@ -10,10 +13,5 @@ She is survived by daughters, Judy (Jay) Addy of Zanesville and Linda (Ron) Davi
  
 Ilse was preceded in death by her parents; husband, James A. Crites, whom she married Oct. 14, 1959, and passed in 2009; sister, Inge Mattern; and brother, Walter Matheis. 
  
-(special notice)</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204495549</DOCID> 
-<DCT type="str">2017-01-29T08:29:58Z</DCT> 
-<TITLE type="str">Ilse Crites</TITLE> 
-</root>
+(special notice)</TEXT>
+</TimeML>

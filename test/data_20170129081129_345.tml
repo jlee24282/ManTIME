@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, 9 a.m. to 4 p.m. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204963588</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Vision Board</TITLE>
+<TEXT>, 9 a.m. to 4 p.m. 
  
 Where: Monarch | Arredon Contemporary, 7629 Girard Avenue, San Diego 
  
@@ -9,12 +12,7 @@ Cost: $95
 Age limit: 18+ 
  
 Description: 
-If you have given up on New Year’s resolutions because they just don’t work for you, then creating a vision board is a great alternative. Successful people like Katy Perry, Ellen DeGeneres, and Oprah Winfrey swear they intentionally create incredible outcomes using vision boards. And they don&apos;t just quickly slap a bunch of stuff on a board. It&apos;s a thoughtful process of clarity, connection, and inspiration. This workshop is a full-day immersive experience. 
+If you have given up on New Years resolutions because they just dont work for you, then creating a vision board is a great alternative. Successful people like Katy Perry, Ellen DeGeneres, and Oprah Winfrey swear they intentionally create incredible outcomes using vision boards. And they don't just quickly slap a bunch of stuff on a board. It's a thoughtful process of clarity, connection, and inspiration. This workshop is a full-day immersive experience. 
  
- </TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204963588</DOCID> 
-<DCT type="str">2017-01-29T08:33:15Z</DCT> 
-<TITLE type="str">Sun 1/29: Vision Board</TITLE> 
-</root>
+</TEXT>
+</TimeML>

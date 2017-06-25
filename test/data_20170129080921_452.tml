@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, 6:45 pm 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200620424</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump, Merkel agree NATO importance</TITLE>
+<TEXT>, 6:45 pm 
    
 German Chancellor Angela Merkel and US President Donald Trump have agreed on the fundamental importance of the NATO alliance and that all NATO members must pay a fair share for their collective security. 
 
@@ -8,26 +11,5 @@ Trump and Merkel spoke by telephone on Saturday about issues including the Middl
 
 He said Merkel and Trump agreed to expand their co-operation in combating terrorism and militancy. 
 
-Trump accepted Merkel&apos;s invitation to attend a summit of G20 industrialised countries in Hamburg in July, and said he looked forward to welcoming Merkel to Washington soon.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">International relations news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Europe news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Germany news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200620424</DOCID> 
-<DCT type="str">2017-01-29T08:01:04Z</DCT> 
-<TITLE type="str">Trump, Merkel agree NATO importance</TITLE> 
-</root>
+Trump accepted Merkel's invitation to attend a summit of G20 industrialised countries in Hamburg in July, and said he looked forward to welcoming Merkel to Washington soon.</TEXT>
+</TimeML>

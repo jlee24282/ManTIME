@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Police have named 32-year-old Eden Hoey as the victim of a fatal crash in Manukau on Saturday night.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204064703</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Three-car crash kills one man</TITLE>
+<TEXT>Police have named 32-year-old Eden Hoey as the victim of a fatal crash in Manukau on Saturday night.
 
 Hoey, originally from Northland, died as a result of a three-car pile-up on Great South Road near the corner of Cavendish Drive about 10.30pm.
 
@@ -10,7 +13,7 @@ St John confirmed one person was in a critical condition, three people were in a
 
 A police spokesman said a pursuit had taken place after a car was travelling at speed and police followed the vehicle. 
 
-&quot;It was all over in less than a minute,&quot; he said. 
+"It was all over in less than a minute," he said. 
 
 Two fire engines and five ambulance crews were also called to the scene.
 
@@ -18,14 +21,5 @@ A Fire Service spokeswoman said three people had been trapped in their car, and 
 
 Caltex service station employee Dilpreet Singh said he heard the noise from the crash while serving a customer. 
 
-Singh said at least three police cars were still at the scene, and Great South Road has been completely blocked off. The crash came after another in Gore, in which one person was killed.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204064703</DOCID> 
-<DCT type="str">2017-01-29T08:26:14Z</DCT> 
-<TITLE type="str">Three-car crash kills one man</TITLE> 
-</root>
+Singh said at least three police cars were still at the scene, and Great South Road has been completely blocked off. The crash came after another in Gore, in which one person was killed.</TEXT>
+</TimeML>

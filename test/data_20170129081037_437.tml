@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str"> Digitisation is the new buzzword for Corporate India as 84 percent employees in the country said their employer has a digital strategy -- one of the highest in the world.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203192223</DOCID> 
-<DCT type="str">2017-01-29T08:19:34Z</DCT> 
-<TITLE type="str">&apos;India scores high on digitisation, workers keen on reskilling&apos;</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203192223</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>'India scores high on digitisation, workers keen on reskilling'</TITLE>
+<TEXT>Digitisation is the new buzzword for Corporate India as 84 percent employees in the country said their employer has a digital strategy -- one of the highest in the world.</TEXT>
+</TimeML>

@@ -1,29 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">_</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Gaming news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Video game industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Canada news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202952455</DOCID> 
-<DCT type="str">2017-01-29T08:17:54Z</DCT> 
-<TITLE type="str">Retro gaming - from Atari to Playstation - heading to Ontario</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202952455</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Retro gaming - from Atari to Playstation - heading to Ontario</TITLE>
+<TEXT>_</TEXT>
+</TimeML>

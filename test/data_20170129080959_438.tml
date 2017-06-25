@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">_</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Lifestyle</group> 
-<name type="str">Consumer: motoring news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: motor sports news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202008164</DOCID> 
-<DCT type="str">2017-01-29T08:10:33Z</DCT> 
-<TITLE type="str">Awesome Zenvo ST1! - Street FX Motorsport USA</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202008164</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Awesome Zenvo ST1! - Street FX Motorsport USA</TITLE>
+<TEXT>_</TEXT>
+</TimeML>

@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">New Delhi [India], Jan. 29 (ANI): Prime Minister Narendra Modi on Sunday congratulated the Indian Coast Guard, which is completing 40 years of existence on February 1.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198553318</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>PM Modi congratulates Indian Coast Guard for completing 40 years on Feb. 1</TITLE>
+<TEXT>New Delhi [India], Jan. 29 (ANI): Prime Minister Narendra Modi on Sunday congratulated the Indian Coast Guard, which is completing 40 years of existence on February 1.
 
-&quot;February 1 marks 40 years of Indian Coast Guard, I congratulate the officials for being vigilant and serving the nation,&quot; he said while addressing the nation in the 28th edition of his monthly &apos;Mann Ki Baat&apos; programme.
+"February 1 marks 40 years of Indian Coast Guard, I congratulate the officials for being vigilant and serving the nation," he said while addressing the nation in the 28th edition of his monthly 'Mann Ki Baat' programme.
 
 Prime Minister Modi further said that Coast Guard officials not only look after coastal vigilance but also take care of the cleanliness, as they undertook a cleanliness drive last year.
 
-Hailing the women personnel working in the Coast Guard, Prime Minister said, &quot;Not many know that our Coast Guard also has women personnel and they work at par with their counterparts.&quot;
+Hailing the women personnel working in the Coast Guard, Prime Minister said, "Not many know that our Coast Guard also has women personnel and they work at par with their counterparts."
 
 The Indian Coast Guard (ICG) was formally established in 1978 by the Coast Guard Act, 1978, of the Parliament of India as an independent armed force of India.
 
@@ -14,22 +17,5 @@ It operates under the Ministry of Defence and works in close cooperation with th
 
 The organization is headed by the Director General Indian Coast Guard (DGICG) exercising his overall command and superintendence from the Coast Guard Headquarters (CGHQ) located at New Delhi.
 
-The Coast Guard protects India&apos;s maritime interests and enforces maritime law, with jurisdiction over the territorial waters of India including its contiguous zone and exclusive economic zone. (ANI)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198553318</DOCID> 
-<DCT type="str">2017-01-29T07:33:32Z</DCT> 
-<TITLE type="str">PM Modi congratulates Indian Coast Guard for completing 40 years on Feb. 1</TITLE> 
-</root>
+The Coast Guard protects India's maritime interests and enforces maritime law, with jurisdiction over the territorial waters of India including its contiguous zone and exclusive economic zone. (ANI)</TEXT>
+</TimeML>

@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Pastor Williams Kumuyi, the General Superintendent (GS) of the Deeper Life Bible Church has admonished Christians to create more time []</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Social media news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194232124</DOCID> 
-<DCT type="str">2017-01-29T06:13:31Z</DCT> 
-<TITLE type="str">Spend Less Time On Movies, Social Media- Kumuyi Admonishes Christians</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194232124</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Spend Less Time On Movies, Social Media- Kumuyi Admonishes Christians</TITLE>
+<TEXT>Pastor Williams Kumuyi, the General Superintendent (GS) of the Deeper Life Bible Church has admonished Christians to create more time []</TEXT>
+</TimeML>

@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">In response to current events, I want to commend local fine art sculpture artist, Sten Hoiland, for responding by crafting a hand sculpted “Love” with a card attached: “Share the Love. Love is something if you give it away you end up having more! Please pass the love (sculpture) on within the next 2 days.” So far he’s made 400 with a goal of 1,000. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203901834</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Letter: 'Share the Love' project sends valuable message</TITLE>
+<TEXT>In response to current events, I want to commend local fine art sculpture artist, Sten Hoiland, for responding by crafting a hand sculpted Love with a card attached: Share the Love. Love is something if you give it away you end up having more! Please pass the love (sculpture) on within the next 2 days. So far hes made 400 with a goal of 1,000. 
  
 Well done, Sten. 
  
-— Patricia Feldhaus, Chico 
+ Patricia Feldhaus, Chico 
  
-Advertisement</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203901834</DOCID> 
-<DCT type="str">2017-01-29T07:02:00Z</DCT> 
-<TITLE type="str">Letter: &apos;Share the Love&apos; project sends valuable message</TITLE> 
-</root>
+Advertisement</TEXT>
+</TimeML>

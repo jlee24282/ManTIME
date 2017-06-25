@@ -1,31 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Scotland Yard has said a man is wanted for questioning over a series of ‘despicable’ sexual assaults on buses, including on a 13-year-old girl
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203424361</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Serial sex attacker on London buses who has targeted at least sixwomen</TITLE>
+<TEXT>Scotland Yard has said a man is wanted for questioning over a series of despicable sexual assaults on buses, including on a 13-year-old girl
 
 Six young women have made complaints over a man matching the same description on buses in Lewisham and Southwark, south-east London, but officers warned many more could exist.
 
 The Metropolitan Police said a string of attacks took place on January 27, starting with a girl, 17, boarding a 176 bus at 3.15pm.
 
-The suspect sat opposite her and struck up a conversation before intentionally falling onto her and groping her, the force said. Then, at around...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Lifestyle</group> 
-<name type="str">Consumer: womens news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">UK news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">London news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203424361</DOCID> 
-<DCT type="str">2017-01-29T08:21:17Z</DCT> 
-<TITLE type="str">Serial sex attacker on London buses who has targeted at least six women</TITLE> 
-</root>
+The suspect sat opposite her and struck up a conversation before intentionally falling onto her and groping her, the force said. Then, at around...</TEXT>
+</TimeML>

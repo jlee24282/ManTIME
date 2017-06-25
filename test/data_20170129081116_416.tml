@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, at Liberty Health Care Center. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204495925</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Corrine R. Ashley</TITLE>
+<TEXT>, at Liberty Health Care Center. 
  
 She was born Jan. 28, 1933, in Swissvale, Pa., the daughter of the late Ralph and Katherine Enright Robinson. 
  
@@ -8,7 +11,7 @@ Corrine was employed by Tod Avenue United Methodist Church as the church secreta
  
 Memories of Corrine will be carried on by her husband, Robert Ashley of Liberty; a son, Dr. Thomas Ashley (Barbara Leffler) of Stamford, Conn.; two daughters, Sharon (Ralph) Pappada of Warren and Karen (Wayne) Wallace of Brookfield; six grandchildren, Susan and Ted Ashley, Scott and Ashley Pappada, and Jeff and Adam Wallace; and three great-grandchildren, Carmen Ashley, Phineas Koller and Tanner Wallace. 
  
-The family will receive friends 5 to 8 p.m. Thursday, Feb. 2, 2017, at McFarland &amp; Son Funeral Home, Warren. Church services will be 11 a.m. Friday, Feb. 3, 2017, at Tod Avenue United Methodist Church, Warren, with visitation in the church narthex one hour prior to the service. The Rev. Stan Wallace will officiate. 
+The family will receive friends 5 to 8 p.m. Thursday, Feb. 2, 2017, at McFarland & Son Funeral Home, Warren. Church services will be 11 a.m. Friday, Feb. 3, 2017, at Tod Avenue United Methodist Church, Warren, with visitation in the church narthex one hour prior to the service. The Rev. Stan Wallace will officiate. 
  
 Burial services will follow at Crown Hill Burial Park. 
  
@@ -16,10 +19,5 @@ Her family suggests material contributions be made in the form of donations to T
  
 Arrangements are entrusted to McFarland and Son Funeral and Cremation Services Co, 271 N. Park Ave., Warren, OH 44481, 330-393-9621. Please visit www.McFarlandCares.com to view this obituary, send condolences and order flowers. 
  
-(special notice)</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204495925</DOCID> 
-<DCT type="str">2017-01-29T08:29:58Z</DCT> 
-<TITLE type="str">Corrine R. Ashley</TITLE> 
-</root>
+(special notice)</TEXT>
+</TimeML>

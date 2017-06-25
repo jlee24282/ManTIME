@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Speaking in Las Vegas before the Carl Frampton vs Leo Santa Cruz rematch, Money gave the strongest indication yet that the bout may happen
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203721056</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Floyd Mayweather insists Conor McGregor superfight WILL happen  I believe I can get my number</TITLE>
+<TEXT>Speaking in Las Vegas before the Carl Frampton vs Leo Santa Cruz rematch, Money gave the strongest indication yet that the bout may happen
  
  
-More:  continued here</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: boxing news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203721056</DOCID> 
-<DCT type="str">2017-01-29T08:23:55Z</DCT> 
-<TITLE type="str">Floyd Mayweather insists Conor McGregor superfight WILL happen – ‘I believe I can get my number’</TITLE> 
-</root>
+More:  continued here</TEXT>
+</TimeML>

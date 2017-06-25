@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Shugaban kasan Gambiya, Adama Barrow, ya sha alwashin canza hukumar liken asirin kasar kuma yayi alkawarin tabbatar da yancin yan jarida a kasar. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201220771</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Adama Barrow ya canza sunan kasar Gambiya</TITLE>
+<TEXT>Shugaban kasan Gambiya, Adama Barrow, ya sha alwashin canza hukumar liken asirin kasar kuma yayi alkawarin tabbatar da yancin yan jarida a kasar. 
 
 Adama Barrow ya canza sunan kasar Gambia 
  
@@ -10,10 +13,5 @@ Baroowa ya sanar da cewa zai canza sunan hukumar liken asirin kasar wato Nationa
 
 Sabon shugaban kasan yace kasar Gambia,wacce kasha 90 cikin 100 na mutanen kasan mabiya addinin Islama ne, sauran kuma kiristoci, kasa ce, ba kasar Islama. 
 
-Jammeh wanda shugabanci kasa na tsawon shekaru 22 ya canza sunan kasar zuma kasar musulunci a shekarar 2015. Ya sauka a mulki ne bayan ya fadi zabe a ranan 1 ga watan Disamba.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201220771</DOCID> 
-<DCT type="str">2017-01-29T08:04:58Z</DCT> 
-<TITLE type="str">Adama Barrow ya canza sunan kasar Gambiya</TITLE> 
-</root>
+Jammeh wanda shugabanci kasa na tsawon shekaru 22 ya canza sunan kasar zuma kasar musulunci a shekarar 2015. Ya sauka a mulki ne bayan ya fadi zabe a ranan 1 ga watan Disamba.</TEXT>
+</TimeML>

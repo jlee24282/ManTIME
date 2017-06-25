@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">KEARNEY, Neb. — Both teams shot lights out, but the Nebraska-Kearney Lopers went on a 19-10 run in a 6:30 span in the second half to outlast the Lincoln Blue Tigers 102-90 on Saturday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195910466</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Lincoln men lose in shootout at Kearney</TITLE>
+<TEXT>KEARNEY, Neb.  Both teams shot lights out, but the Nebraska-Kearney Lopers went on a 19-10 run in a 6:30 span in the second half to outlast the Lincoln Blue Tigers 102-90 on Saturday. 
  
 Jaylon Smith was on fire from the start, scoring 19 points on 7-of-12 shooting in 17 minutes. Smith was ejected with 2:47 left in the first half for a flagrant two foul. 
  
@@ -14,7 +17,7 @@ Virdure, Smith and Mason combined to shoot 25-of-41. The Blue Tigers shot 33-of-
  
 Virdure had to leave the game with 1:11 remaining in the game for picking two technical fouls. 
  
-Danielson then made 7-of-8 at the line to extend the Lopers&apos; lead to 99-87. 
+Danielson then made 7-of-8 at the line to extend the Lopers' lead to 99-87. 
  
 Lincoln also got eight points and a team-high seven rebounds from Tacourrus Mattox. 
  
@@ -32,24 +35,11 @@ Azaria Nave, who led Lincoln with 17 points, got the run started with three cons
  
 Erica Gibbons finished it with a pair of three throws. Gibbons scored 12 points. 
  
-Kearney scored the first eight points of the second half and didn&apos;t trail the rest of the game. 
+Kearney scored the first eight points of the second half and didn't trail the rest of the game. 
  
 Khadijah Ellison had 15 points, seven rebounds and three steals for Lincoln. 
  
 Michaela Barry and McKenzie Brown each scored 23 points for the Lopers. 
  
-Lincoln (3-16, 2-10 MIAA) returns home Thursday when it faces Northwest Missouri (7-11, 2-9) at 5:30 p.m. at Jason Gym.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: US college sports news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195910466</DOCID> 
-<DCT type="str">2017-01-29T07:25:41Z</DCT> 
-<TITLE type="str">Lincoln men lose in shootout at Kearney</TITLE> 
-</root>
+Lincoln (3-16, 2-10 MIAA) returns home Thursday when it faces Northwest Missouri (7-11, 2-9) at 5:30 p.m. at Jason Gym.</TEXT>
+</TimeML>

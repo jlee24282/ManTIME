@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Budweiser Brewery Tours and Gift Shop  (0.05 miles) 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194402360</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Kate Francis Read More</TITLE>
+<TEXT>Budweiser Brewery Tours and Gift Shop  (0.05 miles) 
 
 Hi-Way Bar  (0.05 miles) 
 
 Anheuser-Busch Biergarten  (0.05 miles) 
 
-Capitalist Pig  (0.05 miles)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">St Louis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194402360</DOCID> 
-<DCT type="str">2017-01-29T07:15:10Z</DCT> 
-<TITLE type="str">Kate Francis Read More</TITLE> 
-</root>
+Capitalist Pig  (0.05 miles)</TEXT>
+</TimeML>

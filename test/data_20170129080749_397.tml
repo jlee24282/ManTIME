@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196885350</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Action (15.83 ft) - Observation - HAWG1 - Ocmulgee River at Hawkinsville (Georgia)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
       
 NOTE: Automated gauge readings are now available, courtesy of the USGS. 
  
 NOTE: River forecasts for this location take into account past precipitation and the precipitation amounts expected approximately 48 hours into the future from the forecast issuance time. 
- NOTE: Forecasts for the Ocmulgee River at Hawkinsville are issued as needed during times of high water, but are not routinely available.        Flood Categories (in feet) 
+ NOTE: Forecasts for the Ocmulgee River at Hawkinsville are issued as needed during times of high water, but are not routinely available.       Flood Categories (in feet) 
  Major Flood Stage:  40  Moderate Flood Stage:  26  Flood Stage:  20  Action Stage:  14  Low Stage (in feet):  0  
 Historic Crests 
 (1) 40.91 ft on 07/09/1994 
@@ -34,11 +37,11 @@ Low Water Records
 (3) 0.30 ft on 10/16/1954 
 Show More Low Water Records 
    
-Show FEMA&apos;s National Flood Hazard Layers 
+Show FEMA's National Flood Hazard Layers 
    
-FEMA&apos;s National Flood Hazard Layers not showing? 
+FEMA's National Flood Hazard Layers not showing? 
   
-Note: Your zoom level may have changed. ESRI&apos;s zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
       
 Zoom Level:16 
    
@@ -46,16 +49,11 @@ Legend
    
 FEMA Layer 
     Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  47.7  Major flooding continues in Hawkinsville...and points upstream and downstream of the city. Flood waters reach the Hawkinsville Division Plant. Serious flooding is now occurring through much of the city except for the higher terrain in western downtown and points west.  46.5  Major flooding continues in Hawkinsville. This includes points upstream and downstream of the city. The Veterans Memorial Parking lot in Downtown Hawkinsville floods. Much of the south...east...and north sides of the city floods.  45.8  Major flooding is occurring in Hawkinsville. Veterans Memorial Monument begins flooding.  42.8  Major flooding continues in the city of Hawkinsville and points upstream and downstream from the city. Hollingsworth and Vose Corporation begins to flood.  41.8  Major flooding occurs in the city of Hawkinsville and the river reach upstream and downstream from Hawkinsville. Bearden Oil begins flooding on the east side of Hawkinsville.  40.9  Major flooding occurs along the river...especially east of the city...in the flood plain. The record crest was 40.9 feet on July 9...1994. This was the result of 10 to 13 inches of rain which fell upstream between Macon and southern part of metro Atlanta.  36.5  Moderate flooding continues...as flood waters now will begin entering rail road buildings along the river.  31  Moderate flooding occurs...with at least 10 to 15 homes flooded on the south end of Hawkinsville.  26  Moderate floodings begins...with several homes surrounded by flood waters and at least 3 homes begin flooding near Gooseneck Lane and RiverView Road.  25  Minor flooding occurs...with some roads closed with access to residences. RiverView Road closes to residents.  23  Minor flooding continues of roads on the southside of Hawkinsville along Gooseneck Lane. With the flooding of Gooseneck Lane...residents are cutoff from reaching their homes. The water will be from 1 to 3 feet deep over the road.  20.5  Minor flooding of roads begins on the southside of Hawkinsville...along Gooseneck Lane. With the flooding of Gooseneck Lane...residents are cutoff from reaching their homes.  19  The river begins to cover Riverside Drive and cutoff residents from their homes.  16  Timberlands begin to flood.  14  The river comes out of its banks...but impacts are limited.   
-Latitude: 32.280556° N, Longitude: 83.461111° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 32.280556 N, Longitude: 83.461111 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  20 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 0)  Elevation 
-(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  189.55 ft  209.55 ft  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available     
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  189.55 ft  209.55 ft  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available    
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196885350</DOCID> 
-<DCT type="str">2017-01-29T07:27:07Z</DCT> 
-<TITLE type="str">Action (15.83 ft) - Observation - HAWG1 - Ocmulgee River at Hawkinsville (Georgia)</TITLE> 
-</root>
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

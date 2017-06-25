@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">UPDATE SUNDAY 10.30AM: IT IS still not known what caused a car crash near Blackwater, which left two men with serious injuries. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196470934</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>CQ CRASH: Car ends 80m from where it left road, 2 seriously injured</TITLE>
+<TEXT>UPDATE SUNDAY 10.30AM: IT IS still not known what caused a car crash near Blackwater, which left two men with serious injuries. 
  
 In a statement, the RACQ Capricorn Helicopter Rescue Service said at approximately 1.30pm yesterday afternoon a four wheel drive with two male occupants left Blackwater Cooroorah Rd, approximately 4kms north of Blackwater, and rolled. 
  
@@ -38,22 +41,5 @@ A QAS spokesperson said the men are suffering hip injuries, but the extent is un
  
 Police will be blocking off both lanes of the road to make way for the helicopter. 
  
-Updates to follow.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196470934</DOCID> 
-<DCT type="str">2017-01-28T14:00:00Z</DCT> 
-<TITLE type="str">CQ CRASH: Car ends 80m from where it left road, 2 seriously injured</TITLE> 
-</root>
+Updates to follow.</TEXT>
+</TimeML>

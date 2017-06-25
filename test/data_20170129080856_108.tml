@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Ludus Performing Arts presents , a fantastical, magical, musical extravaganza! 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199213229</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Seussical the Musical</TITLE>
+<TEXT>Ludus Performing Arts presents , a fantastical, magical, musical extravaganza! 
  
-Tony winners, Lynn Ahrens and Stephen Flaherty, have brought to life all of our favorite Dr. Seuss characters, including Horton the Elephant, The Cat in the Hat, Gertrude McFuzz, lazy Mayzie and a little boy with a big imagination – Jojo. The colorful characters transport us from the Jungle of Nool to the Circus McGurkus to the invisible world of the Whos. 
+Tony winners, Lynn Ahrens and Stephen Flaherty, have brought to life all of our favorite Dr. Seuss characters, including Horton the Elephant, The Cat in the Hat, Gertrude McFuzz, lazy Mayzie and a little boy with a big imagination  Jojo. The colorful characters transport us from the Jungle of Nool to the Circus McGurkus to the invisible world of the Whos. 
  
-The Cat in the Hat tells the story of Horton, an elephant who discovers a speck of dust that contains the Whos, including Jojo, a Who child sent off to military school for thinking too many &quot;thinks.&quot; Horton faces a double challenge: not only must he protect the Whos from a world of naysayers and dangers, but he must guard an abandoned egg, left in his care by the irresponsible Mayzie La Bird. Although Horton faces ridicule, danger, kidnapping and a trial, the intrepid Gertrude McFuzz never loses faith in him. Ultimately, the powers of friendship, loyalty, family and community are challenged and emerge triumphant. 
+The Cat in the Hat tells the story of Horton, an elephant who discovers a speck of dust that contains the Whos, including Jojo, a Who child sent off to military school for thinking too many "thinks." Horton faces a double challenge: not only must he protect the Whos from a world of naysayers and dangers, but he must guard an abandoned egg, left in his care by the irresponsible Mayzie La Bird. Although Horton faces ridicule, danger, kidnapping and a trial, the intrepid Gertrude McFuzz never loses faith in him. Ultimately, the powers of friendship, loyalty, family and community are challenged and emerge triumphant. 
  
 This show is great fun for the whole family! 
  
@@ -16,10 +19,5 @@ Matinees: Feb. 11, 12 and 18 @ 2 pm.
  
 Prices: $12 kids and seniors, $15 adults 
  
-For more information visit www.ludusperformingarts.org</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695199213229</DOCID> 
-<DCT type="str">2017-01-29T07:49:42Z</DCT> 
-<TITLE type="str">Seussical the Musical</TITLE> 
-</root>
+For more information visit www.ludusperformingarts.org</TEXT>
+</TimeML>

@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">SABC executive Hlaudi Motsoeneng and Fikile Mbalula s wife, Nozuko, no longer face legal action over millions which were paid to them in an alleged fraudulent housing scheme run by the Free State government.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200348034</DOCID> 
-<DCT type="str">2017-01-29T07:59:11Z</DCT> 
-<TITLE type="str">Motsoeneng cleared over alleged fraudulent housing scheme</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200348034</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Motsoeneng cleared over alleged fraudulent housing scheme</TITLE>
+<TEXT>SABC executive Hlaudi Motsoeneng and Fikile Mbalula s wife, Nozuko, no longer face legal action over millions which were paid to them in an alleged fraudulent housing scheme run by the Free State government.</TEXT>
+</TimeML>

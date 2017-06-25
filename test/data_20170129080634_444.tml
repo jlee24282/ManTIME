@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jurgen Klopp has said he thought Daniel Sturridge had a &apos;good game&apos; in the midweek EFL Cup defeat at Anfield []</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Liverpool news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194209658</DOCID> 
-<DCT type="str">2017-01-29T06:15:41Z</DCT> 
-<TITLE type="str">Liverpoolboss Klopp gives verdict on Sturridge</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194209658</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Liverpoolboss Klopp gives verdict on Sturridge</TITLE>
+<TEXT>Jurgen Klopp has said he thought Daniel Sturridge had a 'good game' in the midweek EFL Cup defeat at Anfield []</TEXT>
+</TimeML>

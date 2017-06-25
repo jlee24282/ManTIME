@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Rio Ferdinand in the Sunday Times 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205057822</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Rio Ferdinand: Only Arsenal & Spurs can catch Blues, slams Daniel Sturridge</TITLE>
+<TEXT>Rio Ferdinand in the Sunday Times 
 
 Man United old boy Rio Ferdinand has penned an interesting article in the Sunday Times looking at the problems at Liverpool and assessing the Premier League title race at large
 
  
 
-Even before this week’s match at Anfield between Chelsea and Liverpool Ferdinand believes the Reds have blown it
+Even before this weeks match at Anfield between Chelsea and Liverpool Ferdinand believes the Reds have blown it
 
  
 
@@ -26,34 +29,17 @@ Sturridge needs look no further than across the tunnel at the Chelsea side to se
 
  
 
-The way he has stood up to be counted at Chelsea is what Liverpool need not just from Sturridge but several other players in Mane’s absence
+The way he has stood up to be counted at Chelsea is what Liverpool need not just from Sturridge but several other players in Manes absence
 
- Chelsea’s only challengers 
+ Chelseas only challengers 
 
 As for the title race in general Rio talked about the chances the title ends up at White Hart Lane or the Emirates Stadium
 
  
 
-If Liverpool don’t win they’re out of the title race — though in reality I see Arsenal and Tottenham as the only clubs capable of overhauling Chelsea
+If Liverpool dont win theyre out of the title race  though in reality I see Arsenal and Tottenham as the only clubs capable of overhauling Chelsea
 
  
 
-Liverpool Manchester United and Manchester City are fighting it out below them The title race is a matter for London Fourth place is a battle for the northwest</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Manchester United news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Chelsea news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Liverpool news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205057822</DOCID> 
-<DCT type="str">2017-01-29T08:34:05Z</DCT> 
-<TITLE type="str">Rio Ferdinand: Only Arsenal &amp; Spurs can catch Blues, slams Daniel Sturridge</TITLE> 
-</root>
+Liverpool Manchester United and Manchester City are fighting it out below them The title race is a matter for London Fourth place is a battle for the northwest</TEXT>
+</TimeML>

@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A day after former Union Minster SM Krishna resigned from the Congress, the senior leader hit out at the party saying he had been sidelined because of his age in a party which no longer needs mass leaders and wants only managers.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203561242</DOCID> 
-<DCT type="str">2017-01-29T08:21:38Z</DCT> 
-<TITLE type="str">I was sidelined because of my age: SM Krishna</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203561242</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>I was sidelined because of my age: SM Krishna</TITLE>
+<TEXT>A day after former Union Minster SM Krishna resigned from the Congress, the senior leader hit out at the party saying he had been sidelined because of his age in a party which no longer needs mass leaders and wants only managers.</TEXT>
+</TimeML>

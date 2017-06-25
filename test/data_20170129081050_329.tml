@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tweet on Twitter 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203515229</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Burkina Faso qualify for Africa Cup semi-finals</TITLE>
+<TEXT>Tweet on Twitter 
       
 Burkina Faso scored twice in the closing stages to beat Tunisia 2-0 Saturday and become the first qualifiers for the Africa Cup of Nations semi-finals. 
  
-Burkina Faso’s players celebrate at the end of the 2017 Africa Cup of Nations quarter-final football match between Burkina Faso and Tunisia at the Stade de l’Amitie Sino-Gabonaise in Libreville on 
+Burkina Fasos players celebrate at the end of the 2017 Africa Cup of Nations quarter-final football match between Burkina Faso and Tunisia at the Stade de lAmitie Sino-Gabonaise in Libreville on 
 Substitute Aristide Bance scored on 81 minutes after a controversially awarded free-kick with big-screen replays suggesting the hand-ball decision was wrong. 
 Prejuce Nakoulma doubled the lead three minutes later in Libreville with a breakaway goal to clinch a semi-final against Egypt or Morocco next Wednesday. 
  
@@ -15,26 +18,5 @@ Jibril .O
 Facebook 
   
 Twitter 
-      Previous article Senegalese police arrest ex boss of Gambia’s Prisons</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Burkina Faso news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203515229</DOCID> 
-<DCT type="str">2017-01-29T08:16:13Z</DCT> 
-<TITLE type="str">Burkina Faso qualify for Africa Cup semi-finals</TITLE> 
-</root>
+      Previous article Senegalese police arrest ex boss of Gambias Prisons</TEXT>
+</TimeML>

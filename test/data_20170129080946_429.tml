@@ -1,31 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">iTunes services are unavailable. Prices were last updated about 11 hours ago 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201532302</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Top iPhone games gone free for January 28th</TITLE>
+<TEXT>iTunes services are unavailable. Prices were last updated about 11 hours ago 
 
-Our daily list of best iPhone games gone free is compiled using our proprietary algorithm to find you the very best apps that have just gone free today. We scan iTunes’ nearly 2 million apps at 00:01 to select the latest and best deals on top apps. Don’t miss out! Subscribe to our daily appsale newsletter Subscribe 
+Our daily list of best iPhone games gone free is compiled using our proprietary algorithm to find you the very best apps that have just gone free today. We scan iTunes nearly 2 million apps at 00:01 to select the latest and best deals on top apps. Dont miss out! Subscribe to our daily appsale newsletter Subscribe 
 
 #1 
 
-We&apos;ll notify you of price drops, news, and updates for this app.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Mobile industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Handhelds news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Companies</group> 
-<name type="str">Apple news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201532302</DOCID> 
-<DCT type="str">2017-01-28T12:46:29Z</DCT> 
-<TITLE type="str">Top iPhone games gone free for January 28th</TITLE> 
-</root>
+We'll notify you of price drops, news, and updates for this app.</TEXT>
+</TimeML>

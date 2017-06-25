@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Daily thought  
-&quot;Above all, love each other deeply, because love covers over a multitude of sins.&quot; 1 Peter 4:8 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198806510</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Daily docket: January 28</TITLE>
+<TEXT>Daily thought  
+"Above all, love each other deeply, because love covers over a multitude of sins." 1 Peter 4:8 
  
 Are you more an encourager or a criticizer? People loved Jesus because He forgave their sins and cheered them on to greater faithfulness. Be like Jesus. - The Rev. Scott Cooper, pastor of Mohrsville Church of the Brethren 
  
@@ -14,18 +17,5 @@ In WellSpan Ephrata Community Hospital
  A son to Joseph K. and Corim (Martin) Hurst, Ephrata.  A daughter to Camrin Q. Mummaw and Miguela Kingser, Ephrata Township.  A son to Russ and Olga Akinin, Ephrata.  
 Elsewhere 
  A daughter to Brett J. and Leanne (Remington) VanKirk at Evans Army Community Hospital, Fort Carson, Colo. The father is formerly of Alsace Township.  
-Marriage license applications  Arcadio A. Robles, 30, and Magryestel Peralta, 32, both of 616 El Hatco Drive, Muhlenberg Township.  Collin B. Lutz, 32, of 31 Clay Valley Road, Richmond Township, and Kristen L. West, 32, of 624 Mountain View Road, Cumru Township.  Nathan T. Freiwald, 38, and Nicole M. Borelli, 34, both of 6069 Old Route 22, Upper Tulpehocken Township.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Delaware Valley news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198806510</DOCID> 
-<DCT type="str">2017-01-29T07:46:46Z</DCT> 
-<TITLE type="str">Daily docket: January 28</TITLE> 
-</root>
+Marriage license applications  Arcadio A. Robles, 30, and Magryestel Peralta, 32, both of 616 El Hatco Drive, Muhlenberg Township.  Collin B. Lutz, 32, of 31 Clay Valley Road, Richmond Township, and Kristen L. West, 32, of 624 Mountain View Road, Cumru Township.  Nathan T. Freiwald, 38, and Nicole M. Borelli, 34, both of 6069 Old Route 22, Upper Tulpehocken Township.</TEXT>
+</TimeML>

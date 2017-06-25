@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A report claims recordings of conversations detail intentions to discredit opposition parties in a campaign costing R50 million. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199588142</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>News of secret recordings as the ANC war room scandal refuses to go away</TITLE>
+<TEXT>A report claims recordings of conversations detail intentions to discredit opposition parties in a campaign costing R50 million. 
 
-JOHANNESBURG – The City Press has revealed that secret recordings of an African National Congress (ANC) meeting show exactly who was involved in the war room allegedly set up to discredit other parties ahead of the 2016 local government elections.
+JOHANNESBURG  The City Press has revealed that secret recordings of an African National Congress (ANC) meeting show exactly who was involved in the war room allegedly set up to discredit other parties ahead of the 2016 local government elections.
 
 Public relations expert Sihle Bolani has turned to the courts saying she was not paid for helping constitute the campaign.
 
@@ -18,14 +21,5 @@ However, the recordings show there was a problem with raising the required fundi
 
 Jacobs repeatedly asked for updated reports from Bolani. 
 
-Questions have been asked about ANC members’ knowledge of the war room and to what extent it was supported.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199588142</DOCID> 
-<DCT type="str">2017-01-29T07:35:44Z</DCT> 
-<TITLE type="str">News of secret recordings as the ANC war room scandal refuses to go away</TITLE> 
-</root>
+Questions have been asked about ANC members knowledge of the war room and to what extent it was supported.</TEXT>
+</TimeML>

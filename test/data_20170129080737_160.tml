@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Melbourne [Australia], Jan. 28 (ANI): Australian John Peers and his Finnish partner Henri Kontinen defeated the American pair of Bob and Mike Bryan to lift the men&apos;s doubles title of the Australian Op</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196243543</DOCID> 
-<DCT type="str">2017-01-28T13:16:06Z</DCT> 
-<TITLE type="str">Peers-Kontinen clinch men&apos;s doubles title of Australian Open</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196243543</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Peers-Kontinen clinch men's doubles title of Australian Open</TITLE>
+<TEXT>Melbourne [Australia], Jan. 28 (ANI): Australian John Peers and his Finnish partner Henri Kontinen defeated the American pair of Bob and Mike Bryan to lift the men's doubles title of the Australian Op</TEXT>
+</TimeML>

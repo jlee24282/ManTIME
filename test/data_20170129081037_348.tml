@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, age 69, of Kunkletown, passed away Saturday, January 21st at home. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203129039</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Rev. Richard J. Wisener</TITLE>
+<TEXT>, age 69, of Kunkletown, passed away Saturday, January 21st at home. 
  
 Born in Allentown on Sept. 23, 1947, he was the son of the late Dorthea Danner and Peter Rought. 
  
@@ -16,14 +19,5 @@ A Memorial service will be held 1:30 pm, Sun., Feb. 5th at the American Legion P
  
 Family and friends are welcome to offer condolences from 12:30 pm, Sun., Feb. 5th until time of service at the Legion. 
  
-Interment private and at convenience of the family. www.gowerfuneralhome.com</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203129039</DOCID> 
-<DCT type="str">2017-01-29T05:00:00Z</DCT> 
-<TITLE type="str">Rev. Richard J. Wisener</TITLE> 
-</root>
+Interment private and at convenience of the family. www.gowerfuneralhome.com</TEXT>
+</TimeML>

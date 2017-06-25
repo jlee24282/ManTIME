@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">407 Proxy Authentication Required  
-This server could not verify that you are authorized to access the document requested. Either you supplied the wrong credentials (e.g., bad password), or your browser doesn&apos;t understand how to supply the credentials required.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201956005</DOCID> 
-<DCT type="str">2017-01-29T06:32:11Z</DCT> 
-<TITLE type="str">Car insurance premiums soar in 2016</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201956005</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Car insurance premiums soar in 2016</TITLE>
+<TEXT>407 Proxy Authentication Required  
+This server could not verify that you are authorized to access the document requested. Either you supplied the wrong credentials (e.g., bad password), or your browser doesn't understand how to supply the credentials required.</TEXT>
+</TimeML>

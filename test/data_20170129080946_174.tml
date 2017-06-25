@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">for reservation http://www.jollybooking.com/283004-us-Amaris_Hotel_Pekanbaru 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201318699</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Amaris Hotel Pekanbaru Pekanbaru</TITLE>
+<TEXT>for reservation http://www.jollybooking.com/283004-us-Amaris_Hotel_Pekanbaru 
 
 Author: jollybooking 
 Tags: Amaris_Hotel_Pekanbaru Pekanbaru  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201318699</DOCID> 
-<DCT type="str">2017-01-29T07:40:54Z</DCT> 
-<TITLE type="str">Amaris Hotel Pekanbaru Pekanbaru</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">School systems in West Virginia have two choices other than propane for their school buses, but so far neither has drawn much interest. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194450528</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Little Interest in W.Va. For Other Alternative School Bus Fuels</TITLE>
+<TEXT>School systems in West Virginia have two choices other than propane for their school buses, but so far neither has drawn much interest. 
  
 The two fuels are compressed natural gas and gasoline. 
  
-“CNG is something that would work and would make a big impact in our state. The problem with CNG is there are no fueling stations. It would take a lot of money to build fueling stations,” said Mike Pickens , executive director of the Office of School Transportation and School Facilities at the West Virginia Department of Education . 
+CNG is something that would work and would make a big impact in our state. The problem with CNG is there are no fueling stations. It would take a lot of money to build fueling stations, said Mike Pickens , executive director of the Office of School Transportation and School Facilities at the West Virginia Department of Education . 
  
-“It’s a very attractive product,” he added. “It could be the best of all of them, but it’s so expensive. There’s no way to do a pilot (project) because there are no fueling stations.” 
+Its a very attractive product, he added. It could be the best of all of them, but its so expensive. Theres no way to do a pilot (project) because there are no fueling stations. 
  
 Propane companies will agree to build fueling stations at county bus garages in exchange for vehicle purchase contracts with those companies, so that reduces the cost of refueling infrastructure for counties considering the switch from diesel fuel to propane, Pickens said. 
  
@@ -16,20 +19,7 @@ One of the three domestic bus manufacturers began selling gasoline-powered buses
  
 Pickens said West Virginia accepts bids for diesel, propane and CNG buses, but not for gasoline. 
  
-“We got away from gasoline a few years ago for several reasons,” he said. “It’s not even an acceptable fuel right now.” 
+We got away from gasoline a few years ago for several reasons, he said. Its not even an acceptable fuel right now. 
  
-However, the state is not ruling out gasoline in the future, he added.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194450528</DOCID> 
-<DCT type="str">2017-01-29T06:30:00Z</DCT> 
-<TITLE type="str">Little Interest in W.Va. For Other Alternative School Bus Fuels</TITLE> 
-</root>
+However, the state is not ruling out gasoline in the future, he added.</TEXT>
+</TimeML>

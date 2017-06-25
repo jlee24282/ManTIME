@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">DIRECTORS’ REPORT TO THE SHAREHOLDERS
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201664732</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Consolidated-Financial-Statements-2015.pdf</TITLE>
+<TEXT>DIRECTORS REPORT TO THE SHAREHOLDERS
 Consolidated Financial Statements - 2015
 I am pleased to present to the shareholders, on behalf of the Board of Directors, the consolidated financial statements of
 the Group for the year ended December 31, 2015.
 These consolidated financial statements have been prepared in accordance with approved International Financial Reporting
 Standards and Islamic Financial Accounting Standards and such other applicable directives as detailed in note 3.1 of the
-financi</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201664732</DOCID> 
-<DCT type="str">2017-01-29T07:21:11Z</DCT> 
-<TITLE type="str">Consolidated-Financial-Statements-2015.pdf</TITLE> 
-</root>
+financi</TEXT>
+</TimeML>

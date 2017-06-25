@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198340193</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Action (221.66 ft) - Observation - ALAG1 - Alapaha River at Alapaha (Georgia)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
      
 NOTE: Forecasts are not available for the Alapaha River at Alapaha. Only observed stages are available for this point. 
-       Flood Categories (in feet) 
+      Flood Categories (in feet) 
  Major Flood Stage:  0  Moderate Flood Stage:  226  Flood Stage:  223  Action Stage:  220  Low Stage (in feet):  -9999  
 Historic Crests 
 (1) 226.60 ft on 04/30/1928 
@@ -29,11 +32,11 @@ Show More Recent Crests
 Low Water Records 
 Currently none available. 
    
-Show FEMA&apos;s National Flood Hazard Layers 
+Show FEMA's National Flood Hazard Layers 
    
-FEMA&apos;s National Flood Hazard Layers not showing? 
+FEMA's National Flood Hazard Layers not showing? 
   
-Note: Your zoom level may have changed. ESRI&apos;s zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
       
 Zoom Level:14 
    
@@ -41,16 +44,11 @@ Legend
    
 FEMA Layer 
     Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  226  Structures may be impacted by rising water on the west bank of the creek in the vicinity of Alapaha River Drive upstream of the gage.  223  Minor flooding begins primarily affecting swamplands along the creek near US-82.   
-Latitude: 31.384167° N, Longitude: 83.192500° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 31.384167 N, Longitude: 83.192500 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  207.6 ft  223 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 207.6)  Elevation 
 (gauge height = flood stage)  Elevation information source  NAVD88  207.6  223  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  0.00  16  Old gage zero flood stage  
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695198340193</DOCID> 
-<DCT type="str">2017-01-29T07:37:12Z</DCT> 
-<TITLE type="str">Action (221.66 ft) - Observation - ALAG1 - Alapaha River at Alapaha (Georgia)</TITLE> 
-</root>
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

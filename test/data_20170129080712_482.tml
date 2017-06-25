@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">IDT20032 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195540478</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>29/16:13 EDT Severe Weather Warning 1 (TAS)</TITLE>
+<TEXT>IDT20032 
 Australian Government Bureau of Meteorology 
 Tasmanian Regional Office 
  
@@ -39,22 +42,5 @@ The State Emergency Service advises that people should:
 The next Severe Weather Warning will be issued by 11:00 pm AEDT Sunday. 
 
  
-Warnings are also available through TV and Radio broadcasts, the Bureau&apos;s website at www.bom.gov.au or call 1300 659 216. The Bureau and State Emergency Service would appreciate warnings being broadcast regularly.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Weather news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195540478</DOCID> 
-<DCT type="str">2017-01-29T05:13:50Z</DCT> 
-<TITLE type="str">29/16:13 EDT Severe Weather Warning 1 (TAS)</TITLE> 
-</root>
+Warnings are also available through TV and Radio broadcasts, the Bureau's website at www.bom.gov.au or call 1300 659 216. The Bureau and State Emergency Service would appreciate warnings being broadcast regularly.</TEXT>
+</TimeML>

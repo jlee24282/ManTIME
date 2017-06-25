@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">__</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">E-commerce news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199823907</DOCID> 
-<DCT type="str">2017-01-29T00:05:57Z</DCT> 
-<TITLE type="str">Grocery shopping in person or online: Which is best?</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199823907</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Grocery shopping in person or online: Which is best?</TITLE>
+<TEXT>__</TEXT>
+</TimeML>

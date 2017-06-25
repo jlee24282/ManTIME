@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Washington, January 29 (QNA) - US President Donald Trump and Russian President Vladimir Putin ha</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Mobile industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Russia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201349623</DOCID> 
-<DCT type="str">2017-01-29T08:06:03Z</DCT> 
-<TITLE type="str">Trump, Putin Discuss Pressing International Issues in First Phone Call</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201349623</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump, Putin Discuss Pressing International Issues in First Phone Call</TITLE>
+<TEXT>Washington, January 29 (QNA) - US President Donald Trump and Russian President Vladimir Putin ha</TEXT>
+</TimeML>

@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">POLICE ARE ON the scene of a two-car smash-up along the Graeme Hall section of the ABC Highway.   
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202591697</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Accident on ABC Highway</TITLE>
+<TEXT>POLICE ARE ON the scene of a two-car smash-up along the Graeme Hall section of the ABC Highway.  
  
  
- At least seven people are estimated to be involved in the collision which occurred around 3 a.m. ...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Broadcasting industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Caribbean news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202591697</DOCID> 
-<DCT type="str">2017-01-29T07:30:00Z</DCT> 
-<TITLE type="str">Accident on ABC Highway</TITLE> 
-</root>
+ At least seven people are estimated to be involved in the collision which occurred around 3 a.m....</TEXT>
+</TimeML>

@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jaydan is a full-time Digital News Producer and Social Media Content Coordinator at myGC.com.au. At 17 years young, he was appointed Managing Editor of his local newspaper, the Junee Southern Cross. Since then, he has gone on to work as a Journalist and Content Producer in newsrooms in New South Wales and Queensland and has founded a number of highly-engaging social media channels and digital news sharing networks. With almost ten years experience in both print and digital media, he has developed a passion for reporting the news as it breaks and is committed to working around-the-clock to ensure the best coverage during major events. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195357634</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Police appeal for information after young man dies outside Perth bar</TITLE>
+<TEXT>Jaydan is a full-time Digital News Producer and Social Media Content Coordinator at myGC.com.au. At 17 years young, he was appointed Managing Editor of his local newspaper, the Junee Southern Cross. Since then, he has gone on to work as a Journalist and Content Producer in newsrooms in New South Wales and Queensland and has founded a number of highly-engaging social media channels and digital news sharing networks. With almost ten years experience in both print and digital media, he has developed a passion for reporting the news as it breaks and is committed to working around-the-clock to ensure the best coverage during major events. 
 
 You might also like 
 
-What&apos;s On Events Calendar 
+What's On Events Calendar 
 
 M 
 
@@ -34,24 +37,11 @@ March 16 - March 19
 
 LATEST NEWS 
 
-Live it, Love it! myGC is an online go-to for the Gold Coast. Along with our radio station 1029 Hot Tomato, we are at the heart of the GC community. While Hot Tomato is what you listen to on the Coast, myGC brings the Coast to life with breaking news, traffic and weather updates when you need them, sport, events, videos, photos, entertainment news and lifestyle content. We’re about the lifestyle we love here, and the people who live it. 
+Live it, Love it! myGC is an online go-to for the Gold Coast. Along with our radio station 1029 Hot Tomato, we are at the heart of the GC community. While Hot Tomato is what you listen to on the Coast, myGC brings the Coast to life with breaking news, traffic and weather updates when you need them, sport, events, videos, photos, entertainment news and lifestyle content. Were about the lifestyle we love here, and the people who live it. 
 
-myGC is the official Hot Tomato website and you’ll find all things Hot Tomato on myGC from live streaming and show info, to events and competitions. 
+myGC is the official Hot Tomato website and youll find all things Hot Tomato on myGC from live streaming and show info, to events and competitions. 
 
-myGC – the life &amp; soul of the Gold Coast! 
+myGC  the life & soul of the Gold Coast! 
 
-1029 Hot Tomato - playing the best music from the 80s to now!</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195357634</DOCID> 
-<DCT type="str">2017-01-29T07:21:30Z</DCT> 
-<TITLE type="str">Police appeal for information after young man dies outside Perth bar</TITLE> 
-</root>
+1029 Hot Tomato - playing the best music from the 80s to now!</TEXT>
+</TimeML>

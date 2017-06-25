@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Golden State Warriors guard Stephen Curry (30) celebrates after making a half-court shot against the Los Angeles Clippers during the second quarter at Oracle Arena. (Photo: Kyle Terada-USA TODAY Sports)Steph Curry drained what ESPN Stats &amp; Info noted[1] is his longest shot of the season on Saturday night against the Clippers. The shot was from half-court at the first-half buzzer.The long shot extended Golden State&apos;s lead to 72-51, and Curry let loose after it dropped through the net. He slid ...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194622567</DOCID> 
-<DCT type="str">2017-01-29T04:57:51Z</DCT> 
-<TITLE type="str">Steph Curry goes crazy after hitting halfcourt buzzer-beater</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194622567</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Steph Curry goes crazy after hitting halfcourt buzzer-beater</TITLE>
+<TEXT>Golden State Warriors guard Stephen Curry (30) celebrates after making a half-court shot against the Los Angeles Clippers during the second quarter at Oracle Arena. (Photo: Kyle Terada-USA TODAY Sports)Steph Curry drained what ESPN Stats & Info noted[1] is his longest shot of the season on Saturday night against the Clippers. The shot was from half-court at the first-half buzzer.The long shot extended Golden State's lead to 72-51, and Curry let loose after it dropped through the net. He slid ...</TEXT>
+</TimeML>

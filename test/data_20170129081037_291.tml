@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Cloudy skies. A few flurries are possible. High 38F. Winds WNW at 10 to 15 mph.. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203091910</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Travel ban affects citizens of 7 Muslim-majority nations</TITLE>
+<TEXT>Cloudy skies. A few flurries are possible. High 38F. Winds WNW at 10 to 15 mph.. 
 
-Clear skies with a few passing clouds. Low 29F. Winds W at 10 to 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203091910</DOCID> 
-<DCT type="str">2017-01-29T07:39:17Z</DCT> 
-<TITLE type="str">Travel ban affects citizens of 7 Muslim-majority nations</TITLE> 
-</root>
+Clear skies with a few passing clouds. Low 29F. Winds W at 10 to 2</TEXT>
+</TimeML>

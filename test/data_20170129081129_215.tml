@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Johannesburg - The Constitutional Court judgment on Nkandla was meant as a lecture on what kind of president the country hoped for, former deputy chief justice Dikgang Moseneke said during his book la</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204843944</DOCID> 
-<DCT type="str">2017-01-28T22:35:46Z</DCT> 
-<TITLE type="str">Nkandla judgment exemplary of ConCourt - Moseneke</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204843944</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Nkandla judgment exemplary of ConCourt - Moseneke</TITLE>
+<TEXT>Johannesburg - The Constitutional Court judgment on Nkandla was meant as a lecture on what kind of president the country hoped for, former deputy chief justice Dikgang Moseneke said during his book la</TEXT>
+</TimeML>

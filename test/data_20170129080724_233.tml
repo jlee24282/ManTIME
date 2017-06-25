@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The person who was killed at the camp located in the northern West Bank was identified as 19-year-old Mohammed Abu Khalifa, the sources said.  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195829664</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Israeli troops kill Palestinian in West Bank</TITLE>
+<TEXT>The person who was killed at the camp located in the northern West Bank was identified as 19-year-old Mohammed Abu Khalifa, the sources said.  
 World Bulletin / News Desk 
  
 A Palestinian was shot dead Sunday and five others were wounded by Israeli soldiers at the Jenin camp in the occupied West Bank, Palestinian medical sources said. 
@@ -9,7 +12,7 @@ The shooting occurred after an incursion into the camp by Israeli forces sparked
  
 An Israeli army spokeswoman said the soldiers had opened fire after entering the camp and being attacked with explosive devices. 
  
-&quot;Faced with immediate danger, the soldiers fired at the main instigators of the violence,&quot; she said. 
+"Faced with immediate danger, the soldiers fired at the main instigators of the violence," she said. 
  
 None of the soldiers were hurt, she added. 
  
@@ -19,22 +22,5 @@ Most of the Palestinians killed were carrying out knife, gun or car-ramming atta
  
 Israel blames incitement by Palestinian leaders and media as a leading cause of the violence. 
  
-Israeli authorities have confiscated the bodies of killed Palestinians since the violence began, often keeping them for many months as a means of deterrence and to prevent clashes during funerals.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Israel news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Palestinian territories news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195829664</DOCID> 
-<DCT type="str">2017-01-29T07:24:59Z</DCT> 
-<TITLE type="str">Israeli troops kill Palestinian in West Bank</TITLE> 
-</root>
+Israeli authorities have confiscated the bodies of killed Palestinians since the violence began, often keeping them for many months as a means of deterrence and to prevent clashes during funerals.</TEXT>
+</TimeML>

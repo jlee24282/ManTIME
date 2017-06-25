@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Movie times are subject to change after press time. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204943807</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Movie times for Sunday, Jan. 29</TITLE>
+<TEXT>Movie times are subject to change after press time. 
  
-Bend — Old Mill 
+Bend  Old Mill 
  
-Regal Old Mill Stadium 16 &amp; IMAX, 680 SW Powerhouse Drive, 800-326-3264 
+Regal Old Mill Stadium 16 & IMAX, 680 SW Powerhouse Drive, 800-326-3264 
  
 20th Century Women (R) 2:40, 8:30 
  
@@ -12,7 +15,7 @@ Arrival (PG-13) 9:45
  
 Dirty Dancing 30th Anniversary (no MPAA rating) 2, 7 
  
-A Dog’s Purpose (PG) 12:45, 3:45, 6:45, 9:40 
+A Dogs Purpose (PG) 12:45, 3:45, 6:45, 9:40 
  
 The Founder (PG-13) 12:25, 3:05, 6:30, 9:30 
  
@@ -54,11 +57,11 @@ XXX: Return of Xander Cage (PG-13) 2:05, 4:55, 7:30
  
 XXX: Return of Xander Cage 3-D (PG-13) 11:30 a.m., 10:25 
  
-Bend — McMenamins 
+Bend  McMenamins 
  
 McMenamins Old St. Francis School, 700 NW Bond St., Bend, 541-330-8562 
  
-Assassin’s Creed (PG-13) 8:45 
+Assassins Creed (PG-13) 8:45 
  
 Fantastic Beasts and Where to Find Them (PG) 11:30 a.m., 5:30 
  
@@ -66,7 +69,7 @@ Trolls (PG) 2:45
  
 Younger than 21 may attend all screenings if accompanied by a legal guardian. 
  
-Bend — Tin Pan 
+Bend  Tin Pan 
  
 Tin Pan Theater, 869 NW Tin Pan Alley, Bend, 541-241-2271 
  
@@ -80,7 +83,7 @@ Redmond
  
 Redmond Cinemas, 1535 SW Odem Medo Road, Redmond, 541-548-8777 
  
-A Dog’s Purpose (PG) 11 a.m., 1:30, 4, 6:30, 9:15 
+A Dogs Purpose (PG) 11 a.m., 1:30, 4, 6:30, 9:15 
  
 La La Land (PG-13) 12:45, 3:30, 6:15, 9 
  
@@ -92,7 +95,7 @@ Sisters
  
 Sisters Movie House, 720 Desperado Court, Sisters, 541-549-8800 
  
-A Dog’s Purpose (PG) 1:45, 4:15, 7 
+A Dogs Purpose (PG) 1:45, 4:15, 7 
  
 Gold (R) 2:15, 4:45, 7:15 
  
@@ -106,7 +109,7 @@ Madras
  
 Madras Cinema 5, 1101 SW U.S. Highway 97, Madras, 541-475-3505 
  
-A Dog’s Purpose (PG) noon, 2:20, 4:40, 7 
+A Dogs Purpose (PG) noon, 2:20, 4:40, 7 
  
 La La Land (PG-13) 1:10, 4, 6:45 
  
@@ -122,20 +125,7 @@ Pine Theater, 214 N. Main St., Prineville, 541-416-1014
  
 Hidden Figures (PG) 1, 4, 7 
  
-La La Land (Upstairs — PG-13) 1, 4, 7 
+La La Land (Upstairs  PG-13) 1, 4, 7 
  
-The upstairs screening room has limited accessibility.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204943807</DOCID> 
-<DCT type="str">2017-01-29T08:33:07Z</DCT> 
-<TITLE type="str">Movie times for Sunday, Jan. 29</TITLE> 
-</root>
+The upstairs screening room has limited accessibility.</TEXT>
+</TimeML>

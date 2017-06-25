@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Home  Business News Share the joy 
-                                 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198880192</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Global Car Sales to See an Upward Trend in 2017</TITLE>
+<TEXT>Home  Business News Share the joy 
+                       
 As per the Global Auto Report released by Scotiabank in January 2017, global car sales are likely to be on the upward rising curve for a record eighth consecutive year. Car sales saw a sharp increase globally in the final months of 2016, which is a good indicator of what is to come in the present year for the auto industry. 
  
 The United States and Western Europe is likely to see an increased demand in terms of replacement, while the emerging markets will see a rise, contrary to declining sales as noticed in the past years. However, China is expected to show lesser growth , i.e. only about one percent in comparison to the six percent rise in 2016. 
  
-Global Car Sales Statistics In 2016      
+Global Car Sales Statistics In 2016  
  
 The statistics for 2016 shed a light on car sales in the previous year. By looking into them, interested people may know as to how automobile companies fared and which cars stole the show in the global car market. 
  
@@ -28,18 +31,5 @@ The post Global Car Sales to See an Upward Trend in 2017 appeared first on Value
  
 
 ValueWalk 
-    Previous article    Next article</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Automotive industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Companies</group> 
-<name type="str">Volkswagen news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198880192</DOCID> 
-<DCT type="str">2017-01-29T07:44:21Z</DCT> 
-<TITLE type="str">Global Car Sales to See an Upward Trend in 2017</TITLE> 
-</root>
+    Previous article    Next article</TEXT>
+</TimeML>

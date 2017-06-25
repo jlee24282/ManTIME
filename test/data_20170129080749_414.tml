@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">NEW YORK // A federal judge on Saturday blocked part of President Donald Trump’s temporary immigration ban, ordering authorities to stop deporting refugees and other travellers stuck at US airports.&quot;Victory!!!!!!&quot; the American Civil Liberties Union (ACLU) , whose lawyers sued the government, tweeted after US district judge Ann Donnelly issued her decision.&quot;Our courts today worked as they should as bulwarks against government abuse or unconstitutional policies and orders.&quot; Mr</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196893836</DOCID> 
-<DCT type="str">2017-01-29T07:29:59Z</DCT> 
-<TITLE type="str">Judge blocks part of Trump’s immigration ban...</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196893836</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Judge blocks part of Trumps immigration ban...</TITLE>
+<TEXT>NEW YORK // A federal judge on Saturday blocked part of President Donald Trumps temporary immigration ban, ordering authorities to stop deporting refugees and other travellers stuck at US airports."Victory!!!!!!" the American Civil Liberties Union (ACLU) , whose lawyers sued the government, tweeted after US district judge Ann Donnelly issued her decision."Our courts today worked as they should as bulwarks against government abuse or unconstitutional policies and orders." Mr</TEXT>
+</TimeML>

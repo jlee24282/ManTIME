@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tweet on Twitter 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204479089</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>LEAs register 230 cases under Anti Money Laundering Act</TITLE>
+<TEXT>Tweet on Twitter 
      
 ISLAMABAD, Jan 29 (APP): The Law Enforcement Agencies (LEAs) in the 
 country have registered 230 cases under Anti Money Laundering (AML) Act to 
@@ -38,8 +41,8 @@ Accountability Bureau (NAB), Federal Bureau of Revenue (FBR),
 (Directorate General of Intelligence and Investigation) to 
 investigate and take action according to law. 
 National Action Plan (NAP) had also been chalked out wherein 
-point No, 6 relates to “Choking financing for terrorist and 
-terrorist organizations.” NAP is being implemented in letter and 
+point No, 6 relates to Choking financing for terrorist and 
+terrorist organizations. NAP is being implemented in letter and 
 spirit. 
 The collection of funds, through donation boxes, for different 
 organizations has been banned. In case of violation, donation boxes 
@@ -69,26 +72,5 @@ counter terrorist departments of the provinces.
 Facebook 
   
 Twitter 
-      Previous article Trump’s new order to deliver blow to refugees but do little to address terrorism: HRW  Next article More than 10,000 tourists daily visits Murree, Galiyat</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Money laundering news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Banking news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Pakistan news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204479089</DOCID> 
-<DCT type="str">2017-01-29T06:27:31Z</DCT> 
-<TITLE type="str">LEAs register 230 cases under Anti Money Laundering Act</TITLE> 
-</root>
+      Previous article Trumps new order to deliver blow to refugees but do little to address terrorism: HRW  Next article More than 10,000 tourists daily visits Murree, Galiyat</TEXT>
+</TimeML>

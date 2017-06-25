@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Evaluator:________________________________________________
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201665542</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>evaluation sheet.pdf</TITLE>
+<TEXT>Evaluator:________________________________________________
 
 Evaluator:________________________________________________
 
@@ -8,9 +11,9 @@ Experiment Title: _________________________________________
 
 Experiment Title: __________________________________________
 
-Peer’s name:_____________________________________________
+Peers name:_____________________________________________
 
-Peer’s name:_____________________________________________
+Peers name:_____________________________________________
 
 I.
 
@@ -24,10 +27,5 @@ A F D SD
 1. Demonstrates initiative in
 performing the experiment
 2. Encourages groupmates to
-cooper</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201665542</DOCID> 
-<DCT type="str">2017-01-29T07:20:10Z</DCT> 
-<TITLE type="str">evaluation sheet.pdf</TITLE> 
-</root>
+cooper</TEXT>
+</TimeML>

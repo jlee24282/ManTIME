@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Assassin’s Creed: Through a revolutionary technology that unlocks his genetic memories, Callum Lynch (Michael Fassbender) experiences the adventures of his ancestor, Aguilar, in 15th Century Spain. Callum discovers he is descended from a mysterious secret society, the Assassins, and amasses incredible knowledge and skills to take on the oppressive and powerful Templar organisation in the present day. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196093009</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Chinese New Year Celebration</TITLE>
+<TEXT>Assassins Creed: Through a revolutionary technology that unlocks his genetic memories, Callum Lynch (Michael Fassbender) experiences the adventures of his ancestor, Aguilar, in 15th Century Spain. Callum discovers he is descended from a mysterious secret society, the Assassins, and amasses incredible knowledge and skills to take on the oppressive and powerful Templar organisation in the present day. 
  
 Space Between Us: The first human born on Mars travels to Earth for the first time, experiencing the wonders of the planet through fresh eyes. He embarks on an adventure with a street-smart girl to discover how he came to be. 
  
 The Monster: A mother and daughter must confront a terrifying monster when they break down on a deserted road. 
  
 For bookings and more info, visit 
-novocinemas.com</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196093009</DOCID> 
-<DCT type="str">2017-01-29T07:22:34Z</DCT> 
-<TITLE type="str">Chinese New Year Celebration</TITLE> 
-</root>
+novocinemas.com</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">John Terry v The Sun 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196742823</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Chelseas John Terry slams Sun for fake news</TITLE>
+<TEXT>John Terry v The Sun 
 
 For the second time in just a few days Chelsea legend Jon Terry has again gone after the Sun for fake news
 
@@ -18,11 +21,11 @@ Terry called out the Sun by posting a picture of him at the event
 
  
 
-Now it’s time for round two as Terry takes on more inaccurate reporting regarding his England career
+Now its time for round two as Terry takes on more inaccurate reporting regarding his England career
 
- JT &amp; England 
+ JT & England 
 
-There’s currently a story on the Sun which is headlined ‘The FA vetoed an attempt by Sam Allardyce to bring John Terry out of international retirement’
+Theres currently a story on the Sun which is headlined The FA vetoed an attempt by Sam Allardyce to bring John Terry out of international retirement
 
  
 
@@ -30,26 +33,13 @@ In the article it was claimed that the current Crystal Palace boss tried to brin
 
  
 
-Allardyce is said to have asked the FA‘s permission to recall the Chelsea captain however the top brass concluded it would be seen as sending the national team backwards
+Allardyce is said to have asked the FAs permission to recall the Chelsea captain however the top brass concluded it would be seen as sending the national team backwards
 
  
 
-The Chelsea legend has called BS on the article with a sarcastic post on Instagram which read &quot;another piece of fantastic journalism&quot;
+The Chelsea legend has called BS on the article with a sarcastic post on Instagram which read "another piece of fantastic journalism"
 
  
 
-Ouch</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Chelsea news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196742823</DOCID> 
-<DCT type="str">2017-01-29T07:32:08Z</DCT> 
-<TITLE type="str">Chelsea’s John Terry slams Sun for fake news</TITLE> 
-</root>
+Ouch</TEXT>
+</TimeML>

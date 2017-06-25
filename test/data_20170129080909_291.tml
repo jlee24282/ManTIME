@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Aabhas ha..is the story of a 20 yr old girl who lives life to the fullest. She believes in rejoicing the smallest moments of life. She lives by the mantra- LIVE, LOVE ... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199987949</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Abhaas Ha_Full Episode May 15 '12 Part - 1</TITLE>
+<TEXT>Aabhas ha..is the story of a 20 yr old girl who lives life to the fullest. She believes in rejoicing the smallest moments of life. She lives by the mantra- LIVE, LOVE ... 
 
 Author: zeemarathi 
 Tags: 
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199987949</DOCID> 
-<DCT type="str">2017-01-29T07:31:27Z</DCT> 
-<TITLE type="str">Abhaas Ha_Full Episode May 15 &apos;12 Part - 1</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

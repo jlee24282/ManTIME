@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">07:19 GMT 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196818192</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Baton Rouge, New Orleans, Lafayette area Business Briefs for Jan. 29, 2017</TITLE>
+<TEXT>07:19 GMT 
  
-Conference targets business with Brazil A Gulf Coast Trade Alliance conference targeted at doing business in Brazil, the largest economy in Latin America, will be held April 4-5 in New Orleans. The Louisiana District Export Council and U.S. Commercial Service are participating in the conference, which is expected to attract Brazilian delegations from strategic organizations and … ( continue reading )</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">New Orleans news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196818192</DOCID> 
-<DCT type="str">2017-01-29T07:32:35Z</DCT> 
-<TITLE type="str">Baton Rouge, New Orleans, Lafayette area Business Briefs for Jan. 29, 2017</TITLE> 
-</root>
+Conference targets business with Brazil A Gulf Coast Trade Alliance conference targeted at doing business in Brazil, the largest economy in Latin America, will be held April 4-5 in New Orleans. The Louisiana District Export Council and U.S. Commercial Service are participating in the conference, which is expected to attract Brazilian delegations from strategic organizations and  ( continue reading )</TEXT>
+</TimeML>

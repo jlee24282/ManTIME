@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Days7 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201700484</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Roger Federer vs Rafael Nadal - Australian Op...</TITLE>
+<TEXT>Days7 
  
 Emirates 24|7 
  
@@ -104,7 +107,7 @@ Adam Levine
  
 Madonna 
  
-Gerard Piqué 
+Gerard Piqu 
  
 Lionel Messi 
  
@@ -114,7 +117,7 @@ Shah Rukh Khan
  
 The Arabian Post 
  
-James Rodríguez 
+James Rodrguez 
  
 Bill Gates 
  
@@ -186,7 +189,7 @@ Emirates Woman
  
 Tariq Alhomayed 
  
-What&apos;s On Dubai 
+What's On Dubai 
  
 Salman Aldosary 
  
@@ -252,7 +255,7 @@ Gulf Business
  
 Abu Dhabi Events 
  
-Michael Bublé 
+Michael Bubl 
  
 Ed Sheeran 
  
@@ -352,18 +355,5 @@ Hozpitality
  
 AME info 
  
-Mark Zuckerberg</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201700484</DOCID> 
-<DCT type="str">2017-01-29T08:02:37Z</DCT> 
-<TITLE type="str">Roger Federer vs Rafael Nadal - Australian Op...</TITLE> 
-</root>
+Mark Zuckerberg</TEXT>
+</TimeML>

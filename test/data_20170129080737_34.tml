@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The person who was killed at the camp located in the northern West Bank was identified as 19-year-old Mohammed Abu Khalifa, the sources said.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196075514</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Israeli troops kill Palestinian in West Bank</TITLE>
+<TEXT>The person who was killed at the camp located in the northern West Bank was identified as 19-year-old Mohammed Abu Khalifa, the sources said.
 
-read more</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Israel news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Palestinian territories news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196075514</DOCID> 
-<DCT type="str">2017-01-29T07:26:58Z</DCT> 
-<TITLE type="str">Israeli troops kill Palestinian in West Bank</TITLE> 
-</root>
+read more</TEXT>
+</TimeML>

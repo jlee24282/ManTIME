@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">29/1/2017 16:18          秀茂坪一個單位起火, 約50名住戶要疏散. 
-        事發在中午12時許, 秀茂坪邨秀雅樓一個單位冒出濃煙, 消防到場將火救熄, 初步調查相信是房間雜物起火, 起火原因無可疑, 期間約50名住戶疏散, 無人受傷.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203706368</DOCID> 
-<DCT type="str">2017-01-29T08:23:50Z</DCT> 
-<TITLE type="str">秀茂坪單位起火約50名住戶疏散</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203706368</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>50</TITLE>
+<TEXT>29/1/2017 16:18  , 50. 
+12, , , , , 50, .</TEXT>
+</TimeML>

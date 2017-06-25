@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">WHAT were your favourite moments of 2016? 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203242656</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Andy Murray, Ed Balls and Leicester City - see who made the top 10 of 2016's best moments</TITLE>
+<TEXT>WHAT were your favourite moments of 2016? 
 
-According to a poll of 2,000 Brits, Andy Murray&apos;s Wimbledon triumph was top of the list. 
+According to a poll of 2,000 Brits, Andy Murray's Wimbledon triumph was top of the list. 
 
-Here&apos;s the top ten of events that captured our imagination last year. 2. Leicester City’s Premier League victory. 4. The moment the baby iguana escaped the snakes in Planet Earth 2. 
+Here's the top ten of events that captured our imagination last year. 2. Leicester Citys Premier League victory. 4. The moment the baby iguana escaped the snakes in Planet Earth 2. 
 
 5. When Alistair Brownlee helping his brother, Jonny, across the Triathlon World Series finishing line (sacrificing his own first place position). 
 
@@ -12,40 +15,23 @@ Here&apos;s the top ten of events that captured our imagination last year. 2. Le
 
 7. Tim Peake completing his 185-day stint in space. 
 
-8. Ed Balls rendering the nation speechless after dancing ‘Gangnam Style’ on Strictly. 
+8. Ed Balls rendering the nation speechless after dancing Gangnam Style on Strictly. 
 
 9. Leonardo DiCaprio finally winning that Oscar. 
 
 10. Devon pensioner Joe Bartley being offered a job, after putting a desperate advert in the local paper. 
 
-There were plenty of other momentous moments - here to prove it are some of the &apos;winning moments&apos; that didn&apos;t make the top ten. 
+There were plenty of other momentous moments - here to prove it are some of the 'winning moments' that didn't make the top ten. 
 
-11. TV favourites, Ant &amp; Dec, finally getting their OBEs. 
+11. TV favourites, Ant & Dec, finally getting their OBEs. 
 
 12. Jon Snow being re-incarnated on Game of Thrones. 
 
-13. Emmerdale’s Robert Sugden and Aaron Dingle revealing they are to tie the knot. 
+13. Emmerdales Robert Sugden and Aaron Dingle revealing they are to tie the knot. 
 
 14. Candice Brown winning The Great British Bake Off 2016. 
 
-15. England’s Rugby Union team going unbeaten for a whole year. 
+15. Englands Rugby Union team going unbeaten for a whole year. 
 
-The list was compiled from a survey commissioned for GalaBingo.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">UK politics news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203242656</DOCID> 
-<DCT type="str">2017-01-29T07:50:00Z</DCT> 
-<TITLE type="str">Andy Murray, Ed Balls and Leicester City - see who made the top 10 of 2016&apos;s best moments</TITLE> 
-</root>
+The list was compiled from a survey commissioned for GalaBingo.</TEXT>
+</TimeML>

@@ -1,28 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Justin Rose lost his lead of the Farmers Insurance Open at Torrey Pines after a tough third round.   Justin Rose of England plays his shot from the second tee during the third round of the Farmers Insurance Open  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197456777</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Rose loses lead at Torrey Pines</TITLE>
+<TEXT>Justin Rose lost his lead of the Farmers Insurance Open at Torrey Pines after a tough third round.   Justin Rose of England plays his shot from the second tee during the third round of the Farmers Insurance Open  
 The Olympic champion was the leader after the opening two rounds, but he carded a one-over-par 73 to slip back to seven under, two shots off joint leaders Patrick Rodgers and Brandt Snedeker. 
  
 Rodgers, who is searching for a first PGA Tour win, fired five birdies in his 67, the joint-best round of the day, to propel himself into contention, while defending champion Snedeker compiled a 70. 
  
-Rodgers said on pgatour.com: &quot;The conditions were awesome, that&apos;s why we come to San Diego, the sun was out and there was no wind, so it was fun to make a few birdies.&quot; 
+Rodgers said on pgatour.com: "The conditions were awesome, that's why we come to San Diego, the sun was out and there was no wind, so it was fun to make a few birdies." 
  
 Tony Finau also shot 67 to move up to eight under with Cheng Tsung Pan. 
  
 Rose is one of eight men on seven under. 
  
-Tiger Woods missed the cut on Friday on his first PGA Tour tournament in almost 18 months.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: golf news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197456777</DOCID> 
-<DCT type="str">2017-01-29T07:37:38Z</DCT> 
-<TITLE type="str">Rose loses lead at Torrey Pines</TITLE> 
-</root>
+Tiger Woods missed the cut on Friday on his first PGA Tour tournament in almost 18 months.</TEXT>
+</TimeML>

@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Stock market sentiment in the days to come would be driven by the country&apos;s first biggest economic event of the year, Union Budget due on February 1, say experts.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Equity markets news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196584785</DOCID> 
-<DCT type="str">2017-01-29T07:21:37Z</DCT> 
-<TITLE type="str">Stock market looks up to Union Budget for further cues: Experts</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196584785</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Stock market looks up to Union Budget for further cues: Experts</TITLE>
+<TEXT>Stock market sentiment in the days to come would be driven by the country's first biggest economic event of the year, Union Budget due on February 1, say experts.</TEXT>
+</TimeML>

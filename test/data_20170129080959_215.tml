@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">TENNIS
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201823478</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sports on TV, radio for Sunday, January 29: Trail Blazers, NHL All-Star Game, Pro Bowl</TITLE>
+<TEXT>TENNIS
 
 12:30 a.m. Sunday
 
-ESPN -- Australian Open, Men&apos;s championship, at Melbourne, Australia
+ESPN -- Australian Open, Men's championship, at Melbourne, Australia
 
 NBA
 
@@ -50,7 +53,7 @@ FS1 -- FA Cup, Manchester United vs. Wigan
 
 ESPN2 -- Men, International friendly, United States vs. Serbia, at San Diego
 
-MEN&apos;S COLLEGE BASKETBALL
+MEN'S COLLEGE BASKETBALL
 
 10 a.m.
 
@@ -78,7 +81,7 @@ BTN -- Purdue at Nebraska
 
 3 p.m.
 
-FS1 -- Xavier at St. John&apos;s
+FS1 -- Xavier at St. John's
 
 3:30 p.m.
 
@@ -90,7 +93,7 @@ ESPNU -- Boston College at Virginia Tech
 
 ESPNU -- Stanford at California
 
-WOMEN&apos;S COLLEGE BASKETBALL
+WOMEN'S COLLEGE BASKETBALL
 
 9 a.m.
 
@@ -112,7 +115,7 @@ SEC -- Arkansas at LSU
 
 FS1 -- West Virginia at Texas
 
-SEC -- Texas A&amp;M at Mississippi State
+SEC -- Texas A&M at Mississippi State
 
 3 p.m.
 
@@ -150,17 +153,17 @@ SKIING
 
 4:30 a.m.
 
-NBCSN -- FIS Alpine World Cup, Men&apos;s Giant Slalom, second run, at Garmisch Partenkirchen, Germany
+NBCSN -- FIS Alpine World Cup, Men's Giant Slalom, second run, at Garmisch Partenkirchen, Germany
 
 2:30 p.m.
 
-NBCSN -- FIS Alpine World Cup, Ladies&apos; Super G, at Cortina d&apos;Ampezzo, Italy (same-day tape)
+NBCSN -- FIS Alpine World Cup, Ladies' Super G, at Cortina d'Ampezzo, Italy (same-day tape)
 
 WINTER SPORTS
 
 12:30 p.m.
 
-NBCSN -- Luge, FIL World Championships, Men&apos;s second run, at Innsbruck, Austria (taped)
+NBCSN -- Luge, FIL World Championships, Men's second run, at Innsbruck, Austria (taped)
 
 1:30 p.m.
 
@@ -212,22 +215,5 @@ MLBN (Comcast 419, DirecTV 213)
 
 Pac-12 (Comcast 420/421, n/a on DirecTV)
 
-SEC (Comcast 425, DirecTV 611)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: ice hockey news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: NHL news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201823478</DOCID> 
-<DCT type="str">2017-01-29T08:01:11Z</DCT> 
-<TITLE type="str">Sports on TV, radio for Sunday, January 29: Trail Blazers, NHL All-Star Game, Pro Bowl</TITLE> 
-</root>
+SEC (Comcast 425, DirecTV 611)</TEXT>
+</TimeML>

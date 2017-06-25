@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">MEN&apos;S BASKETBALL 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193888731</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>College Roundup: UCI falls to UC Davis</TITLE>
+<TEXT>MEN'S BASKETBALL 
 
 UC Davis 74, UC Irvine 65 
  
-DAVIS – The host Aggies erased an 18-point first-half deficit to displace the Anteaters and take over first place in the Big West Conference on Saturday. 
+DAVIS  The host Aggies erased an 18-point first-half deficit to displace the Anteaters and take over first place in the Big West Conference on Saturday. 
 
 Freshman Eyassu Worku led UCI (12-11, 6-2 in conference) with 18 points and added four rebounds and four assists. 
  
@@ -16,21 +19,21 @@ Chima Meneke led the winners (13-8, 5-1) with 22 points, all in the second half,
 
 UC Davis made 35 of 46 foul shots, while UCI was 11 for 16 from the free-throw line. 
 
-MEN&apos;S VOLLEYBALL 
+MEN'S VOLLEYBALL 
 
 BYU def. UC Irvine 
 
-PROVO, Utah – Thomas Hodges had eight kills to lead the visiting No. 7-ranked Anteaters in the 25-21, 25-18, 28-26 sweep for the No. 3-ranked Cougars in Mountain Pacific Sports Federation play on Saturday. 
+PROVO, Utah  Thomas Hodges had eight kills to lead the visiting No. 7-ranked Anteaters in the 25-21, 25-18, 28-26 sweep for the No. 3-ranked Cougars in Mountain Pacific Sports Federation play on Saturday. 
 
 UCI (7-4, 4-3 in conference) hit .189 as a team, while BYU (8-2, 3-1) hit .333. 
 
-BYU avenged UCI&apos;s five-set upset win on Friday. 
+BYU avenged UCI's five-set upset win on Friday. 
 
-WOMEN&apos;S WATER POLO 
+WOMEN'S WATER POLO 
 
 Cal Baptist Tournament 
 
-RIVERSIDE – UC Irvine earned a pair of dominating wins on Saturday at Cal Baptist. 
+RIVERSIDE  UC Irvine earned a pair of dominating wins on Saturday at Cal Baptist. 
 
 UCI thumped the host Lancers, 20-4, behind four goals from Mckenna Mitchell, then received eight goals from Mitchell in a 22-3 thrashing of Cal State Bakersfield. 
 
@@ -40,7 +43,7 @@ SOFTBALL
 
 Doubleheader 
 
-COMPTON – Orange Coast College swept with decisive wins of 29-1 and 17-0 in nonconference play at El Camino-Compton Center on Saturday. 
+COMPTON  Orange Coast College swept with decisive wins of 29-1 and 17-0 in nonconference play at El Camino-Compton Center on Saturday. 
 
 OCC had 24 hits in the opening game and 17 in the second. 
 
@@ -54,7 +57,7 @@ Hernandez was four for eight with seven RBIs on the day.
 
 Carlie Chaulsett-Utley earned both pitching victories, working a combined six scoreless innings. She struck out six and allowed two hits. 
 
-WOMEN&apos;S BASKETBALL 
+WOMEN'S BASKETBALL 
 
 UC Santa Barbara 85, UC Irvine 60 
 
@@ -62,18 +65,5 @@ Shereen Sutherland had 20 points, five rebounds and four steals to lead the host
 
 Mckenzie Piper added 13 points for UCI (3-18, 1-6 in conference). 
 
-UCSB is 10-10, 5-2.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193888731</DOCID> 
-<DCT type="str">2017-01-29T07:11:44Z</DCT> 
-<TITLE type="str">College Roundup: UCI falls to UC Davis</TITLE> 
-</root>
+UCSB is 10-10, 5-2.</TEXT>
+</TimeML>

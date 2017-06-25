@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">In its recent order the forum chaired by President Sneha Mhatre and members N D Kadam and Madhuri Vishwarupe observed that the matter cannot be decided summarily as it involved recording of evidences and directed complainant Ashish Vaidya to approach appropriate court with his case.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203241656</DOCID> 
-<DCT type="str">2017-01-29T08:19:08Z</DCT> 
-<TITLE type="str">Thane man gets no relief in passport goof up case</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203241656</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Thane man gets no relief in passport goof up case</TITLE>
+<TEXT>In its recent order the forum chaired by President Sneha Mhatre and members N D Kadam and Madhuri Vishwarupe observed that the matter cannot be decided summarily as it involved recording of evidences and directed complainant Ashish Vaidya to approach appropriate court with his case.</TEXT>
+</TimeML>

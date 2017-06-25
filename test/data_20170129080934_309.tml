@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">MOUNT OLIVE TWP. - Free child health exams and vaccinations will be offered from 8:30 to 11 a.m., Tuesday, Feb. 21, at the township Health Department , 204 Flanders-Drakestown Road, Budd Lake. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200994154</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Child health exams and vaccinations offered in Mount Olive</TITLE>
+<TEXT>MOUNT OLIVE TWP. - Free child health exams and vaccinations will be offered from 8:30 to 11 a.m., Tuesday, Feb. 21, at the township Health Department , 204 Flanders-Drakestown Road, Budd Lake. 
    
 The program is for resident children who do not have health insurance or have NJ Family Care A. A licensed pediatrician will perform physical examinations and update vaccinations. 
    
-For an appointment, call Helen Giles at (973) 691-0900 extension 7353.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Agriculture news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200994154</DOCID> 
-<DCT type="str">2017-01-29T08:03:26Z</DCT> 
-<TITLE type="str">Child health exams and vaccinations offered in Mount Olive</TITLE> 
-</root>
+For an appointment, call Helen Giles at (973) 691-0900 extension 7353.</TEXT>
+</TimeML>

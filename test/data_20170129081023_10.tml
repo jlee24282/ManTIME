@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">NEW YORK: US border agents are checking people’s Facebook pages for their political views before allowing them into the country, an immigration lawyer has claimed. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202483656</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>US border patrol checking peoples Facebook for political views</TITLE>
+<TEXT>NEW YORK: US border agents are checking peoples Facebook pages for their political views before allowing them into the country, an immigration lawyer has claimed. 
  
 Houston-based lawyer Mana Yegani said several green card holders, who have the right to live and work in the US, were detained by border agents at American airports hours after President Donald Trump signed an executive order banning immigration from seven countries in the Middle East and Africa. 
  
@@ -12,47 +15,10 @@ In one alleged incident a Sudanese PhD student at Stanford University in Califor
  
 The Alia said border agents were checking the social media accounts of those detained and were interrogating them about their political beliefs before allowing them into the US. 
  
-She said: “These are people that are coming in legally. They have jobs here and they have vehicles here. 
+She said: These are people that are coming in legally. They have jobs here and they have vehicles here. 
  
-“Just because Trump signed something at 6pm yesterday, things are coming to a crashing halt. It’s scary.” [Independent.co.uk] 
+Just because Trump signed something at 6pm yesterday, things are coming to a crashing halt. Its scary. [Independent.co.uk] 
  
  Tweet   
-Story first published: 29th January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Cyberculture news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Facebook news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Social networks news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US immigration news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202483656</DOCID> 
-<DCT type="str">2017-01-29T08:14:15Z</DCT> 
-<TITLE type="str">US border patrol checking people’s Facebook for political views</TITLE> 
-</root>
+Story first published: 29th January 2</TEXT>
+</TimeML>

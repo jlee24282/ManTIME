@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A search is under way for 31 people, including 28 tourists from China, after the vessel they were in was reported missing while on a journey from Sabah to Pulau Mengalum on Saturday, the first day of Chinese New Year. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195607370</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Boat with 31 people on board missing off Sabah island: 28 are Chinese tourists</TITLE>
+<TEXT>A search is under way for 31 people, including 28 tourists from China, after the vessel they were in was reported missing while on a journey from Sabahto Pulau Mengalum on Saturday, the first day of Chinese New Year. 
 
 A Malaysian Maritime Enforcement Agency (MMEA) official said the catamaran with the tourists, a skipper and two crewmen had departed from a jetty in Tanjung Aru at about 9am to Pulau Mengalum, about 30km west of Kota Kinabalu. 
 
@@ -8,26 +11,5 @@ The catamaran owner alerted authorities on Saturday night that it had not reache
 
 The official said a search and rescue effort has been mounted involving an area of some 400 sq miles involving MMEA as well as navy vessels. 
 
-84 killed and 3 missing in South Korea&apos;s Typhoon Chaba: Scary video shows tsunami-like storm striking Busan</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Malaysia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Singapore news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195607370</DOCID> 
-<DCT type="str">2017-01-29T07:23:23Z</DCT> 
-<TITLE type="str">Boat with 31 people on board missing off Sabah island: 28 are Chinese tourists</TITLE> 
-</root>
+84 killed and 3 missing in South Korea's Typhoon Chaba: Scary video shows tsunami-like storm striking Busan</TEXT>
+</TimeML>

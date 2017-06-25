@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">In light of recent political events, I find myself thinking at length about what makes America great.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194815099</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Letter to the editor: We must understand the evolution of freedom</TITLE>
+<TEXT>In light of recent political events, I find myself thinking at length about what makes America great.
 
 America is not just great; it is exceptional. The hallmarks of American democracy are its tolerance for diversity of thought, its foundation in the rule of law and consent of the governed, and its protection of the rights of the individual and the rights of the minority.
 
-Posted in Letters on Sunday, Ja</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194815099</DOCID> 
-<DCT type="str">2017-01-29T06:00:00Z</DCT> 
-<TITLE type="str">Letter to the editor: We must understand the evolution of freedom</TITLE> 
-</root>
+Posted in Letters on Sunday, Ja</TEXT>
+</TimeML>

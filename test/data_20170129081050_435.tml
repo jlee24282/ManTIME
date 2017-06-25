@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Rod Bradbury 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203618592</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Croydon Street Cleaning</TITLE>
+<TEXT>Rod Bradbury 
 News Editor 
-Rod enjoys and plays all sports and could have been a cricketer if hadn&apos;t taken his eye off the ball at a crucial moment. 
+Rod enjoys and plays all sports and could have been a cricketer if hadn't taken his eye off the ball at a crucial moment. 
    
 
 Lucy Mayer 
@@ -10,7 +13,7 @@ Lucy is the Senior Broadcast Journalist at Jackie and also the Travel Editor. Fi
    
 
 Leigh-Ann Gerrans 
-Leigh-Ann loves news and current affairs. She started life in Zimbabwe, but lives in Clapham. She&apos;s embraced life here and loves making the most of everything the area has to offer. 
+Leigh-Ann loves news and current affairs. She started life in Zimbabwe, but lives in Clapham. She's embraced life here and loves making the most of everything the area has to offer. 
    
 
 Mollie Perella 
@@ -42,7 +45,7 @@ Natalie presents both news and travel - more on Presenters page.
    
 
 Andrew Catford 
-Andrew is Wimbledon born, loves challenges: trekking Nepal, diving with sharks, snowmobiling the Arctic. He says there&apos;s nothing better than being just outside your comfort zone as you&apos;re only here once. 
+Andrew is Wimbledon born, loves challenges: trekking Nepal, diving with sharks, snowmobiling the Arctic. He says there's nothing better than being just outside your comfort zone as you're only here once. 
    
 
 Alex Loveridge 
@@ -66,7 +69,7 @@ Sharmeen lives in Worcester Park and loves lie-ins, kittens, books, politics, ma
    
 
 Juliette Ivie 
-Juliette says she&apos;s generally one of those people who hates to miss out on things, so she can sometimes be quite hard to pin down! She&apos;s probably at a gig, theatre, bar, pub, or on a walk. 
+Juliette says she's generally one of those people who hates to miss out on things, so she can sometimes be quite hard to pin down! She's probably at a gig, theatre, bar, pub, or on a walk. 
    
 
 Josh Doherty 
@@ -105,15 +108,15 @@ Iona enjoys writing plays, poetry and kayaking.
    
 
 Ed Drake 
-Ed was born and raised in South West London. Having competed in alpine skiing at the Olympic Games, he’s a lover of speed on a motorbike, car or on skis. 
+Ed was born and raised in South West London. Having competed in alpine skiing at the Olympic Games, hes a lover of speed on a motorbike, car or on skis. 
    
 
 Grace McGachy 
-Grace wants to be the next Mary Berry, failing that, she&apos;s happy being a journalist! She recently started a vinyl record collection and loves old movies. 
+Grace wants to be the next Mary Berry, failing that, she's happy being a journalist! She recently started a vinyl record collection and loves old movies. 
    
 
 Katie Shanahan 
-Katie is a Kingston girl who loves sport. She’s played hockey for England, but now enjoys cycling in the Surrey Hills with a good coffee and cake to finish. 
+Katie is a Kingston girl who loves sport. Shes played hockey for England, but now enjoys cycling in the Surrey Hills with a good coffee and cake to finish. 
    
 
 Adam Shaw 
@@ -125,22 +128,9 @@ David presents both news and travel - more on Presenters page.
    
 
 Katie Polglase 
-Katie has learnt to speak Spanish, Arabic and the odd bit of Persian. But when all seems a bit too much like hard work, she&apos;ll be playing the piano or guitar or just watching Netflix. 
+Katie has learnt to speak Spanish, Arabic and the odd bit of Persian. But when all seems a bit too much like hard work, she'll be playing the piano or guitar or just watching Netflix. 
    
 
 Holly Snelling 
-Holly would love to have a job that pays her to travel round the world and is a firm believer houmous goes with almost anything.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">London news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203618592</DOCID> 
-<DCT type="str">2017-01-29T08:17:00Z</DCT> 
-<TITLE type="str">Croydon Street Cleaning</TITLE> 
-</root>
+Holly would love to have a job that pays her to travel round the world and is a firm believer houmous goes with almost anything.</TEXT>
+</TimeML>

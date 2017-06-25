@@ -1,41 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">2017/01/29 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204561530</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Dubai Airports celebrates Chinese New Year</TITLE>
+<TEXT>2017/01/29 
  
-Dubai Airports celebrated Chinese New Year with passengers in fine style yesterday, by serving cake and showcasing Chinese culture with a traditional Dragon Dance in Dubai International Airport &apos;s (DXB) Concourse D. 
+Dubai Airports celebrated Chinese New Year with passengers in fine style yesterday, by serving cake and showcasing Chinese culture with a traditional Dragon Dance in Dubai International Airport 's (DXB) Concourse D. 
 
-“With 90 airlines serving over 240 destinations, Dubai International Airport truly connects the world. Our goal is to engage and delight our customers with culture and entertainment that reflects and celebrates that diversity,” said Helen Mellor-Mitchell, vice president, Media and Brand Engagement. 
+With 90 airlines serving over 240 destinations, Dubai International Airport truly connects the world. Our goal is to engage and delight our customers with culture and entertainment that reflects and celebrates that diversity, said Helen Mellor-Mitchell, vice president, Media and Brand Engagement. 
 
-China is a fast growing and important market for Dubai Airports with 2.86 million passengers. Six airlines (Air China, Cathay Pacific, China Eastern Airlines, China Southern Airlines, Sichuan Airlines and Emirates) serve 10 destinations (Beijing, Chengdu, Chongqing, Guangzhou, Hong Kong, Kunming, Shanghai, Urumqi, Wuhan, Yinchuan) with 14 daily flights. In 2016 four new services were launched from DXB including Air China’s service to Chongqing, China Southern Airlines’ flight to Wuhan, Emirates’ flight to Yinchuan and Sichuan Airlines’ service to Chengdu. 
+China is a fast growing and important market for Dubai Airports with 2.86 million passengers. Six airlines (Air China, Cathay Pacific, China Eastern Airlines, China Southern Airlines, Sichuan Airlines and Emirates) serve 10 destinations (Beijing, Chengdu, Chongqing, Guangzhou, Hong Kong, Kunming, Shanghai, Urumqi, Wuhan, Yinchuan) with 14 daily flights. In 2016 four new services were launched from DXB including Air Chinas service to Chongqing, China Southern Airlines flight to Wuhan, Emirates flight to Yinchuan and Sichuan Airlines service to Chengdu. 
 
-Strong trade and commerce ties, along with Dubai’s attractiveness as a tourism destination are anticipated to contribute to continued robust growth between the two markets. - TradeArabia News Service</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Airline industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">United Arab Emirates news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Dubai news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204561530</DOCID> 
-<DCT type="str">2017-01-29T08:30:30Z</DCT> 
-<TITLE type="str">Dubai Airports celebrates Chinese New Year</TITLE> 
-</root>
+Strong trade and commerce ties, along with Dubais attractiveness as a tourism destination are anticipated to contribute to continued robust growth between the two markets. - TradeArabia News Service</TEXT>
+</TimeML>

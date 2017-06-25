@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">After a grueling fortnight of competition, the 2017 Australian Open Men&apos;s Singles final is about to begin. Here is everything sports fans need to know, including what time the match starts and the various ways you can watch it live and online. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203222701</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Federer Vs Nadal: Watch The Australian Open Live Stream Here!</TITLE>
+<TEXT>After a grueling fortnight of competition, the 2017 Australian Open Men's Singles final is about to begin. Here is everything sports fans need to know, including what time the match starts and the various ways you can watch it live and online. 
      
-The 2017 Australian Open Males&apos; Singles final commences at approximately 7.30pm tonight. If you don&apos;t have access to a TV, have no fear — you can live stream the match from your PC, tablet or phone right here.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: tennis news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203222701</DOCID> 
-<DCT type="str">2017-01-29T08:19:49Z</DCT> 
-<TITLE type="str">Federer Vs Nadal: Watch The Australian Open Live Stream Here!</TITLE> 
-</root>
+The 2017 Australian Open Males' Singles final commences at approximately 7.30pm tonight. If you don't have access to a TV, have no fear  you can live stream the match from your PC, tablet or phone right here.</TEXT>
+</TimeML>

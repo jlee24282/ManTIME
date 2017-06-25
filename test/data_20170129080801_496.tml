@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Video: Top Stories 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197353064</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>What do the papers says about Trump's first week?</TITLE>
+<TEXT>Video: Top Stories 
 
 About Sky News 
 
@@ -10,20 +13,7 @@ Sky Channels
 
 More Sky Sites 
 
-© 2017 Sky UK 
+ 2017 Sky UK 
 
-We use cookies to give you the best experience. If you do nothing we&apos;ll assume that it&apos;s ok.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197353064</DOCID> 
-<DCT type="str">2017-01-29T07:36:33Z</DCT> 
-<TITLE type="str">What do the papers says about Trump&apos;s first week?</TITLE> 
-</root>
+We use cookies to give you the best experience. If you do nothing we'll assume that it's ok.</TEXT>
+</TimeML>

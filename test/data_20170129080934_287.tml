@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">OVER the past several weeks, attacks have persisted in Southern Kaduna, occasioned by a crisis between herdsmen and residents of various communities in the area, and in some reports, incidents of religious crises, sometimes involving [...]The post &apos; appeared first on Tribune.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Nigeria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200975912</DOCID> 
-<DCT type="str">2017-01-29T07:23:01Z</DCT> 
-<TITLE type="str">Southern Kaduna crisis: Clerics set template for resolution &apos;&apos;It is unfortunate we have Christian leaders who have failed to speak up</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200975912</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Southern Kaduna crisis: Clerics set template for resolution ''It is unfortunate we have Christian leaders who have failed to speak up</TITLE>
+<TEXT>OVER the past several weeks, attacks have persisted in Southern Kaduna, occasioned by a crisis between herdsmen and residents of various communities in the area, and in some reports, incidents of religious crises, sometimes involving [...]The post ' appeared first on Tribune.</TEXT>
+</TimeML>

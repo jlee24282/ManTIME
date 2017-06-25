@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Ashish Mishra  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197936011</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Delhi to be model state for healthcare, education: Deputy CM Sisodia</TITLE>
+<TEXT>By Ashish Mishra 
   
-New Delhi, Jan 29 (IANS): Delhi is poised to become a &quot;saturated model state&quot; in healthcare in the near future and dramatically improve the quality of education, Deputy Chief Minister Manish Sisodia has said. 
+New Delhi, Jan 29 (IANS): Delhi is poised to become a "saturated model state" in healthcare in the near future and dramatically improve the quality of education, Deputy Chief Minister Manish Sisodia has said. 
  
 The Aam Aadmi Party (AAP) leader also said the Delhi government had built some 8,000 schoolrooms since taking office in February 2015 and will add a similar number within one-and-a-half years. 
  
-&quot;When we build 1,000 Mohalla Clinics, Delhi will be a saturated model state for healthcare,&quot; he said. 
+"When we build 1,000 Mohalla Clinics, Delhi will be a saturated model state for healthcare," he said. 
  
 The Mohalla Clinic is a flagship initiative of the Delhi government that aims to provide free primary healthcare to people in their neighbourhoods. As many as 1,000 Mohalla Clinics are to be set up by March 31. 
  
-&quot;Once we build that number, wherever you may be in Delhi, you will have access to a Mohalla Clinic within 10 minutes (distance).&quot; 
+"Once we build that number, wherever you may be in Delhi, you will have access to a Mohalla Clinic within 10 minutes (distance)." 
  
 At least 107 Mohalla Clinics have already come up across the capital, in both middle class and urban poor neighbourhoods, where doctors and medicines are available and people enjoy facilities for tests -- all for free. 
  
@@ -18,38 +21,9 @@ Around two million people have so far availed themselves of the benefits of Moha
  
 Sisodia also said the Delhi government was committed to dramatically improving the quality of education. He said the number of schoolrooms built so far amounted to constructing some 200 new schools. 
  
-In addition, 100 new schools would come up in Delhi in the coming years, he said. &quot;It will be a good infrastructure for the next 20 years.&quot; 
+In addition, 100 new schools would come up in Delhi in the coming years, he said. "It will be a good infrastructure for the next 20 years." 
  
 Sisodia said some 100 principals of government schools in Delhi which, he said, were undergoing major transformation, had gone to Cambridge for exposure to high-quality education. 
  
-&quot;Another 100 will be sent to Harvard... And teachers will also go to Singapore, Finland and Germany.&quot;</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Health care industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Healthcare management news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197936011</DOCID> 
-<DCT type="str">2017-01-29T07:40:49Z</DCT> 
-<TITLE type="str">Delhi to be model state for healthcare, education: Deputy CM Sisodia</TITLE> 
-</root>
+"Another 100 will be sent to Harvard... And teachers will also go to Singapore, Finland and Germany."</TEXT>
+</TimeML>

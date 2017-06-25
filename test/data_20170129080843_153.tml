@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A tiger was running loose on the streets of Sicily after escaping from a travelling circus. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198666189</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bengal tiger causes panic on streets of Sicily after escaping from circus</TITLE>
+<TEXT>A tiger was running loose on the streets of Sicily after escaping from a travelling circus. 
 
 The big cat, called Oscar, was spotted strolling through the town of Monreale, Palermo where the circus troupe was performing at the time. 
 
-Malcolm X&apos;s daughter and granddaughter arrested in stolen car with abused pit bulls 
+Malcolm X's daughter and granddaughter arrested in stolen car with abused pit bulls 
 
 He reportedly escaped his trainers at dawn and was on the prowl through the city until mid-day, walking through car parks and later resting outside a shop as terrified residents took refuge inside buildings. 
 
@@ -16,7 +19,7 @@ Following reports of a white Bengal tiger on the loose, emergency services scram
 
 Working with the circus trainers, the special police force finally captured the tiger after coaxing him into a series of cages. He was safely returned to the circus. 
 
-Spain agrees to extradite former Farc &apos;abortions nurse&apos; to Colombia 
+Spain agrees to extradite former Farc 'abortions nurse' to Colombia 
 
 Monreale Mayor Piero Capizzi said initially he thought it was a joke when he was told a tiger was on the loose. The mayor says it is not known how the animal escaped from the circus, reported ANSA. 
 
@@ -24,20 +27,7 @@ Police are also said to be questioning members of the circus over the potentiall
 
 After his escapade the tiger is due to perform at the circus on Monday (30 January). 
 
-Get your daily digest with the best of the day&apos;s news, opinion, entertainment and sport 
+Get your daily digest with the best of the day's news, opinion, entertainment and sport 
 
-You may be interested in</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Italy news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198666189</DOCID> 
-<DCT type="str">2017-01-29T07:45:34Z</DCT> 
-<TITLE type="str">Bengal tiger causes panic on streets of Sicily after escaping from circus</TITLE> 
-</root>
+You may be interested in</TEXT>
+</TimeML>

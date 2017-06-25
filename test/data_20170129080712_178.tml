@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">کیا یہی ہے وہ کلپ جس کے بعد دانیال عزیز کے والد نے دانیال کو نواز شریف کے لئے بھوکنے والا کہا ؟ دیکھیں کیا حرکت کی انہوں نے 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195203941</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Fight between Daniyal Aziz and Kanwar Dilshad</TITLE>
+<TEXT>                             
 
 Author: KinzaYaseen 
 Tags: 
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195203941</DOCID> 
-<DCT type="str">2017-01-29T07:18:28Z</DCT> 
-<TITLE type="str">Fight between Daniyal Aziz and Kanwar Dilshad</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Bida town, Niger State, was thrown into confusion, following the death of a popular polygamist and Islamic cleric, Mohammed Masaba. The controversial husband of 97 wives died on Saturday afternoon at his residence in Efu Nakodi after a brief illness.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Niger news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194907738</DOCID> 
-<DCT type="str">2017-01-28T18:43:00Z</DCT> 
-<TITLE type="str">Man with 97 wives dies in Niger at 93</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194907738</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Man with 97 wives dies in Niger at 93</TITLE>
+<TEXT>Bida town, Niger State, was thrown into confusion, following the death of a popular polygamist and Islamic cleric, Mohammed Masaba. The controversial husband of 97 wives died on Saturday afternoon at his residence in Efu Nakodi after a brief illness.</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">:59    View Comments   
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196495613</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>U.S. Economy Slows On Wider Trade Gap; Business Spending Rises</TITLE>
+<TEXT>:59    View Comments   
 Pic: Reuters 
  
 U.S. economic growth slowed sharply in the fourth quarter as a plunge in shipments of soybeans weighed on exports, but steady consumer spending and rising business investment pointed to sustained strength in domestic demand. 
@@ -11,9 +14,9 @@ The slowdown masked a surge in home building spending and a rebound in business 
  
 The economy expanded 1.6 percent for all of 2016, the worst performance since 2011, as it struggled with weak oil prices, a strong dollar and efforts by businesses to reduce a large inventory overhang. 
  
-U.S. President Donald Trump vowed during last year&apos;s election campaign to deliver 4 percent annual GDP growth, largely on the back of a plan to cut taxes, reduce regulations and increase infrastructure spending. 
+U.S. President Donald Trump vowed during last year's election campaign to deliver 4 percent annual GDP growth, largely on the back of a plan to cut taxes, reduce regulations and increase infrastructure spending. 
  
-&quot;The details of the report were quite sound. The U.S. economic expansion got its mojo back and the momentum appears to be carrying over into 2017,&quot; said Scott Anderson, chief economist at Bank of the West in San Francisco. 
+"The details of the report were quite sound. The U.S. economic expansion got its mojo back and the momentum appears to be carrying over into 2017," said Scott Anderson, chief economist at Bank of the West in San Francisco. 
  
 A measure of private domestic demand increased at a 2.8 percent rate last quarter. Economic growth in the third quarter was driven in part by an outsized jump in soybean exports. 
  
@@ -27,9 +30,9 @@ Although Trump has offered little detail on his economic policy, his promises ha
  
 A separate report on Friday showed consumer sentiment hitting a 13-year high in January. 
  
-&quot;While the size and the timing of the tax cut, infrastructure spending and regulatory rollback are uncertain, economic growth could double during the second half of the year,&quot; said Sung Won Sohn, an economics professor at California State University Channel Islands in Camarillo. 
+"While the size and the timing of the tax cut, infrastructure spending and regulatory rollback are uncertain, economic growth could double during the second half of the year," said Sung Won Sohn, an economics professor at California State University Channel Islands in Camarillo. 
  
-But uncertainty over the Trump administration&apos;s trade policy and sustained dollar strength pose a risk to the economy. 
+But uncertainty over the Trump administration's trade policy and sustained dollar strength pose a risk to the economy. 
  
 SOYBEANS REVERSAL 
  
@@ -43,7 +46,7 @@ The dollar .DXY firmed against a basket of currencies. Stocks on Wall Street wer
  
 A stronger economy would mean further interest rate increases from the Federal Reserve. The U.S. central bank has forecast three rate hikes this year. It raised its benchmark overnight interest rate in December by 25 basis points to a range of 0.50 percent to 0.75 percent. 
  
-Consumer spending, which accounts for more than two-thirds of U.S. economic activity, increased at a 2.5 percent rate in the fourth quarter. The moderation from the third quarter&apos;s brisk 3.0 percent pace came amid modest household income gains. 
+Consumer spending, which accounts for more than two-thirds of U.S. economic activity, increased at a 2.5 percent rate in the fourth quarter. The moderation from the third quarter's brisk 3.0 percent pace came amid modest household income gains. 
  
 Income at the disposal of households after accounting for taxes and inflation increased 1.5 percent in the fourth quarter after rising 2.6 percent rise in the prior period. Savings fell to $791.2 billion from $818.1 billion in the third quarter. 
  
@@ -57,10 +60,5 @@ Investment in nonresidential structures, however, fell at a 5.0 percent pace in 
  
 Investment in home building rose at a 10.2 percent rate, rebounding after two straight quarterly declines. Government spending picked up as a rise in state and local government investment offset a decline in federal government expenditures. 
  
-- Reuters</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196495613</DOCID> 
-<DCT type="str">2017-01-29T06:59:02Z</DCT> 
-<TITLE type="str">U.S. Economy Slows On Wider Trade Gap; Business Spending Rises</TITLE> 
-</root>
+- Reuters</TEXT>
+</TimeML>

@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">When on Saturday December 24, last year, President Muhammadu Buhari announced the final crushing of the Boko Haram insurgents, not a fewNigerians expressed joy at the development.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695194200691</DOCID> 
-<DCT type="str">2017-01-29T06:35:22Z</DCT> 
-<TITLE type="str">Boko Haram: Finding lasting end to a scourge</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194200691</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Boko Haram: Finding lasting end to a scourge</TITLE>
+<TEXT>When on Saturday December 24, last year, President Muhammadu Buhari announced the final crushing of the Boko Haram insurgents, not a fewNigerians expressed joy at the development.</TEXT>
+</TimeML>

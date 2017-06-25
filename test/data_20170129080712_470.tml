@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Abstract  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195534162</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>A case report of disappearing pigmented skin lesions associated with pembrolizumab treatment for metastatic melanoma</TITLE>
+<TEXT>Abstract  
 Pembrolizumab is an immune checkpoint inhibitor that targets the programmed cell death (PD)-1 receptor. Common cutaneous adverse side effects of PD-1 inhibitors include maculopapular rash, pruritus, vitiligo, and lichenoid skin and mucosal reactions. Here, we describe a man in his sixties with metastatic melanoma treated with pembrolizumab who subsequently developed fading or disappearance of pigmented skin lesions, lightening of the skin, and poliosis of the eyebrows, eyelashes, and scalp and body hair. Compared to baseline high-resolution three-dimensional total body photography, we observed fading or disappearing of solar lentigines, seborrheic keratoses, and melanocytic naevi, suggesting that PD-1 inhibitors may affect the evolution of these benign skin lesions. With dermatoscopic follow-up, altered lesions showed either blue-grey peppering/granularity or fading in colour without other identifiable features. No halo lesions or lesions with surrounding inflammation were identified. One changed pigmented lesion that showed blue-grey peppering/granularity on dermoscopy was biopsied and interpreted as a macular seborrheic keratosis with melanophages. Further studies are required to elucidate the effects of PD-1 inhibition on benign skin lesions. 
  
-This article is protected by copyright. All rights reserved.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Health care industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Cancer news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195534162</DOCID> 
-<DCT type="str">2017-01-28T23:50:36Z</DCT> 
-<TITLE type="str">A case report of disappearing pigmented skin lesions associated with pembrolizumab treatment for metastatic melanoma</TITLE> 
-</root>
+This article is protected by copyright. All rights reserved.</TEXT>
+</TimeML>

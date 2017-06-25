@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Click Here to access the online Public Inspection File 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196906496</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Cowboys Enjoying Elite Company</TITLE>
+<TEXT>Click Here to access the online Public Inspection File 
  
-Viewers with disabilities can get assistance accessing this station&apos;s FCC Public Inspection File by contacting the station with the information listed below. Questions or concerns relating to the accessibility of the FCC&apos;s online public file system should be directed to the FCC at 888-225-5322, 888-835-5322 (TTY), or fccinfo@fcc.gov . 
+Viewers with disabilities can get assistance accessing this station's FCC Public Inspection File by contacting the station with the information listed below. Questions or concerns relating to the accessibility of the FCC's online public file system should be directed to the FCC at 888-225-5322, 888-835-5322 (TTY), or fccinfo@fcc.gov . 
  
 Station Contact Info: 
   
@@ -14,14 +17,5 @@ Music City Mall
  
 Odessa, TX 79762 
  
-432-58</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196906496</DOCID> 
-<DCT type="str">2017-01-29T07:33:14Z</DCT> 
-<TITLE type="str">Cowboys Enjoying Elite Company</TITLE> 
-</root>
+432-58</TEXT>
+</TimeML>

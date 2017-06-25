@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">_</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204423093</DOCID> 
-<DCT type="str">2017-01-29T08:29:24Z</DCT> 
-<TITLE type="str">Gladys Berejiklian elected NSW Premier(Gladys Berejiklian à»„àº”à»‰â€‹àº–àº·àºâ€‹à»€àº¥àº·àº­àºà»ƒàº«à»‰â€‹à»€àº›àº±àº™ àº™àº²â€‹àºàº»àºâ€‹àº£àº±â€‹àº– NSW àºœàº¹à»‰â€‹à»ƒà»à»ˆ)</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204423093</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Gladys Berejiklian elected NSW Premier(Gladys Berejiklian   NSW )</TITLE>
+<TEXT>_</TEXT>
+</TimeML>

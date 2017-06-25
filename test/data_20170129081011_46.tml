@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Skip in Skip 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202118688</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Protests erupt at U.S. airports over refugee banJan 29, 2017</TITLE>
+<TEXT>Skip in Skip 
 
 x 
 
@@ -10,30 +13,5 @@ x
 
 Share 
 
-Protests flared as President Trump&apos;s executive order blocked refugees from entering U.S. airports, including travelers who already had valid visas. USA TODAY NETWORK</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Airline industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Top stories</group> 
-<name type="str">Top US stories</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Media latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202118688</DOCID> 
-<DCT type="str">2017-01-29T08:11:27Z</DCT> 
-<TITLE type="str">Protests erupt at U.S. airports over refugee banJan 29, 2017</TITLE> 
-</root>
+Protests flared as President Trump's executive order blocked refugees from entering U.S. airports, including travelers who already had valid visas. USA TODAY NETWORK</TEXT>
+</TimeML>

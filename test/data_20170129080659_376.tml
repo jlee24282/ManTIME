@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">By Fiona Mullen 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194871978</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Is the EastMed gas pipeline an option for Cyprus?</TITLE>
+<TEXT>By Fiona Mullen 
  
 The Cyprus News Agency (CNA) reported this week that the cost of the EastMed pipeline from Israel to Cyprus, Crete, the Peloponnese in Greece and then Italy would be $6bn. This is close to the $5.7bn figure cited by Globes a few months ago. 
  
@@ -9,19 +12,19 @@ Subscribers to my monthly report will have already know that I suspect the repor
  
 The entire pipeline including the land pipeline in Greece would be 1,900 km. It will also be very deep, reaching 3,000 metres in some parts. 
  
-A figure of $6bn implies a pipeline cost of just $3.2 per km. To illustrate why this is too low,we can compare this with the Nord Stream pipeline. Completed in 2012, Nord Stream is 1,224 km long and only 210 deep—shorter and much shallower than the proposed EastMed pipeline. 
+A figure of $6bn implies a pipeline cost of just $3.2 per km. To illustrate why this is too low,we can compare this with the Nord Stream pipeline. Completed in 2012, Nord Stream is 1,224 km long and only 210 deepshorter and much shallower than the proposed EastMed pipeline. 
  
-Nord Stream’s website says that the total investment cost was $7.2bn. Of this total, $5bn was spent on pipes, pipe materials and pipe-laying. A total investment of $7.2bn implies a cost of just under $6 per km. 
+Nord Streams website says that the total investment cost was $7.2bn. Of this total, $5bn was spent on pipes, pipe materials and pipe-laying. A total investment of $7.2bn implies a cost of just under $6 per km. 
  
 If we only count the $5bn investment in pipeline construction, Nord Stream comes to a cost of $4.1 per km. Either way, the NordStream cost was much higher than the amount implied in the estimate for the EastMed pipeline, which would be one of the longest, deepest pipelines in the world. 
  
 I suspect that the $6bn estimate does not include the land pipeline in Greece. Remove this and the cost comes in at $4.6 per km. This is a little higher than Nord Stream, but makes sense given that it is much deeper. 
  
-It would be good if I could confirm my hunch. The studies made to date have been paid for by the EU taxpayer, because the EastMed pipeline is an EU ‘Project of Common Interest’, meaning that it can attract EU funding for studies into its viability. 
+It would be good if I could confirm my hunch. The studies made to date have been paid for by the EU taxpayer, because the EastMed pipeline is an EU Project of Common Interest, meaning that it can attract EU funding for studies into its viability. 
  
 However, when I contacted the Commission to enquire whether the report would be made available, they said it was up to the companies to provide any information. 
  
-  
+ 
  
 The price must be right 
  
@@ -33,34 +36,5 @@ European gas import prices have been rising lately, reaching $5.50/mmbtu at the 
  
 We can wait that long, or we can solve the Cyprus problem. A shorter pipeline to Turkey would be viable at a price of just above $4/mmbtu according to my model. 
  
-The writer is Director of Sapienta Economics and author of the monthly Sapienta Country Analysis Cyprus www.sapientaeconomics.com</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Energy industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Oil and gas news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Cyprus news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Greece news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Europe news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194871978</DOCID> 
-<DCT type="str">2017-01-29T07:00:05Z</DCT> 
-<TITLE type="str">Is the EastMed gas pipeline an option for Cyprus?</TITLE> 
-</root>
+The writer is Director of Sapienta Economics and author of the monthly Sapienta Country Analysis Cyprus www.sapientaeconomics.com</TEXT>
+</TimeML>

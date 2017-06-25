@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Part of Donald Trump&apos;s temporary immigration ban for nationals of seven Middle Eastern countries has been blocked by an American court.  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204466329</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Morning top 5: Trumps ban partially blocked by US Court; 31 people missing on Malaysia tourist boat</TITLE>
+<TEXT>Part of Donald Trump's temporary immigration ban for nationals of seven Middle Eastern countries has been blocked by an American court. 
  
 Lawyers from the American Civil Liberties Union have secured a ruling which stops the US from deporting refugees and visitors. 
 
  
-President Trump&apos;s travel ban is also being implented again today by US Customs at Dublin and Shannon airports, as well as at Ports of Entry across the United States. 
+President Trump's travel ban is also being implented again today by US Customs at Dublin and Shannon airports, as well as at Ports of Entry across the United States. 
  
-Clare based Senator, Martin Conway, is the Seanad Spokesperson on Justice, Equality and Human Rights - he says it&apos;s a significant regressive step by America. 
+Clare based Senator, Martin Conway, is the Seanad Spokesperson on Justice, Equality and Human Rights - he says it's a significant regressive step by America. 
  
 *** 
  
-31 people are missing on board a Malaysia tourist boat  
+31 people are missing on board a Malaysia tourist boat 
  
 Chinese state media says the boat lost contact after leaving Kota Kinabalu on Saturday morning. 
  
@@ -24,7 +27,7 @@ The Malaysian Maritime Enforcement Agency said it received a distress call from 
 
 A ceremony will take place in Dublin today to mark the National Holocaust Commemoration Day. 
  
-A Holocaust charity says it&apos;s more important than ever that we learn from the atrocities committed during World War Two. 
+A Holocaust charity says it's more important than ever that we learn from the atrocities committed during World War Two. 
  
 Holocaust survivors living in Ireland and a World War Two veteran who was present at the liberation of Bergen Belsen will address the ceremony. 
  
@@ -32,15 +35,15 @@ It comes on a weekend where Donald Trump has banned refugees from entering the U
  
 *** 
  
-A majority of Irish voters think Ireland&apos;s relationship with Britain is more important than our links with the EU. 
+A majority of Irish voters think Ireland's relationship with Britain is more important than our links with the EU. 
  
-A new poll in today&apos;s Sunday Business Post finds 56 per cent prioritise relations with the UK. 
+A new poll in today's Sunday Business Post finds 56 per cent prioritise relations with the UK. 
  
-Meanwhile, the poll puts further pressure on Taoiseach Enda Kenny, as it shows Fine Gael trailing Fianna Fáil. 
+Meanwhile, the poll puts further pressure on Taoiseach Enda Kenny, as it shows Fine Gael trailing Fianna Fil. 
  
-The RED C survey has Fianna Fáil up 3 points on 27 per cent, with Fine Gael down a point to 24. 
+The RED C survey has Fianna Fil up 3 points on 27 per cent, with Fine Gael down a point to 24. 
  
-Fine Gael&apos;s coalition partners the Independent Alliance are down from 4 to 3. 
+Fine Gael's coalition partners the Independent Alliance are down from 4 to 3. 
  
 *** 
  
@@ -51,30 +54,5 @@ The family says the service will take place in March at Forest Lawn Cemetery Hol
  
 60-year-old Fisher died after having a heart attack on a flight from London to LA - her 84-year-old mother passed away a day later. 
  
- </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Malaysia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Ireland news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Southeast Asia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204466329</DOCID> 
-<DCT type="str">2017-01-29T08:29:44Z</DCT> 
-<TITLE type="str">Morning top 5: Trump’s ban partially blocked by US Court; 31 people missing on Malaysia tourist boat</TITLE> 
-</root>
+</TEXT>
+</TimeML>

@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jan. 28, 2017  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198980191</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>W. Track. Owls Win Three Events at Houston Invitational</TITLE>
+<TEXT>Jan. 28, 2017  
 Final Stats  
  
 Houston Invitational Full Results 
 
-HOUSTON – Rice senior Katie Jensen highlighted day two of the Houston Invitational for the Rice Owls women’s track &amp; field team with a first place finish in the 3000m, breaking former Owl Lennie Waite’s previous meet record with a winning time of 9:26.80. 
+HOUSTON  Rice senior Katie Jensen highlighted day two of the Houston Invitational for the Rice Owls womens track & field team with a first place finish in the 3000m, breaking former Owl Lennie Waites previous meet record with a winning time of 9:26.80. 
 
 Jensen, from The Woodlands, claimed the top C-USA Indoor 3000m mark of the season with a personal best time that translated to 9:21.99 (track adjustment) and is also ranked 17th in the nation. Jensen defeated the next closest runner by nearly 23 full seconds in the race, leading start-to-finish. 
 
@@ -15,21 +18,12 @@ The Owls also performed well in the jumps with senior All-American Daisy Ding ma
 
 After a strong performance on Friday, Ijeoma Ugwunze followed it up with a third place finish in the shot put (14.20m/46-07.25). 
 
-“We improved from two weeks ago, which is what we needed,” Rice women’s track &amp; field head coach Jim Bevan said. “We had some great highlights today with Elsa dominating the mile, Ijeoma having a good day in the shot put and Hannah Jackson and Bryanah Rideaux going one-two in the 400m. Daisy started competing and scored high in the high/triple jump and Cybil improved her triple jump over two weeks ago and finished second. The biggest highlight was Katie Jensen dominating the 3000m, running a lifetime best and led from gun to wire. It was an extremely impressive performance. Now we can get into weekly rhythm of meets. 
+We improved from two weeks ago, which is what we needed, Rice womens track & field head coach Jim Bevan said. We had some great highlights today with Elsa dominating the mile, Ijeoma having a good day in the shot put and Hannah Jackson and Bryanah Rideaux going one-two in the 400m. Daisy started competing and scored high in the high/triple jump and Cybil improved her triple jump over two weeks ago and finished second. The biggest highlight was Katie Jensen dominating the 3000m, running a lifetime best and led from gun to wire. It was an extremely impressive performance. Now we can get into weekly rhythm of meets. 
 
 On Friday the Owls received personal best performances from Dreu Dixson , Dheryl Batts and Ugwunze in the weight throw while Marielle Brisbois won the pole vault and Kylie Swiekatowski placed fourth in the event. 
 
 The Owls will be back in action Feb. 3-4 when they compete at the Charlie Thomas Invitational in College Station, Texas. 
  
 
--RiceOwls.com-</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198980191</DOCID> 
-<DCT type="str">2017-01-29T04:21:00Z</DCT> 
-<TITLE type="str">W. Track. Owls Win Three Events at Houston Invitational</TITLE> 
-</root>
+-RiceOwls.com-</TEXT>
+</TimeML>

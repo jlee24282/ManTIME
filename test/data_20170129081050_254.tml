@@ -1,35 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Kim Kardashian West 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203454187</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Kim Kardashian West's stolen jewels melted and sold</TITLE>
+<TEXT>Kim Kardashian West 
  
-Almost all of Kim Kardashian West&apos;s stolen jewels have been melted down. 
+Almost all of Kim Kardashian West's stolen jewels have been melted down. 
  
-The reality TV star was robbed at gunpoint in her Paris hotel by a gang last year and after they made off with millions worth of jewels, the gang decided to get them melted down so that they could not be traced, with only Kim&apos;s diamond engagement ring still intact. 
+The reality TV star was robbed at gunpoint in her Paris hotel by a gang last year and after they made off with millions worth of jewels, the gang decided to get them melted down so that they could not be traced, with only Kim's diamond engagement ring still intact. 
  
-According to Le Monde newspaper, Aomar Ait Khedache, 60, whose nickname is Omar le Vieux (Old Omar), told police: &quot;So that the jewels wouldn&apos;t be recognised, we took a joint decision to melt them down. 
+According to Le Monde newspaper, Aomar Ait Khedache, 60, whose nickname is Omar le Vieux (Old Omar), told police: "So that the jewels wouldn't be recognised, we took a joint decision to melt them down. 
  
-&quot;One of us took care of that.... He came back with bars... Altogether there must have been a bit more than 800 grammes.&quot; 
+"One of us took care of that.... He came back with bars... Altogether there must have been a bit more than 800 grammes." 
  
 Although Kim admitted she feared for her life during the ordeal, Khedache insisted they treated her well, despite tying her up. 
  
-He said: &quot;We didn&apos;t take our weapons out in front of a woman. The person with me tied her up on the bed... I placed her in the bath.&quot; 
+He said: "We didn't take our weapons out in front of a woman. The person with me tied her up on the bed... I placed her in the bath." 
  
 And Khedache admitted planning the robbery was easy, because Kim was so open about her movements and jewels on social media and he also claimed they had insider information. 
  
-He said: &quot;The jewels were shown on the internet, and (she said) that she didn&apos;t wear fakes... the time she would arrive in France, you just had to look at the internet and you knew everything, absolutely everything. 
+He said: "The jewels were shown on the internet, and (she said) that she didn't wear fakes... the time she would arrive in France, you just had to look at the internet and you knew everything, absolutely everything. 
  
-&quot;We had very precise information about her movements that we got from someone who was very close to her.&quot;</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: celebrity gossip</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203454187</DOCID> 
-<DCT type="str">2017-01-29T07:17:02Z</DCT> 
-<TITLE type="str">Kim Kardashian West&apos;s stolen jewels melted and sold</TITLE> 
-</root>
+"We had very precise information about her movements that we got from someone who was very close to her."</TEXT>
+</TimeML>

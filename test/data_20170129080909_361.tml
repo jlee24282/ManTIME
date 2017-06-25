@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str"> |  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200085355</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Saturday's local sports</TITLE>
+<TEXT>| 
  
 Updated: Sat 11:13 PM, Jan 28, 2017 
   
@@ -16,14 +19,14 @@ Marawood Conference Wrestling Tournament
   
 BOYS HOCKEY 
 Amery 7, Viroqua 0 
-Ashland 7, L&apos;Anse, Mich. 2 
+Ashland 7, L'Anse, Mich. 2 
 Avalanche 7, Menomonie 1 
 Chippewa Falls 5, Tomah 0 
 Eau Claire North 5, Brookfield 4 
 Marquette University 8, Greendale 2 
 Middleton 4, Madison West 3 
 Monona Grove 4, DeForest 2 
-Northwest Icemen 6, L&apos;Anse, Mich. 3 
+Northwest Icemen 6, L'Anse, Mich. 3 
 Oregon 4, Waunakee 0 
 Rhinelander/Three Lakes 3, Waupaca 2 
 Sheboygan 1, De Pere/West De Pere 0 
@@ -140,14 +143,5 @@ West Salem 48, Black River Falls 30
 Wisconsin Heights 60, Randolph 40 
 Xavier 72, Green Bay West 42 
 POSTPONEMENTS AND CANCELLATIONS 
-Black Hawk vs. Randolph, ccd.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200085355</DOCID> 
-<DCT type="str">2017-01-29T07:56:41Z</DCT> 
-<TITLE type="str">Saturday&apos;s local sports</TITLE> 
-</root>
+Black Hawk vs. Randolph, ccd.</TEXT>
+</TimeML>

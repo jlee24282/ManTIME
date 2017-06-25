@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">&quot;La La Land&quot; has won top honors at the 28th annual Producers Guild Awards. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197537447</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>'La La Land' takes top honors at Producers Guild Awards</TITLE>
+<TEXT>"La La Land" has won top honors at the 28th annual Producers Guild Awards. 
 
 The guild recognized the candy-colored musical with its Darryl F. Zanuck Award for theatrical motion picture production at a ceremony Saturday night in Beverly Hills, California. 
 
-For seven of the past eight years, the winner of the producers&apos; Zanuck prize has gone on to win best picture at the Academy Awards. Last year was an exception: &quot;The Big Short&quot; won the guild award, while &quot;Spotlight&quot; got the Oscar. 
+For seven of the past eight years, the winner of the producers' Zanuck prize has gone on to win best picture at the Academy Awards. Last year was an exception: "The Big Short" won the guild award, while "Spotlight" got the Oscar. 
 
-The Oscar nominees for best picture announced earlier this past week echoed the producers&apos; best picture nominees, with the exception of &quot;Deadpool,&quot; which made the cut with producers but not the film academy. 
+The Oscar nominees for best picture announced earlier this past week echoed the producers' best picture nominees, with the exception of "Deadpool," which made the cut with producers but not the film academy. 
 
-&quot;Zootopia&quot; won the Producers Guild prize for animated feature.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: celebrity gossip</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197537447</DOCID> 
-<DCT type="str">2017-01-29T07:32:03Z</DCT> 
-<TITLE type="str">&apos;La La Land&apos; takes top honors at Producers Guild Awards</TITLE> 
-</root>
+"Zootopia" won the Producers Guild prize for animated feature.</TEXT>
+</TimeML>

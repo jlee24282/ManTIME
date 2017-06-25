@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">New Delhi, Jan 29 (IANS) Beat the winter hair-related blues with interesting, do-it-yourself recipes using castor, coconut and jojoba oils, says an expert.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202415956</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Revive your dull hair using jojoba oil in winter</TITLE>
+<TEXT>New Delhi, Jan 29 (IANS) Beat the winter hair-related blues with interesting, do-it-yourself recipes using castor, coconut and jojoba oils, says an expert.
 
 Here are some tips from Shiv Mann Singh, founder at Desert Splendour, which is on a mission to provide pure jojoba oil directly from its plantations in Rajasthan to its customers:
 
@@ -18,22 +21,5 @@ Massage the oil into your hair, section by section starting from the scalp to th
 
 --IANS
 
-ks/rb/vt</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Energy industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Oil and gas news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202415956</DOCID> 
-<DCT type="str">2017-01-29T08:04:04Z</DCT> 
-<TITLE type="str">Revive your dull hair using jojoba oil in winter</TITLE> 
-</root>
+ks/rb/vt</TEXT>
+</TimeML>

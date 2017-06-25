@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Four-times Premier League champions to play one-off match in AustraliaSell-out crowd expected at Perth’s new 65,000-capacity stadiumA-League fans are to get another chance to witness a Premier League heavyweight up close and personal with Perth Glory announcing a friendly fixture against Chelsea in mid-2018. The five-times English champions – four in the Premier League era – will travel to Western Australia to play at the new Perth stadium, which is scheduled to be completed by the start of the 2018 AFL season in March next year. Continue reading...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202304015</DOCID> 
-<DCT type="str">2017-01-29T07:14:28Z</DCT> 
-<TITLE type="str">Chelsea set for brush with Glory after Perth friendly announced for 2018 | Football</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202304015</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Chelsea set for brush with Glory after Perth friendly announced for 2018 | Football</TITLE>
+<TEXT>Four-times Premier League champions to play one-off match in AustraliaSell-out crowd expected at Perths new 65,000-capacity stadiumA-League fans are to get another chance to witness a Premier League heavyweight up close and personal with Perth Glory announcing a friendly fixture against Chelsea in mid-2018. The five-times English champions  four in the Premier League era  will travel to Western Australia to play at the new Perth stadium, which is scheduled to be completed by the start of the 2018 AFL season in March next year. Continue reading...</TEXT>
+</TimeML>

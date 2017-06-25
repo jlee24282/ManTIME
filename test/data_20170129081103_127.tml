@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Quand votre famille est tout ce qui vous reste, jusqu’où iriez-vous pour la protéger? 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203834041</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>The Walking Dead 3 (01-) Episode 1 - Les liens qui nous unissent (01-02)</TITLE>
+<TEXT>Quand votre famille est tout ce qui vous reste, jusquo iriez-vous pour la protger? 
  
-Quatre ans après que les morts-vivants ont déchiré la société, des poches de civilisation commencent à émerger du chaos. Mais à quel prix ? Peut-on faire confiance aux vivants dans cette nouvelle zone en marge de la barbarie? 
+Quatre ans aprs que les morts-vivants ont dchir la socit, des poches de civilisation commencent  merger du chaos. Mais  quel prix ? Peut-on faire confiance aux vivants dans cette nouvelle zone en marge de la barbarie? 
 
 Author: bjphenix 
 Tags: The Walking Dead: Episode 1 - A New Day  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203834041</DOCID> 
-<DCT type="str">2017-01-29T08:14:25Z</DCT> 
-<TITLE type="str">The Walking Dead 3 (01-) Episode 1 - Les liens qui nous unissent (01-02)</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">MIDD-WEST MIDDLE SCHOOL 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196181011</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Midd-West Middle School second marking period honor roll</TITLE>
+<TEXT>MIDD-WEST MIDDLE SCHOOL 
  
 DISTINGUISHED HONOR ROLL 
  
@@ -140,7 +143,7 @@ Caroline Zerby
  
 HONOR ROLL 
  
-Grade 6 
+Grade6 
  
 Lauryn Aucker 
  
@@ -312,18 +315,5 @@ Lydia Witherite
  
 Logan Womer 
    
-We have recently upgraded our commenting system. If you wish to comment please login using your social ID or create a new account.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196181011</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">Midd-West Middle School second marking period honor roll</TITLE> 
-</root>
+We have recently upgraded our commenting system. If you wish to comment please login using your social ID or create a new account.</TEXT>
+</TimeML>

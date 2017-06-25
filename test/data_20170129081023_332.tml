@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A federal judge temporarily barring the US from deporting people from nations subject to Donald Trump&apos;s travel ban, citing a possible rights violation.... Tell is a complete voice of the world&apos;s media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202705030</DOCID> 
-<DCT type="str">2017-01-29T08:15:53Z</DCT> 
-<TITLE type="str">Judge bars deportations under Trump travel ban</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202705030</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Judge bars deportations under Trump travel ban</TITLE>
+<TEXT>A federal judge temporarily barring the US from deporting people from nations subject to Donald Trump's travel ban, citing a possible rights violation.... Tell is a complete voice of the world's media. We are constantly distributing news and information items every minute of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you love. images, logos, trademarks and copyrights on MetroTell.co.za are owned by their respective owners.</TEXT>
+</TimeML>

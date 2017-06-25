@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">. She was the wife of the late William Eshelman, who died in November 2015. They were married for 64 years. Born in Honey Brook on February 6, 1922, she was the daughter of Elmer and Marie (Landis) Brown. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203124761</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Edith B. Eshelman</TITLE>
+<TEXT>. She was the wife of the late William Eshelman, who died in November 2015. They were married for 64 years. Born in Honey Brook on February 6, 1922, she was the daughter of Elmer and Marie (Landis) Brown. 
  
 Edith was a homemaker. She was a member of the Reformed Mennonite Church. 
  
@@ -10,14 +13,5 @@ Funeral services will be held Wednesday, February 1, 2017 at 11AM at Longenecker
  
 Strasburg 
  
-bachmanfuneral.com</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203124761</DOCID> 
-<DCT type="str">2017-01-29T05:00:00Z</DCT> 
-<TITLE type="str">Edith B. Eshelman</TITLE> 
-</root>
+bachmanfuneral.com</TEXT>
+</TimeML>

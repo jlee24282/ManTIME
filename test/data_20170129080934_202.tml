@@ -1,35 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Arab Bank Group announced its 2016 results reporting a growth of 20% percent in net profits. Net operating income More...
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200908629</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Arab Bank Group reports 20% growth in net profits in 2016</TITLE>
+<TEXT>Arab Bank Group announced its 2016 results reporting a growth of 20% percent in net profits. Net operating income More...
 
-read more</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Stockwatch</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Earnings news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Banking news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Middle Eastern business news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200908629</DOCID> 
-<DCT type="str">2017-01-29T08:03:00Z</DCT> 
-<TITLE type="str">Arab Bank Group reports 20% growth in net profits in 2016</TITLE> 
-</root>
+read more</TEXT>
+</TimeML>

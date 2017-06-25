@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">(Photo: Lake Dillon Fire-Rescue) 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201854086</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Garage collapse serves as reminder to clear snow off</TITLE>
+<TEXT>(Photo: Lake Dillon Fire-Rescue) 
     
 KUSA - Silverthorne residents are being reminded to shovel the snow from their roofs. 
  
@@ -8,18 +11,9 @@ The warning comes after a free-standing garage on the 700 block of Boise Drive c
  
 No one was injured, but firefighters say it serves as a reminder to get that snow of the roof. 
  
-This comes just two weeks after  heavy snow was named as the cause for a roof collapse at a Breckenridge resort. 
+This comes just two weeks after heavy snow was named as the cause for a roof collapseat a Breckenridge resort. 
  
-The snow Breckenridge got on the flat roof was too much for it to handle, leading to its collapse.  
+The snow Breckenridge got on the flat roof was too much for it to handle, leading to its collapse. 
  
-(© 2017 KUSA)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Denver-Aurora news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201854086</DOCID> 
-<DCT type="str">2017-01-29T08:09:11Z</DCT> 
-<TITLE type="str">Garage collapse serves as reminder to clear snow off…</TITLE> 
-</root>
+( 2017 KUSA)</TEXT>
+</TimeML>

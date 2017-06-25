@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Five Lotto tickets are each now worth $200,000 - sharing Lotto First Division in tonight’s draw. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203867110</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Five tickets share Lotto First Division yesterday</TITLE>
+<TEXT>Five Lotto tickets are each now worth $200,000 - sharing Lotto First Division in tonights draw. 
  
 They were bought at New World Whanganui, Harris Road Superette and Lotto in Auckland, This That and Lotto in Reefton, Countdown Manurewa in Auckland, and by a MyLotto player from Auckland. 
  
@@ -8,22 +11,5 @@ $115,443 goes to three Strike Four tickets - bought at Harris Road Superette and
  
 Powerball was not struck, and jackpots to Wednesday night. 
  
-Check the winning numbers here .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">New Zealand news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203867110</DOCID> 
-<DCT type="str">2017-01-29T08:24:42Z</DCT> 
-<TITLE type="str">Five tickets share Lotto First Division yesterday</TITLE> 
-</root>
+Check the winning numbers here .</TEXT>
+</TimeML>

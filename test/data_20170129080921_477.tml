@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Kowalowski scores OT winner 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200655182</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Sports Shorts: Jan. 29, 2017</TITLE>
+<TEXT>Kowalowski scores OT winner 
  
-WHITESBORO — The Press-Republican incorrectly reported results on Beekmantown’s 2-1 defeat of Whitesboro, and it apologizes for the error. 
+WHITESBORO  The Press-Republican incorrectly reported results on Beekmantowns 2-1 defeat of Whitesboro, and it apologizes for the error. 
  
 Kaden Kowalowski supplied the Eagles with their game-winning goal at 4:09 of overtime, and the assists were credited to Seamus Andrew and Keenan Regan. 
  
@@ -10,11 +13,11 @@ Nathan Hebert, on an assist from Kowalowski, put Beekmantown on the board at the
  
 PHS baseball bottle drive today 
  
-PLATTSBURGH — The Plattsburgh High baseball team will be holding a bottle drive from noon to 2 p.m. today at the Adirondack Lane parking lot. 
+PLATTSBURGH  The Plattsburgh High baseball team will be holding a bottle drive from noon to 2 p.m. today at the Adirondack Laneparking lot. 
  
 Malone Adult League scores 
  
-MALONE — The Malone Adult League has publicized final scores and statistics from competition Jan. 26 and Jan. 27. 
+MALONE  The Malone Adult League has publicized final scores and statistics from competition Jan. 26 and Jan. 27. 
  
 Jan. 26 
  
@@ -30,21 +33,21 @@ AL- Austin Gonyea 21 points, 9 rebounds, 3 assists, 4 steals.
  
 F- Craig Dumas, 20 points, 9 rebounds, 6 assists. 
  
-Mitchell&apos;s 103, Iron Ore Market 70 
+Mitchell's 103, Iron Ore Market 70 
  
 M- Chris Castine 17 points, 13 rebounds, 4 assists. 
  
-I- Nick O&apos;Meara 19 points, 6 rebounds. 
+I- Nick O'Meara 19 points, 6 rebounds. 
  
 Jan. 27 
  
-Cantwell 49, Smoky&apos;s 48 
+Cantwell 49, Smoky's 48 
  
 C- Andre Poirier, 19 points, 8 rebounds, 5 assists. 
  
 S- Mike Kavanuagh, 20 points, 11 rebounds, 3 steals, 2 blocks. 
  
-Leahy 56 vs LaVigne&apos;s IGA 33 
+Leahy 56 vs LaVigne's IGA 33 
  
 LE- Trevor Towle 14 points, 22 rebounds, 5 assists, 5 steals, 3 blocks. 
  
@@ -80,14 +83,5 @@ Jan. 25
  
 High game- Betty Baker 193. Ann Laravie 187. 
  
-High series- Ann Laravie 486.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200655182</DOCID> 
-<DCT type="str">2017-01-28T09:15:00Z</DCT> 
-<TITLE type="str">Sports Shorts: Jan. 29, 2017</TITLE> 
-</root>
+High series- Ann Laravie 486.</TEXT>
+</TimeML>

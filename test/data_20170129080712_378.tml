@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Oscar nominees Andrew Garfield, Dev Patel and Naomie Harris are among a host of British stars hoping for success at the Screen Actors Guild (SAG) Awards. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195445093</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Andrew Garfield, Naomie Harris and Dev Patel among British stars up for SAG Awards</TITLE>
+<TEXT>Oscar nominees Andrew Garfield, Dev Patel and Naomie Harris are among a host of British stars hoping for success at the Screen Actors Guild (SAG) Awards. 
  
 
 The star-studded ceremony in Los Angeles is seen as a key indicator of who will fare well at the Academy Awards next month. 
  
 
-Powerful drama Manchester By The Sea leads the way with four nominations, while musical La La Land – which earned a record equalling 14 Oscar nods – is up for two awards. 
+Powerful drama Manchester By The Sea leads the way with four nominations, while musical La La Land  which earned a record equalling 14 Oscar nods  is up for two awards. 
  
 
 Stranger Things star Millie Bobby Brown could make history by becoming the youngest ever SAG Award winner after she was nominated for best actress in a TV drama. 
@@ -21,7 +24,7 @@ The 12-year-old, who plays a girl with psychokinetic abilities in the Netflix sh
 Golden Globe winner Claire is nominated for her portrayal of the Queen in Netflix drama The Crown, while Thandie has been recognised for her performance as a life-like robot in HBO show Westworld. 
  
 
-Andrew received a best actor nod for his role as real-life army medic Desmond Doss in Mel Gibson’s Second World War drama Hacksaw Ridge. 
+Andrew received a best actor nod for his role as real-life army medic Desmond Doss in Mel Gibsons Second World War drama Hacksaw Ridge. 
  
 
 James Bond star Naomie is nominated for the best supporting actress award after playing a crack addict in coming-of-age drama Moonlight. 
@@ -36,7 +39,7 @@ Dev earned a best supporting actor nomination for his performance in Lion, the t
 The Slumdog Millionaire star will compete for the award with fellow Briton Hugh Grant, who is nominated for his role in comedy Florence Foster Jenkins. 
  
 
-Hugh’s co-star Meryl Streep, who recently became the first star to be nominated for 20 Oscars, is up for the SAG award for best actress. 
+Hughs co-star Meryl Streep, who recently became the first star to be nominated for 20 Oscars, is up for the SAG award for best actress. 
  
 
 Other British nominees include Emily Blunt, who earned a best actress nod for her starring role in psychological thriller The Girl On The Train. 
@@ -66,14 +69,5 @@ Emily, Emma and Meryl will battle for the best actress award with Amy Adams and 
 The casts of Downton Abbey, The Crown, Game Of Thrones, Stranger Things and Westworld will compete for best ensemble in a TV drama series. 
  
 
-Actress Lily Tomlin will receive the SAG Life Achievement Award at the ceremony, which takes place at the Shrine Auditorium at 5pm local time (1am Monday GMT).</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195445093</DOCID> 
-<DCT type="str">2017-01-29T07:22:16Z</DCT> 
-<TITLE type="str">Andrew Garfield, Naomie Harris and Dev Patel among British stars up for SAG Awards</TITLE> 
-</root>
+Actress Lily Tomlin will receive the SAG Life Achievement Award at the ceremony, which takes place at the Shrine Auditorium at 5pm local time (1am Monday GMT).</TEXT>
+</TimeML>

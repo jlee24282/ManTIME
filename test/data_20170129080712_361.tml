@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">For all  the breaking news, follow RoF on Twitter and Facebook 
-                
-               </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Apps news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195428130</DOCID> 
-<DCT type="str">2017-01-29T07:22:02Z</DCT> 
-<TITLE type="str">LEO Privacy is the best app for locking app</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195428130</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>LEO Privacy is the best app for locking app</TITLE>
+<TEXT>For all  the breaking news, follow RoF on Twitter and Facebook 
+           
+             </TEXT>
+</TimeML>

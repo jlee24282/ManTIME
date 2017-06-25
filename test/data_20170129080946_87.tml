@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">SUNDAY 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201236334</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>TV Sports for Sunday, Jan. 29, 2017</TITLE>
+<TEXT>SUNDAY 
  
 AUTO RACING 
  
@@ -8,9 +11,9 @@ AUTO RACING
  
 NCAA BASKETBALL 
  
-10 a.m. (BIG10) Nebraska at Ohio State Women’s 
+10 a.m. (BIG10) Nebraska at Ohio State Womens 
  
-10 a.m. (ESPNU) Virginia at Notre Dame Women’s 
+10 a.m. (ESPNU) Virginia at Notre Dame Womens 
  
 11 a.m. (KASW) North Carolina State at Louisville 
  
@@ -18,9 +21,9 @@ NCAA BASKETBALL
  
 11 a.m. (KSAZ) Virginia at Villanova 
  
-Noon (ESPN2) Iowa at Maryland Women’s 
+Noon (ESPN2) Iowa at Maryland Womens 
  
-Noon (ESPNU) Oregon at Oregon State Women’s 
+Noon (ESPNU) Oregon at Oregon State Womens 
  
 Noon (PAC-12AZ) Washington State at Arizona State 
  
@@ -28,17 +31,17 @@ Noon (PAC-12AZ) Washington State at Arizona State
  
 2 p.m. (ESPNU) Wichita State at Bradley 
  
-2 p.m. (FS1) West Virginia at Texas Women’s 
+2 p.m. (FS1) West Virginia at Texas Womens 
  
 2:30 p.m. (BIG10) Purdue at Nebraska 
  
-4 p.m. (FS1) Xavier at St. John’s 
+4 p.m. (FS1) Xavier at St. Johns 
  
-4 p.m. (PAC-12AZ) Arizona State at USC Women’s 
+4 p.m. (PAC-12AZ) Arizona State at USC Womens 
  
 4:30 p.m. (BIG10) Indiana at Northwestern 
  
-4:30 p.m. (ESPN2) Oklahoma at Baylor Women’s 
+4:30 p.m. (ESPN2) Oklahoma at Baylor Womens 
  
 4:30 p.m. (ESPNU) Boston College at Virginia Tech 
  
@@ -64,7 +67,7 @@ GOLF
  
 GYMNASTICS 
  
-2 p.m. (PAC-12AZ) NCAA Arizona at Stanford Women’s 
+2 p.m. (PAC-12AZ) NCAA Arizona at Stanford Womens 
  
 NHL HOCKEY 
  
@@ -86,13 +89,13 @@ SOCCER
  
 9 a.m. (FS1) FA Cup FA Wigan vs. Man. Utd. 
  
-11 a.m. (KTVW) Fútbol MFL Necaxa at UNAM 
+11 a.m. (KTVW) Ftbol MFL Necaxa at UNAM 
  
 2 p.m. (ESPN2) International Friendly FIFA Serbia vs. United States 
  
 TENNIS 
  
-1 a.m. (ESPN) Australian Open Men’s Final 
+1 a.m. (ESPN) Australian Open Mens Final 
  
 WRESTLING 
  
@@ -102,17 +105,17 @@ MONDAY
  
 NCAA BASKETBALL 
  
-4 p.m. (ESPN2) Tennessee at South Carolina Women’s 
+4 p.m. (ESPN2) Tennessee at South Carolina Womens 
  
 5 p.m. (ESPN) Duke at Notre Dame 
  
 5 p.m. (ESPNU) South Carolina State at Howard 
  
-6 p.m. (BIG10) Michigan State at Minnesota Women’s 
+6 p.m. (BIG10) Michigan State at Minnesota Womens 
  
 7 p.m. (ESPN) Oklahoma State at Oklahoma 
  
-7 p.m. (ESPNU) Alabama State at Prairie View A&amp;M 
+7 p.m. (ESPNU) Alabama State at Prairie View A&M 
  
 NBA BASKETBALL 
  
@@ -122,18 +125,5 @@ NBA BASKETBALL
  
 HOCKEY 
  
-5 p.m. (FSP) AHL All-Star Game</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201236334</DOCID> 
-<DCT type="str">2017-01-29T07:15:00Z</DCT> 
-<TITLE type="str">TV Sports for Sunday, Jan. 29, 2017</TITLE> 
-</root>
+5 p.m. (FSP) AHL All-Star Game</TEXT>
+</TimeML>

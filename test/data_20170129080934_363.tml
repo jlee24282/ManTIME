@@ -1,35 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">62nd NHL All-Star Game. When: 3:30 p.m. Where: Staples Center, Los Angeles. TV: NBC (Channel 4 in Detroit), CBC (Channel 9). Game notes: Not the traditional East vs. West matchup in this rendition of the midseason exhibition. Or the North American stars against the International. Or the young kids against the old veterans. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201046983</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>How to watch today's NHL All-Star Game in Los Angeles</TITLE>
+<TEXT>62nd NHL All-Star Game. When: 3:30 p.m. Where: Staples Center, Los Angeles. TV: NBC (Channel 4 in Detroit), CBC (Channel 9). Game notes: Not the traditional East vs. West matchup in this rendition of the midseason exhibition. Or the North American stars against the International. Or the young kids against the old veterans. 
  
-&lt; Prev     Next &gt;</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Los Angeles news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Media latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: NHL news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: ice hockey news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201046983</DOCID> 
-<DCT type="str">2017-01-29T07:25:00Z</DCT> 
-<TITLE type="str">How to watch today&apos;s NHL All-Star Game in Los Angeles</TITLE> 
-</root>
+< Prev    Next ></TEXT>
+</TimeML>

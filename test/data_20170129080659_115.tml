@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">BOXING: The chances of a home-town fight against Manny Pacquaio for Brisbane-born Jeff Horn have moved a step closer with the Queensland government tabling a bid to host the bout. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194720055</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Queensland makes bid to host Pacquaio-Horn...</TITLE>
+<TEXT>BOXING: The chances of a home-town fight against Manny Pacquaio for Brisbane-born Jeff Horn have moved a step closer with the Queensland government tabling a bid to host the bout. 
  
 The WBO world welterweight battle is set for April 23 but a venue has yet to be decided. 
  
@@ -12,18 +15,5 @@ Jones said a partnership bid from the Brisbane City Council was still in negotia
  
 Horn is unbeaten in his 17 professional fights so far, winning 16 and drawing one. 
  
-He has already called the bout a dream fight against 11-time world champion Pacquiao.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194720055</DOCID> 
-<DCT type="str">2017-01-29T07:17:31Z</DCT> 
-<TITLE type="str">Queensland makes bid to host Pacquaio-Horn...</TITLE> 
-</root>
+He has already called the bout a dream fight against 11-time world champion Pacquiao.</TEXT>
+</TimeML>

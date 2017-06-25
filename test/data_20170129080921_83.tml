@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">30 min ago 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200285745</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>U.S. judge blocks deportations of banned travelers</TITLE>
+<TEXT>30 min ago 
 
-A U.S. judge has temporarily blocked deportations of banned travelers following the recent executive order signed by President Trump.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200285745</DOCID> 
-<DCT type="str">2017-01-29T07:26:00Z</DCT> 
-<TITLE type="str">U.S. judge blocks deportations of banned travelers</TITLE> 
-</root>
+A U.S. judge has temporarily blocked deportations of banned travelers following the recent executive order signed by President Trump.</TEXT>
+</TimeML>

@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">President Trump signed an executive order on Friday that bars refugees in seven countries from entering U.S. borders, foreign media reported. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200398575</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Donald Trump bars refugees from immigrating into America for 120 days</TITLE>
+<TEXT>President Trump signed an executive order on Friday that bars refugees in seven countries from entering U.S. borders, foreign media reported. 
 According to a report from The New York Times, on Friday Trump signed an executive order that effectively bars refugees in seven predominantly Muslim countries from entering United States borders. 
 
 Additionally, the order established a religion based test for refugees and instructed that those of Christian religion or other minority religions be given priority over others. 
 
-The seven countries barred, Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen are linked to concerns about terrorism according to Trump&apos;s administration. 
+The seven countries barred, Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen are linked to concerns about terrorism according to Trump's administration. 
 
 The order exercises harsh regulations on these countries including an indefinite immigration ban on Syrian refugees and a 120 day bay on all refugee immigration into the United States. 
 
-President Trump claims that this order will keep out &quot;Radical Islamic terrorists,&quot; and claims that his plan seeks &quot;To ensure that we are not admitting into our country the very threats our soldiers are fighting overseas. We only want to admit those into our country who will support our country, and love deeply our people.&quot;</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200398575</DOCID> 
-<DCT type="str">2017-01-29T07:59:48Z</DCT> 
-<TITLE type="str">Donald Trump bars refugees from immigrating into America for 120 days</TITLE> 
-</root>
+President Trump claims that this order will keep out "Radical Islamic terrorists," and claims that his plan seeks "To ensure that we are not admitting into our country the very threats our soldiers are fighting overseas. We only want to admit those into our country who will support our country, and love deeply our people."</TEXT>
+</TimeML>

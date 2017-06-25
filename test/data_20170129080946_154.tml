@@ -1,28 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A new business center in an old location is launching in March. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201301094</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Coming soon to downtown Carson City: Battle Born Business Center</TITLE>
+<TEXT>A new business center in an old location is launching in March. 
  
 Battle Born Business Center is opening at 1000 N. Division St. after a $1 million-plus renovation of the 39 year-old building. 
  
 The two-story, 15,250 square-foot Class A office building will be occupied by Handelin Law, NAI Alliance Carson City, The Nevada Builders Alliance and RCM Realty. 
  
-“With all the work the city has city has done we wanted to be closer to downtown and this gave us a great opportunity,” said Aaron West, CEO, the Builder’s Alliance. 
+With all the work the city has city has done we wanted to be closer to downtown and this gave us a great opportunity, said Aaron West, CEO, the Builders Alliance. 
  
 Andie Wilson, owner, broker, NAI Alliance, said the new space will create synergy among its occupants, who now have separate offices but often work on the same projects. 
  
-“The more we work together the more business we do together,” said Wilson. 
+The more we work together the more business we do together, said Wilson. 
  
 Each is taking a quarter of the building, each section being designed to suit their specific needs. 
  
 The first floor will feature the building lobby and the suite of office for the Builders Alliance and RCM Realty. Handelin Law and NAI Alliance will be on the second floor. An attic provides storage space for all. 
  
-In addition, five offices are available for lease inside the Builder’s Alliance office. 
+In addition, five offices are available for lease inside the Builders Alliance office. 
  
-“We’re looking for complementary types of tenancies for these suites,” West said. 
+Were looking for complementary types of tenancies for these suites, West said. 
  
 A large conference room on the second floor that can accommodate up to 40 people will be available for use by related businesses and community groups on a first-come, first-serve basis. 
  
-“It’s a perfect space for a title company to hold classes,” or for groups such as the Boys &amp; Girls Clubs of Western Nevada to hold meetings, said Wilson. 
+Its a perfect space for a title company to hold classes, or for groups such as the Boys & Girls Clubs of Western Nevada to hold meetings, said Wilson. 
  
 The building is getting a new roof, new heating, ventilation and air conditioning system and all new LED lighting throughout. 
  
@@ -30,10 +33,5 @@ The rehab is being overseen by Cheryl Evans, owner representative, NAI Alliance,
  
 Bill Miles, Miles Construction, is acting as a consultant on behalf of the Builders Alliance. 
  
-The occupants are set to move in in early March and they are planning a grand opening May 18 with proceeds from event to benefit the Boys &amp; Girls Club.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201301094</DOCID> 
-<DCT type="str">2017-01-29T07:31:01Z</DCT> 
-<TITLE type="str">Coming soon to downtown Carson City: Battle Born Business Center</TITLE> 
-</root>
+The occupants are set to move in in early March and they are planning a grand opening May 18 with proceeds from event to benefit the Boys & Girls Club.</TEXT>
+</TimeML>

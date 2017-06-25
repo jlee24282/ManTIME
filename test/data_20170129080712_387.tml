@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">10    
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195451520</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Israeli troops kill Palestinian in West Bank clash - officials</TITLE>
+<TEXT>10    
 JERUSALEM: Israeli forces shot and killed a Palestinian during a clash on Sunday in the occupied West Bank, according to Palestinian medical officials. 
  
-An Israeli military spokeswoman said Palestinian rioters had &quot;attacked and hurled pipe bombs&quot; at soldiers operating overnight in the area of the Jenin refugee camp. 
+An Israeli military spokeswoman said Palestinian rioters had "attacked and hurled pipe bombs" at soldiers operating overnight in the area of the Jenin refugee camp. 
  
-&quot;Responding to the threat, forces fired at (the) main instigators,&quot; the spokeswoman said. 
+"Responding to the threat, forces fired at (the) main instigators," the spokeswoman said. 
  
 Palestinian hospital officials said one man was killed and five were wounded by the Israeli gunfire. 
  
@@ -14,22 +17,5 @@ Israeli forces regularly carry out raids against suspected militants and arms ca
 (Reporting by Ali Sawafta and Ari Rabinovitch; Editing by Paul Tait) 
   
 - Reuters 
-          Email   More</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Palestinian territories news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Israel news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195451520</DOCID> 
-<DCT type="str">2017-01-29T07:10:12Z</DCT> 
-<TITLE type="str">Israeli troops kill Palestinian in West Bank clash - officials</TITLE> 
-</root>
+          Email   More</TEXT>
+</TimeML>

@@ -1,20 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Jack in the Box Triple Bacon Buttery Jack Burger is Indulgent  
-  By: Michael Hemsworth -  Jan 29, 2017 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201242468</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bacon Butter-Infused Burgers - The Jack in the Box Triple Bacon Buttery Jack Burger is Indulgent (TrendHunter.com)</TITLE>
+<TEXT>The Jack in the Box Triple Bacon Buttery Jack Burger is Indulgent  
+  By: Michael Hemsworth- Jan 29, 2017 
 References: brandeating  Set to be available at participating locations starting on February 2, the Jack in the Box Triple Bacon Buttery Jack Burger is a new indulgent offering from the QSR brand. 
-The new burger features bacon butter, bacon mayo, hickory-smoked bacon strips, a signature beef patty, grilled onions and cheddar cheese on the brand&apos;s signature bun. 
+The new burger features bacon butter, bacon mayo, hickory-smoked bacon strips, a signature beef patty, grilled onions and cheddar cheese on the brand's signature bun. 
 
-The burger comes as the brand&apos;s first endeavor of utilizing bacon butter in its offerings to offer bacon lovers a triple hit of bacon in every bite of the indulgent sandwich. 
+The burger comes as the brand's first endeavor of utilizing bacon butter in its offerings to offer bacon lovers a triple hit of bacon in every bite of the indulgent sandwich. 
 
-While the Jack in the Box Triple Bacon Buttery Jack Burger is set to be available at the beginning of February the sandwich is purported to be available for only a limited-time.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Restaurant industry news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201242468</DOCID> 
-<DCT type="str">2017-01-29T03:01:03Z</DCT> 
-<TITLE type="str">Bacon Butter-Infused Burgers - The Jack in the Box Triple Bacon Buttery Jack Burger is Indulgent (TrendHunter.com)</TITLE> 
-</root>
+While the Jack in the Box Triple Bacon Buttery Jack Burger is set to be available at the beginning of February the sandwich is purported to be available for only a limited-time.</TEXT>
+</TimeML>

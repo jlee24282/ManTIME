@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">HOWLAND — Norio L. “Norm” Lorenzi, 93, of Howland, passed away peacefully from complications of Parkinson’s disease Thursday evening, Jan. 26, 2017, at Gillette Nursing Home. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204497263</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Norio L. Lorenzi</TITLE>
+<TEXT>HOWLAND  Norio L. Norm Lorenzi, 93, of Howland, passed away peacefully from complications of Parkinsons disease Thursday evening, Jan. 26, 2017, at Gillette Nursing Home. 
  
 He was born June 20, 1923, in Trento, Italy, the son of the late Pangrazio Louis and Guiditta Theresa Raoss Lorenzi, and emigrated to the United States when he was 15 months old. He was raised in Nuremberg, Pa., and had been a Howland resident for 46 years. 
  
-Norio served as a gunner’s mate in the U.S. Navy in the European Theatre during World War II. He retired in 1986 from General Motors in Lordstown, where he worked as a painter in the maintenance department for 27 years. He also was a licensed Realtor in the area for many years. 
+Norio served as a gunners mate in the U.S. Navy in the European Theatre during World War II. He retired in 1986 from General Motors in Lordstown, where he worked as a painter in the maintenance department for 27 years. He also was a licensed Realtor in the area for many years. 
  
 Norio was a member of VFW Post 1090 in Warren, where he had served as chaplain. He was a member of the Warren YMCA for 40 years and was an avid Pittsburgh Steelers and Pirates fan, often listening and watching two games at once. 
  
@@ -18,10 +21,5 @@ The family wishes to thank the staff at Gillette Nursing Home for their attentiv
  
 Online condolences may be made to the family and the obituary viewed at www.robertsclarkchapel.com. 
  
-(special notice)</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204497263</DOCID> 
-<DCT type="str">2017-01-29T08:29:59Z</DCT> 
-<TITLE type="str">Norio L. Lorenzi</TITLE> 
-</root>
+(special notice)</TEXT>
+</TimeML>

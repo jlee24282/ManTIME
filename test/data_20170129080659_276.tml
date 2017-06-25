@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Resend Email Verification 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194810011</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>News US judge bars deportations under Trump travel ban</TITLE>
+<TEXT>Resend Email Verification 
 
-Sorry we could not verify that email address. Enter your email below and we&apos;ll send you another email. 
+Sorry we could not verify that email address. Enter your email below and we'll send you another email. 
 
 {* #resendVerificationForm *} {* traditionalSignIn_emailAddress *} 
 
 {* submitButton *} 
 
-{* /resendVerificationForm *}</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194810011</DOCID> 
-<DCT type="str">2017-01-29T07:18:22Z</DCT> 
-<TITLE type="str">News US judge bars deportations under Trump travel ban</TITLE> 
-</root>
+{* /resendVerificationForm *}</TEXT>
+</TimeML>

@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">President Donald Trump’s controversial executive order, which suspends refugee arrivals and imposes tough controls on travelers from seven Muslim countries, has irked several tech companies in the United States. The order, signed in by Trump Friday, is meeting with stiff opposition from the Silicon Valley, with most tech company executives who met Trump when he was president-elect criticizing the ban on immigration.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Silicon Valley news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Technology</group> 
-<name type="str">Tech latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203399895</DOCID> 
-<DCT type="str">2017-01-29T08:21:06Z</DCT> 
-<TITLE type="str">Trump vs. Silicon Valley: Tech Companies Protest Immigration Ban, But Will They Take Stronger Action?</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203399895</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump vs. Silicon Valley: Tech Companies Protest Immigration Ban, But Will They Take Stronger Action?</TITLE>
+<TEXT>President Donald Trumps controversial executive order, which suspends refugee arrivals and imposes tough controls on travelers from seven Muslim countries, has irked several tech companies in the United States. The order, signed in by Trump Friday, is meeting with stiff opposition from the Silicon Valley, with most tech company executives who met Trump when he was president-elect criticizingthe ban on immigration.</TEXT>
+</TimeML>

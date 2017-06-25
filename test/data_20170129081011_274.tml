@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">For centuries, wood was civilization&apos;s primary construction material, but it gave way to concrete, glass and steel and was largely relegated to flooring and interior paneling. An exhibition at the National Building Museum in Washington challenges that. It suggests that tomorrow&apos;s buildings will or should be constructed of wood. VOA&apos;s June Soh has more, in this report, narrated by Carol Pearson.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695202355741</DOCID> 
-<DCT type="str">2017-01-29T08:12:23Z</DCT> 
-<TITLE type="str">New Exhibition Proposes Timber as Tomorrow&apos;s Smart Building Material</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202355741</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>New Exhibition Proposes Timber as Tomorrow's Smart Building Material</TITLE>
+<TEXT>For centuries, wood was civilization's primary construction material, but it gave way to concrete, glass and steel and was largely relegated to flooring and interior paneling. An exhibition at the National Building Museum in Washington challenges that. It suggests that tomorrow's buildings will or should be constructed of wood. VOA's June Soh has more, in this report, narrated by Carol Pearson.</TEXT>
+</TimeML>

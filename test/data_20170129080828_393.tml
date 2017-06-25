@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Kuala Lumpur, January 29 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198367235</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Boat carrying 31 persons missing in Malaysia</TITLE>
+<TEXT>Kuala Lumpur, January 29 
 A boat carrying 31 persons aboard has lost contact with the authorities in Malaysia, an official said on Sunday. 
 
 It sailed from Kota Kinabalu in Sabah state on Saturday, and carried over 20 Chinese tourists, Xinhua news agency quoted the Consulate General of China as saying. 
@@ -9,22 +12,5 @@ According to Malaysian Maritime Enforcement Agency, the boat was on its way to P
 
 The agency has sent out ships and helicopters to the site for rescue operations. 
 
-A maritime communications officer in Sabah said: &quot;The search area covers 400 nautical square miles and involves waters between Kota Kinabalu and Pulau Mengalum&quot;. It was not clear yet what caused the disappearance. — IANS</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Malaysia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Southeast Asia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198367235</DOCID> 
-<DCT type="str">2017-01-29T07:42:59Z</DCT> 
-<TITLE type="str">Boat carrying 31 persons missing in Malaysia</TITLE> 
-</root>
+A maritime communications officer in Sabah said: "The search area covers 400 nautical square miles and involves waters between Kota Kinabalu and Pulau Mengalum". It was not clear yet what caused the disappearance.  IANS</TEXT>
+</TimeML>

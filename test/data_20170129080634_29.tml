@@ -1,41 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">This study determined the completeness, accuracy, and reading level of Wikipedia patient drug information compared with the corresponding United States product insert medication guides. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193840200</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Completeness, accuracy, and readability of Wikipedia as a reference for patient medication information</TITLE>
+<TEXT>This study determined the completeness, accuracy, and reading level of Wikipedia patient drug information compared with the corresponding United States product insert medication guides. 
   
-URL:  
+URL: 
  
 http://www.japha.org/article/S1544-3191(16)30999-2/fulltext?rss=yes 
    
 This study determined the completeness, accuracy, and reading level of Wikipedia patient drug information compared with the corresponding United States product insert medication guides. 
    
-Ad Position:  
+Ad Position: 
  
 Bottom Center Aligned 
    
-Spotlight Image</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Health care industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Pharma industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Internet latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Web 2.0 news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Internet</group> 
-<name type="str">Online content news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193840200</DOCID> 
-<DCT type="str">2017-01-29T05:05:01Z</DCT> 
-<TITLE type="str">Completeness, accuracy, and readability of Wikipedia as a reference for patient medication information</TITLE> 
-</root>
+Spotlight Image</TEXT>
+</TimeML>

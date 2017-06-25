@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Gwenpool #11 swings into comic book stores this coming Wednesday, and we’ve got a preview of the issue for you here courtesy of Marvel… 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201627480</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Preview of Gwenpool #11</TITLE>
+<TEXT>Gwenpool #11 swings into comic book stores this coming Wednesday, and weve got a preview of the issue for you here courtesy of Marvel 
  
 
  
@@ -18,14 +21,5 @@ Gwen gets hired to save a small town from a VAMPIRE! But all is not what it seem
  
 Gwenpool #11 is out on February 1st, priced $3.99. 
   
-Share the post &quot; &quot;</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201627480</DOCID> 
-<DCT type="str">2017-01-29T08:00:30Z</DCT> 
-<TITLE type="str">Preview of Gwenpool #11</TITLE> 
-</root>
+Share the post " "</TEXT>
+</TimeML>

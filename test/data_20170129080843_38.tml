@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198504264</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Minor (15.67 ft) - Observation - PERL1 - Pearl River near Pearl River (Louisiana)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
      
 NOTE: Forecasts for the Pearl River near Pearl River are issued routinely year-round. 
-       Flood Categories (in feet) 
+      Flood Categories (in feet) 
  Major Flood Stage:  18  Moderate Flood Stage:  17  Flood Stage:  14  Action Stage:  12  Low Stage (in feet):  -9999  
 Historic Crests 
 (1) 21.05 ft on 04/09/1983 
@@ -34,11 +37,11 @@ Low Water Records
 (5) 2.97 ft on 11/05/1978 
 Show More Low Water Records 
    
-Show FEMA&apos;s National Flood Hazard Layers 
+Show FEMA's National Flood Hazard Layers 
    
-FEMA&apos;s National Flood Hazard Layers not showing? 
+FEMA's National Flood Hazard Layers not showing? 
   
-Note: Your zoom level may have changed. ESRI&apos;s zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
       
 Zoom Level:16 
    
@@ -46,16 +49,11 @@ Legend
    
 FEMA Layer 
     Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  22  Flooding will approach the weight scales on I-10 west of the Stennis Space Center interchange. Flooding will extend east to Mississippi Highway 604. Low-lying areas of Pearlington MS will flood. The southwest corner of Stennis Space Center west of Mississippi Highway 607 will flood. Major flooding will occur below 14 feet mean sea level along and east of Military Road from the I-59 interchange south to Highway 190. Water will cover portions of I-10 east of Slidell and the roadway may be closed.  21.05  Flood of Record occurred on April 9, 1983.  21  Flooding will extend east to Mississippi Highway 604. Low lying areas of Pearlington, MS will flood. The southwest corner of Stennis Space Center west of Mississippi Highway 607 will flood. Major flooding will occur below 14 feet mean sea level along and east of Military Road from the I-59 interchange south to Highway 190. Water will cover portions of I-10 east of Slidell and the roadway may be closed.  20  Water will cover portions of I-10 east of Slidell. Sections of subdivisions along Military Road south of I-10 at elevations below 11 feet MSL will flood. There will be major flooding of River Gardens and moderate flooding of lower portions in Magnolia Forest Subdivisions. The Indian Village Road access to River Oaks Subdivision will be under water at several places.  19  There will be major flooding of River Gardens and moderate flooding of lower portions in Magnolia Forest Subdivisions. Subdivisions south of I-10 and east of Military Road will be threatened with flooding. The Indian Village Road access to River Oaks Subdivision will be under water at several places.  18  River Gardens Subdivision will be moderately flooded with several streets impassable and a few homes flooded in the vicinity of Gum Bayou. A few homes will also be threatened in Magnolia Forest. Secondary roads to the river and throughout Honey Island Swamp will remain inundated.  17  Improved roads near the river will be covered with low water. Gum Bayou will back up flooding the lower portions of streets in River Garden Subdivision. Secondary roads to the river and throughout Honey Island Swamp will remain inundated. Property in the vicinity of the gage is flooded threatening about 20 homes along the left bank.  17  When the river is fallling, water on low lying property and over the lower portions of streets in River Gardens Subdivision will slowly begin to drain.  16  Lower portions of streets in River Gardens Subdivision will begin to flood. Secondary roads to the river and throughout Honey Island Swamp will remain inundated. Property in the vicinity of the gage is flooded threatening about 20 homes along the left bank. The Bogue Chitto National Wildlife Refuge will be closed to hunting at the 15.5 foot stage.  15.5  Secondary roads to the river and throughout Honey Island Swamp are inundated. Property in the vicinity of the gage is flooded threatening about 20 homes along the left bank. The Bogue Chitto National Wildlife Refuge will be closed to hunting at the 15.5 foot stage.  14  Secondary roads to the river and throughout Honey Island Swamp are inundated. Property in the vicinity of the gage is flooded threatening about 20 homes along the left bank.  13  The east and west channels of the river will begin to merge. Honey Island Swamp trails will be under water as inundation of the swamp begins.   
-Latitude: 30.385000° N, Longitude: 89.736667° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 30.385000 N, Longitude: 89.736667 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  14 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 0)  Elevation 
-(gauge height = flood stage)  Elevation information source  NAVD88  -0.05 ft  13.95 ft  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available     
+(gauge height = flood stage)  Elevation information source  NAVD88  -0.05 ft  13.95 ft  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available    
 Current/Historical Observations: 
-     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695198504264</DOCID> 
-<DCT type="str">2017-01-29T07:42:25Z</DCT> 
-<TITLE type="str">Minor (15.67 ft) - Observation - PERL1 - Pearl River near Pearl River (Louisiana)</TITLE> 
-</root>
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

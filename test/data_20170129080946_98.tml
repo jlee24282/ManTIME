@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">NOTE: Schedules provided by schools and are subject to change. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201245926</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Area Sports Calendar for Sunday, Jan. 29, 2017</TITLE>
+<TEXT>NOTE: Schedules provided by schools and are subject to change. 
  
 SUNDAY 
  
@@ -18,7 +21,7 @@ WEDNESDAY
  
 High school girls basketball: Sequoia Pathway at Mission Heights Prep (at Len Colla Center), 6:30 p.m. 
  
-Junior college basketball: Central Arizona women and men at Tohono O’odham. Women’s game begins at 5:30 p.m., followed by men’s game at 7:30 p.m. 
+Junior college basketball: Central Arizona women and men at Tohono Oodham. Womens game begins at 5:30 p.m., followed by mens game at 7:30 p.m. 
  
 THURSDAY 
  
@@ -36,7 +39,7 @@ Junior college baseball: Glendale at Central Arizona, 2 p.m.
  
 SATURDAY 
  
-Junior college basketball: Phoenix College women and men at Central Arizona. Women’s game begins at 2 p.m., followed by men’s game at 4 p.m. 
+Junior college basketball: Phoenix College women and men at Central Arizona. Womens game begins at 2 p.m., followed by mens game at 4 p.m. 
  
 Junior college baseball: Central Arizona at Glendale, noon 
  
@@ -66,7 +69,7 @@ High school boys basketball: Canyon State Academy at American Leadership Academy
  
 High school girls basketball: Basis Chandler at Mission Heights Prep (at Len Colla Center), 6:30 p.m. 
  
-Junior college basketball: Glendale women and men at Central Arizona. Women’s game begins at 5:30 p.m., followed by men’s game at 7:30 p.m. 
+Junior college basketball: Glendale women and men at Central Arizona. Womens game begins at 5:30 p.m., followed by mens game at 7:30 p.m. 
  
 THURSDAY, Feb. 9 
  
@@ -84,7 +87,7 @@ Junior college baseball: El Paso Community College at Central Arizona, doublehea
  
 SATURDAY, Feb. 11 
  
-Junior college basketball: Central Arizona women and men at Mesa. Women’s game begins at 2 p.m., followed by men’s game at 4 p.m. 
+Junior college basketball: Central Arizona women and men at Mesa. Womens game begins at 2 p.m., followed by mens game at 4 p.m. 
  
 Junior college baseball: El Paso Community College at Central Arizona, doubleheader, 11 a.m. 
  
@@ -96,13 +99,13 @@ Junior college softball: Central Arizona at Arizona Western, doubleheader, noon
  
 WEDNESDAY, Feb. 15 
  
-Junior college basketball: Arizona Western women and men at Central Arizona. Women’s game begins at 5:30 p.m., followed by men’s game at 7:30 p.m. 
+Junior college basketball: Arizona Western women and men at Central Arizona. Womens game begins at 5:30 p.m., followed by mens game at 7:30 p.m. 
  
 Junior college baseball: Thompson River at Central Arizona, 2 p.m. 
  
 SATURDAY, Feb. 18 
  
-Junior college basketball: Chandler-Gilbert women and men at Central Arizona. Women’s game begins at 2 p.m., followed by men’s game at 4 p.m. 
+Junior college basketball: Chandler-Gilbert women and men at Central Arizona. Womens game begins at 2 p.m., followed by mens game at 4 p.m. 
  
 Junior college baseball: Central Arizona at Arizona Western, doubleheader, noon 
  
@@ -116,7 +119,7 @@ Junior college softball: Central Arizona at Yavapai, doubleheader, noon
  
 WEDNESDAY, Feb. 22 
  
-Junior college basketball: Central Arizona women and men at Pima. Women’s game begins at 5:30 p.m., followed by men’s game at 7:30 p.m. 
+Junior college basketball: Central Arizona women and men at Pima. Womens game begins at 5:30 p.m., followed by mens game at 7:30 p.m. 
  
 THURSDAY, Feb. 23 
  
@@ -124,7 +127,7 @@ Junior college baseball: Central Arizona at South Mountain, 3 p.m.
  
 SATURDAY, Feb. 25 
  
-Junior college basketball: Central Arizona women and men at Eastern Arizona. Women’s game begins at 5:30 p.m., followed by men’s game at 7:30 p.m. 
+Junior college basketball: Central Arizona women and men at Eastern Arizona. Womens game begins at 5:30 p.m., followed by mens game at 7:30 p.m. 
  
 Junior college baseball: Central Arizona at Yavapai, doubleheader, noon 
  
@@ -132,22 +135,9 @@ Junior college softball: Phoenix College at Central Arizona, doubleheader, noon
  
 TUESDAY, Feb. 28 
  
-Junior college basketball: South Mountain women and men at Central Arizona. Women’s game begins at 5:30 p.m., followed by men’s game at 7:30 p.m. 
+Junior college basketball: South Mountain women and men at Central Arizona. Womens game begins at 5:30 p.m., followed by mens game at 7:30 p.m. 
  
 Junior college baseball: Cochise at Central Arizona, doubleheader, noon 
  
-Junior college softball: Central Arizona at Paradise Valley, doubleheader, 1 p.m.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Phoenix news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201245926</DOCID> 
-<DCT type="str">2017-01-29T07:15:00Z</DCT> 
-<TITLE type="str">Area Sports Calendar for Sunday, Jan. 29, 2017</TITLE> 
-</root>
+Junior college softball: Central Arizona at Paradise Valley, doubleheader, 1 p.m.</TEXT>
+</TimeML>

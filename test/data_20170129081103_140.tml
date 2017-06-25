@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">New method is 10,000 times more sensitive than current methods employed by spacecraft NASA scientists have developed a new chemical assay that could aid the search for life on exoplanets by identifying the presence of amino acids, the compounds that make up proteins and are the building blocks of life. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203845985</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>NASA develops new test to detect signs of life on exoplanets</TITLE>
+<TEXT>New method is 10,000 times more sensitive than current methods employed by spacecraft NASA scientists have developed a new chemical assay that could aid the search for life on exoplanets by identifying the presence of amino acids, the compounds that make up proteins and are the building blocks of life. 
 
 The test uses a liquid-based technique known as capillary electrophoresis to separate a mixture of organic molecules into its components. 
 
-It was designed by researchers from NASA&apos;s Jet Propulsion Laboratory (JPL) in the US specifically to analyse for amino acids, the structural building blocks of all life on Earth. The method is 10,000 times more sensitive than current methods employed by spacecraft like NASA&apos;s Mars Curiosity rover, according to researchers. 
+It was designed by researchers from NASA's Jet Propulsion Laboratory (JPL) in the US specifically to analyse for amino acids, the structural building blocks of all life on Earth. The method is 10,000 times more sensitive than current methods employed by spacecraft like NASA's Mars Curiosity rover, according to researchers. 
 
 One of the key advantages of the new way of using capillary electrophoresis is that the process is relatively simple and easy to automate for liquid samples expected on ocean world missions. 
 
@@ -14,22 +17,13 @@ By shining a laser across the mixture - a process known as laser-induced fluores
 
 While capillary electrophoresis has been around since the early 1980s, this is the first time it has been tailored specifically to detect extraterrestrial life on an ocean world, said Jessica Creamer, a postdoctoral scholar at JPL. 
 
-&quot;Our method improves on previous attempts by increasing the number of amino acids that can be detected in a single run,&quot; Creamer said. 
+"Our method improves on previous attempts by increasing the number of amino acids that can be detected in a single run," Creamer said. 
 
-&quot;Additionally, it allows us to detect these amino acids at very low concentrations, even in highly salty samples, with a very simple &apos;mix and analyse&apos; process,&quot; she said. 
+"Additionally, it allows us to detect these amino acids at very low concentrations, even in highly salty samples, with a very simple 'mix and analyse' process," she said. 
 
-The researchers used the technique to analyse amino acids present in the salt-rich waters of Mono Lake in California. The lake&apos;s exceptionally high alkaline content makes it a challenging habitat for life, and an excellent stand-in for salty waters believed to be on Mars, or the ocean worlds of Saturn&apos;s moon Enceladus and Jupiter&apos;s moon Europa. The researchers were able to simultaneously analyse 17 different amino acids, which they are calling &quot;the Signature 17 standard.&quot; These amino acids were chosen for study because they are the most commonly found on Earth or elsewhere. 
+The researchers used the technique to analyse amino acids present in the salt-rich waters of Mono Lake in California. The lake's exceptionally high alkaline content makes it a challenging habitat for life, and an excellent stand-in for salty waters believed to be on Mars, or the ocean worlds of Saturn's moon Enceladus and Jupiter's moon Europa. The researchers were able to simultaneously analyse 17 different amino acids, which they are calling "the Signature 17 standard." These amino acids were chosen for study because they are the most commonly found on Earth or elsewhere. 
 
-&quot;Using our method, we are able to tell the difference between amino acids that come from non-living sources like meteorites versus amino acids that come from living organisms,&quot; said the project&apos;s principal investigator, Peter Willis of JPL. 
+"Using our method, we are able to tell the difference between amino acids that come from non-living sources like meteorites versus amino acids that come from living organisms," said the project's principal investigator, Peter Willis of JPL. 
 
-The study was published in the journal Analytical Chemistry.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203845985</DOCID> 
-<DCT type="str">2017-01-29T08:15:00Z</DCT> 
-<TITLE type="str">NASA develops new test to detect signs of life on exoplanets</TITLE> 
-</root>
+The study was published in the journal Analytical Chemistry.</TEXT>
+</TimeML>

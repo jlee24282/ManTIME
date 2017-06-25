@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Manchester United have allowed midfielder Sean Goss to move on after he joined Queens Park Rangers for an undisclosed fee.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202406609</DOCID> 
-<DCT type="str">2017-01-29T07:53:00Z</DCT> 
-<TITLE type="str">QPR snap up Reds starlet</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202406609</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>QPR snap up Reds starlet</TITLE>
+<TEXT>Manchester United have allowed midfielder Sean Goss to move on after he joined Queens Park Rangers for an undisclosed fee.</TEXT>
+</TimeML>

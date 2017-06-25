@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The New Philadelphia Science Club is back with another science question in The Times-Reporter. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196956787</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Applied Science: What is the longest cell type in the human body?</TITLE>
+<TEXT>The New Philadelphia Science Club is back with another science question in The Times-Reporter. 
  
 The New Philadelphia Science Club is back with another science question in The Times-Reporter. Each week a new science-related question will be given, and everyone is invited to participate by either mailing the answer to the club at the address below or simply emailing the answer to the address given. At the end of the school year several winners will be chosen from all the correct entries submitted to receive a prize. To participate in this drawing, send your answer to: 
  
@@ -10,30 +13,21 @@ New Philadelphia High School-Room 331
  
 New Philadelphia, OH 44663 
  
-Email answers to: Houmards@npschools.org 
+Email answers to:Houmards@npschools.org 
  
-Last week’s answer: 
+Last weeks answer: 
  
-The correct answer to last week’s question is D. The skier “wants” both high and low friction during the kick and glide technique. Friction should be low when a ski glides ahead in the classic kick-and-glide technique. But when you kick back it should grip the snow. Then you want friction to be high. So ideally, a skier gets arched or cambered skis perfectly adjusted to his or her weight. 
+The correct answer to last weeks question is D. The skier wants both high and low friction during the kick and glide technique. Friction should be low when a ski glides ahead in the classic kick-and-glide technique. But when you kick back it should grip the snow. Then you want friction to be high. So ideally, a skier gets arched or cambered skis perfectly adjusted to his or her weight. 
  
-This week’s question: 
+This weeks question: 
  
-The most basic building block of all living things are units known as cells. Cells are independently functioning structures that carry out processes to contribute to the survival of the organisms they make up. Some organisms are composed of a single cell — unicellular organisms like bacteria, archaea, and protozoa. Others are made up of multiple cells, meaning certain cells perform certain specialized function. Larger organisms, like humans, contain larger sheer numbers of cells, so there are many types of specialized cells of many different shapes and sizes. What is the longest cell type in the human body? 
+The most basic building block of all living things are units known as cells. Cells are independently functioning structures that carry out processes to contribute to the survival of the organisms they make up. Some organisms are composed of a single cell  unicellular organisms like bacteria, archaea, and protozoa. Others are made up of multiple cells, meaning certain cells perform certain specialized function. Larger organisms, like humans, contain larger sheer numbers of cells, so there are many types of specialized cells of many different shapes and sizes. What is the longest cell type in the human body? 
  
 A. Osteoblasts 
  
-B. Myocytes   
+B. Myocytes  
  
 C. Motor Neurons 
  
-D. Small Intestine Cells</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196956787</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">Applied Science: What is the longest cell type in the human body?</TITLE> 
-</root>
+D. Small Intestine Cells</TEXT>
+</TimeML>

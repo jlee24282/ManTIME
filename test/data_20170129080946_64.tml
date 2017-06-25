@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Researchers at Oregon State University have discovered a 100-million-year-old insect preserved in amber with a triangular head, almost-alien and &quot;E.T.-like&quot; appearance and features so unusual that it has been placed in its own scientific &quot;order&quot; - an incredibly rare event. There are about 1 million described species of insects, and millions more still to be discovered, but every species of insect on Earth has been placed in only 31 existing orders. Now there&apos;s one more. The findings have been...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Biological science news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201210182</DOCID> 
-<DCT type="str">2017-01-29T01:34:12Z</DCT> 
-<TITLE type="str">Ancient, scary and alien-looking specimen forms a rarity in the insect world</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201210182</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Ancient, scary and alien-looking specimen forms a rarity in the insect world</TITLE>
+<TEXT>Researchers at Oregon State University have discovered a 100-million-year-old insect preserved in amber with a triangular head, almost-alien and "E.T.-like" appearance and features so unusual that it has been placed in its own scientific "order" - an incredibly rare event. There are about 1 million described species of insects, and millions more still to be discovered, but every species of insect on Earth has been placed in only 31 existing orders. Now there's one more. The findings have been...</TEXT>
+</TimeML>

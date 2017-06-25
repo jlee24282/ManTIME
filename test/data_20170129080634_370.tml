@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Airbnb will offer free housing to refugees and anyone not allowed in the U.S., according to cofounder and CEO Brian Chesky.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695194180045</DOCID> 
-<DCT type="str">2017-01-29T06:25:01Z</DCT> 
-<TITLE type="str">Airbnb&apos;s Billionaire CEO Brian Chesky Criticizes Executive Order, Offers Free Housing to Refugees</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194180045</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Airbnb's Billionaire CEO Brian Chesky Criticizes Executive Order, Offers Free Housing to Refugees</TITLE>
+<TEXT>Airbnb will offer free housing to refugees and anyone not allowed in the U.S., according to cofounder and CEO Brian Chesky.</TEXT>
+</TimeML>

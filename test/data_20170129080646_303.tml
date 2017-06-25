@@ -1,35 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">He made the remarks in a tweeter message released on Saturday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194449846</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Zarif: Muslims entry ban a gift to extremists</TITLE>
+<TEXT>He made the remarks in a tweeter message released on Saturday. 
 
 US president Donald Trump on Friday inked an executive order which temporalily blocks the entry of citizens from certain Muslim majority countries including Iran to the United states . 
 
-Zarif said in his tweet “Collective discrimination aids terrorist recruitment by deepening fault-lines exploited by extremist demagogues to swell their ranks.” 
+Zarif said in his tweet Collective discrimination aids terrorist recruitment by deepening fault-lines exploited by extremist demagogues to swell their ranks. 
 
-“International community needs dialogue and cooperation to address the roots of violence and extremism in a comprehensive and inclusive manner,” the message added. 
+International community needs dialogue and cooperation to address the roots of violence and extremism in a comprehensive and inclusive manner, the message added. 
 
-He said, “Muslim ban shows blamelessness of US claims of friendship with the Iranian people while only having issues with the Government.” 
+He said, Muslim ban shows blamelessness of US claims of friendship with the Iranian people while only having issues with the Government. 
 
-Zarif added, “While respecting Americans and differentiating between them and hostile US policies, Iran will take reciprocal measures to protect citizens.” 
+Zarif added, While respecting Americans and differentiating between them and hostile US policies, Iran will take reciprocal measures to protect citizens. 
 
-“Unlike the US, our decision is not retroactive. All with valid Iranian visa will be gladly welcomed,” foreign minister added. 
+Unlike the US, our decision is not retroactive. All with valid Iranian visa will be gladly welcomed, foreign minister added. 
 
-9191**1771</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Iran news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194449846</DOCID> 
-<DCT type="str">2017-01-29T07:15:36Z</DCT> 
-<TITLE type="str">Zarif: Muslims entry ban a gift to extremists</TITLE> 
-</root>
+9191**1771</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">KOTA KINABALU: The skipper and a crewman of the catamaran reported missing with 28 China tourists on the first day of Chinese New Year have been found safe. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199780855</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Skipper and crewman of missing boat found, search ongoing for China tourists</TITLE>
+<TEXT>KOTA KINABALU: The skipper and a crewman of the catamaran reported missing with 28 China tourists on the first day of Chinese New Year have been found safe. 
 
 Malaysian Maritime Enforcement Agency (MMEA) deputy director for Sabah and Labuan Kapt Maritim Rahim Ramli said the two were found in waters between Pulau Tiga and the Samarang offshore petroleum platform. 
 
@@ -12,26 +15,5 @@ Kapt Maritim Rahim said MMEA was notified by the company which owned the catamar
 
 The boat, which set off from Tanjung Aru at 9am on Saturday, on its 56km journey to Pulau Mengalum, was reported missing at about 9.50pm by its owner. 
 
-Pulau Tiga is about 53km away from Pulau Mengalum, and 50km from Tanjung Aru jetty.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Global news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Malaysia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199780855</DOCID> 
-<DCT type="str">2017-01-29T06:54:34Z</DCT> 
-<TITLE type="str">Skipper and crewman of missing boat found, search ongoing for China tourists</TITLE> 
-</root>
+Pulau Tiga is about 53km away from Pulau Mengalum, and 50km from Tanjung Aru jetty.</TEXT>
+</TimeML>

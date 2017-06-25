@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">A taxi driver suffered a two-inch cut to the head in a “shocking” knifepoint robbery in Huddersfield.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200688012</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Taxi driver injured in knifepoint robbery</TITLE>
+<TEXT>A taxi driver suffered a two-inch cut to the head in a shocking knifepoint robbery in Huddersfield.
 
 The incident happened at 7.30am yesterday shortly after the driver had picked up three men from an address in Paddock.
 
 Seconds later, the front seat passenger drew a knife and demanded money. The taxi driver jumped from the car in fear and in the process received a two-inch wound from the knife above the left eye.
 
-Police have launched an enquiry into the incident, which happened near the junction of Church Street and Brow Road, Paddock. The car has been seized for forensic analysis and...</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200688012</DOCID> 
-<DCT type="str">2017-01-29T08:01:27Z</DCT> 
-<TITLE type="str">Taxi driver injured in knifepoint robbery</TITLE> 
-</root>
+Police have launched an enquiry into the incident, which happened near the junction of Church Street and Brow Road, Paddock. The car has been seized for forensic analysis and...</TEXT>
+</TimeML>

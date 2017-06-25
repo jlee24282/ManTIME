@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, at St. Matthew’s in Southborough. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198926261</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>WEDDING: Kelly Marie Kapp and Kevin William Finneran</TITLE>
+<TEXT>, at St. Matthews in Southborough. 
  
 The bride is the daughter of Dorine and John Kapp, of Ashland. The groom is the son of Rita and Kevin Finneran, of Dennisport. 
  
-Kelly graduated from Ashland High School. She received a Bachelor of Science degree from Babson College and a Master of Business Administration from Boston University. Kevin graduated from Norwell High School. He graduated from the school of engineering at UMass Amherst.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198926261</DOCID> 
-<DCT type="str">2017-01-29T07:01:00Z</DCT> 
-<TITLE type="str">WEDDING: Kelly Marie Kapp and Kevin William Finneran</TITLE> 
-</root>
+Kelly graduated from Ashland High School. She received a Bachelor of Science degree from Babson College and a Master of Business Administration from Boston University. Kevin graduated from Norwell High School. He graduated from the school of engineering at UMass Amherst.</TEXT>
+</TimeML>

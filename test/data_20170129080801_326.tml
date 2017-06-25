@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Search by city or zip code. Press enter or select the go button to submit request 
-              
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197216249</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Minor (20.17 ft) - Observation - PDES1 - Pee Dee River at Pee Dee (South Carolina)</TITLE>
+<TEXT>Search by city or zip code. Press enter or select the go button to submit request 
+             
 Auto Refresh: OFF  
      
 NOTE: Forecasts for the Pee Dee River at Pee Dee are issued routinely year-round. 
-       Flood Categories (in feet) 
+      Flood Categories (in feet) 
  Major Flood Stage:  28  Moderate Flood Stage:  23  Flood Stage:  19  Action Stage:  18  Low Stage (in feet):  0  
 Historic Crests 
 (1) 33.30 ft on 09/22/1945 
@@ -40,18 +43,13 @@ Legend
    
 FEMA Layer 
     Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  28  There will be extensive flooding of timber land and farm land along the river. Access roads may be damaged by the flood waters and operations at industrial plants along the river will be affected.  25  Flood waters will continue to affect logging operations upstream and downstream from Pee Dee. Flooding of farmlands adjacent to the river will worsen.  23  Flooding will affect swamp and timberlands while also disrupting logging operations. Operations will likely cease and equipment not previously moved will remain trapped. Some farmland will have minor flooding especially around Britton Neck.  20  Flood waters will affect swamplands and logging interests. Flood waters will affect timberland as far downstream as Yauhannah two weeks after the crest passes Pee Dee. Logging equipment needs to be moved.  19  Flood waters will affect swamplands adjacent to the river.   
-Latitude: 34.204167° N, Longitude: 79.548611° W, Horizontal Datum: NAD83/WGS84 
+Latitude: 34.204167 N, Longitude: 79.548611 W, Horizontal Datum: NAD83/WGS84 
  River Stage 
 Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  19 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
 (gauge height = 0)  Elevation 
-(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  24.73 ft  43.73 ft     
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  24.73 ft  43.73 ft    
 Current/Historical Observations: 
        
 Gage Photos 
-          The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695197216249</DOCID> 
-<DCT type="str">2017-01-29T07:32:35Z</DCT> 
-<TITLE type="str">Minor (20.17 ft) - Observation - PDES1 - Pee Dee River at Pee Dee (South Carolina)</TITLE> 
-</root>
+          The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .</TEXT>
+</TimeML>

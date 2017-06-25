@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">At least one in every 9 people living here are potentially affected by it… Source 
- Some local news is curated - Original might have been posted at a different date/ time! Click the source link for details.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">United Arab Emirates news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203328457</DOCID> 
-<DCT type="str">2017-01-29T08:20:06Z</DCT> 
-<TITLE type="str">Remember, Trump’s visa ban will affect more than a million people living in the UAE…</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203328457</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Remember, Trumps visa ban will affect more than a million people living in the UAE</TITLE>
+<TEXT>At least one in every 9 people living here are potentially affected by it Source 
+ Some local news is curated - Original might have been posted at a different date/ time! Click the source link for details.</TEXT>
+</TimeML>

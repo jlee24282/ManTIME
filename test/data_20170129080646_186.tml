@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Donald Trump says it’s &quot;working out very nicely,&quot; but his Muslim ban isn’t just detaining grandmothers in airports, it’s leading to massive, organic protest around the country. Airports are a major focus of protest, since that’s where people are being detained as they seek to enter the country.Hundreds have protested at JFK airport in New York. And in Boston. The arrivals area at Dulles airport was crowded with protesters and “refugees welcome” signs, while Virginia Gov. Terry McAuliffe directed his state’s attorney general “to look at all avenues” to help people detained there. A candlelight vigil is planned at LAX for Saturday evening. A protest in Portland disrupted light rail service.The protests have led to inspiring scenes of resistance … but we should not have to resist this. What this president is doing is so ugly that even knowing he did not win the popular vote, even polling showing the nation is not behind him, cannot protect America’s reputation. Only fighting back and winning, however long that takes, can begin to make this right.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Political unrest news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194375635</DOCID> 
-<DCT type="str">2017-01-29T00:00:00Z</DCT> 
-<TITLE type="str">Protests against Trump&apos;s Muslim ban spring up around the country</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194375635</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Protests against Trump's Muslim ban spring up around the country</TITLE>
+<TEXT>Donald Trump says its"working out very nicely,"but his Muslim ban isnt justdetaining grandmothers in airports, its leading to massive, organic protest around the country.Airportsare a major focus of protest, since thats where people are being detained as they seek to enter the country.Hundreds have protested at JFK airportin New York. And in Boston.The arrivals area atDulles airportwas crowded with protesters and refugees welcome signs, while Virginia Gov. Terry McAuliffe directed his states attorney general to look at all avenues to help people detained there. Acandlelight vigil is planned at LAXfor Saturday evening. A protest inPortlanddisrupted light rail service.The protests have led to inspiring scenes of resistance but we should not have to resist this. What this president is doingis so ugly that even knowing he did not win the popular vote, even polling showing the nation is not behind him, cannot protect Americas reputation. Only fighting backand winning, however long that takes, can begin to make this right.</TEXT>
+</TimeML>

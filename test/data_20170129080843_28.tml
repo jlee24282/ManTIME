@@ -1,35 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">AYR UNITED are now 12 league games without a win after a painful 4-1 defeat by Morton in front of the BBC Alba cameras at rain lashed Somerset Park.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198497839</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Ayr United's poor league run continues as Morton sizzle in front of BBC Alba cameras</TITLE>
+<TEXT>AYR UNITED are now 12 league games without a win after a painful 4-1 defeat by Morton in front of the BBC Alba cameras at rain lashed Somerset Park.
 
 The Greenock side romped to their fourth successive victory with doubles from Ross Forbes and Gary Oliver.
 
 Ayr managed only a Jamie Adams consolation although they missed good chances to make the scoreline more respectable.
 
-Boss Ian McCall claimed: “There was a softness about us and I feel we let the fans down.
+Boss Ian McCall claimed: There was a softness about us and I feel we let the fans down.
 
-“It didn’t look a 4-1 but it doesn’t cloud the fact that we got a doing.
+It didnt look a 4-1 but it doesnt cloud the fact that we got a doing.
 
-“We had some great chances and I am really, really...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Companies</group> 
-<name type="str">British Broadcasting Corporation news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">UK media news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Media latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">UK news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198497839</DOCID> 
-<DCT type="str">2017-01-29T07:42:54Z</DCT> 
-<TITLE type="str">Ayr United&apos;s poor league run continues as Morton sizzle in front of BBC Alba cameras</TITLE> 
-</root>
+We had some great chances and I am really, really...</TEXT>
+</TimeML>

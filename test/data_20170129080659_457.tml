@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Victor Kgmoeswana got into an eye-opening discussion with Biggie, the carwash attendant, about Ficab, Caps and PepEP....</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695194958095</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">Getting it straight and honest - at the carwash</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194958095</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Getting it straight and honest - at the carwash</TITLE>
+<TEXT>Victor Kgmoeswana got into an eye-opening discussion with Biggie, the carwash attendant, about Ficab, Caps and PepEP....</TEXT>
+</TimeML>

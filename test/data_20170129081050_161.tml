@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Arsenal are reported to have joined Manchester United in the race to sign Atletico Madrid forward Antoine Griezmann. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203389736</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Arsenal: Gunner target Griezmann</TITLE>
+<TEXT>Arsenal are reported to have joined Manchester United in the race to sign Atletico Madrid forward Antoine Griezmann. 
   
-United boss Jose Mourinho is said to be leading the race to sign the French star at the end of the season, but now the Gunners have emerged as serious rivals for the player&apos;s signature. 
-The 25-year-old is now one of Europe&apos;s hottest properties following his performances for Atleti and France at Euro 2016, and the La Liga outfit now face a huge fight to keep hold. 
+United boss Jose Mourinho is said to be leading the race to sign the French star at the end of the season, but now the Gunners have emerged as serious rivals for the player's signature. 
+The 25-year-old is now one of Europe's hottest properties following his performances for Atleti and France at Euro 2016, and the La Liga outfit now face a huge fight to keep hold. 
 
  
-Reports claim that Arsenal are ready to steal a march on United by making their move and are ready to match the £85million valuation and the player&apos;s wage demands of £250,000 a week. 
-Whether Wenger is lining up Griezmann to replace Alexis Sanchez remains to be seen, but he appears to be the Frenchman&apos;s top summer target. 
-Chelsea and Manchester City are also likely to enter the running, should Atletico make him available.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Arsenal news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: Premier League news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203389736</DOCID> 
-<DCT type="str">2017-01-29T08:18:00Z</DCT> 
-<TITLE type="str">Arsenal: Gunner target Griezmann</TITLE> 
-</root>
+Reports claim that Arsenal are ready to steal a march on United by making their move and are ready to match the 85million valuation and the player's wage demands of 250,000 a week. 
+Whether Wenger is lining up Griezmann to replace Alexis Sanchez remains to be seen, but he appears to be the Frenchman's top summer target. 
+Chelsea and Manchester City are also likely to enter the running, should Atletico make him available.</TEXT>
+</TimeML>

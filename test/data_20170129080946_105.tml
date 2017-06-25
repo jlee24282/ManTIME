@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">KANSAS CITY, Mo. - For the second straight week, people searching for a missing Raymore woman found a man&apos;s body. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201260598</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Searchers looking for missing Missouri woman find man's body</TITLE>
+<TEXT>KANSAS CITY, Mo. - For the second straight week, people searching for a missing Raymore woman found a man's body. 
 Relatives of Jessica Runions found the body Saturday morning while searching for Runions, who has been missing since early September. 
 
 Kansas City police say the death is being investigated as suspicious but released no other details. 
 
-The Kansas City Star reports (http://bit.ly/2kyXdNG ) Runions&apos; relatives search for her nearly every week. 
+The Kansas City Star reports (http://bit.ly/2kyXdNG ) Runions' relatives search for her nearly every week. 
 
-Last week, they found a man&apos;s decomposing body in a creek bed. He was later identified as 21-year-old Brandon Herring of Raytown, who had been reported missing in November. His death is being investigated as a homicide. 
+Last week, they found a man's decomposing body in a creek bed. He was later identified as 21-year-old Brandon Herring of Raytown, who had been reported missing in November. His death is being investigated as a homicide. 
 
-Runions was last seen leaving a gathering of friends in south Kansas City. Her burned vehicle was found two days later in a nearby wooded area.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Kansas City news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201260598</DOCID> 
-<DCT type="str">2017-01-29T08:05:18Z</DCT> 
-<TITLE type="str">Searchers looking for missing Missouri woman find man&apos;s body</TITLE> 
-</root>
+Runions was last seen leaving a gathering of friends in south Kansas City. Her burned vehicle was found two days later in a nearby wooded area.</TEXT>
+</TimeML>

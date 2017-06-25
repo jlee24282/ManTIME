@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">HOUSTON — Projected starters and key players for the Super Bowl at Houston: 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202508762</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Super Bowl LI: A look at the key players in the Super Bowl</TITLE>
+<TEXT>HOUSTON  Projected starters and key players for the Super Bowl at Houston: 
  ATLANTA FALCONS  
 OFFENSE 
  
 Matt Ryan, QB (2), 6-4, 217, 9th season, Boston College 
  
-Had best season, making All-Pro, leading NFL in passer rating (117.1), with 38 TDs ... First-rounder in 2008, third overall pick ... Has thrown for seven touchdowns and run for one in playoffs ... Popular in New England because of college career, won’t be so popular there if he beats Patriots. 
+Had best season, making All-Pro, leading NFL in passer rating (117.1), with 38 TDs ... First-rounder in 2008, third overall pick ... Has thrown for seven touchdowns and run for one in playoffs ... Popular in New England because of college career, wont be so popular there if he beats Patriots. 
  
 Devonta Freeman, RB (24), 5-8, 206, 3rd season, Florida State 
  
@@ -28,7 +31,7 @@ DEFENSE
  
 Brooks Reed, DE (50), 6-3, 254, 6th season, Arizona 
  
-Comes off strong playoff performances ... Gets opportunities because he plays opposite Beasley ... Houston’s second-rounder in 2011 ... Has six playoff sacks. 
+Comes off strong playoff performances ... Gets opportunities because he plays opposite Beasley ... Houstons second-rounder in 2011 ... Has six playoff sacks. 
  
 Jonathan Babineaux, DT (95), 6-2, 300, 12th season, Iowa 
  
@@ -40,13 +43,13 @@ Came in with Beasley, is somewhat overshadowed by him, as he was at Clemson ... 
  
 Vic Beasley Jr., LB (44), 6-3, 246, 2nd season, Clemson 
  
-After mediocre rookie year as first-rounder, might have been NFL’s most improved player this season ... Had 15½ sacks to top NFL — and he’s just learning ... All-Pro who has not stood out so much in postseason ... Patriots must control him. 
+After mediocre rookie year as first-rounder, might have been NFLs most improved player this season ... Had 15 sacks to top NFL  and hes just learning ... All-Pro who has not stood out so much in postseason ... Patriots must control him. 
  
 SPECIAL TEAMS 
  
 Matt Bryant, K (3), 5-9, 203, 15th season, Baylor 
  
-Among most dependable kickers in NFL history ... Led league in scoring with 158 points, made 34 of 37 field goals and 56 — yes, 56 — extra points ... First Super Bowl. 
+Among most dependable kickers in NFL history ... Led league in scoring with 158 points, made 34 of 37 field goals and 56  yes, 56  extra points ... First Super Bowl. 
  
 Matt Bosher, P (5), 6-0, 208, 6th season, Miami 
  
@@ -56,7 +59,7 @@ OFFENSE
  
 Tom Brady, QB (12), 6-4, 225, 17th season, Michigan 
  
-Three-time Super Bowl MVP seeking unprecedented for QBs fifth ring ... Is 4-2 in Super Bowls, including victory in 2015 ... Suspended for first four games of season for “Deflategate,” then had one of his best years. 
+Three-time Super Bowl MVP seeking unprecedented for QBs fifth ring ... Is 4-2 in Super Bowls, including victory in 2015 ... Suspended for first four games of season for Deflategate, then had one of his best years. 
  
 LeGarrette Blount, RB (29), 6-0, 250, 7th season, Oregon 
  
@@ -70,7 +73,7 @@ Chris Hogan, WR (15), 6-1, 210, 4th season, Monmouth
  
 Former lacrosse player at Penn State and small college football guy ... Joined Patriots this season after playing three seasons with Bills ... Starred in AFC title game with nine catches, 180 yards, two TDs ... Adds speed to receiving group. 
  
-Martellus Bennett, TE (88), 6-6, 275, 9th season, Texas A&amp;M 
+Martellus Bennett, TE (88), 6-6, 275, 9th season, Texas A&M 
  
 With star Rob Gronkowski sidelined, Bennett has become key starter ... Brady likes to target tight ends and Bennett had 55 catches, seven TDs this season ... Entertaining guy who keeps things light on often dour teams. 
  
@@ -82,11 +85,11 @@ Branch has been around, really found home in Foxborough ... Second-round selecti
  
 Malcom Brown, DT (90), 6-2, 320, 2nd season, Texas 
  
-First-rounder in 2015 who has been solid since joining team ... Like Branch, more clogger than playmaker ... Won’t have huge impact versus pass, but has four sacks this season. 
+First-rounder in 2015 who has been solid since joining team ... Like Branch, more clogger than playmaker ... Wont have huge impact versus pass, but has four sacks this season. 
  
 Rob Ninkovich, LB (50), 6-2, 260, 11th season, Purdue 
  
-Whether he’s lined up at end or LB, Ninkovich makes plays ... Fourth Super Bowl ... Joined Patriots in 2009, also was with Saints and Dolphins, but barely played ... 15 fumble recoveries, 52 sacks show his value. 
+Whether hes lined up at end or LB, Ninkovich makes plays ... Fourth Super Bowl ... Joined Patriots in 2009, also was with Saints and Dolphins, but barely played ... 15 fumble recoveries, 52 sacks show his value. 
  
 Malcolm Butler, CB (21), 5-11, 190, 3rd season, West Alabama 
  
@@ -96,26 +99,9 @@ SPECIAL TEAMS
  
 Stephen Gostkowski, K (3), 6-1, 215, 11th season, Memphis 
  
-Replacing success like Adam Vinatieri could have been thankless, but Gostkowski is team’s all-time scoring leader ... Very strong leg, makes the critical kicks, though he missed PAT in 2015 AFC title match ... Made 27 of 32 field goals, scored 127 points. 
+Replacing success like Adam Vinatieri could have been thankless, but Gostkowski is teams all-time scoring leader ... Very strong leg, makes the critical kicks, though he missed PAT in 2015 AFC title match ... Made 27 of 32 field goals, scored 127 points. 
  
 Ryan Allen, P (6), 6-2, 220, 4th season, Louisiana Tech 
  
-Punters tend to come and go in New England. Allen has lasted four years, which says something.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: American football news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: NFL news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202508762</DOCID> 
-<DCT type="str">2017-01-29T06:30:00Z</DCT> 
-<TITLE type="str">Super Bowl LI: A look at the key players in the Super Bowl</TITLE> 
-</root>
+Punters tend to come and go in New England. Allen has lasted four years, which says something.</TEXT>
+</TimeML>

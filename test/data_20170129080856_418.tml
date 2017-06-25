@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">KOTA KINABALU, Jan 29 (Bernama) -- The search and rescue (SAR) operation for a catamaran with 28 Chinese tourists and a crew of three which was reported missing in the waters off Kota Kinabalu yesterday, is still ongoing. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199588792</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Missing Catamaran: SAR Operation For Chinese Tourists, Crew Ongoing</TITLE>
+<TEXT>KOTA KINABALU, Jan 29 (Bernama) -- The search and rescue (SAR) operation for a catamaran with 28 Chinese tourists and a crew of three which was reported missing in the waters off Kota Kinabalu yesterday, is still ongoing. 
 Malaysian Maritime Enforcement Agency (MMEA) Sabah and Labuan Region deputy director (Operations) Maritime Captain Abdul Rahim Ramli said the SAR mission involved the MMEA, Royal Malaysian Navy (RMN) and the Marine Operations Force (MOF) as well as the Royal Malaysian Air Force (RMAF) . 
 
-&quot;RMAF has despatched a C130 aircraft for the operation,&quot; he said in a statement here today. 
+"RMAF has despatched a C130 aircraft for the operation," he said in a statement here today. 
 
 The catamaran was reported missing after it left the Tanjung Aru jetty here at 9am for Pulau Mangalum, about 56 kilometres northwest of Kota Kinabalu. 
 
@@ -13,22 +16,5 @@ The search, coordinated by the Kota Kinabalu Maritime Rescue Sub Coordinator (MR
 
 At press time, the SAR team was experiencing rough seas and strong winds. 
 
--- BERNAMA</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Asia-Pacific latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Malaysia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">China news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199588792</DOCID> 
-<DCT type="str">2017-01-29T07:52:36Z</DCT> 
-<TITLE type="str">Missing Catamaran: SAR Operation For Chinese Tourists, Crew Ongoing</TITLE> 
-</root>
+-- BERNAMA</TEXT>
+</TimeML>

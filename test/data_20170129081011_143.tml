@@ -1,29 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">HTTP Error 400. The request URL is invalid.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Iran news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Marketing news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202211076</DOCID> 
-<DCT type="str">2017-01-29T08:12:15Z</DCT> 
-<TITLE type="str">Director of Iran\&apos;s \&apos;Salesman\&apos; talks Oscar nomination, working in America</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202211076</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Director of Iran\'s \'Salesman\' talks Oscar nomination, working in America</TITLE>
+<TEXT>HTTP Error 400. The request URL is invalid.</TEXT>
+</TimeML>

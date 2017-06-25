@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mississippi Attorney General Jim Hood says 35-year-old Stefanie Cook, of Collins, was arrested Friday following an indictment by a Covington County grand jury on one count each of Medicaid fraud and obtaining possession of a controlled substance by fraud, misrepresentation or subterfuge. At the time the crimes allegedly were committed, Cook worked as a nurse at the Covington County Nursing Center. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199609799</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+<TITLE>Collins nurse arrested on Medicaid fraud charges</TITLE>
+<TEXT>Mississippi Attorney General Jim Hood says 35-year-old Stefanie Cook, of Collins, was arrested Friday following an indictment by a Covington County grand jury on one count each of Medicaid fraud and obtaining possession of a controlled substance by fraud, misrepresentation or subterfuge. At the time the crimes allegedly were committed, Cook worked as a nurse at the Covington County Nursing Center. 
  
 Start the conversation, or Read more at The Progress. 
     
@@ -12,18 +15,5 @@ Comments
       
 
    
-Copyright © 2017 Topix LLC</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Health insurance news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Medicaid and Medicare news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199609799</DOCID> 
-<DCT type="str">2017-01-28T04:16:29Z</DCT> 
-<TITLE type="str">Collins nurse arrested on Medicaid fraud charges</TITLE> 
-</root>
+Copyright  2017 Topix LLC</TEXT>
+</TimeML>

@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Sports Xchange BOULDER, Colo. -- Colorado didn&apos;t lose faith after an 0-7 start to Pac-12 play.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197023597</DOCID> 
-<DCT type="str">2017-01-29T07:34:19Z</DCT> 
-<TITLE type="str">Colorado snaps No. 10 Oregon&apos;s 17-game win streak</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197023597</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Colorado snaps No. 10 Oregon's 17-game win streak</TITLE>
+<TEXT>The Sports Xchange BOULDER, Colo. -- Colorado didn't lose faith after an 0-7 start to Pac-12 play.</TEXT>
+</TimeML>

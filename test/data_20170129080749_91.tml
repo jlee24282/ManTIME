@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">I was going to write this letter regarding the cabinet nominations, then I was going to write about that farce of a press conference, but as the news has been so fast and fluid every day, I decided to go in a different direction. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196561942</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Coalition looks to make difference</TITLE>
+<TEXT>I was going to write this letter regarding the cabinet nominations, then I was going to write about that farce of a press conference, but as the news has been so fast and fluid every day, I decided to go in a different direction. 
  
 My name is Barbara Davis and I am a founding member of the Jefferson County Progressive Democratic Coalition. We started this organization after the election in November, as we felt the real and honest values of our party and of democracy were under attack. We are not only focused on local issues and candidates but also those on the national front. 
  
-As I’m sitting here the day after the inauguration and as I’m watching the massive marches around the world of the people standing up for the rights of all people, I’m hopeful that in six months when the cameras aren’t focused on them that those people marching today will still be willing to do the hard work that is ahead of us. 
+As Im sitting here the day after the inauguration and as Im watching the massive marches around the world of the people standing up for the rights of all people, Im hopeful that in six months when the cameras arent focused on them that those people marching today will still be willing to do the hard work that is ahead of us. 
  
 If you are concerned about the future of our little neck of the woods and would like to be a part of our organization that is endeavoring to get real progressive forward-thinking candidates into office to help move our valley into a world where everyone has equal rights and opportunities, if you want to help shape the conversations that our leaders, not only local but state and national, need to hear to build a great democracy for all people, then please join us, your friends and neighbors, in this important work. Our next meeting will be at 6 p.m. Feb. 10 at 136 N. Fourth St. in Steubenville. 
  
@@ -14,14 +17,5 @@ The road ahead may seem dark but we can be the light and hope for others to foll
  
 Barbara Davis 
  
-Wintersville</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196561942</DOCID> 
-<DCT type="str">2017-01-29T07:30:46Z</DCT> 
-<TITLE type="str">Coalition looks to make difference</TITLE> 
-</root>
+Wintersville</TEXT>
+</TimeML>

@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">FIFA 17 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203834705</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Neuer</TITLE>
+<TEXT>FIFA 17 
 https://store.playstation.com/#!/nl-nl/tid=CUSA03214_00 
 
 Author: domenizzle 
 Tags: #PS4share  PlayStation 4  Sony Interactive Entertainment  FIFA 17  Toriemang  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203834705</DOCID> 
-<DCT type="str">2017-01-29T08:10:12Z</DCT> 
-<TITLE type="str">Neuer</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

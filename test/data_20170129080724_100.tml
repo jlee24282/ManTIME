@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">CAIRO (Reuters) - Five Iraqi passengers and one Yemeni were barred from boarding an EgyptAir flight from Cairo to New York on Saturday following President Donald Trump&apos;s ban on the entry of citizens from seven Muslim-majority countries, sources at Cairo airport said. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195712365</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Five Iraqis, one Yemeni barred from Cairo-New York flight after Trump ban</TITLE>
+<TEXT>CAIRO (Reuters) - Five Iraqi passengers and one Yemeni were barred from boarding an EgyptAir flight from Cairo to New York on Saturday following President Donald Trump's ban on the entry of citizens from seven Muslim-majority countries, sources at Cairo airport said. 
  
 Trump on Friday put a four-month hold on allowing refugees into the United States and temporarily barred travellers from Syria and six other Muslim-majority countries, saying the moves would help protect Americans from terrorist attacks. 
  
@@ -12,14 +15,5 @@ Trump halted the entry of travellers from Syria, Iraq, Iran, Sudan, Libya, Somal
  
 A U.N. refugee agency spokesman said it was not yet known whether the six travellers had been granted visas earlier under the U.S. refugee programme. 
  
-(Additional reporting by Mohamed Abdellah; Writing by Eric Knecht; Editing by Mark Heinrich)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195712365</DOCID> 
-<DCT type="str">2017-01-29T07:24:05Z</DCT> 
-<TITLE type="str">Five Iraqis, one Yemeni barred from Cairo-New York flight after Trump ban</TITLE> 
-</root>
+(Additional reporting by Mohamed Abdellah; Writing by Eric Knecht; Editing by Mark Heinrich)</TEXT>
+</TimeML>

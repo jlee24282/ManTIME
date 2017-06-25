@@ -1,22 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">BOULDER, Colo. — Derrick White scored 17 of his 23 points in the second half, keying Colorado’s 74-65 upset of No. 10 Oregon that snapped the Ducks’ 17-game winning streak on Saturday night. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194967364</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Buffs upend No. 10 Ducks</TITLE>
+<TEXT>BOULDER, Colo.  Derrick White scored 17 of his 23 points in the second half, keying Colorados 74-65 upset of No. 10 Oregon that snapped the Ducks 17-game winning streak on Saturday night. 
  
 Xavier Johnson added 13 points as the Buffaloes (12-10, 2-7 Pac-12) kept the Ducks winless in seven trips all-time in Boulder. 
  
-Payton Pritchard’s 19 points led the Ducks (19-3, 8-1), who lost for the first time since Nov. 21 against Georgetown. 
+Payton Pritchards 19 points led the Ducks (19-3, 8-1), who lost for the first time since Nov. 21 against Georgetown. 
  
-White had a pair of 3-pointers early in the second half that put the Buffaloes ahead 45-39 while Colorado’s stifling defense was keeping the Ducks out of rhythm at the other end of the court. And he had a 3-pointer, a three-point play and two free throws in an 11-1 run that gave Colorado a 64-52 lead. 
+White had a pair of 3-pointers early in the second half that put the Buffaloes ahead 45-39 while Colorados stifling defense was keeping the Ducks out of rhythm at the other end of the court. And he had a 3-pointer, a three-point play and two free throws in an 11-1 run that gave Colorado a 64-52 lead. 
  
 The Buffs are just the third team to top 70 points against the Oregon this season. 
  
-The Ducks trailed 35-34 at halftime, just the fourth time they’ve trailed at the break this season. All the other times came back in November, in losses to Baylor and Georgetown and in an overtime win against Boise State. 
+The Ducks trailed 35-34 at halftime, just the fourth time theyve trailed at the break this season. All the other times came back in November, in losses to Baylor and Georgetown and in an overtime win against Boise State. 
  
 BIG PICTURE 
  
 Oregon: Unable to shake off their dry spells, the Ducks failed to close out a perfect January to go with their perfect December and in doing so probably blew a chance to rise in the rankings. 
  
-Colorado: After snapping their seven-game skid — their longest of the Tad Boyle era — with an 85-78 win over Oregon State, the Buffs played an inspired game that left the Pac-12 with just one unbeaten team in league play: Arizona. 
+Colorado: After snapping their seven-game skid  their longest of the Tad Boyle era  with an 85-78 win over Oregon State, the Buffs played an inspired game that left the Pac-12 with just one unbeaten team in league play: Arizona. 
  
 Rams edge San Diego State 
  
@@ -28,14 +31,5 @@ Malik Pope scored 19 points and Hemsley added 17 to pace San Diego State, which 
  
 Colorado State (14-8, 6-3 Mountain West) erased a 13-point second-half deficit in winning its third straight game. Emmanuel Omogbo added a career-best 24 points for the Rams. 
  
-The Aztecs (11-9, 3-5) saw their 13-game home winning streak against Colorado State snapped.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194967364</DOCID> 
-<DCT type="str">2017-01-29T06:06:38Z</DCT> 
-<TITLE type="str">Buffs upend No. 10 Ducks</TITLE> 
-</root>
+The Aztecs (11-9, 3-5) saw their 13-game home winning streak against Colorado State snapped.</TEXT>
+</TimeML>

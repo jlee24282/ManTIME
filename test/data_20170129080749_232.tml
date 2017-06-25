@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Comments (0)   
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196739436</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Paul Crute published Scunthorpe have fight and mentality to stay in promotion race:...</TITLE>
+<TEXT>Comments(0)   
 SCUNTHORPE United picked up a big three points as they twice came from behind to beat Port Vale 3-2. 
  
 Tyler Walker and JJ Hooper had twice given the Valiants the lead which sandwiched a Josh Morris penalty at the beginning of the second half. 
@@ -11,22 +14,9 @@ It was a fitting end to the game on the day when the Iron paid tribute to vice-p
  
 The victory United back to the top of League One, a point clear of Sheffield United, with a game in hand. 
  
-The Telegraph&apos;s Paul Crute gives his reaction to the game in his video verdict below. 
+The Telegraph's Paul Crute gives his reaction to the game in his video verdict below. 
  
-Read today&apos;s top stories 
+Read today's top stories 
 
- Follow us on</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">England news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196739436</DOCID> 
-<DCT type="str">2017-01-29T07:00:00Z</DCT> 
-<TITLE type="str">Paul Crute published Scunthorpe have fight and mentality to stay in promotion race:...</TITLE> 
-</root>
+ Follow us on</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">January 27th-28th 2017 Seattle, Washington, United States 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194767931</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Video - Shaquille Walker 2nd Men's 400m - Washington Indoor Invitational 2017</TITLE>
+<TEXT>January 27th-28th 2017 Seattle, Washington, United States 
 
 ReportBlock 
 
@@ -36,17 +39,17 @@ Interviews (0)
 
 Highlights (0) 
 
-Rebecca Topham Women&apos;s Mile - Washington Indoor Invitational 2017(Length: 04:16 |Views: 21) 
+Rebecca Topham Women's Mile - Washington Indoor Invitational 2017(Length: 04:16 |Views: 21) 
 
-Shaquille Walker 2nd Men&apos;s 400m - Washington Indoor Invitational 2017(Length: 04:16 |Views: 19) 
+Shaquille Walker 2nd Men's 400m - Washington Indoor Invitational 2017(Length: 04:16 |Views: 19) 
 
-Justyn Knight 1st Men&apos;s Mile - Washington Indoor Invitational 2017(Length: 02:44 |Views: 73) 
+Justyn Knight 1st Men's Mile - Washington Indoor Invitational 2017(Length: 02:44 |Views: 73) 
 
-Joe Morris 1st Men&apos;s 60m - Washington Indoor Invitational 2017(Length: 02:06 |Views: 80) 
+Joe Morris 1st Men's 60m - Washington Indoor Invitational 2017(Length: 02:06 |Views: 80) 
 
-Brie Felnagle 1st Women&apos;s Mile 4:27.27 World Leader! - Washington Indoor Invitational 2017(Length: 03:05 |Views: 132) 
+Brie Felnagle 1st Women's Mile 4:27.27 World Leader! - Washington Indoor Invitational 2017(Length: 03:05 |Views: 132) 
 
-Jeshua Anderson 2nd Men&apos;s 60m Hurdles - Washington Indoor Invitational 2017(Length: 03:20 |Views: 86) 
+Jeshua Anderson 2nd Men's 60m Hurdles - Washington Indoor Invitational 2017(Length: 03:20 |Views: 86) 
 
 All (6) 
 
@@ -54,7 +57,7 @@ Featured (0)
 
 Videos 
 
-Shaquille Walker 2nd Men&apos;s 400m - Washington Indoor Invitational 2017 
+Shaquille Walker 2nd Men's 400m - Washington Indoor Invitational 2017 
 
 Published by 
 
@@ -62,7 +65,7 @@ DyeStat.com   Today, 6:37am
 
 Shaquille has been doing strength work and no speed 
 
-Like·Comment·Share·E-mail·19 views 
+LikeCommentShareE-mail19 views 
 
 Post to: 
 
@@ -110,18 +113,5 @@ Blogs
 
 2007 
 
-Hashtags:#washington #uw-indoor #uw-invitational #uw-invite #dempsey-indoor #huskies</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: athletics news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194767931</DOCID> 
-<DCT type="str">2017-01-29T06:37:00Z</DCT> 
-<TITLE type="str">Video - Shaquille Walker 2nd Men&apos;s 400m - Washington Indoor Invitational 2017</TITLE> 
-</root>
+Hashtags:#washington #uw-indoor #uw-invitational #uw-invite #dempsey-indoor #huskies</TEXT>
+</TimeML>

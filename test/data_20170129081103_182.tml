@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Police Commissioner, Mr. Zanna Ibrahim 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203888120</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Non-indigenes hijack job slots in Delta, says police boss  metro news Nigeria</TITLE>
+<TEXT>Police Commissioner, Mr. Zanna Ibrahim 
   
 The Commissioner of Police, Delta State Command, Ibrahim Zanna, yesterday, said many youths in the state are unemployed because non-indigenes have hijacked the available job slots in the state. 
  
@@ -8,18 +11,5 @@ The Commissioner, who hosted the new executive of the National Youth Council of 
  
 
 Source link 
-   Related</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Nigeria news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203888120</DOCID> 
-<DCT type="str">2017-01-29T08:22:40Z</DCT> 
-<TITLE type="str">Non-indigenes hijack job slots in Delta, says police boss – metro news Nigeria</TITLE> 
-</root>
+   Related</TEXT>
+</TimeML>

@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Hi everyone. Spare time for reading is not a luxury all folks have, so with that in mind and a desire to accommodate all, I have re-written my book &quot;Reflections Of A Sheep&quot; into a &quot;Series Format&quot; under the new title, &quot;Reflections Of A Sheep - The Series&quot;. The original will remain intact and available as usual. With sincere thanks for your support and blessings to all. Bill Taylor.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201672119</DOCID> 
-<DCT type="str">2017-01-29T07:34:48Z</DCT> 
-<TITLE type="str">Reflections Of A Sheep: The Series - Book Three</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201672119</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Reflections Of A Sheep: The Series - Book Three</TITLE>
+<TEXT>Hi everyone. Spare time for reading is not a luxury all folks have, so with that in mind and a desire to accommodate all, I have re-written my book "Reflections Of A Sheep" into a "Series Format" under the new title, "Reflections Of A Sheep - The Series". The original will remain intact and available as usual. With sincere thanks for your support and blessings to all. Bill Taylor.</TEXT>
+</TimeML>

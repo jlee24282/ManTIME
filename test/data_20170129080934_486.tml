@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Arsenal ran riot on the south-coast yesterday in the FA Cup, and the manager will now have some serious thinking to do in order to realise his best starting line-up. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201161037</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Arsenal stars give Wenger serious selection head-ache</TITLE>
+<TEXT>Arsenal ran riot on the south-coast yesterday in the FA Cup, and the manager will now have some serious thinking to do in order to realise his best starting line-up. 
  
 The Gunners beat Southampton 5-0 yesterday, thanks to Danny Welbeck and Theo Walcott with the five combined goals. 
  
-The duo have both been out of the side for a while due to injuries, and are now staking their claims for regular action, and on yesterday’s evidence, are well deserved of one. 
+The duo have both been out of the side for a while due to injuries, and are now staking their claims for regular action, and on yesterdays evidence, are well deserved of one. 
  
 The problem stems with other in-form players also vying for roles also however, with Alexis Sanchez, Mesut Ozil, Olivier Giroud and Alex Iwobi already having stamped their foot down on first-team roles. 
  
@@ -16,26 +19,5 @@ Lucas Perez is another player who has really opened my eyes in his recent outing
  
 Which of our FA Cup team do you think most deserves a shot at a permanent first-team role in the coming weeks? If you had to choose your XI to play Chelsea today, who would you pick? 
  
-Pat J</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports Teams</group> 
-<name type="str">Sports: EPL - Arsenal news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: Premier League news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201161037</DOCID> 
-<DCT type="str">2017-01-29T07:33:17Z</DCT> 
-<TITLE type="str">Arsenal stars give Wenger serious selection head-ache</TITLE> 
-</root>
+Pat J</TEXT>
+</TimeML>

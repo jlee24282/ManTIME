@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Motley Fool. If there&apos;s one thing that&apos;s constant in the world of technology, it&apos;s change. And almost without exception, that change inevitably applies to tech products that at one time seemed crucial to maintaining our current standards of living. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198742483</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Tech Products That Will be Obsolete by 2025</TITLE>
+<TEXT>The Motley Fool. If there's one thing that's constant in the world of technology, it's change. And almost without exception, that change inevitably applies to tech products that at one time seemed crucial to maintaining our current standards of living. 
  
 Posted: 2017-01-29 05:46:00 
- &lt; Prev     Next &gt;</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Media latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198742483</DOCID> 
-<DCT type="str">2017-01-29T05:46:00Z</DCT> 
-<TITLE type="str">Tech Products That Will be Obsolete by 2025</TITLE> 
-</root>
+ < Prev    Next ></TEXT>
+</TimeML>

@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">There&apos;s more to this racetrack than the Kentucky Derby. Founded in 1875 by the grandson of explorer William Clark, Meriwether Lewis Clark Jr., this racetrack is best known as the site of the annual Kentucky Derby[1]. After witnessing the Epsom Derby in England, Clark was determined to transform Lexington&apos;s humble horse races into a spectacular, international event. He leased the land from two of his uncles, John and Henry Churchill, and named the track after them. A century after the first ma...</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201893553</DOCID> 
-<DCT type="str">2017-01-27T16:19:35Z</DCT> 
-<TITLE type="str">Secrets, History, and Facts: Churchill Downs</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201893553</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-27" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+<TITLE>Secrets, History, and Facts: Churchill Downs</TITLE>
+<TEXT>There's more to this racetrack than the Kentucky Derby. Founded in 1875 by the grandson of explorer William Clark, Meriwether Lewis Clark Jr., this racetrack is best known as the site of the annual Kentucky Derby[1]. After witnessing the Epsom Derby in England, Clark was determined to transform Lexington's humble horse races into a spectacular, international event. He leased the land from two of his uncles, John and Henry Churchill, and named the track after them. A century after the first ma...</TEXT>
+</TimeML>

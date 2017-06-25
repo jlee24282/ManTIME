@@ -1,20 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The time of day that breast cancer chemotherapy drugs are given affects the amount of damaging inflammation in the body, a new study in mice suggests. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196941262</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Timing of chemo affects inflammation, mice study suggests</TITLE>
+<TEXT>The time of day that breast cancer chemotherapy drugs are given affects the amount of damaging inflammation in the body, a new study in mice suggests. 
 
-That&apos;s important because inflammation, particularly in the brain, is believed to contribute to many of the neurological side effects of chemotherapy in humans, such as depression, anxiety and short-term memory loss. 
+That's important because inflammation, particularly in the brain, is believed to contribute to many of the neurological side effects of chemotherapy in humans, such as depression, anxiety and short-term memory loss. 
 
-&quot;Timing of drug administration can have a big effect on inflammation, and that may potentially affect a wide variety of harmful side effects,&quot; said Courtney DeVries, co-author of the study and professor of neuroscience at The Ohio State University&apos;s Wexner Medical Center. 
+"Timing of drug administration can have a big effect on inflammation, and that may potentially affect a wide variety of harmful side effects," said Courtney DeVries, co-author of the study and professor of neuroscience at The Ohio State University's Wexner Medical Center. 
 
 But the results also showed an important complicating factor: The inflammatory effects were opposite in the brain versus the spleen depending on the time the drugs were given. 
 
-&quot;The spleen and the brain were out of phase. When inflammation was high in one, it was low in the other,&quot; said co-author Randy Nelson, also a professor of neuroscience at Ohio State&apos;s Wexner Medical Center. 
+"The spleen and the brain were out of phase. When inflammation was high in one, it was low in the other," said co-author Randy Nelson, also a professor of neuroscience at Ohio State's Wexner Medical Center. 
 
 The study was published today in the journal Scientific Reports. 
 
-These results mark another step in how scientists understand cancer chronotherapy—using the body&apos;s daily circadian rhythms to time treatments so they are most effective and have the fewest side effects. 
+These results mark another step in how scientists understand cancer chronotherapyusing the body's daily circadian rhythms to time treatments so they are most effective and have the fewest side effects. 
 
-&quot;I think we know enough about circadian rhythms in terms of physiology that we can start translating these findings into medical research and practice in humans,&quot; Nelson said. 
+"I think we know enough about circadian rhythms in terms of physiology that we can start translating these findings into medical research and practice in humans," Nelson said. 
 
 The research team studied the drugs cyclophosphamide and doxorubicin, a common treatment for breast cancer, in female mice. The mice did not have tumors because this study was designed just to look at the inflammatory response to the drugs. 
 
@@ -24,7 +27,7 @@ Researchers collected tissue and checked for signs of inflammation in the spleen
 
 Results showed that injecting mice with the chemotherapy drugs in their inactive phase (daylight) increased the expression of genes that promoted inflammation within the spleen. The researchers found increased production of two toxic drug metabolites, products of the chemo drugs. These metabolites are related to inflammation and one of them, doxorubicinol, causes heart damage in some patients. 
 
-&quot;The timing of when patients receive drugs has the potential to reduce serious side effects,&quot; DeVries said. 
+"The timing of when patients receive drugs has the potential to reduce serious side effects," DeVries said. 
 
 The effect was different for mice that received the drugs two hours after the lights were out. In these mice, inflammation measured in the spleen was much lower than the mice injected during the day. 
 
@@ -32,19 +35,19 @@ The pattern was reversed in the brain, however. Mice injected at night had incre
 
 The difference in inflammation response between the brain and the rest of the body needs to be better appreciated by physicians, Nelson said. 
 
-&quot;Many times physicians measure markers of inflammation in the blood and assume that is what is happening in the brain, but we found that just the opposite is happening,&quot; he said. 
+"Many times physicians measure markers of inflammation in the blood and assume that is what is happening in the brain, but we found that just the opposite is happening," he said. 
 
 Why is there a difference between how the brain and spleen are reacting to these chemotherapy drugs? 
 
 Other research has shown that the clock genes in the brain are out of sync with those in other organs. Expression of these clock genes may affect how the drugs are processed, or metabolized, in the body, Nelson said. 
 
-These findings can&apos;t tell us the best time to administer chemotherapy drugs in humans, DeVries said of the new study. 
+These findings can't tell us the best time to administer chemotherapy drugs in humans, DeVries said of the new study. 
 
-&quot;But it does demonstrate that time of day is an important factor that needs to be considered in when the drugs are given,&quot; she said. 
+"But it does demonstrate that time of day is an important factor that needs to be considered in when the drugs are given," she said. 
 
 Nelson noted that this study only looked at administering drugs at two time points. 
 
-&quot;There may be a sweet spot that maximizes the efficacy of the drugs and minimizes the side effects. We don&apos;t know that yet.&quot; 
+"There may be a sweet spot that maximizes the efficacy of the drugs and minimizes the side effects. We don't know that yet." 
 
 Provided by: The Ohio State University 
 
@@ -62,32 +65,27 @@ Sep 21, 2015
 
 A new animal study shows that traumatic brain injury (TBI) affects the body as well as the brain and that treatment with hypertension drugs blocks the production of proteins related to inflammation. 
 
-Why you&apos;re stiff in the morning: Your body suppresses inflammation when you sleep at night 
+Why you're stiff in the morning: Your body suppresses inflammation when you sleep at night 
 
 Aug 05, 2016 
 
-New research published online in The FASEB Journal, describes a protein created by the body&apos;s &quot;biological clock&quot; that actively represses inflammatory pathways within the affected limbs during the night. This protein, called ... 
+New research published online in The FASEB Journal, describes a protein created by the body's "biological clock" that actively represses inflammatory pathways within the affected limbs during the night. This protein, called ... 
 
 The brain may show signs of aging earlier than old age 
 
 Mar 18, 2016 
 
-A new study published in Physiological Genomics suggests that the brain shows signs of aging earlier than old age. The study found that the microglia cells—the immune cells of the brain—in middle-aged mice already showed ... 
+A new study published in Physiological Genomics suggests that the brain shows signs of aging earlier than old age. The study found that the microglia cellsthe immune cells of the brainin middle-aged mice already showed ... 
 
-Experimental drug shows promise in treating Alzheimer&apos;s disease 
+Experimental drug shows promise in treating Alzheimer's disease 
 
 Oct 25, 2016 
 
-An experimental drug shows promise in treating Alzheimer&apos;s disease by preventing inflammation and removing abnormal protein clumps in the brain that are associated with the disease, suggests a study in mice presented at the ... 
+An experimental drug shows promise in treating Alzheimer's disease by preventing inflammation and removing abnormal protein clumps in the brain that are associated with the disease, suggests a study in mice presented at the ... 
 
-Treatment option for Alzheimer&apos;s disease possible 
+Treatment option for Alzheimer's disease possible 
 
 Aug 11, 2016 
 
-A research project has shown that an experimental model of Alzheimer&apos;s disease can be successfully treated with a commonly used anti-inflammatory drug.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196941262</DOCID> 
-<DCT type="str">2017-01-29T07:33:35Z</DCT> 
-<TITLE type="str">Timing of chemo affects inflammation, mice study suggests</TITLE> 
-</root>
+A research project has shown that an experimental model of Alzheimer's disease can be successfully treated with a commonly used anti-inflammatory drug.</TEXT>
+</TimeML>

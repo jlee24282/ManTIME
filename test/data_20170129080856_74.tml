@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Jan 29 (Reuters) - General Company for Paper Industry 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695199179453</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>BRIEF-General Company for Paper Industry H1 loss widens</TITLE>
+<TEXT>Jan 29 (Reuters) - General Company for Paper Industry 
     
 * H1 net loss EGP 31.5 million versus loss EGP 25.1 million
 year ago 
@@ -9,26 +12,5 @@ year ago
 ago
 
 Source: ( bit.ly/2kGbLOW )
-Further company coverage:</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Packaging and paper news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Stockwatch</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Earnings news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695199179453</DOCID> 
-<DCT type="str">2017-01-29T07:49:26Z</DCT> 
-<TITLE type="str">BRIEF-General Company for Paper Industry H1 loss widens</TITLE> 
-</root>
+Further company coverage:</TEXT>
+</TimeML>

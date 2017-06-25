@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Las Cruces, NM - New Mexico State women’s basketball finished off the first half of their 2017 conference schedule against the Utah Valley Wolverines on Saturday afternoon. The Aggies played strong defense from start to finish, in a game fueled by over 100 young Aggie fans in attendance that were a part of the morning kid’s clinic hosted by the coaches and players. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201106083</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>NMSU WBB Adds Another Victory on a Historic Night</TITLE>
+<TEXT>Las Cruces, NM - New Mexico State womens basketball finished off the first half of their 2017 conference schedule against the Utah Valley Wolverines on Saturday afternoon. The Aggies played strong defense from start to finish, in a game fueled by over 100 young Aggie fans in attendance that were a part of the morning kids clinic hosted by the coaches and players. 
 
-After guiding the Aggies to their eighth straight win, head coach Mark Trakh commented on the game saying, “We spread the ball around well against the zone defense and came up with big shots to win today.” 
+After guiding the Aggies to their eighth straight win, head coach Mark Trakh commented on the game saying, We spread the ball around well against the zone defense and came up with big shots to win today. 
 
-The game opened up slow on the offensive end throughout the first half, as each team’s defense made scoring tough. In the first quarter, NM State forced 10 turnovers and Utah Valley forced six as each team shots under 35 percent from the field. After forcing four steals and adding three blocks, the quarter ended tied at seven. 
+The game opened up slow on the offensive end throughout the first half, as each teams defense made scoring tough. In the first quarter, NM State forced 10 turnovers and Utah Valley forced six as each team shots under 35 percent from the field. After forcing four steals and adding three blocks, the quarter ended tied at seven. 
 
 Throughout the second quarter, the scoring totals from each team improved, but the defensive play from each squad kept the game close. NM State was able to end the half ahead, 22-21. 
 
@@ -18,14 +21,5 @@ Much like the first three quarters, the fourth was all about defense as the Aggi
 
 The team was able to close out the game on top of Utah Valley, 63-46. The victory saw the Aggies outscore the Wolverines with points in the paint (28-16), points off of turnovers (15-6), second chance points (18-11) and points off the bench (14-6). 
 
-This victory moves New Mexico State to 15-6 overall and a conference best, 7-0 in WAC play. The team’s next contest will see them travel to take on Chicago State on Saturday, Feb. 4, at 1 p.m. MT. This will be the second time the two teams have squared off this season, as the Aggies brought home a 100-63 victory earlier in the month.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201106083</DOCID> 
-<DCT type="str">2017-01-29T08:04:23Z</DCT> 
-<TITLE type="str">NMSU WBB Adds Another Victory on a Historic Night</TITLE> 
-</root>
+This victory moves New Mexico State to 15-6 overall and a conference best, 7-0 in WAC play. The teams next contest will see them travel to take on Chicago State on Saturday, Feb. 4, at 1 p.m. MT. This will be the second time the two teams have squared off this season, as the Aggies brought home a 100-63 victory earlier in the month.</TEXT>
+</TimeML>

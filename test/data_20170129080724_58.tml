@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The U. S. Department of Homeland Security said in a statement late on Saturday it would &quot;comply with judicial orders&quot; but that President Donald Trump&apos;s executive action restricting entry into the country from seven Muslim-majority nations remains in place.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US security news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195666770</DOCID> 
-<DCT type="str">2017-01-29T07:19:08Z</DCT> 
-<TITLE type="str">US Homeland Security says will &apos;comply with judicial orders&apos;</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195666770</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>US Homeland Security says will 'comply with judicial orders'</TITLE>
+<TEXT>The U. S. Department of Homeland Security said in a statement late on Saturday it would "comply with judicial orders" but that President Donald Trump's executive action restricting entry into the country from seven Muslim-majority nations remains in place.</TEXT>
+</TimeML>

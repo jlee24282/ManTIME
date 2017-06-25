@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">SHAREfactory™ 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195893951</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>SHAREfactory_20170128230227</TITLE>
+<TEXT>SHAREfactory 
 https://store.playstation.com/#!/en-us/tid=CUSA00572_00 
 
 Author: mattanon2001 
-Tags: #PS4share  PlayStation 4  Sony Interactive Entertainment  SHAREfactory™  5859dfec-026f-46ba-bea0-02bf43aa1a6f  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195893951</DOCID> 
-<DCT type="str">2017-01-29T07:10:33Z</DCT> 
-<TITLE type="str">SHAREfactory™_20170128230227</TITLE> 
-</root>
+Tags: #PS4share  PlayStation 4  Sony Interactive Entertainment  SHAREfactory  5859dfec-026f-46ba-bea0-02bf43aa1a6f  
+Posted: 29 January 2</TEXT>
+</TimeML>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, of Zillah died Saturday, Jan. 28, at Cottage in the Meadow in Yakima. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203010593</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Roselyn Wesselius, 89</TITLE>
+<TEXT>, of Zillah died Saturday, Jan. 28, at Cottage in the Meadow in Yakima. 
 
-Arrangements are by Valley Hills Funeral Home of Zillah, www.valleyhillsfh.com .</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695203010593</DOCID> 
-<DCT type="str">2017-01-29T08:18:24Z</DCT> 
-<TITLE type="str">Roselyn Wesselius, 89</TITLE> 
-</root>
+Arrangements are by Valley Hills Funeral Home of Zillah, www.valleyhillsfh.com .</TEXT>
+</TimeML>

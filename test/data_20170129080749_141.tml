@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Looks like you&apos;re already verified. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196630984</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>French left-wing presidential primary: Hamon vs. Valls</TITLE>
+<TEXT>Looks like you're already verified. 
  
 If you still have trouble signing in, you probably need a new confirmation link email. 
   
@@ -31,7 +34,7 @@ OR
 *PASSWORD 
  Forgot your password? {* traditionalSignIn_password *} {* traditionalSignIn_signInButton *} {* /userInformationForm *}  
  Sign in using your existing account {* loginWidget *} 
-   You&apos;re Almost Done!  Please confirm the information below before signing in.  
+   You're Almost Done!  Please confirm the information below before signing in.  
 *Required 
 {* #socialRegistrationForm *} {* socialRegistration_displayName *} {* socialRegistration_emailAddress *}
 
@@ -59,22 +62,5 @@ Sign in to complete account merge {* #tradAuthenticateMergeForm *} {* traditiona
 Change password {* newPasswordForm *} {* newPassword *} {* newPasswordConfirm *} {* submitButton *} {* /newPasswordForm *} 
  Your password has been changed  Sign in  
 Create a new password {* #forgotPasswordForm *} {* forgotPassword_emailAddress *} {* forgotPassword_sendButton *} {* /forgotPasswordForm *} 
- Create a new password  Close  Thanks for verifying your email address.   {% include &quot;includes/auth/janrain/signIn_traditional.html&quot; with message=&apos;It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. &apos; %}</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">France news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Politics latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US politics news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196630984</DOCID> 
-<DCT type="str">2017-01-29T07:31:09Z</DCT> 
-<TITLE type="str">French left-wing presidential primary: Hamon vs. Valls</TITLE> 
-</root>
+ Create a new password  Close  Thanks for verifying your email address.   {% include "includes/auth/janrain/signIn_traditional.html" with message='It looks like you are already verified. If you still have trouble signing in, you probably need a new confirmation link email. ' %}</TEXT>
+</TimeML>

@@ -91,24 +91,58 @@ def main():
             topics_tmp = jline['topics']
             estimatedPublishedDate_tmp = jline['estimatedPublishedDate']
             content_tmp = jline['content']
-            jline.clear()
-            jline['DOCID'] = sequenceID_tmp
-            jline['TITLE'] = title_tmp
-            jline['TOPICS'] = topics_tmp
-            jline['DCT'] = estimatedPublishedDate_tmp
-            jline['TEXT'] = content_tmp
+            # jline.clear()
+            # jline['TEXT'] = content_tmp
+            # jline['TITLE'] = title_tmp
+            # jline['DCT'] = estimatedPublishedDate_tmp
+            # jline['DOCID'] = sequenceID_tmp
+            months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+            print estimatedPublishedDate_tmp[0:10]
+            readfile = ""
 
+            with open("/Users/JLee/PycharmProjects/ManTIME/test/template.tml") as f:
+                readfile = "".join(f.readlines())
+                print sequenceID_tmp
+                readfile = readfile.replace("#id", sequenceID_tmp)
+                readfile = readfile.replace("#title", title_tmp)
+                readfile = readfile.replace("#text", content_tmp)
+                readfile = readfile.replace("2013-03-22", estimatedPublishedDate_tmp[0:10])
+                date = str(estimatedPublishedDate_tmp[0:10])
+                month = months[int(float(str(estimatedPublishedDate_tmp[0:10]).split("-")[1]))-1]
+                readfile = readfile.replace("March 22, 2013", month+" "+date.split("-")[2] + ", " + date.split("-")[0])
 
-            #print jline
-            articleInfo = jline
-            xml = dicttoxml.dicttoxml(articleInfo)
-            xml = xml.replace('><', '> \n<')
             outFile = inFileName.replace('.txt', '_'+str(jNum)+'.tml')
             # print outFile
             jNum = jNum + 1
             outfile = open('test/'+outFile, 'w')
-            outfile.write(xml)
+            # readfile = readfile.replace(u"\u2018", "'").replace(u"\u2019", "'").replace(u'\xa0', u' ').replace(u'\u201c', u'')
+
+
+            udata = readfile.encode("ascii", "ignore")
+
+            outfile.write(udata)
             outfile.close()
+
+
+
+
+
+
+
+            #jline['TOPICS'] = topics_tmp
+
+            #print jline
+            # articleInfo = jline
+            # xml = dicttoxml.dicttoxml(articleInfo).replace('root', 'TimeML')
+            # xml = xml.replace('><', '> \n<')
+            # xml = xml.replace('</TIMEX> \n<', '><').replace(' \n<TIMEX', '<TIMEX').replace('></DCT>', '</DCT>')
+            # xml = xml.replace('<TIMEX type="str">', '<TIMEX type="DATE" temporalFunction="false" functionInDocument="CREATION_TIME">')
+            # outFile = inFileName.replace('.txt', '_'+str(jNum)+'.tml')
+            # # print outFile
+            # jNum = jNum + 1
+            # outfile = open('test/'+outFile, 'w')
+            # outfile.write(xml)
+            # outfile.close()
         f.close()
 
 

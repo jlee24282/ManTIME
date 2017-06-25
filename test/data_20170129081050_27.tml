@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Detail Description : 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203248392</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Tower T24007 Digital Microwave Featuring 60-Minute Digital Timer, 800 W - Chrome</TITLE>
+<TEXT>Detail Description : 
 http://tinyurl.com/hastgvk [ln] Create delicious family favourites with a powerful 800 W for quicker cooking/heating and a generous 20 L capacity suitable for a standard sized dinner plate of 9 inch [ln] [ln] 
 - [ln] Six power levels including a defrost setting and eight auto cook options including milk/coffee, rice, spaghetti, potatoes, auto reheat, fish, popcorn and pizza for easy cooking at the touch of a button [ln] [ln] 
 - [ln] 60-minute digital timer with digital display for your convenience [ln] [ln] 
@@ -12,10 +15,5 @@ http://tinyurl.com/hastgvk [ln] Create delicious family favourites with a powerf
 
 Author: carolinemonicaa 
 Tags: home  kitchen  Home and Kitchen  Home Kitchen  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695203248392</DOCID> 
-<DCT type="str">2017-01-29T08:04:23Z</DCT> 
-<TITLE type="str">Tower T24007 Digital Microwave Featuring 60-Minute Digital Timer, 800 W - Chrome</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

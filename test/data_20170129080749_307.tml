@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Angelina Jolie looks super stylish as she steps out on Saturday afternoon (January 28) in Malibu, Calif. The 41-year-old actress and director rocked leather pants and sunglasses as she spent the afternoon shopping with her eight-year-old twins Knox and Vivienne (not pictured). PHOTOS: Check out the latest pics of Angelina Jolie Angelina has been staying [...]</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Los Angeles news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196780467</DOCID> 
-<DCT type="str">2017-01-29T02:57:08Z</DCT> 
-<TITLE type="str">Angelina Jolie Makes Rare Outing in Malibu</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196780467</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Angelina Jolie Makes Rare Outing in Malibu</TITLE>
+<TEXT>Angelina Jolie looks super stylish as she steps out on Saturday afternoon (January 28) in Malibu, Calif. The 41-year-old actress and director rocked leather pants and sunglasses as she spent the afternoon shopping with her eight-year-old twins Knox and Vivienne (not pictured). PHOTOS: Check out the latest pics of Angelina Jolie Angelina has been staying [...]</TEXT>
+</TimeML>

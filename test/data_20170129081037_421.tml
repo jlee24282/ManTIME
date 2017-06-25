@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">You may now take calls by simply blowing at your smartwatch, thanks to scientists who have created a number of new ways to interact with small screen devices that are hard to control with fingers. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203175204</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>New tech lets you control smartwatches with just your breath!</TITLE>
+<TEXT>You may now take calls by simply blowing at your smartwatch, thanks to scientists who have created a number of new ways to interact with small screen devices that are hard to control with fingers. 
 
 Researchers at Georgia Institute of Technology in the US created Whoosh, a technique that allows a person to control the watch by blowing, exhaling, shushing, sipping or puffing on the screen. 
 
@@ -16,34 +19,25 @@ The technology could have potential for people with disabilities, researchers sa
 
 Another new interaction technique WatchOut uses taps and scrolling gestures on the case and watchband, outside the watch screen. 
 
-They are possible because of the watch&apos;s gyroscope and accelerometer sensors, according to the researchers. 
+They are possible because of the watch's gyroscope and accelerometer sensors, according to the researchers. 
 
-&quot;Other techniques that improve control of smartwatches have included 3D gestures above the screen, bigger screens or adding an extra armband,&quot; said Cheng Zhang, a PhD student at Georgia Tech. 
+"Other techniques that improve control of smartwatches have included 3D gestures above the screen, bigger screens or adding an extra armband," said Cheng Zhang, a PhD student at Georgia Tech. 
 
-&quot;We wanted to show it could be done with existing technology already common on today&apos;s devices,&quot; said Zhang. 
+"We wanted to show it could be done with existing technology already common on today's devices," said Zhang. 
 
 One demo app allows wearers to scroll up, down, left and right by swiping on the watchband. According to Zhang it makes it easier to interact with GPS maps or menus. 
 
 The study showed that scrolling on rubber watchbands was more accurate than leather bands due to the different friction of the materials. 
 
-They also created an app that creates eight touchpoints on the device&apos;s bezel. Rather than scrolling through a long list of apps, the user simply hits one of eight spots on the case to launch Facebook, for example. 
+They also created an app that creates eight touchpoints on the device's bezel. Rather than scrolling through a long list of apps, the user simply hits one of eight spots on the case to launch Facebook, for example. 
 
-&quot;Smartwatches aren&apos;t very convenient when you&apos;re carrying something,&quot; Zhang said. 
+"Smartwatches aren't very convenient when you're carrying something," Zhang said. 
 
-&quot;That&apos;s why we wanted to create a technique that allows the user to tap the watch to accept or deny phone calls. Hitting the right side answers the call; the left side ignores it,&quot; he said. 
+"That's why we wanted to create a technique that allows the user to tap the watch to accept or deny phone calls. Hitting the right side answers the call; the left side ignores it," he said. 
 
 The final project, TapSkin, allows users to tap on the back of their hand to input numbers 0-9 or commands. 
 
-The technique uses the watch&apos;s microphone and inertial sensors to detect a total of 11 different tapping locations on a person&apos;s skin around the watch. 
+The technique uses the watch's microphone and inertial sensors to detect a total of 11 different tapping locations on a person's skin around the watch. 
 
-(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203175204</DOCID> 
-<DCT type="str">2017-01-29T07:52:16Z</DCT> 
-<TITLE type="str">New tech lets you control smartwatches with just your breath!</TITLE> 
-</root>
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)</TEXT>
+</TimeML>

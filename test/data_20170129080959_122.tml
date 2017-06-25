@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The fourth Taj Literature Festival (TLF), scheduled to be held here in February, has been postponed due to upcoming Uttar Pradesh assembly elections.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201688402</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Taj Literature Festival postponed due to elections</TITLE>
+<TEXT>The fourth Taj Literature Festival (TLF), scheduled to be held here in February, has been postponed due to upcoming Uttar Pradesh assembly elections.
 
 It will take place towards the end of the year, TLF chairman Harvijay Bahia told IANS. The TLF began in 2013 and has been attracting celebrities over the years. The staggered assembly elections in Uttar Pradesh begin on February 11. 
 
@@ -8,18 +11,5 @@ It will take place towards the end of the year, TLF chairman Harvijay Bahia told
 
 brij/ksk/mr 
 
-(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">India news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201688402</DOCID> 
-<DCT type="str">2017-01-29T00:00:00Z</DCT> 
-<TITLE type="str">Taj Literature Festival postponed due to elections</TITLE> 
-</root>
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)</TEXT>
+</TimeML>

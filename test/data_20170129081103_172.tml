@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Russian President Vladimir Putin and his U.S. counterpart Donald Trump had a phone conversation during which they planned to meet in person, NY Times reported. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203871673</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>What Trump and Putin discuss?</TITLE>
+<TEXT>Russian President Vladimir Putin and his U.S. counterpart Donald Trump had a phone conversation during which they planned to meet in person, NY Times reported. 
  
-The “congratulatory call” with Putin lasted an hour, during which the sides talked about stabilizing the relationship between the two nations and several other subjects. Trump and Putin discussed “partnership” on a wide range of international issues, including wars in the Middle East, the Israeli-Palestinian conflict, Iran’s nuclear program. Some of the other issues included restoring trade ties, international terrorism, the situations in Ukraine and the Korean Peninsula, and the coordination of military action against ISIS and other terrorist groups in Syria. 
+The congratulatory call with Putin lasted an hour, during which the sides talked about stabilizing the relationship between the two nations and several other subjects. Trump and Putin discussed partnership on a wide range of international issues, including wars in the Middle East, the Israeli-Palestinian conflict, Irans nuclear program. Some of the other issues included restoring trade ties, international terrorism, the situations in Ukraine and the Korean Peninsula, and the coordination of military action against ISIS and other terrorist groups in Syria. 
  
-The Kremlin call didn&apos;t specifically mention U.S. sanctions against Russia. It said restoration of mutually beneficial economic ties &quot;could further stimulate progressive and stable development of bilateral relations.&quot; 
+The Kremlin call didn't specifically mention U.S. sanctions against Russia. It said restoration of mutually beneficial economic ties "could further stimulate progressive and stable development of bilateral relations." 
  
-“Donald Trump asked to convey wishes of happiness and prosperity to the Russian people, mentioning that the American people hold Russia and her citizens in sympathetic regard,” the Kremlin said. 
+Donald Trump asked to convey wishes of happiness and prosperity to the Russian people, mentioning that the American people hold Russia and her citizens in sympathetic regard, the Kremlin said. 
  
 Vladimir Putin, for his part, emphasized that in Russia there are analogous feelings toward Americans He recalled that for the span of two centuries our nation had supported America, been allies in two world wars, and now views the US as its most important partner in the fight against international terrorism. 
- Armenia News - NEWS.am</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Russia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203871673</DOCID> 
-<DCT type="str">2017-01-29T05:00:13Z</DCT> 
-<TITLE type="str">What Trump and Putin discuss?</TITLE> 
-</root>
+ Armenia News - NEWS.am</TEXT>
+</TimeML>

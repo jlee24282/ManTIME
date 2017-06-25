@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">41 mins ago Breaking news Leave a comment 6 Views 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204599412</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Egypts Sisi announces new authority to develop Upper Egypt</TITLE>
+<TEXT>41 mins ago Breaking news Leave a comment 6 Views 
 
 News 
 
@@ -60,34 +63,5 @@ Website
 
 5th November 2016 1,718 
 
-egypt Economy The Middle East Observer Business Saudi Arabia Investment world New Suez Canal China Dubai UAE Russia Development Kuwait Africa Oil Abdel-Fattah al-Sisi Strategy Investors Technology Stock Market Bahrain government cairo Abu Dhabi</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Finance</group> 
-<name type="str">Finance latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">United Arab Emirates news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">North Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Egypt news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204599412</DOCID> 
-<DCT type="str">2017-01-29T07:49:31Z</DCT> 
-<TITLE type="str">Egypt’s Sisi announces new authority to develop Upper Egypt</TITLE> 
-</root>
+egypt Economy The Middle East Observer Business Saudi Arabia Investment world New Suez Canal China Dubai UAE Russia Development Kuwait Africa Oil Abdel-Fattah al-Sisi Strategy Investors Technology Stock Market Bahrain government cairo Abu Dhabi</TEXT>
+</TimeML>

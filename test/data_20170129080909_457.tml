@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">I bought a cable to record audio to my go pro but when I use it the audio quality drops way off. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200163566</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>GoPro audio cable issue.</TITLE>
+<TEXT>I bought a cable to record audio to my go pro but when I use it the audio quality drops way off. 
  
 The volume drops to near muted. I even tried plugging it into the passenger jack (with my headset plugged into the pilot jack) and the quality instantly dropped again. 
  
-I&apos;m guessing it&apos;s an issue with the cable, but wondering if there is something else I should check before I send it back.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200163566</DOCID> 
-<DCT type="str">2017-01-29T07:50:23Z</DCT> 
-<TITLE type="str">GoPro audio cable issue.</TITLE> 
-</root>
+I'm guessing it's an issue with the cable, but wondering if there is something else I should check before I send it back.</TEXT>
+</TimeML>

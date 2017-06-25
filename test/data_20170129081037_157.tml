@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">KUALA LUMPUR: Police have arrested four suspects to facilitate an investigation into a night club brawl in Mont Kiara on Saturday, which led to the death of a 22-year-old man. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202952962</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Four suspects held over Mont Kiara brawl</TITLE>
+<TEXT>KUALA LUMPUR: Police have arrested four suspects to facilitate an investigation into a night club brawl in Mont Kiara on Saturday, which led to the death of a 22-year-old man. 
  
 City Criminal Investigations Department (CID) chief SAC Rusdi Mohd Isa said the suspects were arrested in a follow-up operation. 
  
-&quot;We have arrested four men, in their 20&apos;s, in Kajang. 
+"We have arrested four men, in their 20's, in Kajang. 
  
-&quot;We are identifying more suspects and zeroing in on the main suspect,&quot; he said when contacted. 
+"We are identifying more suspects and zeroing in on the main suspect," he said when contacted. 
  
 Rusdi said police are still trying to establish the motive behind the attack. 
  
@@ -24,14 +27,5 @@ A source told theSun the victim also posseses seven previous records and has bee
  
 In July last year, a car jockey and cashier of the same club were slashed to death outside the club while another unidentified victim was in critical condition after being attacked by a mob wearing ski masks and armed with machetes. 
  
-Six suspects were arrested following the incident.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Malaysia news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202952962</DOCID> 
-<DCT type="str">2017-01-29T07:10:19Z</DCT> 
-<TITLE type="str">Four suspects held over Mont Kiara brawl</TITLE> 
-</root>
+Six suspects were arrested following the incident.</TEXT>
+</TimeML>

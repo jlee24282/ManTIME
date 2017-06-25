@@ -1,21 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">(Cincinnati, OH)--Firefighters battled a three-alarm fire Saturday morning at the Alms Apartments, 2525 Victory Parkway. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197425414</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Three-Alarm Fire Damages Walnut Hills Apartments</TITLE>
+<TEXT>(Cincinnati, OH)--Firefighters battled a three-alarm fire Saturday morning at the Alms Apartments, 2525 Victory Parkway. 
  
 The fire began in a seventh floor bathroom, and spread to upper floors. Crews had to break through walls to control the flames. 
  
-Firefighters spent about an hour getting the fire under control.  
+Firefighters spent about an hour getting the fire under control. 
  
 Damage is set at $40,000. Seven adults and two children are receiving housing assistance from the Red Cross. 
  
-The cause remains under investigation.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">US regional</group> 
-<name type="str">Cincinnati news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197425414</DOCID> 
-<DCT type="str">2017-01-29T07:37:19Z</DCT> 
-<TITLE type="str">Three-Alarm Fire Damages Walnut Hills Apartments</TITLE> 
-</root>
+The cause remains under investigation.</TEXT>
+</TimeML>

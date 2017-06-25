@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The world record for the men&apos;s 200m breaststroke has been broken by Japanese swimmer Ippei Watanabe in Tokyo. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197371577</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Watanabe's 200m breaststroke world record</TITLE>
+<TEXT>The world record for the men's 200m breaststroke has been broken by Japanese swimmer Ippei Watanabe in Tokyo. 
  Source:  
 AAP 
   
-29 Jan 2017 - 6:14 PM   UPDATED 22 MINS AGO 
+29 Jan 2017 - 6:14 PM  UPDATED22MINSAGO 
   
-Japanese swimmer Ippei Watanabe has broken the world record in the men&apos;s 200m breaststroke. 
+Japanese swimmer Ippei Watanabe has broken the world record in the men's 200m breaststroke. 
  
 The 19-year-old university student swam two minutes, 06.67 seconds to beat the 2012 time of 2:07.01 by compatriot Akihiro Yamaguchi. 
  
-Watanabe set the new mark in Sunday&apos;s 200m breaststroke final at the Tokyo metropolitan championships. 
+Watanabe set the new mark in Sunday's 200m breaststroke final at the Tokyo metropolitan championships. 
  
-Watanabe competed in the 100m breaststroke at the Rio Olympic Games but didn&apos;t qualify for the final. He also broke the Olympic record for the 200m breaststroke during the semi-finals in Rio.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Japan news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: swimming news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197371577</DOCID> 
-<DCT type="str">2017-01-29T07:11:07Z</DCT> 
-<TITLE type="str">Watanabe&apos;s 200m breaststroke world record</TITLE> 
-</root>
+Watanabe competed in the 100m breaststroke at the Rio Olympic Games but didn't qualify for the final. He also broke the Olympic record for the 200m breaststroke during the semi-finals in Rio.</TEXT>
+</TimeML>

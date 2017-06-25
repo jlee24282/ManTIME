@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Mchinji Second Grade Magistrate has sentenced a 63 year-old man to three years in jail for setting fire to a house belonging a 71 year-old man where assorted items worth K331,000 got burnt. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200741772</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Man jailed for setting ablaze house</TITLE>
+<TEXT>The Mchinji Second Grade Magistrate has sentenced a 63 year-old man to three years in jail for setting fire to a house belonging a 71 year-old man where assorted items worth K331,000 got burnt. 
 
 The convict has been identified as Godfrey Kampini while the victim is Kapuntha Longwe. 
 
@@ -14,11 +17,11 @@ Prosecutor Ngoma asked the court to slap the convict with stiffer punishment as 
 
 In mitigation, the convict told the court to consider giving him a lenient sentence as he has two children who require his care and support. He also claimed that he committed the offence out of anger after noticing that the victim had a hand in his broken marriage. 
 
-The victim is uncle to the accused’s ex-wife and the offender believed that the complainant facilitated the breakdown of his marriage and arranged another marriage for the woman, hence the provocation. 
+The victim is uncle to the accuseds ex-wife and the offender believed that the complainant facilitated the breakdown of his marriage and arranged another marriage for the woman, hence the provocation. 
 
 When passing the sentence, Second Grade Magistrate Chipanthenga pointed out that the offence committed by the convict is serious in nature and carries a maximum sentence of life imprisonment. 
 
-However, the magistrate said that the convict deserved a reasonable custodial sentence due to his old age. He went further to say that by pleading guilty, the convict did not give the state some hurdles and also saved court’s precious time. He then sentenced the convict to a three year jail term. 
+However, the magistrate said that the convict deserved a reasonable custodial sentence due to his old age. He went further to say that by pleading guilty, the convict did not give the state some hurdles and also saved courts precious time. He then sentenced the convict to a three year jail term. 
 
 Godfrey Kampini hails from Muwato village, Traditional Authority Njolomole in Ntcheu district. 
 
@@ -32,14 +35,5 @@ Website
 
 Notify me of follow-up comments by email. 
 
-Notify me of new posts by email.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Crime and punishment news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200741772</DOCID> 
-<DCT type="str">2017-01-29T07:27:27Z</DCT> 
-<TITLE type="str">Man jailed for setting ablaze house</TITLE> 
-</root>
+Notify me of new posts by email.</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">If you are appalled as I am about the state of the upcoming Moline mayoral election, please join me in doing something about it. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202907388</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Letter: Moliners do have a voice Feb. 28; write in your choice</TITLE>
+<TEXT>If you are appalled as I am about the state of the upcoming Moline mayoral election, please join me in doing something about it. 
  
 Apparently, Mayor Scott Raes thinks he can ambush the process and hold us all hostage. 
  
@@ -16,18 +19,5 @@ Please take the time on the 28th to be counted and show your disapproval of this
  
 John R. Williams, 
  
-Moline</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202907388</DOCID> 
-<DCT type="str">2017-01-29T06:00:11Z</DCT> 
-<TITLE type="str">Letter: Moliners do have a voice Feb. 28; write in your choice</TITLE> 
-</root>
+Moline</TEXT>
+</TimeML>

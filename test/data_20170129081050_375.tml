@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Loading Map.... 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203571852</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Womens Basketball vs. Millsaps College</TITLE>
+<TEXT>Loading Map.... 
  Alumni Gymnasium inside Sutcliffe Hall 
 309 S. College Street - Danville 
 Details  
@@ -15,29 +18,8 @@ Alumni Gymnasium inside Sutcliffe Hall
  
 Categories 
  
-  
+ 
 CONFERENCE GAME 
 Come out and cheer on our Colonels! 
- </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: basketball news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203571852</DOCID> 
-<DCT type="str">2017-01-29T08:22:33Z</DCT> 
-<TITLE type="str">Women’s Basketball vs. Millsaps College</TITLE> 
-</root>
+</TEXT>
+</TimeML>

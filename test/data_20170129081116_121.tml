@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">PRWeb 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204303971</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Pixel Film Studios Set to Release ProSidebar Corporate for Final Cut Pro X</TITLE>
+<TEXT>PRWeb 
 2017-01-29  
 Pixel Film Studios Releases ProSidebar Corporate, a Kinetic Edge Graphic Plugin for Final Cut Pro X 
  
 Aliso Viejo, California (PRWEB) January 29, 2017 
  
-&quot;ProSidebar Corporate contains a set of 30 kinetic edge graphics which will allow video editors to easily add an informative sidebar to any FCPX production,&quot; said Christina Austin - CEO of Pixel Film Studios. 
+"ProSidebar Corporate contains a set of 30 kinetic edge graphics which will allow video editors to easily add an informative sidebar to any FCPX production," said Christina Austin - CEO of Pixel Film Studios. 
  
-ProSidebar includes 30 self-animating titles with clean stylization. Simply drag a title preset above media in the FCPX timeline and ProSidebar to instantly add an edgy &amp; clean sidebar graphic to any video production. Choose from presets clean text layouts, to title layers with drop zones and text-masked styles. 
+ProSidebar includes 30 self-animating titles with clean stylization. Simply drag a title preset above media in the FCPX timeline and ProSidebar to instantly add an edgy & clean sidebar graphic to any video production. Choose from presets clean text layouts, to title layers with drop zones and text-masked styles. 
  
 ProSidebar includes 30 presets with various elements that can be easily adjusted in Final Cut Pro X. Editors can change any text and stylize any shape elements in each preset. Pixel Film Studios makes titles functional and easy-to-use for FCPX editors. 
  
@@ -18,22 +21,5 @@ ProSidebar Corporate makes creating beautiful lists easy with customizable node 
  
 Established in 2006, Aliso Viejo, California-based Pixel Film Studios is an innovative developer of visual effects tools for the post-production and broadcast community. Their products are integrated with popular non-linear editing and compositing products from Apple FCPX. Apple, the Apple logo, Mac OS X, and Macintosh are registered trademarks of Apple Inc. in the U.S. and/or other countries. All other trademarks and trade names are the property of their respective owners. 
  
-For the original version on PRWeb visit: http://www.prweb.com/releases/2017/01/prweb14009935.htm</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Companies</group> 
-<name type="str">Apple news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Media</group> 
-<name type="str">Movie business news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204303971</DOCID> 
-<DCT type="str">2017-01-29T08:28:12Z</DCT> 
-<TITLE type="str">Pixel Film Studios Set to Release ProSidebar Corporate for Final Cut Pro X</TITLE> 
-</root>
+For the original version on PRWeb visit: http://www.prweb.com/releases/2017/01/prweb14009935.htm</TEXT>
+</TimeML>

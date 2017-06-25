@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196603844</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Xyrania-Dev - A small start for something big.</TITLE>
+<TEXT>. 
 Well, everything seems normal, just a normal day.. not much happening today. 
-I&apos;m just working on my project, EXARUNA. A project I have been working on for a few weeks. 
+I'm just working on my project, EXARUNA. A project I have been working on for a few weeks. 
 This week, I have made an IndieGoGo campaign , a GameJolt page , and wrote about the game on the GameDev forums . 
-Everything&apos;s been going smoothly &apos;til now. 
-It&apos;s good to start slow 
-I hope everything will be going well until the end.. and unlike my other cancelled project, I hope this one succeed.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: video game news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196603844</DOCID> 
-<DCT type="str">2017-01-29T07:29:18Z</DCT> 
-<TITLE type="str">Xyrania-Dev - A small start for something big.</TITLE> 
-</root>
+Everything's been going smoothly 'til now. 
+It's good to start slow 
+I hope everything will be going well until the end.. and unlike my other cancelled project, I hope this one succeed.</TEXT>
+</TimeML>

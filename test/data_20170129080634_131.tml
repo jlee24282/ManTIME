@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Texas mosque fire met with outpouring of support; cause remains unknown
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695193932159</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>US: $120K raised in 9 hours after fire guts mosque</TITLE>
+<TEXT>Texas mosque fire met with outpouring of support; cause remains unknown
 
-read more</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Religion news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695193932159</DOCID> 
-<DCT type="str">2017-01-29T07:12:02Z</DCT> 
-<TITLE type="str">US: $120K raised in 9 hours after fire guts mosque</TITLE> 
-</root>
+read more</TEXT>
+</TimeML>

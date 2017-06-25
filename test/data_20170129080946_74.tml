@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Keine besonderen Vorkommnisse am 85. Tag der Vendée Globe. Als 18. und letzter wird heute Sébastien Destremau FRA das Kap Horn umrunden, für den an 8. Stelle segelnde Nandor Fa HUN steht die Travesierung des Äquators auf dem Programm. Alan Roura SUI ist weiterhin 13., er büsste allerdings beinahe 80 Meilen auf die vor ihm segelnden Arnaud Boissières FRA und Fabrice Amedeo FRA ein. Der Race-Viewer , der Tagesbericht und die Videos .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201217169</DOCID> 
-<DCT type="str">2017-01-29T05:56:00Z</DCT> 
-<TITLE type="str">IMOCA Open 60  Vendée Globe 2016/17  Day 85</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201217169</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>IMOCA Open 60  Vende Globe 2016/17  Day 85</TITLE>
+<TEXT>Keine besonderen Vorkommnisse am 85. Tag der Vende Globe. Als 18. und letzter wird heute Sbastien Destremau FRA das Kap Horn umrunden, fr den an 8. Stelle segelnde Nandor Fa HUN steht die Travesierung des quators auf dem Programm. Alan Roura SUI ist weiterhin 13., er bsste allerdings beinahe 80 Meilen auf die vor ihm segelnden Arnaud Boissires FRA und Fabrice Amedeo FRA ein. Der Race-Viewer , der Tagesbericht und die Videos .</TEXT>
+</TimeML>

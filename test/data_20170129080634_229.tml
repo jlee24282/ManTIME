@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">K.J. Lawson had 12 points and a career-high 19 rebounds and Memphis came back in the second half to beat East Carolina 57-50 on Saturday at FedEx Forum. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194045761</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Tigers Overcome Poor Shooting To Beat ECU 57-50</TITLE>
+<TEXT>K.J. Lawson had 12 points and a career-high 19 rebounds and Memphis came back in the second half to beat East Carolina 57-50 on Saturday at FedEx Forum. 
 
-Jimario Rivers scored 15 points for Memphis to help the Tigers bounce back from Wednesday&apos;s loss to Temple. 
+Jimario Rivers scored 15 points for Memphis to help the Tigers bounce back from Wednesday's loss to Temple. 
 
-Dedric Lawson had 14 rebounds and 8 points. It&apos;s only the second game this season that he hasn&apos;t scored in double digits. 
+Dedric Lawson had 14 rebounds and 8 points. It's only the second game this season that he hasn't scored in double digits. 
 
 The Tigers shot 20 of 66 (30.3 percent), but the Tigers outrebounded the Pirates 52-40. 
 
-Next up: The Tigers travel to Florida to play USF, followed by UCF on Feb. 2 and Feb. 4.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest scores</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194045761</DOCID> 
-<DCT type="str">2017-01-29T07:12:47Z</DCT> 
-<TITLE type="str">Tigers Overcome Poor Shooting To Beat ECU 57-50</TITLE> 
-</root>
+Next up: The Tigers travel to Florida to play USF, followed by UCF on Feb. 2 and Feb. 4.</TEXT>
+</TimeML>

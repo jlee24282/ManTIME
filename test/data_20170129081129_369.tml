@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, 12:30 p.m. to 2:30 p.m. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204969489</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Sun 1/29: Circus Vargas: Steam Cirque</TITLE>
+<TEXT>, 12:30 p.m. to 2:30 p.m. 
  
 Where: Del Mar Fairgrounds, 2260 Jimmy Durante Boulevard, Del Mar 
  
@@ -9,12 +12,7 @@ Cost: $22 - $72
 Age limit: All ages 
  
 Description: 
-For 2017 Circus Vargas embarks on a new adventure under the big top — goggles, gears, and gadgets set the stage for the retro-futuristic production, “a steampunk/science-fiction/fantasy circus odyssey.” 
+For 2017 Circus Vargas embarks on a new adventure under the big top  goggles, gears, and gadgets set the stage for the retro-futuristic production, a steampunk/science-fiction/fantasy circus odyssey. 
  
-Arrive 45 minutes early for an interactive pre-show event where kids can learn circus skills such as juggling and balancing. You can also meet the entire cast after each performance. Info: 877-468-3861.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695204969489</DOCID> 
-<DCT type="str">2017-01-29T08:33:16Z</DCT> 
-<TITLE type="str">Sun 1/29: Circus Vargas: Steam Cirque</TITLE> 
-</root>
+Arrive 45 minutes early for an interactive pre-show event where kids can learn circus skills such as juggling and balancing. You can also meet the entire cast after each performance. Info: 877-468-3861.</TEXT>
+</TimeML>

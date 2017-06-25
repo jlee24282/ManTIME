@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">An armed man escaped on a mountain bike after robbing a woman as she sat in her car. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198851794</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Armed man escapes on bike following Kirkcaldy robbery</TITLE>
+<TEXT>An armed man escaped on a mountain bike after robbing a woman as she sat in her car. 
  
 The woman was parked in Rosslyn Street, Kirkcaldy, on Friday when a man opened the passenger door and grabbed her handbag from the front seat. 
  
@@ -16,7 +19,7 @@ Detective Inspector Graeme Dursley, of Kirkcaldy CID, said: ``This is the second
  
 ``The woman was not injured but she was understandably shocked and distressed. 
  
-``We&apos;re keen to speak to anyone who was in the area and who may have information that can assist us in tracing the individual described.&apos;&apos; 
+``We're keen to speak to anyone who was in the area and who may have information that can assist us in tracing the individual described.'' 
  
 Police will be carrying out additional high-visibility patrols in the area of the incidents over the next few days. 
  
@@ -26,18 +29,13 @@ A man armed with a knife came up to the woman and demanded her purse.
  
 After the robbery he ran off past the car showrooms on Caxton Place and then crossed Dunnikier Way in the direction of Gallatown Park. 
  
-The suspect is described as possibly in his 20&apos;s, 5ft 8in tall, slim-built and wearing a dark grey hooded top with the hood up. 
+The suspect is described as possibly in his 20's, 5ft 8in tall, slim-built and wearing a dark grey hooded top with the hood up. 
  
 He was wearing tracksuit bottoms with a white strip down the side and white trainers. 
  
 Mr Dursley said: ``Thankfully, the woman was not hurt but she was obviously distressed by this robbery. 
  
-``We&apos;re keen to speak to anyone who was in the area and who may have information that can assist us in tracing the individual described.&apos;&apos; 
+``We're keen to speak to anyone who was in the area and who may have information that can assist us in tracing the individual described.'' 
  
-Anyone with information about either incident is asked to contact officers on 101 or anonymously via Crimestoppers on 0800 555 111.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695198851794</DOCID> 
-<DCT type="str">2017-01-29T07:47:15Z</DCT> 
-<TITLE type="str">Armed man escapes on bike following Kirkcaldy robbery</TITLE> 
-</root>
+Anyone with information about either incident is asked to contact officers on 101 or anonymously via Crimestoppers on 0800 555 111.</TEXT>
+</TimeML>

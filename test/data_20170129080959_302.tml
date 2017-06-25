@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Stuart Attwell will be the man in charge of the FA Cup tie between Sutton United and Leeds United. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201895016</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>LUFC Sutton United v Leeds United Match Officials</TITLE>
+<TEXT>Stuart Attwell will be the man in charge of the FA Cup tie between Sutton United and Leeds United. 
 
 The Warwickshire official has taken charge of 17 games so far this season showing 60 yellow cards and 6 reds. 
 
 This will be his third game involving Leeds this season having taken charge of their 1-0 win at Wolverhampton Wanderers and their 2-1 win at Rotherham United. 
 
 Referee: Stuart Attwell (Warwickshire) 
-Assistants: Ian Hussin &amp; Richard West 
+Assistants: Ian Hussin & Richard West 
 Fourth Official: Lee Mason 
 
 
@@ -26,18 +29,5 @@ Vital Leeds on:
 
 Join Vital Leeds 
 
-It&apos;s easy to REGISTER HERE , simply click the link and enjoy getting involved!</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: soccer news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201895016</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">LUFC Sutton United v Leeds United Match Officials</TITLE> 
-</root>
+It's easy to REGISTER HERE , simply click the link and enjoy getting involved!</TEXT>
+</TimeML>

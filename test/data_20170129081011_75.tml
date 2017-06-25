@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Moon enters lucky Water sign Pisces today and lights up the financial sector of your chart. While your focus is on material things, it would be wise to remember that Pisces is one of the most psychic signs in the zodiac. Listen to your intuition.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695202136243</DOCID> 
-<DCT type="str">2017-01-29T08:00:00Z</DCT> 
-<TITLE type="str">Aquarius 1-29-17</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202136243</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Aquarius 1-29-17</TITLE>
+<TEXT>The Moon enters lucky Water sign Pisces today and lights up the financial sector of your chart. While your focus is on material things, it would be wise to remember that Pisces is one of the most psychic signs in the zodiac. Listen to your intuition.</TEXT>
+</TimeML>

@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Mr. Freddie Bruce Bush, 65, of Eufaula, Alabama, died suddenly Tuesday, January 24, 2017, at Medical Center Barbour. Funeral services will be held Friday, January 27, 2017, at 2 P.M., at the First Baptist Church of Eufaula with Dr. Ken Bush officiating. Burial will follow in Fairview Cemetery Addition with Chapman Funeral Home directing. Visitation will be held from 12 Noon until 2 P.M. prior to the service at the church. The family is grateful for donations for the benefit of First Baptist Church and its recent construction of its new Youth Ministry Building or to the Wallace Community College Gabe Bush Scholarship Fund. Born October 23, 1951 in Dothan, Alabama, Mr. Bush was the son of Freddie and Emma Ruth Vickers Bush of Eufaula, Alabama. Mr. Bush was a member of the First Baptist Church of Eufaula where he also served as a Deacon and as a Sunday School Department Chair. He founded Bush Farms in 1975. He was the Alabama Peanut Club winner in 1981 and was selected Junior Farmer in Barbour County in 1987. He was a member of the Barbour County Cattlemens Association. He subsequently built that business into one of the most successfully managed and productive cattle operations in the Southeast, earning the Alabama Farm of Distinction in 2003. Mr. Bush was also active in the community, serving as a Board Member for the Barbour County Health Association and as a Barbour County ALFA board member. Survivors other than his parents include his wife of 41 years: Billie Faye Bush of Eufaula, Alabama; his daughter: Tara Bush (Clay) Williams of Birmingham, Alabama; 2 grandsons: Miles and Walker Williams; 2 sisters: Freida (Ken) Stephenson of Eufaula, Alabama and Beverly (Tony) Smith of Arlington, Georgia. Active pallbearers will be Chance Armstrong, Jim Bonner, Ryan Conner, Jerry Gulledge, Craig Harris, Greg Howerton, Carl Jackson and Ball Trammell. Honorary pallbearers will be James Dixon, Tommy Gaither, Jantzen Lord, Paul Price, Mac Strickland, John Summerford, Frank Sutherland and Benny Whitehead.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Obituaries</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Military news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">US news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201599044</DOCID> 
-<DCT type="str">2017-01-29T06:00:00Z</DCT> 
-<TITLE type="str">Bush, Freddie Bruce</TITLE> 
-</root>
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201599044</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bush, Freddie Bruce</TITLE>
+<TEXT>Mr. Freddie Bruce Bush, 65, of Eufaula, Alabama, died suddenly Tuesday, January 24, 2017, at Medical Center Barbour. Funeral services will be held Friday, January 27, 2017, at 2 P.M., at the First Baptist Church of Eufaula with Dr. Ken Bush officiating. Burial will follow in Fairview Cemetery Addition with Chapman Funeral Home directing. Visitation will be held from 12 Noon until 2 P.M. prior to the service at the church. The family is grateful for donations for the benefit of First Baptist Church and its recent construction of its new Youth Ministry Building or to the Wallace Community College Gabe Bush Scholarship Fund. Born October 23, 1951 in Dothan, Alabama, Mr. Bush was the son of Freddie and Emma Ruth Vickers Bush of Eufaula, Alabama. Mr. Bush was a member of the First Baptist Church of Eufaula where he also served as a Deacon and as a Sunday School Department Chair. He founded Bush Farms in 1975. He was the Alabama Peanut Club winner in 1981 and was selected Junior Farmer in Barbour County in 1987. He was a member of the Barbour County Cattlemens Association. He subsequently built that business into one of the most successfully managed and productive cattle operations in the Southeast, earning the Alabama Farm of Distinction in 2003. Mr. Bush was also active in the community, serving as a Board Member for the Barbour County Health Association and as a Barbour County ALFA board member. Survivors other than his parents include his wife of 41 years: Billie Faye Bush of Eufaula, Alabama; his daughter: Tara Bush (Clay) Williams of Birmingham, Alabama; 2 grandsons: Miles and Walker Williams; 2 sisters: Freida (Ken) Stephenson of Eufaula, Alabama and Beverly (Tony) Smith of Arlington, Georgia. Active pallbearers will be Chance Armstrong, Jim Bonner, Ryan Conner, Jerry Gulledge, Craig Harris, Greg Howerton, Carl Jackson and Ball Trammell. Honorary pallbearers will be James Dixon, Tommy Gaither, Jantzen Lord, Paul Price, Mac Strickland, John Summerford, Frank Sutherland and Benny Whitehead.</TEXT>
+</TimeML>

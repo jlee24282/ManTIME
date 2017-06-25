@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">The Nevada Appeal’s Silver Dollars &amp; Wooden Nickels feature recognizes achievements from the capital region and, when warranted, points out other acts that missed the mark. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201300184</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>SILVER DOLLARS AND WOODEN NICKELS: All veterans in Carson City deserve pin of honor</TITLE>
+<TEXT>The Nevada Appeals Silver Dollars & Wooden Nickels feature recognizes achievements from the capital region and, when warranted, points out other acts that missed the mark. 
  
-SILVER DOLLAR: While all of our veterans deserve a pin of honor, we’ll single out these veterans who were presented with pins of honor last week at Sierra Place Senior Living: 
+SILVER DOLLAR: While all of our veterans deserve a pin of honor, well single out these veterans who were presented with pins of honor last week at Sierra Place Senior Living: 
  
-Phyllis Bendure, Women’s Army Corps, WWII. 
+Phyllis Bendure, Womens Army Corps, WWII. 
  
 Wes Borders, Air Force, WWII, Korea and Vietnam. 
  
@@ -34,18 +37,5 @@ Norman Ward, Air Force, WWII
  
 Don Seals, Army, Vietnam, employee of Sierra Place Senior Living 
  
-We call on all of us along with city and state officials to make this a regular event to make sure all of our veterans in this community receive a pin of honor.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Opinion latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Veterans news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695201300184</DOCID> 
-<DCT type="str">2017-01-29T07:23:00Z</DCT> 
-<TITLE type="str">SILVER DOLLARS AND WOODEN NICKELS: All veterans in Carson City deserve pin of honor</TITLE> 
-</root>
+We call on all of us along with city and state officials to make this a regular event to make sure all of our veterans in this community receive a pin of honor.</TEXT>
+</TimeML>

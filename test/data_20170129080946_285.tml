@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Maze of Life 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695201375808</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Uttlesford Citizens Advice call for volunteers</TITLE>
+<TEXT>Maze of Life 
  
 Archant 
     
@@ -12,10 +15,5 @@ To send a link to this page you must be logged in.
     
 The organisation helps some 3,000 people in the district every year with problems including money worries, making sure they claim the benefits they are entitled to, relationship and employment problems. To help protect the service in the future, Uttlesford Citizens Advice is looking for community-minded people to become Friends of the charity. A Friend may give a few hours of their time to participate in fundraising activities or provide financial support with a donation, big or small. 
  
-More information, including how to donate, can be found at www.uttlesfordcab.org.uk or by calling 01799 61884</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695201375808</DOCID> 
-<DCT type="str">2017-01-29T08:06:18Z</DCT> 
-<TITLE type="str">Uttlesford Citizens Advice call for volunteers</TITLE> 
-</root>
+More information, including how to donate, can be found at www.uttlesfordcab.org.uk or by calling 01799 61884</TEXT>
+</TimeML>

@@ -1,25 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Home  International News Share the joy 
-                                 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200149075</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>German Arndt overhauls Meyer to win UCI event in Geelong</TITLE>
+<TEXT>Home  International News Share the joy 
+                       
 German sprinter Nikias Arndt was the surprise winner of the Cadel Evans Great Ocean Road Race in Victoria on Sunday after he pipped Australian Cameron Meyer on the line to claim his first one-day win at World Tour level. 
 Channel NewsAsia Front Page News 
-    Previous article    Next article</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Australia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Germany news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695200149075</DOCID> 
-<DCT type="str">2017-01-29T07:55:08Z</DCT> 
-<TITLE type="str">German Arndt overhauls Meyer to win UCI event in Geelong</TITLE> 
-</root>
+    Previous article    Next article</TEXT>
+</TimeML>

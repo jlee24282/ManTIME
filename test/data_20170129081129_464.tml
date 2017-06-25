@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Our good friends at Opta have complied all the numbers and stats you need to assess the teams’ chances ahead of today’s Afcon fourth Quater-Fina clash at Stade de Port-Gentil
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695205062118</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Afcon Stat Pack: All you need to know about Egypt v Morocco</TITLE>
+<TEXT>Our good friends at Opta have complied all the numbers and stats you need to assess the teams chances ahead of todays Afcon fourth Quater-Fina clash at Stade de Port-Gentil
 
 - Egypt have only managed to secure one AFCON victory in five attempts over Morocco D1 L3 scoring only two goals across those matches
 
@@ -20,34 +23,9 @@
 
 - Morocco struck more shots off target than any other team during the group stages 23 only one side Mali 222 recorded a worse shooting accuracy rate than Morocco 258
 
-- No player managed to record more assists during the 2017 group stages than the two registered by Morocco’s Faycal Fajr
+- No player managed to record more assists during the 2017 group stages than the two registered by Moroccos Faycal Fajr
 
-- Mohammed Salah has been involved in both of Egypt’s goals at this year’s AFCON one assist followed by a goal
+- Mohammed Salah has been involved in both of Egypts goals at this years AFCON one assist followed by a goal
 
-- This is Hervé Renard’s fifth AFCON as manager – he’s only lost two of his 22 games W10 D10 The Morocco boss is the only one to have won the tournament with two different teams Zambia in 2012 Ivory Coast in 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">North Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Morocco news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Egypt news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Africa news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695205062118</DOCID> 
-<DCT type="str">2017-01-29T08:34:08Z</DCT> 
-<TITLE type="str">Afcon Stat Pack: All you need to know about Egypt v Morocco</TITLE> 
-</root>
+- This is Herv Renards fifth AFCON as manager  hes only lost two of his 22 games W10 D10 The Morocco boss is the only one to have won the tournament with two different teams Zambia in 2012 Ivory Coast in 2</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">HIGH SCHOOLS 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194057576</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Saturdays High School Scoreboard for Jan. 28, 2017</TITLE>
+<TEXT>HIGH SCHOOLS 
  
 BOYS BASKETBALL 
  
@@ -16,7 +19,7 @@ Oakland
 
 26 
 
-— 
+ 
 
 62 
 
@@ -30,11 +33,11 @@ Grant
 
 20 
 
-— 
+ 
 
 71 
 
- O–Ogbe 2, Grant-Ryan 2, Dummett 27, Bains 8, Holden 3, Bland 17, Harris 3. G–T. Jackson 2, McGhee 5, B. Jackson 11, Smoots 17, Richardson 2, Hampton 6, Jones 4, Davis 24. 
+ OOgbe 2, Grant-Ryan 2, Dummett 27, Bains 8, Holden 3, Bland 17, Harris 3. GT. Jackson 2, McGhee 5, B. Jackson 11, Smoots 17, Richardson 2, Hampton 6, Jones 4, Davis 24. 
 
 CHRISTIAN BROTHERS 73, CENTRAL CATHOLIC 63 
 
@@ -48,7 +51,7 @@ Christian Brothers
 
 25 
 
-— 
+ 
 
 73 
 
@@ -62,30 +65,13 @@ Central Catholic
 
 17 
 
-— 
+ 
 
 63 
 
- CB–Warner 3, Marengo 16, Perrot 12, Jackson 8, Wiggin 5, Sneed 2, King 27. CC–Rice 25, Wilson 5, Dhaliwal 4, Bland 8, Fenton 17, Magana 4. 
+ CBWarner 3, Marengo 16, Perrot 12, Jackson 8, Wiggin 5, Sneed 2, King 27. CCRice 25, Wilson 5, Dhaliwal 4, Bland 8, Fenton 17, Magana 4. 
 
 CALL IN YOUR SCORES 
  
-Area high school and college coaches or scorekeepers are encouraged to report results immediately after games. Call 916-441-4100 or email preps@sacbee.com. Calls will be accepted everyday until 11 p.m.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Education news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194057576</DOCID> 
-<DCT type="str">2017-01-29T07:00:09Z</DCT> 
-<TITLE type="str">Saturday’s High School Scoreboard for Jan. 28, 2017</TITLE> 
-</root>
+Area high school and college coaches or scorekeepers are encouraged to report results immediately after games. Call 916-441-4100 or email preps@sacbee.com. Calls will be accepted everyday until 11 p.m.</TEXT>
+</TimeML>

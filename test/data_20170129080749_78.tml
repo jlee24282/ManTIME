@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">KATHMANDU: As many as three persons on an ambulance were critically injured when the vehicle met with an accident in Jhargaira, Tripur-1 of Dang district in the wee hours of Sunday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196554347</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>3 injured in Dang ambulance accident</TITLE>
+<TEXT>KATHMANDU: As many as three persons on an ambulance were critically injured when the vehicle met with an accident in Jhargaira, Tripur-1 of Dang district in the wee hours of Sunday. 
  
 The injured have been identified as Madan Rawat (51) of Ghorahi-11, Deva Rawat (79) and Kamal Rawat (35) of Manpur-9 in the district. 
  
@@ -10,14 +13,5 @@ All the injured, two men and an elderly woman, have been sent to the Gohari-base
  
 Police are in search of the ambulance driver who has fled the scene after the incident. 
  
-Follow The Himalayan Times on Twitter and</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Nepal news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196554347</DOCID> 
-<DCT type="str">2017-01-29T07:25:51Z</DCT> 
-<TITLE type="str">3 injured in Dang ambulance accident</TITLE> 
-</root>
+Follow The Himalayan Times on Twitter and</TEXT>
+</TimeML>

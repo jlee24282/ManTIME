@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">It&apos;s a Sunday afternoon Pac-12 battle in McKale Center when the visiting Washington Huskies visit Tucson.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196961640</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>A Player's Program: Washington preview</TITLE>
+<TEXT>It's a Sunday afternoon Pac-12 battle in McKale Center when the visiting Washington Huskies visit Tucson.
 
-Sunday&apos;s nationally-televised showdown on FOX-11 is the second game of the week as the Wildcats dispatched the Washington State Cougars 79-62 on Thursday evening.
+Sunday's nationally-televised showdown on FOX-11 is the second game of the week as the Wildcats dispatched the Washington State Cougars 79-62 on Thursday evening.
 
-UA&apos;s current 13-game winning streak is the fourth longest active streak in the nation and the fourth best of the Sean Miller era of Arizona Basketball (2009-10 to present). 
+UA's current 13-game winning streak is the fourth longest active streak in the nation and the fourth best of the Sean Miller era of Arizona Basketball (2009-10 to present). 
 
-The Wildcats&apos; 13 consecutive wins trail only Gonzaga (21), New Mexico State (17) and Oregon (17) in longest active winning streaks in NCAA Division I.
+The Wildcats' 13 consecutive wins trail only Gonzaga (21), New Mexico State (17) and Oregon (17) in longest active winning streaks in NCAA Division I.
 
-Head coach Sean Miller enters Sunday&apos;s game in search of his 100th conference win at the helm of the Arizona Basketball program (99-35).
+Head coach Sean Miller enters Sunday's game in search of his 100th conference win at the helm of the Arizona Basketball program (99-35).
 
 Sophomore Allonzo Trier is averaging 15 points and six assists in the two games since his return from NCAA suspension. He has tallied 11 assists to just two turnovers.
 
@@ -18,18 +21,9 @@ Washington (9-11, 2-6) is lead by freshman guard Markelle Fultz who is the only 
 
 Fultz is the leading freshman scorer in the NCAA at 23.7 points per game which ranks fourth overall.
 
-UA’s Lauri Markkanen is 6th on the freshman scoring list (17.0).
+UAs Lauri Markkanen is 6th on the freshman scoring list (17.0).
 
 Copyright 2017 Arizona and Washington Athletics. All rights reserved.
 
-David Kelly contributed to this story.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196961640</DOCID> 
-<DCT type="str">2017-01-29T07:28:00Z</DCT> 
-<TITLE type="str">A Player&apos;s Program: Washington preview</TITLE> 
-</root>
+David Kelly contributed to this story.</TEXT>
+</TimeML>

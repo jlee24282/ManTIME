@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Dhaka [Bangladesh], Jan. 29 : New trouble on the anti-terror front has emerged in Bangladesh as radicalised Bangladeshis with dual citizenship have become a major concern for counter-terrorism surveillance by the law enforcers. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695198174573</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Radicalised Bangladeshis become major concern for counter-terrorism surveillance</TITLE>
+<TEXT>Dhaka [Bangladesh], Jan. 29 : New trouble on the anti-terror front has emerged in Bangladesh as radicalised Bangladeshis with dual citizenship have become a major concern for counter-terrorism surveillance by the law enforcers. 
 According to the Daily Star, the law enforcers have little information on Bangladesh-origin foreign nationals, who secretly went to Iraq or Syria from abroad and joined the Islamic State (IS). 
 
 Members of the ISIS are being driven out of their territories and are forced to look for shelters in other countries as the terror group is gradually losing out battles in Iraq and Syria. 
 
 As a result of this, Bangladesh-origin IS recruits with dual citizenship might now want to come back to the country in search for a shelter. 
 
-Chief of the Counter Terrorism and Transnational Crime (CTTC) unit of DMP, Monirul Islam, said: &quot;We have already started communicating with different countries to collect information about Bangladeshis with dual citizenship that left the countries to fight for IS.&quot; Investigators could not provide a figure of Bangladesh-origin IS militants with dual citizenship but stated that it would not be very small. 
+Chief of the Counter Terrorism and Transnational Crime (CTTC) unit of DMP, Monirul Islam, said: "We have already started communicating with different countries to collect information about Bangladeshis with dual citizenship that left the countries to fight for IS." Investigators could not provide a figure of Bangladesh-origin IS militants with dual citizenship but stated that it would not be very small. 
 
 A top official of CTTC unit said that such IS operatives are likely to get arrested if they return to the countries they fled to join the terror group. 
 
@@ -15,36 +18,7 @@ The official added the authorities here will not question their entry as they wi
 
 Another official said that such IS operatives after entering the country will certainly try to recruit people and carry out attacks in the region. 
 
-Additional commissioner of DMP, Monirul Islam, said that Bangladeshis who don&apos;t have dual citizenship and left the country to join IS will not be able to enter the country undetected as officials will have information about them. 
+Additional commissioner of DMP, Monirul Islam, said that Bangladeshis who don't have dual citizenship and left the country to join IS will not be able to enter the country undetected as officials will have information about them. 
 
-Source</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Terrorism news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">US security news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Bangladesh news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Indian subcontinent news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Business</group> 
-<name type="str">Business latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695198174573</DOCID> 
-<DCT type="str">2017-01-29T07:41:50Z</DCT> 
-<TITLE type="str">Radicalised Bangladeshis become major concern for counter-terrorism surveillance</TITLE> 
-</root>
+Source</TEXT>
+</TimeML>

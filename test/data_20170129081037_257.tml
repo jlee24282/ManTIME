@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Ottawa, January 29 ( QNA ) - Canadian Prime Minister Justin Trudeau has told refugees to come to Canada, after US President Donald Trump suspended his country&apos;s refugee programme for four months. 
-&quot;To those fleeing persecution, terror and war, Canadians will welcome you, regardless of your faith. Diversity is our strength,&quot; Trudeau tweeted on Saturday. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203071071</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Canadian PM Welcomes Refugees after Trump's Ban</TITLE>
+<TEXT>Ottawa, January 29 ( QNA ) - Canadian Prime Minister Justin Trudeau has told refugees to come to Canada, after US President Donald Trump suspended his country's refugee programme for four months. 
+"To those fleeing persecution, terror and war, Canadians will welcome you, regardless of your faith. Diversity is our strength," Trudeau tweeted on Saturday. 
 He also posted a picture of himself welcoming a Syrian girl at Toronto airport in December 2015, the (dpa) reported. 
-On Friday, Trump signed an executive order imposing what he calls &quot;extreme vetting&quot; on refugees and banning all travelers from six countries ( Iraq, Syria, Sudan, Libya, Yemen and Somalia) for 90 days. 
-Canada has a history of welcoming refugees and as of January has settled almost 40,000 Syrians fleeing the current conflict. ( QNA )</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Canada news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Middle East news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203071071</DOCID> 
-<DCT type="str">2017-01-29T08:18:40Z</DCT> 
-<TITLE type="str">Canadian PM Welcomes Refugees after Trump&apos;s Ban</TITLE> 
-</root>
+On Friday, Trump signed an executive order imposing what he calls "extreme vetting" on refugees and banning all travelers from six countries ( Iraq, Syria, Sudan, Libya, Yemen and Somalia) for 90 days. 
+Canada has a history of welcoming refugees and as of January has settled almost 40,000 Syrians fleeing the current conflict. ( QNA )</TEXT>
+</TimeML>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">by 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197406885</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Shahid Afridi Best Catches in cricket</TITLE>
+<TEXT>by 
 
 14 views 
 
@@ -20,18 +23,5 @@ Top 10 Boundary Saves Best Fielding in Cricket History
 
 by Cricbuzz Tv 
 
-Sharjeel Khan 62 Runs, Vs Australia Practice Match Pakistan vs Australia 2</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: cricket news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197406885</DOCID> 
-<DCT type="str">2017-01-29T07:17:39Z</DCT> 
-<TITLE type="str">Shahid Afridi Best Catches in cricket</TITLE> 
-</root>
+Sharjeel Khan 62 Runs, Vs Australia Practice Match Pakistan vs Australia 2</TEXT>
+</TimeML>

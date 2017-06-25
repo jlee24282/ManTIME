@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Christopher Bang wins the 145 pound class (WLOS Staff).jpg 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202384040</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Enka wins MAC wrestling tournament</TITLE>
+<TEXT>Christopher Bang wins the 145 pound class (WLOS Staff).jpg 
    
 WEAVERVILLE, NC -- The Enka wrestling team won the MAC tournament at North Buncombe on Saturday. 
  
 Five different Jets wrestlers got 1st place in their weight classes. 
  
-Greg Johnston from TC Roberson was the Most Outstanding Wrestler.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: wrestling news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202384040</DOCID> 
-<DCT type="str">2017-01-29T08:13:26Z</DCT> 
-<TITLE type="str">Enka wins MAC wrestling tournament</TITLE> 
-</root>
+Greg Johnston from TC Roberson was the Most Outstanding Wrestler.</TEXT>
+</TimeML>

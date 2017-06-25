@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">(AFP) – President Donald Trump vowed  to improve floundering ties with Russia, while also reassuring close US allies he 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203940876</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trump vows better Russia ties, reassures NATO allies</TITLE>
+<TEXT>(AFP)  President Donald Trump vowed to improve floundering ties with Russia, while also reassuring close US allies he 
 supports NATO. 
  
 Trump faced a first legal defeat amid growing international alarm over his 
@@ -10,25 +13,12 @@ The temporary stay orders authorities to stop deporting dozens of refugees
 and other travelers who had been detained at US airports since Trump signed his 
 measure Friday afternoon. 
  
-British Prime Minister Theresa May indicated she does “not agree” with the 
+British Prime Minister Theresa May indicated she does not agree with the 
 restrictions, and will intervene if they affect UK nationals. 
  
-French President Francois Hollande warned of the “economic and political 
-consequences” of the American leader’s protectionist stance. 
+French President Francois Hollande warned of the economic and political 
+consequences of the American leaders protectionist stance. 
 The move sparked large protests at major airports across the country. At 
-New York’s John F. Kennedy International Airport, some of the 2,000 
-demonstrators chanted “Let them in, let them in!”</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Russia news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">International relations news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695203940876</DOCID> 
-<DCT type="str">2017-01-29T08:25:17Z</DCT> 
-<TITLE type="str">Trump vows better Russia ties, reassures NATO allies</TITLE> 
-</root>
+New Yorks John F. Kennedy International Airport, some of the 2,000 
+demonstrators chanted Let them in, let them in!</TEXT>
+</TimeML>

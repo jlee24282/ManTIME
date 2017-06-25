@@ -1,21 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">, 7:23 pm 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695204966665</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Snapshot of A-League round 17 (NZ Newswire)</TITLE>
+<TEXT>, 7:23 pm 
    
 A-LEAGUE SNAPSHOT FOR ROUND 17: 
 
-THEY SAID IT - &quot;A lot of people question this group - I don&apos;t know why,&quot; Brisbane coach John Aloisi after his club rose to third on the ladder after a late winner gave his club a 2-1 triumph against Western Sydney 
+THEY SAID IT - "A lot of people question this group - I don't know why," Brisbane coach John Aloisi after his club rose to third on the ladder after a late winner gave his club a 2-1 triumph against Western Sydney 
 STAT THAT MATTERS - 11. The number of points between runaway leaders Sydney FC and the next-best, Melbourne Victory 
-MAN OF THE ROUND - Brett Holman. Brisbane&apos;s former Socceroo was making a comeback from knee surgery which had sidelined him since November. In the third minute of injury time, he scored the Roar&apos;s winner against the Wanderers, thereby lifting his club towards the top of the ladder 
-CONTROVERSY CORNER - Remarkably, a round without a coach publicly blowing up at refereeing decisions. But the league&apos;s heat policy is under the microscope after Adelaide United&apos;s home match against Wellington was played in oppressive heat, topping 38 degrees. Drinks breaks were held every 15 minutes but both sides understandably felt the pinch, and the spectacle suffered 
-UNDER PRESSURE - Adelaide coach Guillermo Amor. The Spaniard has credits in the bank after guiding the club to their first league championship last season. But, with their title defence in tatters - the Reds are last with just two wins - whether Amor wants to cash the credits in and remain in Adelaide remains uncertain</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695204966665</DOCID> 
-<DCT type="str">2017-01-29T08:23:29Z</DCT> 
-<TITLE type="str">Snapshot of A-League round 17 (NZ Newswire)</TITLE> 
-</root>
+MAN OF THE ROUND - Brett Holman. Brisbane's former Socceroo was making a comeback from knee surgery which had sidelined him since November. In the third minute of injury time, he scored the Roar's winner against the Wanderers, thereby lifting his club towards the top of the ladder 
+CONTROVERSY CORNER - Remarkably, a round without a coach publicly blowing up at refereeing decisions. But the league's heat policy is under the microscope after Adelaide United's home match against Wellington was played in oppressive heat, topping 38 degrees. Drinks breaks were held every 15 minutes but both sides understandably felt the pinch, and the spectacle suffered 
+UNDER PRESSURE - Adelaide coach Guillermo Amor. The Spaniard has credits in the bank after guiding the club to their first league championship last season. But, with their title defence in tatters - the Reds are last with just two wins - whether Amor wants to cash the credits in and remain in Adelaide remains uncertain</TEXT>
+</TimeML>

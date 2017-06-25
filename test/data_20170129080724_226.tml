@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Sioux Falls, SD 
- Here are Saturday&apos;s results from across KELOLAND. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195820617</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Saturday Night Scoreboard - January 28th</TITLE>
+<TEXT>Sioux Falls, SD 
+ Here are Saturday's results from across KELOLAND. 
 NBA D-League 
 
 
 Sioux Falls 119 vs. Oklahoma City 138 
  
-Women&apos;s College Basketball  South Dakota 78 vs. Western Illinois 86 
+Women's College Basketball South Dakota 78 vs. Western Illinois 86 
 South Dakota State 82 @ Omaha 83 
 USF 66 vs. MSU-Moorhead 61 
 Augustana 70 @ St. Cloud State 74 
 Northern State 90 @ SMSU 65 
 Dakota Wesleyan 54 vs. Hastings 62 
-Men&apos;s College Basketball  
+Men's College Basketball 
 
 South Dakota 88 vs. Denver 83 
 South Dakota State 88 @ Omaha 84 
@@ -54,7 +57,7 @@ Bismarck Legacy, N.D., 62.5
 
 Webster, 55.5 
 
-Sioux Falls O&apos;Gorman, 51 
+Sioux Falls O'Gorman, 51 
 
 Milbank, 44.5 
 
@@ -116,7 +119,7 @@ Webster, 59
 
 Warner/Northwestern, 58 
 
-Sioux Falls O&apos;Gorman JV, 47 
+Sioux Falls O'Gorman JV, 47 
 
 Milbank JV, 37 
 
@@ -441,32 +444,32 @@ South Border, N.D. 60, Leola/Frederick 58
 Sully Buttes 54, Warner 24 
 
 Big East Conference Tournament 
-Seventh Place  
+Seventh Place 
 Chester 42, Garretson 37 
 
-Fifth Place  
+Fifth Place 
 Sioux Valley 56, Baltic 41 
 
-Third Place  
+Third Place 
 Parker 53, Howard 51 
 
-Championship  
+Championship 
 McCook Central/Montrose 56, Flandreau 51 
 
 Dakota Oyate Challenge 
-Seventh Place  
+Seventh Place 
 Crazy Horse 76, Takini 38 
 
-Fifth Place  
+Fifth Place 
 Marty Indian 59, Tiospaye Topa 51 
 
-Third Place  
+Third Place 
 Lower Brule 67, Flandreau Indian 52 
 
-Championship  
+Championship 
 Omaha Nation, Neb. 83, Tiospa Zina Tribal 57 
 
-Dakota XII Conference Classic  
+Dakota XII Conference Classic 
 Beresford 51, Canton 20 
 
 Dell Rapids 53, West Central 45 
@@ -479,7 +482,7 @@ Sioux Falls Christian 61, Tea Area 52
 
 Vermillion 56, Madison 37 
 
-Tri-Valley Conference Classic  
+Tri-Valley Conference Classic 
 Andes Central/Dakota Christian 50, Gayville-Volin 45 
 
 Bridgewater-Emery 41, Alcester-Hudson 25 
@@ -488,7 +491,7 @@ Freeman Academy/Marion 35, Scotland 28
 
 Platte-Geddes 45, Viborg-Hurley 37 
 
-POSTPONEMENTS AND CANCELLATIONS  
+POSTPONEMENTS AND CANCELLATIONS 
 Aberdeen Central vs. Yankton, ppd. 
 
 Bison vs. Beach, N.D., ccd. 
@@ -505,7 +508,7 @@ Blake 42, Breck 22
 
 Bloomington Kennedy 66, Minneapolis North 43 
 
-Christ&apos;s Household of Faith 59, Legacy Christian 50 
+Christ's Household of Faith 59, Legacy Christian 50 
 
 East Grand Forks 74, Warroad 26 
 
@@ -695,21 +698,21 @@ HealthBeat
   
 Cancer 
    
-Children&apos;s Health 
+Children's Health 
    
 Heart Health 
    
-Wellness &amp; Nutrition 
+Wellness & Nutrition 
    
 General 
    
 Health Beat 
    
-Women&apos;s Health 
+Women's Health 
    
 RX Resources 
    
-What&apos;s Going Around 
+What's Going Around 
    
 OTC 
    
@@ -719,7 +722,7 @@ Recalls
    
 Dental Health 
    
-Men&apos;s Health 
+Men's Health 
     
 Politics 
   
@@ -799,7 +802,7 @@ Your Money Matters
    
 Development 
    
-Gas &amp; Energy 
+Gas & Energy 
    
 Legislation 
    
@@ -825,9 +828,9 @@ Transportation
    
 Insurance 
    
-Meetings &amp; Events 
+Meetings & Events 
    
-Retail &amp; Restaurants 
+Retail & Restaurants 
    
 All Industries 
    
@@ -869,14 +872,5 @@ Investigates
    
 Sponsored 
     Done      
-© 2017 KELOLAND TV. All Rights Reserved.</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195820617</DOCID> 
-<DCT type="str">2017-01-29T07:24:53Z</DCT> 
-<TITLE type="str">Saturday Night Scoreboard - January 28th</TITLE> 
-</root>
+ 2017 KELOLAND TV. All Rights Reserved.</TEXT>
+</TimeML>

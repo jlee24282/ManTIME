@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Tokyo - ArabToday   
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194233416</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Abe, Trump to hold 1st summit meeting</TITLE>
+<TEXT>Tokyo - ArabToday   
 Japanese Prime Minister Shinzo Abe and U.S. President Donald Trump on Saturday agreed to hold their first summit meeting in Washington on Feb.10, said Abe here after telephone talks with Trump on Saturday. 
  
 The two leaders made the agreement during their 42-minute long telephone conversation starting from 11:05 p.m. (1405 GMT) on Saturday, the first such talks since Trump sworn in as 45th U.S. president last week. 
@@ -11,14 +14,5 @@ As for the two leads summit talks next month, Abe said he hoped to significantly
  
 The Japanese Prime Minister also said he hope Japan will play its due role as U.S. alliance. 
  
-source: Xinhua</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Japan news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194233416</DOCID> 
-<DCT type="str">2017-01-29T07:13:48Z</DCT> 
-<TITLE type="str">Abe, Trump to hold 1st summit meeting…</TITLE> 
-</root>
+source: Xinhua</TEXT>
+</TimeML>

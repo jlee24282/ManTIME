@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Detail Description : 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695200444025</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Andrew James Purify Hot Water Dispenser and Water Filter, 4L Capacity with 2 Year Warranty</TITLE>
+<TEXT>Detail Description : 
 http://tinyurl.com/zanhwzy [ln] Get instant hot and filtered water with this 4 litre dispenser [ln] [ln] 
 - [ln] Includes the option to filter water without boiling [ln] [ln] 
 - [ln] Finished in stylish stainless steel. Includes 2 x Strix water filters each with 150L life span [ln] [ln] 
@@ -12,10 +15,5 @@ http://tinyurl.com/zanhwzy [ln] Get instant hot and filtered water with this 4 l
 
 Author: carolinemonicaa 
 Tags: home  kitchen  Home and Kitchen  Home Kitchen  
-Posted: 29 January 2</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695200444025</DOCID> 
-<DCT type="str">2017-01-29T07:41:47Z</DCT> 
-<TITLE type="str">Andrew James Purify Hot Water Dispenser and Water Filter, 4L Capacity with 2 Year Warranty</TITLE> 
-</root>
+Posted: 29 January 2</TEXT>
+</TimeML>

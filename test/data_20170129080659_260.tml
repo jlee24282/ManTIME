@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">by Lisa Dib  
-The Oscar nominations have just been released! There&apos;s a lot of un-surprises, some left-field nods and a lot of debate. Here&apos;s the full list. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695194793212</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>2017 Oscar Nominations</TITLE>
+<TEXT>by Lisa Dib  
+The Oscar nominations have just been released! There's a lot of un-surprises, some left-field nods and a lot of debate. Here's the full list. 
  
 Best Picture : Arrival, Fences, Hacksaw Ridge, Hell or High Water, Hidden Figures, La La Land, Lion, Manchester by the Sea, Moonlight 
  
@@ -35,7 +38,7 @@ Best Makeup and Hairstyling : A Man Called Ove, Star Trek Beyond, Suicide Squad
  
 Best Original Score : Jackie, La La Land, Lion, Moonlight, Passengers 
  
-Best Original Song : Audition (La La Land), Can&apos;t Stop the Feeling (Trolls), City of Stars (La La Land), The Empty Chair (Jim: The James Foley Story), How Far I&apos;ll Go (Moana) 
+Best Original Song : Audition (La La Land), Can't Stop the Feeling (Trolls), City of Stars (La La Land), The Empty Chair (Jim: The James Foley Story), How Far I'll Go (Moana) 
  
 Best Sound Editing : Arrival, Deepwater Horizon, Hacksaw Ridge, La La Land, Sully 
  
@@ -51,26 +54,13 @@ Best Documentary: Fire at Sea, I Am Not Your Negro, Life Animated, O.J.: Made in
  
 Best Foreign Language Film : Land of Mine, A Man Called Ove, The Salesman, Tanna, Toni Erdmann 
  
-Best Documentary Short Subject : Extremis, 4.1 Miles, Joe&apos;s Violin, Watani: My Homeland, The White Helmets 
+Best Documentary Short Subject : Extremis, 4.1 Miles, Joe's Violin, Watani: My Homeland, The White Helmets 
  
 Best Live Action Short : Ennemis Entreniers, La Femme et le TGV, Silent Nights, Sing, Timecode Best Animated Short: Blind Vaysha, Borrowed Time, Pear Cider and Cigarettes, Pearl, Piper 
  
 The Oscars will take place at the Dolby Theatre in Hollywood, California on February 26, 2017. 
  
-​​​​​​​ 
  
- </TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: movie news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695194793212</DOCID> 
-<DCT type="str">2017-01-29T07:18:16Z</DCT> 
-<TITLE type="str">2017 Oscar Nominations</TITLE> 
-</root>
+ 
+</TEXT>
+</TimeML>

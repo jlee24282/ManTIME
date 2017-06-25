@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Breakfast: it&apos;s the most important meal of the day and, if you&apos;re doing it right, also the most indulgent and delicious. Whether you&apos;re a , something a little bit continental, American (yay pancakes!), healthy or whatever, Kent has so many options to fill you up. Read more: We asked you over our social media pages for your favourites and these are the 99 places you told us are the very best.
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196480673</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>These are 99 of the best breakfasts in Kent - now rate your...</TITLE>
+<TEXT>Breakfast: it's the most important meal of the day and, if you're doing it right, also the most indulgent and delicious. Whether you're a , something a little bit continental, American (yay pancakes!), healthy or whatever, Kent has so many options to fill you up. Read more: We asked you over our social media pages for your favourites and these are the 99 places you told us are the very best.
 
-Now you can click on your favourite to move them up the rankings and crown Kent&apos;s favourite breakfast. Read more: Loading...</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Entertainment</group> 
-<name type="str">Entertainment: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196480673</DOCID> 
-<DCT type="str">2017-01-29T06:00:00Z</DCT> 
-<TITLE type="str">These are 99 of the best breakfasts in Kent - now rate your...</TITLE> 
-</root>
+Now you can click on your favourite to move them up the rankings and crown Kent's favourite breakfast. Read more: Loading...</TEXT>
+</TimeML>

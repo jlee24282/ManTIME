@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Certificate
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695203483233</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Computer science class 12 project on Super Market Billing</TITLE>
+<TEXT>Certificate
  	--Declaration
  	--Acknowledgement
  	--Hardware and software requirements
@@ -10,10 +13,5 @@
  	--Working description
  	--Coding
  	--Output screen
- 	--Bibliography</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695203483233</DOCID> 
-<DCT type="str">2017-01-29T08:16:12Z</DCT> 
-<TITLE type="str">Computer science class 12 project on Super Market Billing</TITLE> 
-</root>
+ 	--Bibliography</TEXT>
+</TimeML>

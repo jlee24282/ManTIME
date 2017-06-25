@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">To read the full article or to get the complete feed from this publication, please Contact Us. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197704348</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Bhubaneswar: Commissionerate Police arrests two accused in connection with Bankuala youth murder case</TITLE>
+<TEXT>To read the full article or to get the complete feed from this publication, please Contact Us. 
 
 HTDS Content Services 
 
@@ -8,7 +11,7 @@ Social Networking
 
 Categories List 
 
-Contact &amp; Support 
+Contact & Support 
 
 HT Media Limited 
 
@@ -18,22 +21,5 @@ Sector-30, Delhi-Jaipur Highway,
 
 Gurgaon - 122001 
 
-: Rajesh Sharma</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Police news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Crime and punishment news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Sports</group> 
-<name type="str">Sports: latest</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197704348</DOCID> 
-<DCT type="str">2017-01-29T07:38:54Z</DCT> 
-<TITLE type="str">Bhubaneswar: Commissionerate Police arrests two accused in connection with Bankuala youth murder case</TITLE> 
-</root>
+: Rajesh Sharma</TEXT>
+</TimeML>

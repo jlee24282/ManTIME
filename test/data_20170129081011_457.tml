@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Building &amp; Construction Minister Nick Smith delivered a comprehensive address this week to a local audience on the steps being taken to improve management of earthquake risks. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695202462713</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Better managing New Zealands earthquake risks</TITLE>
+<TEXT>Building & Construction Minister Nick Smith delivered a comprehensive address this week to a local audience on the steps being taken to improve management of earthquake risks. 
  
-The post appeared first on The Bob Dey Property Report .</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Science</group> 
-<name type="str">Natural disasters news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Oceania latest</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">New Zealand news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695202462713</DOCID> 
-<DCT type="str">2017-01-29T06:20:14Z</DCT> 
-<TITLE type="str">Better managing New Zealand’s earthquake risks</TITLE> 
-</root>
+The post appeared first on The Bob Dey Property Report .</TEXT>
+</TimeML>

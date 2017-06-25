@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">Punjab Chief Minister Shahbaz Sharif has said steps are being taken expeditiously for the uplift of healthcare system. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695195010245</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Steps being taken to improve healthcare system: Shahbaz</TITLE>
+<TEXT>Punjab Chief Minister Shahbaz Sharif has said steps are being taken expeditiously for the uplift of healthcare system. 
  
 He stated this while talking to a high level delegation of Health Ministry of Turkey, led by its Director General Dr Oner Guner, in Lahore. 
  
@@ -10,22 +13,5 @@ The Chief Minister said access to quality medical facilities in hospitals is a r
  
 Dr. Oner Guner said that all-out cooperation will be extended to Punjab for improvement of healthcare system. 
   
-Third-party Ads</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Health care industry news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Industry</group> 
-<name type="str">Healthcare management news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Pakistan news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695195010245</DOCID> 
-<DCT type="str">2017-01-29T07:20:04Z</DCT> 
-<TITLE type="str">Steps being taken to improve healthcare system: Shahbaz</TITLE> 
-</root>
+Third-party Ads</TEXT>
+</TimeML>

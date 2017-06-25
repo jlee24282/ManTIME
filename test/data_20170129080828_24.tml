@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">“Roma are still interested in Godfred Donsah, but Bologna don’t want to sell,” confirmed the midfielder’s agent. 
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197842392</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Donsah: Bologna resist Roma</TITLE>
+<TEXT>Roma are still interested in Godfred Donsah, but Bologna dont want to sell, confirmed the midfielders agent. 
 
 Similar News 
 
@@ -16,14 +19,5 @@ News Agencies
 
 5 days ago |  Ghana Web 
 
-3 days ago |</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Italy news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695197842392</DOCID> 
-<DCT type="str">2017-01-29T07:40:10Z</DCT> 
-<TITLE type="str">Donsah: Bologna resist Roma</TITLE> 
-</root>
+3 days ago |</TEXT>
+</TimeML>

@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">London, Jan 29  
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196634516</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Now print human skin with this 3D bioprinter</TITLE>
+<TEXT>London, Jan 29  
 In a first, scientists have developed a 3D bioprinter that can create functional human skin which is adequate for transplanting to patients or for use in research or the testing of cosmetic, chemical and pharmaceutical products. 
  
 One of the authors, Jose Luis Jorcano from the Universidad Carlos III de Madrid, said this skin replicated the natural structure of the skin with a first external layer, the epidermis with its stratum corneum -- which acts as protection against the external environment -- together with another thicker and deeper layer called the dermis. 
  
 According to the research paper, published in journal Biofabrication, the last layer consists of fibroblasts that produce collagen, the protein that gives elasticity and mechanical strength to the skin. 
  
-Bioinks are key to 3D bioprinting. Juan Francisco del Canizo, a Universidad Complutense de Madrid researcher, said: &quot;Knowing how to mix the biological components, in what conditions to work with them so that the cells don&apos;t deteriorate and how to correctly deposit the product is critical to the system.&quot; 
-The process for producing these tissues can be carried out in two ways: To produce allogeneic skin from a stock of cells, done on a large scale, for industrial processes; and to create autologous skin, which is made case by case from the patient&apos;s own cells, for therapeutic use, such as in the treatment of severe burns. 
+Bioinks are key to 3D bioprinting. Juan Francisco del Canizo, a Universidad Complutense de Madrid researcher, said: "Knowing how to mix the biological components, in what conditions to work with them so that the cells don't deteriorate and how to correctly deposit the product is critical to the system." 
+The process for producing these tissues can be carried out in two ways: To produce allogeneic skin from a stock of cells, done on a large scale, for industrial processes; and to create autologous skin, which is made case by case from the patient's own cells, for therapeutic use, such as in the treatment of severe burns. 
  
-&quot;We use only human cells and components to produce skin that is bioactive and can generate its own human collagen, thereby avoiding the use of the animal collagen that is found in other methods,&quot; the researchers noted. 
+"We use only human cells and components to produce skin that is bioactive and can generate its own human collagen, thereby avoiding the use of the animal collagen that is found in other methods," the researchers noted. 
  
-This method of bioprinting allows skin to be generated in a standardised, automated way and the process is less expensive than manual production.</TEXT> 
-<TOPICS type="list"> 
-</TOPICS> 
-<DOCID type="str">695196634516</DOCID> 
-<DCT type="str">2017-01-29T07:27:01Z</DCT> 
-<TITLE type="str">Now print human skin with this 3D bioprinter</TITLE> 
-</root>
+This method of bioprinting allows skin to be generated in a standardised, automated way and the process is less expensive than manual production.</TEXT>
+</TimeML>

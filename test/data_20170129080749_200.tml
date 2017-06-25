@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<root> 
-<TEXT type="str">COPYRIGHT
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695196714690</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Trudeau To Refugees: 'Canadians Will ...</TITLE>
+<TEXT>COPYRIGHT
 
-Get top stories and blog posts emailed to me each day. Newsletters may offer personalized content or advertisements. Learn more</TEXT> 
-<TOPICS type="list"> 
-<item type="dict"> 
-<group type="str">Society</group> 
-<name type="str">Society news</name> 
-</item> 
-<item type="dict"> 
-<group type="str">Regional</group> 
-<name type="str">Canada news</name> 
-</item> 
-</TOPICS> 
-<DOCID type="str">695196714690</DOCID> 
-<DCT type="str">2017-01-29T07:31:48Z</DCT> 
-<TITLE type="str">Trudeau To Refugees: &apos;Canadians Will ...</TITLE> 
-</root>
+Get top stories and blog posts emailed to me each day. Newsletters may offer personalized content or advertisements. Learn more</TEXT>
+</TimeML>
