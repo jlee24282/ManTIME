@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193964781</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>UK protesters marching on parliament: Hands off our NHS</TITLE>
+
+
+<TEXT>
+A large number of people have <EVENT eid="e1" class="OCCURRENCE">staged</EVENT> a <EVENT eid="e2" class="OCCURRENCE">demonstration</EVENT> in the British capital to <EVENT eid="e3" class="OCCURRENCE">protest</EVENT> against the governments policy on the National Health Service (NHS). 
+ 
+The demonstrators <EVENT eid="e4" class="OCCURRENCE">marched</EVENT> on the parliament in London on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> with placards <EVENT eid="e5" class="OCCURRENCE">reading</EVENT>, Hands off our NHS. 
+ 
+The protesters <EVENT eid="e6" class="OCCURRENCE">chanted</EVENT> slogans likeNo ifs no buts, no NHS cuts outside the parliament building. 
+ 
+One group of demonstrators was <EVENT eid="e7" class="I_ACTION">carrying</EVENT> a fake coffin depicting the NHS logo, and others <EVENT eid="e8" class="OCCURRENCE">held</EVENT> up banners or placards <EVENT eid="e9" class="OCCURRENCE">stating</EVENT> their cause. 
+ 
+The protesters are <EVENT eid="e10" class="STATE">worried</EVENT> about plans by the government of Prime Minister Theresa May to fragment the NHS in order to <EVENT eid="e11" class="OCCURRENCE">sell</EVENT> it off. 
+ 
+They <EVENT eid="e12" class="OCCURRENCE">demanded</EVENT> that the government <EVENT eid="e13" class="OCCURRENCE">rethink</EVENT> its NHS privatization plans amid growing waiting times and slashed resources.  
+ 
+Organizers <EVENT eid="e14" class="REPORTING">said</EVENT> the rally should <EVENT eid="e15" class="OCCURRENCE">serve</EVENT> as a notice to the government that the National Health Service is still a priority matter for the British public. 
+ 
+The UKs Health Campaigns Together 
+  
+Read more
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

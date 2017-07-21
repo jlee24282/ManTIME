@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194076455</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Action (133.31 ft) - Observation - VDSG1 - Withlacoochee River above Valdosta (Skipper Bridge Rd) (Georgia)</TITLE>
+
+
+<TEXT>
+Search by city or zip code. Press enter or <EVENT eid="e1" class="OCCURRENCE">select</EVENT> the go button to <EVENT eid="e2" class="OCCURRENCE">submit</EVENT> request 
+             
+Auto Refresh: OFF  
+     
+Reliability of the Forecast: Based on unobstructed flow NOTE: Forecasts for the Withlacoochee River above Valdosta (Skipper Bridge Rd) are issued as <EVENT eid="e3" class="OCCURRENCE">needed</EVENT> during times of high water, but are not routinely available.Vertical datum height <EVENT eid="e4" class="OCCURRENCE">surveyed</EVENT> by the USGS 
+      Flood Categories (in feet) 
+ Major Flood Stage:  145  Moderate Flood Stage:  142  Flood Stage:  135  Action Stage:  131  Low Stage (in feet):  -9999  
+Historic Crests 
+(1) 153.30 ft on 04/04/1948 
+(2) 146.70 ft on 02/12/1986 
+(3) 145.90 ft on 04/04/2009 
+(4) 144.58 ft on 03/08/1984 
+(5) 142.74 ft on <TIMEX3 tid="t1" type="DATE" value="1991-03-05">03/05/1991</TIMEX3> 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+Recent Crests 
+(1) 132.47 <EVENT eid="e5" class="OCCURRENCE">ft</EVENT> on 09/03/2016 
+(2) 140.32 <EVENT eid="e6" class="OCCURRENCE">ft</EVENT> on 04/04/2016 
+(3) 135.63 <EVENT eid="e7" class="OCCURRENCE">ft</EVENT> on 03/31/2016 
+(4) 133.62 <EVENT eid="e8" class="OCCURRENCE">ft</EVENT> on 02/29/2016 
+(5) 138.59 <EVENT eid="e9" class="OCCURRENCE">ft</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2016-02-07">02/07/2016</TIMEX3> 
+Show More Recent Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+(1) 121.24 ft on 06/12/2000 
+(2) 121.34 ft on 08/29/1996 
+(3) 121.40 ft on 07/16/1988 
+
+   
+Show FEMA's National Flood Hazard Layers 
+   
+FEMA's National Flood Hazard Layers not <EVENT eid="e10" class="OCCURRENCE">showing</EVENT>? 
+  
+Note: Your zoom level may have <EVENT eid="e11" class="OCCURRENCE">changed</EVENT>. ESRI's zoom levels must be between 14 and 16 to <EVENT eid="e12" class="OCCURRENCE">show</EVENT> National Flood Hazard layers. 
+      
+<EVENT eid="e13" class="OCCURRENCE">Zoom</EVENT> Level:14 
+   
+Legend 
+   
+FEMA Layer 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location <EVENT eid="e14" class="OCCURRENCE">shown</EVENT> in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  145  Major flooding in numerous homes. Water will <EVENT eid="e15" class="OCCURRENCE">intrude</EVENT> into YMCA.  144  Water <EVENT eid="e16" class="ASPECTUAL">begins intruding</EVENT> into the lowest level apartments in the back portion of the Links Apartment Complex on North Valdosta Road.  142  Skipper Bridge Road floods near Coppage Road, Adams Road, Rowland Road, and Rowland Lane. Additional roads downstream may flood within <TIMEX3 tid="t3" type="DURATION" value="P2D">the next 2 to 3 days</TIMEX3>.  140  Highway 122 east <EVENT eid="e17" class="OCCURRENCE">flooded</EVENT> near bridge. Water intrudes into backyards along Winding Way, Park Lane, and Meadowbrook Drive.  135  Minor flooding <EVENT eid="e18" class="OCCURRENCE">begins</EVENT>. Langdale Park floods.  Photos 
+(1) Withlacoochee River near Valdosta - KML 
+  
+Latitude: 30.947222 N, Longitude: 83.272778 W, Horizontal Datum: NAD83/WGS84 
+ River Stage 
+Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  120.3 ft  135 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
+(gauge height = 120.3)  Elevation 
+(gauge height = flood stage)  Elevation information source  NAVD88  120.3  135  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  15  Old gage zero flood stage.  
+Current/Historical Observations: 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please <EVENT eid="e19" class="OCCURRENCE">click</EVENT> here .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="BEFORE" />
+</TimeML>

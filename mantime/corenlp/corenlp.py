@@ -243,12 +243,19 @@ def parse_parser_xml_results(xml, file_name="", raw_output=False):
 
     # Turning the raw xml into a raw python dictionary:
     raw_dict = xmltodict.parse(xml)
+    print 'raw dict'+str(raw_dict)
+    print 'xml raw' + str(xml)
     if raw_output:
         return xml
 
     document = raw_dict[u'root'][u'document']
 
     # Making a raw sentence list of dictionaries:
+    # print str(xml)
+    # print str(document)
+    # print str(raw_dict)
+    # print str(document[u'sentences'])
+
     raw_sent_list = document[u'sentences'][u'sentence']
 
     if document.get(u'coreference') and document[u'coreference'].get(u'coreference'):
@@ -398,6 +405,7 @@ def parse_xml_output(input_dir, corenlp_path=DIRECTORY, memory="3g", raw_output=
                 #                                        raw_output=raw_output))
                 yield parse_parser_xml_results(xml.read(), file_name,
                                                raw_output=raw_output)
+                xml.close()
     finally:
         file_list.close()
         shutil.rmtree(xml_dir)

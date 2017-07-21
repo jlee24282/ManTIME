@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>695197818435</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+<TITLE>Water, Vol. 9, Pages 76: Assessment of Optional Sediment Transport Functions via the Complex Watershed Simulation Model SWAT</TITLE>
+<TEXT>
+Open Access Article 
+ 
+Water  2017 , 9 (2), 76; doi:10.3390/w9020076 (registering DOI) 1, * ,  ShenglanLu  2  ,  QingyuFeng  3  ,  RuoyuWang  4  ,  JungangGao  1  ,  DawnMichelleBrady  5  ,  AmirrezaSharifi  6  ,  JungkyuAhn  7  ,  Shien-TsungChen  8  ,  JaehakJeong  1  ,  MichaelJamesWhite  9  and  JeffreyGeorgeArnold  9      
+1 
+ 
+Blackland Research and Extension Center, Texas A&M University, 720 East Blackland Road, Temple, TX 76502, USA 
+   
+2 
+ 
+Department of Bioscience, Aarhus University, Vejlsvej 27, 8600 Silkeborg, Denmark 
+   
+3 
+ 
+Department of Agricultural and Biological Engineering, Purdue University, Hovde Hall, 610 Purdue Mall, West Lafayette, IN 47907, USA 
+   
+4 
+ 
+Integrated Environmental Modeling Branch, United States Environmental Protection Agency, Raleigh, NC 27695, USA 
+   
+5 
+ 
+Aqua-Aerobic Systems, Inc., 6306 N Alpine Rd, Loves Park, IL 61111, USA 
+   
+6 
+ 
+Department of Environmental Science and Technology, University of Maryland, College Park, MD 20742, USA 
+   
+7 
+ 
+Department of Civil and Environmental Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 151-742, Korea 
+   
+8 
+ 
+Department of Water Resources Engineering and Conservation, Feng Chia University, Taichung City 40724, Taiwan 
+   
+9 
+ 
+Grassland, Soil & Water Research Laboratory, United States Department of Agriculture Agricultural Research Service, 808 East Blackland Road, Temple, TX 76502, USA 
+    
+* 
+ 
+Author to whom correspondence should be addressed. 
+   
+Academic Editor: Marco Franchini 
+ 
+Received: 3 October 2016 / Revised: 13 January 2017 / Accepted: 18 January 2017 / Published: 29 January 2017 
+ 
+No 
+   The Soil and Water Assessment Tool 2012 (SWAT2012) offers four sediment routing methods as optional alternatives to the default simplified Bagnold method. Previous studies compared only one of these alternative sediment routing methods with the default method. The proposed study evaluated the impacts of all four alternative sediment transport methods on sediment predictions: the modified Bagnold equation, the Kodoatie equation, the Molinas and Wu equation, and the Yang equation. The Arroyo Colorado Watershed, Texas, USA, was first calibrated for daily flow. The sediment parameters were then calibrated to monthly sediment loads, using each of the four sediment routing equations. An automatic calibration toolIntegrated Parameter Estimation and Uncertainty Analysis Tool (IPEAT)was used to fit model parameters. The four sediment routing equations yielded substantially different sediment sources and sinks. The Yang equation performed best, followed by Kodoatie, Bagnold, and Molinas and Wu equations, according to greater model goodness-of-fit (represented by higher NashSutcliffe Efficiency coefficient and percent bias closer to 0) as well as lower model uncertainty (represented by inclusion of observed data within 95% confidence interval). Since the default method (Bagnold) does not guarantee the best results, modelers should carefully evaluate the selection of alternative methods before conducting relevant studies or engineering projects. View Full-Text    Figures  ---                                                    
+                            ---                                                    
+                            ---                                                    
+                            ---                                                    
+                            ---                                                    
+]]>   This is an open access article distributed under the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. (CC BY 4.0).    Never miss any articles matching your research from any publisher  Get alerts for new papers matching your research  Find out the new papers from selected authors  Updated daily for 49'000+ journals and 6000+ publishers  Define your Scifeed now     
+MDPI and ACS Style 
+ 
+Yen, H.; Lu, S.; Feng, Q.; Wang, R.; Gao, J.; Brady, D.M.; Sharifi, A.; Ahn, J.; Chen, S.-T.; Jeong, J.; White, M.J.; Arnold, J.G. Assessment of Optional Sediment Transport Functions via the Complex Watershed Simulation Model SWAT. Water  2017 , 9 , 76. 
+ AMA Style 
+Yen H, Lu S, Feng Q, Wang R, Gao J, Brady DM, Sharifi A, Ahn J, Chen S-T, Jeong J, White MJ, Arnold JG. Assessment of Optional Sediment Transport Functions via the Complex Watershed Simulation Model SWAT. Water . 2017; 9(2):76. 
+ Chicago/Turabian Style 
+Yen, Haw; Lu, Shenglan; Feng, Qingyu; Wang, Ruoyu; Gao, Jungang; Brady, Dawn M.; Sharifi, Amirreza; Ahn, Jungkyu; Chen, Shien-Tsung; Jeong, Jaehak; White, Michael J.; Arnold, Jeffrey G. 2017. "Assessment of Optional Sediment Transport Functions via the Complex Watershed Simulation Model SWAT." Water 9, no. 2: 76. 
+  
+Show more citation formats  Show less citations formats 
+  
+Note that from the first issue of 2016, MDPI journals use article numbers instead of page numbers. See further details here .
+</TEXT>
+</TimeML>

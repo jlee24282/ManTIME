@@ -60,24 +60,40 @@ def main():
         mantime.train(args.input_folder)
     else:
         # Testing
+
         print 'mantime.py args inputfolder: ' + args.input_folder
         assert os.path.exists(args.input_folder), 'Model not found.'
         input_files = os.path.join(args.input_folder, '*.*')
         documents = sorted(glob.glob(input_files))
         assert documents, 'Input folder is empty.'
         for index, doc in enumerate(documents, start=1):
+
             basename = os.path.basename(doc)
             writein = os.path.join('./output/', basename)
             position = '[{}/{}]'.format(index, len(documents))
             # if writein not in glob.glob('./output/*.*'):
             file_path = '.'.join(writein.split('.')[:-1])
-            print file_path
-            with codecs.open(file_path, 'w', encoding='utf8') as output:
+            file_path = file_path + '.tml'
+
+            if os.path.exists(file_path):
+                if os.stat(file_path).st_size > 0:
+                    pass
+                else:
+                    with codecs.open(file_path, 'w', encoding='utf8') as output:
+                        logging.info('{} Doc {}.'.format(position, basename))
+                        output.write(mantime.label(doc)[0])
+                        logging.info('{} Doc {} annotated.'.format(position,
+                                                                   basename))
+                        output.close()
+            else:
+                with codecs.open(file_path, 'w', encoding='utf8') as output:
                 # try:
                     logging.info('{} Doc {}.'.format(position, basename))
                     output.write(mantime.label(doc)[0])
                     logging.info('{} Doc {} annotated.'.format(position,
                                                                basename))
+                    output.close()
+
                 # except Exception:
                     # logging.error('{} Doc {} ** skipped **!'.format(
                     #     position, basename))
@@ -85,6 +101,7 @@ def main():
             # else:
             #     logging.info('{} Doc {} already in output folder.'.format(
             #         position, basename))
+
 
 if __name__ == '__main__':
     main()

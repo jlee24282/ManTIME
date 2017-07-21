@@ -73,7 +73,10 @@ class BatchedCoreNLP(object):
         hash_value = str(hash(text))
         dest_file = os.path.join(os.path.abspath(folder), hash_value)
         try:
-            return cPickle.load(open(dest_file))
+            destfile = open(dest_file)
+            pickleLoad = cPickle.load(destfile)
+            destfile.close()
+            return pickleLoad
         except IOError:
             return self._parse(text, dest_file)
 
@@ -86,12 +89,17 @@ class BatchedCoreNLP(object):
         dirname = tempfile.mkdtemp()
         with tempfile.NamedTemporaryFile('w', dir=dirname, delete=False) as f:
             filename = f.name
+            f.close()
         with codecs.open(filename, 'w', encoding='utf8') as tmp:
             tmp.write(text)
             tmp.flush()
+            #print str(text)
             result = batch_parse(os.path.dirname(tmp.name), self.folder)
             result = list(result)[0]
-        cPickle.dump(result, open(dest_file, 'w'))
+            tmp.close()
+        destfile = open(dest_file, 'w')
+        cPickle.dump(result, destfile)
+        destfile.close()
         return result
 
 
@@ -133,6 +141,7 @@ class TextReader(Reader):
             tmp_file.write('<TEXT>\n')
             tmp_file.write(cgi.escape(text, True))
             tmp_file.write('</TEXT>\n</TimeML>')
+            tmp_file.close()
         tempeval_parser = TempEval3FileReader()
         return tempeval_parser.parse(filename)
 
@@ -165,7 +174,12 @@ class TempEval3FileReader(FileReader):
         assert os.path.isfile(file_path), 'File path does not exist!'
         logging.info('Document {}: parsing...'.format(
             os.path.relpath(file_path)))
-        xml = etree.parse(file_path)
+
+
+        f = open(file_path, 'r')
+        xml = etree.parse(f)
+        f.close()
+        #xml = etree.parse(file_path)
         docid = xml.findall(".//DOCID")[0]
         dct = xml.findall(".//TIMEX3[@functionInDocument='CREATION_TIME']")[0]
         try:
@@ -229,6 +243,7 @@ class TempEval3FileReader(FileReader):
         document.store_gold_annotations()
         document.complete_structure()
         logging.info('Document {}: parsed.'.format(os.path.relpath(file_path)))
+        f.close()
         return document
 
     def _get_annotations(self, source, dct, event_instances, xml, document):
@@ -358,7 +373,10 @@ class WikiWarsInLineFileReader(FileReader):
 
         """
         assert os.path.isfile(file_path), 'File path does not exist!'
-        xml = etree.parse(file_path)
+
+        f = open(file_path)
+        xml = etree.parse(f)
+        f.close()
         docid = xml.findall(".//DOCID")[0]
         dct = xml.findall(".//DATETIME/TIMEX2")[0]
         title = docid
@@ -477,7 +495,9 @@ class i2b2FileReader(FileReader):
         assert os.path.isfile(file_path), 'File path does not exist!'
         logging.info('Document {}: parsing...'.format(
             os.path.relpath(file_path)))
-        xml = etree.parse(file_path)
+        f = open(file_path)
+        xml = etree.parse(f)
+        f.close
         text_node = xml.findall(".//TEXT")[0]
         text_string = etree.tostring(text_node, method='text', encoding='utf8')
         text_xml = etree.tostring(text_node, method='xml', encoding='utf8')

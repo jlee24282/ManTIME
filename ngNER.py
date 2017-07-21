@@ -3,6 +3,12 @@ import json
 import glob
 import csv
 import dicttoxml
+import re
+
+from xml.sax.saxutils import escape
+from bs4 import BeautifulSoup
+
+import xml.etree.cElementTree as etree
 
 def jsonToData():
     # Attributes
@@ -13,7 +19,7 @@ def jsonToData():
     flag21 = False
     lenList = []
     # get files that contains string BringBackOurGIrls2
-    for files in glob.glob("test/samples/data*"):
+    for files in glob.glob("samples/data*"):
         f = open(files, 'r')
         lines = f.readlines()
 
@@ -35,7 +41,7 @@ def jsonToTml():
     rawDataAll = []
     lenList = []
     # get files that contains string BringBackOurGIrls2
-    for files in glob.glob("test/samples/data*"):
+    for files in glob.glob("samples/data*"):
         f = open(files, 'r')
         lines = f.readlines()
 
@@ -75,11 +81,12 @@ def main():
     xml = json2xml(jline, '\n')
     print xml
     """
-    for files in glob.glob("test/samples/data*"):
+    error = 0
+    for files in glob.glob("samples/*"):
         f = open(files, 'r')
         lines = f.readlines()
         rawDataAll = []
-        inFileName = files.replace('test/samples/', '')
+        inFileName = files.replace('samples/', 'dataCleaned/')
         print inFileName
         jNum = 0
         for line in lines:
@@ -91,21 +98,26 @@ def main():
             topics_tmp = jline['topics']
             estimatedPublishedDate_tmp = jline['estimatedPublishedDate']
             content_tmp = jline['content']
+            #content_tmp=re.sub("[^0-9a-zA-Z<>/\s=!-\"\"]+"," ", content_tmp)
             # jline.clear()
             # jline['TEXT'] = content_tmp
             # jline['TITLE'] = title_tmp
             # jline['DCT'] = estimatedPublishedDate_tmp
             # jline['DOCID'] = sequenceID_tmp
             months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-            print estimatedPublishedDate_tmp[0:10]
+            #print estimatedPublishedDate_tmp[0:10]
             readfile = ""
 
-            with open("/Users/JLee/PycharmProjects/ManTIME/test/template.tml") as f:
+            with open("./test/template/template.tml") as f:
                 readfile = "".join(f.readlines())
-                print sequenceID_tmp
+                #print sequenceID_tmp
                 readfile = readfile.replace("#id", sequenceID_tmp)
+
+                title_tmp = re.sub("[^a-zA-Z0-9]+", " ", title_tmp)
                 readfile = readfile.replace("#title", title_tmp)
-                readfile = readfile.replace("#text", content_tmp)
+
+                content_tmp = re.sub("[^a-zA-Z0-9]+", " ", content_tmp)
+                readfile = readfile.replace("#text", escape(content_tmp))
                 readfile = readfile.replace("2013-03-22", estimatedPublishedDate_tmp[0:10])
                 date = str(estimatedPublishedDate_tmp[0:10])
                 month = months[int(float(str(estimatedPublishedDate_tmp[0:10]).split("-")[1]))-1]
@@ -114,35 +126,24 @@ def main():
             outFile = inFileName.replace('.txt', '_'+str(jNum)+'.tml')
             # print outFile
             jNum = jNum + 1
-            outfile = open('test/'+outFile, 'w')
             # readfile = readfile.replace(u"\u2018", "'").replace(u"\u2019", "'").replace(u'\xa0', u' ').replace(u'\u201c', u'')
 
-
-            udata = readfile.encode("ascii", "ignore")
-
+            #write outfile
+            outfile = open(outFile, 'w')
+            udata = readfile.encode("utf-8", "ignore")
             outfile.write(udata)
             outfile.close()
 
 
-
-
-
-
-
-            #jline['TOPICS'] = topics_tmp
-
-            #print jline
-            # articleInfo = jline
-            # xml = dicttoxml.dicttoxml(articleInfo).replace('root', 'TimeML')
-            # xml = xml.replace('><', '> \n<')
-            # xml = xml.replace('</TIMEX> \n<', '><').replace(' \n<TIMEX', '<TIMEX').replace('></DCT>', '</DCT>')
-            # xml = xml.replace('<TIMEX type="str">', '<TIMEX type="DATE" temporalFunction="false" functionInDocument="CREATION_TIME">')
-            # outFile = inFileName.replace('.txt', '_'+str(jNum)+'.tml')
-            # # print outFile
-            # jNum = jNum + 1
-            # outfile = open('test/'+outFile, 'w')
-            # outfile.write(xml)
-            # outfile.close()
+            xml = ''
+            try:
+                checkfile = open(outFile, 'r')
+                xml = etree.parse(checkfile)
+                checkfile.close()
+            except:
+                print 'error' + str(error)
+                error += 1
+                #print readfile
         f.close()
 
 

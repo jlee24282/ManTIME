@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193912834</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Thousands gather at Chicago in'l airport to protest against Trump's "Muslim ban"</TITLE>
+
+
+<TEXT>
+More than 1,000 people <EVENT eid="e1" class="OCCURRENCE">gathered</EVENT> at the international terminal of Chicago's O'Hare airport <TIMEX3 tid="t1" type="TIME" value="2017-01-28TNI">Saturday night</TIMEX3> to protest against what is known as President Donald Trump's "Muslim ban."
+
+Protesters <EVENT eid="e2" class="ASPECTUAL">started gathering</EVENT> at O'Hare's Terminal 5 in <TIMEX3 tid="t2" type="TIME" value="2017-01-29TAF">the late afternoon</TIMEX3>, and their number <EVENT eid="e3" class="ASPECTUAL">kept growing</EVENT> until more than 1,000 of them <EVENT eid="e4" class="OCCURRENCE">blocked</EVENT> the driveway outside the terminal.
+
+The crowd <EVENT eid="e5" class="OCCURRENCE">chanted</EVENT> slogans like "Let them in" and "No hate, no fear, refugees are welcome here" and held signs that read "Do the right thing, let them in," "<EVENT eid="e6" class="ASPECTUAL">Stop profiling</EVENT> Muslims" and "Refugees Welcome."
+
+Police and law enforcement members were present at the scene but were careful not to <EVENT eid="e7" class="OCCURRENCE">intervene</EVENT>. Traffic <EVENT eid="e8" class="OCCURRENCE">came</EVENT> to a complete stop as vehicles <EVENT eid="e9" class="OCCURRENCE">lined</EVENT> up on the driveway <EVENT eid="e10" class="OCCURRENCE">leading</EVENT> to the terminal.
+
+<EVENT eid="e11" class="REPORTING">According</EVENT> to local WGN-TV, earlier <TIMEX3 tid="t3" type="DATE" value="X">this</TIMEX3> afternoon several local groups <EVENT eid="e12" class="I_ACTION">called</EVENT> for an "emergency solidarity rally" in response to Trump's signing of an executive order that includes a <TIMEX3 tid="t4" type="DURATION" value="P90D">90-day</TIMEX3> ban on travel to the United States by <EVENT eid="e13" class="OCCURRENCE">citizens</EVENT> of seven Muslim-majority countries and a <TIMEX3 tid="t5" type="DURATION" value="P4M">four-month</TIMEX3> suspension of the U.S. refugee program.
+
+The measure has <EVENT eid="e14" class="OCCURRENCE">triggered</EVENT> confusion and chaos across the country and <EVENT eid="e15" class="OCCURRENCE">drawn</EVENT> concern and criticism from across the world. Similar protests have <EVENT eid="e16" class="OCCURRENCE">erupted</EVENT> at airports in many other cities.
+
+Since the executive order <EVENT eid="e17" class="OCCURRENCE">took</EVENT> effect, as many as 18 people were <EVENT eid="e18" class="OCCURRENCE">believed</EVENT> to have been <EVENT eid="e19" class="OCCURRENCE">detained</EVENT> at O'Hare alone, some of them being green card holders with Muslim backgrounds, local daily Chicago Tribune <EVENT eid="e20" class="REPORTING">reported</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

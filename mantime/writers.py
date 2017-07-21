@@ -104,7 +104,7 @@ class TempEval3Writer(FileWriter):
                               'temporalFunction="false" functionInDocument="' +
                               'CREATION_TIME">{}</TIMEX3></DCT>\n'
                               ).format(document.dct, document.dct_text))
-            output.append(u'<TITLE>{}</TITLE>\n\n'.format(document.title))
+            output.append(u'<TITLE>{}</TITLE>\n\n'.format(unicode(document.title, 'utf-8')))
 
             text = list(document.text)
             # TO-DO: This works properly only for IO annotation schema!
@@ -114,12 +114,14 @@ class TempEval3Writer(FileWriter):
                 # sostituisco il pezzetto nel testo con la stringa annotata
                 if isinstance(element, TemporalExpression):
                     if element.mod:
+                        #print str(**element.__dict__)
                         annotation = str('<TIMEX3 tid="{idx}" ' +
                                          'type="{ttype}" ' +
                                          'mod="{mod}" value="{value}">' +
                                          '{text}</TIMEX3>').format(
                             **element.__dict__)
                     else:
+                        #print str(**element.__dict__)
                         annotation = str('<TIMEX3 tid="{idx}" ' +
                                          'type="{ttype}" ' +
                                          'value="{value}">' +
@@ -127,6 +129,7 @@ class TempEval3Writer(FileWriter):
                             **element.__dict__)
                     text[element.start + document.text_offset] = annotation
                 elif isinstance(element, Event):
+                    #print str(**element.__dict__)
                     annotation = str('<EVENT eid="{idx}" class="{eclass}">' +
                                      '{text}</EVENT>').format(
                                          **element.__dict__)

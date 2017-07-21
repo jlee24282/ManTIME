@@ -20,13 +20,16 @@ import cPickle
 import glob
 import logging
 import os
+import json
 import xml.etree.cElementTree as cElementTree
 
 from classifier import IdentificationClassifier
 from classifier import NormalisationClassifier
 from classifier import RelationClassifier
 from settings import PATH_MODEL_FOLDER
-
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 class ManTIME(object):
 
@@ -51,7 +54,7 @@ class ManTIME(object):
 
     def train(self, folder):
         folder = os.path.abspath(folder)
-        print '[mantime/mantime.py] folder: ' + folder
+        #print '[mantime/mantime.py] folder: ' + folder
         assert os.path.isdir(folder), 'Folder doesn\'t exist.'
 
         identifier = IdentificationClassifier()
@@ -61,18 +64,21 @@ class ManTIME(object):
         # corpus collection
         input_files = os.path.join(folder, self.reader.file_filter)
         documents = sorted(glob.glob(input_files))
+
         for index, input_file in enumerate(documents, start=1):
             basename = os.path.basename(input_file)
             position = '[{}/{}]'.format(index, len(documents))
             try:
                 logging.info('{} Doc {}.'.format(position, basename))
+                #print 'test 1 '
                 doc = self.extractor.extract(self.reader.parse(input_file))
+                #print 'Test doc: ' + str(doc)
                 self.documents.append(doc)
             except cElementTree.ParseError:
+            #except:
                 msg = '{} Doc {} skipped: parse error.'.format(position,
                                                                basename)
                 logging.error(msg)
-
         # training models (identification and normalisation)
         modl = identifier.train(self.documents, self.model_name)
         modl = normaliser.train(self.documents, modl)
@@ -84,6 +90,8 @@ class ManTIME(object):
         return modl
 
     def label(self, input_obj):
+        #print str(self.model)
+        #print "input obj: " + str(input_obj)
         # according to the type
         assert self.model, 'Model not loaded.'
 
@@ -93,15 +101,46 @@ class ManTIME(object):
 
         try:
             doc = self.extractor.extract(self.reader.parse(input_obj))
-            annotated_doc = identifier.test([doc], self.model,
-                                            self.post_processing_pipeline)
+            annotated_doc = identifier.test([doc], self.model, self.post_processing_pipeline)
             annotated_doc = normaliser.test([doc], self.model, self.domain)
             annotated_doc = linker.test([doc], self.model)
 
+            #annotated_doc = json.loads(str = str(annotated_doc).encode('ascii', 'ignore').decode('ascii', 'ignore'))
             output = self.writer.write(annotated_doc)
             return output
+
         except cElementTree.ParseError:
             msg = 'Document {} skipped: parse error.'.format(
+                os.path.relpath(input_obj))
+            logging.error(msg)
+            return ['']
+
+        except TypeError:
+            msg = 'Document {} skipped: TypeError.'.format(
+                os.path.relpath(input_obj))
+            logging.error(msg)
+            return ['']
+
+        except UnicodeEncodeError:
+            #print str(annotated_doc)
+            try:
+                doc = self.extractor.extract(self.reader.parse(input_obj))
+                annotated_doc = identifier.test([doc], self.model, self.post_processing_pipeline)
+                annotated_doc = normaliser.test([doc], self.model, self.domain)
+                annotated_doc = linker.test([doc], self.model)
+
+                annotated_doc = json.loads(str = str(annotated_doc).encode('ascii', 'ignore').decode('ascii', 'ignore'))
+                output = self.writer.write(annotated_doc)
+                return output
+            except:
+                msg = 'Document {} skipped: Unicode Error.'.format(os.path.relpath(input_obj))
+                logging.error(msg)
+                return ['']
+
+
+        except RuntimeError:
+            #print str(annotated_doc)
+            msg = 'Document {} skipped: Unicode Error.'.format(
                 os.path.relpath(input_obj))
             logging.error(msg)
             return ['']
