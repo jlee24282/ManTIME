@@ -186,9 +186,12 @@ class TempEval3FileReader(FileReader):
             title = xml.findall(".//DOCID")[0]
         text_node = xml.findall(".//TEXT")[0]
 
-
-        if text_node.text == '\n \n' or text_node.text == '\n\n':
+        if not text_node.text.strip():
             text_node.text = '\n _ \n'
+
+
+        # if text_node.text == '\n \n' or text_node.text == '\n\n':
+        #     text_node.text = '\n _ \n'
         text_string = etree.tostring(text_node, method='text', encoding='utf8')
         text_xml = etree.tostring(text_node, method='xml', encoding='utf8')
         text_string = unicode(text_string, 'UTF-8')
