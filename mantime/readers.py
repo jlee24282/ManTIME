@@ -186,6 +186,7 @@ class TempEval3FileReader(FileReader):
             title = xml.findall(".//DOCID")[0]
         text_node = xml.findall(".//TEXT")[0]
 
+        #if text is empty, put _
         if not text_node.text.strip():
             text_node.text = '\n _ \n'
 
