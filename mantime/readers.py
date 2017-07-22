@@ -175,11 +175,9 @@ class TempEval3FileReader(FileReader):
         logging.info('Document {}: parsing...'.format(
             os.path.relpath(file_path)))
 
-
         f = open(file_path, 'r')
         xml = etree.parse(f)
         f.close()
-        #xml = etree.parse(file_path)
         docid = xml.findall(".//DOCID")[0]
         dct = xml.findall(".//TIMEX3[@functionInDocument='CREATION_TIME']")[0]
         try:
@@ -187,6 +185,10 @@ class TempEval3FileReader(FileReader):
         except IndexError:
             title = xml.findall(".//DOCID")[0]
         text_node = xml.findall(".//TEXT")[0]
+
+
+        if text_node.text == '\n \n' or text_node.text == '\n\n':
+            text_node.text = '\n _ \n'
         text_string = etree.tostring(text_node, method='text', encoding='utf8')
         text_xml = etree.tostring(text_node, method='xml', encoding='utf8')
         text_string = unicode(text_string, 'UTF-8')
