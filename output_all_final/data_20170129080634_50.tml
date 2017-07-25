@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193858551</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Julie Jason's Your Money New report examines how people handle 401ks and IRAs</TITLE>
+
+
+<TEXT>
+If you have been <EVENT eid="e1" class="OCCURRENCE">following</EVENT> the debate on extending fiduciary rules to IRAs, you'll be interested in a report issued <TIMEX3 tid="t1" type="DATE" value="2017-W01">two weeks ago</TIMEX3> by the Investment Company Institute.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197425927</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Prabowo to appear at Anies-Sandiaga mass event in South Jakarta</TITLE>
+
+
+<TEXT>
+Gerindra Party chairman Prabowo Subianto is <EVENT eid="e1" class="I_STATE">scheduled</EVENT> to <EVENT eid="e2" class="OCCURRENCE">attend</EVENT> the first mass campaign event of Jakarta gubernatorial candidate pair Anies Baswedan and Sandiaga Uno at Soemantri Brodjonegoro Sports Stadium on Jl. HR Rasuna Said, South Jakarta, on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+Hundreds of Anies-Sandiaga supporters have <EVENT eid="e3" class="OCCURRENCE">flocked</EVENT> to the stadium since <TIMEX3 tid="t2" type="DATE" value="2017-01-29TMO">early morning</TIMEX3>. It will be the first Anies-Sandiaga campaign event <EVENT eid="e4" class="OCCURRENCE">attended</EVENT> by Prabowo, whose party Gerindra, together with the Justice and Prosperous Party (PKS), have <EVENT eid="e5" class="OCCURRENCE">endorsed</EVENT> the pair. 
+ 
+PKS chairman Muhammad Shohibul Iman is also <EVENT eid="e6" class="OCCURRENCE">scheduled</EVENT> to be at the event in which it is <EVENT eid="e7" class="OCCURRENCE">estimated</EVENT> 15,000 supporters will <EVENT eid="e8" class="OCCURRENCE">attend</EVENT>. 
+ 
+ Pak Prabowo, Pak Shohibul Iman and other PKS executive members will be present, Jakarta chapter PKS chairman Syakir Purnomo <EVENT eid="e9" class="REPORTING">told</EVENT> reporters. 
+ 
+Anies and Sandiaga are <EVENT eid="e10" class="OCCURRENCE">scheduled</EVENT> to campaign in five different places on <TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3> but the main event will be at the stadium. 
+ 
+Syakir <EVENT eid="e11" class="REPORTING">said</EVENT> only Sandiaga would <EVENT eid="e12" class="OCCURRENCE">attend</EVENT> the event at Soemantri stadium because Anies would be <EVENT eid="e13" class="OCCURRENCE">campaigning</EVENT> in other places. 
+ 
+Anies and Sandiaga would <EVENT eid="e14" class="OCCURRENCE">appear</EVENT> together in the next mass campaign event <EVENT eid="e15" class="OCCURRENCE">scheduled</EVENT> for <TIMEX3 tid="t4" type="DATE" value="2017-02-05">Feb. 5</TIMEX3>, <TIMEX3 tid="t5" type="DURATION" value="P10D">10 days</TIMEX3> before <EVENT eid="e16" class="OCCURRENCE">voting</EVENT> <TIMEX3 tid="t6" type="DURATION" value="PXD">day</TIMEX3> on <TIMEX3 tid="t7" type="DATE" value="2017-02-15">Feb. 15</TIMEX3>, he <EVENT eid="e17" class="REPORTING">added</EVENT>. (ebf) 
+  You might also like
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t6" relatedToEventInstance="ie17" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t5" relatedToTime="t4" relType="INCLUDES" />
+<TLINK lid="TL14" timeID="t5" relatedToTime="t6" relType="BEFORE" />
+<TLINK lid="TL13" timeID="t5" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t5" relatedToEventInstance="ie17" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t5" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t6" relatedToTime="t7" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie16" relatedToTime="t6" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="BEFORE" />
+<TLINK lid="TL9" timeID="t6" relatedToEventInstance="ie16" relType="INCLUDES" />
+</TimeML>

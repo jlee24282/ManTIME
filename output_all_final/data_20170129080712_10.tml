@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194981919</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Professor in HC for acceptance of resignation by IIT Kharagpur</TITLE>
+
+
+<TEXT>
+Delhi High Court has <EVENT eid="e1" class="REPORTING">sought</EVENT> responses of the Centre, CVC and IIT Kharagpur on a plea by one its professors who had <EVENT eid="e2" class="OCCURRENCE">highlighted</EVENT> discrepancies in the Joint Entrance Examination system, that the institute be <EVENT eid="e3" class="I_STATE">directed</EVENT> to <EVENT eid="e4" class="OCCURRENCE">accept</EVENT> his <EVENT eid="e5" class="OCCURRENCE">resignation</EVENT> as he has been <EVENT eid="e6" class="OCCURRENCE">offered</EVENT> a teaching position at the Jawaharlal Nehru University (JNU). Justice Sanjeev Sachdeva <EVENT eid="e7" class="OCCURRENCE">issued</EVENT> notice to the Centre, Central Vigilance Commission and the institute, seeking their replies by <TIMEX3 tid="t1" type="DATE" value="2017-02-07">February 7</TIMEX3> on the application of professor Rajeev Kumar, who also <EVENT eid="e8" class="OCCURRENCE">claims</EVENT> to <EVENT eid="e9" class="STATE">be</EVENT> a whistleblower and RTI activist. The application was <EVENT eid="e10" class="OCCURRENCE">filed</EVENT> by Kumar, who has been <EVENT eid="e11" class="OCCURRENCE">praised</EVENT> by Supreme Court for <EVENT eid="e12" class="OCCURRENCE">improving</EVENT> the Joint Entrance Examination system, in his <TIMEX3 tid="t2" type="DATE" value="2012">2012</TIMEX3> petition in which he had <EVENT eid="e13" class="OCCURRENCE">alleged</EVENT> inaction by the government in <EVENT eid="e14" class="OCCURRENCE">protecting</EVENT> him from <EVENT eid="e15" class="OCCURRENCE">victimisation</EVENT> as per the Whistleblower Gazette Resolution <TIMEX3 tid="t3" type="DATE" value="2004">2004</TIMEX3>. He has <EVENT eid="e16" class="I_ACTION">claimed</EVENT> that IIT Kharagpur did not <EVENT eid="e17" class="OCCURRENCE">accept</EVENT> his resignation as his petition was still <EVENT eid="e18" class="OCCURRENCE">pending</EVENT> in court which had on <TIMEX3 tid="t4" type="DATE" value="2013-03-21">March 21, 2013</TIMEX3> <EVENT eid="e19" class="OCCURRENCE">put</EVENT> on ...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie16" relatedToEventInstance="ie19" relType="BEFORE" />
+<TLINK lid="TL14" timeID="t2" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL13" timeID="t2" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t2" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t4" relatedToEventInstance="ie18" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t4" relatedToEventInstance="ie19" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToEventInstance="ie13" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="BEFORE" />
+<TLINK lid="TL7" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="BEFORE" />
+<TLINK lid="TL5" eventInstanceID="ie13" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie10" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="BEFORE" />
+<TLINK lid="TL9" eventInstanceID="ie3" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+</TimeML>

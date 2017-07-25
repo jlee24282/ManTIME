@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196891501</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Blaze at Lincoln home claims life of one person - two others...</TITLE>
+
+
+<TEXT>
+People have spoken of their shock after a person was <EVENT eid="e1" class="OCCURRENCE">killed</EVENT> in a house fire in Lincoln in the <TIMEX3 tid="t1" type="DATE" value="X">early</TIMEX3> hours of <TIMEX3 tid="t2" type="DATE" value="2017-01-28">today</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2017-01-28">January 28</TIMEX3>.
+
+One resident <EVENT eid="e2" class="REPORTING">described</EVENT> seeing the glow of the fire and then <EVENT eid="e3" class="OCCURRENCE">hearing</EVENT> a loud bang from the terraced house in Derwent Street, off Carholme Road, after the fire <EVENT eid="e4" class="OCCURRENCE">took</EVENT> hold at about 4am.
+
+Two people <EVENT eid="e5" class="OCCURRENCE">escaped</EVENT> from the house before the emergency services were on the scene but a third person <EVENT eid="e6" class="OCCURRENCE">died</EVENT>. A neighbour <EVENT eid="e7" class="REPORTING">told</EVENT> Lincolnshire Live: "I had just <EVENT eid="e8" class="OCCURRENCE">come</EVENT> back from a night out and a woman <EVENT eid="e9" class="OCCURRENCE">came</EVENT> out of the property and <EVENT eid="e10" class="OCCURRENCE">asked</EVENT> for my phone to <EVENT eid="e11" class="OCCURRENCE">call</EVENT> the fire brigade.
+
+"I <EVENT eid="e12" class="OCCURRENCE">stayed</EVENT> with her until the police <EVENT eid="e13" class="ASPECTUAL">came</EVENT>. The house was glowing from the fire inside and there was a loud bang at one point."
+
+Detectives have <TIMEX3 tid="t5" type="DATE" value="2017-01-28">today</TIMEX3> been <EVENT eid="e14" class="I_ACTION">making</EVENT> house to <EVENT eid="e15" class="OCCURRENCE">house</EVENT> enquires while forensics officers, fire service dogs and fire investigators have been at the property.
+
+Fire investigator Jason Lawley <EVENT eid="e16" class="REPORTING">told</EVENT> Lincolnshire Live: "There has been a fatality and it is a joint investigation between Lincolnshire Fire   Rescue and Lincolnshire Police.
+
+" Firefighters were <EVENT eid="e17" class="OCCURRENCE">called</EVENT> out just before <TIMEX3 tid="t6" type="DATE" value="X">4am</TIMEX3>. There were three people in the house in total.
+
+"Two of them <EVENT eid="e18" class="OCCURRENCE">got</EVENT> out of the house safely prior to our arrival but one person has not <EVENT eid="e19" class="OCCURRENCE">made</EVENT> it."
+
+Neighbour John Houtby, 66, a retired National Grid worker, <EVENT eid="e20" class="REPORTING">said</EVENT>: "I <EVENT eid="e21" class="OCCURRENCE">heard</EVENT> the fire engines in <TIMEX3 tid="t7" type="DURATION" value="PTXH">the early hours</TIMEX3> but didn't <EVENT eid="e22" class="OCCURRENCE">think</EVENT> much of it because it's quite a common occurence to <EVENT eid="e23" class="STATE">see</EVENT> blue lights down this street.
+
+"But I didn't <EVENT eid="e24" class="OCCURRENCE">know</EVENT> how serious this was and I wouldn't <EVENT eid="e25" class="OCCURRENCE">wish</EVENT> this on anyone. It's very sad that someone has <EVENT eid="e26" class="OCCURRENCE">died</EVENT>."
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL6" timeID="t3" relatedToTime="t2" relType="IDENTITY" />
+<TLINK lid="TL5" timeID="t3" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL4" timeID="t2" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL3" timeID="t2" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201514128</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Kenya to host international innovation Summit early February</TITLE>
+
+
+<TEXT>
+Kenya will on the <TIMEX3 tid="t1" type="DATE" value="2017-02">1st February</TIMEX3> host yet another major economic forum in <TIMEX3 tid="t2" type="DURATION" value="P3Y">3 years</TIMEX3>. The summit follows a series of international economic forums held in the country, the likes of GES <EVENT eid="e1" class="OCCURRENCE">graced</EVENT> by former United States president Barack Obama in <TIMEX3 tid="t3" type="DATE" value="2015">2015</TIMEX3>. The conference dubbed Innovating Economies is <EVENT eid="e2" class="I_STATE">expected</EVENT> to <EVENT eid="e3" class="OCCURRENCE">bring</EVENT> together international delegates from [] 
+
+Published By: Kach Wanya - Today 
+
+Older News 
+
+The Innovation Summit, Nairobi   Kach Wanya (<TIMEX3 tid="t4" type="DATE" value="2017-01-28">Yesterday</TIMEX3>) - Kenya will on the <TIMEX3 tid="t5" type="DATE" value="2017-02">1st February</TIMEX3> play host to yet another major economic forum in <TIMEX3 tid="t6" type="DURATION" value="P3Y">3 years</TIMEX3>. The country will a high level conference dubbed Innovating Economies. The forum is... 
+
+Kenya to host international innovation Summit early February
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

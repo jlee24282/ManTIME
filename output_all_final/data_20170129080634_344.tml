@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194160904</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Tiger Woods heads for Omega Dubai Desert Classic after missed cut at Torrey Pines</TITLE>
+
+
+<TEXT>
+The former world No 1 <EVENT eid="e1" class="OCCURRENCE">missed</EVENT> the cut at the Farmers Insurance Open on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3>  his first PGA Tour appearance in <TIMEX3 tid="t2" type="DURATION" value="P17M">17 months</TIMEX3>. The American golfers next <EVENT eid="e2" class="OCCURRENCE">stop</EVENT>? Dubai.
+
+Comeback kid 
+
+Woods, a 14-time major champion, was <EVENT eid="e3" class="OCCURRENCE">looking</EVENT> forward to his <EVENT eid="e4" class="OCCURRENCE">return</EVENT> to Torrey Pines, a venue in which he had <EVENT eid="e5" class="OCCURRENCE">won</EVENT> on eight times <TIMEX3 tid="t3" type="DATE" value="PAST_REF">previously</TIMEX3>. But an opening-day 76 left him on four-over par and struggling to <EVENT eid="e6" class="OCCURRENCE">make</EVENT> the cut, before Fridays second-round 72 meant he <EVENT eid="e7" class="OCCURRENCE">missed</EVENT> out on <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">the weekend</TIMEX3> by four strokes. Finally fully <EVENT eid="e8" class="OCCURRENCE">recovered</EVENT> from back surgery, he <EVENT eid="e9" class="OCCURRENCE">tees</EVENT> it up <TIMEX3 tid="t5" type="DATE" value="2017-W05">this week</TIMEX3> at the Omega Dubai Desert Classic.
+
+Classic credentials 
+
+Woods, 41, has a very favourable record at the Dubai event, <EVENT eid="e10" class="OCCURRENCE">winning</EVENT> in <TIMEX3 tid="t6" type="DATE" value="2006">2006</TIMEX3> and <TIMEX3 tid="t7" type="DATE" value="2008">2008</TIMEX3>. In fact, in his seven appearances, he has also finished runner-up, <EVENT eid="e11" class="OCCURRENCE">tied</EVENT> third and tied fifth, although he <EVENT eid="e12" class="OCCURRENCE">did</EVENT> struggle on his last <EVENT eid="e13" class="OCCURRENCE">visit</EVENT> to Emirates Golf Club, coming home <EVENT eid="e14" class="OCCURRENCE">tied</EVENT> 41st in <TIMEX3 tid="t8" type="DATE" value="2014">2014</TIMEX3>. On how his body would <EVENT eid="e15" class="OCCURRENCE">hold</EVENT> up with the <TIMEX3 tid="t9" type="DURATION" value="PT17H">17-hour</TIMEX3> <EVENT eid="e16" class="OCCURRENCE">flight</EVENT> to Dubai, Woods <EVENT eid="e17" class="REPORTING">said</EVENT>: "Flying out here was something I hadnt done in a while. So <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">now</TIMEX3> weve <EVENT eid="e18" class="OCCURRENCE">got</EVENT> a pretty good jaunt."
+
+Comfort factor 
+
+On whether his familiarity with the Dubai tournament <EVENT eid="e19" class="OCCURRENCE">gives</EVENT> him some reassurance, Woods <EVENT eid="e20" class="REPORTING">said</EVENT>: "I <EVENT eid="e21" class="I_STATE">know</EVENT> the golf course, I know the greens, I know the putts, I <EVENT eid="e22" class="I_STATE">know</EVENT> how its going to <EVENT eid="e23" class="OCCURRENCE">play</EVENT>. And Ive <EVENT eid="e24" class="OCCURRENCE">played</EVENT> it under so many different conditions over <TIMEX3 tid="t11" type="DURATION" value="PXY">the years</TIMEX3>, whether weve <EVENT eid="e25" class="OCCURRENCE">had</EVENT> a lot of rough, no rough. Weve had shamals, no shamals. Its nice <EVENT eid="e26" class="OCCURRENCE">going</EVENT> to a golf course that I <EVENT eid="e27" class="OCCURRENCE">know</EVENT>."
+
+Augusta build-up 
+
+Beginning in Dubai, Woods is <EVENT eid="e28" class="OCCURRENCE">playing</EVENT> three times in <TIMEX3 tid="t12" type="DURATION" value="P4W">the next four weeks</TIMEX3> as he <EVENT eid="e29" class="OCCURRENCE">steps</EVENT> up preparation for the Masters on <TIMEX3 tid="t13" type="DATE" value="2017-04-06">April 6  the years</TIMEX3> first major. A four-time winner at Augusta, he was generally <EVENT eid="e30" class="OCCURRENCE">pleased</EVENT> with his progress at Torrey Pines, <EVENT eid="e31" class="REPORTING">saying</EVENT>: "I felt I <EVENT eid="e32" class="OCCURRENCE">made</EVENT> some nice strides, just wish I could be <EVENT eid="e33" class="OCCURRENCE">playing</EVENT> the <TIMEX3 tid="t14" type="DURATION" value="PXW">weekend</TIMEX3> because I really <EVENT eid="e34" class="OCCURRENCE">love</EVENT> this course. I <EVENT eid="e35" class="I_STATE">need</EVENT> to <EVENT eid="e36" class="OCCURRENCE">get</EVENT> more rounds under my belt. Just like everybody, Im <EVENT eid="e37" class="I_ACTION">trying</EVENT> to <EVENT eid="e38" class="OCCURRENCE">get</EVENT> ready for that <TIMEX3 tid="t15" type="DATE" value="2017-04">first week in April</TIMEX3>."
+
+jmcauley@thenational.ae
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="FUTURE" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie28" relatedToTime="t12" relType="IS_INCLUDED" />
+<TLINK lid="TL9" eventInstanceID="ie28" relatedToTime="t13" relType="IS_INCLUDED" />
+<TLINK lid="TL16" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t7" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL13" timeID="t9" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL11" eventInstanceID="ie29" relatedToTime="t13" relType="IS_INCLUDED" />
+<TLINK lid="TL10" eventInstanceID="ie29" relatedToTime="t12" relType="DURING" />
+<TLINK lid="TL3" eventInstanceID="ie16" relatedToTime="t9" relType="DURING" />
+<TLINK lid="TL1" eventInstanceID="ie33" relatedToEventInstance="ie34" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie38" relatedToTime="t15" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie33" relatedToTime="t14" relType="ENDED_BY" />
+<TLINK lid="TL4" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL14" timeID="t6" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie24" relatedToTime="t11" relType="IS_INCLUDED" />
+</TimeML>

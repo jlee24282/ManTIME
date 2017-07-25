@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200264657</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Rupee likely to improve</TITLE>
+
+
+<TEXT>
+The rupee is <EVENT eid="e1" class="I_STATE">expected</EVENT> to witness little changes against the dollar <TIMEX3 tid="t1" type="DATE" value="2017-W06">next week</TIMEX3> on the lack of fresh triggers, traders <EVENT eid="e2" class="REPORTING">said</EVENT>. The rupee/dollar parity could <EVENT eid="e3" class="OCCURRENCE">hover</EVENT> between 104.85 and 104.90 in the interbank market. 
+ 
+The forex market <EVENT eid="e4" class="OCCURRENCE">witnessed</EVENT> dull and range-bound <EVENT eid="e5" class="OCCURRENCE">activity</EVENT> during <TIMEX3 tid="t2" type="DURATION" value="PXW">the outgoing week</TIMEX3>, a dealer <EVENT eid="e6" class="REPORTING">said</EVENT> at a commercial bank. The domestic unit was <EVENT eid="e7" class="OCCURRENCE">traded</EVENT> at 104.85 to the greenback for almost <TIMEX3 tid="t3" type="DURATION" value="PXW">the entire outgoing week</TIMEX3>. was <EVENT eid="e8" class="OCCURRENCE">posted</EVENT> in Business of TheNews International - https://www.thenews.com.pk on <TIMEX3 tid="t4" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3> and was last <EVENT eid="e9" class="OCCURRENCE">updated</EVENT> on <TIMEX3 tid="t5" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>. This news story is related to Print/182419-Rupee-likely-to-improve/ - <EVENT eid="e10" class="OCCURRENCE">breaking</EVENT> news, latest news, pakistan ne. Permanent link to the news story "Rupee likely to improve" is https://www.thenews.com.pk/print/182419-Rupee-likely-to-improve.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t4" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToTime="t2" relType="DURING" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie4" relType="DURING" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t5" relatedToTime="t4" relType="IDENTITY" />
+</TimeML>

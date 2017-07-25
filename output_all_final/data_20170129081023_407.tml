@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202760923</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Nicki Minaj Teases Next Album Via Major Lazers New Track</TITLE>
+
+
+<TEXT>
+Nicki Minaj Teases Next Album Via Major Lazer's New Track (Week in Review)  
+ 
+
+. 
+  
+Nicki Minaj Teases Next Album Via Major Lazer's New Track was a Top 3 story on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3>: (Radio.com) Major Lazer <EVENT eid="e1" class="OCCURRENCE">shared</EVENT> their new collaboration, "Run Up," with Nicki Minaj and PARTYNEXT DOOR on <TIMEX3 tid="t2" type="DATE" value="2017-01-26">Thursday</TIMEX3> (January 26th). And Minaj details her next album in her verse. 
+ 
+"Most of these dudes is really quite sore/ 45 special, this is my cough/ Bout to <EVENT eid="e2" class="OCCURRENCE">drop</EVENT> an album, this is my fourth/ I don't <EVENT eid="e3" class="OCCURRENCE">put</EVENT> sugar in my spaghetti sauce," she <EVENT eid="e4" class="REPORTING">raps</EVENT> on the track. It's been three years since Minaj last <EVENT eid="e5" class="OCCURRENCE">released</EVENT> her third studio album The Pinkprint, but it seems as though <TIMEX3 tid="t3" type="DATE" value="2017">2017</TIMEX3> will be a good <TIMEX3 tid="t4" type="DURATION" value="PXY">year</TIMEX3> for new music. 
+ 
+While <EVENT eid="e6" class="OCCURRENCE">announcing</EVENT> her <EVENT eid="e7" class="OCCURRENCE">split</EVENT> from ex-boyfriend Meek Mill earlier in <TIMEX3 tid="t5" type="DATE" value="2017-01">January</TIMEX3>, Minaj also <EVENT eid="e8" class="REPORTING">shared</EVENT> that she was hard at work. "<EVENT eid="e9" class="OCCURRENCE">Focusing</EVENT> on my work   <EVENT eid="e10" class="OCCURRENCE">looking</EVENT> forward to <EVENT eid="e11" class="OCCURRENCE">sharing</EVENT> it with you guys really soon," she <EVENT eid="e12" class="REPORTING">tweeted</EVENT>. Read more - here. 
+ Radio.com is an official news provider for antiMusic.com. 
+Copyright Radio.com/CBS Local - Excerpted here with permission.   
+advertisement
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t5" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t5" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

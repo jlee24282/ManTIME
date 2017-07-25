@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695205004668</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Exeter skills coach backs Michele Campagnaro to carry form into Six Nations</TITLE>
+
+
+<TEXT>
+Exeter Chiefs skills coach Ricky Pellow lavished <EVENT eid="e1" class="OCCURRENCE">praises</EVENT> on Italy centre Michele Campagnaro after his tremendous <EVENT eid="e2" class="OCCURRENCE">performance</EVENT> in the Anglo-Welsh encounter against Wasps.
+
+Campagnaro <EVENT eid="e3" class="REPORTING">scored</EVENT> hat-trick of tries as Exeter Chiefs <EVENT eid="e4" class="OCCURRENCE">went</EVENT> on to <EVENT eid="e5" class="OCCURRENCE">complete</EVENT> a 52-5 victory at Sandy Park that saw them <EVENT eid="e6" class="OCCURRENCE">climb</EVENT> to the pole position in Pool 2.
+
+The 23-year-old last <EVENT eid="e7" class="OCCURRENCE">played</EVENT> for Italy in <TIMEX3 tid="t1" type="DATE" value="2016-06">June last year</TIMEX3> but is likely to be included in the Six Nations squad <EVENT eid="e8" class="OCCURRENCE">based</EVENT> on his terrific performances for Exeter Chiefs.
+
+"It's been a solid set of recent performances from Michele and, while we are sorry to temporarily <EVENT eid="e9" class="OCCURRENCE">lose</EVENT> him from our squad, he'll be <EVENT eid="e10" class="I_ACTION">excited</EVENT> about <EVENT eid="e11" class="I_ACTION">bringing</EVENT> that form into the Six Nations to <EVENT eid="e12" class="OCCURRENCE">show</EVENT> what he can do," Pellow <EVENT eid="e13" class="REPORTING">said</EVENT>.
+
+"It was a great performance from us and I'm especially <EVENT eid="e14" class="OCCURRENCE">pleased</EVENT> with the defensive effort in <TIMEX3 tid="t2" type="DURATION" value="PXM">the last 10 minutes</TIMEX3> to <EVENT eid="e15" class="OCCURRENCE">keep</EVENT> our line intact."
+
+"It's <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> in our hands but it will be a tough game as Bristol have <EVENT eid="e16" class="OCCURRENCE">turned</EVENT> a corner but we are <EVENT eid="e17" class="I_STATE">anxious</EVENT> to <EVENT eid="e18" class="OCCURRENCE">progress</EVENT> to the next round."
+
+Apart from Campagnaro, Mitch Lees, Stu Townsend, Sam Simmonds, Shaun Malton and Lachie Turner also <EVENT eid="e19" class="OCCURRENCE">crossed</EVENT> over for the home side while Will Rowlands was the lone try-scorer for Wasps, who <EVENT eid="e20" class="OCCURRENCE">fielded</EVENT> a young side.
+
+Assistant coach Lee Blackett <EVENT eid="e21" class="REPORTING">said</EVENT>: "It was a great eye-opener for the young lads as it <EVENT eid="e22" class="OCCURRENCE">showed</EVENT> how tough it can be when you <EVENT eid="e23" class="OCCURRENCE">step</EVENT> up to the next level.
+
+"We had four guys who <EVENT eid="e24" class="OCCURRENCE">played</EVENT> for the <TIMEX3 tid="t4" type="DATE" value="2017-W04">under-18s last weekend</TIMEX3> but I'm still <EVENT eid="e25" class="OCCURRENCE">disappointed</EVENT> with the result as we <EVENT eid="e26" class="OCCURRENCE">made</EVENT> too many individual errors in the first half.
+
+"I'm proud at the way we <EVENT eid="e27" class="OCCURRENCE">reacted</EVENT> in the <TIMEX3 tid="t5" type="DATE" value="X">second half</TIMEX3> but Exeter were very clinical as they've <EVENT eid="e28" class="OCCURRENCE">got</EVENT> massive strength in depth and they <EVENT eid="e29" class="OCCURRENCE">took</EVENT> their opportunities and we didn't."
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie26" relatedToEventInstance="ie25" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" eventInstanceID="ie25" relatedToEventInstance="ie26" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie24" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie24" relatedToEventInstance="ie26" relType="IDENTITY" />
+<TLINK lid="TL3" eventInstanceID="ie24" relatedToEventInstance="ie25" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201288684</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Carson City area senior lunch menus for Jan. 30-Feb. 3, 2017</TITLE>
+
+
+<TEXT>
+Note: Menus for <TIMEX3 tid="t1" type="DATE" value="2017-01">week of Jan</TIMEX3>.  30 subject to <EVENT eid="e1" class="OCCURRENCE">change</EVENT> without notice. Choice of beverage included. 
+ 
+Carson City Senior Citizens Center, 911 Beverly Dr.: 
+ 
+MONDAY: Mashed potatoes and gravy, mixed vegetables, house salad, grain bread, apple butter, apricots and oatmeal cookies. 
+ 
+TUESDAY: Bean burritos, Spanish rice, corn and Mandarin oranges. 
+ 
+WEDNESDAY: Lemon baked fish, whole wheat rolls, peas, long grain wild rice, house salad, assorted dressing and grapes. 
+ 
+THURSDAY: Chili over twice baked potatoes, green beans, corn bread muffins, carrot salad and fresh fruit. 
+ 
+FRIDAY: Turkey, <EVENT eid="e2" class="OCCURRENCE">mashed</EVENT> potatoes, gravy, corn, diced peaches, apple juice, cake and ice cream. 
+ 
+ 
+Dayton Senior Center, 320 Old Dayton Valley Road: 
+ 
+<TIMEX3 tid="t2" type="DATE" value="2017-01-23">MONDAY</TIMEX3>: Pesto chicken Florentine with penne, <EVENT eid="e3" class="OCCURRENCE">tossed</EVENT> salad, low-sodium and low-fat dressing, fresh strawberries, whole wheat rolls and margarine. 
+ 
+TUESDAY: Chile relleno <EVENT eid="e4" class="OCCURRENCE">bake</EVENT>, refried beans, garden salad, <EVENT eid="e5" class="OCCURRENCE">dressing</EVENT> and mixed fruit. 
+ 
+WEDNESDAY: Beef stroganoff with noodles, broccoli, spinach salad, pears and cookies. 
+ 
+THURSDAY: Beef patties on whole wheat buns, baked beans, sliced tomatoes, lettuce, mayonnaise, low-sodium ketchup, sliced red onion and cantaloupe. 
+ 
+FRIDAY: Lasagna, spinach salad, garlic bread, peaches, pineapple and brownies. 
+ 
+ 
+Douglas County Senior Center, 1329 Waterloo Lane: 
+ 
+<TIMEX3 tid="t3" type="DATE" value="2017-01-23">MONDAY</TIMEX3>: Chili with beans, cottage cheese and pineapple, corn bread and frosted brownies. 
+ 
+TUESDAY: Barbecue beef sandwiches, coleslaw, cream corn, steamed spinach and tapioca pudding. 
+ 
+WEDNESDAY: N/A 
+ 
+THURSDAY: N/A 
+ 
+<TIMEX3 tid="t4" type="DATE" value="2017-01-27">FRIDAY</TIMEX3>: N/A 
+ 
+ 
+Silver Springs Senior Center, <TIMEX3 tid="t5" type="DATE" value="1050">1050</TIMEX3> Pyramid Ave.: 
+ 
+<TIMEX3 tid="t6" type="DATE" value="2017-01-23">MONDAY</TIMEX3>: Chicken and dumplings, green peas, carrot and raisin salad, whole wheat low-sodium crackers and fruit cocktail. 
+ 
+TUESDAY: Spaghetti with meat sauce, cauliflower, vegetable salad, dressing, garlic bread and orange slices. 
+ 
+WEDNESDAY: Baked potatoes stuffed with ground beef, cheese, sour cream, margarine, carrots, pineapple, grape juice and apple crisp. 
+ 
+THURSDAY: Chicken noodle casserole, mixed vegetables, whole wheat rolls, margarine and peach cobbler. 
+ 
+FRIDAY LUNCH 11:30 a.m.-12<TIMEX3 tid="t7" type="DATE" value="X">:30</TIMEX3> p.m.: Sausage and egg bake, hot oatmeal and apricot halves. 
+ 
+ 
+Storey County Senior Citizens Center, corner of E and Mill streets in Virginia City: 
+ 
+<TIMEX3 tid="t8" type="DATE" value="2017-01-23">MONDAY</TIMEX3>: Creamy herb pork chops, <EVENT eid="e6" class="OCCURRENCE">mashed</EVENT> potatoes, carrots, rolls and salad. 
+ 
+TUESDAY: Barbecue beef sandwiches, corn on the cob, spinach, coleslaw and pudding. 
+ 
+WEDNESDAY: N/A 
+ 
+THURSDAY: N/A 
+ 
+FRIDAY BREAKFAST 10-11: N/A 
+ 
+ 
+Yerington Senior Center, 117 Tilson Way: 
+ 
+MONDAY: Hot dogs, macaroni salad, vegetables and tapioca. 
+ 
+TUESDAY: Chicken cacciatore, linguine, squash blend, mixed greens and peanut butter cookies. 
+ 
+WEDNESDAY: Mongolian beef, <EVENT eid="e7" class="OCCURRENCE">fried</EVENT> rice, Asian vegetables, egg rolls and tapioca. 
+ 
+THURSDAY: Hot turkey sandwiches, peas and carrots, tomatoes vinaigrette, oatmeal raisin cookies and oranges. 
+ 
+FRIDAY BREAKFAST <TIMEX3 tid="t9" type="TIME" value="2017-01-29T08:30">8:30 a.m.</TIMEX3>: French toast, eggs, sausage, fruit and pastries.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202165826</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>"Glorious fox colors..." - The Meta Picture</TITLE>
+
+
+<TEXT>
+"The harvest mouse and its majestic prehensile tail..."  
+   
+ "The Ocellated Turkey and its iridescent feathers..."  
+   
+ "Wedding day..." - The Meta Picture  
+   
+ "Surprised baby goat..." - The Meta Picture  
+   
+ "Baby Margays <EVENT eid="e1" class="OCCURRENCE">deserve</EVENT> more appreciation..."  
+   
+ "Kittens <EVENT eid="e2" class="OCCURRENCE">photobombed</EVENT> by mama cat..." :) - The Meta Picture
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

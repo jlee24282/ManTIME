@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201796857</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>K-12 education must reinforce the value of art</TITLE>
+
+
+<TEXT>
+Regarding the <TIMEX3 tid="t1" type="DATE" value="2017-01-15">Jan. 15</TIMEX3> Forum commentary : Speaking of Adolf Hitler (and who <EVENT eid="e1" class="OCCURRENCE">isnt</EVENT> these days?), he was one of three candidates for acceptance to art school in Vienna, but <EVENT eid="e2" class="OCCURRENCE">lost</EVENT>. How different the world might be <EVENT eid="e3" class="OCCURRENCE">had</EVENT> he <EVENT eid="e4" class="OCCURRENCE">gained</EVENT> entry. Included in his rap sheet of crimes against humanity was the pillaging of Europes art treasures, which was perhaps a bizarre act of retribution for his <EVENT eid="e5" class="OCCURRENCE">rejection</EVENT>.
+
+Another example of the presence of art in society is <EVENT eid="e6" class="OCCURRENCE">occurring</EVENT> in Johnstown, which <EVENT eid="e7" class="I_STATE">struggles</EVENT> to <EVENT eid="e8" class="OCCURRENCE">reinvent</EVENT> itself following the <EVENT eid="e9" class="OCCURRENCE">desertion</EVENT> of the steel and other industries.
+
+Efforts are <EVENT eid="e10" class="I_STATE">made</EVENT> to <EVENT eid="e11" class="OCCURRENCE">revitalize</EVENT> neighborhoods and retask empty buildings by <EVENT eid="e12" class="OCCURRENCE">attracting</EVENT> guess who?  artists. The hope is that their creative energies will <EVENT eid="e13" class="OCCURRENCE">produce</EVENT> a flowering of commerce and culture. But most artists cant <EVENT eid="e14" class="OCCURRENCE">flourish</EVENT> for long, and, more troublesome, there is not much of an audience for the effort.
+
+Therein lies the problem with <EVENT eid="e15" class="OCCURRENCE">depending</EVENT> on existing artists to <EVENT eid="e16" class="OCCURRENCE">foment</EVENT> outrage and <EVENT eid="e17" class="OCCURRENCE">inspire</EVENT> enlightenment. In our world, in which the most horrible things happen, and are <EVENT eid="e18" class="I_STATE">permitted</EVENT> to happen, on a daily basis, what can the arts do to <EVENT eid="e19" class="OCCURRENCE">impress</EVENT> the gravity of issues on an audience that is largely indifferent to, and even derisive of, the value of the arts? The greatest blunder of modern education, apart from the whole testing debacle, has been the systematic elimination of art programs from the K-12 curriculum. Until a new audience is <EVENT eid="e20" class="OCCURRENCE">reacquainted</EVENT> with the realms of their higher capabilities, any <TIMEX3 tid="t2" type="DATE" value="X">present</TIMEX3> effort is a rear-guard action at best.
+
+MICHAEL MOSORJAK
+
+Johnstown
+
+The writer is a paintings conservator, artist and instructor.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="PERFECTIVE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="DURING" />
+</TimeML>

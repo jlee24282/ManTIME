@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199679669</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Leicester City Transfer News: Tianjin Quanjans Islam Slimani bid rejected</TITLE>
+
+
+<TEXT>
+The Foxes have reportedly <EVENT eid="e1" class="OCCURRENCE">turned</EVENT> down an offer of 38 million ($49.6m) for the Algeria international. Slimani <EVENT eid="e2" class="OCCURRENCE">signed</EVENT> for Leicester City in the summer transfer window, <TIMEX3 tid="t1" type="DATE" value="2016">last year</TIMEX3>. The 28-year-old <EVENT eid="e3" class="OCCURRENCE">arrived</EVENT> at the King Power Stadium for 29m ($36.39m ...... 
+
+Published By: Algeria - <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Yesterday</TIMEX3> 
+
+Older News 
+
+City sign Mozambique international  Mozambique (<TIMEX3 tid="t3" type="DATE" value="2017-01-26">2 days ago</TIMEX3>) - Cape Town City have <EVENT eid="e4" class="OCCURRENCE">signed</EVENT> Mozambique international left-back Edmilson Dove. The <EVENT eid="e5" class="OCCURRENCE">transfer</EVENT> of the 22-year-old from Mozambique champions Ferroviario de Beira was <EVENT eid="e6" class="OCCURRENCE">confirmed</EVENT> by City on <TIMEX3 tid="t4" type="DATE" value="2017-01-27">Friday</TIMEX3>. The club have... 
+
+Mozambique wants US$19 million loan to <EVENT eid="e7" class="OCCURRENCE">produce</EVENT> horticultural products 
+
+More on Mozambique <EVENT eid="e8" class="OCCURRENCE">tumbles</EVENT> down ranking in anti-corruption index  AIM report
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

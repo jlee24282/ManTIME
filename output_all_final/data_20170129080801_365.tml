@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197263291</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Serena to play fewer tournaments to aid grand slam quest</TITLE>
+
+
+<TEXT>
+Serena Williams <EVENT eid="e1" class="I_STATE">plans</EVENT> to <EVENT eid="e2" class="OCCURRENCE">play</EVENT> fewer tournaments in <TIMEX3 tid="t1" type="DATE" value="FUTURE_REF">the future</TIMEX3> to <EVENT eid="e3" class="OCCURRENCE">aid</EVENT> her quest to <EVENT eid="e4" class="OCCURRENCE">win</EVENT> more grand sla
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

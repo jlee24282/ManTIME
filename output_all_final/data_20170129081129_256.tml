@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204877835</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Cong-SP partnership is to defeat fascist forces: Rahul Gandhi</TITLE>
+
+
+<TEXT>
+"Our alliance with Samajwadi Party is for development, prosperity and peace," <EVENT eid="e1" class="REPORTING">said</EVENT> Congress leader Rahul Gandhi at joint press conference with Uttar Pradesh Chief Minister Akhilesh Yadav. 
+ 
+Mr. Gandhi <EVENT eid="e2" class="REPORTING">said</EVENT> that the partnership between Congress, SP is an answer to divisive politics of anger. 
+ 
+Mr. Yadav <EVENT eid="e3" class="REPORTING">said</EVENT>, "We are like two wheels of bicycle...There is not much of a <EVENT eid="e4" class="OCCURRENCE">difference</EVENT> in age between us; <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3> is the beginning. Rahul and I will <EVENT eid="e5" class="OCCURRENCE">take</EVENT> UP ahead on the path of prosperity." 
+ 
+Mr. Gandhi <EVENT eid="e6" class="REPORTING">said</EVENT> that the alliance is the confluence of Ganga and Yamuna out of which the Saraswati of development will <EVENT eid="e7" class="OCCURRENCE">come</EVENT> out. "I <EVENT eid="e8" class="OCCURRENCE">hailed</EVENT> Akhilesh earlier too   <EVENT eid="e9" class="OCCURRENCE">pointed</EVENT> out that he was not being <EVENT eid="e10" class="OCCURRENCE">allowed</EVENT> to <EVENT eid="e11" class="OCCURRENCE">do</EVENT> good work." 
+ 
+The Samajwadi Party and the Congress will <EVENT eid="e12" class="OCCURRENCE">fight</EVENT> the <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> Uttar Pradesh Assembly elections together.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202837835</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>2017 Supercross Phoenix 250 Heat 2 HD</TITLE>
+
+
+<TEXT>
+2017 Monster Energy Supercross Championship Round 4 Phoenix 250 West Coast Heat 2 In High Definition From The University of Phoenix Stadium. 
+ 
+250 West Points After 3 Rounds: 
+01.) Shane Mcelrath - KTM - 70 
+02.) Aaron Plessinger - Yamaha - <TIMEX3 tid="t1" type="DATE" value="X">64</TIMEX3> 
+03.) Justin Hill - Kawasaki - <TIMEX3 tid="t2" type="DATE" value="X">63</TIMEX3> 
+04.) Martin Davalos - Husquvarna - <TIMEX3 tid="t3" type="DATE" value="X">54</TIMEX3> 
+05.) Austin Forkner - Kawasaki - <TIMEX3 tid="t4" type="DATE" value="X">47</TIMEX3> 
+06.) James Decotis - Honda - 42 
+07.) Jeremy Martin - Honda - <TIMEX3 tid="t5" type="DATE" value="X">40</TIMEX3> 
+08.) Tyler Bowers - Yamahai - <TIMEX3 tid="t6" type="DATE" value="X">33</TIMEX3> 
+09.) Dan Reardon - Yamaha - 32 
+10.) Phillip Nicoletti - Suzuki - <TIMEX3 tid="t7" type="DATE" value="X">26</TIMEX3> 
+11.) Kyle Chisholm - Honda - 26 
+12.) Joshua Hansen - Husqvarna - <TIMEX3 tid="t8" type="DATE" value="X">23</TIMEX3> 
+13.) Mitchell Oldenburg - KTM - 18 
+14.) Cole Martinez - Yamaha - <TIMEX3 tid="t9" type="DATE" value="X">18</TIMEX3> 
+15.) Chase Marquier - Honda - 17 
+16.) Justin Starling - KTM - 17 
+17.) Hayden Mellross - Yamaha - <TIMEX3 tid="t10" type="DATE" value="X">14</TIMEX3> 
+18.) Killian Auberson - KTM - <TIMEX3 tid="t11" type="DATE" value="X">12  19</TIMEX3>.) Bradley Taft - Yamaha - <TIMEX3 tid="t12" type="DATE" value="X">09</TIMEX3> 
+20.) Noah Mcconahy - Husqvarna - 08 
+
+Author: Supercross-Motocross 
+Tags: Monster Energy SuperCross  Phoenix  Motocross  Supercross  Supercross LIVE  Motorcycle <EVENT eid="e1" class="OCCURRENCE">racing</EVENT>  Off-road racing  <TIMEX3 tid="t13" type="DATE" value="2017">2017</TIMEX3>  Round 4  250 Heat 2  
+Posted: 29 <TIMEX3 tid="t14" type="DATE" value="2017-01-02">January 2</TIMEX3>
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t13" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

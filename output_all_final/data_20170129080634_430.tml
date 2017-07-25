@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194206863</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>More hardship as kerosene scarcity worsens 'Products sells for N750 per litre in Kano</TITLE>
+
+
+<TEXT>
+Scarcity of kerosene is <EVENT eid="e1" class="OCCURRENCE">biting</EVENT> harder in Kano State as price of the product and that of its by-products have <EVENT eid="e2" class="OCCURRENCE">gone</EVENT> beyond the reach of most residents. Major filling stations located at Zaria road, Airport, [...]The post <EVENT eid="e3" class="OCCURRENCE">appeared</EVENT> first on Tribune.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

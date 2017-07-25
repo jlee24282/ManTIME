@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201580124</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>A Nations Cup of twists and turns</TITLE>
+
+
+<TEXT>
+Deposed champions Ivory Coast and overwhelming favourites Algeria <EVENT eid="e1" class="OCCURRENCE">did</EVENT> well in egging pundits scripts. But it is Democratic Republic of Congo and Senegals performances that have so far <EVENT eid="e2" class="OCCURRENCE">lived</EVENT> up to the <EVENT eid="e3" class="OCCURRENCE">billing</EVENT> in this  edition.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

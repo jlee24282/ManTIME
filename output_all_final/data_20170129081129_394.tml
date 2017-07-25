@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204982585</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Countries Listed On Trump's Refugee Ban Don't Include Those He Has Business With : NPR</TITLE>
+
+
+<TEXT>
+President Donald Trump's refugee ban in the Middle East could be one of the first conflicts of interest for the president, as his bans <EVENT eid="e1" class="REPORTING">avoided</EVENT> nations that he <EVENT eid="e2" class="STATE">has</EVENT> business ties in. MICHEL MARTIN, HOST: We are <EVENT eid="e3" class="ASPECTUAL">continuing</EVENT> our coverage of the Trump administration's executive orders implementing a permanent ban on those coming from Syria and a temporary ban of citizens coming from six additional Muslim-majority countries - Iran, Iraq, Libya, Somalia, Yemen and Sudan. Now, one aspect of the new po...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

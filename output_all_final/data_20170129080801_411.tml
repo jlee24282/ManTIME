@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197289589</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>The Armageddon Virus (A Tom Blake Thriller)</TITLE>
+
+
+<TEXT>
+Seven billion people on earth. One terrifying virus that could <EVENT eid="e1" class="OCCURRENCE">destroy</EVENT> them all. When a lethal virus <EVENT eid="e2" class="OCCURRENCE">developed</EVENT> at a top secret laboratory <EVENT eid="e3" class="OCCURRENCE">falls</EVENT> into the hands of international terrorists, humanity teeters on the brink of a global apocalypse. A few drops released into the atmosphere could <EVENT eid="e4" class="OCCURRENCE">trigger</EVENT> a worldwide pandemic  unless Tom Blake can <EVENT eid="e5" class="OCCURRENCE">thwart</EVENT> their deadly plans.Summoned to <EVENT eid="e6" class="OCCURRENCE">investigate</EVENT> a mysterious <EVENT eid="e7" class="OCCURRENCE">assassination</EVENT>, the former Special Forces psychologist with a haunted <TIMEX3 tid="t1" type="DATE" value="PAST_REF">past</TIMEX3> is <EVENT eid="e8" class="OCCURRENCE">dispatched</EVENT> undercover into a high-security jail where he <EVENT eid="e9" class="I_STATE">uncovers</EVENT> the plot to <EVENT eid="e10" class="OCCURRENCE">steal</EVENT> the virus.Teamed up with Alex Mortensen, one of the security services <EVENT eid="e11" class="OCCURRENCE">rising</EVENT> stars, Blake heads for northern Europe on a perilous adventure, hot on the heels of the thieves in a desperate <EVENT eid="e12" class="OCCURRENCE">race</EVENT> against time that will <EVENT eid="e13" class="OCCURRENCE">pitch</EVENT> them against one of the worlds most dangerous men.Their mission <EVENT eid="e14" class="OCCURRENCE">takes</EVENT> them to the wilds of Scotland, and across the freezing North Sea to Norway  and beyond into the dark heart of Soviet Russia.The Armageddon Virus is a breath-taking, lightning-paced thriller  the second in the Tom Blake Thriller seriesFast, furious and more <EVENT eid="e15" class="OCCURRENCE">twists</EVENT> than a coiled cobra.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="COULD" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="BEGINS" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie12" relType="AFTER" />
+</TimeML>

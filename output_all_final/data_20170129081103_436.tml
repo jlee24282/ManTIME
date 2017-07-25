@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204146587</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>ADDED launches Innovators Support Council</TITLE>
+
+
+<TEXT>
+:           RSS               .                     . 
+ABU DHABI, 29th <TIMEX3 tid="t1" type="DATE" value="2017-01">January</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> (WAM) -- The Department of Economic Development  Abu Dhabi, ADDED, has <EVENT eid="e1" class="OCCURRENCE">launched</EVENT> the Innovators Support Council, ISC, during a <EVENT eid="e2" class="OCCURRENCE">meeting attended</EVENT> by Khalifa bin Salem Al Mansouri, Acting Under-Secretary, and representatives from Abu Dhabi National Oil Company, ADNOC, UAE University, Masdar Institute, Al Ain Distribution and other UAE companies, along with the UAE inventors who are the key partners of Takamul programme. 
+Read on the original site
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

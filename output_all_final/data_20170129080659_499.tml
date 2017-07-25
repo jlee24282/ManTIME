@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194978303</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Local electronic component makers to invest Rs 1K cr in 2017</TITLE>
+
+
+<TEXT>
+Domestic electronic component makers have plans to <EVENT eid="e1" class="OCCURRENCE">invest</EVENT> over Rs 1,000 <EVENT eid="e2" class="OCCURRENCE">crore</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017">this year</TIMEX3> on manufacturing units in the ELCINA Bhiwadi Cluster. "The space in the cluster has been <EVENT eid="e3" class="OCCURRENCE">allocated</EVENT> to 19 domestic electronic components makers as of <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>. Together they are <EVENT eid="e4" class="I_STATE">planning</EVENT> to <EVENT eid="e5" class="OCCURRENCE">invest</EVENT> over Rs 1,000 crore in phase 1 which is <EVENT eid="e6" class="I_STATE">expected</EVENT> to be <EVENT eid="e7" class="ASPECTUAL">completed</EVENT> by October <TIMEX3 tid="t3" type="DATE" value="2017">this year</TIMEX3>," ELCINA Secretary General Rajoo Goel <EVENT eid="e8" class="REPORTING">told</EVENT> PTI. The ELCINA Electronics Manufacturing Cluster (EMC) is <EVENT eid="e9" class="OCCURRENCE">spread</EVENT> over 100 acres in Bhiwadi, Rajasthan, and is to be <EVENT eid="e10" class="OCCURRENCE">completed</EVENT> in two phases. "We <EVENT eid="e11" class="I_STATE">expect</EVENT> direct employment in the range of 5,000-6,000 people and indirect employment of up to 12,000 in phase 1. We have <EVENT eid="e12" class="OCCURRENCE">utilised</EVENT> 28 acre of land as of <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3>. Besides domestic component makers, we are also in talks with foreign component makers based out of Taiwan to <EVENT eid="e13" class="OCCURRENCE">set</EVENT> up their units here," Goel <EVENT eid="e14" class="REPORTING">said</EVENT>. Investors in the cluster <EVENT eid="e15" class="OCCURRENCE">include</EVENT> Sahasra Electronics, Deki Electronics, Elin Electronics, Fiem Industries, Digital Circuits, Kraft Box and .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

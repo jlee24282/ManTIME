@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203971008</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ashton vows police are tough on crime</TITLE>
+
+
+<TEXT>
+In the wake of the Bourke Street rampage, prison breakouts and a youth crime wave, Victoria's police have been under scrutiny for being '<EVENT eid="e1" class="OCCURRENCE">risk</EVENT> averse'. 
+ 
+Chief Commissioner Graham Ashton <EVENT eid="e2" class="REPORTING">says</EVENT> it's a myth that police are anything but tough on crime and his officers put themselves in harm's way 
+ 
+'There's a bit of a myth around that the fact that we're somehow soft on crime. Nothing could be further from the truth,' he <EVENT eid="e3" class="REPORTING">told</EVENT> reporters in Melbourne. 
+ 
+'People can <EVENT eid="e4" class="REPORTING">talk</EVENT> about being hard, people like to think they're hard and tough, the fact is we have been hard, we have been tough and we've been consistently like that since I've been in this role.' 
+ 
+Mr Ashton <EVENT eid="e5" class="REPORTING">said</EVENT> the state is <EVENT eid="e6" class="OCCURRENCE">dealing</EVENT> with unprecedented issues with violent youth crime, which he <EVENT eid="e7" class="REPORTING">says</EVENT> are more complex than ever before. 
+ 
+Youth offenders are also being <EVENT eid="e8" class="OCCURRENCE">charged</EVENT> with serious crimes for their first <EVENT eid="e9" class="OCCURRENCE">offence</EVENT> - which in <TIMEX3 tid="t1" type="DATE" value="PAST_REF">the past</TIMEX3> traditionally wasn't the case, he <EVENT eid="e10" class="REPORTING">added</EVENT>. 
+ 
+His comments come after a group of Victoria's former top cops <EVENT eid="e11" class="REPORTING">said</EVENT> the state had <EVENT eid="e12" class="OCCURRENCE">lost</EVENT> its grip on law and order and police were soft. 
+ 
+Former chief commissioner Kel Glare, who <EVENT eid="e13" class="OCCURRENCE">ran</EVENT> the force from 1987-92, has <EVENT eid="e14" class="OCCURRENCE">joined</EVENT> with other former police chiefs to <EVENT eid="e15" class="OCCURRENCE">slam</EVENT> the state's response to the law and order 'crisis'. 
+ 
+Mr Glare's group, called the Community Advocacy Alliance, <EVENT eid="e16" class="REPORTING">says</EVENT> modern policing is clearly not working. 
+ 
+'We're being <EVENT eid="e17" class="OCCURRENCE">dismissed</EVENT> as dinosaurs that don't <EVENT eid="e18" class="I_STATE">understand</EVENT> modern policing. But modern <EVENT eid="e19" class="OCCURRENCE">policing</EVENT> has <EVENT eid="e20" class="REPORTING">got</EVENT> us to this point,' Mr Glare <EVENT eid="e21" class="REPORTING">told</EVENT> 3AW on <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+The group <EVENT eid="e22" class="REPORTING">says</EVENT> policing has <EVENT eid="e23" class="OCCURRENCE">become</EVENT> 'risk averse' and chases need to happen. 
+ 
+'In my view, in most instances, you have to <EVENT eid="e24" class="OCCURRENCE">chase</EVENT>,' Mr Glare <EVENT eid="e25" class="REPORTING">told</EVENT> 3AW on <TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+'There will be accidents and the community and the police will just have to <EVENT eid="e26" class="OCCURRENCE">accept</EVENT> that' 
+ 
+Mr Glare also <EVENT eid="e27" class="REPORTING">says</EVENT> the Andrews government's new night courts won't <EVENT eid="e28" class="OCCURRENCE">work</EVENT> as, in many cases, it's the magistrates who <EVENT eid="e29" class="OCCURRENCE">make</EVENT> the 'bad bail decisions'. 
+ 
+The CAA has a 70-point plan, <EVENT eid="e30" class="OCCURRENCE">advocating</EVENT> for a police education program to be <EVENT eid="e31" class="OCCURRENCE">reintroduced</EVENT> to schools, police cars <EVENT eid="e32" class="OCCURRENCE">beefed</EVENT> up with nudge bars and a re- evaluation of juvenile offenders. 
+ 
+'The crime rate in all the other states is <EVENT eid="e33" class="OCCURRENCE">going</EVENT> down and Victoria is <EVENT eid="e34" class="OCCURRENCE">going</EVENT> up - and most of that is being led by this rash of juvenile <EVENT eid="e35" class="OCCURRENCE">offending</EVENT>,' Mr Glare <EVENT eid="e36" class="REPORTING">said</EVENT>. 
+ 
+'These are young people but they're hardly juveniles and the definition of child needs to be <EVENT eid="e37" class="OCCURRENCE">amended</EVENT>.' 
+ 
+The state <EVENT eid="e38" class="REPORTING">announced</EVENT> a police recruitment drive on <TIMEX3 tid="t4" type="DATE" value="2017-01-29">Sunday</TIMEX3> that will <EVENT eid="e39" class="OCCURRENCE">bring</EVENT> an extra 3000 frontline police onto the state's streets. 
+ 
+AAP
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie21" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie38" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie25" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

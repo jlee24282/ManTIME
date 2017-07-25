@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193847316</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Kings hand Breakers a record-breaking loss</TITLE>
+
+
+<TEXT>
+BASKETBALL: The Sydney Kings have <EVENT eid="e1" class="OCCURRENCE">moved</EVENT> into fourth spot on the NBL ladder with a record-breaking 84-57 <EVENT eid="e2" class="OCCURRENCE">win</EVENT> over the New Zealand Breakers at Qudos Bank Arena. 
+ 
+The Kings <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e3" class="STATE">have</EVENT> a 13-13 record with two regular-season games remaining and have <EVENT eid="e4" class="OCCURRENCE">laid</EVENT> down a marker for the playoffs. 
+ 
+The home team <EVENT eid="e5" class="OCCURRENCE">overcame</EVENT> a strong start by the visitors and <EVENT eid="e6" class="REPORTING">ensured</EVENT> this was the most lopsided win over the Kiwi outfit in club history, <EVENT eid="e7" class="OCCURRENCE">eclipsing</EVENT> the 21-point <EVENT eid="e8" class="OCCURRENCE">beating</EVENT> of the Breakers in <TIMEX3 tid="t2" type="DATE" value="2006">2006</TIMEX3>. 
+ 
+Greg Whittington was the star of the show with 16 points, eight rebounds and seven <EVENT eid="e9" class="OCCURRENCE">assists</EVENT>, while Kevin Lisch <EVENT eid="e10" class="STATE">had</EVENT> 15 points and Jason Cadee 13. 
+ 
+It was Andrew Gaze's team's second <EVENT eid="e11" class="OCCURRENCE">win</EVENT> of <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">the weekend</TIMEX3> following the victory in Brisbane over the Bullets on <TIMEX3 tid="t4" type="TIME" value="2017-01-27TNI">Friday night</TIMEX3>. 
+ 
+It was the Breakers' first game since <EVENT eid="e12" class="OCCURRENCE">losing</EVENT> American import Akil Mitchell to a highly publicised eye injury in <TIMEX3 tid="t5" type="DATE" value="2017-01-26">Thursday</TIMEX3>'s <EVENT eid="e13" class="OCCURRENCE">loss</EVENT> to Cairns. 
+ 
+The Kiwi side <EVENT eid="e14" class="I_ACTION">started</EVENT> well but the Kings <EVENT eid="e15" class="OCCURRENCE">came</EVENT> on strong in <TIMEX3 tid="t6" type="DATE" value="2017-Q2">the second quarter</TIMEX3> and <EVENT eid="e16" class="OCCURRENCE">got</EVENT> even better in the third term, <EVENT eid="e17" class="OCCURRENCE">scoring</EVENT> 26-7 to <EVENT eid="e18" class="OCCURRENCE">take</EVENT> what proved to be an insurmountable 32-point lead into <TIMEX3 tid="t7" type="DATE" value="2017-Q1">the final quarter</TIMEX3>. 
+ 
+Gaze was <EVENT eid="e19" class="I_STATE">able</EVENT> to <EVENT eid="e20" class="OCCURRENCE">rest</EVENT> some of his stars in the fourth term, with Chinese development player Bo Liu <EVENT eid="e21" class="OCCURRENCE">becoming</EVENT> the first Chinese player to score in the NBL with his baseline jumpshot. 
+ 
+Scores: Bullets 77 Kings 80, Breakers 81 Taipans 94, Hawks 95 36ers 92, Wildcats 73 Melbourne United 71, Kings 84 Breakers 57
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t3" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t5" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t5" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="DURING" />
+<TLINK lid="TL2" eventInstanceID="ie12" relatedToTime="t5" relType="IS_INCLUDED" />
+</TimeML>

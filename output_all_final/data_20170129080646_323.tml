@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194467939</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Parent Network Of WNY Releases Acronym List</TITLE>
+
+
+<TEXT>
+Parent Network of WNY has <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recently</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">released</EVENT> an updated list of acronyms which will <EVENT eid="e2" class="I_ACTION">assist</EVENT> special education and disability parents and caregivers. 
+ 
+The Parent Network of WNY is a provider and education resources for families of individuals with special needs and professionals. Acronyms can sometimes be <EVENT eid="e3" class="OCCURRENCE">confusing</EVENT> for parents and caregivers, but the acronym list will be helpful for those involved. 
+ 
+The list is <EVENT eid="e4" class="OCCURRENCE">developed using</EVENT> a crossed-system language with the understanding that families arent just in communication with the schools, <EVENT eid="e5" class="REPORTING">said</EVENT> Tonia Weichmann, the Transition Coordinator for Parent Network of WNY. 
+ 
+A lot of our families are <EVENT eid="e6" class="OCCURRENCE">working</EVENT> with community agencies and <EVENT eid="e7" class="OCCURRENCE">going</EVENT> through different eligibility processes, so I <EVENT eid="e8" class="I_STATE">think</EVENT> this list is a great resource for them to <EVENT eid="e9" class="OCCURRENCE">take</EVENT> with them to their childs IEP meetings and any other meetings that involves coordination of services, she <EVENT eid="e10" class="REPORTING">said</EVENT>. <EVENT eid="e11" class="OCCURRENCE">Reviewing</EVENT> it ahead of time will <EVENT eid="e12" class="OCCURRENCE">help</EVENT> in better <EVENT eid="e13" class="OCCURRENCE">educating</EVENT> themselves and <EVENT eid="e14" class="OCCURRENCE">becoming</EVENT> a better advocate for their child. 
+ 
+The list includes acronyms such as WIC, or the Women Infants and Children program; the OTDA, or the NYS Office of Temporary and Disability Assistance; and PCP, or person-centered planning. In addition to the list of acronyms, the organization also <EVENT eid="e15" class="OCCURRENCE">offers</EVENT> a support group director, a military and veteran family resource guide; a recreation director; WNY Family Support Directory; and other information. 
+ 
+The network <EVENT eid="e16" class="OCCURRENCE">serves</EVENT> about 10,000 people a <TIMEX3 tid="t2" type="DURATION" value="PXY">year</TIMEX3>, and almost 12,000 individuals have developmental disabilities and are in need of support. Likewise, about 30,000 students <EVENT eid="e17" class="OCCURRENCE">receive</EVENT> special education services. Parent Network of WNY hosts over 300 workshops a year that <EVENT eid="e18" class="OCCURRENCE">serves</EVENT> about 5,000 people. 
+ 
+The network, which is based out of Buffalo, provides 1-on-1 support and education through resources, workshops and support groups to assist families of individual with disabilities to <EVENT eid="e19" class="OCCURRENCE">understand</EVENT> their disability and <EVENT eid="e20" class="OCCURRENCE">navigate</EVENT> the support service system. For more information, visit www.parentnetworkwny.org or <EVENT eid="e21" class="OCCURRENCE">call</EVENT> 332-417
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

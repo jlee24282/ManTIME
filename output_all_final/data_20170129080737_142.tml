@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196225509</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Liverpool wont lose against Chelsea  Klopp</TITLE>
+
+
+<TEXT>
+Liverpool manager, Jurgen Klopp, has <EVENT eid="e1" class="I_ACTION">insisted</EVENT> that it is not possible to <EVENT eid="e2" class="OCCURRENCE">get</EVENT> any lower, after they were <EVENT eid="e3" class="OCCURRENCE">sent</EVENT> packing from two cup competitions in <TIMEX3 tid="t1" type="DURATION" value="P3D">three days</TIMEX3>, with a tie against Chelsea up next. The 2-1 loss in the FA Cup to Wolverhampton Wanderers at Anfield followed home <EVENT eid="e4" class="OCCURRENCE">defeats</EVENT> to Southampton in the EFL Cup [ ] Liverpool <EVENT eid="e5" class="STATE">won</EVENT> t <EVENT eid="e6" class="OCCURRENCE">lose</EVENT> against Chelsea Klopp
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="BEFORE" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+</TimeML>

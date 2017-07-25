@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695205084850</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>BRIEF-Egyptian Iron and Steel H1 loss narrows</TITLE>
+
+
+<TEXT>
+Jan <TIMEX3 tid="t1" type="DATE" value="X">29</TIMEX3> (Reuters) - Egyptian Iron And Steel Co 
+ 
+ 
+ 
+ 
+* H1 net <EVENT eid="e1" class="OCCURRENCE">loss</EVENT> EGP 188.7 million versus net loss EGP <TIMEX3 tid="t2" type="DURATION" value="P3224Y">322.4 million year ago</TIMEX3> 
+ 
+ 
+ 
+ 
+* H1 net revenue EGP 805.3 million versus EGP <TIMEX3 tid="t3" type="DURATION" value="P5977Y">597.7 million year ago</TIMEX3>
+
+Source: ( bit.ly/2kfGSQE )
+Further company coverage:
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

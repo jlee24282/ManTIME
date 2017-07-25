@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204973716</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Sun 1/29: Ron's Garage</TITLE>
+
+
+<TEXT>
+<EVENT eid="e1" class="OCCURRENCE">Revise</EVENT> or <EVENT eid="e2" class="OCCURRENCE">correct</EVENT> this event listing 
+
+Please log in to <EVENT eid="e3" class="OCCURRENCE">submit</EVENT> event corrections 
+
+Comments 
+
+Sign in to <EVENT eid="e4" class="OCCURRENCE">comment</EVENT> 
+
+Username 
+
+I have an account. 
+
+I'm new. 
+
+Password Forgot? 
+
+Sign in 
+
+Password 
+
+Confirm password 
+
+Email 
+
+Sign up 
+
+Connect with OpenID 
+
+Or login with: 
+
+Connect to Facebook Connect to Twitter Google 
+
+McP's Irish Pub and Grill 
+
+Search event categories | Submit an event 
+
+Jon Reimer <TIMEX3 tid="t1" type="TIME" value="2017-01-29T12:30">12:30 p.m.</TIMEX3>, Jan. <TIMEX3 tid="t2" type="DATE" value="X">27</TIMEX3> 
+
+Chad Deal 11 <TIMEX3 tid="t3" type="DATE" value="2017-01">a.m., Jan.</TIMEX3> 27 
+
+Jeff Smith <TIMEX3 tid="t4" type="TIME" value="2017-01-29T14:05">2:05 p.m.</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2017-01-26">Jan. 26</TIMEX3> 
+
+Eve Kelly <TIMEX3 tid="t6" type="TIME" value="2017-01-29T13:30">1:30 p.m.</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2017-01">Jan.</TIMEX3> 25 
+
+The Canyoneers <TIMEX3 tid="t8" type="DATE" value="X">11</TIMEX3> a.m., <TIMEX3 tid="t9" type="DATE" value="2017-01-25">Jan. 25</TIMEX3> 
+
+Earn up to $100 for neighborhood news. 
+
+Earn up to $50 for concert reviews. 
+
+Earn up to $25 for album reviews. 
+
+Earn up to $50 for travel stories. 
+
+Earn up to $50 for water stories.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t4" relatedToTime="t3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t4" relatedToTime="t6" relType="IDENTITY" />
+<TLINK lid="TL0" timeID="t6" relatedToTime="t4" relType="IDENTITY" />
+</TimeML>

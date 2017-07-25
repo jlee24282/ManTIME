@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204803839</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Brooklyn Nets at Minnesota Timberwolves</TITLE>
+
+
+<TEXT>
+The Brooklyn Nets <EVENT eid="e1" class="OCCURRENCE">lost</EVENT> to the Minnesota Timberwolves 109 to 129 on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">January 28, 2017</TIMEX3> at Target Center. Karl-Anthony Towns of the Timberwolves <EVENT eid="e2" class="OCCURRENCE">led</EVENT> the game in <EVENT eid="e3" class="OCCURRENCE">scoring</EVENT> with 37 points on 15 for 26 shooting. Towns also <EVENT eid="e4" class="OCCURRENCE">cleaned</EVENT> up the glass, <EVENT eid="e5" class="OCCURRENCE">pulling</EVENT> down 4 offensive rebounds and 9 defensive rebounds. Nets Isaiah Whitehead <EVENT eid="e6" class="REPORTING">led</EVENT> the game in assists, with 8.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

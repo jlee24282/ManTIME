@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201579788</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>I was advised to grow hybrid bananas, but what are they?</TITLE>
+
+
+<TEXT>
+The benefits one can get from growing such bananas <EVENT eid="e1" class="OCCURRENCE">include</EVENT> higher yields, long lasting plantations and subsequenly higher income.... 
+
+Published By: monitor - Yesterday 
+
+Older News 
+
+Hybrid Wars 8. Theres more than <EVENT eid="e2" class="OCCURRENCE">meets</EVENT> the eye in Mozambique  Mozambique (<TIMEX3 tid="t1" type="DATE" value="2017-01-26">2 days ago</TIMEX3>) - The Hybrid War research has <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e3" class="OCCURRENCE">moved</EVENT> from the Horn of Africa and East Africa down to a belt of states that the author has <EVENT eid="e4" class="OCCURRENCE">taken</EVENT> to calling South-Central Africa,...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

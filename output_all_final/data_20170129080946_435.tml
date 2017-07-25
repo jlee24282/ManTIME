@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201534010</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Minor (34.14 ft) - Observation - SHNI2 - Ohio River at Shawneetown (Illinois)</TITLE>
+
+
+<TEXT>
+Search by city or zip code. Press <EVENT eid="e1" class="I_STATE">enter</EVENT> or <EVENT eid="e2" class="OCCURRENCE">select</EVENT> the go button to <EVENT eid="e3" class="OCCURRENCE">submit</EVENT> request 
+             
+Auto Refresh: OFF  
+      
+NOTE: River forecasts for this location take into account past precipitation and the precipitation amounts <EVENT eid="e4" class="OCCURRENCE">expected</EVENT> approximately <TIMEX3 tid="t1" type="DURATION" value="PT48H">48 hours</TIMEX3> into <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">the future</TIMEX3> from the forecast issuance time. 
+ NOTE: Forecasts for the Ohio River at Shawneetown are <EVENT eid="e5" class="OCCURRENCE">issued</EVENT> routinely year-round.       Flood Categories (in feet) 
+ Major Flood Stage:  53  Moderate Flood Stage:  43  Flood Stage:  33  Action Stage:  30  Low Stage (in feet):  -9999  
+Historic Crests 
+(1) 65.64 ft on 01/30/1937 
+(2) 56.35 ft on 05/06/2011 
+(3) 55.60 ft on 03/14/1945 
+(4) 55.30 ft on 01/19/1950 
+(5) 54.60 ft on <TIMEX3 tid="t3" type="DATE" value="1964-03-20">03/20/1964</TIMEX3> 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+Recent Crests 
+(1) 37.84 <EVENT eid="e6" class="OCCURRENCE">ft</EVENT> on 03/02/2016 
+(2) 43.55 <EVENT eid="e7" class="OCCURRENCE">ft</EVENT> on 01/04/2016 
+(3) 48.36 <EVENT eid="e8" class="OCCURRENCE">ft</EVENT> on 03/20/2015 
+(4) 41.28 <EVENT eid="e9" class="OCCURRENCE">ft</EVENT> on 04/11/2014 
+(5) 39.14 <EVENT eid="e10" class="OCCURRENCE">ft</EVENT> on <TIMEX3 tid="t4" type="DATE" value="2013-12-30">12/30/2013</TIMEX3> 
+Show More Recent Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+(1) 14.08 ft on 08/27/2006 
+(2) 14.13 ft on 06/10/2012 
+(3) 14.16 ft on <TIMEX3 tid="t5" type="DATE" value="2012-08-28">08/28/2012</TIMEX3> 
+Show More Low Water Records 
+   
+Show FEMA's National Flood Hazard Layers 
+   
+FEMA's National Flood Hazard Layers not <EVENT eid="e11" class="OCCURRENCE">showing</EVENT>? 
+  
+Note: Your zoom level may have <EVENT eid="e12" class="OCCURRENCE">changed</EVENT>. ESRI's zoom levels must be between 14 and 16 to <EVENT eid="e13" class="OCCURRENCE">show</EVENT> National Flood Hazard layers. 
+      
+<EVENT eid="e14" class="OCCURRENCE">Zoom</EVENT> Level:16 
+   
+Legend 
+   
+FEMA Layer 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location <EVENT eid="e15" class="OCCURRENCE">shown</EVENT> in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  65.64  This flood will <EVENT eid="e16" class="OCCURRENCE">exceed</EVENT> the highest stage on record. Large amounts of property damage can be <EVENT eid="e17" class="OCCURRENCE">expected</EVENT>. Evacuation of many homes and businesses becomes necessary.  60  The top of the protection is <EVENT eid="e18" class="OCCURRENCE">reached</EVENT> in Shawneetown.  52  Several rural roads and houses are isolated.  43  Several county roads are <EVENT eid="e19" class="OCCURRENCE">closed</EVENT>.  33  Minor flooding occurs <EVENT eid="e20" class="OCCURRENCE">affecting</EVENT> mainly bottomland and surrounding low lying areas.  26  The boat ramp and parking lot at Old Shawneetown are under water.  Photos 
+(1) Public Boat Ramp and Parking Lot 
+(2) Ohio River Upstream 
+(3) Ohio River Downstream 
+(4) Kentucky Bank 
+(5) Incline Gage at Boat Ramp 
+  
+Latitude: 37.691944 N, Longitude: 88.133333 W, Horizontal Datum: NAD83/WGS84 
+ River Stage 
+Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  33 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
+(gauge height = 0)  Elevation 
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  309.07 ft  342.07 ft        The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please <EVENT eid="e21" class="OCCURRENCE">click</EVENT> here .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t4" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t1" relType="DURING" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

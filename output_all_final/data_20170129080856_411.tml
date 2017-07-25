@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199583841</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Second Half Surge Lifts FAMU Women Past DSU, 65-56</TITLE>
+
+
+<TEXT>
+DOVER, Del. (<TIMEX3 tid="t1" type="DATE" value="2017-01-28">Jan. 28</TIMEX3>)  The FAMU Womens Basketball team <EVENT eid="e1" class="OCCURRENCE">pulled</EVENT> away from host Delaware State in the <TIMEX3 tid="t2" type="TIME" value="2017-01-28TAF">second half Saturday afternoon</TIMEX3>, for a 65-56 Mid-Eastern Athletic Conference victory at Memorial Hall. 
+For FAMU (5-15, 3-4 MEAC), the win was the teams second straight, the first time all season they had <EVENT eid="e2" class="OCCURRENCE">managed</EVENT> back-to-back victories, and they <EVENT eid="e3" class="I_ACTION">clinched</EVENT> the win with a <TIMEX3 tid="t3" type="DATE" value="X">second</TIMEX3> half scoring surge which <EVENT eid="e4" class="OCCURRENCE">built</EVENT> on their slim one-point halftime lead. 
+ 
+Junior Dawn King <EVENT eid="e5" class="OCCURRENCE">led</EVENT> FAMU with 13 points, <EVENT eid="e6" class="OCCURRENCE">knocking</EVENT> down a trio of three-pointers, while senior Cedrick Sweeting <EVENT eid="e7" class="OCCURRENCE">cashed</EVENT> in three triples en route to a 12-point effort. Junior Shakerrya Morrison <EVENT eid="e8" class="OCCURRENCE">added</EVENT> nine points and nine rebounds, while junior Alicia McCray <EVENT eid="e9" class="OCCURRENCE">pulled</EVENT> down eight rebounds. 
+ 
+Na Jai Pollard <EVENT eid="e10" class="OCCURRENCE">led</EVENT> all scorers in the game with 18 points for Delaware State. Pollard <EVENT eid="e11" class="OCCURRENCE">added</EVENT> 11 rebounds for a double-double, while Mikah Aldridge <EVENT eid="e12" class="OCCURRENCE">added</EVENT> 16 points for the Hornets. 
+ 
+The Rattler Women <EVENT eid="e13" class="OCCURRENCE">trailed</EVENT> 22-18 after the first period, but <EVENT eid="e14" class="OCCURRENCE">overtook</EVENT> the Hornets (2-18, 1-6 MEAC) with a 17-12 run in the second stanza to <EVENT eid="e15" class="OCCURRENCE">cling</EVENT> to a 35-34 lead at the <EVENT eid="e16" class="OCCURRENCE">break</EVENT>. 
+ 
+FAMU <EVENT eid="e17" class="OCCURRENCE">shot</EVENT> 44 percent (13 of 29) from the floor, <EVENT eid="e18" class="OCCURRENCE">knocking</EVENT> down six of 13 three-pointers in the opening frames, while DelState <EVENT eid="e19" class="OCCURRENCE">shot</EVENT> 34.5 percent (10-of-29), but <EVENT eid="e20" class="OCCURRENCE">hung</EVENT> close by <EVENT eid="e21" class="OCCURRENCE">shooting</EVENT> 81 percent (13 of 16) from the foul line. 
+ 
+The Hornets <EVENT eid="e22" class="OCCURRENCE">went</EVENT> ice cold in the <TIMEX3 tid="t4" type="DATE" value="X">second half</TIMEX3>, <EVENT eid="e23" class="OCCURRENCE">managing</EVENT> a 19.4 percent (6 of 31) from the floor, as they <EVENT eid="e24" class="OCCURRENCE">scored</EVENT> just five points in the third <TIMEX3 tid="t5" type="DATE" value="2017-Q1">period</TIMEX3> to 18 for FAMU, which proved to be the clincher for the Rattlers. 
+ 
+Still, State <EVENT eid="e25" class="OCCURRENCE">outscored</EVENT> FAMU in the fourth stanza, 17-12, but the 13-point difference in the third was enough for the Rattlers to <EVENT eid="e26" class="OCCURRENCE">hold</EVENT> on for the victory.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t4" relatedToEventInstance="ie22" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie22" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t2" relType="SIMULTANEOUS" />
+</TimeML>

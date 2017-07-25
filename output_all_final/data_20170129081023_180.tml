@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202609927</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Google Home Partners Up With Smart Home Manufacturers</TITLE>
+
+
+<TEXT>
+Google Home is <EVENT eid="e1" class="OCCURRENCE">set</EVENT> to <EVENT eid="e2" class="OCCURRENCE">change</EVENT> how AI can <EVENT eid="e3" class="OCCURRENCE">help</EVENT> you out at home, and <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> the company has <EVENT eid="e4" class="OCCURRENCE">roped</EVENT> in some friends to <EVENT eid="e5" class="OCCURRENCE">make</EVENT> the whole experience even better. 
+ 
+Google will be <EVENT eid="e6" class="OCCURRENCE">working</EVENT> with Belkin's Wemo and Honeywellto grant users to <EVENT eid="e7" class="OCCURRENCE">automate</EVENT> their home even further with just their voice.Belkin's Wemo line includessmart plugs and light switches, <EVENT eid="e8" class="OCCURRENCE">giving</EVENT> Google Home owners the ability to <EVENT eid="e9" class="OCCURRENCE">control</EVENT> their home's <EVENT eid="e10" class="OCCURRENCE">lighting</EVENT>. Support for Honeywell allows for connected devices like theHoneywell Lyricsmart thermostat to be <EVENT eid="e11" class="OCCURRENCE">controlled</EVENT> remotely via Google Assistant. To <EVENT eid="e12" class="OCCURRENCE">connect</EVENT> to these devices, all the owner has to do is press "+" in the Home Control Menu of the Google Home app. 
+ 
+Users can also <EVENT eid="e13" class="I_ACTION">program</EVENT> their Google Homes or Pixel phones <EVENT eid="e14" class="OCCURRENCE">using</EVENT> IFTT functionality. This will <EVENT eid="e15" class="I_ACTION">allow</EVENT> them to <EVENT eid="e16" class="OCCURRENCE">usemore</EVENT> specialized interactions withtheir appliances. For example, they can <EVENT eid="e17" class="OCCURRENCE">replace</EVENT> "OKGoogle, <EVENT eid="e18" class="OCCURRENCE">turn</EVENT> on the living room lights" to something like "OK Google, Let there be light" 
+ 
+Google is also <EVENT eid="e19" class="OCCURRENCE">planning</EVENT> onbringing smart device control not just to Google Home, but the Pixel smartphone as well. Google hasn't <EVENT eid="e20" class="OCCURRENCE">given</EVENT> a deadline for Pixel smart home support, but <EVENT eid="e21" class="REPORTING">says</EVENT> the feature will be out "soon." 
+ 
+This article was originally <EVENT eid="e22" class="OCCURRENCE">published</EVENT> on tbreak and has been <EVENT eid="e23" class="OCCURRENCE">reposted</EVENT> on Entrepreneur Middle Eastbased on a mutual <EVENT eid="e24" class="OCCURRENCE">agreement</EVENT> between the websites. 
+     
+tbreak consists of a team of highly passionate and opinionated editors who are experts in the fields of mobiles, applications and computers components, and are <EVENT eid="e25" class="I_STATE">dedicated</EVENT> to covering the latest tech news and events both regionally and intern... 
+ Read more
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="PROGRESSIVE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

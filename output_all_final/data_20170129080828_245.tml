@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198166044</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>William and Harry commission statue of mother Diana to mark 20 years since death</TITLE>
+
+
+<TEXT>
+Diana, Princess of Wales is to be commemorated with a statue <EVENT eid="e1" class="OCCURRENCE">commissioned</EVENT> by her sons to <EVENT eid="e2" class="OCCURRENCE">mark</EVENT> the <TIMEX3 tid="t1" type="DATE" value="X">20th anniversary</TIMEX3> of her death. The Duke of Cambridge and Prince Harry <EVENT eid="e3" class="REPORTING">said</EVENT>, with the <EVENT eid="e4" class="OCCURRENCE">passing</EVENT> of <TIMEX3 tid="t2" type="DURATION" value="PXY">the years</TIMEX3>, the time was now appropriate to "<EVENT eid="e5" class="OCCURRENCE">recognise</EVENT> her positive impact" both at home and abroad with the monument. 
+ 
+Start the conversation, or <EVENT eid="e6" class="OCCURRENCE">Read</EVENT> more at Wharfedale Observer. 
+     
+
+      
+
+   
+Copyright  2017 Topix LLC
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

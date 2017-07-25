@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198898815</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>China-Chengdu-Europe Express</TITLE>
+
+
+<TEXT>
+Two <EVENT eid="e1" class="I_STATE">express</EVENT> trains loaded with 78 containers full of goods <EVENT eid="e2" class="OCCURRENCE">left</EVENT> Chengdu City in southwest China's Sichuan Province for Poland on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, the <TIMEX3 tid="t2" type="DURATION" value="PXD">first day</TIMEX3> of the Chinese New Year. 
+
+The containers are mainly <EVENT eid="e3" class="OCCURRENCE">filled</EVENT> with electronic products as well as some subsistence goods. 
+
+The Chengdu-Europe Express <EVENT eid="e4" class="ASPECTUAL">began operation</EVENT> in <TIMEX3 tid="t3" type="DATE" value="2013-04-26">April 26, 2013</TIMEX3>. With the thorough implementation of the "Belt and Road" strategy, the operation frequency has <EVENT eid="e5" class="OCCURRENCE">increased</EVENT> from one train per <TIMEX3 tid="t4" type="DURATION" value="P1W">week</TIMEX3> to one to two trains per day. 
+
+In <TIMEX3 tid="t5" type="DATE" value="2017">2017</TIMEX3>, products including flowers, plants and toys have <EVENT eid="e6" class="I_ACTION">begun shipping</EVENT> to Europe, and the frequency of shipment is <EVENT eid="e7" class="I_STATE">expected</EVENT> to further increase to two to three trains on a daily average.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+</TimeML>

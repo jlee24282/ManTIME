@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201580801</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Farmers take up insurance scheme in face of drought</TITLE>
+
+
+<TEXT>
+The drought has <EVENT eid="e1" class="OCCURRENCE">affected</EVENT> many crops, including coffee. It is against such risks that an agricultural insurance scheme <EVENT eid="e2" class="OCCURRENCE">protects</EVENT> farmers, <EVENT eid="e3" class="REPORTING">writes</EVENT> Michael J Ssali... 
+
+Published By: monitor - Yesterday 
+
+Older News 
+
+British Official Deeply Concerned by Somalia Drought  Somalia (<TIMEX3 tid="t1" type="DATE" value="2017-01-27">Yesterday</TIMEX3>) - The British secretary for International Development <EVENT eid="e4" class="REPORTING">says</EVENT> she is deeply <EVENT eid="e5" class="I_STATE">concerned</EVENT> at the worsening drought situation in Somalia. At the end of a <EVENT eid="e6" class="OCCURRENCE">visit</EVENT> to Mogadishu <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>, Priti Patel <EVENT eid="e7" class="REPORTING">said</EVENT>... 
+
+Somalia-born Brit Olympic hero Mo Farah could <EVENT eid="e8" class="OCCURRENCE">find</EVENT> himself <EVENT eid="e9" class="OCCURRENCE">caught</EVENT> up in Donald Trump Muslim ban 
+
+UK <EVENT eid="e10" class="I_STATE">pledges</EVENT> further support to <EVENT eid="e11" class="OCCURRENCE">address</EVENT> humanitarian needs <EVENT eid="e12" class="OCCURRENCE">caused</EVENT> by drought in Somalia 
+
+Police block pastoralists meet as drought bites Karamoja 
+
+Chad Campbell <EVENT eid="e13" class="OCCURRENCE">opens</EVENT> Round 2 with birdie at Farmers  Chad (<TIMEX3 tid="t3" type="DATE" value="2017-01-26">2 days ago</TIMEX3>) - In the second round of the <TIMEX3 tid="t4" type="DATE" value="2017">2017</TIMEX3> Farmers Insurance Open, Chad Campbell holes an 8-foot birdie putt on the par-4 1st hole.... 
+
+AS MPHOKO OPENS OWN SHOP 
+
+Premiums of insurance companies <EVENT eid="e14" class="OCCURRENCE">exceed</EVENT> EGP 17bn at end of last fiscal year: EFSA  dailynewsegypt (<TIMEX3 tid="t5" type="DATE" value="2017-01-25">3 days ago</TIMEX3>) - Samy <EVENT eid="e15" class="OCCURRENCE">stressed</EVENT> the importance of <EVENT eid="e16" class="OCCURRENCE">developing</EVENT> the compulsory insurance systemThe post Premiums of insurance companies <EVENT eid="e17" class="STATE">exceed</EVENT> EGP 17bn at end of last fiscal year: EFSA <EVENT eid="e18" class="OCCURRENCE">appeared</EVENT> first on Daily News... 
+
+Companies Defy Odds, Reopen
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

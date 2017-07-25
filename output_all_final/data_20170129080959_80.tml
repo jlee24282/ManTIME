@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201666281</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>PostedMidQ1.doc</TITLE>
+
+
+<TEXT>
+1. On SR25, the azimuth of travel from the end project point to PI2 is most nearly:
+@ The forward Az is 75 degrees, therefore the back azimuth is 75+180 = 255.
+a. 45
+b. 135
+*c. 225
+d. 315
+2. The straight line distance (as the crow flies) from the <EVENT eid="e1" class="ASPECTUAL">begin</EVENT> to <EVENT eid="e2" class="OCCURRENCE">end</EVENT> project point is most
+nearly?
+@ dist = sqrt((change in north^2)+(change in east^2)) = sqrt(<TIMEX3 tid="t1" type="DATE" value="1808">1808</TIMEX3>^2+3326^2) = 3786.
+a. 3300
+b. 3500
+*c. <TIMEX3 tid="t2" type="DATE" value="X">3700</TIMEX3>
+d. 3900
+3. Which triangle is <EVENT eid="e3" class="OCCURRENCE">used</EVENT> to <EVENT eid="e4" class="OCCURRENCE">derive</EVENT> the formula for <EVENT eid="e5" class="OCCURRENCE">calculating</EVENT> the long chord of a
+horizonta
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

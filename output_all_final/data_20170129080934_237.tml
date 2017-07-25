@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200935576</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>JAMB Warns Against Fake Application Forms In Circulation</TITLE>
+
+
+<TEXT>
+The Joint Admission and Matriculation Board, JAMB has <EVENT eid="e1" class="OCCURRENCE">warned</EVENT> members of the general public about the activities of fraudsters illegally <EVENT eid="e2" class="OCCURRENCE">selling</EVENT> fake JAMB forms to unsuspecting applicants. The JAMB Registrar, Prof Isiaq Oloyede, represented by the Director of Special Duties, Mr Olujide Adisa, <EVENT eid="e3" class="OCCURRENCE">gave</EVENT> the <EVENT eid="e4" class="OCCURRENCE">warning</EVENT> in Abeokuta, the Ogun state capital during the parade of two suspects by the Ogun state command of the Nigeria Security and Civil Defence Corps. The JAMB boss <EVENT eid="e5" class="REPORTING">said</EVENT> that the forms for <TIMEX3 tid="t1" type="DATE" value="2017">the 2017</TIMEX3> session were not out yet as the board was <EVENT eid="e6" class="OCCURRENCE">putting</EVENT> all machinery together to <EVENT eid="e7" class="OCCURRENCE">ensure</EVENT> a hitch-free admission process. The two middle-aged men were reportedly <EVENT eid="e8" class="OCCURRENCE">arrested</EVENT> in Abeokuta, the Ogun state capital by the men of the Nigeria Security and Civil Defence Corps at two locations. They <EVENT eid="e9" class="OCCURRENCE">caught</EVENT> in the act of <EVENT eid="e10" class="REPORTING">selling</EVENT> a form <EVENT eid="e11" class="REPORTING">said</EVENT> to be <EVENT eid="e12" class="STATE">fake</EVENT> to unsuspecting Joint Admission and Matriculation Board candidates. Putting the records straight, the JAMB Director of Special Duties <EVENT eid="e13" class="REPORTING">said</EVENT> that any form being <EVENT eid="e14" class="OCCURRENCE">sold</EVENT> <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">currently</TIMEX3> by anybody is <EVENT eid="e15" class="I_STATE">presumed</EVENT> to be fake. He <EVENT eid="e16" class="OCCURRENCE">asked</EVENT> prospective applicants to <EVENT eid="e17" class="OCCURRENCE">visit</EVENT> any of the state offices of the board across the country for any inquiry and <EVENT eid="e18" class="OCCURRENCE">save</EVENT> themselves from the antics of the fraudsters on the prow.http://www.edificationinfo.com/2017/01/jamb-warns-against-fake-application.htmlcc lalasticlala
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie14" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToEventInstance="ie14" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="AFTER" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie15" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

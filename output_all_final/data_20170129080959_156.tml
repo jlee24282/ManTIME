@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201734534</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>H.S. GYMNASTICS: North Attleboro girls edge King Philip</TITLE>
+
+
+<TEXT>
+NORTH ATTLEBORO - Junior Bella Celeste and freshman Cassidy Becker <EVENT eid="e1" class="OCCURRENCE">scored</EVENT> well in all four events in <EVENT eid="e2" class="OCCURRENCE">leading</EVENT> the North Attleboro High gymnastics team to a season-high point total in a 143.35-135.55 victory over King Philip Saturday in a Hockomock League <EVENT eid="e3" class="OCCURRENCE">meet</EVENT>.
+
+Becker <EVENT eid="e4" class="OCCURRENCE">finished</EVENT> first in three events, <EVENT eid="e5" class="I_ACTION">tying</EVENT> for first place with Celeste in vaulting, <EVENT eid="e6" class="OCCURRENCE">tying</EVENT> with KP's Kayla Schuberth on the even bars, while also <EVENT eid="e7" class="OCCURRENCE">winning</EVENT> the balance beam and floor exercise competition.
+
+Becker <EVENT eid="e8" class="REPORTING">compiled</EVENT> an all-around score of 36.9, while Celeste <EVENT eid="e9" class="OCCURRENCE">scored</EVENT> 36.1. Sidney Treeful <EVENT eid="e10" class="OCCURRENCE">posted</EVENT> an all-around score of 35.65 for the Warriors.
+
+North (5-1) next travels to the Butler Academy in Attleboro on <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Thursday</TIMEX3> to <EVENT eid="e11" class="OCCURRENCE">meet</EVENT> the Bombardiers.
+
+North Attleboro girls 143.35, King Philip 135.55: Vaulting 1-tie: Cassidy Becker, Bella Celeste (NA), 3-Mimi Gray (NA), 9.2; Uneven bars 1-tie: Becker, Kayla Schuberth (KP), 3-Celeste (NA), 9.05; Balance Beam 1-Becker (NA), 2-Sidney Treeful (KP), 3-tie: Alex Hardy, Celeste (NA), 9.45; Floor exercises 1-Becker (NA), 2-Treeful (KP), 3-tie: Kristina Fournier, Celeste (NA), 9.2.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie11" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+</TimeML>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194730653</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Veteran Spears wins Open mixed doubles</TITLE>
+
+
+<TEXT>
+American veteran Abigail Spears and Colombian partner Juan Sebastian Cabal have <EVENT eid="e1" class="OCCURRENCE">claimed</EVENT> victory in the Australian Open mixed <EVENT eid="e2" class="OCCURRENCE">doubles</EVENT>' final. 
+ 
+Age <EVENT eid="e3" class="ASPECTUAL">continues</EVENT> to be no barrier to success at the Australian Open, with American veteran Abigail Spears <EVENT eid="e4" class="OCCURRENCE">taking</EVENT> out the mixed doubles crown with Colombian partner Juan Sebastian Cabal. 
+ 
+The duo were too good for No.2 seeds, Croatia's Ivan Dodig and India's Sania Mirza, <EVENT eid="e5" class="OCCURRENCE">charging</EVENT> to a 6-2 6-4 <EVENT eid="e6" class="OCCURRENCE">victory</EVENT> in <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> afternoon's final. 
+ 
+It is the first grand slam silverware for Spears or Cabal, who are <EVENT eid="e7" class="OCCURRENCE">competing</EVENT> at Melbourne Park together for the first time. 
+ 
+The victory is particularly sweet for 35-year-old Spears, who has twice finished runner-up in the mixed <EVENT eid="e8" class="OCCURRENCE">doubles</EVENT> at the US Open and has <EVENT eid="e9" class="OCCURRENCE">outlined</EVENT> plans to <EVENT eid="e10" class="OCCURRENCE">retire</EVENT> at the end of the season. 
+ 
+Serena and Venus Williams - aged 35 and 36 respectively - <EVENT eid="e11" class="OCCURRENCE">faced</EVENT> off on <TIMEX3 tid="t2" type="TIME" value="2017-01-28TNI">Saturday night</TIMEX3> in the oldest women's grand slam decider, 38-year-old twins Bob and Mike Bryan <EVENT eid="e12" class="OCCURRENCE">lost</EVENT> the men's doubles final to Australian John Peers and Henri Kontinen of Finland. 
+ 
+The retro theme will <EVENT eid="e13" class="OCCURRENCE">continue</EVENT> on <TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3> night in the men's singles final, with 35-year-old Roger Federer and 30-year-old Rafael Nadal doing battle in a hotly anticipated decider.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203424540</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Do you want to know how to complain about Currys aftersales team Knowhow? Here's how</TITLE>
+
+
+<TEXT>
+Lee Allen <EVENT eid="e1" class="OCCURRENCE">contacted</EVENT> me by Twitter to <EVENT eid="e2" class="OCCURRENCE">ask</EVENT> for my <EVENT eid="e3" class="OCCURRENCE">help</EVENT> with retailers Currys PC World.
+
+Absolutely livid with service by @curryspcworld, he <EVENT eid="e4" class="REPORTING">wrote</EVENT>.
+
+No working <EVENT eid="e5" class="OCCURRENCE">washing</EVENT> machine for <TIMEX3 tid="t1" type="DURATION" value="P2W">2 weeks</TIMEX3>. Taking advice from @MrJustice01.
+
+Lee, of Newcastle, <EVENT eid="e6" class="REPORTING">told</EVENT> me how he was <EVENT eid="e7" class="OCCURRENCE">messed</EVENT> about by fitters from the companys Knowhow division who <EVENT eid="e8" class="I_STATE">arrived</EVENT> to <EVENT eid="e9" class="OCCURRENCE">fit</EVENT> the washing machine without the right pipes.
+
+Then he was <EVENT eid="e10" class="OCCURRENCE">given</EVENT> another date, provided he <EVENT eid="e11" class="OCCURRENCE">picked</EVENT> up the missing pipe from one of their stores.
+
+Lee <EVENT eid="e12" class="OCCURRENCE">refused</EVENT> on the grounds that he had <EVENT eid="e13" class="OCCURRENCE">paid</EVENT> for the fitting and it was up to Currys PC World to <EVENT eid="e14" class="OCCURRENCE">arrive</EVENT> with the right...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

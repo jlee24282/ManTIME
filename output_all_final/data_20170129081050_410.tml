@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203603079</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Noir Lit Fest: A 'thriller' weekend in the Capital</TITLE>
+
+
+<TEXT>
+New Delhi, <TIMEX3 tid="t1" type="DATE" value="2017-01">Jan</TIMEX3> 29 (PTI) The Capital <EVENT eid="e1" class="OCCURRENCE">played</EVENT> host to the third edition of the Noir Literature Festival with crime writers from across the country <EVENT eid="e2" class="OCCURRENCE">celebrating</EVENT> the literary genre over <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">the weekend</TIMEX3>.
+
+The <TIMEX3 tid="t3" type="DURATION" value="P3D">three-day</TIMEX3> festival which <EVENT eid="e3" class="OCCURRENCE">began</EVENT> on <TIMEX3 tid="t4" type="DATE" value="2017-01-27">January 27</TIMEX3> <EVENT eid="e4" class="I_ACTION">sought</EVENT> to "<EVENT eid="e5" class="OCCURRENCE">examine</EVENT> the genre of crime fiction to <EVENT eid="e6" class="PERCEPTION">see</EVENT> how it influences society and <EVENT eid="e7" class="I_STATE">reflects</EVENT> the <EVENT eid="e8" class="OCCURRENCE">blurring</EVENT> of right and wrong in our ever-evolving societies," organisers <EVENT eid="e9" class="REPORTING">said</EVENT>.
+
+The festival which was <EVENT eid="e10" class="OCCURRENCE">held</EVENT> at the Oxford book store here, hosted crime writers of the country as well as noted authors from Australia, Italy and Norway.
+
+"The programme for <TIMEX3 tid="t5" type="DATE" value="2017">this year</TIMEX3> sought to <EVENT eid="e11" class="OCCURRENCE">include</EVENT> as many sub-genres of crime as possible, with sessions on true crime, historical crime fiction, graphic novels, legal crime, detective fiction, fantasy crime fiction, crime reportage, gender crimes, and many more such topical themes," organisers <EVENT eid="e12" class="REPORTING">said</EVENT>.
+
+The event that comes to a close <TIMEX3 tid="t6" type="DATE" value="2017-01-29">today</TIMEX3>, <EVENT eid="e13" class="OCCURRENCE">kicked</EVENT> off with an inaugural speech by author and publisher Namita Gokhale, who is also the festival director.
+
+Aficionados of the genre were <EVENT eid="e14" class="OCCURRENCE">treated</EVENT> to sessions on fiction, non-fiction and reportage of real life incidents.
+
+Speakers included Shashi Warrier, Urvashi Butalia, Madhulika Liddle, Ashwin Sanghi, Thomas Enger among others.
+
+Sanghi's session <EVENT eid="e15" class="OCCURRENCE">revolved</EVENT> around his novel 'Private Delhi', which he has <EVENT eid="e16" class="OCCURRENCE">co-written</EVENT> with American author James Patterson, while police officer and author Vibhuti Narain Rai <EVENT eid="e17" class="OCCURRENCE">talked</EVENT> about his book, "Shahar Mein Curfew".
+
+Several sessions were also <EVENT eid="e18" class="OCCURRENCE">held</EVENT> in Hindi to <EVENT eid="e19" class="OCCURRENCE">celebrate</EVENT> the work of writers such as Surender Mohan Pathak.
+
+Besides the sessions and writing workshops, the festival also <EVENT eid="e20" class="OCCURRENCE">hosted</EVENT> the 'Qrious Qrimes Quiz' and a screening of the classic noir film 'Bonnie and Clyde' in Hauz Khas here.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

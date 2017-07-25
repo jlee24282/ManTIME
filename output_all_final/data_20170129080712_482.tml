@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195540478</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>29/16:13 EDT Severe Weather Warning 1 (TAS)</TITLE>
+
+
+<TEXT>
+IDT20032 
+Australian Government Bureau of Meteorology 
+Tasmanian Regional Office 
+ 
+TOP PRIORITY FOR IMMEDIATE BROADCAST  
+SEVERE WEATHER WARNING  for DAMAGING WINDS  
+For people in the Furneaux Islands, Western, Upper Derwent Valley, South East, North East, East Coast, Central North, Central Plateau, Midlands and parts of the North West Coast Forecast Districts. 
+
+ 
+Issued at 4:13 pm <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>, 29 <TIMEX3 tid="t2" type="DATE" value="2017-01">January 2017</TIMEX3>. 
+
+ 
+Weather Situation 
+A fast <EVENT eid="e1" class="OCCURRENCE">moving</EVENT> cold front <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">currently</TIMEX3> south of Western Australia will <EVENT eid="e2" class="OCCURRENCE">cross</EVENT> the Bight overnight, then Tasmania <TIMEX3 tid="t4" type="TIME" value="2017-01-29TAF">tomorrow afternoon</TIMEX3>, with fresh to strong and gusty northwesterly winds developing ahead of the front. 
+
+ 
+DAMAGING NORTHWESTERLY WINDS, <EVENT eid="e3" class="OCCURRENCE">averaging</EVENT> 40 to 60 km/h with peak gusts in excess of 100 km/h are possible over all of Tasmania, except for the north and west coasts and King Island, from <TIMEX3 tid="t5" type="TIME" value="2017-01-23TMO">Monday morning</TIMEX3>. 
+
+ 
+Winds are <EVENT eid="e4" class="I_STATE">expected</EVENT> to <EVENT eid="e5" class="OCCURRENCE">ease</EVENT> during <TIMEX3 tid="t6" type="TIME" value="2017-01-23TAF">Monday afternoon</TIMEX3> as the cold front <EVENT eid="e6" class="OCCURRENCE">clears</EVENT> the state. 
+
+ 
+Locations which may be affected <EVENT eid="e7" class="OCCURRENCE">include</EVENT> Launceston, St Helens, Swansea, New Norfolk, Hobart and Dover. 
+
+ 
+The State Emergency Service <EVENT eid="e8" class="OCCURRENCE">advises</EVENT> that people should: 
+* <EVENT eid="e9" class="OCCURRENCE">Supervise</EVENT> children closely. 
+* Check that family and neighbours are aware of warnings. 
+* Manage pets and livestock. 
+* Secure outdoor items including furniture and play equipment. 
+* Be <EVENT eid="e10" class="OCCURRENCE">prepared</EVENT> in case of power outages. 
+* <EVENT eid="e11" class="OCCURRENCE">Beware</EVENT> of damaged trees and power lines and take care when driving. 
+* <EVENT eid="e12" class="OCCURRENCE">Listen</EVENT> to the ABC radio or <EVENT eid="e13" class="OCCURRENCE">check</EVENT> www.ses.tas.gov.au for further advice. 
+* For emergency assistance contact the SES on 132500. 
+
+ 
+The next Severe Weather Warning will be <EVENT eid="e14" class="OCCURRENCE">issued</EVENT> by 11:00 pm AEDT <TIMEX3 tid="t7" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+
+ 
+Warnings are also available through TV and Radio broadcasts, the Bureau's website at www.bom.gov.au or <EVENT eid="e15" class="OCCURRENCE">call</EVENT> 1300 659 216. The Bureau and State Emergency Service would <EVENT eid="e16" class="OCCURRENCE">appreciate</EVENT> warnings being <EVENT eid="e17" class="OCCURRENCE">broadcast</EVENT> regularly.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="NONE" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie2" relatedToTime="t3" relType="ENDED_BY" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie14" relatedToTime="t7" relType="IS_INCLUDED" />
+</TimeML>

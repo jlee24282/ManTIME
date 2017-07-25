@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202015262</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>FSU Beach Volleyball Makes a Pit Stop in PCB</TITLE>
+
+
+<TEXT>
+By Brianna MacNaught | bmacnaught@wmbb.com 
+  
+Published 01/28 <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> 11:47PM 
+ 
+Updated 01/28 <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> 11:55PM 
+   
+PANAMA CITY BEACH, Fla 
+ 
+FSU's beach volleyball team <EVENT eid="e1" class="OCCURRENCE">made</EVENT> a pit stop in Panama City Beach <TIMEX3 tid="t3" type="DATE" value="2017-01-29">today</TIMEX3>. 
+ 
+They <EVENT eid="e2" class="OCCURRENCE">hosted</EVENT> a practice at Sharky's for FSU fans <EVENT eid="e3" class="OCCURRENCE">followed</EVENT> by a dinner with the team. 
+ 
+FSU head coach, Brooke Niles, <EVENT eid="e4" class="REPORTING">said practicing</EVENT> at beaches like Panama City's is one of the ways they prepare for the tough <TIMEX3 tid="t4" type="DATE" value="X">season</TIMEX3> ahead. 
+ 
+"We are here in Panama City just to <EVENT eid="e5" class="OCCURRENCE">practice</EVENT> in a different location and <EVENT eid="e6" class="OCCURRENCE">get</EVENT> out and <EVENT eid="e7" class="OCCURRENCE">meet</EVENT> some of our boosters and just <EVENT eid="e8" class="OCCURRENCE">prepare</EVENT> for a long season on the road. This is very similar to where we <EVENT eid="e9" class="STATE">play</EVENT> our national championships in Gulf Shores so the wind can <EVENT eid="e10" class="OCCURRENCE">come</EVENT> off the ocean, it can be swirly, you just cant <EVENT eid="e11" class="OCCURRENCE">predict</EVENT> it. <TIMEX3 tid="t5" type="DATE" value="2017">This year</TIMEX3> with the strength of our schedule being strong the entire season is going to <EVENT eid="e12" class="OCCURRENCE">prepare</EVENT> us for the national championships so we can <EVENT eid="e13" class="OCCURRENCE">take</EVENT> home that win," <EVENT eid="e14" class="REPORTING">said</EVENT> Coach Brooke Niles.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196196837</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Pigeon brings up ton just</TITLE>
+
+
+<TEXT>
+RANDS James Kreutzberger <EVENT eid="e1" class="OCCURRENCE">hit</EVENT> a boundary off the final ball of the innings to <EVENT eid="e2" class="OCCURRENCE">bring</EVENT> up his century in the Pigeons <EVENT eid="e3" class="OCCURRENCE">win</EVENT> against Burrumbuttock at Rand on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> RANDS James Kreutzberger <EVENT eid="e4" class="OCCURRENCE">hit</EVENT> a boundary off the final ball of the innings to <EVENT eid="e5" class="OCCURRENCE">bring</EVENT> up his century in the Pigeons <EVENT eid="e6" class="OCCURRENCE">win</EVENT> against Burrumbuttock at Rand on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>.
+
+Kreutzberger <EVENT eid="e7" class="OCCURRENCE">finished</EVENT> 100 not out in a commanding score of 4-212 with Mark Kreutzberger (47) and Brayden Lieschke (30) lending support.
+
+It was his first ton since <EVENT eid="e8" class="OCCURRENCE">bringing</EVENT> up triple <EVENT eid="e9" class="OCCURRENCE">figures</EVENT> against Brocklesby in <TIMEX3 tid="t3" type="DATE" value="2015-11">November, 2015</TIMEX3>.
+
+Burrumbuttock <EVENT eid="e10" class="OCCURRENCE">made</EVENT> 189 in reply with Darcy IAnson (55) and Ryan McGrath (36) batting well in a high-scoring match.
+
+Lieschke was the chief <EVENT eid="e11" class="OCCURRENCE">destroyer</EVENT> with 4-23 off five overs.
+
+Brocklesby comfortably <EVENT eid="e12" class="OCCURRENCE">defeated</EVENT> Walla at Walla.
+
+Jordan Wilson (42 not out), Jordan Schilg (35) and Tim Heagney (28) <EVENT eid="e13" class="OCCURRENCE">led</EVENT> the way with the bat as the Roos <EVENT eid="e14" class="OCCURRENCE">made</EVENT> 6-194.
+
+Walla were best <EVENT eid="e15" class="OCCURRENCE">served</EVENT> by Joel Merkel (27) and Myall Hoffmann (24) in a score of 9-112.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToEventInstance="ie13" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t2" relatedToTime="t1" relType="IDENTITY" />
+<TLINK lid="TL6" timeID="t3" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t1" relatedToTime="t2" relType="IDENTITY" />
+<TLINK lid="TL4" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

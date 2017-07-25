@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203634777</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Colorado beats No. 10 Oregon 74-65, ends Ducks' streak at 17</TITLE>
+
+
+<TEXT>
+BOULDER, Colo. Derrick White <EVENT eid="e1" class="OCCURRENCE">scored</EVENT> 17 of his 23 points in the <TIMEX3 tid="t1" type="DATE" value="X">second half</TIMEX3>, <EVENT eid="e2" class="OCCURRENCE">keying</EVENT> Colorado's 74-65 upset of No. 10 Oregon that <EVENT eid="e3" class="OCCURRENCE">snapped</EVENT> the Ducks' 17-game winning streak on <TIMEX3 tid="t2" type="TIME" value="2017-01-28TNI">Saturday night</TIMEX3>. 
+ 
+Xavier Johnson <EVENT eid="e4" class="OCCURRENCE">added</EVENT> 13 points as the Buffaloes (12-10, 2-7 Pac-12) <EVENT eid="e5" class="OCCURRENCE">kept</EVENT> the Ducks winless in seven trips all-time in Boulder. 
+ 
+Payton Pritchard's 19 points led the Ducks (19-3, 8-1), who <EVENT eid="e6" class="OCCURRENCE">lost</EVENT> for the first time since <TIMEX3 tid="t3" type="DATE" value="2017-11-21">Nov. 21</TIMEX3> against Georgetown. 
+ 
+White had a pair of 3-pointers early in the second half that <EVENT eid="e7" class="OCCURRENCE">put</EVENT> the Buffaloes ahead 45-39 while Colorado's stifling defense was <EVENT eid="e8" class="OCCURRENCE">keeping</EVENT> the Ducks out of rhythm at the other end of the court. And he had a 3-pointer, a three-point play and two free <EVENT eid="e9" class="REPORTING">throws</EVENT> in an 11-1 run that <EVENT eid="e10" class="OCCURRENCE">gave</EVENT> Colorado a 64-52 lead. 
+ 
+The Buffs are just the third team to top 70 points against the Oregon this season.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+</TimeML>

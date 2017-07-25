@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204468941</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Shields Wants To Play AgainSam Shields said he's still dealing with a concussion sustained in Week 1.by Bill HuberPacker Report01/22/2017</TITLE>
+
+
+<TEXT>
+Sam Shields <EVENT eid="e1" class="REPORTING">said</EVENT> he's still <EVENT eid="e2" class="OCCURRENCE">dealing</EVENT> with a concussion <EVENT eid="e3" class="OCCURRENCE">sustained</EVENT> in <TIMEX3 tid="t1" type="DURATION" value="P1W">Week</TIMEX3> 1. 
+ 
+ATLANTA  The Green Bay Packers season-long problems <EVENT eid="e4" class="OCCURRENCE">defending</EVENT> the pass were on full display in their 44-21 loss to the Atlanta Falcons in the NFC Championship Game. 
+ 
+Falcons quarterback Matt Ryan had a huge game, completing 27-of-38 passes for 392 yards and four touchdowns. The only thing preventing a bigger afternoon was the scoreboard. Ryan <EVENT eid="e5" class="STATE">had</EVENT> 271 yards by halftime and 343 yards after the first drive of <TIMEX3 tid="t2" type="DATE" value="2017-Q3">the third quarter</TIMEX3>. 
+ 
+The Packers shoddy pass defense <EVENT eid="e6" class="OCCURRENCE">started</EVENT> with Sam Shields concussion in <TIMEX3 tid="t3" type="DURATION" value="P1W">Week</TIMEX3> 1. Shields, who <EVENT eid="e7" class="OCCURRENCE">spent</EVENT> the rest of the season on injured reserve, was at the Georgia Dome. 
+ 
+He <EVENT eid="e8" class="REPORTING">said</EVENT> hes still <EVENT eid="e9" class="OCCURRENCE">dealing</EVENT> with the aftereffects of that concussion  the fourth of his professional career. 
+ 
+Some <TIMEX3 tid="t4" type="DURATION" value="PXD">days</TIMEX3> its tough headaches, some days its mild, Shields <EVENT eid="e10" class="REPORTING">said</EVENT> in the bowels of the Georgia Dome near the Packers locker room after the game. It varies. I never <EVENT eid="e11" class="OCCURRENCE">know</EVENT>. Im so <EVENT eid="e12" class="OCCURRENCE">used</EVENT> to it that its just normal. Each day its <EVENT eid="e13" class="OCCURRENCE">getting</EVENT> better. Ill be back." 
+ 
+And thats his intention  <EVENT eid="e14" class="OCCURRENCE">coming</EVENT> back. 
+ 
+Im <EVENT eid="e15" class="I_STATE">thinking</EVENT> its not over, Shields <EVENT eid="e16" class="REPORTING">said</EVENT>. Ive still <EVENT eid="e17" class="OCCURRENCE">got</EVENT> more in me. But Im <EVENT eid="e18" class="OCCURRENCE">going</EVENT> through this, what Ive <EVENT eid="e19" class="OCCURRENCE">got</EVENT> to <EVENT eid="e20" class="OCCURRENCE">go</EVENT> through. Just <EVENT eid="e21" class="OCCURRENCE">take</EVENT> it one <TIMEX3 tid="t5" type="DURATION" value="PXD">day</TIMEX3> at a time. 
+ 
+Why risk himself and the possibility of another serious head <EVENT eid="e22" class="OCCURRENCE">injury</EVENT>? 
+ 
+I <EVENT eid="e23" class="I_STATE">understand</EVENT> why you <EVENT eid="e24" class="OCCURRENCE">ask</EVENT> that, Shields <EVENT eid="e25" class="REPORTING">said</EVENT>. I dont know. I just <EVENT eid="e26" class="OCCURRENCE">love</EVENT> the game, man, and I <EVENT eid="e27" class="I_STATE">feel</EVENT> that I can <EVENT eid="e28" class="OCCURRENCE">get</EVENT> back out there and play. If not, then not. But <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">right now</TIMEX3> its just <TIMEX3 tid="t7" type="DURATION" value="PXD">day</TIMEX3> by <TIMEX3 tid="t8" type="DURATION" value="PXD">day</TIMEX3>. 
+ 
+Shields is under contract with the Packers through next season. He carries a salary-cap charge of $12.125 million  a huge figure given the concussion history. If the Packers were to <EVENT eid="e29" class="OCCURRENCE">release</EVENT> him, theyd <EVENT eid="e30" class="OCCURRENCE">save</EVENT> $9 million of base salary and roster bonuses. 
+ 
+Bill Huber is publisher of PackerReport.com and has <EVENT eid="e31" class="OCCURRENCE">written</EVENT> for Packer Report since <TIMEX3 tid="t9" type="DATE" value="1997">1997</TIMEX3>. E-mail him at packwriter2002@yahoo.com or <EVENT eid="e32" class="OCCURRENCE">leave</EVENT> him a question in Packer Reports subscribers-only Packers Pro Club forum. Find Bill on Twitter at www.twitter.com/PackerReport .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="COULD" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL5" timeID="t4" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" timeID="t9" relatedToEventInstance="ie31" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie24" relatedToEventInstance="ie23" relType="AFTER" />
+</TimeML>

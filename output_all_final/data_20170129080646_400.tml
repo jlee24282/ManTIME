@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194518182</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Shakeel Abbasi)Best Naat Sharif by Finest Naat Khwans in the World in Urdu -naat 2016</TITLE>
+
+
+<TEXT>
+Beautiful naat sharif, beautiful naat , naat sharif , naat , naats, urdu naat , naat mp3 , naat video , naat download , naat shareef , naats <EVENT eid="e1" class="OCCURRENCE">download</EVENT> , <EVENT eid="e2" class="OCCURRENCE">urdu</EVENT> naat , pakistani naat , arabic naat , naat sharif mp3 , naat urdu , islamic naat , naat e rasool , video naat , video naats , naat download free , urdu naats , naat videos , best naats , best naat , naats in urdu , best naat in the world , naat sharif in urdu , naat ya taiba , famous naats , ya <EVENT eid="e3" class="OCCURRENCE">taiba</EVENT> arabic naat , latest naat , islamic naat sharif, hooria faheem naat, naat <TIMEX3 tid="t1" type="DATE" value="2016">2016</TIMEX3> 
+
+Author: socialpakistan 
+Tags: dm:source=androidapp  
+Posted: 29 <TIMEX3 tid="t2" type="DATE" value="2017-01-02">January 2</TIMEX3>
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+</TimeML>

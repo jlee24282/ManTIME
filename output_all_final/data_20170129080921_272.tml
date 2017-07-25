@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200438254</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Cinderella Cafe</TITLE>
+
+
+<TEXT>
+While on vacation in the faraway land of Fairy Kingdom, Cuby and his friends <EVENT eid="e1" class="OCCURRENCE">meet</EVENT> the beautiful Cinderella, who runs an enchanted for the princess. But business hasn't been <EVENT eid="e2" class="OCCURRENCE">going</EVENT> well for Cinderella, and it's only with the help of the kind-hearted bunch that her Cinderella Cafe can be <EVENT eid="e3" class="OCCURRENCE">saved</EVENT>. Help Cuby and his friends <EVENT eid="e4" class="OCCURRENCE">restore</EVENT> the legendary Cinderella Cafe to its former glory. Take on the challenge <EVENT eid="e5" class="OCCURRENCE">using</EVENT> your speed, skill, and quick thinking, and <EVENT eid="e6" class="OCCURRENCE">bring</EVENT> back what Cinderella Cafe was best <EVENT eid="e7" class="OCCURRENCE">known</EVENT> for -- great food and fast, quality service. VIP Day. Make more money by <EVENT eid="e8" class="OCCURRENCE">serving</EVENT> three beautiful princesses only on the VIP Day. It happens in <TIMEX3 tid="t1" type="DURATION" value="P30D">every 30 days</TIMEX3>. Are you ready for the <EVENT eid="e9" class="OCCURRENCE">challenge</EVENT> in Cinderella Cafe? Cinderella Cafe Gameplay: You <EVENT eid="e10" class="OCCURRENCE">help</EVENT> Cuby and his friends <EVENT eid="e11" class="OCCURRENCE">serve</EVENT> all your customers quickly and efficiently. If your Cinderella Cafe does a great job, you will be <EVENT eid="e12" class="OCCURRENCE">rewarded</EVENT> with surprise. Don't <EVENT eid="e13" class="OCCURRENCE">let</EVENT> Cinderella down by <EVENT eid="e14" class="OCCURRENCE">helping</EVENT> her running Cinderella Cafe at your best. Cinderella Cafe Features: Cute Pretty Pet characters- <EVENT eid="e15" class="OCCURRENCE">Challenging</EVENT> strategy gameplay- Upgrade Cinderella Cafe for faster service and greater satisfaction- Hire and <EVENT eid="e16" class="OCCURRENCE">level</EVENT> up your Cinderella Cafe assistantsA well known fairytale comes to life with Cinderella Cafe. Download Cinderella Cafe for FREE. Cinderella Cafe is by Animoca, a leading Android Mobile Social Game Developer. It's <EVENT eid="e17" class="I_STATE">hit</EVENT> titles <EVENT eid="e18" class="OCCURRENCE">include</EVENT> Star Girl, Pretty Pet Salon, Pretty Pet Salon Season, Pretty Pet Tycoon, My Pet Cuby, Pretty Pet Toy Store, Pet Cafe, My Car Salon, Robo 5, Cinderella Cafe, Aqua City, Top Models, Stellar Escape, Forest Defense, Cover Beauty, Bulba the Cat, Diner City and many other cute and fun games and applications. Please note that while the app is free, <EVENT eid="e19" class="I_STATE">please</EVENT> be aware that it contains paid content for real money that can be <EVENT eid="e20" class="OCCURRENCE">purchased</EVENT> upon users' wish to <EVENT eid="e21" class="OCCURRENCE">enhance</EVENT> their gaming experience. You may <EVENT eid="e22" class="OCCURRENCE">control</EVENT> in-app purchases made within this app using password protection which can be <EVENT eid="e23" class="OCCURRENCE">enabled</EVENT> from the setting page of the Google Play Store app. 
+ License  Free  Version  1.0.5  Operating System  Android
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="INCLUDES" />
+</TimeML>

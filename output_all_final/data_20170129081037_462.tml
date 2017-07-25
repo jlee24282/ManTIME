@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203212887</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Watch: Nadals Pre-Final Interview</TITLE>
+
+
+<TEXT>
+Watch: Federers Pre-Final Interview 
+
+Nadal, Federer, Edition 35, By the Numbers 
+
+Wilson Celebrates Serena With Limited Edition Racque... 
+
+Are you the world's biggest Roger Federer fan? 
+
+Twitter Pays Tribute to Serena Williams' 23rd Major ... 
+
+Add to Flipboard Magazine. 
+
+I <EVENT eid="e1" class="I_STATE">know</EVENT> I was <EVENT eid="e2" class="I_ACTION">playing</EVENT> well, so I went on court <EVENT eid="e3" class="REPORTING">believing</EVENT> I can play well, <EVENT eid="e4" class="REPORTING">says</EVENT> Rafael Nadal in a pre-match <EVENT eid="e5" class="OCCURRENCE">interview</EVENT> with Nick McCarvel. I <EVENT eid="e6" class="I_STATE">didnt know</EVENT> how far I could <EVENT eid="e7" class="OCCURRENCE">go</EVENT>, but I was <EVENT eid="e8" class="OCCURRENCE">thinking</EVENT> that I can have some good matches here. 
+
+More: Federer and Nadal, by the Numbers 
+
+Nadal <EVENT eid="e9" class="REPORTING">says</EVENT> its special facing Federer in the final, no doubt. Its good that we have a great rivalry all of our careers, so yes, the match is special, but at <TIMEX3 tid="t1" type="DURATION" value="PXD">the end of the day</TIMEX3> it is another tennis match, he <EVENT eid="e10" class="REPORTING">said</EVENT>. [<TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3>] is going to be a beautiful day, we will <EVENT eid="e11" class="OCCURRENCE">meet</EVENT> each other again in an unbelievable stadium, in one of the most important events of the world without a doubt, so that makes the moment more special. 
+
+He is able to <EVENT eid="e12" class="OCCURRENCE">play</EVENT> so quick, to <EVENT eid="e13" class="I_ACTION">produce</EVENT> amazing shotshe is a complete player. He <EVENT eid="e14" class="STATE">has</EVENT> all the shots, <EVENT eid="e15" class="REPORTING">said</EVENT> Nadal. 
+
+Nadal <EVENT eid="e16" class="REPORTING">says</EVENT> that he wont be <EVENT eid="e17" class="OCCURRENCE">putting</EVENT> so much stock in the fact that he has <EVENT eid="e18" class="OCCURRENCE">won</EVENT> 23 of 34 matches against Federer, and seven of nine at majors. Thats my feeling, he <EVENT eid="e19" class="REPORTING">said</EVENT>. I <EVENT eid="e20" class="I_STATE">feel</EVENT> that the player who plays better will have the better chance <TIMEX3 tid="t3" type="DATE" value="2017-01-30">tomorrow</TIMEX3>. 
+
+See all of Nadals comments in the interview above.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="INCLUDES" />
+</TimeML>

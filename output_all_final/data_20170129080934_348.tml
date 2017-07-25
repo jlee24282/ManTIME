@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201038677</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>UPDATE 4-Two Iraqis lead legal fight against Trump order blocking entry</TITLE>
+
+
+<TEXT>
+A federal judge <EVENT eid="e1" class="OCCURRENCE">blocked</EVENT> the <EVENT eid="e2" class="OCCURRENCE">deportation</EVENT> on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> of dozens of travelers and refugees from seven Muslim-majority nations, <EVENT eid="e3" class="OCCURRENCE">stranded</EVENT> at U. S. airports under an order from President Donald Trump, after a <EVENT eid="e4" class="OCCURRENCE">lawsuit filed</EVENT> on behalf of two Iraqis with ties to U. S. security forces.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

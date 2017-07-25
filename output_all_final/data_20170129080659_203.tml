@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194753302</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Unrealised potential on canvas: Prasoon?Joshi ahead of Uttarakhand polls</TITLE>
+
+
+<TEXT>
+The article below represents a preview only and is not meant for reuse or <EVENT eid="e1" class="OCCURRENCE">republishing</EVENT>. 
+
+India, <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Jan. 29</TIMEX3> -- I <EVENT eid="e2" class="OCCURRENCE">spent</EVENT> <TIMEX3 tid="t2" type="DATE" value="X">early</TIMEX3> years in Uttarakhand and I have nice memories about state. I <EVENT eid="e3" class="I_STATE">see</EVENT> a lot of 'unrealised potential' on the canvas called Uttarakhand. But there should have <EVENT eid="e4" class="STATE">been</EVENT> more colours into it. I <EVENT eid="e5" class="I_STATE">see</EVENT> our people had to <EVENT eid="e6" class="OCCURRENCE">travel</EVENT> inside and outside country not necessarily for doing best jobs. They are <EVENT eid="e7" class="OCCURRENCE">struggling</EVENT> for making two ends <EVENT eid="e8" class="OCCURRENCE">meet</EVENT>. This is migration just for survival. Migration though is not always bad. Some states have <EVENT eid="e9" class="OCCURRENCE">prospered</EVENT> from remittance and the standards of living have <EVENT eid="e10" class="OCCURRENCE">gone</EVENT> up. 
+
+In case of Uttarakhand, basic education facilities are <EVENT eid="e11" class="OCCURRENCE">lacking</EVENT> and the system <EVENT eid="e12" class="OCCURRENCE">fails</EVENT> to <EVENT eid="e13" class="OCCURRENCE">meet</EVENT> the expectations of the youngsters. There are sectors where one can feel that development has <EVENT eid="e14" class="OCCURRENCE">taken</EVENT> place. New buildings, new roads are visible....
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="AFTER" />
+</TimeML>

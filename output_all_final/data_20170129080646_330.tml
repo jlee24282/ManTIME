@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194469837</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Tears and detention for US visitors as Trump travel ban hits</TITLE>
+
+
+<TEXT>
+A protester <EVENT eid="e1" class="ASPECTUAL">stands</EVENT> facing police officers at an entrance of Terminal 4 at John F. Kennedy International Airport in New York, <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Jan. 28, 2017</TIMEX3>, after earlier in the day two Iraqi refugees were <EVENT eid="e2" class="OCCURRENCE">detained</EVENT> while <EVENT eid="e3" class="I_ACTION">trying</EVENT> to <EVENT eid="e4" class="OCCURRENCE">enter</EVENT> the country. On <TIMEX3 tid="t3" type="DATE" value="2017-01-27">Friday, Jan. 27</TIMEX3>, President Donald Trump <EVENT eid="e5" class="OCCURRENCE">signed</EVENT> an executive order suspending all <EVENT eid="e6" class="OCCURRENCE">immigration</EVENT> from countries with terrorism concerns for <TIMEX3 tid="t4" type="DURATION" value="P90D">90 days</TIMEX3>. Countries included in the ban are Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen, which are all Muslim-majority nations. (AP Photo/Craig Ruttle)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" timeID="t1" relatedToTime="t2" relType="IDENTITY" />
+</TimeML>

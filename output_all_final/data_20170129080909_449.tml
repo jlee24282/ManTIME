@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200148839</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Two New York men charged by SEC in Hamilton Ponzi scheme</TITLE>
+
+
+<TEXT>
+Home  International News Share the joy 
+                       
+Daniel Uria 
+<TIMEX3 tid="t1" type="DATE" value="2017-01-28">Jan. 28</TIMEX3> (UPI)  Two New York men were <EVENT eid="e1" class="OCCURRENCE">charged</EVENT> by the United States Securities and Exchange Commission in a Ponzi scheme <EVENT eid="e2" class="OCCURRENCE">involving</EVENT> tickets to high demand shows. 
+Top News  UPI.com 
+   Previous article
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

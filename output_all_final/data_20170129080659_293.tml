@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194816577</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Colombia striker Berrio joins Flamengo</TITLE>
+
+
+<TEXT>
+RIO DE JANEIRO, <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Jan. 29</TIMEX3> (Xinhua) -- Colombia international forward Orlando Berrio has <EVENT eid="e1" class="I_ACTION">ended</EVENT> weeks of <EVENT eid="e2" class="OCCURRENCE">speculation</EVENT> by <EVENT eid="e3" class="OCCURRENCE">joining</EVENT> Brazilian giants Flamengo.
+
+The 25-year-old <EVENT eid="e4" class="OCCURRENCE">signed</EVENT> with the Rio de Janeiro club on a <TIMEX3 tid="t2" type="DURATION" value="P4Y">four-year</TIMEX3> <EVENT eid="e5" class="OCCURRENCE">deal</EVENT> from Medellin-based outfit Atletico Nacional, Flamengo <EVENT eid="e6" class="REPORTING">said</EVENT> on their official Twitter account.
+
+Financial details of the move were not <EVENT eid="e7" class="REPORTING">revealed</EVENT>.
+
+Berrio has been <EVENT eid="e8" class="OCCURRENCE">capped</EVENT> three times for Colombia, having been <EVENT eid="e9" class="OCCURRENCE">handed</EVENT> his international debut by coach Jose Pekerman <TIMEX3 tid="t3" type="DATE" value="2016">last year</TIMEX3>.
+
+Flamengo <EVENT eid="e10" class="OCCURRENCE">qualified</EVENT> for <TIMEX3 tid="t4" type="DATE" value="2017">this year</TIMEX3>'s Copa Libertadores - Latin America's top club competition - by <EVENT eid="e11" class="OCCURRENCE">finishing</EVENT> third in the 2016 Brazilian Serie A championship. The Copa Libertadores group stage <EVENT eid="e12" class="OCCURRENCE">begins</EVENT> in <TIMEX3 tid="t5" type="DATE" value="2017-03">March</TIMEX3>. 
+
+RIO DE JANEIRO, <TIMEX3 tid="t6" type="DATE" value="2017-01-29">Jan. 29</TIMEX3> (Xinhua) -- Colombia international forward Orlando Berrio has <EVENT eid="e13" class="REPORTING">ended</EVENT> weeks of <EVENT eid="e14" class="OCCURRENCE">speculation</EVENT> by <EVENT eid="e15" class="OCCURRENCE">joining</EVENT> Brazilian giants Flamengo.
+
+The 25-year-old <EVENT eid="e16" class="OCCURRENCE">signed</EVENT> with the Rio de Janeiro club on a <TIMEX3 tid="t7" type="DURATION" value="P4Y">four-year</TIMEX3> <EVENT eid="e17" class="OCCURRENCE">deal</EVENT> from Medellin-based outfit Atletico Nacional, Flamengo <EVENT eid="e18" class="REPORTING">said</EVENT> on their official Twitter account.
+
+Financial details of the move were not <EVENT eid="e19" class="REPORTING">revealed</EVENT>.
+
+Berrio has been <EVENT eid="e20" class="OCCURRENCE">capped</EVENT> three times for Colombia, having been <EVENT eid="e21" class="OCCURRENCE">handed</EVENT> his international debut by coach Jose Pekerman <TIMEX3 tid="t8" type="DATE" value="2016">last year</TIMEX3>.
+
+Flamengo <EVENT eid="e22" class="OCCURRENCE">qualified</EVENT> for <TIMEX3 tid="t9" type="DATE" value="X">this</TIMEX3> year's Copa Libertadores - Latin America's top club competition - by <EVENT eid="e23" class="OCCURRENCE">finishing</EVENT> third in the 2016 Brazilian Serie A championship. The Copa Libertadores group stage begins in <TIMEX3 tid="t10" type="DATE" value="2017-03">March</TIMEX3>. 
+
+Copyright  <TIMEX3 tid="t11" type="DATE" value="2000">2000</TIMEX3> - 2016 XINHUANET.com 
+
+All Rights Reserved.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t8" relatedToEventInstance="ie21" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie17" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t3" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t5" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t7" relatedToEventInstance="ie17" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie21" relatedToEventInstance="ie20" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200717982</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>White gets more than he bargained for</TITLE>
+
+
+<TEXT>
+Magistrate Kristie Cuffy-Sargeant <EVENT eid="e1" class="OCCURRENCE">handed</EVENT> down a <TIMEX3 tid="t1" type="DURATION" value="P24M">24-month</TIMEX3> <EVENT eid="e2" class="OCCURRENCE">sentence</EVENT> on White, who had no fixed place of abode, after he <EVENT eid="e3" class="OCCURRENCE">pleaded</EVENT> guilty to theft, loitering and drug charges....
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie3" relType="AFTER" />
+</TimeML>

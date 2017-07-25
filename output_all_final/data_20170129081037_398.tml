@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203159105</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>BRIEF-Egyptian Exchange says Obour Land executes block trading worth EGP 93.8 mln</TITLE>
+
+
+<TEXT>
+Jan <TIMEX3 tid="t1" type="DATE" value="X">29</TIMEX3> (Reuters) - Egyptian exchange: 
+ 
+ 
+ 
+ 
+* Block trading on Obour Land for Food Industries shares
+<EVENT eid="e1" class="OCCURRENCE">implemented</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Jan 29</TIMEX3> for 9.7 million shares worth EGP 93.8
+million
+
+Source: ( bit.ly/2kGwpKH )
+Further company coverage: 
+
+ )
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197757685</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Action (16.51 ft) - Observation - MRRM6 - Pascagoula River at Merrill (Mississippi)</TITLE>
+
+
+<TEXT>
+Historic Crests 
+(1) 32.50 <EVENT eid="e1" class="OCCURRENCE">ft</EVENT> on 04/01/1900 
+(2) 31.00 <EVENT eid="e2" class="OCCURRENCE">ft</EVENT> on 07/09/1916 
+(3) 30.66 <EVENT eid="e3" class="OCCURRENCE">ft</EVENT> on 02/27/1961 
+(4) 30.20 <EVENT eid="e4" class="OCCURRENCE">ft</EVENT> on 04/22/1912 
+(5) 29.71 <EVENT eid="e5" class="OCCURRENCE">ft</EVENT> on 04/13/1938 
+(6) 29.50 <EVENT eid="e6" class="OCCURRENCE">ft</EVENT> on 12/15/1919 
+(7) 29.10 <EVENT eid="e7" class="OCCURRENCE">ft</EVENT> on 06/04/1909 
+(8) 28.60 <EVENT eid="e8" class="OCCURRENCE">ft</EVENT> on 06/08/1928 
+(9) 28.37 <EVENT eid="e9" class="OCCURRENCE">ft</EVENT> on 04/19/1974 
+(10) 27.83 <EVENT eid="e10" class="OCCURRENCE">ft</EVENT> on 03/16/2016 (P) 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+Recent Crests 
+(1) 27.83 <EVENT eid="e11" class="OCCURRENCE">ft</EVENT> on 03/16/2016 (P) 
+(2) 22.49 <EVENT eid="e12" class="OCCURRENCE">ft</EVENT> on 02/28/2016 (P) 
+(3) 22.53 <EVENT eid="e13" class="OCCURRENCE">ft</EVENT> on 01/01/2016 
+(4) 24.33 <EVENT eid="e14" class="OCCURRENCE">ft</EVENT> on 04/15/2014 
+(5) 26.00 <EVENT eid="e15" class="OCCURRENCE">ft</EVENT> on 02/15/2013 
+(6) 24.69 <EVENT eid="e16" class="OCCURRENCE">ft</EVENT> on 09/03/2012 
+(7) 24.88 <EVENT eid="e17" class="OCCURRENCE">ft</EVENT> on 03/15/2011 
+(8) 25.06 <EVENT eid="e18" class="OCCURRENCE">ft</EVENT> on 12/20/2009 
+(9) 24.92 <EVENT eid="e19" class="OCCURRENCE">ft</EVENT> on 12/19/2009 
+(10) 22.09 <EVENT eid="e20" class="OCCURRENCE">ft</EVENT> on <TIMEX3 tid="t1" type="DATE" value="2009-05-06">05/06/2009</TIMEX3> 
+Show More Recent Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+(1) 2.87 ft on 11/04/1990 
+(2) 3.08 ft on 09/30/1990 
+(3) 3.24 ft on <TIMEX3 tid="t2" type="DATE" value="1989-09-26">09/26/1989</TIMEX3> 
+Show More Low Water Records
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie20" relType="INCLUDES" />
+</TimeML>

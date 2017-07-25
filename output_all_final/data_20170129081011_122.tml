@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202194735</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Poll: Most noncommittal on 'bathroom bill'</TITLE>
+
+
+<TEXT>
+A closely watched deal to <EVENT eid="e1" class="OCCURRENCE">repeal</EVENT> the law <EVENT eid="e2" class="OCCURRENCE">fell</EVENT> apart during a <TIMEX3 tid="t1" type="DATE" value="2017-12">December</TIMEX3> special <EVENT eid="e3" class="OCCURRENCE">session</EVENT> amid <EVENT eid="e4" class="OCCURRENCE">distrust</EVENT> between Democrats and Republicans.
+
+The law known as House Bill 2 <EVENT eid="e5" class="OCCURRENCE">sparked</EVENT> backlash from businesses and LGBT advocates who <EVENT eid="e6" class="OCCURRENCE">say</EVENT> its discriminatory because it requires transgender people to <EVENT eid="e7" class="OCCURRENCE">use</EVENT> restrooms in many public buildings that correspond to the sex on their birth certificates instead of the sex they identify with. It also <EVENT eid="e8" class="OCCURRENCE">excludes</EVENT> sexual orientation and gender identity from statewide antidiscrimination protections.
+
+Only 12 of 50 state senators and 40 of 118 current House members <EVENT eid="e9" class="REPORTING">said</EVENT> they <EVENT eid="e10" class="I_STATE">support abolishing</EVENT> the law, nearly all of them Democrats. On the other side, 13 representatives and six senators <EVENT eid="e11" class="REPORTING">said</EVENT> firmly that they <EVENT eid="e12" class="I_STATE">want</EVENT> the law to <EVENT eid="e13" class="OCCURRENCE">remain</EVENT>.
+
+But the survey doesnt give a clear answer about the likelihood of undoing the law. In both chambers, those giving a yes or no were <EVENT eid="e14" class="OCCURRENCE">outnumbered</EVENT> by those on the fence or <EVENT eid="e15" class="OCCURRENCE">declining</EVENT> to <EVENT eid="e16" class="OCCURRENCE">participate</EVENT>.
+
+Its going to be a heavy lift. I <EVENT eid="e17" class="I_ACTION">hesitate</EVENT> to <EVENT eid="e18" class="OCCURRENCE">comment</EVENT> one way or another without <EVENT eid="e19" class="OCCURRENCE">seeing</EVENT> a specific proposal, <EVENT eid="e20" class="REPORTING">said</EVENT> Republican Rep. Josh Dobson, who represents mountain counties.
+
+About 10 Republicans in each chamber <EVENT eid="e21" class="REPORTING">said</EVENT> they were open to <EVENT eid="e22" class="OCCURRENCE">finding</EVENT> a solution but would have to <EVENT eid="e23" class="OCCURRENCE">see</EVENT> whats included in a repeal bill. The survey was <EVENT eid="e24" class="OCCURRENCE">conducted</EVENT> over the opening <TIMEX3 tid="t2" type="DURATION" value="PXD">days</TIMEX3> of <TIMEX3 tid="t3" type="DATE" value="2017">this years</TIMEX3> legislative session.
+
+Many Republican lawmakers are likely keeping their views private to <EVENT eid="e25" class="OCCURRENCE">discourage</EVENT> public <EVENT eid="e26" class="OCCURRENCE">squabbling</EVENT>, <EVENT eid="e27" class="REPORTING">said</EVENT> Republican Mike Hager, who <EVENT eid="e28" class="OCCURRENCE">served</EVENT> as House Majority Leader before <EVENT eid="e29" class="OCCURRENCE">leaving</EVENT> the legislature <TIMEX3 tid="t4" type="DATE" value="2016">last year</TIMEX3>. The House Republican Caucus has been <EVENT eid="e30" class="OCCURRENCE">divided</EVENT> over repeal legislation.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t4" relatedToEventInstance="ie29" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL7" timeID="t2" relatedToEventInstance="ie24" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie29" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="DURING" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

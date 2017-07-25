@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196807318</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Toowoomba LifeFlight crew winches injured hang glider</TITLE>
+
+
+<TEXT>
+A HANG glider who <EVENT eid="e1" class="OCCURRENCE">crashed</EVENT> into a hillside has been <EVENT eid="e2" class="OCCURRENCE">rescued</EVENT> by the Toowoomba-based RACQ LifeFlight Rescue crew. 
+ 
+The woman, in her late 30s, had to be <EVENT eid="e3" class="OCCURRENCE">winched</EVENT> to safety by the crew following the <EVENT eid="e4" class="OCCURRENCE">incident</EVENT> in Numinbah Valley, in the Gold Coast Hinterland. 
+ 
+The helicopter <EVENT eid="e5" class="OCCURRENCE">arrived</EVENT> about 12.40pm to <EVENT eid="e6" class="OCCURRENCE">perform</EVENT> the winch rescue which was in an inaccessible location. 
+ 
+A critical care doctor and paramedic were <EVENT eid="e7" class="OCCURRENCE">lowered</EVENT> down into the bush, where the hang glider <EVENT eid="e8" class="OCCURRENCE">crashed</EVENT>, with a stretcher to <EVENT eid="e9" class="OCCURRENCE">retrieve</EVENT> her. 
+ 
+The woman was <EVENT eid="e10" class="OCCURRENCE">treated</EVENT> for suspected spinal and minor head injuries and was <EVENT eid="e11" class="OCCURRENCE">airlifted</EVENT> to the Gold Coast University Hospital in a stable condition.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+</TimeML>

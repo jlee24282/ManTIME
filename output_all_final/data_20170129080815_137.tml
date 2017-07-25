@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197440050</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>French left-wing presidential primary: Hamon vs. Valls</TITLE>
+
+
+<TEXT>
+A look at the two candidates <EVENT eid="e1" class="OCCURRENCE">competing</EVENT> in <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>'s runoff of France's left-wing presidential primary: 
+
+--- 
+
+BENOIT HAMON, 49 
+
+Resume: Former education minister, former Socialist Party spokesman who <EVENT eid="e2" class="OCCURRENCE">rebelled</EVENT> against President Francois Hollande's shift toward more business-friendly policies in <TIMEX3 tid="t2" type="DATE" value="2014">2014</TIMEX3>. 
+
+Pledges: To <EVENT eid="e3" class="OCCURRENCE">give</EVENT> 750 euros ($800) "universal income" gradually to all French adults; to tax robots; to legalize cannabis; to <EVENT eid="e4" class="OCCURRENCE">repeal</EVENT> labor measures forced through parliament by his rival, Manuel Valls; recognition of a Palestinian state. 
+
+Style: Serious, sober. 
+
+Weakness: Inexperience at highest levels. 
+
+--- 
+
+MANUEL VALLS, 54 
+
+Resume: Spanish immigrant naturalized in France at 20; French interior minister from <TIMEX3 tid="t3" type="DATE" value="-2014">2012-2014</TIMEX3>; prime minister from <TIMEX3 tid="t4" type="DATE" value="2014-03">March 2014</TIMEX3> to <TIMEX3 tid="t5" type="DATE" value="2016-12">December 2016</TIMEX3>. Handled the aftermath of terror <EVENT eid="e5" class="OCCURRENCE">attacks</EVENT> in Paris in <TIMEX3 tid="t6" type="DATE" value="2015">2015</TIMEX3>, won parliamentary approval for emergency powers and counterterrorism measures. 
+
+Pledges: Lower taxes for middle-class households; minimum income of 850 euros ($906) for adults with no other revenue; civic service for young people; <EVENT eid="e6" class="OCCURRENCE">boost</EVENT> police and defense. 
+
+Style: Bossy, <EVENT eid="e7" class="OCCURRENCE">experienced</EVENT>. 
+
+Weakness: Close association with the unpopular Hollande, who <EVENT eid="e8" class="OCCURRENCE">decided</EVENT> not to <EVENT eid="e9" class="REPORTING">seek</EVENT> a <TIMEX3 tid="t7" type="DATE" value="X">second</TIMEX3> term.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

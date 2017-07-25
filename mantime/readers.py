@@ -93,7 +93,6 @@ class BatchedCoreNLP(object):
         with codecs.open(filename, 'w', encoding='utf8') as tmp:
             tmp.write(text)
             tmp.flush()
-            #print str(text)
             result = batch_parse(os.path.dirname(tmp.name), self.folder)
             result = list(result)[0]
             tmp.close()
@@ -190,7 +189,6 @@ class TempEval3FileReader(FileReader):
         if not text_node.text.strip():
             text_node.text = '\n _ \n'
 
-
         # if text_node.text == '\n \n' or text_node.text == '\n\n':
         #     text_node.text = '\n _ \n'
         text_string = etree.tostring(text_node, method='text', encoding='utf8')
@@ -203,8 +201,11 @@ class TempEval3FileReader(FileReader):
         # StanfordParser strips internally the text :(
         left_chars = len(text_string) - len(text_string.lstrip())
 
+        logging.info('xml findall done')
         with Mute_stderr():
             stanford_tree = CORENLP.parse(text_string)
+
+        logging.info('stanford_tree done')
         document = Document(file_path)
         document.text_offset = left_chars
         document.file_path = os.path.abspath(file_path)
@@ -250,6 +251,8 @@ class TempEval3FileReader(FileReader):
         document.complete_structure()
         logging.info('Document {}: parsed.'.format(os.path.relpath(file_path)))
         f.close()
+
+        logging.info('fileclose')
         return document
 
     def _get_annotations(self, source, dct, event_instances, xml, document):

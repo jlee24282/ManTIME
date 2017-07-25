@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198748463</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Court temporarily halts Trump immigration ban</TITLE>
+
+
+<TEXT>
+New York, <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Jan 29</TIMEX3> (IANS) A court has <EVENT eid="e1" class="OCCURRENCE">issued</EVENT> an emergency stay halting deportation under President Donald Trumps executive order <EVENT eid="e2" class="OCCURRENCE">banning</EVENT> citizens from seven Muslim majority countries from entering the US. 
+ 
+A federal court for the Eastern District in New York on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3> <EVENT eid="e3" class="OCCURRENCE">issued</EVENT> the order preventing the government from <EVENT eid="e4" class="OCCURRENCE">sending</EVENT> immigrants back to their home countries as it would <EVENT eid="e5" class="OCCURRENCE">cause</EVENT> them irreparable harm. 
+ 
+It is unclear yet if they would <EVENT eid="e6" class="OCCURRENCE">remain</EVENT> in detention until a substantive <EVENT eid="e7" class="OCCURRENCE">ruling</EVENT> on the constitutionality of the ban is <EVENT eid="e8" class="OCCURRENCE">delivered</EVENT>. 
+ 
+If someone is not being <EVENT eid="e9" class="OCCURRENCE">released</EVENT>, I guess Ill just <EVENT eid="e10" class="OCCURRENCE">hear</EVENT> from you, The New York Times <EVENT eid="e11" class="REPORTING">quoted</EVENT> Judge Ann Donnelly as <EVENT eid="e12" class="REPORTING">saying</EVENT>. 
+ 
+The order <EVENT eid="e13" class="OCCURRENCE">comes</EVENT> as American Civil Liberties Union (ACLU) early on <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3> <EVENT eid="e14" class="OCCURRENCE">filed</EVENT> a <EVENT eid="e15" class="OCCURRENCE">lawsuit</EVENT> in response to the extreme <EVENT eid="e16" class="OCCURRENCE">vetting</EVENT>, BBC <EVENT eid="e17" class="REPORTING">reported</EVENT>. 
+ 
+Trumps executive order halts all immigration from Iraq, Iran, Libya, Somalia, Sudan, Yemen and Syria. 
+ 
+The ban <EVENT eid="e18" class="OCCURRENCE">led</EVENT> to widespread confusion about how it would be <EVENT eid="e19" class="OCCURRENCE">implemented</EVENT> and <EVENT eid="e20" class="OCCURRENCE">enforced</EVENT>. 
+ 
+<EVENT eid="e21" class="I_STATE">According</EVENT> to the ACLU, 100 to 200 people are being <EVENT eid="e22" class="OCCURRENCE">detained</EVENT> at airports or in transit. 
+ 
+Hundreds of people <EVENT eid="e23" class="OCCURRENCE">protested</EVENT> at airports across the country over the new Presidents clampdown on immigration. 
+ 
+Lee Gelernt, deputy legal director of the Immigrants Rights Project, <EVENT eid="e24" class="OCCURRENCE">argued</EVENT> the case in court and was <EVENT eid="e25" class="OCCURRENCE">greeted</EVENT> by a cheering crowd outside. 
+ 
+He <EVENT eid="e26" class="REPORTING">said</EVENT> some people had been <EVENT eid="e27" class="OCCURRENCE">threatened</EVENT> while being <EVENT eid="e28" class="OCCURRENCE">put</EVENT> back on a plane later on <TIMEX3 tid="t4" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+This is a remarkable day, <EVENT eid="e29" class="REPORTING">said</EVENT> the ACLUs executive director, Anthony Romero. 
+ 
+On <TIMEX3 tid="t5" type="DURATION" value="PXD">day</TIMEX3> one, after he <EVENT eid="e30" class="OCCURRENCE">signed</EVENT> the executive order, we <EVENT eid="e31" class="REPORTING">took</EVENT> him to court that it was unconstitutional, it was un-American, and it <EVENT eid="e32" class="REPORTING">flew</EVENT> in the face of established statutes that we have long <EVENT eid="e33" class="OCCURRENCE">regarded</EVENT> in this country.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="AFTER" />
+<TLINK lid="TL25" timeID="t4" relatedToEventInstance="ie28" relType="INCLUDES" />
+<TLINK lid="TL17" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL16" eventInstanceID="ie28" relatedToEventInstance="ie27" relType="SIMULTANEOUS" />
+<TLINK lid="TL15" eventInstanceID="ie26" relatedToEventInstance="ie28" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+<TLINK lid="TL13" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL12" eventInstanceID="ie8" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL11" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+<TLINK lid="TL10" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL19" timeID="t3" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL18" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie30" relatedToEventInstance="ie31" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie32" relatedToEventInstance="ie31" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie10" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL22" timeID="t3" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL23" timeID="t4" relatedToEventInstance="ie26" relType="INCLUDES" />
+<TLINK lid="TL20" timeID="t3" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL21" timeID="t3" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL24" timeID="t4" relatedToEventInstance="ie27" relType="INCLUDES" />
+<TLINK lid="TL7" eventInstanceID="ie15" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL14" eventInstanceID="ie6" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" eventInstanceID="ie15" relatedToEventInstance="ie14" relType="IS_INCLUDED" />
+<TLINK lid="TL9" eventInstanceID="ie9" relatedToEventInstance="ie11" relType="AFTER" />
+</TimeML>

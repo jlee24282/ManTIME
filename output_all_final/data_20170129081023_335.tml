@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202706992</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Dev Hynes reveals new project VeilHymn with amazing first single 'Hymn'</TITLE>
+
+
+<TEXT>
+Dev Hynes is the kind of recording artist who can’t <EVENT eid="e1" class="OCCURRENCE">express</EVENT> the full range of his artistry through just one or even a couple of musical projects. The multifaceted singer songwriter <EVENT eid="e2" class="OCCURRENCE">got</EVENT> his start in the music industry <EVENT eid="e3" class="OCCURRENCE">playing</EVENT> guitar and <EVENT eid="e4" class="OCCURRENCE">providing</EVENT> vocals for the dance punk band Test Icicles. He <EVENT eid="e5" class="OCCURRENCE">released</EVENT> two albums of beautiful folk and indie rock under the name Lightspeed Champion. And He’s <EVENT eid="e6" class="I_ACTION">achieved</EVENT> great <EVENT eid="e7" class="OCCURRENCE">success</EVENT> releasing lush electronica and R amp;B songs as Blood Orange . Now Hynes has <EVENT eid="e8" class="I_ACTION">added</EVENT> VeilHymn to his ever growing list of musical endeavors. 
+ 
+VeilHymn is comprised of Hynes, Bryndon Cook a.k.a. Starchild  amp; the New Romantic, an electro pop artist who <EVENT eid="e9" class="OCCURRENCE">contributed</EVENT> work to Blood Orange’s <TIMEX3 tid="t1" type="DATE" value="2016">2016</TIMEX3> LP, Freetown Sound . The group’s excellent first single, “ Hymn ” is a silky smooth slow jam with a slight indie rock and rap influence. While no further information about the project has been <EVENT eid="e10" class="OCCURRENCE">released</EVENT>, the sublimity of the duo’s first single marks VeilHymn as one <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> most compelling new acts.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

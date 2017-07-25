@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197959318</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Dorothy Jean Curbello</TITLE>
+
+
+<TEXT>
+Dorothy Jean Curbello, 87, of Freeport <EVENT eid="e1" class="OCCURRENCE">passed</EVENT> away <TIMEX3 tid="t1" type="DATE" value="2017-01-25">January 25, 2017</TIMEX3>. She was <EVENT eid="e2" class="OCCURRENCE">born</EVENT> <TIMEX3 tid="t2" type="DATE" value="1929-02-27">February 27, 1929</TIMEX3> to Paul and Viola Moore. 
+   
+She is <EVENT eid="e3" class="OCCURRENCE">preceded</EVENT> in death by her husband, Richard, and her sons Paul and David. 
+   
+Dorothy is <EVENT eid="e4" class="OCCURRENCE">survived</EVENT> by her grandson Ryan and his wife, her grandson Robert and his wife, and two great grandchildren, Ava and Rowan. 
+   
+Dorothy, affectionately known as DJ, was a graduate of Brazosport High School and a Dow retiree. DJ was a beloved wife and mother, and a devoted grandmother. She was happiest when <EVENT eid="e5" class="OCCURRENCE">surrounded</EVENT> by her family, and will be <EVENT eid="e6" class="STATE">missed</EVENT> as the strong matriarch of the Curbello family. 
+   
+A private memorial will be <EVENT eid="e7" class="OCCURRENCE">held</EVENT> at a later <TIMEX3 tid="t3" type="DATE" value="2017-01-28">date</TIMEX3>. 
+   
+In lieu of flowers, the family respectfully <EVENT eid="e8" class="I_STATE">asks</EVENT> that you <EVENT eid="e9" class="OCCURRENCE">make</EVENT> a donation to the American Heart Association.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

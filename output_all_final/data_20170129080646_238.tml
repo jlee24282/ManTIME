@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194401173</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>LUFC On This Day - January 29th</TITLE>
+
+
+<TEXT>
+A look back at what <EVENT eid="e1" class="OCCURRENCE">happened</EVENT> on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">this day January 29th</TIMEX3> in the history of Leeds United. 
+
+Results 
+<TIMEX3 tid="t2" type="DATE" value="1921">1921</TIMEX3> West Ham United H L 1-2 Division 2 
+1927 Bolton Wanderers H D 0-0 FA Cup 
+<TIMEX3 tid="t3" type="DATE" value="1936">1936</TIMEX3> Bury H W 3-2 FA Cup 
+1938 Huddersfield Town A W 3-0 Division 1 
+1949 Blackburn Rovers H W 1-0 Division 2 
+1966 Sunderland A L 0-2 Division 1 
+1972 Tottenham Hotspur A L 0-1 Division 1 
+<TIMEX3 tid="t4" type="DATE" value="1973">1973</TIMEX3>* Norwich City N W 5-0 FA Cup <EVENT eid="e2" class="OCCURRENCE">played</EVENT> at neutral ground (Villa Park) 
+1977 Birmingham City A W 2-1 FA Cup 
+<TIMEX3 tid="t5" type="DATE" value="1983">1983</TIMEX3> Arsenal A D 1-1 FA Cup 
+<TIMEX3 tid="t6" type="DATE" value="1994">1994</TIMEX3> Oxford United A D 2-2 FA Cup 
+<TIMEX3 tid="t7" type="DATE" value="1997">1997</TIMEX3> Derby County H D 0-0 Premiership 
+<TIMEX3 tid="t8" type="DATE" value="2005">2005</TIMEX3> Brighton and Hove Albion H D 1-1 Championship 
+<TIMEX3 tid="t9" type="DATE" value="2008">2008</TIMEX3> Southend United A L 0-1 League 1 
+
+*On <TIMEX3 tid="t10" type="DATE" value="2017-01-29">this day in 1973</TIMEX3>, Leeds finally <EVENT eid="e3" class="OCCURRENCE">saw</EVENT> off Norwich City in the FA Cup at the third attempt. Having already <EVENT eid="e4" class="OCCURRENCE">shared</EVENT> two 1-1 <EVENT eid="e5" class="OCCURRENCE">draws</EVENT>, the FA Cup holders <EVENT eid="e6" class="OCCURRENCE">booked</EVENT> their place in the next round. Allan Clarke (3), Mick Jones and Peter Lorimer <EVENT eid="e7" class="STATE">were</EVENT> all on target in the 5-0 <EVENT eid="e8" class="OCCURRENCE">win</EVENT> at Villa Park.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

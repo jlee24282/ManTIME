@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194290397</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Derby taxi fares could rise by almost a third if new licensing system adopted</TITLE>
+
+
+<TEXT>
+The drive towards a new points-based check system for taxi licensing in Derby is a "hindrance to the whole trade" and could <EVENT eid="e1" class="OCCURRENCE">result</EVENT> in a 31% increase in fares, according to a city car hire operator.
+
+Shahid Quayum is also chairman of Alpha  All Licensed Private Hire Association  which he <EVENT eid="e2" class="REPORTING">said</EVENT> is seeing increasing numbers of taxi drivers <EVENT eid="e3" class="OCCURRENCE">joining</EVENT> because they are <EVENT eid="e4" class="I_STATE">concerned</EVENT> for their <TIMEX3 tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3> ability to earn a living. He <EVENT eid="e5" class="REPORTING">added</EVENT> that many of them <EVENT eid="e6" class="I_STATE">wanted</EVENT> to <EVENT eid="e7" class="OCCURRENCE">mount</EVENT> an official protest.
+
+Labour-led Derby City Council <EVENT eid="e8" class="I_STATE">wants</EVENT> to <EVENT eid="e9" class="OCCURRENCE">introduce</EVENT> the new system, which would see powers <EVENT eid="e10" class="OCCURRENCE">taken</EVENT> away from...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="BEFORE" />
+</TimeML>

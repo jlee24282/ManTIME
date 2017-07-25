@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202962157</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Centralia, WA Author Publishes Children's Book</TITLE>
+
+
+<TEXT>
+Once a long time ago, beyond the two bluest mountains on the horizon, down Misty Lane that <EVENT eid="e1" class="OCCURRENCE">led</EVENT> between two giant hemlock trees, there <EVENT eid="e2" class="OCCURRENCE">lay</EVENT> a beautiful meadow. And in this meadow there <EVENT eid="e3" class="OCCURRENCE">lived</EVENT> a Snowlygaster. He was as <EVENT eid="e4" class="STATE">big</EVENT> as a house, as high as a house, as long as a house, and as wide as a house. Never was there another animal as big as the Snowlygaster. 
+
+He <EVENT eid="e5" class="OCCURRENCE">had</EVENT> two heads! One like a horse's head with soft brown eyes and a flowing white mane. One like a dragon's head with flashing blue eyes and <EVENT eid="e6" class="OCCURRENCE">covered</EVENT> with green scales. This head <EVENT eid="e7" class="OCCURRENCE">breathed</EVENT> fire from its nose and mouth. No animal was ever kinder than the Snowlygaster's horse head. And none was ever more ferocious than the green dragon head. 
+
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Now</TIMEX3> the Snowlygaster <EVENT eid="e8" class="OCCURRENCE">had</EVENT> eight legs, four like a horse's legs, and four like a dragon's legs. When he <EVENT eid="e9" class="OCCURRENCE">drew</EVENT> up his dragon legs and <EVENT eid="e10" class="OCCURRENCE">ran</EVENT> on his horse's legs, he could <EVENT eid="e11" class="OCCURRENCE">go</EVENT> faster than the wind. But when he <EVENT eid="e12" class="OCCURRENCE">drew</EVENT> up his horse's legs and <EVENT eid="e13" class="OCCURRENCE">stood</EVENT> on his dragon legs, the wind <EVENT eid="e14" class="ASPECTUAL">stopped</EVENT>. The earth <EVENT eid="e15" class="OCCURRENCE">held</EVENT> its breath. So powerful was the Snowlygaster on his dragon legs that he could <EVENT eid="e16" class="OCCURRENCE">lick</EVENT> any beast that <EVENT eid="e17" class="OCCURRENCE">lived</EVENT> then, or <EVENT eid="e18" class="OCCURRENCE">lives</EVENT> now, or ever will <EVENT eid="e19" class="OCCURRENCE">live</EVENT>! 
+
+About the Author: 
+<EVENT eid="e20" class="OCCURRENCE">Born</EVENT> in <TIMEX3 tid="t2" type="DATE" value="1924">1924</TIMEX3> at her grandmother's house in Chico, California, Donna Tisdale, her parents, and her two sisters <EVENT eid="e21" class="OCCURRENCE">lived</EVENT> in a wilderness logging town in Feather River Canyon, California. She <EVENT eid="e22" class="STATE">enjoys</EVENT> being a part of Zonta International, a wonderful service club. 
+
+The Snowlygaster is a 92-page paperback with a retail price of $34.00. The ISBN is 978-1-4809-1994-5. It was <EVENT eid="e23" class="OCCURRENCE">published</EVENT> by Dorrance Publishing Co., Inc of Pittsburgh, Pennsylvania. For more information, or to <EVENT eid="e24" class="OCCURRENCE">request</EVENT> a review copy, please <EVENT eid="e25" class="OCCURRENCE">go</EVENT> to our virtual pressroom at  or our online bookstore at . 
+
+GET IN TOUCH 
+Jessica Stillwell 
+Dorrance Publishing 
+
+
+You can <EVENT eid="e26" class="PERCEPTION">see</EVENT> the original version and more on PRLeap here
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToEventInstance="ie17" relType="AFTER" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+</TimeML>

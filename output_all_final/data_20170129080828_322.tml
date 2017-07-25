@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198258476</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>The Colorado Rockies all-time team from Rocky Colavito to Brooks Robinson</TITLE>
+
+
+<TEXT>
+While reading Baseball Prospectuss top prospects list for the St. Louis Cardinals , they <EVENT eid="e1" class="I_ACTION">noted</EVENT> that there has never been a major-leaguer named Harrison before. But Cardinals prospect Harrison Bader could be the first. That is, if Rockies prospect Harrison Musgrave doesnt <EVENT eid="e2" class="OCCURRENCE">beat</EVENT> him to it. (Theres another fun thing about Harrison Musgraves name that you can <EVENT eid="e3" class="OCCURRENCE">read</EVENT> about in the Baseball Prospectus Annual <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> .) 
+ 
+Baseball names are fun! Not only might we <EVENT eid="e4" class="PERCEPTION">see</EVENT> two Harrisons for the first time in major-league history this season, but Harrisons Bader and Musgrave could also soon be <EVENT eid="e5" class="STATE">eligible</EVENT> for an all-time presidential team lineup. 
+ 
+Thats not whats here though. Here, youll <EVENT eid="e6" class="OCCURRENCE">find</EVENT> the all-time Colorado Rockies team inclusive of major leaguers, players from the Negro Leagues, and the minors. All links <EVENT eid="e7" class="OCCURRENCE">go</EVENT> to the players Baseball Reference page: 
+ 
+Catcher, Jack Rafter 
+ 
+First base, Elias Peak 
+ 
+Second base, Ski Mellilo 
+ 
+Third base, Brooks Robinson 
+ 
+Shortstop, Chester Trail 
+ 
+Left field, Dino Restelli 
+ 
+Center field, Glenallen Hill 
+ 
+Right field, Rocky Colavito 
+ 
+Bench, Preston Purple 
+ 
+Bench, Broadus Cabines 
+ 
+Util, Pebbles 
+ 
+Util, Peaks 
+ 
+Starting pitcher, Cliff Lee 
+ 
+Starting pitcher, Steven Stone 
+ 
+Starting pitcher, Hiker Moran 
+ 
+Starting pitcher, Pea Ridge Day 
+ 
+Starting pitcher, Lil Stoner (double points) 
+ 
+Relief pitcher, Plateau Preston Rex Cox 
+ 
+Relief pitcher, Frank Mountain 
+ 
+Relief pitcher, Peaceful Valley Roger Denzer 
+ 
+Relief pitcher, Death Valley Scott 
+ 
+Closer, Heathcliff Slocumb 
+ 
+Manager, Bud Black 
+ 
+Honorary name is also a sentence inclusion, Glenn Braggs 
+ 
+Baseball names are fun, indeed. Especially in <TIMEX3 tid="t2" type="DATE" value="2017-01">January</TIMEX3>. Pitchers and catchers report in about two and a half <TIMEX3 tid="t3" type="DURATION" value="PXW">weeks</TIMEX3>, folks!
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="ADJECTIVE" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="COULD" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

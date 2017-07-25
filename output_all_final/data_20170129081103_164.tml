@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203866527</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>UB40 Serenades With Red Red Wine Can t Help Falling In Love at</TITLE>
+
+
+<TEXT>
+Fans got drunk off a nostalgic glass of Red Red Wine when English reggae pop band UB40 <EVENT eid="e1" class="OCCURRENCE">took</EVENT> the stage at SAP Center in San Jose California for the second annual iHeart80s Party on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> The collective <EVENT eid="e2" class="OCCURRENCE">featuring</EVENT> Ali Campbell Astro and Mickey Virtue <EVENT eid="e3" class="OCCURRENCE">brought</EVENT> their Jamaican influences to the venue and swayed their hips to <EVENT eid="e4" class="OCCURRENCE">Wear</EVENT> You To The Ball Kingston Town and Rat In The Kitchen UB40 also <EVENT eid="e5" class="OCCURRENCE">performed</EVENT> their island <EVENT eid="e6" class="OCCURRENCE">take</EVENT> on Elvis Presley s <TIMEX3 tid="t2" type="DATE" value="1961">1961</TIMEX3> I Can t Help <EVENT eid="e7" class="OCCURRENCE">Falling</EVENT> In Love With You before <EVENT eid="e8" class="OCCURRENCE">closing</EVENT> out with their reggae style of Red Red Wine which was originally <EVENT eid="e9" class="OCCURRENCE">recorded</EVENT> by Neil Diamond in <TIMEX3 tid="t3" type="DATE" value="1967">1967</TIMEX3> The band <EVENT eid="e10" class="OCCURRENCE">came</EVENT> together as friends from various schools across Birmingham and <EVENT eid="e11" class="OCCURRENCE">settled</EVENT> on the name UB40 which was <EVENT eid="e12" class="OCCURRENCE">inspired</EVENT> by the unemployment benefit form in the UK The act <EVENT eid="e13" class="OCCURRENCE">went</EVENT> from being unemployed to <EVENT eid="e14" class="OCCURRENCE">becoming</EVENT> one of the best selling bands with their unique fusion of pop and reggae that they <EVENT eid="e15" class="OCCURRENCE">championed</EVENT> for over <TIMEX3 tid="t4" type="DURATION" value="P36Y">36 years</TIMEX3> 
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204930340</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Cherries reject West Brom move for Wilson</TITLE>
+
+
+<TEXT>
+AFC Bournemouth have reportedly <EVENT eid="e1" class="OCCURRENCE">rejected</EVENT> an approach by West Bromwich Albion for striker Callum Wilson. 
+
+Wilson has <EVENT eid="e2" class="STATE">been</EVENT> the subject of a lot of interest from rival clubs over <TIMEX3 tid="t1" type="DURATION" value="P6M">the past six months</TIMEX3>. 
+
+Both West Ham United and Newcastle United have reportedly been interested in a <EVENT eid="e3" class="OCCURRENCE">move</EVENT> for the Cherries top goal scorer, but The Sun <EVENT eid="e4" class="I_STATE">believe</EVENT> that West Bromwich Albion are the club to actually <EVENT eid="e5" class="OCCURRENCE">make</EVENT> an approach. 
+
+<EVENT eid="e6" class="REPORTING">According</EVENT> to their report 'Eddie Howe <EVENT eid="e7" class="OCCURRENCE">rejected</EVENT> their initial approach' but West Brom are now 'ready to <EVENT eid="e8" class="OCCURRENCE">smash</EVENT> their transfer record with a 20million bid for Bournemouth hitman Callum Wilson.' 
+
+Despite indifferent form since <EVENT eid="e9" class="OCCURRENCE">returning</EVENT> from his devastating knee <EVENT eid="e10" class="OCCURRENCE">injury</EVENT> <TIMEX3 tid="t2" type="DATE" value="PAST_REF">last season</TIMEX3>, Wilson is AFC Bournemouth's top goalscorer this season. 
+
+Three of Wilson's six goals however have <EVENT eid="e11" class="OCCURRENCE">come</EVENT> from the penalty spot with Wilson's last goal in open play <EVENT eid="e12" class="OCCURRENCE">coming</EVENT> in <TIMEX3 tid="t3" type="DATE" value="2017-10">October</TIMEX3>. 
+
+Your Say... 
+
+The Alchemist <EVENT eid="e13" class="REPORTING">wrote</EVENT>... 
+
+'Think we are <EVENT eid="e14" class="OCCURRENCE">looking</EVENT> for about 24 million for Wilson - if they are <EVENT eid="e15" class="I_STATE">prepared</EVENT> to <EVENT eid="e16" class="OCCURRENCE">match</EVENT> that, I'd <EVENT eid="e17" class="OCCURRENCE">take</EVENT> it. 
+
+Highly doubt it will ever <EVENT eid="e18" class="OCCURRENCE">get</EVENT> to that stage though. - <EVENT eid="e19" class="OCCURRENCE">Join</EVENT> the conversation here . 
+ 
+It's easy to <EVENT eid="e20" class="OCCURRENCE">join</EVENT> AFCB Vital 
+ 
+Sign up and have your say on the articles, polls and forums , just <EVENT eid="e21" class="OCCURRENCE">click</EVENT> the link to <EVENT eid="e22" class="OCCURRENCE">register</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="CAN" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie10" relType="INCLUDES" />
+</TimeML>

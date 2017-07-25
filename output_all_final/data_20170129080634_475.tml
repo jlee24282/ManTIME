@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194217351</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>DR Congo v Ghana: Gyan injury hangs over Black Stars</TITLE>
+
+
+<TEXT>
+Ghana head into <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>'s Africa Cup of Nations quarter-final against DR Congo with coach Avram Grant <EVENT eid="e1" class="I_ACTION">facing</EVENT> criticism for <EVENT eid="e2" class="OCCURRENCE">risking</EVENT> the fitness of captain Asamoah Gyan in their last group game
+
+The Black Stars runners-up to Ivory Coast in the last edition of the tournament <TIMEX3 tid="t2" type="DATE" value="2015">two years ago</TIMEX3> had already <EVENT eid="e3" class="OCCURRENCE">secured</EVENT> their place in the last eight before <EVENT eid="e4" class="OCCURRENCE">meeting</EVENT> Egypt on <TIMEX3 tid="t3" type="DATE" value="2017-01-25">Wednesday</TIMEX3>
+
+Grant <EVENT eid="e5" class="OCCURRENCE">opted</EVENT> to <EVENT eid="e6" class="ASPECTUAL">start</EVENT> talisman Gyan a choice which <EVENT eid="e7" class="OCCURRENCE">backfired</EVENT> when the skipper <EVENT eid="e8" class="OCCURRENCE">limped</EVENT> out of the action shortly before half-time with a groin injury 
+
+Although he <EVENT eid="e9" class="STATE">remains</EVENT> doubtful for the DR Congo game Ghana on <TIMEX3 tid="t4" type="DATE" value="2017-01-27">Friday</TIMEX3> <EVENT eid="e10" class="REPORTING">confirmed</EVENT> that "tests have <EVENT eid="e11" class="OCCURRENCE">shown</EVENT> that the injury is not as bad as initially <EVENT eid="e12" class="OCCURRENCE">feared</EVENT>" which will come as welcome relief to Grant who is already without Baba Rahman after the defender <EVENT eid="e13" class="OCCURRENCE">suffered</EVENT> a serious knee injury against Uganda
+
+And Grant was <EVENT eid="e14" class="OCCURRENCE">forced</EVENT> to <EVENT eid="e15" class="OCCURRENCE">defend</EVENT> his selection policy in the build-up to <TIMEX3 tid="t5" type="DATE" value="2017-01-29">Sunday</TIMEX3>'s quarter-final in Oyem
+
+He <EVENT eid="e16" class="REPORTING">said</EVENT> "Gyan has had a lack of games in the last half <TIMEX3 tid="t6" type="DURATION" value="P1Y">a year</TIMEX3> and he <EVENT eid="e17" class="OCCURRENCE">felt</EVENT> very good and <EVENT eid="e18" class="I_STATE">wanted</EVENT> to <EVENT eid="e19" class="OCCURRENCE">play</EVENT> The plan was again to <EVENT eid="e20" class="OCCURRENCE">let</EVENT> him <EVENT eid="e21" class="OCCURRENCE">play</EVENT> 60 <TIMEX3 tid="t7" type="DURATION" value="PXM">minutes</TIMEX3> but what has <EVENT eid="e22" class="OCCURRENCE">happened</EVENT> has <EVENT eid="e23" class="OCCURRENCE">happened</EVENT> and this is football"
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL17" timeID="t3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL16" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t5" relatedToTime="t1" relType="IDENTITY" />
+<TLINK lid="TL14" timeID="t5" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL13" timeID="t4" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t4" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL11" eventInstanceID="ie23" relatedToEventInstance="ie22" relType="AFTER" />
+<TLINK lid="TL10" eventInstanceID="ie22" relatedToEventInstance="ie23" relType="AFTER" />
+<TLINK lid="TL18" timeID="t1" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie1" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie4" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie16" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL9" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

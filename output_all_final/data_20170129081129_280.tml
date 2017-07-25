@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204906479</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>John Legend joins The Voice Season 12 as Adam Levines adviser</TITLE>
+
+
+<TEXT>
+US singer John Legend has <EVENT eid="e1" class="OCCURRENCE">joined</EVENT> The Voice as an adviser. The 10-time Grammy award winner will mentor Adam Levine s team on Season 12 of the competition, according to E! News. Season 12 will <EVENT eid="e2" class="OCCURRENCE">feature</EVENT> Levine, Alicia Keys, Blake Shelton and Gwen Stefani as coaches, and premiere <TIMEX3 tid="t1" type="DATE" value="2017-02-27">Feb. 27</TIMEX3>. Stefani and singer Celine Dion <EVENT eid="e3" class="REPORTING">announced</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3> on The post John Legend <EVENT eid="e4" class="OCCURRENCE">joins</EVENT> The Voice Season 12 as Adam Levine s adviser <EVENT eid="e5" class="OCCURRENCE">appeared</EVENT> first on INFORMATION NIGERIA.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

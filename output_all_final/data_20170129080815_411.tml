@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197754546</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Erbil airport reports one case of US-bound travel ban</TITLE>
+
+
+<TEXT>
+ERBIL, Kurdistan RegionIn the wake of the US travel ban on people from several Middle Eastern and Muslim countries, authorities at the Erbil international airport report that so far there has been one case of <EVENT eid="e1" class="OCCURRENCE">stopping</EVENT> a traveler from <EVENT eid="e2" class="OCCURRENCE">boarding</EVENT> a plane while <EVENT eid="e3" class="I_ACTION">advising</EVENT> people to <EVENT eid="e4" class="OCCURRENCE">consult</EVENT> with the US consulate for details on their personal circumstances. 
+ 
+Head of the Erbil International Airport, Talar Faiq <EVENT eid="e5" class="REPORTING">told</EVENT> Rudaw that clear instructions have been <EVENT eid="e6" class="OCCURRENCE">provided</EVENT> to airlines on the new US rules on travel by citizens of several countries, including Iraq and people from those countries who <EVENT eid="e7" class="STATE">have</EVENT> dual citizenship. 
+ 
+Faiq <EVENT eid="e8" class="REPORTING">said</EVENT> that most people who have <EVENT eid="e9" class="OCCURRENCE">bought</EVENT> tickets <EVENT eid="e10" class="I_ACTION">bound</EVENT> for the US could possibly be <EVENT eid="e11" class="OCCURRENCE">reimbursed</EVENT> by their travel agents. 
+ 
+Faiq <EVENT eid="e12" class="REPORTING">explained</EVENT> that the US Consulate General in Erbil has not <EVENT eid="e13" class="OCCURRENCE">sent</EVENT> any instructions to the airport staff, only to the airlines <EVENT eid="e14" class="OCCURRENCE">flying</EVENT> in and out of the Erbil airport. 
+ 
+On <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> there was one case of barring an individual from <EVENT eid="e15" class="OCCURRENCE">boarding</EVENT> a plane with the United States being the destination, she <EVENT eid="e16" class="REPORTING">said</EVENT>. 
+ 
+In order to <EVENT eid="e17" class="OCCURRENCE">avoid</EVENT> complications, Faiq <EVENT eid="e18" class="OCCURRENCE">advised</EVENT> all intent on <EVENT eid="e19" class="OCCURRENCE">traveling</EVENT> to the US on tourist visas or Green Card holders to <EVENT eid="e20" class="OCCURRENCE">refer</EVENT> to details of the US travel ban or <EVENT eid="e21" class="OCCURRENCE">consult</EVENT> with the American consulate in Erbil before <EVENT eid="e22" class="OCCURRENCE">making</EVENT> travel arrangements. 
+ 
+US President Donald Trump <EVENT eid="e23" class="OCCURRENCE">signed</EVENT> an executive order which bans citizens of Iraq, Iran, Somalia, Syria, Sudan, Libya and Yemen from <EVENT eid="e24" class="OCCURRENCE">traveling</EVENT> to the US for <TIMEX3 tid="t2" type="DURATION" value="P90D">90 days</TIMEX3>. 
+ 
+The <EVENT eid="e25" class="OCCURRENCE">ban</EVENT> has been <EVENT eid="e26" class="OCCURRENCE">criticized</EVENT> by many across the world especially civil rights activists in the United States.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie24" relatedToTime="t2" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="BEFORE" />
+<TLINK lid="TL3" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie9" relatedToEventInstance="ie11" relType="BEFORE" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie16" relType="INCLUDES" />
+</TimeML>

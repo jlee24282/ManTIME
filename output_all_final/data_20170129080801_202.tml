@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197084295</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Battle Glory Level 10 HD 720p</TITLE>
+
+
+<TEXT>
+Download: \r 
+Facebook Join Us: \r 
+\r 
+Our players <EVENT eid="e1" class="OCCURRENCE">love</EVENT> Battle Glory. Here some of their comments:\r 
+“A really enjoyable  amp; fun game, perfect”\r 
+“All i can say is good game on every level” “<EVENT eid="e2" class="OCCURRENCE">Downloaded</EVENT> it for my <TIMEX3 tid="t1" type="DURATION" value="P6Y">6 year old</TIMEX3> cousin now I <EVENT eid="e3" class="I_STATE">play</EVENT> it more than him” \r 
+\r 
+Experience the heart pounding, nerve breaking of the modern combat in the palm of your hand! In this game, you <EVENT eid="e4" class="OCCURRENCE">command</EVENT> your own troops, <EVENT eid="e5" class="OCCURRENCE">make</EVENT> your own tanks, <EVENT eid="e6" class="OCCURRENCE">produce</EVENT> your own fighter planes and more importantly wage epic battles against top players overall the world. You can <EVENT eid="e7" class="OCCURRENCE">attack</EVENT> well defended NPCs or smartly built base built by real players! This game has the fun and depth of MMRPG but very easy to learn and so casual that you can <EVENT eid="e8" class="OCCURRENCE">play</EVENT> it at any time. It has multiple leagues and group Battles / Clash in every league.\r 
+\r 
+<EVENT eid="e9" class="OCCURRENCE">Thank</EVENT> you for the support from our loyal players! Our player community are stronger <TIMEX3 tid="t2" type="SET" value="P1D">every day</TIMEX3> and <EVENT eid="e10" class="OCCURRENCE">growing</EVENT>! We are <EVENT eid="e11" class="I_STATE">committed</EVENT> to <EVENT eid="e12" class="I_ACTION">making</EVENT> this game better and more fun! The next major release coming out will <EVENT eid="e13" class="OCCURRENCE">include</EVENT> Alliance / Clan. 
+
+Author: ligahovo 
+Tags: Battle Glory  Battle Glory Level 10  Fight Game  Android Game  
+Posted: 29 <TIMEX3 tid="t3" type="DATE" value="2017-01-02">January 2</TIMEX3>
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="ADJECTIVE" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+</TimeML>

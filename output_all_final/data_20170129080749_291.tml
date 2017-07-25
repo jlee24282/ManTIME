@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196765308</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Sports: Australian Open: Sania Mirza-Ivan Dodig Stunned in Mixed Doubles Final</TITLE>
+
+
+<TEXT>
+It was Sania Mirza's fifth final at the Australian Open.   AFP 
+   
+Sania Mirza and Ivan Dodig on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">failed</EVENT> at the final hurdle in the mixed doubles event of the Australian Open. The second seeded pair was <EVENT eid="e2" class="OCCURRENCE">stunned</EVENT> by Abigail Spears and Juan Sebastian Cabal 2-6, 4-6at the Rod Laver Arena in Melbourne Park. 
+ 
+They <EVENT eid="e3" class="OCCURRENCE">took</EVENT> a quick double break in the first set, with the solid Spears <EVENT eid="e4" class="OCCURRENCE">serving</EVENT> it out in under <TIMEX3 tid="t2" type="DURATION" value="PXM">30 minutes</TIMEX3>. 
+ 
+Mirza and Dodig <EVENT eid="e5" class="OCCURRENCE">surged</EVENT> to a 3-0 lead in the second set but they couldn't <EVENT eid="e6" class="OCCURRENCE">hold</EVENT> on, with Spears and Cabal <EVENT eid="e7" class="OCCURRENCE">clawing</EVENT> back into the match and the Colombian <EVENT eid="e8" class="OCCURRENCE">winning</EVENT> it with a smash. 
+  
+Congratulations Abigail #Spears and @juanscabal  #AusOpen <TIMEX3 tid="t3" type="DATE" value="2017">2017</TIMEX3> mixed <EVENT eid="e9" class="OCCURRENCE">doubles</EVENT> champions! pic.twitter.com/CfEMicCJoH 
+ #AusOpen (@AustralianOpen) January <TIMEX3 tid="t4" type="DATE" value="2017">29, 2017</TIMEX3>  
+It was Sania's fifth final at the Australian Open. She was runner-up with Mahesh Bhupathi in <TIMEX3 tid="t5" type="DATE" value="2008">2008</TIMEX3>, and the pair <EVENT eid="e10" class="OCCURRENCE">triumphed</EVENT> <TIMEX3 tid="t6" type="DATE" value="2018">the following year</TIMEX3>. She was <EVENT eid="e11" class="STATE">runner-up</EVENT> in <TIMEX3 tid="t7" type="DATE" value="2014">2014</TIMEX3> with Horia Tecau. 
+  
+Mixed doubles trophy presentation #Mirza / #Dodig and #Spears / #Cabal  #AusOpen  pic.twitter.com/7yd5QWA6kv 
+ #AusOpen (@AustralianOpen) January <TIMEX3 tid="t8" type="DATE" value="2017">29, 2017</TIMEX3>  
+Sania was the only Indian to have <EVENT eid="e12" class="OCCURRENCE">made</EVENT> all the way to the first Grand Slam final of the season as Paes, Rohan Bopanna, Purav Raja, Divij Sharan and juniors -- Zeel Desai and Siddhant Banthia -- all made early exits. 
+ 
+(With inputs from agencies)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t6" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t6" relType="IS_INCLUDED" />
+</TimeML>

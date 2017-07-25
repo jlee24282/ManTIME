@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200729955</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Rock Island County Felonies for Monday, Jan. 30, 2017</TITLE>
+
+
+<TEXT>
+Senneff, Evan Ryan, 11/10/1997, of <TIMEX3 tid="t1" type="DATE" value="1224">1224</TIMEX3> 21st St., Bettendorf; withheld judgment <TIMEX3 tid="t2" type="DATE" value="2017-12-15">Dec. 15</TIMEX3> on mfg/del cannabis/10-30 grams; $2,430 court costs, 24 months probation with special conditions, 30 hours public service. 
+ 
+Shizirungu, Jonathan J., 1/1/1998, of <TIMEX3 tid="t3" type="DATE" value="1512">1512</TIMEX3> 4th St., Rock Island; guilty finding <EVENT eid="e1" class="OCCURRENCE">entered</EVENT> <TIMEX3 tid="t4" type="DATE" value="2017-12-09">Dec. 9</TIMEX3> on forgery/issue/deliver document; $1,717 court costs, <TIMEX3 tid="t5" type="DURATION" value="P49D">49 days</TIMEX3> credit time <EVENT eid="e2" class="OCCURRENCE">served</EVENT>, 24 months probation. 
+ 
+Taylor, Robert Charles, 10/7/1991, of <TIMEX3 tid="t6" type="DATE" value="1512">1512</TIMEX3> Big Island Parkway, Rock Island; guilty finding <EVENT eid="e3" class="OCCURRENCE">entered</EVENT> <TIMEX3 tid="t7" type="DATE" value="2017-12-08">Dec. 8</TIMEX3> on criminal damage to property $300-$10,000; $2,834 court costs, <TIMEX3 tid="t8" type="DATE" value="X">90</TIMEX3> days in jail, 30 <TIMEX3 tid="t9" type="DURATION" value="PXM">months</TIMEX3> conditional discharge, restitution.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t5" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

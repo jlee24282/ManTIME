@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201092689</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Eddie 'The Beast' Hall wins Britain's Strongest Man 2017 at...</TITLE>
+
+
+<TEXT>
+Comments(0)   
+Powerhouse Eddie 'The Beast' Hall has been <EVENT eid="e1" class="OCCURRENCE">crowned</EVENT> Britain's Strongest Man for <TIMEX3 tid="t1" type="DURATION" value="P0Y">the fourth year in a</TIMEX3> row. 
+
+The 28-year-old Clayton strongman <EVENT eid="e2" class="OCCURRENCE">took</EVENT> part in the <EVENT eid="e3" class="OCCURRENCE">competition</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3> at the Doncaster Dome. 
+
+ 
+The largely British line up of strongmen <EVENT eid="e4" class="OCCURRENCE">saw</EVENT> the champions of England, Scotland, Wales, Northern Ireland and other guest nations <EVENT eid="e5" class="OCCURRENCE">go</EVENT> head-to-head for three golden places at the World's Strongest Man finals of <TIMEX3 tid="t3" type="DATE" value="2017">2017</TIMEX3>. 
+ 
+Read more:  Eddie Hall - the diet and fitness secrets behind my success 
+
+ 
+<TIMEX3 tid="t4" type="DATE" value="2017-01">Earlier this month</TIMEX3> the man mountain put in a <EVENT eid="e6" class="OCCURRENCE">brave</EVENT> and <EVENT eid="e7" class="OCCURRENCE">determined</EVENT> performance to <EVENT eid="e8" class="OCCURRENCE">finish</EVENT> third in the World's Strongest Man event. At that competition he <EVENT eid="e9" class="OCCURRENCE">battled</EVENT> through a range of muscle-busting challenges. He <EVENT eid="e10" class="OCCURRENCE">suffered</EVENT> an injury but <EVENT eid="e11" class="OCCURRENCE">powered</EVENT> into third with Icelandic Hafr Jlus Bjrnsson coming in second and Brian Shaw, of America taking the crown. 
+
+ 
+<EVENT eid="e12" class="OCCURRENCE">Read</EVENT> more:  How strongman Eddie Hall could have <EVENT eid="e13" class="OCCURRENCE">become</EVENT> the Beast of Olympic swimming 
+ 
+
+ 
+Pictured: Eddie Hall clinches Britain's Strongest Man title for <TIMEX3 tid="t5" type="DURATION" value="P0Y">the fourth consecutive year</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t4" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t4" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t4" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

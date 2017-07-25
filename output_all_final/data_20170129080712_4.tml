@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194980743</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>FinMin may scrap sugar cess in Budget 2017</TITLE>
+
+
+<TEXT>
+As part of the <EVENT eid="e1" class="OCCURRENCE">exercise</EVENT> to <EVENT eid="e2" class="OCCURRENCE">move</EVENT> towards the uniform goods and services tax (GST), the Finance Ministry in its forthcoming budget is likely to <EVENT eid="e3" class="OCCURRENCE">abolish</EVENT> sugar cess, a levy which forms corpus of the Sugar Development Fund (SDF) and is <EVENT eid="e4" class="OCCURRENCE">used</EVENT> for modernisation and <EVENT eid="e5" class="OCCURRENCE">expansion</EVENT> of mills. The Centre is <EVENT eid="e6" class="OCCURRENCE">levying</EVENT> the cess, collected as an excise duty, of Rs 124 per quintal on the sweetener produced by any factory in the country. It was <EVENT eid="e7" class="OCCURRENCE">raised</EVENT> substantially from Rs 24 per quintal only <TIMEX3 tid="t1" type="DATE" value="2016">last year</TIMEX3>. The cess, <EVENT eid="e8" class="OCCURRENCE">collected</EVENT> from sugar mills, is <EVENT eid="e9" class="OCCURRENCE">deposited</EVENT> in Sugar Development Fund (SDF) <EVENT eid="e10" class="OCCURRENCE">managed</EVENT> by the food ministry. The fund is <EVENT eid="e11" class="OCCURRENCE">used</EVENT> to <EVENT eid="e12" class="OCCURRENCE">lend</EVENT> money to mills at lower interest rates. According to sources, various kinds of cess and surcharges are <EVENT eid="e13" class="STATE">levied</EVENT> on goods and services. The finance ministry <EVENT eid="e14" class="I_STATE">wants</EVENT> to <EVENT eid="e15" class="OCCURRENCE">subsume</EVENT> some cesses under GST, which is why it has <EVENT eid="e16" class="I_ACTION">proposed</EVENT> to <EVENT eid="e17" class="OCCURRENCE">do</EVENT> away with the sugar cess under SDF. Some cesses would <EVENT eid="e18" class="ASPECTUAL">continue</EVENT> as funds collected will be <EVENT eid="e19" class="OCCURRENCE">used</EVENT> to <EVENT eid="e20" class="OCCURRENCE">compensate</EVENT> states for any <EVENT eid="e21" class="OCCURRENCE">losses</EVENT> ...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="BEFORE" />
+<TLINK lid="TL10" timeID="t1" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie19" relatedToEventInstance="ie20" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie18" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie16" relatedToEventInstance="ie17" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie18" relatedToEventInstance="ie20" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie18" relatedToEventInstance="ie19" relType="BEFORE" />
+<TLINK lid="TL9" eventInstanceID="ie21" relatedToEventInstance="ie20" relType="AFTER" />
+</TimeML>

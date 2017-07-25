@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197190845</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Canal-top solar power plants: One example of Narendra Modi's Gujarat Model that's working well</TITLE>
+
+
+<TEXT>
+Photos : Global superstar Jackie Chan promotes Kung Fu Yoga with Sonu Sood, Disha Patani  
+   
+ Republic <TIMEX3 tid="t1" type="DATE" value="2017">Day 2017</TIMEX3>: Crown Prince Sheikh Mohammed Bin Zayed to be chief guest at annual parade  
+   
+ Hirakhand Express <EVENT eid="e1" class="OCCURRENCE">derailed</EVENT> in Andhra Pradesh, 39 <EVENT eid="e2" class="OCCURRENCE">killed</EVENT>, 50 injured  
+   
+ Mumbai Police's Umang show sees stars like Alia Bhatt, Katrina Kaif, Akshay Kumar on stage  
+   
+ Women <EVENT eid="e3" class="OCCURRENCE">protest</EVENT> across the globe against US president Donald Trump  
+   
+ Donald Trump <EVENT eid="e4" class="OCCURRENCE">inaugurated</EVENT> as US president, vows 'America first' policy  
+   
+ Rehearsals take place in Delhi for the Republic Day parade  
+   
+ Karan Johar's memoir 'An Unsuitable Boy' <EVENT eid="e5" class="OCCURRENCE">launched</EVENT> by Shah Rukh Khan  
+   
+ India gets into festival mode, <EVENT eid="e6" class="REPORTING">celebrates</EVENT> Bihu, Pongal, Makar Sankranti and Lohri  
+   
+ Ranveer Singh, Shahid, Kalki, Karan Johar <EVENT eid="e7" class="OCCURRENCE">attend</EVENT> 'XXX: Return of Xander Cage' premiere
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

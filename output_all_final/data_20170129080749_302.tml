@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196775646</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Read more here.</TITLE>
+
+
+<TEXT>
+The Scottish SPCA, Scotlands animal welfare charity, has <EVENT eid="e1" class="OCCURRENCE">released</EVENT> new research in partnership with University of Glasgow that suggests dogs have different music tastes. 
+ 
+The new paper focuses on the effect of particular kinds of music, <EVENT eid="e2" class="OCCURRENCE">showing</EVENT> that reggae music is a firm favourite in the canine world. 
+ 
+PhD student Amy Bowman <EVENT eid="e3" class="REPORTING">said</EVENT>, The research, which <EVENT eid="e4" class="OCCURRENCE">took</EVENT> place at the Scottish SPCA centre in Dumbarton, clearly <EVENT eid="e5" class="OCCURRENCE">shows</EVENT> that music <EVENT eid="e6" class="STATE">has</EVENT> an effect on a dogs behaviour. 
+ 
+We were keen to <EVENT eid="e7" class="OCCURRENCE">explore</EVENT> the effect <EVENT eid="e8" class="OCCURRENCE">playing</EVENT> different genres of music <EVENT eid="e9" class="OCCURRENCE">had</EVENT>, and it was clear that the physiological and behavioural changes observed were <EVENT eid="e10" class="OCCURRENCE">maintained</EVENT> during the trial when the dogs were <EVENT eid="e11" class="OCCURRENCE">exposed</EVENT> to a variety of music. 
+ 
+Professor Neil Evans <EVENT eid="e12" class="REPORTING">added</EVENT>, Overall, the <EVENT eid="e13" class="OCCURRENCE">response</EVENT> to different genres was mixed highlighting the possibility that like humans, our canine friends have their own individual music preferences. 
+ 
+That being <EVENT eid="e14" class="REPORTING">said</EVENT>, reggae music and soft rock <EVENT eid="e15" class="OCCURRENCE">showed</EVENT> the highest positive <EVENT eid="e16" class="OCCURRENCE">changes</EVENT> in behaviour. 
+ 
+Scotlands animal welfare charity previously <EVENT eid="e17" class="REPORTING">released</EVENT> research in <TIMEX3 tid="t1" type="DATE" value="2015">2015</TIMEX3> that <EVENT eid="e18" class="OCCURRENCE">showed</EVENT> the impact classical music had on a dogs behaviour. Having <EVENT eid="e19" class="OCCURRENCE">shown</EVENT> that variety is key to <EVENT eid="e20" class="OCCURRENCE">avoid</EVENT> habituation, the Scottish SPCA will be <EVENT eid="e21" class="OCCURRENCE">investing</EVENT> in sound systems for all their kennels. 
+ 
+At <TIMEX3 tid="t2" type="DATE" value="X">present</TIMEX3> both their Glasgow and Edinburgh centres are able to pipe music into their kennels, and in <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">the future</TIMEX3> every centre will be able to <EVENT eid="e22" class="OCCURRENCE">offer</EVENT> our four footed friends a canine approved playlist with the view to extending this research to other species in the charitys care.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="MUST" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="NONE" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie17" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie18" relType="INCLUDES" />
+</TimeML>

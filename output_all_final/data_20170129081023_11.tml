@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202483829</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Rumors about Assads assassination and critical health</TITLE>
+
+
+<TEXT>
+NEW YORK: News has been <EVENT eid="e1" class="OCCURRENCE">circulating</EVENT> on the internet since <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3> <EVENT eid="e2" class="OCCURRENCE">stating</EVENT> that Syrian President Bashar al-Assad is <EVENT eid="e3" class="OCCURRENCE">experiencing</EVENT> serious health problems. 
+ 
+Some media outlets <EVENT eid="e4" class="REPORTING">said</EVENT> that Assad had <EVENT eid="e5" class="OCCURRENCE">suffered</EVENT> a stroke; while others <EVENT eid="e6" class="REPORTING">said</EVENT> that he was <EVENT eid="e7" class="OCCURRENCE">shot</EVENT> and has been <EVENT eid="e8" class="OCCURRENCE">taken</EVENT> to Damascus Hospital for treatment. 
+ 
+Frances Le Point, <EVENT eid="e9" class="OCCURRENCE">speculated</EVENT> that Assad might have been <EVENT eid="e10" class="OCCURRENCE">assassinated</EVENT> by his personal Iranian Bodyguard Mehdi al-Yaacoubi, <EVENT eid="e11" class="OCCURRENCE">going</EVENT> so far as to <EVENT eid="e12" class="REPORTING">say</EVENT> that he <EVENT eid="e13" class="OCCURRENCE">shot</EVENT> him in the head. 
+ 
+Lebanese newspaper, al-Mustaqbal, <EVENT eid="e14" class="REPORTING">quoted</EVENT> reliable sources as <EVENT eid="e15" class="REPORTING">saying</EVENT> that Assad <EVENT eid="e16" class="OCCURRENCE">suffered</EVENT> from a cerebral infraction and was <EVENT eid="e17" class="OCCURRENCE">transferred</EVENT> to Damascus Hospital where he is being <EVENT eid="e18" class="OCCURRENCE">treated</EVENT> under high security. 
+ 
+As for the Saudi newspaper Okaz, Assad is <EVENT eid="e19" class="OCCURRENCE">suffering</EVENT> from a brain tumor. He <EVENT eid="e20" class="I_ACTION">tried</EVENT> to <EVENT eid="e21" class="OCCURRENCE">cover</EVENT> up his illness through short and frequent appearances. <EVENT eid="e22" class="I_STATE">According</EVENT> to its sources, Assad is being <EVENT eid="e23" class="I_ACTION">treated</EVENT> by a Russian-Syrian medical team on a weekly basis, <EVENT eid="e24" class="OCCURRENCE">adding</EVENT> that he has <EVENT eid="e25" class="OCCURRENCE">undergone</EVENT> medical tests when he <EVENT eid="e26" class="STATE">was</EVENT> in Moscow in <TIMEX3 tid="t2" type="DATE" value="2017-10">October</TIMEX3>. 
+ 
+Pro-Syrian regime Lebanese newspaper al-Diyar <EVENT eid="e27" class="REPORTING">reported</EVENT> on <TIMEX3 tid="t3" type="DATE" value="2017-01-27">Friday</TIMEX3> that Assad <EVENT eid="e28" class="OCCURRENCE">suffered</EVENT> from a stroke, but <EVENT eid="e29" class="OCCURRENCE">denied</EVENT> the news <TIMEX3 tid="t4" type="DATE" value="2017-01-29">today</TIMEX3>. 
+ 
+There were also rumors that Assad is at the American University Hospital (AUH) in Beirut. However, Al Arabiya <EVENT eid="e30" class="REPORTING">contacted</EVENT> the hospital and no information on the issue was <EVENT eid="e31" class="OCCURRENCE">given</EVENT>. Al Arabiya has also <EVENT eid="e32" class="I_ACTION">tried</EVENT> to <EVENT eid="e33" class="OCCURRENCE">contact</EVENT> Damascus Hospital, but there has been no response. 
+ 
+On the other hand, in a statement <EVENT eid="e34" class="OCCURRENCE">carried</EVENT> by the Presidency of the Syrian Arab Republic page on Facebook, Syrian authorities <EVENT eid="e35" class="REPORTING">said</EVENT> that such rumors were <EVENT eid="e36" class="STATE">incorrect</EVENT>. 
+ 
+<TIMEX3 tid="t5" type="DATE" value="2017-W05">Earlier this week</TIMEX3>, Saudi-owned newspaper Asharq al-Awsat <EVENT eid="e37" class="OCCURRENCE">claimed</EVENT> the presidents mental health has <EVENT eid="e38" class="OCCURRENCE">deteriorated</EVENT> after almost <TIMEX3 tid="t6" type="DURATION" value="P6Y">six years</TIMEX3> of civil war. 
+ 
+Citing unnamed sources it <EVENT eid="e39" class="REPORTING">said</EVENT> Russian officials <EVENT eid="e40" class="OCCURRENCE">believed</EVENT> Assad was <EVENT eid="e41" class="OCCURRENCE">exhausted</EVENT> by <TIMEX3 tid="t7" type="DURATION" value="P5Y">five years</TIMEX3> of war and tension and had <EVENT eid="e42" class="OCCURRENCE">developed</EVENT> a nervous tick in his left eye as a result of psychological pressure.  Samaa/Agencies 
+ 
+ Tweet  
+Story first <EVENT eid="e43" class="OCCURRENCE">published</EVENT>: 29th <TIMEX3 tid="t8" type="DATE" value="2017-01">January</TIMEX3> 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie43" eventID="e43" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie8" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie42" relatedToEventInstance="ie39" relType="AFTER" />
+<TLINK lid="TL9" eventInstanceID="ie4" relatedToEventInstance="ie7" relType="AFTER" />
+<TLINK lid="TL17" timeID="t3" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL16" eventInstanceID="ie29" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL15" eventInstanceID="ie29" relatedToEventInstance="ie28" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie43" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL13" eventInstanceID="ie28" relatedToEventInstance="ie29" relType="AFTER" />
+<TLINK lid="TL11" eventInstanceID="ie6" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL10" eventInstanceID="ie4" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL19" timeID="t5" relatedToEventInstance="ie37" relType="INCLUDES" />
+<TLINK lid="TL18" timeID="t5" relatedToEventInstance="ie38" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie39" relatedToTime="t7" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie37" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL20" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL7" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie42" relatedToTime="t7" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie40" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL14" eventInstanceID="ie28" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie8" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL12" eventInstanceID="ie27" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

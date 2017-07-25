@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203089481</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Rejection and Unbelief Dr. Martyn Lloyd-Jones</TITLE>
+
+
+<TEXT>
+About Dr. Martyn Lloyd-Jones  
+Dr. Martyn Lloyd-Jones (18991981) has been <EVENT eid="e1" class="OCCURRENCE">described</EVENT> as "a great pillar of <TIMEX3 tid="t1" type="DATE" value="19XX">the 20th century</TIMEX3> Evangelical Church". <EVENT eid="e2" class="OCCURRENCE">Born</EVENT> in Wales, and <EVENT eid="e3" class="OCCURRENCE">educated</EVENT> in London, he was a brilliant student who <EVENT eid="e4" class="OCCURRENCE">embarked</EVENT> upon a short, but successful, career as a medical doctor at the famous St Bartholemew's Hospital. However, the call of Gospel ministry was so strong that he <EVENT eid="e5" class="OCCURRENCE">left</EVENT> medicine in order to <EVENT eid="e6" class="OCCURRENCE">become</EVENT> minister of a mission hall in Port Talbot, South Wales. Eventually he was <EVENT eid="e7" class="OCCURRENCE">called</EVENT> to Westminster Chapel in London, where thousands <EVENT eid="e8" class="I_ACTION">flocked</EVENT> to <EVENT eid="e9" class="OCCURRENCE">hear</EVENT> his "full-blooded" Gospel preaching, described by one hearer as "logic on fire". With some <TIMEX3 tid="t2" type="DATE" value="1600">1600</TIMEX3> of his sermons recorded and digitally <EVENT eid="e10" class="OCCURRENCE">restored</EVENT>, this has <EVENT eid="e11" class="OCCURRENCE">left</EVENT> a legacy which is now <EVENT eid="e12" class="STATE">available</EVENT> for the <EVENT eid="e13" class="OCCURRENCE">blessing</EVENT> of another generation of Christians around the world  "Though being dead he still <EVENT eid="e14" class="OCCURRENCE">speaks</EVENT>".
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie7" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+</TimeML>

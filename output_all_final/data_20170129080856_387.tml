@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199535318</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Action (8.36 ft) - Observation - CLKC1 - Clear Lake at Lakeport (California)</TITLE>
+
+
+<TEXT>
+Search by city or zip code. Press <EVENT eid="e1" class="I_STATE">enter</EVENT> or <EVENT eid="e2" class="OCCURRENCE">select</EVENT> the go button to <EVENT eid="e3" class="OCCURRENCE">submit</EVENT> request 
+             
+Auto Refresh: OFF  
+     
+NOTE: Forecasts for the Clear Lake at Lakeport are <EVENT eid="e4" class="OCCURRENCE">issued</EVENT> routinely year-round. 
+      Flood Categories (in feet) 
+ Major Flood Stage:  12  Moderate Flood Stage:  11.9  Flood Stage:  9  Action Stage:  8  Low Stage (in feet):  -9999  
+Historic Crests 
+(1) 11.51 ft on 02/24/1998 
+(2) 11.34 ft on 02/02/1986 
+(3) 11.34 ft on 01/03/1983 
+(4) 11.09 ft on 01/28/1914 
+(5) 9.40 ft on <TIMEX3 tid="t1" type="DATE" value="2011-03-28">03/28/2011</TIMEX3> 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+Recent Crests 
+(1) 7.91 <EVENT eid="e5" class="OCCURRENCE">ft</EVENT> on 03/21/2016 
+(2) 2.51 <EVENT eid="e6" class="OCCURRENCE">ft</EVENT> on 04/13/2014 
+(3) 5.76 <EVENT eid="e7" class="OCCURRENCE">ft</EVENT> on 12/28/2012 
+(4) 5.96 <EVENT eid="e8" class="OCCURRENCE">ft</EVENT> on 04/30/2012 
+(5) 4.00 <EVENT eid="e9" class="OCCURRENCE">ft</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2012-03-26">03/26/2012</TIMEX3> 
+Show More Recent Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Currently</TIMEX3> none available. 
+    
+<EVENT eid="e10" class="OCCURRENCE">Zoom</EVENT> Level:16 
+   
+Legend 
+   
+FEMA Layer 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location <EVENT eid="e11" class="OCCURRENCE">shown</EVENT> in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, <EVENT eid="e12" class="OCCURRENCE">please</EVENT> contact our Webmaster  11  Major flooding <EVENT eid="e13" class="OCCURRENCE">occurs</EVENT> all aruond the north end of the lake, especially in Lakeport and Clearlake Oaks. Highway 20 around the north end of the lake is <EVENT eid="e14" class="OCCURRENCE">closed</EVENT> in some areas.  9  Low lying structures and some main roads around the lake are <EVENT eid="e15" class="OCCURRENCE">threatened</EVENT> by the high lake levels.  8.5  Minor flooding of some lake side residents occurs. More buildings are <EVENT eid="e16" class="STATE">threatened</EVENT> from Lakeport to Clearlake Oaks.   
+Latitude: 39.039167 N, Longitude: 122.912222 W, Horizontal Datum: NAD83/WGS84 
+ River Stage 
+Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  9 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
+(gauge height = 0)  Elevation 
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  1318.26 ft  1327.26 ft    
+Current/Historical Observations: 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please <EVENT eid="e17" class="OCCURRENCE">click</EVENT> here .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t2" relatedToEventInstance="ie9" relType="INCLUDES" />
+</TimeML>

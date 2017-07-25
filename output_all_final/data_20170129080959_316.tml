@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201898026</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>3 Tips to Help You Disagree Politely</TITLE>
+
+
+<TEXT>
+How to <EVENT eid="e1" class="OCCURRENCE">disagree</EVENT> without <EVENT eid="e2" class="OCCURRENCE">losing</EVENT> a friend. Were <EVENT eid="e3" class="OCCURRENCE">living</EVENT> in divisive times, and despite mamas best efforts, many of us are <EVENT eid="e4" class="OCCURRENCE">finding</EVENT> it harder than ever to be polite when disagreements <EVENT eid="e5" class="OCCURRENCE">cause</EVENT> our tempers to <EVENT eid="e6" class="OCCURRENCE">flare</EVENT>. Michelle Kinder, a family therapist and executive director of Momentous Institute[1] in Dallas, warns about how this <EVENT eid="e7" class="OCCURRENCE">shortened</EVENT> tolerance and compassion can <EVENT eid="e8" class="OCCURRENCE">influence</EVENT> how our children <EVENT eid="e9" class="OCCURRENCE">view</EVENT> the world. In an article <EVENT eid="e10" class="OCCURRENCE">published</EVENT> in TIME[2], Kinder argues that as hard as it may be at times, enc...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="BEFORE" />
+</TimeML>

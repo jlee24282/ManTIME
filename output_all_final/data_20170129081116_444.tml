@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204515845</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>'Stock market looks up to Union Budget for further cues'</TITLE>
+
+
+<TEXT>
+New Delhi: Stock market sentiment in the <TIMEX3 tid="t1" type="DURATION" value="PXD">days</TIMEX3> to <EVENT eid="e1" class="OCCURRENCE">come</EVENT> would be <EVENT eid="e2" class="OCCURRENCE">driven</EVENT> by the country's first biggest economic event of <TIMEX3 tid="t2" type="DURATION" value="P1Y">the year</TIMEX3>, Union Budget due on <TIMEX3 tid="t3" type="DATE" value="2017-02-01">February 1</TIMEX3>, <EVENT eid="e3" class="REPORTING">say</EVENT> experts. 
+ 
+"This time market is <EVENT eid="e4" class="OCCURRENCE">approaching</EVENT> the Union Budget with very high expectations as this is the first budget after <EVENT eid="e5" class="OCCURRENCE">demonetisation</EVENT>. The market <EVENT eid="e6" class="I_STATE">perceives</EVENT> the budget as an opportunity to <EVENT eid="e7" class="OCCURRENCE">fix</EVENT> the derailment <EVENT eid="e8" class="OCCURRENCE">caused</EVENT> to the growth trajectory," India Nivesh <EVENT eid="e9" class="REPORTING">said</EVENT> in a report. 
+ 
+"The upcoming budget will be a key event from an equity market perspective. We <EVENT eid="e10" class="I_STATE">believe</EVENT> the expected measures to <EVENT eid="e11" class="OCCURRENCE">reduce</EVENT> tax liability for individuals may <EVENT eid="e12" class="OCCURRENCE">provide</EVENT> a much-needed boost to the consumer-related sector," Motilal Oswal Securities <EVENT eid="e13" class="REPORTING">said</EVENT> in a report. 
+ 
+On the earnings front, Bajaj Auto, ICICI Bank, ONGC and HDFC will <EVENT eid="e14" class="OCCURRENCE">announce</EVENT> their quarterly numbers <TIMEX3 tid="t4" type="DATE" value="2017-W05">this week</TIMEX3>. "<EVENT eid="e15" class="OCCURRENCE">Going</EVENT> ahead, budget will be main focus area. <TIMEX3 tid="t5" type="DATE" value="2017-Q1">Quarterly</TIMEX3> results have <EVENT eid="e16" class="OCCURRENCE">reflected</EVENT> muted impact of demonetisation till date. It will be of interest to <EVENT eid="e17" class="PERCEPTION">see</EVENT> how the remaining companies fare on this front. Markets will closely <EVENT eid="e18" class="OCCURRENCE">track</EVENT> the US dollar to <EVENT eid="e19" class="OCCURRENCE">gauge</EVENT> the flows into emerging markets," <EVENT eid="e20" class="REPORTING">said</EVENT> Dipen Shah, Sr VP - PCG Research, Kotak Securities. 
+ 
+On the macro front, PMI data on manufacturing and services sector will also <EVENT eid="e21" class="OCCURRENCE">influence</EVENT> trading sentiment. "The ongoing rally has <EVENT eid="e22" class="OCCURRENCE">gained</EVENT> momentum which is likely to become wild as an important event of budget will <EVENT eid="e23" class="OCCURRENCE">unfold</EVENT> <TIMEX3 tid="t6" type="DATE" value="2017-W05">this week</TIMEX3>," <EVENT eid="e24" class="REPORTING">said</EVENT> Jimeet Modi, CEO, SAMCO Securities. 
+ 
+Over <TIMEX3 tid="t7" type="DATE" value="2017-W04">the last week</TIMEX3>, the Sensex <EVENT eid="e25" class="OCCURRENCE">recorded</EVENT> a gain of 847.96 points, or 3.13 per cent, while Nifty <EVENT eid="e26" class="OCCURRENCE">zoomed</EVENT> 291.90 points, or 3.49 per cent. 
+ 
+"Budget is full of market <EVENT eid="e27" class="OCCURRENCE">moving</EVENT> news about various sectors and companies which <EVENT eid="e28" class="OCCURRENCE">turn</EVENT> into volatility. Till the time budget is tabled market will <EVENT eid="e29" class="OCCURRENCE">consolidate</EVENT>," said Abnish Kumar Sudhanshu, Director   Research Head, Amrapali Aadya. 
+ 
+"The <TIMEX3 tid="t8" type="DURATION" value="PXW">first half of following week</TIMEX3> is <EVENT eid="e30" class="I_STATE">expected</EVENT> to be <EVENT eid="e31" class="STATE">quiet</EVENT> as markets would be <EVENT eid="e32" class="OCCURRENCE">holding</EVENT> with bated breath on the likely announcements in the budget," <EVENT eid="e33" class="REPORTING">said</EVENT> Vijay Singhania, Founder-Director, Trade Smart Online. "Post budget, focus is likely to <EVENT eid="e34" class="OCCURRENCE">move</EVENT> to the state elections," Singhania added. 
+ 
+(PTI)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t4" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie31" relatedToEventInstance="ie32" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t6" relatedToEventInstance="ie23" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

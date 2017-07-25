@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202725878</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Chelsea heading to Australia in 2018</TITLE>
+
+
+<TEXT>
+5:29 AM GMT   
+Chelsea will <EVENT eid="e1" class="ASPECTUAL">begin</EVENT> their preparations for the 2018-19 Premier League campaign with a preseason match against A-League side Perth Glory. 
+
+ 
+The friendly, scheduled to be <EVENT eid="e2" class="OCCURRENCE">played</EVENT> in mid-2018 at the new Perth Stadium is <EVENT eid="e3" class="I_STATE">expected</EVENT> to <EVENT eid="e4" class="OCCURRENCE">attract</EVENT> 65,000 fans. 
+
+ 
+Glory CEO Peter Filopoulos <EVENT eid="e5" class="REPORTING">said</EVENT> it <EVENT eid="e6" class="STATE">was</EVENT> an enormous opportunity for Australian sporting fans to see one of the best and biggest clubs in the world <EVENT eid="e7" class="OCCURRENCE">playing</EVENT> in their own backyard. 
+
+ 
+"This will not only <EVENT eid="e8" class="OCCURRENCE">help grow</EVENT> and <EVENT eid="e9" class="OCCURRENCE">foster</EVENT> football in Western Australia but will <EVENT eid="e10" class="OCCURRENCE">expose</EVENT> Perth Glory's brand to a new market and millions of viewers and fans around the globe," Filopoulos <EVENT eid="e11" class="REPORTING">said</EVENT>. 
+
+ 
+"This will be Chelsea's only <EVENT eid="e12" class="STATE">match</EVENT> in Australia during the A-League pre-season campaign and will <EVENT eid="e13" class="OCCURRENCE">play</EVENT> an important role in Perth Glory's preparations for the <TIMEX3 tid="t1" type="DATE" value="X">2018-19</TIMEX3> season." 
+
+ 
+The tour will also <EVENT eid="e14" class="OCCURRENCE">allow</EVENT> for coaching and community appearances by Perth and Chelsea players. 
+
+ 
+Ticketing and match details on the Chelsea fixture are yet to be <EVENT eid="e15" class="OCCURRENCE">finalised</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

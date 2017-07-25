@@ -113,11 +113,13 @@ def main():
                 #print sequenceID_tmp
                 readfile = readfile.replace("#id", sequenceID_tmp)
 
-                title_tmp = re.sub("[^a-zA-Z0-9]+", " ", title_tmp)
-                readfile = readfile.replace("#title", title_tmp)
+                #title_tmp = re.sub("[^a-zA-Z0-9]+", " ", title_tmp)
+                title_tmp = escape(title_tmp)
+                readfile = readfile.replace("#title", title_tmp.replace('&', ' '))
 
-                content_tmp = re.sub("[^a-zA-Z0-9]+", " ", content_tmp)
-                readfile = readfile.replace("#text", escape(content_tmp))
+                #content_tmp = re.sub("[^a-zA-Z0-9]+", " ", content_tmp)
+                content_tmp = escape(content_tmp)
+                readfile = readfile.replace("#text", content_tmp.replace('&', ' '))
                 readfile = readfile.replace("2013-03-22", estimatedPublishedDate_tmp[0:10])
                 date = str(estimatedPublishedDate_tmp[0:10])
                 month = months[int(float(str(estimatedPublishedDate_tmp[0:10]).split("-")[1]))-1]

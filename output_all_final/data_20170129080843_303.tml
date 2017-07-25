@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198811480</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Two MSD policemen arrested for sexually abusing a Russian woman</TITLE>
+
+
+<TEXT>
+* <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Jan 29</TIMEX3>, Colombo: The Mount Lavinia police have <EVENT eid="e1" class="OCCURRENCE">arrested</EVENT> two Police Constables <EVENT eid="e2" class="OCCURRENCE">attached</EVENT> to the Ministerial Security Division (MSD) for sexually <EVENT eid="e3" class="OCCURRENCE">abusing</EVENT> a Russian woman at the Mount Lavinia Beach <TIMEX3 tid="t2" type="TIME" value="2017-01-28TEV">Saturday evening</TIMEX3>, a police report <EVENT eid="e4" class="REPORTING">said</EVENT>. 
+
+Police officers on patrol duty at the Mount Lavinia Beach with the assistance of lifeguards <EVENT eid="e5" class="OCCURRENCE">arrested</EVENT> the two suspects after they <EVENT eid="e6" class="OCCURRENCE">received</EVENT> information that the woman was sexually <EVENT eid="e7" class="OCCURRENCE">abused</EVENT>, while she was bathing at the beach. 
+
+The suspects have <EVENT eid="e8" class="OCCURRENCE">obstructed</EVENT> the police officers and <EVENT eid="e9" class="I_ACTION">attempted</EVENT> to <EVENT eid="e10" class="OCCURRENCE">escape</EVENT> when the officers <EVENT eid="e11" class="I_ACTION">tried</EVENT> to <EVENT eid="e12" class="OCCURRENCE">arrest</EVENT> them, the police <EVENT eid="e13" class="REPORTING">said</EVENT>. 
+
+The two suspects, aged 27 and 47 have been <EVENT eid="e14" class="OCCURRENCE">identified</EVENT> as a police constable and a police driver attached to the Ministerial Security Division. They are residents of residents of Mirihana and Kantale. 
+
+The suspects are due in Mount Lavinia Magistrate's Court on <TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3>. Mount Lavinia police are <EVENT eid="e15" class="OCCURRENCE">conducting</EVENT> further <EVENT eid="e16" class="OCCURRENCE">investigations</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t1" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+</TimeML>

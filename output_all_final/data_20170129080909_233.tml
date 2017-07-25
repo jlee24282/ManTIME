@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199933993</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mane misses penalty as Cameroon reaches semis in Nations Cup</TITLE>
+
+
+<TEXT>
+Cameroon players <EVENT eid="e1" class="I_ACTION">celebrate</EVENT> their <EVENT eid="e2" class="OCCURRENCE">win</EVENT> against Senegal in the ongoing Nations Cup, qualified for semis. /BBC  
+Liverpool's Sadio Mane <EVENT eid="e3" class="OCCURRENCE">missed</EVENT> the decisive spot kick as Cameroon <EVENT eid="e4" class="OCCURRENCE">beat</EVENT> Senegal 5-4 on penalties to <EVENT eid="e5" class="OCCURRENCE">reach</EVENT> the Africa Cup of Nations semi-finals. 
+ 
+Mane, Africa's most expensive player, was <EVENT eid="e6" class="OCCURRENCE">denied</EVENT> by Fabrice Ondoa, Vincent Aboubakar hitting the winning penalty. 
+ 
+Much fancied Senegal had a great chance to <EVENT eid="e7" class="OCCURRENCE">win</EVENT> it in normal time but Moussa Sow <EVENT eid="e8" class="OCCURRENCE">volleyed</EVENT> wide from close range to <EVENT eid="e9" class="OCCURRENCE">leave</EVENT> the game scoreless after <TIMEX3 tid="t1" type="DURATION" value="PXM">120 minutes</TIMEX3>. 
+ 
+Cameroon are four-time winners of the <EVENT eid="e10" class="OCCURRENCE">tournament</EVENT>. 
+ 
+The result means Mane is likely to <EVENT eid="e11" class="OCCURRENCE">make</EVENT> a swift <EVENT eid="e12" class="OCCURRENCE">return</EVENT> to his club Liverpool, who <EVENT eid="e13" class="OCCURRENCE">suffered</EVENT> a surprising 2-1 home defeat by Wolverhampton Wanderers in the FA Cup fourth round on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+There were striking similarities to this game and <TIMEX3 tid="t3" type="DATE" value="2002">15 years ago</TIMEX3>, when Cameroon and Senegal <EVENT eid="e14" class="OCCURRENCE">met</EVENT> in the <TIMEX3 tid="t4" type="DATE" value="2002">2002</TIMEX3> final in Mali. 
+ 
+On that occasion, Cameroon <EVENT eid="e15" class="OCCURRENCE">beat</EVENT> Senegal 3-2 on penalties after a goalless <TIMEX3 tid="t5" type="DURATION" value="PXM">120 minutes</TIMEX3>. 
+ 
+Senegal were <EVENT eid="e16" class="OCCURRENCE">made</EVENT> to <EVENT eid="e17" class="OCCURRENCE">pay</EVENT> for <EVENT eid="e18" class="OCCURRENCE">missing</EVENT> a number of chances in both normal time and extra time. 
+ 
+West Ham's Cheikhou Kouyate <EVENT eid="e19" class="OCCURRENCE">headed</EVENT> an early chance over the bar while Stoke City's Mame Biram Diouf was close with a lob from inside the area. 
+ 
+Cameroon, who will <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e20" class="OCCURRENCE">face</EVENT> the Democratic Republic of Congo or Ghana on <TIMEX3 tid="t7" type="DATE" value="2017-01-26">Thursday</TIMEX3> for a <EVENT eid="e21" class="OCCURRENCE">place</EVENT> in the final, <EVENT eid="e22" class="OCCURRENCE">failed</EVENT> to <EVENT eid="e23" class="OCCURRENCE">register</EVENT> a noteworthy shot in the opening <TIMEX3 tid="t8" type="DURATION" value="PTXH">hour</TIMEX3>. 
+ 
+Their first serious <EVENT eid="e24" class="OCCURRENCE">attempt</EVENT> on target <EVENT eid="e25" class="OCCURRENCE">came</EVENT> in <TIMEX3 tid="t9" type="DATE" value="X">the 65th minute</TIMEX3> when Robert Ndip Tambe <EVENT eid="e26" class="OCCURRENCE">volleyed</EVENT> straight at Abdoulaye Diallo before the Senegal keeper <EVENT eid="e27" class="OCCURRENCE">produced</EVENT> a low one-handed save to <EVENT eid="e28" class="OCCURRENCE">keep</EVENT> out Benjamin Moukandjo. 
+ 
+Diallo was responsible for <EVENT eid="e29" class="I_STATE">ensuring</EVENT> the tie <EVENT eid="e30" class="OCCURRENCE">went</EVENT> to penalties after a fine stop to <EVENT eid="e31" class="OCCURRENCE">keep</EVENT> out Jacques Zoua in extra time. 
+ 
+In the <EVENT eid="e32" class="OCCURRENCE">shootout</EVENT>, there was nothing to <EVENT eid="e33" class="OCCURRENCE">choose</EVENT> between the two teams as the first eight penalties <EVENT eid="e34" class="OCCURRENCE">went</EVENT> to plan. 
+ 
+At 4-4, Mane <EVENT eid="e35" class="OCCURRENCE">stepped</EVENT> forward but Ondoa <EVENT eid="e36" class="OCCURRENCE">saved</EVENT> his kick. That <EVENT eid="e37" class="OCCURRENCE">presented</EVENT> Aboubakar with a chance to <EVENT eid="e38" class="OCCURRENCE">seal</EVENT> victory and the Besiktas forward made no mistake.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL5" eventInstanceID="ie25" relatedToEventInstance="ie24" relType="IDENTITY" />
+<TLINK lid="TL4" eventInstanceID="ie24" relatedToEventInstance="ie25" relType="IDENTITY" />
+<TLINK lid="TL3" eventInstanceID="ie14" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie34" relatedToEventInstance="ie33" relType="AFTER" />
+<TLINK lid="TL7" timeID="t7" relatedToEventInstance="ie22" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie14" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL6" timeID="t6" relatedToEventInstance="ie20" relType="INCLUDES" />
+</TimeML>

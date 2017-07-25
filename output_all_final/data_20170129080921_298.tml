@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200446189</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Edo Bye-Election: APC candidate in early lead, Oshiomhole predicts victory</TITLE>
+
+
+<TEXT>
+By Simon Ebegbulem, Benin City 
+MR Johnson Oghuma of the All Progressives Congress (APC) in <TIMEX3 tid="t1" type="DATE" value="2017-01-27">yesterday</TIMEX3>’s House of Representatives bye election in Etsako Federal Constituency is <EVENT eid="e1" class="OCCURRENCE">cruising</EVENT> to victory ahead of the PDP candidate, Jude Imagwe, of the Peoples Democratic Party (PDP). 
+ 
+From the <EVENT eid="e2" class="OCCURRENCE">results</EVENT> declared at press time, the APC candidate won nine wards out of ten in Etsako Central while the PDP candidate <EVENT eid="e3" class="OCCURRENCE">won</EVENT> only one, which <EVENT eid="e4" class="STATE">is</EVENT> the ward of the state Chairman of the PDP, Chief Dan Orbih (Kulukulu 1). 
+ 
+Meanwhile, low turnout of voters and malfunction of card readers <EVENT eid="e5" class="OCCURRENCE">marred</EVENT> the <EVENT eid="e6" class="OCCURRENCE">election</EVENT>  conducted in the three local governments of Etsako Central, Etsako West and Etsako East. The election, which commenced at about <TIMEX3 tid="t2" type="TIME" value="2017-01-28T08:30">8:30</TIMEX3>am, was peaceful and devoid of rancour. 
+ 
+Former Governor Adams Oshiomhole <EVENT eid="e7" class="OCCURRENCE">cast</EVENT> his vote at about 11am at his Iyamhu polling unit, <EVENT eid="e8" class="REPORTING">saying</EVENT>: “I have no shaking at all. APC will <EVENT eid="e9" class="OCCURRENCE">clear</EVENT> the three local governments because we are on ground while the PDP are strangers in these areas.” 
+ 
+CLICK HERE TO READ MORE FROM: General 
+ 
+    Chuka (Webby) Aniemeka  
+Chuka is an experienced certified web developer with an extensive background in computer science and 18+ years in web design  amp;development. His previous experience ranges from redesigning existing website to <EVENT eid="e10" class="OCCURRENCE">solving</EVENT> complex technical problems with object oriented programming. Very <EVENT eid="e11" class="OCCURRENCE">experienced</EVENT> with Microsoft SQL Server, PHP and <EVENT eid="e12" class="OCCURRENCE">advanced</EVENT> JavaScript. He <EVENT eid="e13" class="I_STATE">loves</EVENT> to <EVENT eid="e14" class="OCCURRENCE">travel</EVENT> and <EVENT eid="e15" class="OCCURRENCE">watch</EVENT> movies. 
+ View More Articles        1  2  3  4 Displaying 1   100 of 395
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+</TimeML>

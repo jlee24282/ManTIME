@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204953346</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Malia Obama ditches Palm Springs for Sundance pipeline protest</TITLE>
+
+
+<TEXT>
+If Malia Obama's <TIMEX3 tid="t1" type="DURATION" value="PXW">first week</TIMEX3> as a former first daughter is anything to <EVENT eid="e1" class="OCCURRENCE">go</EVENT> by, the 18-year-old's <EVENT eid="e2" class="OCCURRENCE">re-entry</EVENT> into civilian life <EVENT eid="e3" class="OCCURRENCE">appears</EVENT> to be going smoothly. 
+
+Take, for example, her trip to the Sundance Film Festival. On <TIMEX3 tid="t2" type="DATE" value="2017-01-23">Monday</TIMEX3>, she <EVENT eid="e4" class="OCCURRENCE">attended</EVENT> an event supporting the Standing Rock Sioux Tribe's <EVENT eid="e5" class="OCCURRENCE">protest</EVENT> against the Dakota Access Pipeline (which was <EVENT eid="e6" class="OCCURRENCE">revived</EVENT> in an executive action <EVENT eid="e7" class="OCCURRENCE">signed</EVENT> by President Trump <TIMEX3 tid="t3" type="DATE" value="2017-W04">this week</TIMEX3>) and nobody <EVENT eid="e8" class="I_STATE">seemed</EVENT> to <EVENT eid="e9" class="OCCURRENCE">notice</EVENT> for <TIMEX3 tid="t4" type="DURATION" value="PXD">days</TIMEX3>. 
+
+In fact, the story only <EVENT eid="e10" class="OCCURRENCE">gained traction</EVENT> once actress and anti-DAP activist Shailene Woodley <EVENT eid="e11" class="OCCURRENCE">mentioned</EVENT> it in a <TIMEX3 tid="t5" type="DATE" value="2017-01-25">Wednesday</TIMEX3> <EVENT eid="e12" class="OCCURRENCE">interview</EVENT> with the website DemocracyNow.org . 
+
+"It was <EVENT eid="e13" class="I_STATE">amazing</EVENT> to <EVENT eid="e14" class="OCCURRENCE">see</EVENT> Malia," Woodley <EVENT eid="e15" class="REPORTING">said</EVENT>. "To witness a human being and a woman <EVENT eid="e16" class="OCCURRENCE">coming</EVENT> into her own outside of her family and outside of the attachments that this country has on her, but someone who's willing to <EVENT eid="e17" class="OCCURRENCE">participate</EVENT> in democracy because she <EVENT eid="e18" class="I_STATE">chooses</EVENT> to, because she <EVENT eid="e19" class="OCCURRENCE">recognizes</EVENT>, regardless of her last name, that if she doesn't <EVENT eid="e20" class="OCCURRENCE">participate</EVENT> in democracy, there will be no world for her <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">future</TIMEX3> children." 
+
+As part of her gap-year to-do list, Obama <EVENT eid="e21" class="OCCURRENCE">begins</EVENT> an internship with the Weinstein Company in <TIMEX3 tid="t7" type="DATE" value="2017-02">February</TIMEX3>. 
+
+She'll <EVENT eid="e22" class="OCCURRENCE">enroll</EVENT> at Harvard University in the <TIMEX3 tid="t8" type="DURATION" value="PXF">fall</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL5" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t5" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t7" relatedToEventInstance="ie21" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

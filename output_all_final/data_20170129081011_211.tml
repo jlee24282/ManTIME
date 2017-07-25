@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202307850</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Buhari Hasnt Convinced Nigerians He Passed School Certificate Examination  Junaid Mohammed</TITLE>
+
+
+<TEXT>
+Nigerian News Headlines Today | Breaking Newspapers News 
+You <TIMEX3 tid="t1" type="DATE" value="X">once</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">came</EVENT> out to <EVENT eid="e2" class="OCCURRENCE">accuse</EVENT> President Muhammadu Buhari of <EVENT eid="e3" class="OCCURRENCE">perpetuating</EVENT> the worst form of nepotism in Nigeria; do you still <EVENT eid="e4" class="OCCURRENCE">hold</EVENT> this view? Absolutely! I have <EVENT eid="e5" class="PERCEPTION">seen</EVENT> no evidence so far to make me <EVENT eid="e6" class="OCCURRENCE">change</EVENT> my mind. In the previous interview I <EVENT eid="e7" class="OCCURRENCE">granted</EVENT> you, I did <EVENT eid="e8" class="OCCURRENCE">ask</EVENT> Nigerians or anybody else to <EVENT eid="e9" class="OCCURRENCE">look</EVENT> at [] 
+The post <EVENT eid="e10" class="OCCURRENCE">appeared</EVENT> first on Nigerian News Headlines Today | Breaking Newspapers News .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL4" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

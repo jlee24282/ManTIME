@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194997168</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ex Parliament member jailed for deceiving bank</TITLE>
+
+
+<TEXT>
+Manama : Aformer parliamentary member has <EVENT eid="e1" class="STATE">had</EVENT> his appeal <EVENT eid="e2" class="OCCURRENCE">rejected</EVENT> on a two-year-jail-term sentence <EVENT eid="e3" class="OCCURRENCE">issued</EVENT> against him for <EVENT eid="e4" class="OCCURRENCE">cheating</EVENT> a bank. 
+ 
+The defendant reportedly <EVENT eid="e5" class="OCCURRENCE">took</EVENT> a BD44,268, personal loan from the bank in <TIMEX3 tid="t1" type="DATE" value="2014">2014</TIMEX3> and <EVENT eid="e6" class="OCCURRENCE">submitted</EVENT> 12 cheques in <EVENT eid="e7" class="OCCURRENCE">return</EVENT>. 
+ 
+However, the bank later <EVENT eid="e8" class="REPORTING">discovered</EVENT> that the cheques submitted by the defendant were not valid as his account did not have any money.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199245146</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Let’s Be Real: Obama ‘Barred’ Syrian Christian Refugees. Just Look At The Numbers</TITLE>
+
+
+<TEXT>
+Syrian children pose for a picture at Jordan s Al Zaatari refugee camp which houses nearly 80,000 Syrian refugees, in Mafraq, Jordan <TIMEX3 tid="t1" type="DATE" value="2016-11-22">November 22, 2016</TIMEX3>. Picture <EVENT eid="e1" class="OCCURRENCE">taken</EVENT> <TIMEX3 tid="t2" type="DATE" value="2016-11-22">November 22, 2016</TIMEX3>. Lin Taylor/Thomson Reuters Foundation via REUTERS President Trump <EVENT eid="e2" class="REPORTING">said</EVENT> he’s <EVENT eid="e3" class="OCCURRENCE">righting</EVENT> a wrong in ordering his.... 
+ 
+ lt; Prev     Next  <EVENT eid="e4" class="OCCURRENCE">gt</EVENT>;
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

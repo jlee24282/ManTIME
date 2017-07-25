@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200483419</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Korea becomes less popular among Chinese travelers for Lunar New Year Holiday</TITLE>
+
+
+<TEXT>
+Less Chinese tourists <EVENT eid="e1" class="OCCURRENCE">opted</EVENT> for Korea as a travel destination during the long Lunar New <TIMEX3 tid="t1" type="DURATION" value="PXY">Year</TIMEX3> Holiday <TIMEX3 tid="t2" type="DATE" value="2017">this year</TIMEX3>, Chinese media and travel agencies <EVENT eid="e2" class="REPORTING">said</EVENT> <TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+
+While as many as six million Chinese have <EVENT eid="e3" class="OCCURRENCE">gone</EVENT> or will <EVENT eid="e4" class="OCCURRENCE">go</EVENT> overseas during the holiday season from <TIMEX3 tid="t4" type="DATE" value="2017-01-27">Jan. 27</TIMEX3> to <TIMEX3 tid="t5" type="DATE" value="2017-02-02">Feb. 2</TIMEX3>, the number to <EVENT eid="e5" class="OCCURRENCE">come</EVENT> to Korea has significantly <EVENT eid="e6" class="OCCURRENCE">decreased compared</EVENT> to <TIMEX3 tid="t6" type="DATE" value="2016">last year</TIMEX3>. 
+
+<EVENT eid="e7" class="REPORTING">According</EVENT> to Ctrip, a Chinese online travel platform, Korea <EVENT eid="e8" class="OCCURRENCE">slipped</EVENT> to seventh, from third <TIMEX3 tid="t7" type="DATE" value="2016">a year ago</TIMEX3>, on the list of travel destinations for Chinese tourists during the <EVENT eid="e9" class="OCCURRENCE">holiday</EVENT>. 
+
+Chinese media <EVENT eid="e10" class="I_ACTION">attributed</EVENT> the falling popularity of Korea to the soured <EVENT eid="e11" class="OCCURRENCE">relations</EVENT> between the two countries over Seoul's <EVENT eid="e12" class="OCCURRENCE">decision</EVENT> to <EVENT eid="e13" class="OCCURRENCE">install</EVENT> a U.S. missile shield on the Korean Peninsula. 
+
+Aviation Circle ( www.air66.cn ), a Chinese aviation information and service platform, <EVENT eid="e14" class="OCCURRENCE">reported</EVENT> while big cities <EVENT eid="e15" class="OCCURRENCE">feel</EVENT> less of a <EVENT eid="e16" class="OCCURRENCE">pinch</EVENT> from the decreased Chinese tourists, Jeju Island, Incheon and Busan, popular destinations among tourist groups, will be <EVENT eid="e17" class="I_ACTION">dealt</EVENT> a more severe blow. 
+
+In fact, Chinese visitors to Jeju during the holiday are <EVENT eid="e18" class="I_STATE">expected</EVENT> to total 43,000, down 17 percent from <TIMEX3 tid="t8" type="DATE" value="2016">a year ago</TIMEX3>, <EVENT eid="e19" class="REPORTING">according</EVENT> to the Jeju Special Self-governing Provincial Tourism Association. 
+
+Meanwhile, more Chinese have chosen to <EVENT eid="e20" class="OCCURRENCE">go</EVENT> to Japan for the holiday. 
+
+China's news portal Cankaoxiaoxi <EVENT eid="e21" class="OCCURRENCE">quoted</EVENT> JTB Corp., the largest travel agency in Japan, as <EVENT eid="e22" class="REPORTING">reporting</EVENT> that Chinese tourists to the country have <EVENT eid="e23" class="OCCURRENCE">increased</EVENT> by 90 percent from <TIMEX3 tid="t9" type="DATE" value="2016">a year ago</TIMEX3>. 
+
+(Yonhap)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="MAY" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t6" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie2" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie8" relatedToTime="t7" relType="BEGINS" />
+<TLINK lid="TL3" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie15" relatedToEventInstance="ie14" relType="SIMULTANEOUS" />
+</TimeML>

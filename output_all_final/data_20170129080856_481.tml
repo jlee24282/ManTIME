@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199655104</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Trump's Executive Orders Are No 'Alternative Fire'</TITLE>
+
+
+<TEXT>
+Updated <TIMEX3 tid="t1" type="DURATION" value="PT2H">2 hours ago</TIMEX3> 
+LaAntorcha de la Amistad , or the Torch of Friendship, is one of the most recognizable landmarksin downtown San Antonio. <EVENT eid="e1" class="OCCURRENCE">Commissioned</EVENT> by the Asociacin de Empresarios Mexicanos (AEM) and <EVENT eid="e2" class="OCCURRENCE">created</EVENT> by Mexican sculptor Sebastin, this gift from the Mexican government representsthe shared culture and cooperation betweenthe cityand Mexico. 
+ 
+The new presidents executive orders to <EVENT eid="e3" class="OCCURRENCE">build</EVENT> a multi-billion dollar border wall, <EVENT eid="e4" class="OCCURRENCE">amp</EVENT> up Border Patrol forces, <EVENT eid="e5" class="OCCURRENCE">crack</EVENT> down on illegal immigration, and <EVENT eid="e6" class="OCCURRENCE">renegotiate</EVENT> the North American Free Trade Agreement (NAFTA) have <EVENT eid="e7" class="OCCURRENCE">jeopardized</EVENT> the relationship between the U.S.and its southern neighbor and yieldedboth concern and silence amonglocal officials. 
+ 
+While Trump advisor Kellyanne Conway <EVENT eid="e8" class="OCCURRENCE">coined</EVENT> the term  alternative facts  in regards to false statements made by White House Press Secretary Sean Spicer, the impending <EVENT eid="e9" class="OCCURRENCE">crisis</EVENT> between the U.S. and Mexico is no alternative fire, but it is one local leaders hope can be <EVENT eid="e10" class="OCCURRENCE">put</EVENT> out. 
+ 
+Its a crisis driven by rhetoric rather than facts, Consul General in San Antonio Hctor Velasco Monroy <EVENT eid="e11" class="REPORTING">told</EVENT> the Rivard Report on <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3>. Both countries <EVENT eid="e12" class="OCCURRENCE">benefit</EVENT> enormously from the relationship, yet the words coming out of Washington <EVENT eid="e13" class="OCCURRENCE">misinform</EVENT> people and <EVENT eid="e14" class="I_ACTION">make</EVENT> them <EVENT eid="e15" class="OCCURRENCE">believe</EVENT> otherwise. 
+ 
+The historical context of San Antonio and Texas in relation to Mexico is very different compared to other areas in the U.S., Velasco <EVENT eid="e16" class="REPORTING">said</EVENT>, so he is <EVENT eid="e17" class="OCCURRENCE">counting</EVENT> on San Antonians to <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e18" class="OCCURRENCE">stand</EVENT> up for <EVENT eid="e19" class="OCCURRENCE">preserving</EVENT> those ties.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToTime="t3" relType="DURING" />
+<TLINK lid="TL4" timeID="t3" relatedToEventInstance="ie18" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie17" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

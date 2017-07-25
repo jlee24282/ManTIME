@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196335174</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Buhari not competent to govern any country  Kperogi</TITLE>
+
+
+<TEXT>
+A former ardent supporter of President Muhammadu Buhari and Associate Professor at the Kennesaw State University, Georgia, United States, Farooq Kperogi, tells BAYO AKINLOYE that Buhari has <EVENT eid="e1" class="OCCURRENCE">failed</EVENT> many who had high hopes of him With your criticisms of President Muhammadu Buhari and his administration, it appears youre against him. Is it that you <EVENT eid="e2" class="OCCURRENCE">hate</EVENT> [] 
+ 
+The post <EVENT eid="e3" class="OCCURRENCE">appeared</EVENT> first on Punch Newspapers . 
+ 
+Source link 
+   You may also <EVENT eid="e4" class="OCCURRENCE">like</EVENT>       
+<TIMEX3 tid="t1" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2017-01-29T12:00">12:00</TIMEX3> am 
+      
+<TIMEX3 tid="t3" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2017-01-29T12:00">12:00</TIMEX3> am 
+      
+<TIMEX3 tid="t5" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>, <TIMEX3 tid="t6" type="TIME" value="2017-01-29T12:00">12:00</TIMEX3> am 
+      
+<TIMEX3 tid="t7" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>, <TIMEX3 tid="t8" type="TIME" value="2017-01-29T12:00">12:00</TIMEX3> am 
+      
+<TIMEX3 tid="t9" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>, <TIMEX3 tid="t10" type="TIME" value="2017-01-29T12:00">12:00</TIMEX3> am 
+      
+<TIMEX3 tid="t11" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>, <TIMEX3 tid="t12" type="TIME" value="2017-01-29T12:00">12:00</TIMEX3> am 
+    Don't Miss    
+Hot  Popular 
+   
+<TIMEX3 tid="t13" type="DATE" value="2017-01-03">January 3, 2017</TIMEX3>, 10:25 pm 
+    
+Hot 
+   
+<TIMEX3 tid="t14" type="DATE" value="2017-01-01">January 1, 2017</TIMEX3>, <TIMEX3 tid="t15" type="TIME" value="2017-01-29T12:03">12:03</TIMEX3> am 
+    
+Hot 
+   
+<TIMEX3 tid="t16" type="DATE" value="2016-12-29">December 29, 2016</TIMEX3>, <TIMEX3 tid="t17" type="TIME" value="2017-01-29T04:22">4:22</TIMEX3> am 
+    
+Hot 
+   
+<TIMEX3 tid="t18" type="DATE" value="2016-12-29">December 29, 2016</TIMEX3>, 4:00 pm 
+    
+Hot 
+   
+<TIMEX3 tid="t19" type="DATE" value="2017-01-18">January 18, 2017</TIMEX3>, <TIMEX3 tid="t20" type="TIME" value="2017-01-29T12:02">12:02</TIMEX3> am 
+    
+Hot 
+   
+<TIMEX3 tid="t21" type="DATE" value="2017-01-21">January 21, 2017</TIMEX3>, 5
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL17" timeID="t4" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL16" timeID="t7" relatedToTime="t1" relType="IDENTITY" />
+<TLINK lid="TL15" timeID="t7" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL14" timeID="t7" relatedToTime="t9" relType="IDENTITY" />
+<TLINK lid="TL13" timeID="t6" relatedToTime="t5" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t6" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t9" relatedToTime="t7" relType="IDENTITY" />
+<TLINK lid="TL10" timeID="t9" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL19" timeID="t5" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL18" timeID="t4" relatedToTime="t3" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t17" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t16" relatedToTime="t18" relType="IDENTITY" />
+<TLINK lid="TL1" timeID="t15" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t1" relType="ENDED_BY" />
+<TLINK lid="TL7" timeID="t12" relatedToTime="t11" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t11" relatedToTime="t9" relType="IDENTITY" />
+<TLINK lid="TL5" timeID="t10" relatedToTime="t9" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t10" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t8" relatedToTime="t7" relType="INCLUDES" />
+<TLINK lid="TL8" timeID="t18" relatedToTime="t16" relType="IDENTITY" />
+<TLINK lid="TL22" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL23" timeID="t3" relatedToTime="t9" relType="IDENTITY" />
+<TLINK lid="TL20" timeID="t5" relatedToTime="t7" relType="IDENTITY" />
+<TLINK lid="TL21" timeID="t5" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL26" timeID="t1" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL27" timeID="t20" relatedToTime="t19" relType="INCLUDES" />
+<TLINK lid="TL24" timeID="t3" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL25" timeID="t3" relatedToTime="t1" relType="IDENTITY" />
+</TimeML>

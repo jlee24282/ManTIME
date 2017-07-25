@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201621207</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Learning how to weigh variables takes practice</TITLE>
+
+
+<TEXT>
+In a perfect world, you'd have a poker coach whispering in your ear when it's time to <EVENT eid="e1" class="OCCURRENCE">act</EVENT>, <EVENT eid="e2" class="REPORTING">telling</EVENT> you what to <EVENT eid="e3" class="OCCURRENCE">think</EVENT> and how to <EVENT eid="e4" class="OCCURRENCE">weigh</EVENT> those thoughts. In reality, you have to <EVENT eid="e5" class="STATE">rely</EVENT> on your own ability, <EVENT eid="e6" class="OCCURRENCE">knowing</EVENT> what to <EVENT eid="e7" class="OCCURRENCE">consider</EVENT> and how to <EVENT eid="e8" class="OCCURRENCE">balance</EVENT> the variables. 
+
+Every critical poker decision <EVENT eid="e9" class="I_ACTION">begins</EVENT> by <EVENT eid="e10" class="OCCURRENCE">taking</EVENT> into consideration <TIMEX3 tid="t1" type="DATE" value="PAST_REF">past</TIMEX3> patterns, present conditions and the likelihood of future behaviors both in the <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">current</TIMEX3> hand and over the course of play. A player has to <EVENT eid="e11" class="OCCURRENCE">weigh</EVENT> the strength of these variables, with "feel" and analysis <EVENT eid="e12" class="OCCURRENCE">working</EVENT> together. 
+
+With practice, this gets easier. 
+
+I've been <EVENT eid="e13" class="OCCURRENCE">working</EVENT> closely with one of my favorite students, Donald, who <EVENT eid="e14" class="OCCURRENCE">came</EVENT> to me a far greater fan of consistency than creativity. <EVENT eid="e15" class="OCCURRENCE">Mastering</EVENT> what and how to <EVENT eid="e16" class="OCCURRENCE">think</EVENT> would <EVENT eid="e17" class="OCCURRENCE">require</EVENT> each of these attributes, and after a few hundred hands, he may have <EVENT eid="e18" class="OCCURRENCE">gotten</EVENT> a taste. 
+
+Donald was <EVENT eid="e19" class="OCCURRENCE">sitting</EVENT> with $1,200 at a $2-$5 no-limit cash game at Bellagio. He <EVENT eid="e20" class="OCCURRENCE">woke</EVENT> up with red kings in middle position and <EVENT eid="e21" class="OCCURRENCE">raised</EVENT> to $20. Action <EVENT eid="e22" class="OCCURRENCE">folded</EVENT> to the small blind, who <EVENT eid="e23" class="OCCURRENCE">thought</EVENT> for a long time before <EVENT eid="e24" class="OCCURRENCE">calling</EVENT>, which <EVENT eid="e25" class="REPORTING">suggested</EVENT> that he was <EVENT eid="e26" class="OCCURRENCE">considering</EVENT> a <EVENT eid="e27" class="OCCURRENCE">raise</EVENT>. That's excellent information to have <EVENT eid="e28" class="OCCURRENCE">moving</EVENT> forward in a hand. 
+
+The flop <EVENT eid="e29" class="REPORTING">came</EVENT> Ac 9h 6d. The small blind <EVENT eid="e30" class="OCCURRENCE">checked</EVENT>. Old Donald would have <EVENT eid="e31" class="OCCURRENCE">applied</EVENT> a broad-stroke play and <EVENT eid="e32" class="OCCURRENCE">made</EVENT> a continuation bet. Alex-coached New Donald <EVENT eid="e33" class="REPORTING">thought</EVENT> it through: If he was ahead, he'd <EVENT eid="e34" class="OCCURRENCE">earn</EVENT> no money by <EVENT eid="e35" class="OCCURRENCE">betting</EVENT> because of the ace. If he was behind, he'd be <EVENT eid="e36" class="OCCURRENCE">throwing</EVENT> money away by <EVENT eid="e37" class="OCCURRENCE">betting</EVENT>. 
+
+If he <EVENT eid="e38" class="OCCURRENCE">checked</EVENT> and was behind, he'd <EVENT eid="e39" class="OCCURRENCE">save</EVENT> his money and still <EVENT eid="e40" class="STATE">have</EVENT> a chance for a miracle. If he was ahead, how much did he <EVENT eid="e41" class="OCCURRENCE">risk</EVENT> by <EVENT eid="e42" class="OCCURRENCE">checking</EVENT>? There were likely two outs for his <EVENT eid="e43" class="OCCURRENCE">opponent</EVENT> at best. Checking would also <EVENT eid="e44" class="OCCURRENCE">make</EVENT> Donald <EVENT eid="e45" class="OCCURRENCE">look</EVENT> weak, providing an opportunity for a bluff. 
+
+Donald <EVENT eid="e46" class="REPORTING">checked</EVENT>. 
+
+The turn <EVENT eid="e47" class="OCCURRENCE">came</EVENT> 4h, and Donald's opponent <EVENT eid="e48" class="OCCURRENCE">bet</EVENT> $30. Donald <EVENT eid="e49" class="OCCURRENCE">considered</EVENT> the intention: "Why would an ace bet so much if I <EVENT eid="e50" class="STATE">look</EVENT> weak?" Donald <EVENT eid="e51" class="I_ACTION">committed</EVENT> to the likelihood that his check <EVENT eid="e52" class="OCCURRENCE">trapped</EVENT> his opponent into bluffing. He <EVENT eid="e53" class="REPORTING">called</EVENT>, because <EVENT eid="e54" class="OCCURRENCE">raising</EVENT> would likely <EVENT eid="e55" class="OCCURRENCE">prompt</EVENT> a <EVENT eid="e56" class="OCCURRENCE">fold</EVENT>. 
+
+The river was the 10c. The opponent <EVENT eid="e57" class="OCCURRENCE">checked</EVENT>. There was no reason for Donald to <EVENT eid="e58" class="OCCURRENCE">assume</EVENT> a trap, as Donald hadn't been aggressive post-flop. Value time. Donald <EVENT eid="e59" class="OCCURRENCE">wanted</EVENT> his opponent to <EVENT eid="e60" class="OCCURRENCE">call</EVENT> light, which meant Donald had to <EVENT eid="e61" class="OCCURRENCE">appear</EVENT> weak. Betting too small on the river would <EVENT eid="e62" class="OCCURRENCE">give</EVENT> the appearance of strength, so Donald <EVENT eid="e63" class="OCCURRENCE">bet</EVENT> $60 into a $105 pot. 
+
+The opponent <EVENT eid="e64" class="OCCURRENCE">called</EVENT> and <EVENT eid="e65" class="OCCURRENCE">turned</EVENT> up Js Jc. Donald won, <EVENT eid="e66" class="OCCURRENCE">extracting</EVENT> maximum value. 
+
+Donald <EVENT eid="e67" class="REPORTING">considered</EVENT> his <TIMEX3 tid="t3" type="DATE" value="PAST_REF">past</TIMEX3> pattern of always continuation-betting the flop. He <EVENT eid="e68" class="REPORTING">adjusted</EVENT>. He <EVENT eid="e69" class="I_ACTION">accounted</EVENT> for the likelihood of what his opponent might do based on whether Donald <EVENT eid="e70" class="OCCURRENCE">checked</EVENT> or <EVENT eid="e71" class="OCCURRENCE">bet</EVENT>. When the opponent <EVENT eid="e72" class="OCCURRENCE">revealed</EVENT> more and more information about his hand range, Donald <EVENT eid="e73" class="OCCURRENCE">adjusted</EVENT> each time, accounting for <TIMEX3 tid="t4" type="DATE" value="PAST_REF">the past</TIMEX3>, present and future with his decisions. 
+
+When your process truly <EVENT eid="e74" class="OCCURRENCE">accounts</EVENT> for past, present and future considerations, and you manage them effectively, you can <EVENT eid="e75" class="OCCURRENCE">create</EVENT> exploitable scenarios. Welcome to poker heaven. 
+
+(Alex Outhred is a poker coach and poker player with more than $500,000 in live and online poker tournament winnings. He has <EVENT eid="e76" class="OCCURRENCE">cashed</EVENT> in more than a dozen WSOP events. Follow him on Twitter: @alexpokerguy.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie73" eventID="e73" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie72" eventID="e72" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie71" eventID="e71" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie70" eventID="e70" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie76" eventID="e76" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie75" eventID="e75" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie74" eventID="e74" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie68" eventID="e68" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie69" eventID="e69" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie60" eventID="e60" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie61" eventID="e61" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie62" eventID="e62" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie63" eventID="e63" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie64" eventID="e64" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie65" eventID="e65" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie66" eventID="e66" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie67" eventID="e67" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie59" eventID="e59" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie58" eventID="e58" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie55" eventID="e55" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie54" eventID="e54" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie57" eventID="e57" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie56" eventID="e56" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie51" eventID="e51" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie50" eventID="e50" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie53" eventID="e53" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie52" eventID="e52" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie43" eventID="e43" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie46" eventID="e46" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie47" eventID="e47" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie44" eventID="e44" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie45" eventID="e45" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie48" eventID="e48" pos="VERB" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie49" eventID="e49" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="NONE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie35" relatedToEventInstance="ie34" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie38" relatedToEventInstance="ie39" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie39" relatedToEventInstance="ie38" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie64" relatedToEventInstance="ie65" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie45" relatedToEventInstance="ie44" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie26" relatedToEventInstance="ie27" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+</TimeML>

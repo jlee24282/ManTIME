@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195936401</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Besides Gandhi's possible assassination, the report also</TITLE>
+
+
+<TEXT>
+<EVENT eid="e1" class="OCCURRENCE">analysed</EVENT> various scenarios of his "abrupt departure" from the political scene before <TIMEX3 tid="t1" type="DATE" value="1989">1989</TIMEX3>. 
+ 
+"Although we <EVENT eid="e2" class="I_STATE">believe</EVENT> assassination is the major near-term <EVENT eid="e3" class="OCCURRENCE">threat</EVENT> to Rajiv's tenure, any of several other events could <EVENT eid="e4" class="OCCURRENCE">cause</EVENT> his abrupt departure from the political scene <TIMEX3 tid="t2" type="DATE" value="1989">before 1989</TIMEX3>," it <EVENT eid="e5" class="REPORTING">said</EVENT> while <EVENT eid="e6" class="OCCURRENCE">listing</EVENT> out several other possibilities including "his death from natural causes or by accident". 
+ 
+It <EVENT eid="e7" class="OCCURRENCE">ruled</EVENT> out the possibility of a <EVENT eid="e8" class="OCCURRENCE">decision</EVENT> by him "to <EVENT eid="e9" class="OCCURRENCE">resign</EVENT> out of frustration", <EVENT eid="e10" class="REPORTING">saying</EVENT> "we <EVENT eid="e11" class="PERCEPTION">see</EVENT> no signs of this and believe it would be <EVENT eid="e12" class="STATE">out</EVENT> of character". 
+ 
+The CIA report also <EVENT eid="e13" class="REPORTING">noted</EVENT>: "We <EVENT eid="e14" class="I_STATE">suspect</EVENT>, however, that Rajiv would <EVENT eid="e15" class="OCCURRENCE">calculate</EVENT> -- as we do -- that he and his kin would be targets for extremist <EVENT eid="e16" class="OCCURRENCE">violence</EVENT> even if he <EVENT eid="e17" class="OCCURRENCE">left</EVENT> public office." 
+ 
+In a section called "Implications for the United States", the report <EVENT eid="e18" class="REPORTING">says</EVENT> "We believe (Rajiv) Gandhi's <EVENT eid="e19" class="OCCURRENCE">death</EVENT> would represent a significant blow to US interests, regardless of the circumstances of the succession." 
+ 
+"...We <EVENT eid="e20" class="I_STATE">believe</EVENT> Indo-US relations could also <EVENT eid="e21" class="OCCURRENCE">suffer</EVENT> as a result of domestic political changes following Rajiv's assassination." 
+ 
+The report <EVENT eid="e22" class="OCCURRENCE">assessed</EVENT> Rajiv's policies ranging from <EVENT eid="e23" class="OCCURRENCE">dealing</EVENT> with extremists, foreign relations (including Sri Lankan Tamil issue) to <EVENT eid="e24" class="OCCURRENCE">promoting</EVENT> acquisition of selected foreign technology" among others, and their outcome. 
+ 
+"Although some of Prime Minister Rajiv Gandhi's policies will <EVENT eid="e25" class="ASPECTUAL">continue</EVENT> to <EVENT eid="e26" class="I_ACTION">encounter</EVENT> serious resistance over <TIMEX3 tid="t3" type="DURATION" value="PXY">the next several years</TIMEX3>, we <EVENT eid="e27" class="I_STATE">believe</EVENT> his dominance of the Indian political scene is <EVENT eid="e28" class="STATE">secure</EVENT> until at least the end of his present term of office in <TIMEX3 tid="t4" type="DATE" value="1989-12">December 1989</TIMEX3>, barring his incapacitation or death," it <EVENT eid="e29" class="REPORTING">said</EVENT>. 
+ 
+The report also <EVENT eid="e30" class="OCCURRENCE">dealt</EVENT> with the possibility of a "national government" <EVENT eid="e31" class="OCCURRENCE">taking</EVENT> over in case of a sudden exit by Rajiv, while <EVENT eid="e32" class="OCCURRENCE">discounting</EVENT> the possibility of a military coup in such a scenario. 
+ 
+Several portions of the 23-page report were <EVENT eid="e33" class="OCCURRENCE">deleted</EVENT> before the CIA <EVENT eid="e34" class="OCCURRENCE">decided</EVENT> to <EVENT eid="e35" class="OCCURRENCE">release</EVENT> it under the Freedom of Information Act. 
+ 
+(This article has not been <EVENT eid="e36" class="OCCURRENCE">edited</EVENT> by DNA's editorial team and is auto-generated from an agency feed.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MIGHT" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="NEG" modality="CAN" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie21" relatedToEventInstance="ie20" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t3" relatedToEventInstance="ie27" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie25" relatedToEventInstance="ie27" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie32" relatedToEventInstance="ie31" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie33" relatedToEventInstance="ie34" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie27" relatedToEventInstance="ie25" relType="DURING" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" eventInstanceID="ie26" relatedToEventInstance="ie25" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie31" relatedToEventInstance="ie32" relType="SIMULTANEOUS" />
+</TimeML>

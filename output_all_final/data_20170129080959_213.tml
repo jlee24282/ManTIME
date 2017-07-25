@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201821068</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Dublin Bus still has three single-decker buses</TITLE>
+
+
+<TEXT>
+DUBLIN BUS HAS a fleet of nearly 1,000 buses, three of which are single deck vehicles.
+
+The need for the smaller vehicles has largely <EVENT eid="e1" class="OCCURRENCE">died</EVENT> out due to growing passenger numbers and <EVENT eid="e2" class="OCCURRENCE">extended</EVENT> routes, but the capitals bus service still <EVENT eid="e3" class="OCCURRENCE">retains</EVENT> the vehicles for certain routes.
+
+The buses are <EVENT eid="e4" class="OCCURRENCE">used</EVENT> on routes where roads may be narrower and less easily accessible to double deckers.
+
+<EVENT eid="e5" class="REPORTING">According</EVENT> to DublinBusStuff.com, single decker buses were <EVENT eid="e6" class="OCCURRENCE">used</EVENT> extensively on the Nipper route in the late 80s/early 90s.
+
+A spokesperson for Dublin Bus that the bus is <EVENT eid="e7" class="OCCURRENCE">used</EVENT> to <EVENT eid="e8" class="OCCURRENCE">service</EVENT> the 44B route which takes it to Johnny Foxes Pub in the Dublin Mountains.
+
+Dublin Bus operates a fleet of 987 buses, three of which are single deck vehicles. These are based in Donnybrook Depot and are predominately <EVENT eid="e9" class="OCCURRENCE">used</EVENT> on Route 44b due to narrow roads and low hanging trees along the route to Glencullen.
+
+The route <EVENT eid="e10" class="OCCURRENCE">goes</EVENT> to Glencullen from Dundrum six times <TIMEX3 tid="t1" type="DATE" value="2017-01-23">a day Monday</TIMEX3> to <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie10" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

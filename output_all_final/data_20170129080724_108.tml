@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195718306</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Chicago Police Department unveils Twitter account in Spanish</TITLE>
+
+
+<TEXT>
+CHICAGO  The Chicago Police Department has <EVENT eid="e1" class="OCCURRENCE">launched</EVENT> a Spanish language Twitter account to <EVENT eid="e2" class="OCCURRENCE">bridge</EVENT> the gap with the citys Latino community. 
+   
+The department <EVENT eid="e3" class="REPORTING">announced</EVENT> the new social media outreach <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3>. The Twitter handle of the Spanish language account is @ChicagoPD_Vivo. 
+ 
+The announcement <EVENT eid="e4" class="REPORTING">said</EVENT> the account is part of a continuing effort to <EVENT eid="e5" class="OCCURRENCE">ensure</EVENT> that our police department <EVENT eid="e6" class="OCCURRENCE">reflects</EVENT> the diverse city. It <EVENT eid="e7" class="REPORTING">said</EVENT>: We are very excited to have <EVENT eid="e8" class="OCCURRENCE">taken</EVENT> on this venture and bridge the gap even further with our Latino community. 
+ 
+Among the first tweets in Spanish is one aimed at recruiting applicants for police jobs. It mirrors an English-language post on the main Chicago Police Department account and <EVENT eid="e9" class="OCCURRENCE">lists</EVENT> the jobs benefits, which include health insurance, tuition reimbursement and a retirement plan. 
+   Comments
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

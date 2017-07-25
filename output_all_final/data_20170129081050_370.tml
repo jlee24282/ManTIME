@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203568407</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>South Lake High School HOSA Students Attend Competition</TITLE>
+
+
+<TEXT>
+Pictured (from left): Top 5 South Lake High HOSA finishers proudly <EVENT eid="e1" class="I_ACTION">display</EVENT> their ribbons, Front row  Cici Barragan, Maria Torres, Emily Reynard, Brianna Thomson, Shelby Jiles; Middle row  Nadia Love, Kalah Sonson, Heather Robinson, Hanna Clark; Back row  Karina Scoliere, Morghan Neuhofer, Leah Sonson, Kimerly Tran 
+  
+The South Lake High School HOSA (Health Occupations Students of America) team <EVENT eid="e2" class="OCCURRENCE">attended</EVENT> the <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> HOSA Regional Competition at Keiser University on <TIMEX3 tid="t2" type="DATE" value="2017-01">January 21st</TIMEX3>. Students <EVENT eid="e3" class="OCCURRENCE">competed</EVENT> in a variety of healthcare-related events that included <EVENT eid="e4" class="OCCURRENCE">performing</EVENT> skills in front of judges, and <EVENT eid="e5" class="OCCURRENCE">taking</EVENT> rigorous knowledge tests. The skill events <EVENT eid="e6" class="OCCURRENCE">included</EVENT> CPR/First Aid, CERT skills, EMT skills, Veterinary Science, Nursing Assisting, Home Health Aid, Forensic Medicine, and Career Health Display. South Lake High had numerous top 5 finishers who were <EVENT eid="e7" class="OCCURRENCE">recognized</EVENT> on stage, and the top 3 finishers in each event have <EVENT eid="e8" class="OCCURRENCE">advanced</EVENT> to the HOSA State Competition, which will <EVENT eid="e9" class="OCCURRENCE">take</EVENT> place in <TIMEX3 tid="t3" type="DATE" value="2017-04">April</TIMEX3> at the World Center Marriott in Orlando. We <EVENT eid="e10" class="STATE">congratulate</EVENT> our wonderful South Lake High HOSA students for their accomplishments, and <EVENT eid="e11" class="OCCURRENCE">wish</EVENT> them well at the next level of competition. 
+ 
+NFL Football News  
+Copyright <TIMEX3 tid="t4" type="DATE" value="2017">2017</TIMEX3> Lakeway Publishers, Inc. All rights <EVENT eid="e12" class="OCCURRENCE">reservered</EVENT>. This <EVENT eid="e13" class="OCCURRENCE">material</EVENT> may not be <EVENT eid="e14" class="OCCURRENCE">published</EVENT>, broadcast, <EVENT eid="e15" class="OCCURRENCE">rewritten</EVENT> or <EVENT eid="e16" class="OCCURRENCE">redistributed</EVENT> without written permission. 
+Copyright Lakeway Publishers, Inc. Privacy Policy
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t3" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+</TimeML>

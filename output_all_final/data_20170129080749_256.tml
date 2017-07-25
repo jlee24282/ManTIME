@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196749478</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Family travel five: 5 guest ranches with cozy cabins, campfires and lots of horses</TITLE>
+
+
+<TEXT>
+By Visit a guest ranch for old-school hospitality, active adventure and spectacular scenery. Here are five top ones to <EVENT eid="e1" class="OCCURRENCE">consider</EVENT>: 
+ 
+1. Latigo Ranch, Kremmling, Colo. 
+ 
+<EVENT eid="e2" class="OCCURRENCE">Choose</EVENT> your season and <EVENT eid="e3" class="OCCURRENCE">relish</EVENT> the peace and tranquility you'll <EVENT eid="e4" class="OCCURRENCE">find</EVENT> at this historic ranch. With never-ending views along the Continental Divide, <EVENT eid="e5" class="OCCURRENCE">choose</EVENT> from snowshoeing, tubing, cross-country skiing and fat tire biking in pristine winter conditions. Summer offers top-notch horseback riding, cattle drives, hiking and mountain biking for the active members of your family. For those eager to relax, <EVENT eid="e6" class="OCCURRENCE">settle</EVENT> in on the porch or near a crackling fire with a favorite book.Contact: latigotrails.com 
+ 
+2. White Stallion Ranch, Tucson, Ariz. 
+ 
+Family-owned and -<EVENT eid="e7" class="OCCURRENCE">operated</EVENT>, this working cattle ranch is known for award-winning service, exceptional riding opportunities and a family-friendly atmosphere. Ride amid towering saguaros and enjoy moonlit bonfires, hayrides, cowboy entertainment, Western dance lessons and a weekly rodeo where family members can <EVENT eid="e8" class="I_ACTION">admire</EVENT> the roping, barrel racing and steer-wrestling skills of local wranglers.Contact: whitestallion.com 
+ 
+3. Devil's Thumb Ranch, Tabernash, Colo. 
+ 
+Stay in a cabin or the <EVENT eid="e9" class="OCCURRENCE">lodge</EVENT> and <EVENT eid="e10" class="OCCURRENCE">get</EVENT> cozy near one of 45 flickering fireplaces. Enjoy local specialties in the lodge dining room where a three-story, three-hearth fireplace, comprising hand-stacked stones, warms winter visitors. <EVENT eid="e11" class="OCCURRENCE">Grab</EVENT> the binoculars to <EVENT eid="e12" class="OCCURRENCE">catch</EVENT> a glimpse of wildlife roaming on this 6,000-acre expanse of Colorado beauty or <EVENT eid="e13" class="OCCURRENCE">set</EVENT> out on the Nordic trails for an up-close view of winter scenes. Plan for a <EVENT eid="e14" class="OCCURRENCE">soak</EVENT> or scrub in the 18,000-square-foot spa where young cowpokes are invited for kid-friendly mini-massages or tween-bee facials.Contact: devilsthumbranch.com 
+ 
+4. Westgate River Ranch, River Ranch, Fla. 
+ 
+You'll be just <TIMEX3 tid="t1" type="DURATION" value="PTXH">an hour</TIMEX3> from Orlando and within <TIMEX3 tid="t2" type="DURATION" value="PXM">30 minutes</TIMEX3> of Legoland. But you'll feel a world away once you arrive at the largest dude ranch east of the Mississippi. Situated on 1,700 acres of wilderness in Florida's cattle country, the ranch offers a menu of <EVENT eid="e15" class="OCCURRENCE">lodging</EVENT> options that include glamping-style tents, lodge rooms and two-bedroom cabins. Opt for horse and pony rides, airboat excursions, miniature golf, nature hikes and zip lining. You'll <EVENT eid="e16" class="I_STATE">want</EVENT> to <EVENT eid="e17" class="OCCURRENCE">take</EVENT> in the rodeo, campfires, cookouts, hayrides and a weekly street party.Contact: westgateresorts.com 
+ 
+5. Vista Verde Ranch, Steamboat Springs, Colo. 
+ 
+With more than 350 inches of annual snowfall, it's a high-altitude winter wonderland. Warm by the fire after a day of snow tubing, fat tire biking, <EVENT eid="e18" class="OCCURRENCE">snowshoeing</EVENT> or sleigh riding. A kids' program for young wranglers 6-12 encourages snow play and sports as well as a "dine and dash" dinner program that allows the kids to <EVENT eid="e19" class="OCCURRENCE">return</EVENT> to friends and fun while the adults <EVENT eid="e20" class="OCCURRENCE">enjoy</EVENT> a leisurely meal and relaxing fireside conversation. Upscale and all-inclusive, summer on the ranch <EVENT eid="e21" class="OCCURRENCE">offers</EVENT> traditional riding programs, fly-fishing, barn dances, treasure hunts and mountain hiking.Contact: vistaverde.com 
+ 
+ Lynn O'Rourke Hayes is the editor of FamilyTravel.com. Email her at lohayes@FamilyTravel.com.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie20" relType="SIMULTANEOUS" />
+</TimeML>

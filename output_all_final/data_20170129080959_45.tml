@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201638125</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>World Leprosy Day 2017: Why we need to step up the fight against this health issue?</TITLE>
+
+
+<TEXT>
+New Delhi: Leprosy, also known asHansen's disease, is along-terminfection by thebacteriaMycobacterium lepraeorMycobacterium lepromatosis. 
+ 
+Initially, infections are without symptoms and typically <EVENT eid="e1" class="STATE">remain</EVENT> static for <TIMEX3 tid="t1" type="DURATION" value="P5Y">5 to 20 years</TIMEX3>. Symptoms that develop includegranulomasof thenerves,respiratory tract, skin, and eyes. 
+ 
+This can also <EVENT eid="e2" class="OCCURRENCE">result</EVENT> in lack of ability to <EVENT eid="e3" class="OCCURRENCE">feel</EVENT> pain and thus <EVENT eid="e4" class="OCCURRENCE">loss</EVENT> of parts of extremities due to repeated injuries or infection due to unnoticed wounds. 
+ 
+Leprosy is <EVENT eid="e5" class="OCCURRENCE">spread</EVENT> between people.This is <EVENT eid="e6" class="I_STATE">thought</EVENT> to <EVENT eid="e7" class="OCCURRENCE">occur</EVENT> through a cough or contact with fluid from the <EVENT eid="e8" class="OCCURRENCE">nose</EVENT> of an infected person. 
+ 
+Prevention 
+ 
+Leprosy is endemic in several regions of the world. <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Currently</TIMEX3> the only protection has <EVENT eid="e9" class="OCCURRENCE">come</EVENT> from vaccination with BCG (Bacillus Calmette-Guerin), a single dose of which <EVENT eid="e10" class="OCCURRENCE">gives</EVENT> 50 percent or higher protection against the disease. 
+ 
+BCG is a component of the Expanded Program on Immunization and <EVENT eid="e11" class="I_STATE">confers</EVENT> some degree of protection against tuberculosis, which is <EVENT eid="e12" class="OCCURRENCE">caused</EVENT> by a mycobacterium <EVENT eid="e13" class="OCCURRENCE">allied</EVENT> to M. leprae. 
+ 
+Also Read: World's first made-in-India leprosy vaccine to be out on trial basis 
+ 
+Indias fight against leprosy 
+ 
+The World Health Organization (WHO) <EVENT eid="e14" class="OCCURRENCE">directed</EVENT> South-East Asian countries, including India which accounted for 60% per cent of such cases worldwide in <TIMEX3 tid="t3" type="DATE" value="2015">2015</TIMEX3>, to <EVENT eid="e15" class="OCCURRENCE">focus</EVENT> on preventing disabilities in children. 
+ 
+According to WHO, leprosy <EVENT eid="e16" class="OCCURRENCE">affected</EVENT> 2,12,000 people all over the globe in <TIMEX3 tid="t4" type="DATE" value="2015">2015</TIMEX3>. India alone <EVENT eid="e17" class="OCCURRENCE">reported</EVENT> 1,27,326 new cases, <EVENT eid="e18" class="OCCURRENCE">accounting</EVENT> for 60% of new cases globally. 
+ 
+India is among the 22 countries <EVENT eid="e19" class="OCCURRENCE">considered</EVENT> as having a high <EVENT eid="e20" class="OCCURRENCE">burden</EVENT> for leprosy along with high transmission by WHO. Despite being <EVENT eid="e21" class="OCCURRENCE">eliminated</EVENT> globally as a public health problem in <TIMEX3 tid="t5" type="DATE" value="2000">2000</TIMEX3>, leprosy <EVENT eid="e22" class="REPORTING">continues</EVENT> to mar the lives of individuals, and impacts families and communities. 
+ 
+Though present numbers are a fraction of what was reported <TIMEX3 tid="t6" type="DATE" value="2007-01-29">a decade ago</TIMEX3>, they are unacceptable, as an effective treatment for leprosy  multidrug therapy, or MDT  has been <EVENT eid="e23" class="STATE">available</EVENT> since <TIMEX3 tid="t7" type="DATE" value="198X">the 1980s</TIMEX3> and can fully <EVENT eid="e24" class="OCCURRENCE">cure</EVENT> leprosy, <EVENT eid="e25" class="REPORTING">comments</EVENT> an <EVENT eid="e26" class="OCCURRENCE">expert</EVENT>. 
+ 
+The number of new cases indicates the degree of continued transmission of infection.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="DURING" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t2" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t5" relatedToEventInstance="ie22" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t4" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie23" relatedToTime="t7" relType="DURING" />
+<TLINK lid="TL3" eventInstanceID="ie25" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie25" relatedToEventInstance="ie26" relType="IDENTITY" />
+</TimeML>

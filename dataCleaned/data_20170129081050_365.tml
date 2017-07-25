@@ -2,8 +2,11 @@
 <TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
 <DOCID>695203552526</DOCID>
 <DCT><TIMEX3 tid="t0" type="DATE" value="2017-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
-<TITLE> The Mexican President has a message for President TRUMP </TITLE>
+<TITLE>"The Mexican President has a message for President TRUMP"</TITLE>
 <TEXT>
-title Content Goes Here ok Create New Playlist collection name collection tracks length songs Save songs from Q93 to your playlist Instantly replay songs from the radio Unlimited skips Listen offline Create unlimited playlists Play millions of songs on demand An error occurred Please try again 
+title  
+Content Goes Here 
+ ok       Create New Playlist   {{collection.name}}  {{(collection.tracks).length}} songs      Save songs from Q93 to your playlist  Instantly replay songs from the radio  Unlimited skips  Listen offline  Create unlimited playlists  Play millions of songs on demand     
+An error occurred. Please try again.
 </TEXT>
 </TimeML>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196082440</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Vivo V5 Plus, Lenovo K6 Power 4GB Launch, WhatsApp Update, More This Week</TITLE>
+
+
+<TEXT>
+With Republic Day in <TIMEX3 tid="t1" type="DURATION" value="PXW">the middle of the week</TIMEX3>, many people <EVENT eid="e1" class="ASPECTUAL">ended</EVENT> up taking things a little easy. Not so in the world of tech though, as we <EVENT eid="e2" class="OCCURRENCE">saw</EVENT> a number of launches, and major updates. Here's a look at all the news you can <EVENT eid="e3" class="OCCURRENCE">use</EVENT> from <TIMEX3 tid="t2" type="DATE" value="2017-W05">the week</TIMEX3>. 
+ 
+The selfie-focused Vivo V5 Plus was <EVENT eid="e4" class="OCCURRENCE">launched</EVENT> in India <TIMEX3 tid="t3" type="DATE" value="2017-W05">this week</TIMEX3>, <EVENT eid="e5" class="OCCURRENCE">priced</EVENT> at Rs. 27,980. The Vivo V5 Plus has a 16-megapixel rear camera, and a dual camera setup for the front, with a 20-megapixel sensor and an 8-megapixel sensor, which captures depth information to <EVENT eid="e6" class="I_ACTION">help create</EVENT> the digital 'bokeh'. 
+ 
+Other Vivo V5 Plus key specifications include a 5.5-inch full-HD (1080x1920 pixels) <EVENT eid="e7" class="OCCURRENCE">display</EVENT>, a 2.0GHz octa-core Snapdragon 625 SoC, 4GB of RAM, and a 3055mAh battery, as well as 64GB of internal storage. The Vivo V5 Plus also comes preloaded with the Face Beauty 6.0 app. It sports a metal unibody design, supports dual-SIM cards, and <EVENT eid="e8" class="OCCURRENCE">runs</EVENT> on Funtouch 2.6 OS that's based on Android 6.0.1 Marshmallow.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="ENDED_BY" />
+<TLINK lid="TL1" timeID="t3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

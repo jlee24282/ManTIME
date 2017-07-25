@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202521817</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>No fries: Florida wants students to whip up healthy dishes</TITLE>
+
+
+<TEXT>
+Florida Agriculture Commissioner Adam Putnam is <EVENT eid="e1" class="OCCURRENCE">looking</EVENT> for the state's best student chef. 
+
+Putnam wants high school students around the state to <EVENT eid="e2" class="OCCURRENCE">enter</EVENT> the "Fresh from Florida Student Chef Cook-Off." The <EVENT eid="e3" class="OCCURRENCE">deadline</EVENT> is <TIMEX3 tid="t1" type="DATE" value="2017-02-02">Feb. 2</TIMEX3>. 
+
+Putnam <EVENT eid="e4" class="REPORTING">says</EVENT> the goal is to <EVENT eid="e5" class="OCCURRENCE">encourage</EVENT> children to <EVENT eid="e6" class="OCCURRENCE">prepare</EVENT> healthy meals. 
+
+The contest rules <EVENT eid="e7" class="OCCURRENCE">require</EVENT> students to <EVENT eid="e8" class="OCCURRENCE">create</EVENT> an original recipe that includes one fresh fruit or vegetable grown in the state. 
+
+Finalists will be <EVENT eid="e9" class="I_ACTION">chosen</EVENT> to <EVENT eid="e10" class="OCCURRENCE">compete</EVENT> in five regional cook-offs which will be <EVENT eid="e11" class="OCCURRENCE">held</EVENT> in <TIMEX3 tid="t2" type="DATE" value="2017-03">March</TIMEX3> and <TIMEX3 tid="t3" type="DATE" value="2017-04">April</TIMEX3>. The regional winners will <EVENT eid="e12" class="OCCURRENCE">participate</EVENT> in a statewide cook-off at the Florida School Nutrition Association annual conference. 
+
+The ultimate winner will be <EVENT eid="e13" class="I_ACTION">invited</EVENT> to <EVENT eid="e14" class="OCCURRENCE">serve</EVENT> with a professional chef at one of the department's future events. 
+
+On the web: http://www.freshfromflorida.com/Divisions-Offices/Food-Nutrition-and-Wellness/Fresh-From-Florida-Student-Chef-Cook-Off
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

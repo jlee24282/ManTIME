@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203882308</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Nationals Ink Veteran Starter</TITLE>
+
+
+<TEXT>
+When <EVENT eid="e1" class="I_STATE">looking</EVENT> to <EVENT eid="e2" class="OCCURRENCE">fill</EVENT> out your rotation through the minor league level, it's always helpful to <EVENT eid="e3" class="OCCURRENCE">target</EVENT> candidates with divisional familiarity. 
+ 
+Ex-Phillie Vance Worley certainly <EVENT eid="e4" class="OCCURRENCE">fits</EVENT> the bill for the Nationals and, if he's able to <EVENT eid="e5" class="OCCURRENCE">advance</EVENT> past the Triple-A ceiling, will be <EVENT eid="e6" class="OCCURRENCE">headed</EVENT> to Washington <TIMEX3 tid="t1" type="DATE" value="2017-SU">this summer</TIMEX3>. 
+ 
+While just <TIMEX3 tid="t2" type="DURATION" value="PTXH">hours ago</TIMEX3> an Orioles <EVENT eid="e7" class="OCCURRENCE">return seemed</EVENT> possible, it <EVENT eid="e8" class="OCCURRENCE">turns</EVENT> out Worley's next innings will be a few miles down the beltway. 
+   
+Duquette <EVENT eid="e9" class="REPORTING">said</EVENT> that #Orioles have been in touch with Vance Worley about possible return. 
+  Eduardo A. Encina (@EddieInTheYard) January <TIMEX3 tid="t3" type="DATE" value="2017">28, 2017</TIMEX3>   
+No matter where he <EVENT eid="e10" class="OCCURRENCE">goes</EVENT>, Worley <EVENT eid="e11" class="I_STATE">seems</EVENT> to <EVENT eid="e12" class="OCCURRENCE">post</EVENT> solid numbers, <EVENT eid="e13" class="OCCURRENCE">totaling</EVENT> a 3.53 ERA in 86.2 innings of mostly relief in Oriole gear <TIMEX3 tid="t4" type="DATE" value="PAST_REF">last season</TIMEX3>. He was an even-more-impressive 8-4 with a 2.85 ERA in <TIMEX3 tid="t5" type="DATE" value="2014">2014</TIMEX3> during his semester in Ray Searage School along the Monongahela in Pittsburgh. 
+ 
+There's not a lot of untapped potential, but there are plenty of solid innings here.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+</TimeML>

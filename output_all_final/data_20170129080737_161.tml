@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196243709</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Hononegah Girls Win Big Against East</TITLE>
+
+
+<TEXT>
+By Joshua Filomeno | jfilomeno@wtvo.com 
+  
+Published 01/28 <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> 10:56PM 
+ 
+Updated 01/28 <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> 10:56PM 
+   
+ROCKTON 
+ 
+The Lady Indians <EVENT eid="e1" class="OCCURRENCE">jumped</EVENT> out in front early, and never <EVENT eid="e2" class="OCCURRENCE">looked</EVENT> back against East <TIMEX3 tid="t3" type="TIME" value="2017-01-28TAF">Saturday afternoon</TIMEX3>. Jordan King <EVENT eid="e3" class="OCCURRENCE">led</EVENT> the way <EVENT eid="e4" class="OCCURRENCE">scoring</EVENT> 20 of her 21 points in the first half in Hononegah's 63-35 win at home. 
+ 
+For highlights click on the media player.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197471202</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Trainer enjoys awesome results with Clifford Park foursome</TITLE>
+
+
+<TEXT>
+LINDSAY Hatch could certainly get <EVENT eid="e1" class="OCCURRENCE">used</EVENT> to <EVENT eid="e2" class="OCCURRENCE">racing</EVENT> on a <TIMEX3 tid="t1" type="DATE" value="2017-01-22">Sunday</TIMEX3> at Clifford Park. 
+ 
+Toowoomba racing had a slight schedule <EVENT eid="e3" class="OCCURRENCE">change</EVENT> at <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">the weekend</TIMEX3> when the <TIMEX3 tid="t3" type="DURATION" value="P1W">weekly</TIMEX3> meeting at Clifford Park was <EVENT eid="e4" class="OCCURRENCE">held</EVENT> on <TIMEX3 tid="t4" type="DATE" value="2017-01-22">Sunday</TIMEX3> rather than the usual <TIMEX3 tid="t5" type="DATE" value="2017-01-28">Saturday</TIMEX3> twilight timeslot. 
+ 
+It will <EVENT eid="e5" class="OCCURRENCE">go</EVENT> down as a memorable <EVENT eid="e6" class="OCCURRENCE">meeting</EVENT> for Toowoomba trainer Lindsay Hatch as he was at the forefront of the <EVENT eid="e7" class="OCCURRENCE">meeting</EVENT> with four winners from the eight races. 
+ 
+Hatch's great day <EVENT eid="e8" class="OCCURRENCE">started</EVENT> with a commanding six-length <EVENT eid="e9" class="OCCURRENCE">win</EVENT> for Rhyme Nor Rhythm in the Key Sun Zinke Class 2 Handicap (1000m). 
+ 
+The four-year-old gelding <EVENT eid="e10" class="OCCURRENCE">went</EVENT> into the race on the back of impressive form and <EVENT eid="e11" class="OCCURRENCE">started</EVENT> as a $1.35 favourite before <EVENT eid="e12" class="OCCURRENCE">repaying</EVENT> the faith of punters with a strong <EVENT eid="e13" class="OCCURRENCE">win</EVENT>, the third of his six-race career. 
+ 
+Hatch was back in the winner's <EVENT eid="e14" class="OCCURRENCE">stall</EVENT> in race three when jockey Brad Stewart <EVENT eid="e15" class="OCCURRENCE">picked</EVENT> up his second <EVENT eid="e16" class="OCCURRENCE">win</EVENT> with the Toowoomba trainer for the <EVENT eid="e17" class="OCCURRENCE">meeting</EVENT> on board Helarocity ($1.80fav). 
+ 
+The five-year-old grey <EVENT eid="e18" class="OCCURRENCE">proved</EVENT> too strong for We Built This City ($15), <EVENT eid="e19" class="OCCURRENCE">winning</EVENT> by two-and-a-half lengths in the Canadian Club Class 3 Handicap over 1300 metres. 
+ 
+The Hatch stable was back in the action the next race as Stewart <EVENT eid="e20" class="OCCURRENCE">made</EVENT> it three wins courtesy of a <EVENT eid="e21" class="OCCURRENCE">smashing</EVENT> seven-and-a-half length victory to Jadentom in the Jim Beam Three-Year-Old Maiden Plate (1200m). 
+ 
+Jadentom <EVENT eid="e22" class="REPORTING">started</EVENT> as $1.60 favourite and proved worthy of that backing with the spacious <EVENT eid="e23" class="OCCURRENCE">win</EVENT> over Thumbs Up ($8). 
+ 
+The great run for Hatch didn't <EVENT eid="e24" class="OCCURRENCE">stop</EVENT> there though as the trainer <EVENT eid="e25" class="OCCURRENCE">combined</EVENT> with jockey Josh Oliver in Captains Way's triumph in the Winning Edge Benchmark 58 Handicap (1850m). 
+ 
+Captains Way ($5) <EVENT eid="e26" class="OCCURRENCE">edged</EVENT> out Pink Chaperone ($7) by two lengths, with Ruby Guru ($7) a length further back in third. 
+ 
+Hatch then had a fifth <EVENT eid="e27" class="OCCURRENCE">win</EVENT> in his sights as Unseemly <EVENT eid="e28" class="OCCURRENCE">started</EVENT> as a $1.70 favourite in the Wellcamp Airports Fillies and Mares Class 1 Handicap (1200m). 
+ 
+Red Chandelier ($5) from Doug Duryea's Beaudesert stable <EVENT eid="e29" class="OCCURRENCE">put</EVENT> a stop to that though by posting a three-quarter-length win over Manhattan Muse ($5.50), with Unseemly a further half-length back in third.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t4" relatedToTime="t2" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL7" timeID="t4" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t5" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204385255</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Woeful Liverpool lose on day of upsets</TITLE>
+
+
+<TEXT>
+Liverpool <EVENT eid="e1" class="OCCURRENCE">sunk</EVENT> deeper into their mid-season rut as Championship side Wolverhampton Wanderers <EVENT eid="e2" class="OCCURRENCE">shocked</EVENT> them with a 2-1 FA Cup triumph at Anfield. 
+ 
+Indeed it was a <TIMEX3 tid="t1" type="DURATION" value="PXD">day</TIMEX3> for the underdogs, with non-league Lincoln <EVENT eid="e3" class="OCCURRENCE">besting</EVENT> Championship leaders Brighton Hove   Albion to <EVENT eid="e4" class="OCCURRENCE">advance</EVENT> to the final 16. 
+ 
+And Tottenham Hotspur <EVENT eid="e5" class="OCCURRENCE">needed</EVENT> injury time heroics to <EVENT eid="e6" class="OCCURRENCE">get</EVENT> past League Two Wycombe Wanderers, who twice <EVENT eid="e7" class="OCCURRENCE">blew</EVENT> a late game lead. 
+ 
+Goals by Richard Stearman and Andreas Weimann <EVENT eid="e8" class="OCCURRENCE">proved</EVENT> enough for Wolves, 18th in the second tier, to <EVENT eid="e9" class="OCCURRENCE">inflict</EVENT> a third home defeat in <TIMEX3 tid="t2" type="DURATION" value="P1W">a week</TIMEX3> on Juergen Klopp's faltering side. 
+ 
+The loss <EVENT eid="e10" class="OCCURRENCE">left</EVENT> Klopp <EVENT eid="e11" class="OCCURRENCE">steaming</EVENT>, the German admitting that Liverpool can't <EVENT eid="e12" class="OCCURRENCE">get</EVENT> any lower than where they are <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">currently</TIMEX3> at. 
+ 
+"If someone <EVENT eid="e13" class="OCCURRENCE">asks</EVENT> if this is the lowest point of my Liverpool time until <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3>, I don't <EVENT eid="e14" class="OCCURRENCE">know</EVENT>," Klopp <EVENT eid="e15" class="REPORTING">told</EVENT> reporters. 
+ 
+"I don't <EVENT eid="e16" class="I_STATE">think</EVENT> it is the right time to <EVENT eid="e17" class="OCCURRENCE">talk</EVENT> about being positive or optimistic. In this moment we feel really bad." 
+ 
+Liverpool, fourth in the Premier League, have won only one game out of eight in <TIMEX3 tid="t5" type="DATE" value="2017-01">January</TIMEX3> and their chances of <EVENT eid="e18" class="OCCURRENCE">lifting</EVENT> a trophy this season look bleak. 
+ 
+"It is a perfect moment to <EVENT eid="e19" class="OCCURRENCE">turn</EVENT> because it is not possible to <EVENT eid="e20" class="OCCURRENCE">go</EVENT> lower," Klopp <EVENT eid="e21" class="REPORTING">said</EVENT>. 
+ 
+Wycombe were on course to <EVENT eid="e22" class="OCCURRENCE">trump</EVENT> Wolves, with a genuine giant-killing away to Premier League title hopefuls Tottenham Hotspur as two goals by Paul Hayes <EVENT eid="e23" class="OCCURRENCE">gave</EVENT> them a 2-0 halftime <EVENT eid="e24" class="OCCURRENCE">lead</EVENT> at White Hart Lane. 
+ 
+Garry Thompson then <EVENT eid="e25" class="OCCURRENCE">restored</EVENT> their lead <TIMEX3 tid="t6" type="DATE" value="X">seven</TIMEX3> minutes from time after Tottenham had <EVENT eid="e26" class="OCCURRENCE">battled</EVENT> back but Dele Alli <EVENT eid="e27" class="OCCURRENCE">equalised</EVENT> and an own goal <EVENT eid="e28" class="OCCURRENCE">salvaged</EVENT> a 4-3 victory for Tottenham. 
+ 
+Lincoln did <EVENT eid="e29" class="OCCURRENCE">hold</EVENT> on for an upset though. They <EVENT eid="e30" class="OCCURRENCE">went</EVENT> doen 1-o to brighton before <EVENT eid="e31" class="OCCURRENCE">coming</EVENT> back to <EVENT eid="e32" class="OCCURRENCE">take</EVENT> a 3-1 victory. 
+ 
+Brighton weren't the only Championship high-flyer brought <EVENT eid="e33" class="OCCURRENCE">undone</EVENT> with Newcastle United <EVENT eid="e34" class="OCCURRENCE">succumbing</EVENT> to a humbling 3-0 defeat at League One's Oxford United. 
+ 
+While those two <EVENT eid="e35" class="OCCURRENCE">slipped</EVENT>, Aaron Mooy <EVENT eid="e36" class="OCCURRENCE">came</EVENT> off the bench for Huddersfield Town to <EVENT eid="e37" class="OCCURRENCE">give</EVENT> a late <EVENT eid="e38" class="OCCURRENCE">assist</EVENT> as they <EVENT eid="e39" class="OCCURRENCE">ran</EVENT> out 4-0 winners over lowly Rochdale. 
+ 
+There was precious little drama at Stamford Bridge though as Premier League leaders Chelsea beat second tier Brentford 4-0, or at Selhurst Park where Manchester City <EVENT eid="e40" class="OCCURRENCE">outclassed</EVENT> Crystal Palace 3-0 in an all Premier League clash. 
+ 
+Two other Premier League sides <EVENT eid="e41" class="OCCURRENCE">made</EVENT> progress with Middlesbrough beating Accrington Stanley 1-0 and Burnley <EVENT eid="e42" class="OCCURRENCE">seeing</EVENT> off Bristol City 2-0. 
+ 
+Blackburn Rovers won a north west derby 2-0 against Blackpool in a game memorable for protests against their clubs' respective owners by both sets of fans. 
+ 
+NZN
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="CAN" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t4" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie35" relatedToEventInstance="ie36" relType="AFTER" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie25" relatedToEventInstance="ie26" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie30" relatedToEventInstance="ie31" relType="BEFORE" />
+<TLINK lid="TL7" eventInstanceID="ie26" relatedToTime="t6" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie26" relatedToEventInstance="ie25" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie31" relatedToEventInstance="ie30" relType="AFTER" />
+</TimeML>

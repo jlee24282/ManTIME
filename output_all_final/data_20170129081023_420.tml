@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202770870</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Alicia Keys Releases New Song Thats Whats Up</TITLE>
+
+
+<TEXT>
+Alicia Keys Releases New Song 'That's What's Up' (Week in Review)  
+ 
+
+. 
+  
+Alicia Keys Releases New Song 'That's What's Up' was a Top 3 story on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3>: (Radio.com) Alicia Keys <EVENT eid="e1" class="OCCURRENCE">turned</EVENT> 36 on <TIMEX3 tid="t2" type="DATE" value="2017-01-25">Wednesday</TIMEX3> and <EVENT eid="e2" class="OCCURRENCE">celebrated</EVENT> like a singer-songwriter: She <EVENT eid="e3" class="OCCURRENCE">released</EVENT> a new track <EVENT eid="e4" class="OCCURRENCE">called</EVENT> "That's What's Up" via her SoundCloud account. 
+ 
+It's a song built on self-narration and proclamations of gratitude -- perhaps a kind of State of the Union address for the big 3-6? "That's What's Up" would have been right at home on her <TIMEX3 tid="t3" type="DATE" value="2016">2016</TIMEX3> album Here. 
+ 
+"You <EVENT eid="e5" class="I_STATE">want</EVENT> me to <EVENT eid="e6" class="OCCURRENCE">give</EVENT> you a testimony about my life/ And how good he's been to me/ I don't <EVENT eid="e7" class="OCCURRENCE">know</EVENT> what to <EVENT eid="e8" class="OCCURRENCE">tell</EVENT> you about him/ I love him so much with all my heart and my soul/ With every bone in my body I love him so much/ Because he's <EVENT eid="e9" class="OCCURRENCE">done</EVENT> so much for me," she wails. Listen to Keys' birthday track - here. 
+ Radio.com is an official news provider for antiMusic.com. 
+Copyright Radio.com/CBS Local - Excerpted here with permission.   
+advertisement
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie1" relType="AFTER" />
+</TimeML>

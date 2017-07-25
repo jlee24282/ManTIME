@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200868402</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Twitter discloses two far-reaching FBI data requests</TITLE>
+
+
+<TEXT>
+An FBI inspector general report from <TIMEX3 tid="t1" type="DATE" value="2014">2014</TIMEX3> had <EVENT eid="e1" class="OCCURRENCE">disagreed</EVENT> with the memo's terms, <EVENT eid="e2" class="OCCURRENCE">suggesting</EVENT> that the bureau doesn't <EVENT eid="e3" class="I_STATE">believe</EVENT> it's bound to those limitations.To some extent, Twitter is <EVENT eid="e4" class="OCCURRENCE">using</EVENT> the letters as bargaining chips. It's still <EVENT eid="e5" class="OCCURRENCE">embroiled</EVENT> in a lawsuit against the US government[1] over rules that <EVENT eid="e6" class="OCCURRENCE">restrict</EVENT> how and when it can <EVENT eid="e7" class="OCCURRENCE">disclose</EVENT> data, and the revelations <EVENT eid="e8" class="OCCURRENCE">support</EVENT> its belief that it can't <EVENT eid="e9" class="OCCURRENCE">offer</EVENT> "meaningful" transparency to users. How can you <EVENT eid="e10" class="OCCURRENCE">talk</EVENT> about examples of law enforcement overreac...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

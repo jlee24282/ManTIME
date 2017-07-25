@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200908436</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Volvo S90 And V90 Score Top Pedestrian Safety Ratings From Euro NCAP</TITLE>
+
+
+<TEXT>
+The results follow in the footsteps of the XC90's, which <EVENT eid="e1" class="STATE">was</EVENT> the first auto from any manufacturer to <EVENT eid="e2" class="OCCURRENCE">score</EVENT> full points in the Euro NCAP Autonomous Emergency Braking vehicle to auto rear-end tests (AEB City and AEB Interurban). Interestingly, the Volvo XC90 was the first vehicle from any <EVENT eid="e3" class="I_ACTION">manufacturer</EVENT> to <EVENT eid="e4" class="OCCURRENCE">score</EVENT> full points in the Euro NCAP Autonomous Emergency Braking auto to vehicle rear-end tests (AEB City and AEB Interurban). Additionally, the models <EVENT eid="e5" class="OCCURRENCE">surpass</EVENT> the best overall score of any model <EVENT eid="e6" class="I_ACTION">tested</EVENT> <TIMEX3 tid="t1" type="DATE" value="2016">a year ago</TIMEX3>, and <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> make Euro NCAP's top three best performing cars ever, all Volvos (including the XC90). 
+ 
+The all new Volvo S90 saloon and V90 estate have <EVENT eid="e7" class="OCCURRENCE">earned</EVENT> five-star Euro NCAP  scores and did it easily <EVENT eid="e8" class="OCCURRENCE">racking</EVENT> up a score higher than any score <EVENT eid="e9" class="OCCURRENCE">recorded</EVENT> in <TIMEX3 tid="t3" type="DATE" value="2016">2016</TIMEX3>. 
+ 
+<EVENT eid="e10" class="REPORTING">According</EVENT> to Euro NCAP, the AEB Pedestrian tests have been <EVENT eid="e11" class="OCCURRENCE">designed</EVENT> such that they <EVENT eid="e12" class="OCCURRENCE">check</EVENT> the performance of the pedestrian-detection systems using three road-crossing scenarios, all of which would <EVENT eid="e13" class="OCCURRENCE">result</EVENT> in a fatal collision if the AEB system did not <EVENT eid="e14" class="OCCURRENCE">intervene</EVENT>. 
+ 
+Like the XC90, both models also come equipped as standard with Volvo's City Safety suite, which works day and night identifying potential hazards such as vehicles, pedestrians, cyclists or even large animals. Volvo's success in the Autonomous Emergency Braking tests are <EVENT eid="e15" class="STATE">aided</EVENT> by the advanced City Safety system, which is standard in all new Volvo cars. 
+ 
+Malin Ekholm, Director of the Volvo Car Safety Centre at Volvo Cars Group, <EVENT eid="e16" class="REPORTING">said</EVENT>, "We work hard to <EVENT eid="e17" class="OCCURRENCE">ensure</EVENT> that our cars <EVENT eid="e18" class="OCCURRENCE">fulfil</EVENT> all safety requirements and <EVENT eid="e19" class="I_ACTION">pass</EVENT> all testing procedures that the ratings agencies <EVENT eid="e20" class="OCCURRENCE">develop</EVENT>".
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

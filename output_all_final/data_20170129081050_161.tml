@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203389736</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Arsenal: Gunner target Griezmann</TITLE>
+
+
+<TEXT>
+Arsenal are <EVENT eid="e1" class="I_STATE">reported</EVENT> to have <EVENT eid="e2" class="OCCURRENCE">joined</EVENT> Manchester United in the race to <EVENT eid="e3" class="OCCURRENCE">sign</EVENT> Atletico Madrid forward Antoine Griezmann. 
+  
+United boss Jose Mourinho is <EVENT eid="e4" class="REPORTING">said</EVENT> to be <EVENT eid="e5" class="OCCURRENCE">leading</EVENT> the race to <EVENT eid="e6" class="OCCURRENCE">sign</EVENT> the French star at the end of the season, but <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> the Gunners have <EVENT eid="e7" class="OCCURRENCE">emerged</EVENT> as serious rivals for the player's signature. 
+The 25-year-old is now one of Europe's hottest properties following his performances for Atleti and France at Euro <TIMEX3 tid="t2" type="DATE" value="2016">2016</TIMEX3>, and the La Liga outfit <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e8" class="STATE">face</EVENT> a huge fight to <EVENT eid="e9" class="OCCURRENCE">keep</EVENT> hold. 
+
+ 
+Reports claim that Arsenal are ready to <EVENT eid="e10" class="OCCURRENCE">steal</EVENT> a march on United by <EVENT eid="e11" class="OCCURRENCE">making</EVENT> their move and are ready to <EVENT eid="e12" class="OCCURRENCE">match</EVENT> the 85million valuation and the player's wage demands of 250,000 a <TIMEX3 tid="t4" type="DURATION" value="P1W">week</TIMEX3>. 
+Whether Wenger is <EVENT eid="e13" class="OCCURRENCE">lining</EVENT> up Griezmann to <EVENT eid="e14" class="OCCURRENCE">replace</EVENT> Alexis Sanchez remains to be <EVENT eid="e15" class="PERCEPTION">seen</EVENT>, but he <EVENT eid="e16" class="I_STATE">appears</EVENT> to be the Frenchman's top summer target. 
+Chelsea and Manchester City are also likely to <EVENT eid="e17" class="OCCURRENCE">enter</EVENT> the <EVENT eid="e18" class="OCCURRENCE">running</EVENT>, should Atletico <EVENT eid="e19" class="OCCURRENCE">make</EVENT> him available.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" timeID="t1" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+</TimeML>

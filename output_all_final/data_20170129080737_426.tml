@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196443118</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Action (8.59 ft) - Observation - SMAF1 - Apalachicola River near Sumatra (Florida)</TITLE>
+
+
+<TEXT>
+Search by city or zip code. Press <EVENT eid="e1" class="I_STATE">enter</EVENT> or <EVENT eid="e2" class="OCCURRENCE">select</EVENT> the go button to <EVENT eid="e3" class="OCCURRENCE">submit</EVENT> request 
+             
+Auto Refresh: OFF  
+     
+NOTE: Forecasts are not available for the Apalachicola River near Sumatra. Only observed stages are available for this point. 
+      Flood Categories (in feet) 
+ Major Flood Stage:  13.5  Moderate Flood Stage:  11.5  Flood Stage:  9.5  Action Stage:  8  Low Stage (in feet):  -9999  
+Historic Crests 
+(1) 15.36 ft on 03/15/1998 
+(2) 15.05 ft on 07/13/1994 
+(3) 13.83 ft on 01/01/2016 
+(4) 13.82 ft on 03/24/1990 
+(5) 13.69 ft on <TIMEX3 tid="t1" type="DATE" value="2005-04-05">04/05/2005</TIMEX3> 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+Recent Crests 
+(1) 8.81 <EVENT eid="e4" class="OCCURRENCE">ft</EVENT> on 01/10/2017 
+(2) 10.62 <EVENT eid="e5" class="OCCURRENCE">ft</EVENT> on 04/08/2016 
+(3) 9.53 <EVENT eid="e6" class="OCCURRENCE">ft</EVENT> on 02/10/2016 
+(4) 13.83 <EVENT eid="e7" class="OCCURRENCE">ft</EVENT> on 01/01/2016 
+(5) 10.81 <EVENT eid="e8" class="OCCURRENCE">ft</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2014-04-24">04/24/2014</TIMEX3> 
+Show More Recent Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Currently</TIMEX3> none available. 
+   
+Show FEMA's National Flood Hazard Layers 
+   
+FEMA's National Flood Hazard Layers not <EVENT eid="e9" class="OCCURRENCE">showing</EVENT>? 
+  
+Note: Your zoom level may have <EVENT eid="e10" class="OCCURRENCE">changed</EVENT>. ESRI's zoom levels must be between 14 and 16 to <EVENT eid="e11" class="OCCURRENCE">show</EVENT> National Flood Hazard layers. 
+      
+<EVENT eid="e12" class="OCCURRENCE">Zoom</EVENT> Level:15 
+   
+Legend 
+   
+FEMA Layer 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location <EVENT eid="e13" class="OCCURRENCE">shown</EVENT> in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  14  In Howard Creek in Gulf County, significant flooding will <EVENT eid="e14" class="I_ACTION">result</EVENT> in portions of the community being inaccessible. Water will be up to 3 feet deep in some areas, <EVENT eid="e15" class="OCCURRENCE">flooding</EVENT> even some homes that are elevated.  13.5  At Howard Creek in Gulf County water will be up to 2 feet deep throughout portions of the community. Homes not elevated will be prone to <EVENT eid="e16" class="OCCURRENCE">flooding</EVENT>.  12.5  In Howard Creek in Gulf County, numerous roads in the area are subject to <EVENT eid="e17" class="OCCURRENCE">closure</EVENT>. Water will <EVENT eid="e18" class="ASPECTUAL">begin</EVENT> to <EVENT eid="e19" class="OCCURRENCE">surround</EVENT> structures, with up to 1 foot of standing water in a few areas.  11.5  At Howard Creek in Gulf County, water <EVENT eid="e20" class="I_STATE">begins</EVENT> to <EVENT eid="e21" class="OCCURRENCE">cover</EVENT> roads and <EVENT eid="e22" class="OCCURRENCE">restrict</EVENT> access throughout the area.  11  Flooding begins on the east bank of the river at Fort Gadsden in Franklin County.  9.5  Water begins to flood low lying areas around Howard Creek in Gulf County.  8  The boat ramp at Howard Creek Landing in Gulf County will be prone to <EVENT eid="e23" class="OCCURRENCE">flooding</EVENT>.  Photos 
+(1) Apalachicola River near Sumatra - KML 
+  
+Latitude: 29.949167 N, Longitude: 85.015556 W, Horizontal Datum: NAD83/WGS84 
+ River Stage 
+Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  9.5 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
+(gauge height = 0)  Elevation 
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  NULL  NULL    
+Current/Historical Observations: 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please <EVENT eid="e24" class="OCCURRENCE">click</EVENT> here .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie21" relatedToEventInstance="ie22" relType="SIMULTANEOUS" />
+</TimeML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201695351</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Maritime Bulletin Daily January 28 - 29</TITLE>
+
+
+<TEXT>
+Ferry SICILIA breached at Ibiza port  LPG tanker <EVENT eid="e1" class="OCCURRENCE">collided</EVENT> with oil tanker off Chennai photo UPDATE 
+
+Receive FleetMon news <EVENT eid="e2" class="OCCURRENCE">digest</EVENT> by e-mail <TIMEX3 tid="t1" type="SET" value="P1D">every day</TIMEX3>!
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

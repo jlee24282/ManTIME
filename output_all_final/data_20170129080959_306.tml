@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201896198</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>These Girl Scout Cookie-Flavored Pancakes Are Actually Good for You</TITLE>
+
+
+<TEXT>
+This article originally <EVENT eid="e1" class="OCCURRENCE">appeared</EVENT> on Health[1] If Tagalongsthose peanut butter-and-chocolate pockets of yumminessare your jam <EVENT eid="e2" class="OCCURRENCE">come</EVENT> Girl Scout Cookie season, but you just can't <EVENT eid="e3" class="OCCURRENCE">let</EVENT> yourself <EVENT eid="e4" class="OCCURRENCE">eat</EVENT> cookies for breakfast (even in cereal form[2]), you are in luck: We've <EVENT eid="e5" class="OCCURRENCE">created</EVENT> a pancake recipe[3] that incorporates that classic PB-chocolate combo, looks super appealing (chocolate chip pancakes!), is really easy to make (whip it up in a blender) and best of all, won't <EVENT eid="e6" class="OCCURRENCE">leave</EVENT> you crashed-out from suga...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

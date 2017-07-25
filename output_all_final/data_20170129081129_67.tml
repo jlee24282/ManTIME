@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204685951</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>The new space race: Private moon launches by Dec. 31</TITLE>
+
+
+<TEXT>
+A new race to space is on <TIMEX3 tid="t1" type="DATE" value="2017">this year</TIMEX3>  a private-sector one, among the five finalists in the Google Lunar XPRIZE competition. 
+ 
+To <EVENT eid="e1" class="OCCURRENCE">stay</EVENT> in the race, each team must <EVENT eid="e2" class="OCCURRENCE">initiate</EVENT> its moon launch by <TIMEX3 tid="t2" type="DATE" value="2017-12-31">Dec. 31, 2017</TIMEX3>. To <EVENT eid="e3" class="OCCURRENCE">win</EVENT>, its craft must <EVENT eid="e4" class="OCCURRENCE">land</EVENT> on luna  and a probe must <EVENT eid="e5" class="OCCURRENCE">move</EVENT> at least 500 meters (1,640 feet) and <EVENT eid="e6" class="OCCURRENCE">send</EVENT> hi-resolution images of its <EVENT eid="e7" class="OCCURRENCE">exploration</EVENT> back to earth. 
+ 
+The winner gets the $20 million grand prize, while runners-up <EVENT eid="e8" class="OCCURRENCE">split</EVENT> a $1 million consolation award. 
+ 
+Its already <EVENT eid="e9" class="OCCURRENCE">taking</EVENT> a bit longer than hoped  rules that <EVENT eid="e10" class="OCCURRENCE">required</EVENT> a complete finish by the <TIMEX3 tid="t3" type="DATE" value="2017-12-31">Dec. 31</TIMEX3> deadline just got <EVENT eid="e11" class="OCCURRENCE">loosened</EVENT> to <EVENT eid="e12" class="OCCURRENCE">give</EVENT> the competitors a bit more time. 
+ 
+But the goal is still remarkable: landing a high-tech mobile probe on the moon, 238,900 miles away. The Chinese government, with all its vast resources and desire to <EVENT eid="e13" class="OCCURRENCE">win</EVENT> global respect, <EVENT eid="e14" class="OCCURRENCE">pulled</EVENT> it off in <TIMEX3 tid="t4" type="DATE" value="2013">2013</TIMEX3>  but the last (non-crash) <EVENT eid="e15" class="OCCURRENCE">landing</EVENT> before that was in <TIMEX3 tid="t5" type="DATE" value="1976">1976</TIMEX3>. 
+ 
+The five teams include one international one, Synergy Moon, with members from 15-plus countries, as well as the Israeli SpaceIL, the California-based Moon Express, Indias Team Indus and Japans Hakuto. 
+ 
+Each has its rocket booked (Team Indus and Hakuto are actually <EVENT eid="e16" class="ASPECTUAL">sharing</EVENT> their flight) and the contract <EVENT eid="e17" class="OCCURRENCE">verified</EVENT> by X Prize, which sponsors a variety of technical contests <EVENT eid="e18" class="I_STATE">aimed</EVENT> at <EVENT eid="e19" class="OCCURRENCE">building</EVENT> a better future. 
+ 
+<EVENT eid="e20" class="OCCURRENCE">Established</EVENT> in <TIMEX3 tid="t6" type="DATE" value="2007">2007</TIMEX3>, the competition is <EVENT eid="e21" class="I_STATE">meant</EVENT> to <EVENT eid="e22" class="OCCURRENCE">push</EVENT> a lowering of the cost of spaceflight  while also inspiring the worlds scientists and engineers. 
+ 
+Once this <EVENT eid="e23" class="OCCURRENCE">competition</EVENT> is won, itll be time for a race to <EVENT eid="e24" class="OCCURRENCE">get</EVENT> live astronauts back to luna: Its been far too long (45 years!) since the late Gene Cernan <EVENT eid="e25" class="OCCURRENCE">walked</EVENT> on the moon. 
+ 
+Government programs alone will never <EVENT eid="e26" class="OCCURRENCE">establish</EVENT> a real human presence off-planet: That will <EVENT eid="e27" class="OCCURRENCE">require</EVENT> a private sector that can <EVENT eid="e28" class="I_ACTION">make</EVENT> it <EVENT eid="e29" class="OCCURRENCE">pay</EVENT>. The Google Lunar XPRIZE promises a giant step toward that brilliant <TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">future</TIMEX3>. 
+  Share this
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie29" relatedToEventInstance="ie28" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t4" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie14" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie20" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL9" timeID="t6" relatedToEventInstance="ie20" relType="INCLUDES" />
+</TimeML>

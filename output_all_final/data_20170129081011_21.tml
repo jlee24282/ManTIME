@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202096868</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Paralympian to launch Univeristy of Chester Diversity Festival</TITLE>
+
+
+<TEXT>
+Paralympic wheelchair racer Jade Jones will <EVENT eid="e1" class="OCCURRENCE">make</EVENT> the keynote speech at the University of Chester Diversity Festival <TIMEX3 tid="t1" type="DATE" value="2017">this year</TIMEX3>.
+
+Connect and Thrive is the theme of the event, from <TIMEX3 tid="t2" type="DATE" value="2017-01-23">Monday, February 27</TIMEX3> to <TIMEX3 tid="t3" type="DATE" value="2017-01-27">Friday, March 10</TIMEX3>, which <EVENT eid="e2" class="OCCURRENCE">offers</EVENT> an opportunity to <EVENT eid="e3" class="OCCURRENCE">learn</EVENT> and <EVENT eid="e4" class="OCCURRENCE">experience</EVENT> different cultures and perspectives.
+
+<TIMEX3 tid="t4" type="DATE" value="2017-01-29TNI">The fortnight</TIMEX3> is <EVENT eid="e5" class="OCCURRENCE">filled</EVENT> with seminars, <EVENT eid="e6" class="OCCURRENCE">lectures</EVENT>, workshops and conferences on a range of topics, with something for everyone.
+
+Jade, who <EVENT eid="e7" class="OCCURRENCE">competed</EVENT> at the Rio Paralympic Games in the 400m, 800m and 1,500m T54 class, was <EVENT eid="e8" class="OCCURRENCE">born</EVENT> without a right femur, which <EVENT eid="e9" class="I_ACTION">meant</EVENT> that she would have to <EVENT eid="e10" class="OCCURRENCE">use</EVENT>...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t4" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

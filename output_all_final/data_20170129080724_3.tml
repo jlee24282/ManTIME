@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195574113</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>1-29-17 Police blotter</TITLE>
+
+
+<TEXT>
+Area police reports <EVENT eid="e1" class="OCCURRENCE">indicated</EVENT>: 
+ 
+Killeen 
+  
+A theft was <EVENT eid="e2" class="OCCURRENCE">reported</EVENT> at <TIMEX3 tid="t1" type="TIME" value="2017-01-29T15:51">3:51 p.m. Friday</TIMEX3> near the <TIMEX3 tid="t2" type="DATE" value="X">3400</TIMEX3> block of Stan Schlueter Loop. 
+ 
+An aggravated <EVENT eid="e3" class="OCCURRENCE">assault</EVENT> was <EVENT eid="e4" class="OCCURRENCE">reported</EVENT> at <TIMEX3 tid="t3" type="TIME" value="2017-01-29T12:00">noon Friday</TIMEX3> near the <TIMEX3 tid="t4" type="DATE" value="1200">1200</TIMEX3> block of Bonnie Drive. 
+ 
+A motor vehicle theft was <EVENT eid="e5" class="OCCURRENCE">reported</EVENT> at 1:30 <TIMEX3 tid="t5" type="DATE" value="2017-01-27">a.m. Friday</TIMEX3> near the <TIMEX3 tid="t6" type="DATE" value="1200">1200</TIMEX3> block of College Street. 
+ 
+A residential burglary was <EVENT eid="e6" class="OCCURRENCE">reported</EVENT> at <TIMEX3 tid="t7" type="TIME" value="2017-01-29T12:01">12:01 a.m. Friday</TIMEX3> near the 200 block of West Hoover Avenue. 
+ 
+An aggravated robbery was <EVENT eid="e7" class="OCCURRENCE">reported</EVENT> at <TIMEX3 tid="t8" type="TIME" value="2017-01-29T19:15">7:15 p.m. Friday</TIMEX3> near the <TIMEX3 tid="t9" type="DATE" value="1800">1800</TIMEX3> block of W.S. Young Drive. 
+ 
+Copperas Cove 
+ 
+A theft was <EVENT eid="e8" class="OCCURRENCE">reported</EVENT> at <TIMEX3 tid="t10" type="TIME" value="2017-01-29T11:58">11:58 a.m. Friday</TIMEX3> near the 300 block of Lincoln Avenue. 
+ 
+A burglary was <EVENT eid="e9" class="OCCURRENCE">reported</EVENT> at <TIMEX3 tid="t11" type="TIME" value="2017-01-29T12:59">12:59 p.m. Friday</TIMEX3> near the 400 block of Cove Terrace. 
+ 
+A vehicle burglary was <EVENT eid="e10" class="OCCURRENCE">reported</EVENT> at <TIMEX3 tid="t12" type="TIME" value="2017-01-29T21:28">9:28 p.m. Friday</TIMEX3> near the 100 block of Third Street. 
+ 
+Compiled by Quinton Lilley
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

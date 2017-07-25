@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202771880</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>New Incubus Album Is Coming Soon</TITLE>
+
+
+<TEXT>
+New Incubus Album Is 'Coming Soon' (Week in Review)  
+ 
+
+. 
+  
+New Incubus Album Is 'Coming Soon' was a Top 3 story on <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Thursday</TIMEX3>: (Radio.com) It's been five years since Incubus <EVENT eid="e1" class="OCCURRENCE">released</EVENT> their last album, If Not Now, When? It's the longest span the band has <EVENT eid="e2" class="OCCURRENCE">gone</EVENT> between full-length albums. But with new tweets posted on <TIMEX3 tid="t2" type="DATE" value="X">Wed</TIMEX3> (<TIMEX3 tid="t3" type="DATE" value="2017-01-25">Jan 25</TIMEX3>), new tunes <EVENT eid="e3" class="I_STATE">appear</EVENT> to <EVENT eid="e4" class="STATE">be</EVENT> on the horizon. 
+ 
+It's no secret that Incubus has been in the studio since <TIMEX3 tid="t4" type="DATE" value="2016">late last year</TIMEX3> <EVENT eid="e5" class="OCCURRENCE">cooking</EVENT> up new jams, but what the Malibu band wouldn't <EVENT eid="e6" class="REPORTING">say</EVENT> is when this new album would <EVENT eid="e7" class="PERCEPTION">see</EVENT> the light of <TIMEX3 tid="t5" type="DURATION" value="PXD">day</TIMEX3>. 
+ 
+Well, <EVENT eid="e8" class="REPORTING">according</EVENT> to Mike Einziger, they're close, very close. The guitarist <EVENT eid="e9" class="OCCURRENCE">posted</EVENT> two messages <TIMEX3 tid="t6" type="DATE" value="2017-01-29">today</TIMEX3>, both <EVENT eid="e10" class="OCCURRENCE">indicating</EVENT> the album <EVENT eid="e11" class="OCCURRENCE">release</EVENT> is immanent. ""Are you guys ready!!?!?!????? #newINCUBUSalbum coming soooooooon. Mwah-hah-hah-hah," he posted. 
+ 
+And what's more, he <EVENT eid="e12" class="REPORTING">says</EVENT> "This new album is not mellow." Read more - here. 
+ Radio.com is an official news provider for antiMusic.com. 
+Copyright Radio.com/CBS Local - Excerpted here with permission.   
+advertisement
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t4" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToTime="t6" relType="IS_INCLUDED" />
+</TimeML>

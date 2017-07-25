@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204433330</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Every third person died in road accidents is a youth</TITLE>
+
+
+<TEXT>
+NEW DELHI: A speeding luxury car <EVENT eid="e1" class="OCCURRENCE">snuffing</EVENT> three young lives, including a woman techie and an auto-rickshaw driver, in Delhi's suburb on <TIMEX3 tid="t1" type="TIME" value="2017-01-27TNI">Friday night</TIMEX3> has once again <EVENT eid="e2" class="OCCURRENCE">pointed</EVENT> to how youth <EVENT eid="e3" class="ASPECTUAL">continue</EVENT> to be the most vulnerable road users and that speeding is the biggest killer. 
+The latest road accidents report of Union road transport ministry <EVENT eid="e4" class="OCCURRENCE">shows</EVENT> how every third person <EVENT eid="e5" class="OCCURRENCE">killed</EVENT> in road crashes is in the prime of his/ her youth. 
+
+In <TIMEX3 tid="t2" type="DATE" value="2015">2015</TIMEX3>, at least 48,420 people in the age group of <TIMEX3 tid="t3" type="DATE" value="X">15-24</TIMEX3> years were <EVENT eid="e6" class="OCCURRENCE">killed</EVENT> in road crashes. The number was bigger at 79,000 for people <EVENT eid="e7" class="OCCURRENCE">killed</EVENT> in road <EVENT eid="e8" class="OCCURRENCE">crashes</EVENT> in the age group of <TIMEX3 tid="t4" type="DATE" value="X">15</TIMEX3> to <TIMEX3 tid="t5" type="DURATION" value="P34Y">34 years</TIMEX3>. This was 54% of all road deaths that India <EVENT eid="e9" class="OCCURRENCE">recorded</EVENT> in <TIMEX3 tid="t6" type="DATE" value="2015">2015</TIMEX3>. The data also <EVENT eid="e10" class="OCCURRENCE">show</EVENT> how nearly 42% of people <EVENT eid="e11" class="OCCURRENCE">dying</EVENT> on roads was due to <EVENT eid="e12" class="OCCURRENCE">speeding</EVENT> beyond the permitted <EVENT eid="e13" class="OCCURRENCE">limit</EVENT>. 
+
+It's no different across the globe. The latest global status report on road safety by World Health Organisation <EVENT eid="e14" class="REPORTING">says</EVENT> road crashes are the biggest killer of people in the age group of 15-29 years and the numbers are much more than lives lost in suicides, HIV/ AIDS, homicide or lower respiratory infection. 
+
+While <EVENT eid="e15" class="OCCURRENCE">increasing</EVENT> penalty for fatal offences such as speeding, dangerous driving, drunk driving and <EVENT eid="e16" class="OCCURRENCE">using</EVENT> mobile phone while behind the wheels are key to tame the unruly and risky drivers, experts <EVENT eid="e17" class="REPORTING">said</EVENT> what India lacks is the mechanism to <EVENT eid="e18" class="OCCURRENCE">ensure</EVENT> every traffic offence, at least in urban areas, is <EVENT eid="e19" class="OCCURRENCE">caught</EVENT>. 
+
+Until there is fear of getting caught everytime you <EVENT eid="e20" class="OCCURRENCE">violate</EVENT> traffic norms, most of the people won't <EVENT eid="e21" class="OCCURRENCE">mend</EVENT> their ways. States and cities <EVENT eid="e22" class="I_STATE">need</EVENT> to <EVENT eid="e23" class="OCCURRENCE">take</EVENT> quick steps to <EVENT eid="e24" class="OCCURRENCE">monitor</EVENT> every violation, which the Centre is <EVENT eid="e25" class="OCCURRENCE">pursuing</EVENT> with them since this is a state subject," <EVENT eid="e26" class="REPORTING">said</EVENT> K K Kapila of International Federation.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t4" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="AFTER" />
+<TLINK lid="TL2" timeID="t5" relatedToEventInstance="ie8" relType="INCLUDES" />
+</TimeML>

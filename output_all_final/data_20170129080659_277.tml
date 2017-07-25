@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194810127</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170119" temporalFunction="false" functionInDocument="CREATION_TIME">January 19, 2017</TIMEX3></DCT>
+
+<TITLE>Mario Kart 8 Deluxe Hands-on Preview (Nintendo Switch)</TITLE>
+
+
+<TEXT>
+TABLETOP MODE CHANGES EVERYTHING IN MARIO KART 8 DELUXE.  
+
+ 
+I <EVENT eid="e1" class="REPORTING">guess</EVENT>, for <TIMEX3 tid="t1" type="DATE" value="X">the</TIMEX3> most part, Mario Kart 8 Deluxe is the same game that <EVENT eid="e2" class="OCCURRENCE">released</EVENT> on the Wii U . The biggest takeaway from playing this as the Switch event was the fact we were <EVENT eid="e3" class="I_STATE">able</EVENT> to <EVENT eid="e4" class="OCCURRENCE">play</EVENT> split-screen on the Nintendo Switch in tabletop mode and boy does this change everything. The fact that you can literally <EVENT eid="e5" class="OCCURRENCE">take</EVENT> this game with you on your Switch tablet and play two-player split-screen with a single Joy-con each is a game changer. I never <EVENT eid="e6" class="OCCURRENCE">took</EVENT> my Wii U anywhere and whilst I ways <EVENT eid="e7" class="OCCURRENCE">took</EVENT> my 3DS with me, it was only really a single-player machine and theres where the Nintendo Switch will hopefully <EVENT eid="e8" class="OCCURRENCE">bring</EVENT> back co-op gameplay. 
+ 
+
+ 
+I <EVENT eid="e9" class="I_ACTION">dont hate</EVENT> the inclusion of being able to <EVENT eid="e10" class="OCCURRENCE">carry</EVENT> two items but I dont think it was entirely necessary either. The courses arent really long enough to the point that you need to be <EVENT eid="e11" class="OCCURRENCE">holding</EVENT> two items at any given time in my opinion. 
+ 
+I had the chance to <EVENT eid="e12" class="OCCURRENCE">play</EVENT> the new battle mode. More specifically, the new balloon fight on the Splatoon course. It <EVENT eid="e13" class="OCCURRENCE">felt</EVENT> much more closer to the more traditional battle mode that Ive always <EVENT eid="e14" class="OCCURRENCE">loved</EVENT> about Mario Kart. Not quite what it was on the Nintendo 64, but its definitely a ton of fun, and its set to <EVENT eid="e15" class="OCCURRENCE">get</EVENT> a lot more play time with the aforementioned tabletop play. 
+ 
+ 
+Little needs <EVENT eid="e16" class="REPORTING">said</EVENT> regarding Mario Kart 8 Deluxe; its more or less the same Mario Kart Wii U owners are already familiar with, albeit with a few more bells and whistles. This, of course means it is still fantastic and made better with the inclusion of all the DLC, the <EVENT eid="e17" class="OCCURRENCE">return</EVENT> of Battle Mode and the ability to <EVENT eid="e18" class="OCCURRENCE">carry</EVENT> two items. 
+ 
+
+ 
+The versatility of the Switch really shines with Mario Kart. Playing on the big screen, in TV Mode, of course looks fantastic, but even <EVENT eid="e19" class="OCCURRENCE">sat</EVENT> at a table, you and your friend <EVENT eid="e20" class="OCCURRENCE">looking</EVENT> at the Switchs screen, each armed with a Joy-Con each, the game still looks and feels incredible. The social nature of the Switch really <EVENT eid="e21" class="OCCURRENCE">shines</EVENT> here, and Mario Kart 8 Deluxe will likely be an essential game to <EVENT eid="e22" class="STATE">have</EVENT> in any Switch owners collection. 
+  
+Mario Kart 8 Deluxe will <EVENT eid="e23" class="OCCURRENCE">release</EVENT> exclusively on Nintendo Switch on <TIMEX3 tid="t2" type="DATE" value="2017-04">April 28th</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="IDENTITY" />
+</TimeML>

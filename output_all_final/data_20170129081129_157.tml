@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204775482</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Day of Atonement Quick Study with Rod and Janice Hembree</TITLE>
+
+
+<TEXT>
+Full of imagery, rich symbolism and powerful theology the New Testament book of Revelation has always <EVENT eid="e1" class="OCCURRENCE">provided</EVENT> its reader with much to <EVENT eid="e2" class="OCCURRENCE">think</EVENT> about. For over <TIMEX3 tid="t1" type="DURATION" value="P1Y">a year</TIMEX3>, Doctor of Theology and Pastor Rod Hembree, has been <EVENT eid="e3" class="OCCURRENCE">studying</EVENT> and <EVENT eid="e4" class="OCCURRENCE">teaching</EVENT> through each chapter of Revelation. <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Now</TIMEX3> we are so <EVENT eid="e5" class="I_STATE">pleased</EVENT> to be <EVENT eid="e6" class="I_STATE">able</EVENT> to <EVENT eid="e7" class="OCCURRENCE">offer</EVENT> this completed Teaching Commentary set of DVDs.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="ADJECTIVE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToTime="t2" relType="DURING" />
+</TimeML>

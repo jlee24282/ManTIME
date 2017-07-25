@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193930047</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>China-Spring Festival/Inner Mongolia</TITLE>
+
+
+<TEXT>
+Herdsmen in north China's Inner Mongolia Autonomous Region <EVENT eid="e1" class="OCCURRENCE">held</EVENT> horse and camel racing on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> in <EVENT eid="e2" class="OCCURRENCE">celebration</EVENT> of the Chinese <TIMEX3 tid="t2" type="DURATION" value="PXY">New Year</TIMEX3>. 
+
+More than 100 horse-riders <EVENT eid="e3" class="OCCURRENCE">raced</EVENT> against each other on a <EVENT eid="e4" class="OCCURRENCE">snowfield</EVENT> in the Hulunbeir City of Inner Mongolia despite the low temperature of minus 30 degrees Celsius. The race, <EVENT eid="e5" class="OCCURRENCE">organized</EVENT> by 28 volunteer herdsmen's families, <EVENT eid="e6" class="OCCURRENCE">consisted</EVENT> of sprints of 2,000 meters and 4,000 meters, and a marathon of 7,000 meters. 
+
+A 10-kilometer camel racing was <EVENT eid="e7" class="OCCURRENCE">held</EVENT> in Duolun County, Xilin Gol League, in the region on <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <EVENT eid="e8" class="OCCURRENCE">attracting</EVENT> nearly 100 participants and many more spectators. The <EVENT eid="e9" class="OCCURRENCE">champion</EVENT> was <EVENT eid="e10" class="OCCURRENCE">awarded</EVENT> 20,000 yuan. 
+
+Horse and camel racing is a traditional sport and entertainment event for the Mongol people living on the grassland.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" timeID="t1" relatedToTime="t2" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

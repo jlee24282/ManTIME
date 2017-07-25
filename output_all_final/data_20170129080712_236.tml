@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195294591</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Deepika Padukone Does Not Drink Alcohol At All! Other Stars Who Do Not Booze</TITLE>
+
+
+<TEXT>
+Bollywood stars are all about <EVENT eid="e1" class="OCCURRENCE">working</EVENT> really hard and then having some fun. While for most of then, fun means partying, chilling and <EVENT eid="e2" class="OCCURRENCE">boozing</EVENT> with friends, for few of our Btown stars, fun is devoid of any alcohol. 
+ 
+The glamour and film industry is <EVENT eid="e3" class="OCCURRENCE">perceived</EVENT> one where its stars are thought to be indulgent and <EVENT eid="e4" class="OCCURRENCE">living</EVENT> in excesses. While this could be true, there are a handful of Bollywood stars who self-admittedly live a "clean" life and stay away from alcohol and other vices. 
+ 
+The first name that comes in our mind, when we <EVENT eid="e5" class="OCCURRENCE">talk</EVENT> of this, is Deepika Padukone. The actress, who is currently <EVENT eid="e6" class="STATE">basking</EVENT> in the success of her first Hollywood venture, keeps alcohol at bay, and <EVENT eid="e7" class="OCCURRENCE">believes</EVENT> in unwinding, without <EVENT eid="e8" class="OCCURRENCE">getting</EVENT> drunk. The fitness freak rather prefers <EVENT eid="e9" class="OCCURRENCE">travelling</EVENT> or <EVENT eid="e10" class="OCCURRENCE">spending</EVENT> time with family, when on a break. 
+ 
+Check out others stars who dont booze in Bollywood.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+</TimeML>

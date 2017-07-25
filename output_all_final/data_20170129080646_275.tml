@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194435979</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Calendar of Bucks meetings this week - Sunday, January 29</TITLE>
+
+
+<TEXT>
+TUESDAY  GOVERNMENT  
+Bucks County Tax Collection Committee: <TIMEX3 tid="t1" type="DATE" value="X">4</TIMEX3> p.m., Warwick Township Bldg., 1733 Township Greene, Jamison. 215-822-1391. http://buckstcc.org/meeting-dates/ 
+ WEDNESDAY  GOVERNMENT  
+Bucks County Planning Commission: <TIMEX3 tid="t2" type="TIME" value="2017-01-29T14:00">2 p.m., 1260</TIMEX3> Almshouse Road, Doylestown Township. www.buckscounty.org/government/CommunityServices/PlanningCommission/Meetings 
+ 
+Lower Makefield supervisors: <TIMEX3 tid="t3" type="TIME" value="2017-01-29T07:30">7:30</TIMEX3> p.m., township building, 1100 Edgewood Road, 267-274-1100. www.lmt.org 
+ THURSDAY  GOVERNMENT  
+Warminster supervisors: <TIMEX3 tid="t4" type="DATE" value="X">7</TIMEX3> p.m., town hall, 401 Gibson Ave., 215-443-5414. www.warminstertownship.org 
+ EDUCATION  
+Bristol Borough school board: <TIMEX3 tid="t5" type="DATE" value="X">7</TIMEX3> p.m., large group instruction room of Snyder-Girotti Elementary School, 450 Beaver St., 215-781-1000. www.bbsd.org/meetings.asp 
+ 
+Pennsbury school board:  <TIMEX3 tid="t6" type="DATE" value="X">8</TIMEX3> p.m., multi-purpose room of Fallsington Elementary School, 134 Yardley Ave., Falls. 215-428-4100. http://www.pennsburysd.org/SchoolBoardMeetingSchedule.aspx 
+ Enjoying our <EVENT eid="e1" class="OCCURRENCE">content</EVENT>? Become a Bucks County Courier Times subscriber to <EVENT eid="e2" class="OCCURRENCE">support</EVENT> stories like these. Get full access to our signature journalism for just 33 cents a day.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

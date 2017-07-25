@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202885223</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Best-sellers</TITLE>
+
+
+<TEXT>
+Rankings for hard-cover books sold in Southern California, as <EVENT eid="e1" class="REPORTING">reported</EVENT> by selected book stores: 
+
+Fiction 
+
+1."The Underground Railroad," by Colson Whitehead (Doubleday: $26.95) A slave <EVENT eid="e2" class="OCCURRENCE">escapes</EVENT> via the Underground Railroad, <EVENT eid="e3" class="OCCURRENCE">imagined</EVENT> as a train running under America. 
+
+2."A Gentleman in Moscow," by Amor Towles (Viking: $27) In <TIMEX3 tid="t1" type="DATE" value="1922">1922</TIMEX3>, a Russian count is <EVENT eid="e4" class="I_STATE">sentenced</EVENT> to <EVENT eid="e5" class="I_ACTION">house</EVENT> arrest in a grand hotel for the rest of his life. 
+
+3."Moonglow," by Michael Chabon (Harper: $28.99) A multi-generational saga of a family's secrets, lies and <EVENT eid="e6" class="OCCURRENCE">loves</EVENT>. 
+
+4."Difficult Women," by Roxane Gay (Grove Press: $25) A collection of short stories featuring passionate women living complex lives. 
+
+5."Harry Potter and the Cursed Child," by J.K. Rowling, Jack Thorne   John Tiffany (Pottermore: $29.99) This script from the West End play <EVENT eid="e7" class="OCCURRENCE">finds</EVENT> adult Harry Potter <EVENT eid="e8" class="OCCURRENCE">working</EVENT> at the Ministry of Magic. 
+
+6."Commonwealth," by Ann Patchett (Harper: $27.99) A kiss in California leads to divorce, remarriage and a family secret that unfolds over a generation. 
+
+7."All the Light We Cannot See," by Anthony Doerr (Scribner: $27) A blind French girl and a German teen struggle in occupied France during World War II. 
+
+8."The Wrong Side of Goodbye," by Michael Connelly (Little, Brown: $29) A dying magnate hires Harry Bosch to <EVENT eid="e9" class="OCCURRENCE">track</EVENT> down an heir to his fortune. 
+
+9."Diary of a Wimpy Kid: Double Down," by Jeff Kinney (Abrams: $13.95) Greg and Rowley <EVENT eid="e10" class="I_ACTION">try</EVENT> to <EVENT eid="e11" class="OCCURRENCE">make</EVENT> a scary movie after <EVENT eid="e12" class="OCCURRENCE">finding</EVENT> an old video camera. 
+
+10."Two by Two," by Nicholas Sparks (Grand Central: $27) After his marriage and business fall apart, a single father takes a chance on new love.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie10" relatedToEventInstance="ie12" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+</TimeML>

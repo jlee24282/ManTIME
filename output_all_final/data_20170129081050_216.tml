@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203426030</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Intymen Announces Epic Sale</TITLE>
+
+
+<TEXT>
+It is going to be a busy <TIMEX3 tid="t1" type="DURATION" value="PXW">weekend</TIMEX3> for all the Intymen fans as the mens underwear brand <EVENT eid="e1" class="OCCURRENCE">announces</EVENT> a lavish Sitewide Sale. 
+ 
+Online PR News  29-January-2017  Florida  The sporty label would <EVENT eid="e2" class="OCCURRENCE">provides</EVENT> a discount of Up to 30% on all the items available at the brand store. Intymen gives a kick start to <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">the weekend</TIMEX3> from <TIMEX3 tid="t3" type="DATE" value="2017-01">27th January</TIMEX3> to 30th <TIMEX3 tid="t4" type="DATE" value="2017-01">January</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2017">2017</TIMEX3>. 
+ 
+The shoppers would have a tough time <EVENT eid="e3" class="OCCURRENCE">deciding</EVENT> the products because of the numerous options available at the brand store. <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">The weekend</TIMEX3> sale would <EVENT eid="e4" class="OCCURRENCE">allow</EVENT> the customers to <EVENT eid="e5" class="OCCURRENCE">shop</EVENT> their favorite pairs of sporty or athletic underwear styles that include jockstrap, trunks, boxers, briefs, bikini briefs and thongs for men. On the overall, the collections <EVENT eid="e6" class="OCCURRENCE">included</EVENT> for the wearers are mens underwear, swimwear, shapewear, tank tops, lounge pants and more. The plethora of categories and their collections <EVENT eid="e7" class="OCCURRENCE">go</EVENT> all the way from conventional styles to sexy and supportive features that <EVENT eid="e8" class="OCCURRENCE">appeal</EVENT> a variety of men. 
+ 
+One of the best reasons for which men should <EVENT eid="e9" class="OCCURRENCE">shop</EVENT> from the store on <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">the weekend</TIMEX3> is because the discount <EVENT eid="e10" class="OCCURRENCE">applies</EVENT> to the new arrivals as well. From sporty to sexy and visually ecstatic designs, the brand fortes stunning products that are functionally sound as well. 
+ 
+The wearers would <EVENT eid="e11" class="OCCURRENCE">love</EVENT> to <EVENT eid="e12" class="OCCURRENCE">wrap</EVENT> their manhood in a variety of colors, cuts, fabrics and coverage. Some of the color options available are black, white, red, turquoise, lime, royal blue, charcoal, coral, pink, green and many more. So, theres a lot to <EVENT eid="e13" class="OCCURRENCE">choose</EVENT> from. 
+ 
+Get <EVENT eid="e14" class="OCCURRENCE">set</EVENT> for <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">the weekend</TIMEX3> sale by Intymen before it is an offer long <EVENT eid="e15" class="OCCURRENCE">go</EVENT> 
+ 
+About Intymen 
+ 
+Intymen is a popular brand that features a creative collection of designs from classic to sexy. The brand <EVENT eid="e16" class="OCCURRENCE">offers</EVENT> the collection of traditional and erotic pieces that combine basic fits with modern intimate design elements such as C-Rings, pouch enhancement hammocks and other fun ways of enhancement. Intymen combines the classic styles with modern prints and patterns to deliver trendy mens underwear.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t5" relatedToTime="t4" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t4" relatedToTime="t5" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t7" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+</TimeML>

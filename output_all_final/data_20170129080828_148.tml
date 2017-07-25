@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197930784</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Polk County kids calendar</TITLE>
+
+
+<TEXT>
+Monday<TIMEX3 tid="t1" type="DATE" value="2017-01">, Jan.</TIMEX3> 30 
+ 
+LAKELAND CHESS CLUB 
+ 
+Pick-up games; equipment provided; all ages and levels. 
+ 
+When: 6:30 to 9:30 p.m. Mondays 
+ 
+Cost: $1 per person 
+ 
+Location: Kelly Recreation Complex, second floor, 404 Imperial Blvd. 
+ 
+Contact: Steve Morgan, 513-2532, clms_chess_coach@yahoo.com 
+ 
+<TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2017-02-04">Feb. 4</TIMEX3> 
+ 
+AFRICAN AMERICAN HERITAGE CELEBRATION 
+ 
+Includes art, music, dance, games and more. 
+ 
+When: <TIMEX3 tid="t4" type="DATE" value="X">10</TIMEX3> a.m. to <TIMEX3 tid="t5" type="TIME" value="2017-01-29T13:00">1 p.m. Saturday</TIMEX3> 
+ 
+Cost: $9, members and children younger than 2 are free 
+ 
+Location: Explorations V Children's Museum, 109 N. Kentucky Ave., Lakeland 
+ 
+Contact: 863-687-3869, www.explorationsv.com 
+ 
+NATURE PLAY IN THE CHILDREN'S GARDEN 
+ 
+Features informal guided play-based stations staffed by trained Nature Play Guides who will <EVENT eid="e1" class="I_ACTION">help deepen</EVENT> the play experience. Stations may <EVENT eid="e2" class="OCCURRENCE">feature</EVENT> building, sand or water play, dress up, and more. Each date begins with storytime. Parents must accompany children. 
+ 
+When: 11 <TIMEX3 tid="t6" type="DATE" value="X">a.m. first</TIMEX3> Saturdays through May 
+ 
+Cost: Free with admission 
+ 
+Location: Bok Tower Gardens, Children's Garden, <TIMEX3 tid="t7" type="DATE" value="1151">1151</TIMEX3> Tower Blvd., Lake Wales 
+ 
+Contact: 863-676-1408, boktowergardens.org
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

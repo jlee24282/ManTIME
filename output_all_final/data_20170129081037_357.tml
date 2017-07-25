@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203132150</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Cause of woman's burnt nose is mystery</TITLE>
+
+
+<TEXT>
+AN AGNES Water woman <EVENT eid="e1" class="OCCURRENCE">suffered</EVENT> superficial burns to her nose and cheek during <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">the weekend</TIMEX3>. 
+
+Queensland Ambulance Service paramedics were <EVENT eid="e2" class="I_ACTION">called</EVENT> to the 27-year-old's home about 12.30pm on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+
+The cause of the injury is <EVENT eid="e3" class="STATE">unknown</EVENT> but the woman was not <EVENT eid="e4" class="OCCURRENCE">taken</EVENT> to hospital.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="AFTER" />
+</TimeML>

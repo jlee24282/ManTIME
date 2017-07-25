@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195436758</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Truly LEO Privacy Deserved my five star rating</TITLE>
+
+
+<TEXT>
+29 <TIMEX3 tid="t1" type="DATE" value="2017-01">January 2017</TIMEX3> 04:20 
+ Truly LEO Privacy Deserved my five star rating because I <EVENT eid="e1" class="OCCURRENCE">love</EVENT> the way they make cool features with attractive User Interface design. I have Leo privacy in my phone from <TIMEX3 tid="t2" type="DURATION" value="P1Y">last one year</TIMEX3>, its long friendship with LEO Privacy. App lock, <EVENT eid="e2" class="OCCURRENCE">hide</EVENT> image, hide videos, anti theft, harassment interception ARE the best in this app. And this is pretty cool features <EVENT eid="e3" class="OCCURRENCE">attract</EVENT> me a lot!.It's a vault.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200687484</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>5 Offensive Senior Bowl Players The Washington Redskins Should Target</TITLE>
+
+
+<TEXT>
+Should The Washington Redskins Consider Drafting A Quarterback?  by <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Jan 28, 2017</TIMEX3>; Mobile, AL, USA; North squad wide receiver Zay Jones of East Carolina (7) <EVENT eid="e1" class="OCCURRENCE">catches</EVENT> a a pass for a touchdown against South squad cornerback Arthur Maulet of Memphis (28) during <TIMEX3 tid="t2" type="DATE" value="2017-Q4">the fourth quarter</TIMEX3> of the <TIMEX3 tid="t3" type="DATE" value="2017">2017</TIMEX3> Senior Bowl at Ladd-Peebles Stadium. The South won 16-15. Mandatory Credit: Glenn Andrews-USA TODAY Sports 
+   The Washington Redskins <EVENT eid="e2" class="I_STATE">need</EVENT> to <EVENT eid="e3" class="OCCURRENCE">add</EVENT> some help in the <TIMEX3 tid="t4" type="DATE" value="2017">2017</TIMEX3> NFL Draft. Here is a look at five offensive players from the Senior Bowl that could <EVENT eid="e4" class="ASPECTUAL">end</EVENT> up on their team <EVENT eid="e5" class="OCCURRENCE">come</EVENT> draft <TIMEX3 tid="t5" type="DURATION" value="PXD">day</TIMEX3>.  
+The Senior Bowl is always a time where players are able to <EVENT eid="e6" class="OCCURRENCE">come</EVENT> out and <EVENT eid="e7" class="OCCURRENCE">shine</EVENT>. In what is essentially a college football All-Star game, graduating players from all over the country <EVENT eid="e8" class="OCCURRENCE">get</EVENT> together to <EVENT eid="e9" class="OCCURRENCE">play</EVENT> one big game. The best prospects play the best prospects in a game that is unparalleled by other professional sports leagues. 
+  
+Want your voice <EVENT eid="e10" class="OCCURRENCE">heard</EVENT>? Join the Riggo's Rag team! 
+  
+Every <TIMEX3 tid="t6" type="DURATION" value="PXY">year</TIMEX3>, there are standout players at the Senior Bowl. These guys often become risers who <EVENT eid="e11" class="OCCURRENCE">make</EVENT> a big impact in the NFL or <EVENT eid="e12" class="OCCURRENCE">turn</EVENT> into solid role players. There is never a shortage of talent in this game, and NFL teams watch closely as a result. 
+ 
+The Washington Redskins are most definitely one of the teams that was <EVENT eid="e13" class="OCCURRENCE">watching</EVENT> in <TIMEX3 tid="t7" type="DATE" value="PAST_REF">this past week</TIMEX3>. They have <EVENT eid="e14" class="OCCURRENCE">showed</EVENT> some interest in some of the prospects, and here is a look at five offensive difference makers that they could <EVENT eid="e15" class="OCCURRENCE">target</EVENT> in the <TIMEX3 tid="t8" type="DATE" value="2017">2017</TIMEX3> NFL Draft. 
+ Next:  5. OL Forrest Lamp
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MIGHT" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t2" relType="DURING" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL5" timeID="t5" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t4" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

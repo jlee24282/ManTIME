@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201599044</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bush, Freddie Bruce</TITLE>
+
+
+<TEXT>
+Mr. Freddie Bruce Bush, 65, of Eufaula, Alabama, <EVENT eid="e1" class="OCCURRENCE">died</EVENT> suddenly <TIMEX3 tid="t1" type="DATE" value="2017-01-24">Tuesday, January 24, 2017</TIMEX3>, at Medical Center Barbour. Funeral services will be <EVENT eid="e2" class="OCCURRENCE">held</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2017-01-27">January 27, 2017</TIMEX3>, at <TIMEX3 tid="t4" type="DATE" value="X">2</TIMEX3> P.M., at the First Baptist Church of Eufaula with Dr. Ken Bush <EVENT eid="e3" class="OCCURRENCE">officiating</EVENT>. Burial will <EVENT eid="e4" class="OCCURRENCE">follow</EVENT> in Fairview Cemetery Addition with Chapman Funeral Home <EVENT eid="e5" class="OCCURRENCE">directing</EVENT>. Visitation will be <EVENT eid="e6" class="OCCURRENCE">held</EVENT> from 12 <TIMEX3 tid="t5" type="TIME" value="2017-01-29T12:00">Noon</TIMEX3> until <TIMEX3 tid="t6" type="DATE" value="X">2</TIMEX3> P.M. prior to the service at the <EVENT eid="e7" class="OCCURRENCE">church</EVENT>. The family is grateful for donations for the benefit of First Baptist Church and its recent <EVENT eid="e8" class="OCCURRENCE">construction</EVENT> of its new Youth Ministry Building or to the Wallace Community College Gabe Bush Scholarship Fund. Born <TIMEX3 tid="t7" type="DATE" value="1951-10-23">October 23, 1951</TIMEX3> in Dothan, Alabama, Mr. Bush was the son of Freddie and Emma Ruth Vickers Bush of Eufaula, Alabama. Mr. Bush was a member of the First Baptist Church of Eufaula where he also <EVENT eid="e9" class="OCCURRENCE">served</EVENT> as a Deacon and as a <TIMEX3 tid="t8" type="DATE" value="2017-01-29">Sunday</TIMEX3> School Department Chair. He <EVENT eid="e10" class="OCCURRENCE">founded</EVENT> Bush Farms in <TIMEX3 tid="t9" type="DATE" value="1975">1975</TIMEX3>. He <EVENT eid="e11" class="STATE">was</EVENT> the Alabama Peanut Club winner in <TIMEX3 tid="t10" type="DATE" value="1981">1981</TIMEX3> and was <EVENT eid="e12" class="OCCURRENCE">selected</EVENT> Junior Farmer in Barbour County in <TIMEX3 tid="t11" type="DATE" value="1987">1987</TIMEX3>. He was a member of the Barbour County Cattlemens Association. He subsequently <EVENT eid="e13" class="OCCURRENCE">built</EVENT> that business into one of the most successfully <EVENT eid="e14" class="OCCURRENCE">managed</EVENT> and productive cattle operations in the Southeast, <EVENT eid="e15" class="OCCURRENCE">earning</EVENT> the Alabama Farm of Distinction in <TIMEX3 tid="t12" type="DATE" value="2003">2003</TIMEX3>. Mr. Bush was also active in the community, <EVENT eid="e16" class="OCCURRENCE">serving</EVENT> as a Board Member for the Barbour County Health Association and as a Barbour County ALFA board member. Survivors other than his parents <EVENT eid="e17" class="OCCURRENCE">include</EVENT> his wife of 41 <TIMEX3 tid="t13" type="DURATION" value="PXY">years</TIMEX3>: Billie Faye Bush of Eufaula, Alabama; his daughter: Tara Bush (Clay) Williams of Birmingham, Alabama; 2 grandsons: Miles and Walker Williams; 2 sisters: Freida (Ken) Stephenson of Eufaula, Alabama and Beverly (Tony) Smith of Arlington, Georgia. Active pallbearers will be Chance Armstrong, Jim Bonner, Ryan Conner, Jerry Gulledge, Craig Harris, Greg Howerton, Carl Jackson and Ball Trammell. Honorary pallbearers will be James Dixon, Tommy Gaither, Jantzen Lord, Paul Price, Mac Strickland, John Summerford, Frank Sutherland and Benny Whitehead.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="COULD" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="COULD" />
+
+<TLINK lid="TL8" eventInstanceID="ie2" relatedToTime="t3" relType="ENDED_BY" />
+<TLINK lid="TL14" timeID="t2" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL13" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t5" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t9" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t13" relatedToEventInstance="ie17" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie9" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie17" relatedToTime="t13" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToEventInstance="ie13" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie6" relatedToTime="t5" relType="ENDED_BY" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t12" relatedToEventInstance="ie15" relType="INCLUDES" />
+</TimeML>

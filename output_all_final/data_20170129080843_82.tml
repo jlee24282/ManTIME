@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198578862</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Last-gasp Bronze medal theft</TITLE>
+
+
+<TEXT>
+Rugby Sevens: Scotland <EVENT eid="e1" class="OCCURRENCE">steal</EVENT> the Bronze medal away from Canada in the <TIMEX3 tid="t1" type="DATE" value="X">final minute</TIMEX3> at the Wellington Sevens.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201209312</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Russia restores radar field securing all-round defense against missile attacks</TITLE>
+
+
+<TEXT>
+The Russian Aerospace Forces have <EVENT eid="e1" class="OCCURRENCE">restored</EVENT> the united radar field, which provides control and <EVENT eid="e2" class="STATE">warns</EVENT> of missile launches and attacks outside the state borders, media <EVENT eid="e3" class="REPORTING">reported</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Thursday</TIMEX3>, <EVENT eid="e4" class="REPORTING">citing</EVENT> Russian military. The radar field of the missile attack warning system allows <EVENT eid="e5" class="OCCURRENCE">controlling</EVENT> the missile launches within a radius of 6,000 kilometers (3,700 miles) around the Russian borders, the Russian Izvestia newspaper <EVENT eid="e6" class="REPORTING">said</EVENT>. The <EVENT eid="e7" class="OCCURRENCE">restoration</EVENT> of the united radar field around Russia was <EVENT eid="e8" class="OCCURRENCE">finished</EVENT> in late 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+</TimeML>

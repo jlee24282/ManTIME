@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695205095045</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Transfer News: Arsenal fight Man United for star, Chelsea deal close, top Liverpool target</TITLE>
+
+
+<TEXT>
+Arsenal are <EVENT eid="e1" class="OCCURRENCE">prepared</EVENT> to battle Manchester United for Atletico Madrid star Antoine Griezmann <TIMEX3 tid="t1" type="DATE" value="2017-SU">this summer</TIMEX3>.
+
+Thats <EVENT eid="e2" class="REPORTING">according</EVENT> to the Daily Mail, who <EVENT eid="e3" class="OCCURRENCE">say</EVENT> Arsene Wenger <EVENT eid="e4" class="I_STATE">wanted</EVENT> to <EVENT eid="e5" class="OCCURRENCE">sign</EVENT> the forward <TIMEX3 tid="t2" type="DATE" value="2016">last year</TIMEX3>.
+
+Griezmann has been hotly-tipped to <EVENT eid="e6" class="OCCURRENCE">link</EVENT> up with compatriot Paul Pogba at Old Trafford.
+
+But the Gunners are apparently ready to <EVENT eid="e7" class="OCCURRENCE">go</EVENT> toe-to-toe with their rivals for his signature.
+
+Griezmann can <EVENT eid="e8" class="I_STATE">expect</EVENT> to <EVENT eid="e9" class="OCCURRENCE">command</EVENT> wages of 250,000-a-week if he <EVENT eid="e10" class="OCCURRENCE">moves</EVENT> to the Premier League.
+
+Who could Arsenal sign before <TIMEX3 tid="t3" type="DATE" value="2017-01">January</TIMEX3> transfer deadline day? <TIMEX3 tid="t4" type="DATE" value="2017-01-27">Friday</TIMEX3>, 27th <TIMEX3 tid="t5" type="DATE" value="2017-01">January 2017</TIMEX3> ARSENAL haven't been very active in the...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

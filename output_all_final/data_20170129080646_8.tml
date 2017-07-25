@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194228531</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Prince Harry recreates photo of mum, Princess Diana, in homeless charity over two decades ago</TITLE>
+
+
+<TEXT>
+Late Princess Diana was a great humanitarian and philanthropist during her timeand her younger son, Prince Harryseems to be <EVENT eid="e1" class="OCCURRENCE">taking</EVENT> after her in more ways than one. Prince Harry recreateda photo his mother had <EVENT eid="e2" class="OCCURRENCE">taken</EVENT> in <TIMEX3 tid="t1" type="DATE" value="1995">1995</TIMEX3>. Recently, Prince Harry <EVENT eid="e3" class="OCCURRENCE">went</EVENT> on a tour of the Depaul Trust Hostel in Willesden, north London, as part of his project on exploring how sports can be <EVENT eid="e4" class="OCCURRENCE">used</EVENT> to <EVENT eid="e5" class="OCCURRENCE">help</EVENT> communities.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

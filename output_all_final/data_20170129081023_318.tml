@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202697564</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mrs. Kaushik Ki Paanch Bahuein - Watch Full Episode 316 of 19th September 2012</TITLE>
+
+
+<TEXT>
+In the <TIMEX3 tid="t1" type="DATE" value="2017-09-19">September 19</TIMEX3> episode of Mrs. Kaushik Ki Paanch Bahuyien, Gehna gets furious when Bittu <EVENT eid="e1" class="OCCURRENCE">insults</EVENT> Utkarsh. Nimmi <EVENT eid="e2" class="I_STATE">begins</EVENT> to <EVENT eid="e3" class="OCCURRENCE">argue</EVENT> with Gehna. Naina <EVENT eid="e4" class="REPORTING">tries</EVENT> ... 
+
+Author: ZEETV 
+Tags: 
+Posted: 29 <TIMEX3 tid="t2" type="DATE" value="2017-01-02">January 2</TIMEX3>
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

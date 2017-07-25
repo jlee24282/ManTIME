@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204424258</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>James Cameron Thinks 'We've Moved on Beyond' Alien Franchise</TITLE>
+
+
+<TEXT>
+Aliens director James Cameron has <EVENT eid="e1" class="OCCURRENCE">shared</EVENT> his candid thoughts on the Alien franchise and <EVENT eid="e2" class="I_ACTION">questioned</EVENT> whether there was even a <EVENT eid="e3" class="OCCURRENCE">need</EVENT> to <EVENT eid="e4" class="OCCURRENCE">continue</EVENT> it when <EVENT eid="e5" class="OCCURRENCE">asked</EVENT> about the forthcoming Alien: Covenant, which opens <TIMEX3 tid="t1" type="DATE" value="2017-SU">this summer</TIMEX3>. 
+ 
+"The franchise has kind of <EVENT eid="e6" class="OCCURRENCE">wandered</EVENT> all over the map," Cameron <EVENT eid="e7" class="REPORTING">told</EVENT> Vulture . "Ridley [Scott] did the first film, and he <EVENT eid="e8" class="I_ACTION">inspired</EVENT> an entire generation of filmmakers and science-fiction fans with that one movie and there have been so many films that stylistically have <EVENT eid="e9" class="OCCURRENCE">derived</EVENT> from it, including my own Aliens, which was the legitimate sequel and, I think, the proper heir to his film. I <EVENT eid="e10" class="I_STATE">sort</EVENT> of did it as a fanboy. I <EVENT eid="e11" class="I_ACTION">wanted</EVENT> to <EVENT eid="e12" class="OCCURRENCE">honor</EVENT> his film, but also <EVENT eid="e13" class="REPORTING">say</EVENT> what I <EVENT eid="e14" class="I_ACTION">needed</EVENT> to <EVENT eid="e15" class="REPORTING">say</EVENT>. After that, I don't <EVENT eid="e16" class="OCCURRENCE">take</EVENT> any responsibility." 
+ 
+As for the franchise post-Aliens, "I don't <EVENT eid="e17" class="I_STATE">think</EVENT> it's <EVENT eid="e18" class="OCCURRENCE">worked</EVENT> out terribly well. I <EVENT eid="e19" class="I_STATE">think</EVENT> we've <EVENT eid="e20" class="OCCURRENCE">moved</EVENT> on beyond it. It's like, okay, we've <EVENT eid="e21" class="OCCURRENCE">got</EVENT> it, we've got the whole Freudian biomechanoid meme. I've <EVENT eid="e22" class="REPORTING">seen</EVENT> it in 100 horror films since. I think both of those films <EVENT eid="e23" class="OCCURRENCE">stand</EVENT> at a certain point in time, as a reference point. But is there any validity to doing another one <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>? I don't know. Maybe. Let's see, jury's out. Let's <EVENT eid="e24" class="OCCURRENCE">see</EVENT> what Ridley <EVENT eid="e25" class="OCCURRENCE">comes</EVENT> up with." 
+ 
+"<EVENT eid="e26" class="OCCURRENCE">Let</EVENT> me just add to that  and don't <EVENT eid="e27" class="OCCURRENCE">cut</EVENT> this part off, please  I will <EVENT eid="e28" class="OCCURRENCE">stand</EVENT> in line for any Ridley Scott movie, even a not-so-great one, because he is such an artist, he's such a filmmaker. I always learn from him. And what he does with <EVENT eid="e29" class="OCCURRENCE">going</EVENT> back to his own <EVENT eid="e30" class="OCCURRENCE">franchise</EVENT> would be fascinating." 
+ 
+Meanwhile, Cameron will <EVENT eid="e31" class="OCCURRENCE">regain</EVENT> the screen rights to the Terminator film franchise in <TIMEX3 tid="t3" type="DATE" value="2019">2019</TIMEX3>, and reportedly <EVENT eid="e32" class="OCCURRENCE">wants</EVENT> Deadpool's Tim Miller to <EVENT eid="e33" class="OCCURRENCE">direct</EVENT> another installment/reboot. Cameron is also <EVENT eid="e34" class="OCCURRENCE">developing</EVENT> multiple sequels to his <TIMEX3 tid="t4" type="DATE" value="2009">2009</TIMEX3> blockbuster Avatar, the highest-grossing film of all time.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie33" relatedToEventInstance="ie31" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie34" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

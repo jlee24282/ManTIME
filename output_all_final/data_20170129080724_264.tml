@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195863042</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>UNILEVER : Commits to Growth of Economy</TITLE>
+
+
+<TEXT>
+Nasir El-Rufai The Africa President of Unilever, Mr. Bruno Witvoet, has <EVENT eid="e1" class="I_ACTION">reiterated</EVENT> the company's commitment to actively <EVENT eid="e2" class="OCCURRENCE">contribute</EVENT> to <EVENT eid="e3" class="OCCURRENCE">enhancing</EVENT> local <EVENT eid="e4" class="OCCURRENCE">manufacturing</EVENT> in Nigeria. Bruno <EVENT eid="e5" class="REPORTING">said</EVENT> this during a recent <EVENT eid="e6" class="OCCURRENCE">visit</EVENT> to the Governor of Kaduna State, Mallam Nasir El-Rufai. He was <EVENT eid="e7" class="OCCURRENCE">accompanied</EVENT> on the visit by the Leadership Team of Unilever Nigeria. The Africa president <EVENT eid="e8" class="OCCURRENCE">commended</EVENT> the development strategy of the Governor in <EVENT eid="e9" class="REPORTING">ensuring</EVENT> the state is inclusive in economic growth and socio-economic <EVENT eid="e10" class="OCCURRENCE">transformation</EVENT> which translates into substantial improvements in the quality of lives of Kaduna citizens. In the same vein, Witvoet <EVENT eid="e11" class="OCCURRENCE">signed</EVENT> a Memorandum of Understanding (MoU) with the Governor on the Kaduna Emergency Nutrition Action Plan (KADENAP), an initiative <EVENT eid="e12" class="OCCURRENCE">championed</EVENT> by the Wife of the Governor, Hajia Aisha (Ummi) Garba El-Rufai <EVENT eid="e13" class="OCCURRENCE">aimed</EVENT> at tackling anaemia/malnutrition in the State. In his response, Governor El-Rufai <EVENT eid="e14" class="OCCURRENCE">commended</EVENT> the company for their efforts in the sustainable development of Kaduna State. He <EVENT eid="e15" class="OCCURRENCE">reassured</EVENT> the team of the government's assistance whenever there is an expansion plan within and outside of the state. (c) <TIMEX3 tid="t1" type="DATE" value="2017">2017 2016</TIMEX3> THISDAY NEWSPAPERS LTD. Provided by SyndiGate Media Inc. (Syndigate.info)., source Middle East   North African Newspapers
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PASTPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="INCLUDES" />
+</TimeML>

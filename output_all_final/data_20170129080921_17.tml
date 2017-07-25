@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200222184</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Trojans powerlifters shine at ASH Invitational</TITLE>
+
+
+<TEXT>
+ALEXANDRIA, La. (KALB) - The ASH Trojan powerlifting team <EVENT eid="e1" class="OCCURRENCE">hosted</EVENT> their annual, ASH Invitational <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>. Lifters <EVENT eid="e2" class="ASPECTUAL">began</EVENT> competition at <TIMEX3 tid="t2" type="TIME" value="2017-01-29T09:00">9:00 a.m.</TIMEX3> and the meet <EVENT eid="e3" class="OCCURRENCE">lasted</EVENT> until <TIMEX3 tid="t3" type="TIME" value="2017-01-29T18:00">6:00 p.m.</TIMEX3> 
+   KALB   
+The Trojans were <EVENT eid="e4" class="OCCURRENCE">competing</EVENT> against powerlifting teams from Tioga, Buckeye, Peabody and Natchitoches Central. ASH <EVENT eid="e5" class="OCCURRENCE">asserted</EVENT> their dominance in the sport <TIMEX3 tid="t4" type="DATE" value="X">once</TIMEX3> again, as both the boys and the girls powerlifting teams were <EVENT eid="e6" class="STATE">victorious</EVENT>. The winning didn't <EVENT eid="e7" class="OCCURRENCE">stop</EVENT> there for the school as their powerlifters <EVENT eid="e8" class="OCCURRENCE">claimed</EVENT> three of four individual honors. 
+ 
+ASH swept both of the outstanding lifter girls platforms. Zyanna Price <EVENT eid="e9" class="OCCURRENCE">earned</EVENT> it as a lightweight lifter and Lily Poisso <EVENT eid="e10" class="OCCURRENCE">got</EVENT> it as a heavyweight lifter. The boys were <EVENT eid="e11" class="OCCURRENCE">split</EVENT>. The outstanding lifter in the boys light platform was ASH's Ken Brown. University Academy's James Lofton was the outstanding lifter for the boys heavy platform.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie4" relType="ENDED_BY" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

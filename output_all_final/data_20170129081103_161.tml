@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203862183</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bargaincry Launched Website to Find Best Discounts and Deals in Kampala (Uganda)</TITLE>
+
+
+<TEXT>
+- Kampala, Uganda - Bargaincry.com <EVENT eid="e1" class="OCCURRENCE">helps</EVENT> you to <EVENT eid="e2" class="OCCURRENCE">find</EVENT> best deals and discounts for food and drinks, Massage and Spa, Shopping and Travels, Local Services and many more. 
+The maker of the Briyani House, has <EVENT eid="e3" class="OCCURRENCE">launched</EVENT> a new website, Bargaincry, JDI AFRICA LTD, Office Number 4, 1st Floor, Plot No: 10,3rd Street, Industrial Area, Kampala, Uganda. 256787305412 a site <EVENT eid="e4" class="OCCURRENCE">aimed</EVENT> at <EVENT eid="e5" class="I_ACTION">offering</EVENT> best discounts and deals in Kampala, Uganda. 
+
+The new website combines a comprehensive listing of deals and discounts and a directory on food and drinks, beauty and spa, Health and Fitness, Local Services and Travels. The site will be of tremendous value to local peoples, and Tourists. "This is a cutting edge Internet site far superior to anything in the marketplace", <EVENT eid="e6" class="REPORTING">said</EVENT> Ravikant Mishra, the President of Bargaincry. "We <EVENT eid="e7" class="I_STATE">expect</EVENT> tremendous sales through our convenient, user- friendly website." 
+
+Approximately every person of Kampala is <EVENT eid="e8" class="OCCURRENCE">looking</EVENT> for that kind of solutions in Uganda. With this "best hot deals and discounts many local people and Tourists will <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> able to <EVENT eid="e9" class="OCCURRENCE">find</EVENT> best deal and discounts on Food and Drinks, Massage and Spa, Shopping and Travel, Local Services and many more", <EVENT eid="e10" class="REPORTING">said</EVENT> Ravikant Mishra. 
+
+You can <EVENT eid="e11" class="OCCURRENCE">get</EVENT> up to 75% of discounts on various Massage and Spa Services. It also has deals and discounts on Nail Art, Foot Spa, Stress Massages, Pedicure and Manicure, Facial and many more. 90% of discounts are there on General health checkup of Ears, Nose and Throat and many more. The Company has won numerous local awards. The company's website at https://www.bargaincry.com/ contains additional information. 
+
+For more information contact us: 
+Bargaincry 
+Phone: 256787305412 
+256700778066 
+
+###
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202630916</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Late Strike Gives Boro All Three Points</TITLE>
+
+
+<TEXT>
+A late <EVENT eid="e1" class="OCCURRENCE">strike</EVENT> by Cameron Murray <EVENT eid="e2" class="OCCURRENCE">sealed</EVENT> all three points for Scarborough Athletic in their 2-1 <EVENT eid="e3" class="OCCURRENCE">win</EVENT> over Ossett Albion at Queensgate <TIMEX3 tid="t1" type="DATE" value="2017-01-28">yesterday</TIMEX3> (28 <TIMEX3 tid="t2" type="DATE" value="2017-01">January</TIMEX3>.)
+
+Jacob Hazel <EVENT eid="e4" class="OCCURRENCE">squeezed</EVENT> in the opener for the home side with a deflected effort on <TIMEX3 tid="t3" type="DURATION" value="PXM">19 minutes</TIMEX3>, but <EVENT eid="e5" class="OCCURRENCE">failed</EVENT> to <EVENT eid="e6" class="OCCURRENCE">take</EVENT> the jnitiative.
+
+The visitors were effective on the counter, and <EVENT eid="e7" class="OCCURRENCE">levelled</EVENT> up the scores when James Eyles <EVENT eid="e8" class="OCCURRENCE">netted</EVENT> an equaliser midway through the <TIMEX3 tid="t4" type="DATE" value="X">second half</TIMEX3>, <EVENT eid="e9" class="OCCURRENCE">rounding</EVENT> Boro keeper Jordan Porter to net from close range.
+
+It looked like it would <EVENT eid="e10" class="ASPECTUAL">end</EVENT> honours even but with <TIMEX3 tid="t5" type="DATE" value="X">two minutes</TIMEX3> to <EVENT eid="e11" class="OCCURRENCE">go</EVENT> Murray <EVENT eid="e12" class="OCCURRENCE">showed</EVENT> a turn of speed to <EVENT eid="e13" class="OCCURRENCE">break</EVENT> clear of the Unicorns defence and fire in the winner for the home side.
+
+Listen to Boro manager Steve Kittrick's <EVENT eid="e14" class="OCCURRENCE">reaction</EVENT> here
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t5" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t5" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202445153</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Late goal sinks Rockets</TITLE>
+
+
+<TEXT>
+Portland Winterhawks goalie Shane Farkas stops Kelowna's Dillon Dube in WHL action <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> at Prospera Place. 
+image credit: Marissa Baecker/Shoot The Breeze 
+   
+Joachim Blichfeld <EVENT eid="e1" class="I_ACTION">scored</EVENT> with just <TIMEX3 tid="t2" type="DATE" value="X">four seconds</TIMEX3> <EVENT eid="e2" class="OCCURRENCE">remaining</EVENT> in the <TIMEX3 tid="t3" type="DATE" value="2017-Q3">third period</TIMEX3> to <EVENT eid="e3" class="OCCURRENCE">complete</EVENT> a four-goal rally, as the Portland Winterhawks <EVENT eid="e4" class="OCCURRENCE">downed</EVENT> the Kelowna Rockets 5-4 in WHL action <TIMEX3 tid="t4" type="DATE" value="2017-01-28">Saturday</TIMEX3> at Prospera Place. 
+ 
+The Winterhawks <EVENT eid="e5" class="OCCURRENCE">fought</EVENT> back from a <TIMEX3 tid="t5" type="DATE" value="2017-Q2">4-1 second period</TIMEX3> deficit to <EVENT eid="e6" class="OCCURRENCE">hand</EVENT> the Rockets their fifth <EVENT eid="e7" class="OCCURRENCE">loss</EVENT> in the last six gamesall by one goal. 
+ 
+Nick Merkley had a goal and two assists for Kelowna, while Reid Gardiner, Kyle Topping and Gordie Ballhorn also <EVENT eid="e8" class="OCCURRENCE">scored</EVENT> in the loss. 
+ 
+Former West Kelowna Warriors goaltender Shane Farkas made 31 <EVENT eid="e9" class="OCCURRENCE">saves</EVENT> in the Portland goal, while Michael Herringer <EVENT eid="e10" class="OCCURRENCE">stopped</EVENT> 31 shots for Kelowna. 
+ 
+The <EVENT eid="e11" class="OCCURRENCE">loss</EVENT>, combined with a Victoria win over Vancouver, <EVENT eid="e12" class="OCCURRENCE">dropped</EVENT> the Rockets two points back of the Royals for third spot in the B.C. Division. 
+ 
+The Rockets (27-19-4-0) were without defenceman Cal Foote and forward Kole Lind who were on their way to Quebec City for <TIMEX3 tid="t6" type="DATE" value="2017-01-23">Monday</TIMEX3>'s NHL/CHL Top Prospects Game. 
+ 
+Kelowna <EVENT eid="e13" class="OCCURRENCE">returns</EVENT> to action on <TIMEX3 tid="t7" type="TIME" value="2017-01-25TNI">Wednesday night</TIMEX3> at Prospera Place against the Calgary Hitmen.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" timeID="t4" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t4" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

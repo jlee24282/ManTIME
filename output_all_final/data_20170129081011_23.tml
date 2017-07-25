@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202097360</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ruby Helen Moore</TITLE>
+
+
+<TEXT>
+Heaven <EVENT eid="e1" class="OCCURRENCE">welcomed</EVENT> our beloved mother, grandmother, great-grandmother, mother in law, sister and friend, on <TIMEX3 tid="t1" type="DATE" value="2016-11-16">November 16, 2016</TIMEX3>. She was <TIMEX3 tid="t2" type="DURATION" value="P95Y">95 years</TIMEX3> of age. Ruby was a <TIMEX3 tid="t3" type="DURATION" value="P65Y">65 year</TIMEX3> resident of Tulsa before <EVENT eid="e2" class="OCCURRENCE">moving</EVENT> to California.
+
+Ruby was <EVENT eid="e3" class="OCCURRENCE">born</EVENT> <TIMEX3 tid="t4" type="DATE" value="1921-05-10">May 10, 1921</TIMEX3>, in Fort Smith, Arkansas, to Dolph and Jewel (Taylor) Hood. She was <EVENT eid="e4" class="OCCURRENCE">predeceased</EVENT> by her parents, her husband Charles C. Moore, her son James C. Moore, a brother and two sisters.
+
+Ruby is <EVENT eid="e5" class="OCCURRENCE">survived</EVENT> by her daughter Sharon Templeton (Dan) of CA, daughter in law Alison Moore of TX, brother Bob Craig (Jan) of OK and sisters Maebelle Mason and Shirley Craig of AR.
+
+Ruby had five grandchildren, eight great grandchildren, numerous cousins, nieces, nephews, and many friends.
+
+Ruby was a charter member of Ranch Acres Baptist Church where she <EVENT eid="e6" class="OCCURRENCE">worked</EVENT> as a custodian until retirement. She <EVENT eid="e7" class="OCCURRENCE">served</EVENT> in many capacities in her church. The members <EVENT eid="e8" class="OCCURRENCE">became</EVENT> Ruby's extended family where they <EVENT eid="e9" class="OCCURRENCE">shared</EVENT> a love of Christ and each other.
+
+Stanleys Funeral Service <EVENT eid="e10" class="OCCURRENCE">conducted</EVENT> burial services at Floral Haven in a private family service. Memorials in Ruby's memory may be <EVENT eid="e11" class="OCCURRENCE">made</EVENT> to: Ranch Acres Baptist Church Kitchen Fund, 3143 So. Jamestown Ave, Tulsa OK 74135.
+
+Please <EVENT eid="e12" class="OCCURRENCE">visit</EVENT> Ruby's webpage at StanleysFuneralHome.com
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t4" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

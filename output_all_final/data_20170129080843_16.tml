@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198471040</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Georgetown Raiders ground Orangeville Flyers 5-0</TITLE>
+
+
+<TEXT>
+After <EVENT eid="e1" class="OCCURRENCE">losing</EVENT> two games in a row for the first time in this Ontario Junior Hockey League <TIMEX3 tid="t1" type="DATE" value="X">season</TIMEX3>, the Georgetown Raiders <EVENT eid="e2" class="OCCURRENCE">got</EVENT> back into the <EVENT eid="e3" class="OCCURRENCE">win</EVENT> column <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3> with a 5-0 home victory over the Orangeville Flyers. 
+ 
+Nicholas Latinovich <EVENT eid="e4" class="OCCURRENCE">stopped</EVENT> all 34 shots for his third shutout of the campaign, with single markers going to Jack Jacome, Jake Payette, Jonathan Hampton, Matthew Thom and Colin Rigney. 
+ 
+The 39-5-1-1 Raiders <EVENT eid="e5" class="ASPECTUAL">finished</EVENT> up a busy stretch on the schedule in which their 11-game win streak was <EVENT eid="e6" class="OCCURRENCE">broken</EVENT> up by one-goal losses <TIMEX3 tid="t3" type="DATE" value="2017-W05">this week</TIMEX3> to the Oakville Blades and Burlington Cougars. 
+ 
+On <TIMEX3 tid="t4" type="TIME" value="2017-01-27TNI">Friday night</TIMEX3> in Burlington in a matchup of the West Divisions top teams, both <EVENT eid="e7" class="OCCURRENCE">appeared</EVENT> to <EVENT eid="e8" class="STATE">be</EVENT> in playoff mode in a tight-checking contest, with the netminders <EVENT eid="e9" class="OCCURRENCE">stealing</EVENT> the show. 
+ 
+The first scoreless OJHL game of the season through regulation <EVENT eid="e10" class="OCCURRENCE">went</EVENT> into the extra time before Cougar defender Matt Watson <EVENT eid="e11" class="OCCURRENCE">notched</EVENT> his 21st on a spectacular individual effort in the 4-on-4 first overtime <TIMEX3 tid="t5" type="DATE" value="2017-Q1">period</TIMEX3>. 
+ 
+Burlingtons Mario Cavaliere <EVENT eid="e12" class="OCCURRENCE">made</EVENT> 35 stops for the shutout while Raider Josh Astorino <EVENT eid="e13" class="OCCURRENCE">blocked</EVENT> 36 shots. 
+ 
+In the only other <EVENT eid="e14" class="OCCURRENCE">meeting</EVENT> between the clubs this season, they <EVENT eid="e15" class="OCCURRENCE">played</EVENT> to a 2-2 draw in Georgetown on <TIMEX3 tid="t6" type="DATE" value="2017-10-29">Oct. 29</TIMEX3> and will <EVENT eid="e16" class="OCCURRENCE">clash</EVENT> twice more in <TIMEX3 tid="t7" type="DURATION" value="P0W">the next couple of weeks</TIMEX3>. 
+ 
+With eight games remaining in the regular season, the Raiders <EVENT eid="e17" class="STATE">remain</EVENT> in first place overall in the OJHL standings, four points up on the Trenton Golden Hawks. 
+ 
+A rematch of <TIMEX3 tid="t8" type="DATE" value="2016">last years</TIMEX3> league championship series, <EVENT eid="e18" class="OCCURRENCE">won</EVENT> by the Hawks in five games, is <EVENT eid="e19" class="OCCURRENCE">set</EVENT> for Trenton on <TIMEX3 tid="t9" type="DATE" value="2017-02-17">Feb. 17</TIMEX3>. 
+ 
+Next up for the Raiders is a <EVENT eid="e20" class="OCCURRENCE">trip</EVENT> to Port Credit <TIMEX3 tid="t10" type="DATE" value="2017-01-28">Saturday</TIMEX3> to <EVENT eid="e21" class="OCCURRENCE">take</EVENT> on the Mississauga Chargers at <TIMEX3 tid="t11" type="DATE" value="X">8</TIMEX3> p.m.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t10" relatedToEventInstance="ie20" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t3" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie19" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie6" relatedToTime="t3" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie15" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie18" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t10" relatedToEventInstance="ie21" relType="INCLUDES" />
+</TimeML>

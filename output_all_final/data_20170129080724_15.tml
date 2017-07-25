@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195601423</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>AFCON : Burkina Faso return to Afcon semis with win over Tunisia</TITLE>
+
+
+<TEXT>
+SPA -- Burkina Faso <EVENT eid="e1" class="OCCURRENCE">scored</EVENT> twice in <TIMEX3 tid="t1" type="DATE" value="X">the final nine minutes</TIMEX3> to <EVENT eid="e2" class="OCCURRENCE">book</EVENT> their spot in the Africa Cup of Nations semi-finals with a 2-0 victory over Tunisia on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <EVENT eid="e3" class="OCCURRENCE">moving</EVENT> into the final four for the <TIMEX3 tid="t3" type="DATE" value="X">second</TIMEX3> time in three editions, <EVENT eid="e4" class="REPORTING">reported</EVENT> the dpa. Aristide Bance <EVENT eid="e5" class="OCCURRENCE">scored</EVENT> the opening goal in <TIMEX3 tid="t4" type="DATE" value="198X">the 81st minute</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="X">four minutes</TIMEX3> after being <EVENT eid="e6" class="OCCURRENCE">brought</EVENT> on. Prejuce Nakoulma <EVENT eid="e7" class="REPORTING">ended</EVENT> the game with his goal in <TIMEX3 tid="t6" type="DATE" value="X">the 85th minute</TIMEX3> in the Gabonese capital Libreville. Tunisia have <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e8" class="OCCURRENCE">lost</EVENT> in five Afcon quarter-finals since <EVENT eid="e9" class="I_ACTION">winning</EVENT> their only title in <TIMEX3 tid="t8" type="DATE" value="2004">2004</TIMEX3>. --SPA 04:00 LOCAL TIME 01:00 GMT 
+ 
+(c) 2017 All Rights Reversed for Saudi Press Agency Provided by SyndiGate Media Inc. (Syndigate.info)., source Middle East   North African Newspapers
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="PASTPART" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToTime="t5" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="BEFORE" />
+<TLINK lid="TL7" timeID="t5" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL6" timeID="t7" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t8" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196953616</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Google learns from Pixel launch</TITLE>
+
+
+<TEXT>
+Although Google hasnt <EVENT eid="e1" class="OCCURRENCE">released</EVENT> sales figures, industry researchers <EVENT eid="e2" class="REPORTING">say</EVENT> the Pixel has been a hot item since its <TIMEX3 tid="t1" type="DATE" value="2017-10">October</TIMEX3> debut was <EVENT eid="e3" class="OCCURRENCE">greeted</EVENT> with mostly glowing reviews and the biggest marketing blitz in Googles <TIMEX3 tid="t2" type="DURATION" value="P18Y">18-year</TIMEX3> history. Google didnt have enough Pixels available to <EVENT eid="e4" class="OCCURRENCE">meet</EVENT> demand. Rather than wait <TIMEX3 tid="t3" type="DATE" value="X">several</TIMEX3> weeks, many consumers interested in the Pixel probably <EVENT eid="e5" class="OCCURRENCE">bought</EVENT> an iPhone, Galaxy or another phone instead. And these people arent likely to need a phone replacement for <TIMEX3 tid="t4" type="DURATION" value="PXY">another year or</TIMEX3> two.
+
+Google also <EVENT eid="e6" class="OCCURRENCE">struck</EVENT> a deal to <EVENT eid="e7" class="OCCURRENCE">sell</EVENT> it through just one wireless carrier, Verizon. Although Googles online store <EVENT eid="e8" class="OCCURRENCE">sold</EVENT> Pixels compatible with other wireless networks, most people dont shop for phones that way.
+
+Its not surprising that Google <EVENT eid="e9" class="OCCURRENCE">misjudged</EVENT> the market, <EVENT eid="e10" class="OCCURRENCE">given</EVENT> that this is the search companys first stab at <EVENT eid="e11" class="OCCURRENCE">making</EVENT> its own phone. <TIMEX3 tid="t5" type="DATE" value="PAST_REF">Previously</TIMEX3>, it <EVENT eid="e12" class="I_ACTION">partnered</EVENT> with various manufacturers on a Nexus line of phones to showcase its Android operating system, but that effort barely <EVENT eid="e13" class="OCCURRENCE">made</EVENT> a <EVENT eid="e14" class="OCCURRENCE">dent</EVENT>.
+
+This was probably a really good learning experience for them, <EVENT eid="e15" class="REPORTING">says</EVENT> Neil Doshi, an analyst with Mizhuo Securities USA.
+
+The Pixels success is important to Google because it <EVENT eid="e16" class="I_STATE">wants</EVENT> to <EVENT eid="e17" class="OCCURRENCE">ensure</EVENT> theres a stylish Android phone to <EVENT eid="e18" class="OCCURRENCE">compete</EVENT> with the iPhone and <EVENT eid="e19" class="OCCURRENCE">drive</EVENT> more affluent consumers to its search engine, maps, YouTube videos and other services.
+
+Samsungs Galaxy and other phones also run on Android, but those devices have been <EVENT eid="e20" class="OCCURRENCE">de-emphasizing</EVENT> Googles services.
+
+Google, in Mountain View, California, can <EVENT eid="e21" class="I_ACTION">afford</EVENT> to <EVENT eid="e22" class="OCCURRENCE">make</EVENT> some mistakes as it <EVENT eid="e23" class="I_ACTION">tries</EVENT> to <EVENT eid="e24" class="OCCURRENCE">establish</EVENT> the Pixel because its internet search and advertising network <EVENT eid="e25" class="OCCURRENCE">brings</EVENT> in so much revenue.
+
+Alphabet, Googles corporate parent, <EVENT eid="e26" class="OCCURRENCE">provided</EVENT> another reminder of its financial might with Thursdays release of its fourth-quarter earnings. The company <EVENT eid="e27" class="OCCURRENCE">earned</EVENT> $5.3 billion on revenue of $26 billion during <TIMEX3 tid="t6" type="DURATION" value="P3M">the final three months</TIMEX3> of <TIMEX3 tid="t7" type="DATE" value="2016">last year</TIMEX3> and profit <EVENT eid="e28" class="OCCURRENCE">rose</EVENT> 8 percent from <TIMEX3 tid="t8" type="DURATION" value="PXY">the prior year</TIMEX3>.
+
+The numbers <EVENT eid="e29" class="OCCURRENCE">provide</EVENT> a clue on how Pixel <EVENT eid="e30" class="OCCURRENCE">did</EVENT>. Googles other revenue segment, which covers sales outside of advertising, <EVENT eid="e31" class="OCCURRENCE">generated</EVENT> $3.4 billion in <TIMEX3 tid="t9" type="DATE" value="2017-Q4">the fourth quarter</TIMEX3>, a 62 percent <EVENT eid="e32" class="OCCURRENCE">increase</EVENT> from the same time <TIMEX3 tid="t10" type="DATE" value="2016">last year</TIMEX3>.
+
+Doshi estimates Google <EVENT eid="e33" class="STATE">sold</EVENT> 1 million to 1.5 million Pixels during <TIMEX3 tid="t11" type="DATE" value="2017-Q4">the fourth quarter</TIMEX3>. Thats just a sliver of the estimated 77 million that Apple <EVENT eid="e34" class="OCCURRENCE">sold</EVENT> and the 15 million Galaxy S7s Samsung <EVENT eid="e35" class="OCCURRENCE">sold</EVENT> in the same period.
+
+Still, analysts <EVENT eid="e36" class="REPORTING">say</EVENT> the Pixel did exceptionally well for a new phone with little brand recognition.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="SIMULTANEOUS" />
+<TLINK lid="TL9" eventInstanceID="ie27" relatedToEventInstance="ie28" relType="SIMULTANEOUS" />
+<TLINK lid="TL17" timeID="t5" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL16" timeID="t7" relatedToEventInstance="ie28" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t7" relatedToEventInstance="ie27" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie12" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL13" eventInstanceID="ie28" relatedToTime="t8" relType="DURING" />
+<TLINK lid="TL12" eventInstanceID="ie28" relatedToEventInstance="ie27" relType="SIMULTANEOUS" />
+<TLINK lid="TL11" eventInstanceID="ie27" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL10" eventInstanceID="ie27" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie31" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie32" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie34" relatedToEventInstance="ie35" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie35" relatedToEventInstance="ie34" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie33" relatedToTime="t11" relType="IS_INCLUDED" />
+<TLINK lid="TL14" timeID="t11" relatedToEventInstance="ie33" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie17" relatedToEventInstance="ie19" relType="AFTER" />
+</TimeML>

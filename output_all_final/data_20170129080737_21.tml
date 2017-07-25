@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196066744</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Kourtney Kardashian Stuns in White Bikini on Costa Rica Family Trip: Pic 15 hours ago</TITLE>
+
+
+<TEXT>
+Island ting, the 37-year-old reality star <EVENT eid="e1" class="OCCURRENCE">captioned</EVENT> the black-and-white image simply. In the photo, the mom of three looks lean and fit in a light-colored bikini top and tiny lace-fringed bottoms as she poses among several criss-crossed staffs of bamboo. The Keeping Up With the Kardashians star <EVENT eid="e2" class="OCCURRENCE">wears</EVENT> her long, straight hair down in the picture. 
+ PHOTOS: Kourtney Kardashian's Body Evolution    
+A photo posted by Kourtney Kardashian (@kourtneykardash) on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Jan 27, 2017</TIMEX3> at <TIMEX3 tid="t2" type="TIME" value="2017-01-29T10:33">10:33</TIMEX3>am PST 
+   
+On <TIMEX3 tid="t3" type="DATE" value="2017-01-27">Friday</TIMEX3>, Kardashians ex Scott Disick <EVENT eid="e3" class="REPORTING">posted</EVENT> an image of his own to Instagram , <EVENT eid="e4" class="OCCURRENCE">showing</EVENT> Kardashian in a revealing one-piece swimsuit, <EVENT eid="e5" class="OCCURRENCE">adjusting</EVENT> a pair of headphones on their daughter, 4-year-old Penelope. (The pair also share sons Mason, 6, and Reign, 2.) 
+
+ Kourtney Kardashian <EVENT eid="e6" class="REPORTING">attends</EVENT> Women's Health Hosts Hamptons "Party Under The Stars."  Paul Zimmerman/ for Women's Health PHOTOS: Hottest Bikini Bodies of <TIMEX3 tid="t4" type="DATE" value="2017">2017</TIMEX3>: Kylie Jenner, Hilary Duff, Jessica Alba and More Stars!  
+A source previously <EVENT eid="e7" class="REPORTING">told</EVENT> Us that the Kardashian clan will be <EVENT eid="e8" class="OCCURRENCE">spending</EVENT> a few days <EVENT eid="e9" class="STATE">soaking</EVENT> in the sun for their family getaway  but not everyone will be in attendance.  Kendall , Kylie , Khlo , Kourtney , Kim , Kris and [her boyfriend] Corey [Gamble], all the kids, and Scott [Disick] are going," the source <EVENT eid="e10" class="REPORTING">said</EVENT>. 
+
+ 
+Notably absent from the list are Rob Kardashian , Blac Chyna , Caitlyn Jenner and Kims husband, Kanye West . 
+
+ PHOTOS: Kardashian Family Vacations in Cuba: Photo  
+to <EVENT eid="e11" class="OCCURRENCE">get breaking</EVENT> celebrity news, hot pics and more <EVENT eid="e12" class="OCCURRENCE">delivered</EVENT> straight to your inbox!
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t3" relatedToTime="t1" relType="IDENTITY" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="INCLUDES" />
+</TimeML>

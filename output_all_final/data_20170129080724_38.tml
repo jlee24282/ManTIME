@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195637878</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Kenyan president urges collective resolve in promoting</TITLE>
+
+
+<TEXT>
+Kenyan President Uhuru Kenyatta on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> <EVENT eid="e1" class="I_ACTION">called</EVENT> on African states to <EVENT eid="e2" class="OCCURRENCE">strengthen</EVENT> collective resolve to <EVENT eid="e3" class="OCCURRENCE">promote</EVENT> good governance in Africa. 
+ 
+Kenyatta, who is also Chair of the African Peer Review Mechanism (APRM), a voluntary self-assessment mechanism by African countries, was <EVENT eid="e4" class="OCCURRENCE">speaking</EVENT> during the <EVENT eid="e5" class="OCCURRENCE">opening</EVENT> of the 26th <EVENT eid="e6" class="OCCURRENCE">session</EVENT> of the Heads of State and Government of the APRM in the Ethiopian capital. 
+ 
+"Over <TIMEX3 tid="t2" type="DURATION" value="P0Y">the last couple of years</TIMEX3>, we have <EVENT eid="e7" class="OCCURRENCE">witnessed</EVENT> peaceful elections and <EVENT eid="e8" class="OCCURRENCE">transitions</EVENT> in APRM member states such as Nigeria, Ghana, Zambia , Uganda, and Tanzania," noted Kenyatta. 
+ 
+"In the economic front, Africa <EVENT eid="e9" class="I_STATE">continues</EVENT> to <EVENT eid="e10" class="OCCURRENCE">make</EVENT> significant strides which are incrementally <EVENT eid="e11" class="OCCURRENCE">improving</EVENT> the livelihoods of our people and <EVENT eid="e12" class="OCCURRENCE">expanding</EVENT> opportunities for future generations. Additionally, there has been as such the development of renewable energy capacities in the countries such as South Africa and Kenya," he <EVENT eid="e13" class="REPORTING">said</EVENT>. 
+ 
+He further <EVENT eid="e14" class="REPORTING">stated</EVENT> that various APRM member states <EVENT eid="e15" class="ASPECTUAL">continue</EVENT> to <EVENT eid="e16" class="OCCURRENCE">implement</EVENT> mega infrastructure projects with regional, even continental dimension, which he <EVENT eid="e17" class="REPORTING">said</EVENT> are critical part of Africa's regional integration agenda. 
+ 
+Kenyatta has also <EVENT eid="e18" class="OCCURRENCE">lauded</EVENT> the positive gains in <EVENT eid="e19" class="OCCURRENCE">reducing</EVENT> maternal mortality rate, which he <EVENT eid="e20" class="REPORTING">said</EVENT> has <EVENT eid="e21" class="OCCURRENCE">decreased</EVENT> by 49 percent across sub-Saharan Africa. 
+ 
+"The massive growth in information and communication technology across the continent is <EVENT eid="e22" class="OCCURRENCE">enabling</EVENT> countries such as Mali, Kenya, Ghana, and Nigeria to <EVENT eid="e23" class="OCCURRENCE">leap</EVENT> frog in areas such as financial inclusion, telemedicine and political participation," he <EVENT eid="e24" class="REPORTING">said</EVENT>. 
+ 
+However, Kenyatta <EVENT eid="e25" class="OCCURRENCE">underlined</EVENT> the need to <EVENT eid="e26" class="OCCURRENCE">make</EVENT> faster progress in reducing youth unemployment by <EVENT eid="e27" class="OCCURRENCE">harnessing</EVENT> the potential of the large population of young people in the continent. 
+ 
+"All of these positive developments should <EVENT eid="e28" class="OCCURRENCE">energize</EVENT> all of us and <EVENT eid="e29" class="OCCURRENCE">strengthen</EVENT> our collective resolve to <EVENT eid="e30" class="ASPECTUAL">continue promoting</EVENT> good governance, without which development would be impossible to <EVENT eid="e31" class="OCCURRENCE">achieve</EVENT>; that is why recent <EVENT eid="e32" class="OCCURRENCE">conflicts</EVENT> in the Central African Republic, in Burundi, in South Sudan, and in Somalia <EVENT eid="e33" class="OCCURRENCE">reminds</EVENT> us that we <EVENT eid="e34" class="OCCURRENCE">require</EVENT> urgent home-grown remedial responses," he underlined. 
+ 
+Kenyatta has also <EVENT eid="e35" class="REPORTING">reiterated</EVENT> that the African continent has challenges of terrorism, climate change, corruption, and illicit financial flows. 
+ 
+He also <EVENT eid="e36" class="I_ACTION">called</EVENT> for action for greater intra-Africa trade. 
+ 
+"Our continent is also still <EVENT eid="e37" class="OCCURRENCE">grappling</EVENT> with challenges <EVENT eid="e38" class="OCCURRENCE">perpetuated</EVENT> by terrorist groups such as Boko Haram and Al-Shabaab, and the emergence of ISIS in the Saharan region of Africa, corruption also and illicit flow of funds," he <EVENT eid="e39" class="REPORTING">said</EVENT>. 
+ 
+"Africa is one of the most vulnerable continents to climate variability and change; our continent faces increased threat from extreme phenomena such as storms, flooding, in its coastal regions <EVENT eid="e40" class="OCCURRENCE">sustained</EVENT> drought which impact on food, water security, ecosystems, health, infrastructure and migration." 
+ 
+"Under the circumstances, we <EVENT eid="e41" class="STATE">have</EVENT> no choice but increasingly mainstream critical elements of environmental governance in the core focus areas of APRM, even as we <EVENT eid="e42" class="I_STATE">coordinate</EVENT> specialized agencies tackling climate change in our continent," he <EVENT eid="e43" class="REPORTING">said</EVENT>. 
+ 
+"Revitalizing the APRM, therefore, should <EVENT eid="e44" class="OCCURRENCE">take</EVENT> a more active role in <EVENT eid="e45" class="OCCURRENCE">devising</EVENT> solutions for the challenges <EVENT eid="e46" class="OCCURRENCE">cited</EVENT> above," he <EVENT eid="e47" class="REPORTING">added</EVENT>. 
+ 
+source: xinhua
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie44" eventID="e44" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie43" eventID="e43" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie46" eventID="e46" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie45" eventID="e45" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie47" eventID="e47" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="IDENTITY" />
+<TLINK lid="TL5" eventInstanceID="ie6" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie4" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="IDENTITY" />
+</TimeML>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695205059798</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Courts temporarily stop Trumps order deporting some Muslims from U.S.</TITLE>
+
+
+<TEXT>
+Over a hundred people who were detained in United States airports were <EVENT eid="e1" class="OCCURRENCE">spared</EVENT> immediate deportation after a federal judge ruled that sending travellers home could cause the "irreparable harm" lawyers say
+
+The lawyers <EVENT eid="e2" class="OCCURRENCE">sued</EVENT> to block President Donald Trumps order to block Syrian refugees from entering the US
+
+Mr Trump on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3> <EVENT eid="e3" class="OCCURRENCE">signed</EVENT> an executive order stopping refugees <EVENT eid="e4" class="OCCURRENCE">fleeing</EVENT> killings in Syria to from entering the US indefinitely
+
+The order which he said will keep "radical Islamic terrorists" from entering the country will also give priority entry attention to Christians and other minority religious groups from predominantly Muslim countries like Somalia Sudan Libya Iran Syria Iraq and Yemen
+
+"We dont want them here We want to ensure that we are not admitting into our country the very threats our soldiers are fighting overseas We only want to admit those into our country who will support our country and love deeply our people" he said
+
+But on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3> volunteer lawyers were frantically rushing to airports across the country to give legal aid to refugees <EVENT eid="e5" class="OCCURRENCE">trapped</EVENT> by the order and awaiting deportation
+
+Ann Donnelly a judge of the District Court in Brooklyn New York ruled around <TIMEX3 tid="t3" type="TIME" value="2017-01-29T21:00">9 pm</TIMEX3> local time stopping the implementation of the order The government was "enjoined and restrained from in any manner and by any means removing individuals" already in the US with valid visas and refugee status
+
+The ruling however did not appear to stop the Trump administration from stopping those who are yet to enter US territory
+
+The judge gave the one-page ruling after the American Civil Liberties Union ACLU a nonpartisan human rights organisation told the court that one of the refugees detained at an airport was being put in a plane to be deported to Syria
+
+According to the New York Times hundreds of protesters had gathered outside the court <EVENT eid="e6" class="OCCURRENCE">chanting</EVENT> "set them free"
+
+Minutes after the New Yorks ruling another judge in the Federal District Court of Virginia handed another ruling temporarily stopping the deportation of any green card holder being detained at Dulles International Airport
+
+"Weve gotten reports of people being detained all over the country Theyre literally <EVENT eid="e7" class="OCCURRENCE">pouring</EVENT> in by <TIMEX3 tid="t4" type="DATE" value="X">the minute</TIMEX3>" Becca Heller the director of the International Refugee Assistance Project told the New York Times
+
+But Mr Trump doesnt appear to be perturbed by the chaotic scenes at the countrys airports
+
+"Its not a Muslim ban but we were totally prepared Its working out very nicely You see it at the airports you see it all over" he said at the White House
+
+Several legal residents of the US who holds green cards were being stopped in foreign airports as they return from funerals vacations or study abroad the New York Times claimed
+
+On <TIMEX3 tid="t5" type="DATE" value="2017-01-28">Saturday</TIMEX3> American Homeland Security said 109 people who were already in transit to the US when the order came into effect were not allowed into the country It also stated that 173 people were stopped from boarding planes heading to the US However 81 who were stopped eventually <EVENT eid="e8" class="OCCURRENCE">got</EVENT> waivers to enter the US Iran bans US Citizens
+
+Meanwhile Iran has responded to the ban on its citizens from entering the US with a ban of its own
+
+"While respecting the American people and distinguishing between them and the hostile policies of the US government Iran will implement the principle of reciprocity until the offensive US limitations against Iranian nationals are lifted" a Foreign Ministry statement <EVENT eid="e9" class="REPORTING">said</EVENT>
+
+"The restrictions against travel by Muslims to America are an open affront against the Muslim world and the Iranian nation in particular and will be known as a great gift to extremists" the statement added
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL1" timeID="t5" relatedToTime="t2" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie7" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196062440</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Teens playing with gun led to deadly shooting, according to investigators</TITLE>
+
+
+<TEXT>
+SUMTER COUNTY, SC (WIS) - 
+
+A teen <EVENT eid="e1" class="OCCURRENCE">charged</EVENT> in a deadly <EVENT eid="e2" class="OCCURRENCE">shooting</EVENT> in Sumter County while he was out on bond for a separate attempted murder case will <EVENT eid="e3" class="STATE">remain</EVENT> in jail.
+
+A Sumter County magistrate did not <EVENT eid="e4" class="OCCURRENCE">set</EVENT> bond for Rhythm Sharmell Portee, 17, at his hearing. Investigators <EVENT eid="e5" class="REPORTING">say</EVENT> Bethea was <EVENT eid="e6" class="OCCURRENCE">shot</EVENT> in the chest as he and Portee <EVENT eid="e7" class="OCCURRENCE">played</EVENT> a game with a gun. 
+
+Because of the nature of the <EVENT eid="e8" class="OCCURRENCE">charge</EVENT>, Portee will be <EVENT eid="e9" class="OCCURRENCE">held</EVENT> in the Sumter-Lee Regional Detention Center until he can <EVENT eid="e10" class="OCCURRENCE">appear</EVENT> before a circuit court judge, which the Sumter County Sheriff's Office says will be in <TIMEX3 tid="t1" type="DATE" value="2017-03">March</TIMEX3>. 
+
+At the time of the <EVENT eid="e11" class="OCCURRENCE">shooting</EVENT>, Portee had been out on bond for an attempted murder charge stemming from an <EVENT eid="e12" class="OCCURRENCE">incident</EVENT> in <TIMEX3 tid="t2" type="DATE" value="2017-12">December</TIMEX3>. He is <EVENT eid="e13" class="OCCURRENCE">facing</EVENT> charges in adult court in both cases.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie12" relType="INCLUDES" />
+</TimeML>

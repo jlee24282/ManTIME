@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197451993</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Lunar New Year Celebrations Kick Off Around The Bay Area</TITLE>
+
+
+<TEXT>
+SAN FRANCISCO (CBS SF)  The Bay Area <EVENT eid="e1" class="OCCURRENCE">celebrated</EVENT> the Lunar <TIMEX3 tid="t1" type="DURATION" value="PXY">New Year</TIMEX3> on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+Dancers in lion costumes <EVENT eid="e2" class="OCCURRENCE">helped kick</EVENT> off celebrations in San Francisco. Children <EVENT eid="e3" class="OCCURRENCE">took</EVENT> part in the <EVENT eid="e4" class="OCCURRENCE">ceremony</EVENT> at Portsmouth Square. Mayor Ed Lee <EVENT eid="e5" class="I_ACTION">spoke</EVENT> about <EVENT eid="e6" class="OCCURRENCE">welcoming</EVENT> in <TIMEX3 tid="t3" type="DURATION" value="P1Y">the Year</TIMEX3> of the Rooster. 
+ 
+Two <TIMEX3 tid="t4" type="DURATION" value="PXW">weeks</TIMEX3> of events will <EVENT eid="e7" class="OCCURRENCE">culminate</EVENT> with a big parade on <TIMEX3 tid="t5" type="DATE" value="2017-02">February 11th</TIMEX3>. 
+ 
+In San Jose, the Tet Festival <EVENT eid="e8" class="OCCURRENCE">kicked</EVENT> off at the Santa Clara County Fairgrounds in San Jose. 
+ 
+People were <EVENT eid="e9" class="OCCURRENCE">dressed</EVENT> up in the national gown of Vietnam <EVENT eid="e10" class="OCCURRENCE">listening</EVENT> to music and even <EVENT eid="e11" class="OCCURRENCE">catching</EVENT> a fashion show. 
+ 
+One organizer <EVENT eid="e12" class="REPORTING">says</EVENT> Chinese and Vietnamese Lunar <TIMEX3 tid="t6" type="DURATION" value="PXY">New Year</TIMEX3> celebrations are very similar with the family taking center stage 
+ 
+Of course its family, <EVENT eid="e13" class="REPORTING">says</EVENT> organizer Vy Dinh. For us, family is the biggest thing, traditionally, especially back in Vietnam, for Lunar New <TIMEX3 tid="t7" type="DURATION" value="PXY">Year</TIMEX3> everybody <EVENT eid="e14" class="STATE">has</EVENT> a <TIMEX3 tid="t8" type="DATE" value="X">two</TIMEX3> to <TIMEX3 tid="t9" type="DURATION" value="P3W">three week</TIMEX3> vacation and all they do is visit family. During those two or <TIMEX3 tid="t10" type="DURATION" value="P3W">three weeks</TIMEX3>, they are <EVENT eid="e15" class="OCCURRENCE">traveling</EVENT> across the entire country making sure they <EVENT eid="e16" class="OCCURRENCE">hit</EVENT> every single relative. 
+ 
+The Tet Festival <EVENT eid="e17" class="ASPECTUAL">continues</EVENT> through <TIMEX3 tid="t11" type="TIME" value="2017-01-29TNI">Sunday night</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t4" relatedToEventInstance="ie7" relType="BEFORE" />
+<TLINK lid="TL6" timeID="t10" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t2" relatedToTime="t1" relType="INCLUDES" />
+</TimeML>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203474712</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Allestree crash 'drink-driver' leaves car upside down in residential street</TITLE>
+
+
+<TEXT>
+Comments(1)   
+An alleged drink-driver <EVENT eid="e1" class="OCCURRENCE">left</EVENT> their car upside down in the middle of the street with glass <EVENT eid="e2" class="OCCURRENCE">strewn</EVENT> across the road after <EVENT eid="e3" class="OCCURRENCE">crashing</EVENT> into TWO parked cars. 
+ 
+Police officers <EVENT eid="e4" class="REPORTING">said</EVENT> the driver <EVENT eid="e5" class="I_ACTION">recorded</EVENT> a reading of 55 micrograms in an alcohol breath test - which is over the drink-drive limit in England - after the <TIMEX3 tid="t1" type="DATE" value="2017-01-29TNI">overnight</TIMEX3> Allestree <EVENT eid="e6" class="OCCURRENCE">crash</EVENT>. 
+ 
+The picture was <EVENT eid="e7" class="OCCURRENCE">posted</EVENT> online by Derbyshire police's roads team which <EVENT eid="e8" class="OCCURRENCE">keeps</EVENT> Twitter users up to date with a surprising amount of serious - and sometimes humorous - incidents. 
+ 
+The tweet read: "Allestree. Driver collides with two parked cars. Provides a roadside breath sample of 55g # DontDrinkAndDrive ." 
+  
+Allestree. Driver collides with two parked cars. <EVENT eid="e9" class="OCCURRENCE">Provides</EVENT> a roadside breath sample of 55g #DontDrinkAndDrive  pic.twitter.com/8JRxcEvgmc 
+ Derbys Roads Police (@DerbyshireRPU) January <TIMEX3 tid="t2" type="DATE" value="2017">28, 2017</TIMEX3> 
+  MORE NEWS: Kedleston protest group needs 20k MORE for last chance in High Court
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie6" relType="INCLUDES" />
+</TimeML>

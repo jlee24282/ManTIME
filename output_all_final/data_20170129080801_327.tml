@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197218594</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>U.S. judge approves VW dealers $ 1.2 billion settlement</TITLE>
+
+
+<TEXT>
+WASHINGTON  - Volkswagen AG's dealers will <EVENT eid="e1" class="OCCURRENCE">receive</EVENT> an average of $1.85 million in a $1.2 billion <EVENT eid="e2" class="OCCURRENCE">settlement approved</EVENT> by a U.S. judge on <TIMEX3 tid="t1" type="DATE" value="2017-01-23">Monday</TIMEX3> over its diesel emissions scandal. 
+ 
+U.S. District Judge Charles Breyer <EVENT eid="e3" class="REPORTING">said</EVENT> the 650 U.S. dealers would be <EVENT eid="e4" class="OCCURRENCE">paid</EVENT> over <TIMEX3 tid="t2" type="DURATION" value="P18M">18 months</TIMEX3>, <EVENT eid="e5" class="OCCURRENCE">ruling</EVENT> the settlement "fair, reasonable, and adequate." 
+ 
+VW also <EVENT eid="e6" class="I_ACTION">agreed</EVENT> to <EVENT eid="e7" class="ASPECTUAL">keep making</EVENT> volume-based incentive payments to dealers, and will <EVENT eid="e8" class="OCCURRENCE">allow</EVENT> them to <EVENT eid="e9" class="OCCURRENCE">defer</EVENT> capital improvements for <TIMEX3 tid="t3" type="DURATION" value="P2Y">two years</TIMEX3>. In total, VW has <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e10" class="I_STATE">agreed</EVENT> to <EVENT eid="e11" class="OCCURRENCE">spend</EVENT> up to $22 billion in the United States to <EVENT eid="e12" class="OCCURRENCE">address</EVENT> claims from owners, environmental regulators, U.S. states and dealers <EVENT eid="e13" class="OCCURRENCE">stemming</EVENT> from the excess vehicle <EVENT eid="e14" class="OCCURRENCE">emissions</EVENT>. 
+  
+VW <EVENT eid="e15" class="OCCURRENCE">admitted</EVENT> in <TIMEX3 tid="t5" type="DATE" value="2015-09">September 2015</TIMEX3> to <EVENT eid="e16" class="OCCURRENCE">installing</EVENT> secret software in its diesel cars to <EVENT eid="e17" class="OCCURRENCE">cheat</EVENT> exhaust emissions tests and <EVENT eid="e18" class="I_ACTION">make</EVENT> them <EVENT eid="e19" class="OCCURRENCE">appear</EVENT> cleaner in testing than they really were. In reality, the vehicles <EVENT eid="e20" class="OCCURRENCE">emitted</EVENT> up to 40 times the legally allowable pollution levels and dealers <EVENT eid="e21" class="REPORTING">say</EVENT> the resulting scandal <EVENT eid="e22" class="OCCURRENCE">tarnished</EVENT> the brand and <EVENT eid="e23" class="OCCURRENCE">cost</EVENT> them sales. 
+ 
+VW North American Chief Executive Officer Hinrich Woebcken <EVENT eid="e24" class="REPORTING">said</EVENT> earlier the company <EVENT eid="e25" class="I_ACTION">believed</EVENT> the agreement with "dealers is a very important step in our commitment to <EVENT eid="e26" class="OCCURRENCE">making</EVENT> things right for all our stakeholders in the United States." 
+ 
+Beyond the $1.2 billion cash payments, the <EVENT eid="e27" class="OCCURRENCE">settlement</EVENT> is <EVENT eid="e28" class="OCCURRENCE">valued</EVENT> at total of more than $1.6 billion for the VW brand dealers, <EVENT eid="e29" class="REPORTING">said</EVENT> law firm Hagens Berman in a statement. The settlement <EVENT eid="e30" class="STATE">includes</EVENT> $270 million through a provision for prior payments and $175 million in the continued sales incentives. 
+ 
+"The Volkswagen-branded franchise dealer class-action settlement <EVENT eid="e31" class="REPORTING">finalized</EVENT> <TIMEX3 tid="t6" type="DATE" value="2017-01-28">today</TIMEX3> <EVENT eid="e32" class="OCCURRENCE">represents</EVENT> an outstanding result for Volkswagens affected franchise dealers who, like consumers, were <EVENT eid="e33" class="OCCURRENCE">blindsided</EVENT> by the <EVENT eid="e34" class="STATE">brazen</EVENT> fraud that VW <EVENT eid="e35" class="OCCURRENCE">perpetrated</EVENT>," <EVENT eid="e36" class="REPORTING">said</EVENT> Steve Berman, <EVENT eid="e37" class="OCCURRENCE">managing</EVENT> partner of Hagens Berman and <EVENT eid="e38" class="OCCURRENCE">lead</EVENT> attorney for the dealers.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t4" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie15" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL10" timeID="t5" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie10" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="BEFORE" />
+<TLINK lid="TL1" eventInstanceID="ie32" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie35" relatedToEventInstance="ie31" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie36" relatedToEventInstance="ie31" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie16" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie31" relatedToTime="t6" relType="IS_INCLUDED" />
+</TimeML>

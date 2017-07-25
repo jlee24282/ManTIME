@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194790993</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Saturday Sessions: Susto performs "Far Out Feeling"</TITLE>
+
+
+<TEXT>
+South Carolina band Susto first <EVENT eid="e1" class="OCCURRENCE">broke</EVENT> through in <TIMEX3 tid="t1" type="DATE" value="2014">2014</TIMEX3> with their self-titled debut album. Since then, the Charleston-based group has <EVENT eid="e2" class="OCCURRENCE">toured</EVENT> with Band of Horses, and are currently out with the Lumineers. 
+ 
+Start the conversation, or <EVENT eid="e3" class="OCCURRENCE">Read</EVENT> more at CBS News. 
+    
+Comments 
+   
+ Add your comments below  
+     
+
+      
+
+   
+Copyright  2017 Topix LLC
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

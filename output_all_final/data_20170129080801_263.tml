@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197130670</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Top Stories: 11 p.m. 1-28-17</TITLE>
+
+
+<TEXT>
+You are logged in as 
+
+Log out Sign In FAQ 
+
+Top Stories: 11 p.m. 
+
+wsts2 <TIMEX3 tid="t1" type="TIME" value="2017-01-29T11:19">11:19</TIMEX3> PM. PST <TIMEX3 tid="t2" type="DATE" value="2017-01-28">January 28, 2017</TIMEX3> 
+
+More Stories 
+
+<TIMEX3 tid="t3" type="DATE" value="2017-01-06">Jan. 6, 2017</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2017-01-29T13:31">1:31 p.m.   Jan. 6, 2017</TIMEX3>, <TIMEX3 tid="t5" type="TIME" value="2017-01-29T06:37">6:37 a.m.   Jan. 6, 2017</TIMEX3>, <TIMEX3 tid="t6" type="TIME" value="2017-01-29T09:22">9:22</TIMEX3> a.m. 
+
+FCC Online Public Inspection File   EEO Public File Report 
+
+ <TIMEX3 tid="t7" type="DATE" value="2017">2017</TIMEX3> NWCN-TV
+</TEXT>
+
+
+
+<TLINK lid="TL0" timeID="t5" relatedToTime="t4" relType="IDENTITY" />
+</TimeML>

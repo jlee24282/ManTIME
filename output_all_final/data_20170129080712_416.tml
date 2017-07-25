@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195479248</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Pacific Nations Make Climate Change Plea At UN</TITLE>
+
+
+<TEXT>
+UN confident of Paris Climate Change Agreement despite US pipeline plans.The United Nations <EVENT eid="e1" class="REPORTING">says</EVENT> the world's momentum behind the implementation of the Paris Climate Change Agreement is <EVENT eid="e2" class="STATE">unstoppable</EVENT>. This despite an Executive Order <EVENT eid="e3" class="OCCURRENCE">signed</EVENT> by United States President Donald 
+
+Enel S.p.A. and Dubai Electricity and Water Authority Sign MOU on Smart Grids and Network Digitization.Enel S.p.A. and Dubai Electricity and Water Authority (DEWA), Dubai`s public service infrastructure company, have <EVENT eid="e4" class="OCCURRENCE">signed</EVENT> a Memorandum of Understanding (MoU) for <EVENT eid="e5" class="OCCURRENCE">cooperation</EVENT> in smart grids and network 
+
+Why Buy A Shutdown Nuclear Plant? The Answer Might Surprise You.Why Buy A Shutdown Nuclear Plant? The Answer Might Surprise You 
+
+Dong <EVENT eid="e6" class="OCCURRENCE">buys</EVENT> into 128MW Formosa 1 off Taiwan.Dong buys into 128MW Formosa 1 off Taiwan
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

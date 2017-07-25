@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200149075</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>German Arndt overhauls Meyer to win UCI event in Geelong</TITLE>
+
+
+<TEXT>
+Home  International News Share the joy 
+                       
+German sprinter Nikias Arndt was the surprise winner of the Cadel Evans Great Ocean Road Race in Victoria on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> after he <EVENT eid="e1" class="OCCURRENCE">pipped</EVENT> Australian Cameron Meyer on the line to <EVENT eid="e2" class="OCCURRENCE">claim</EVENT> his first one-day <EVENT eid="e3" class="OCCURRENCE">win</EVENT> at World Tour level. 
+Channel NewsAsia Front Page News 
+    Previous article    Next article
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200015521</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>EOU runs over Eagles</TITLE>
+
+
+<TEXT>
+Northwest <EVENT eid="e1" class="I_ACTION">blitzed</EVENT> No. 19 Eastern Oregon out of the gate, <EVENT eid="e2" class="OCCURRENCE">jumping</EVENT> to a 7-0 lead before the Mountaineers could <EVENT eid="e3" class="OCCURRENCE">blink</EVENT> and <EVENT eid="e4" class="OCCURRENCE">leading</EVENT> by as many as nine points early. 
+ 
+An in fusion from the bench, however, <EVENT eid="e5" class="I_ACTION">helped</EVENT> EOU <EVENT eid="e6" class="OCCURRENCE">find</EVENT> its footing, and the momentum quickly <EVENT eid="e7" class="OCCURRENCE">swung</EVENT> in Easterns favor. 
+ 
+Payton Parrish <EVENT eid="e8" class="OCCURRENCE">led</EVENT> the Mountaineers off the bench with 15 points and eight rebounds as Eastern <EVENT eid="e9" class="OCCURRENCE">asserted</EVENT> itself and <EVENT eid="e10" class="OCCURRENCE">rolled</EVENT> to a <TIMEX3 tid="t1" type="DATE" value="X">75-46</TIMEX3> victory over the Eagles <TIMEX3 tid="t2" type="TIME" value="2017-01-28TNI">Saturday night</TIMEX3> in Cascade Collegiate Conference play at Quinn Coliseum. 
+ 
+Ashley Knight <EVENT eid="e11" class="OCCURRENCE">added</EVENT> 11 points and seven boards  also <EVENT eid="e12" class="OCCURRENCE">coming</EVENT> off the bench. All <EVENT eid="e13" class="REPORTING">told</EVENT>, EOUs bench players <EVENT eid="e14" class="OCCURRENCE">scored</EVENT> 43 points. 
+ 
+Parrish, Easterns sharpshooter who is typically the first player off the bench, <EVENT eid="e15" class="OCCURRENCE">found</EVENT> her touch early to <EVENT eid="e16" class="I_ACTION">help</EVENT> EOU <EVENT eid="e17" class="OCCURRENCE">shake</EVENT> off the slow start. She <EVENT eid="e18" class="OCCURRENCE">hit</EVENT> a trio of 3s in the opening quarter, the last of which <EVENT eid="e19" class="OCCURRENCE">pulled</EVENT> the Mounties within 14-12. Another bench player, Mariah Swanson  <EVENT eid="e20" class="OCCURRENCE">hit</EVENT> a short jumper with time <EVENT eid="e21" class="OCCURRENCE">winding</EVENT> down in <TIMEX3 tid="t3" type="DATE" value="2017-Q1">the first quarter</TIMEX3> to <EVENT eid="e22" class="OCCURRENCE">give</EVENT> EOU its first lead, 18-17. 
+ 
+Eastern <EVENT eid="e23" class="OCCURRENCE">opened</EVENT> up its lead late in the second, with Parrish again providing the spark. Her fourth 3-pointer <EVENT eid="e24" class="OCCURRENCE">started</EVENT> a 14-0 run to <EVENT eid="e25" class="ASPECTUAL">end</EVENT> the <EVENT eid="e26" class="OCCURRENCE">half</EVENT>. Reece Bauer <EVENT eid="e27" class="REPORTING">capped</EVENT> the <EVENT eid="e28" class="OCCURRENCE">run</EVENT> with a trey and a short jumper for a 37-23 lead at the <EVENT eid="e29" class="OCCURRENCE">break</EVENT>. 
+ 
+EOU finally <EVENT eid="e30" class="OCCURRENCE">put</EVENT> Northwest away for good with a 16-2 run, with Donniesha Webber <EVENT eid="e31" class="OCCURRENCE">polishing</EVENT> off the rally with a 3-pointer for a 53-29 advantage late in the third. Northwest never <EVENT eid="e32" class="I_ACTION">pulled</EVENT> closer than 22 points the rest of the way. 
+ 
+Eastern <EVENT eid="e33" class="OCCURRENCE">shoot</EVENT> off its 2-for-12 start to <EVENT eid="e34" class="OCCURRENCE">finish</EVENT> 42 percent from the field and <EVENT eid="e35" class="OCCURRENCE">hit</EVENT> 10 3-pointers. The Eagles, conversely, shot just 27 percent. 
+ 
+Maya Ah You <EVENT eid="e36" class="OCCURRENCE">chipped</EVENT> in nine points and had three assists. EOU as a team <EVENT eid="e37" class="OCCURRENCE">shared</EVENT> the ball well with 20 assists on 29 made field goals. Eastern also <EVENT eid="e38" class="OCCURRENCE">dominated</EVENT> on the boards, <EVENT eid="e39" class="OCCURRENCE">winning</EVENT> the rebound battle, 52-38. 
+ 
+The win <EVENT eid="e40" class="OCCURRENCE">keep</EVENT> EOU (19-4 overall, 12-2 CCC) in the <EVENT eid="e41" class="OCCURRENCE">hunt</EVENT> for the conference title, though the Mounties <EVENT eid="e42" class="STATE">remain</EVENT> 1-1/2 games back of Southern Oregon with six games to <EVENT eid="e43" class="OCCURRENCE">play</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie43" eventID="e43" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie7" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie21" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

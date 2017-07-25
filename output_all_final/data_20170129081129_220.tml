@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204845712</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Serena Williams beats sister Venus to win record 23rd Grand Slam</TITLE>
+
+
+<TEXT>
+PanARMENIAN.Net - Serena Williams has <EVENT eid="e1" class="OCCURRENCE">won</EVENT> her record 23rd Grand Slam singles title with a 6-4, 6-4 victory over her older sister Venus in <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday, January</TIMEX3> 28's Australian Open final, The Associated P
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+
+</TimeML>

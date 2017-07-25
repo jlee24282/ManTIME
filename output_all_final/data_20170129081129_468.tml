@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695205066520</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ghana under serious threat in quarter-final</TITLE>
+
+
+<TEXT>
+By Mark Gleeson 
+ 
+ 
+ 
+ 
+LIBREVILLE (Reuters) - Concerns <EVENT eid="e1" class="OCCURRENCE">surrounding</EVENT> captain Asamoah Gyan's fitness could <EVENT eid="e2" class="OCCURRENCE">scupper</EVENT> Ghana's <EVENT eid="e3" class="OCCURRENCE">bid</EVENT> to <EVENT eid="e4" class="OCCURRENCE">reach</EVENT> a sixth successive African Nations Cup semi-final when they take on the Democratic Republic of Congo in the last eight in Oyem on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>.    Gyan's fitness woes have <EVENT eid="e5" class="OCCURRENCE">clouded</EVENT> Ghanas preparations for the encounter against a fast-emerging Congolese side, who <EVENT eid="e6" class="OCCURRENCE">finished</EVENT> top of their first-round group. It <EVENT eid="e7" class="STATE">was</EVENT> the same group from which holders Ivory Coast were <EVENT eid="e8" class="OCCURRENCE">eliminated</EVENT>.    "Two giants, Ivory Coast and Algeria, are <EVENT eid="e9" class="STATE">out</EVENT> of the way so it's a good wake-up call to all the people that think they are a big team and that it's enough," <EVENT eid="e10" class="REPORTING">said</EVENT> Ghana coach Avram Grant.    "It's not enough. You <EVENT eid="e11" class="I_STATE">need</EVENT> to <EVENT eid="e12" class="OCCURRENCE">prove</EVENT> it on the pitch."     The last quarter-final pits Egypt and Morocco, who are both <EVENT eid="e13" class="OCCURRENCE">enjoying</EVENT> a revival in their fortunes in Gabon. 
+ 
+ 
+ 
+ 
+Egypt, despite a record seven titles, did not <EVENT eid="e14" class="OCCURRENCE">qualify</EVENT> for the last three Nations Cup finals while Morocco <EVENT eid="e15" class="OCCURRENCE">got</EVENT> past the group stage for the first time since <TIMEX3 tid="t2" type="DATE" value="2004">2004</TIMEX3>.    Difficult pitch conditions in Port Gentil await both teams on <TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+ 
+ 
+ 
+It is always necessary to <EVENT eid="e16" class="OCCURRENCE">have</EVENT> a remarkable capacity of adaptation, Morocco coach Herve Renard <EVENT eid="e17" class="REPORTING">told</EVENT> reporters.    The winner of the Egypt v Morocco clash will <EVENT eid="e18" class="OCCURRENCE">take</EVENT> on Burkina Faso, who <EVENT eid="e19" class="OCCURRENCE">beat</EVENT> Tunisia 2-0 on <TIMEX3 tid="t4" type="DATE" value="2017-01-28">Saturday</TIMEX3>.    Cameroon, who <EVENT eid="e20" class="OCCURRENCE">eliminated</EVENT> Senegal on penalties, will <EVENT eid="e21" class="OCCURRENCE">take</EVENT> on either DR Congo or Ghana on <TIMEX3 tid="t5" type="DATE" value="2017-01-26">Thursday</TIMEX3> in Franceville. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Editing by Pritha Sarkar)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL3" timeID="t4" relatedToEventInstance="ie18" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t4" relatedToEventInstance="ie19" relType="INCLUDES" />
+</TimeML>

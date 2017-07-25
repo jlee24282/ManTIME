@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196747776</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Poet Gladys Hidalgo  performs Jan. 30 at Ralph's</TITLE>
+
+
+<TEXT>
+In the poem Lost, Lynn poet Gladys Hidalgo illustrates a fierce honesty. Anarchy <EVENT eid="e1" class="REPORTING">imprinted</EVENT> in my mixed blood, she <EVENT eid="e2" class="OCCURRENCE">writes</EVENT>, I <EVENT eid="e3" class="I_STATE">contain</EVENT> the history of the south east even the west if you <EVENT eid="e4" class="STATE">fly</EVENT> in the right direction /My pen <EVENT eid="e5" class="OCCURRENCE">bleeds</EVENT> the tears I refuse to shed for the fallen/soldiers of a <EVENT eid="e6" class="OCCURRENCE">war</EVENT> weve been <EVENT eid="e7" class="OCCURRENCE">fighting</EVENT> since the <EVENT eid="e8" class="ASPECTUAL">beginning</EVENT> of time/Its never been so hard to be yourself. Theres a raw, emotional truth to her writing, one that makes her work compelling. 
+ 
+What: Gladys Hidalgo performs for the Dirty Gerund Poetry Series 
+When: 8:30 <TIMEX3 tid="t1" type="DATE" value="2017-01-30">p.m. Jan. 30</TIMEX3> 
+Where: Ralphs Rock Diner, 148 Grove St. Worcester 
+How much: Free, but hat passed to <EVENT eid="e9" class="OCCURRENCE">pay</EVENT> the featured artist
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToEventInstance="ie8" relType="BEGINS" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+</TimeML>

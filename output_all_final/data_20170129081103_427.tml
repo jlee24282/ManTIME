@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204135342</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Assembly elections 2017: Rahul, Akhilesh address first joint conference, say 'SP-Congress alliance for progress in UP'</TITLE>
+
+
+<TEXT>
+Lucknow: Congress Vice-president Rahul Gandhi and Uttar Pradesh Akhilesh Yadav on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">addressed</EVENT> a joint conference before high-stakes state assembly elections in the state. 
+ 
+Speaking first at the conference, Rahul Gandhi <EVENT eid="e2" class="REPORTING">said</EVENT>, "This Samajwadi party-Congress partnership is an answer to politics of division and hate. It's an alliance for progress, prosperity and peace." 
+ 
+"Akhilesh Yadav and I have both political and personal relationship. The alliance has <EVENT eid="e3" class="OCCURRENCE">made</EVENT> the personal and political relationship between Akhilesh and me better," Rahul <EVENT eid="e4" class="REPORTING">said</EVENT>.  
+ 
+"Uttar Pradesh will <EVENT eid="e5" class="OCCURRENCE">give</EVENT> befiitting reply to divisiveness," he <EVENT eid="e6" class="REPORTING">said</EVENT>. 
+ 
+Addressing the media, Akhilesh Yadav <EVENT eid="e7" class="REPORTING">said</EVENT>, "This alliance will <EVENT eid="e8" class="OCCURRENCE">answer</EVENT> those who made the nation stand in queues. This is an alliance for progress and it will <EVENT eid="e9" class="OCCURRENCE">speed</EVENT> up development. We <EVENT eid="e10" class="STATE">are</EVENT> against BJP's divide and rule plan" 
+ 
+"We will <EVENT eid="e11" class="OCCURRENCE">win</EVENT> at least 300 seats in the elections," Akhilesh Yadav <EVENT eid="e12" class="REPORTING">said</EVENT>. 
+ 
+Their joint press conference will be followed by a joint road show which will <EVENT eid="e13" class="OCCURRENCE">happen</EVENT> the city later in <TIMEX3 tid="t2" type="DURATION" value="PXD">the day</TIMEX3>. 
+ 
+Assembly elections in Uttar Pradesh are around the corner and this was the first outing of the two leaders after the <EVENT eid="e14" class="OCCURRENCE">alliance</EVENT> between the Congress and the Samajwadi Party was <EVENT eid="e15" class="OCCURRENCE">announced</EVENT>. 
+ 
+The Congress is <EVENT eid="e16" class="OCCURRENCE">contesting</EVENT> 105 seats while the ruling Samajwadi Party is <EVENT eid="e17" class="OCCURRENCE">contesting</EVENT> 298 seats in the 'crucial' Uttar Pradesh assembly elections . 
+ 
+Uttar Pradesh will be <EVENT eid="e18" class="OCCURRENCE">voting</EVENT> for a new state assembly in a seven-phase election, <EVENT eid="e19" class="OCCURRENCE">voting</EVENT> for which begins on <TIMEX3 tid="t3" type="DATE" value="2017-02-11">February 11</TIMEX3> and <EVENT eid="e20" class="OCCURRENCE">concludes</EVENT> on <TIMEX3 tid="t4" type="DATE" value="2017-03-08">March 8</TIMEX3>. 
+ 
+A joint poster with the slogan 'UP ko yeh saath pasand hai' having the pictures of both Rahul and Akhilesh and their respective party symbols will also be <EVENT eid="e21" class="OCCURRENCE">released</EVENT> on the <EVENT eid="e22" class="OCCURRENCE">occasion</EVENT>. 
+ 
+The alliance is <EVENT eid="e23" class="I_STATE">believed</EVENT> to <EVENT eid="e24" class="OCCURRENCE">counter</EVENT> the rivals Bharatiya Janata Party (BJP) and Bahujan Samaj Party (BSP) <EVENT eid="e25" class="OCCURRENCE">making</EVENT> the contest across the state triangular.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="FUTURE" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie16" relatedToEventInstance="ie17" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

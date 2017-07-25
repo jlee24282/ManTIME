@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196917715</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Police appeal: Man dies in Nyah West after suspected hit-and-run</TITLE>
+
+
+<TEXT>
+Authorities are <EVENT eid="e1" class="OCCURRENCE">appealing</EVENT> for help after a man's body was <EVENT eid="e2" class="OCCURRENCE">found</EVENT> inNyah West on <TIMEX3 tid="t1" type="TIME" value="2017-01-29TMO">Sunday morning</TIMEX3>, near the Murray River, in what police believe was a hit-and-run accident. 
+ 
+Victoria Police spokeswoman Kelly Grindley <EVENT eid="e3" class="REPORTING">said</EVENT> the man was yet to be formally <EVENT eid="e4" class="OCCURRENCE">identified</EVENT>. 
+ Police are <EVENT eid="e5" class="OCCURRENCE">looking</EVENT> for help after a man's body was <EVENT eid="e6" class="OCCURRENCE">found</EVENT> in Nyah West. 
+"A passer-by <EVENT eid="e7" class="OCCURRENCE">discovered</EVENT> the man's body on Nyah West Road, near the <EVENT eid="e8" class="OCCURRENCE">intersection</EVENT> with Matson Lane, about 4.30am," 
+ 
+"It is <EVENT eid="e9" class="I_STATE">believed</EVENT> he was <EVENT eid="e10" class="OCCURRENCE">run</EVENT> over by an unknown vehicle." 
+ 
+Ms Grindley <EVENT eid="e11" class="REPORTING">said</EVENT> Major Collision Investigation Unit detectiveswerekeen to <EVENT eid="e12" class="OCCURRENCE">speak</EVENT> to anyone who may have information about the man's death. 
+ 
+"In particular [police] would <EVENT eid="e13" class="I_STATE">like</EVENT> to <EVENT eid="e14" class="OCCURRENCE">speak</EVENT> to anyone who may have been <EVENT eid="e15" class="OCCURRENCE">driving</EVENT> in the <EVENT eid="e16" class="OCCURRENCE">area</EVENT> in the early hours of <TIMEX3 tid="t2" type="TIME" value="2017-01-29TMO">Sunday morning</TIMEX3>," she <EVENT eid="e17" class="REPORTING">said</EVENT>. 
+ 
+The death <EVENT eid="e18" class="OCCURRENCE">brings</EVENT> the total number of lives lost on Victorian roads in <TIMEX3 tid="t3" type="DATE" value="2017">2017</TIMEX3> to 18, two less than this time <TIMEX3 tid="t4" type="DATE" value="2016">last year</TIMEX3>. 
+ 
+Anyone with information is <EVENT eid="e19" class="STATE">urged</EVENT> to <EVENT eid="e20" class="OCCURRENCE">contact</EVENT> Crime Stoppers on 1800 333 000 or <EVENT eid="e21" class="OCCURRENCE">submit</EVENT> a confidential crime report at www.crimestoppersvic.com.au .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie14" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+</TimeML>

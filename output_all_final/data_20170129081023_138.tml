@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202571189</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Eel House set to be hive of activity again</TITLE>
+
+
+<TEXT>
+SINCE the restored Eel House in Alresford <EVENT eid="e1" class="ASPECTUAL">began</EVENT> its series of open <TIMEX3 tid="t1" type="DURATION" value="PXD">days</TIMEX3> during <TIMEX3 tid="t2" type="DATE" value="2017-SU">the summer of 2008</TIMEX3>, it has <EVENT eid="e2" class="OCCURRENCE">welcomed</EVENT> more than 6,000 visitors. 
+ 
+While up until <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> they have been able to witness an interesting but inactive building, the trustees are <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> in the process of <EVENT eid="e3" class="OCCURRENCE">getting</EVENT> the Eel House <EVENT eid="e4" class="OCCURRENCE">working</EVENT> again. 
+ 
+During the <TIMEX3 tid="t5" type="DATE" value="2017-AU">autumn</TIMEX3>, the traps were <EVENT eid="e5" class="OCCURRENCE">restored</EVENT>, with the help of a generous 2,000 grant from Winchester City Council, and the New Alresford Town Trust (NATT) is now <EVENT eid="e6" class="OCCURRENCE">applying</EVENT> to the Environment Agency for an educational trapping licence. 
+ 
+Trustee Pam Stevens <EVENT eid="e7" class="REPORTING">said</EVENT>: This will <EVENT eid="e8" class="I_ACTION">enable</EVENT> us to <EVENT eid="e9" class="OCCURRENCE">put</EVENT> together a programme with local schools to <EVENT eid="e10" class="I_ACTION">demonstrate</EVENT> this historic local activity  letting them see (and handle) eels trapped during the <TIMEX3 tid="t6" type="DATE" value="2017-AU">autumn nights</TIMEX3>, before <EVENT eid="e11" class="OCCURRENCE">releasing</EVENT> the eels again on their 3,000 mile journey back to the Sargasso Sea. 
+ 
+And she <EVENT eid="e12" class="REPORTING">added</EVENT>: As always, we have had great local support, both practical and financial, for which we are hugely grateful and <EVENT eid="e13" class="STATE">hope</EVENT> that <TIMEX3 tid="t7" type="DATE" value="2017">2017</TIMEX3> will <EVENT eid="e14" class="OCCURRENCE">see</EVENT> the Eel House doing its thing for the first time in <TIMEX3 tid="t8" type="DURATION" value="P40Y">more than 40 years</TIMEX3>. 
+ 
+<TIMEX3 tid="t9" type="DATE" value="2017">This years</TIMEX3> open <TIMEX3 tid="t10" type="DURATION" value="PXD">days</TIMEX3> <EVENT eid="e15" class="OCCURRENCE">take</EVENT> place from <TIMEX3 tid="t11" type="DATE" value="X">11am</TIMEX3> to 5pm on Easter <TIMEX3 tid="t12" type="DATE" value="2017-01-29">Sunday</TIMEX3> (<TIMEX3 tid="t13" type="DATE" value="2017-04-16">April 16</TIMEX3>), <TIMEX3 tid="t14" type="DATE" value="2017-05-14">May 14</TIMEX3>, <TIMEX3 tid="t15" type="DATE" value="2017-07-02">July 2</TIMEX3>, August Bank Holiday <TIMEX3 tid="t16" type="DATE" value="2017-01-23">Monday</TIMEX3> (<TIMEX3 tid="t17" type="DATE" value="2017-08-28">August 28</TIMEX3>), and <TIMEX3 tid="t18" type="DATE" value="2017-01-29">Sunday, September 10</TIMEX3>  to <EVENT eid="e16" class="OCCURRENCE">coincide</EVENT> with heritage <TIMEX3 tid="t19" type="DURATION" value="PXW">weekend</TIMEX3>. 
+ Add Comment
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie15" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToTime="t12" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToTime="t10" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t12" relatedToTime="t18" relType="IDENTITY" />
+<TLINK lid="TL6" timeID="t10" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="BEFORE" />
+<TLINK lid="TL9" timeID="t1" relatedToTime="t2" relType="INCLUDES" />
+</TimeML>

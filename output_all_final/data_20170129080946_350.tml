@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201441093</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>IMSA: Cadillac dominant at 2017 Rolex 24 halfway point</TITLE>
+
+
+<TEXT>
+DAYTONA BEACH, Fla.  The new Cadillac DPi-V.R has <EVENT eid="e1" class="OCCURRENCE">controlled</EVENT> the <EVENT eid="e2" class="OCCURRENCE">opening</EVENT> <TIMEX3 tid="t1" type="DURATION" value="PT12H">12 hours</TIMEX3> of the 55th Rolex 24 at Daytona, with the No. 10 Konica Minolta Cadillac <EVENT eid="e3" class="OCCURRENCE">leading</EVENT> most of it. Ricky and Jordan Taylor, Max Angelelli and Jeff Gordon <EVENT eid="e4" class="OCCURRENCE">sahre</EVENT> the car. 
+ The Cadillac is very good, Ricky Taylor <EVENT eid="e5" class="REPORTING">said</EVENT>. Our DPi-V.R is pretty good drive in the drizzle conditions. We are in the lead and we <EVENT eid="e6" class="I_STATE">want</EVENT> to <EVENT eid="e7" class="OCCURRENCE">hold</EVENT> it as long as we can. That helps <EVENT eid="e8" class="OCCURRENCE">keep</EVENT> you motivated in the car. We <EVENT eid="e9" class="I_STATE">want</EVENT> to <EVENT eid="e10" class="OCCURRENCE">keep</EVENT> the lead into <TIMEX3 tid="t2" type="DATE" value="2017-01-29TMO">the morning</TIMEX3>. It looks we will be <EVENT eid="e11" class="I_ACTION">racing</EVENT> the No. 5 Cadillac. We are going to <EVENT eid="e12" class="OCCURRENCE">try</EVENT> and <EVENT eid="e13" class="OCCURRENCE">hold</EVENT> the gap and <EVENT eid="e14" class="OCCURRENCE">keep</EVENT> it clean for <TIMEX3 tid="t3" type="DURATION" value="PXH">the next several hours</TIMEX3>.  
+Ford has been up front for most of the race in the GT Le Mans class, but its Porsche that has <EVENT eid="e15" class="OCCURRENCE">moved</EVENT> ahead with its new 911 RSR at <TIMEX3 tid="t4" type="DURATION" value="PT12H">Hour 12</TIMEX3>. 
+ 
+The GT Daytona class has witnessedthe biggest roller coaster, with seven of the nine manufacturers (all except Lamborghini and Aston Martin) having <EVENT eid="e16" class="OCCURRENCE">led</EVENT> in class at some point. Acura and Lexus have both <EVENT eid="e17" class="OCCURRENCE">led</EVENT> on debuts with their new cars, and Acura holds the top spot at <TIMEX3 tid="t5" type="DURATION" value="PTXH">Hour</TIMEX3> 12. 
+ 
+Lastly its been Performance Tech Motorsports leading the Prototype Challenge class most of the way. 
+ 
+There have been eight full-course cautions and six race retirements, all in the GTLM and GTD classes. 
+ 
+Track conditions are <EVENT eid="e18" class="STATE">treacherous</EVENT> with rain <EVENT eid="e19" class="OCCURRENCE">causing</EVENT> a slick track surface. 
+ 
+Follow @TonyDiZinno
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie14" relType="AFTER" />
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

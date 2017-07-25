@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199156768</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Drew Barrymore 'I don't pretend to be perfect...</TITLE>
+
+
+<TEXT>
+Drew Barrymore <EVENT eid="e1" class="OCCURRENCE">walks</EVENT> into the hotel room in Berlin flanked by assistants, caked in heavy TV make-up and <EVENT eid="e2" class="OCCURRENCE">wrapped</EVENT> in a brown fluffy jacket that makes her look like a very glamorous teddy bear. Within <TIMEX3 tid="t1" type="DATE" value="X">seconds</TIMEX3>, the entourage has <EVENT eid="e3" class="OCCURRENCE">disappeared</EVENT>, shes <EVENT eid="e4" class="OCCURRENCE">wiped</EVENT> every last <EVENT eid="e5" class="OCCURRENCE">scrap</EVENT> of foundation from her face and shes <EVENT eid="e6" class="OCCURRENCE">rummaging</EVENT> around underneath her dress, a kind of earth mother hippy smock, regretting her <EVENT eid="e7" class="OCCURRENCE">decision</EVENT> to <EVENT eid="e8" class="OCCURRENCE">wear</EVENT> tights on this <TIMEX3 tid="t2" type="DURATION" value="PXD">sub-freezing day</TIMEX3>. Why does anyone wear pantyhose? she exclaims, barefaced, faux-exasperated, <EVENT eid="e9" class="OCCURRENCE">shifting</EVENT> in her armchair, <EVENT eid="e10" class="I_ACTION">trying</EVENT> to get comfortable. Theyre so fucking sadistic! Theyre not even control pants, she <EVENT eid="e11" class="REPORTING">says</EVENT>, conspiratorially, but Im forcing them to be. I was so much more brassy when I was younger. Im like: Where did you <EVENT eid="e12" class="OCCURRENCE">get</EVENT> those balls, <EVENT eid="e13" class="OCCURRENCE">kid</EVENT>? For a lot of women, especially women who <EVENT eid="e14" class="OCCURRENCE">grew</EVENT> up between <TIMEX3 tid="t3" type="DATE" value="1982">1982</TIMEX3> and the <TIMEX3 tid="t4" type="DATE" value="200X">early 2000s</TIMEX3>, Barrymore is a particular kind of icon. Shes the accessible rebel we all <EVENT eid="e15" class="I_STATE">wanted</EVENT> to be, or be friends with. Shes the child star of ET who <EVENT eid="e16" class="OCCURRENCE">hit</EVENT> the skids early and hard, and not only <EVENT eid="e17" class="OCCURRENCE">survived</EVENT>, but <EVENT eid="e18" class="OCCURRENCE">went</EVENT> on to be one of the most popular (and bankable) female stars of <TIMEX3 tid="t5" type="DURATION" value="P1E">the past three decades</TIMEX3>. She <EVENT eid="e19" class="OCCURRENCE">appeared</EVENT> in, and often <EVENT eid="e20" class="OCCURRENCE">produced</EVENT>, the kinds of movies that are vital <EVENT eid="e21" class="OCCURRENCE">viewing</EVENT> for teenagers, from the trashy taboo-busting <EVENT eid="e22" class="OCCURRENCE">rebellion</EVENT> of Poison Ivy, to the triumphant high school romcom Never Been Kissed, to the moody angst of Donnie Darko. Plus, in her 20s, she <EVENT eid="e23" class="I_ACTION">seemed</EVENT> to <EVENT eid="e24" class="OCCURRENCE">hang</EVENT> out with the best bands, <EVENT eid="e25" class="OCCURRENCE">go</EVENT> to all the best parties and always <EVENT eid="e26" class="OCCURRENCE">looked</EVENT> like she was having the time of her life. She was the manic pixie dream girl before it <EVENT eid="e27" class="OCCURRENCE">became</EVENT> a tacky indie film stereotype. The memoir she <EVENT eid="e28" class="OCCURRENCE">wrote</EVENT> in <TIMEX3 tid="t6" type="DATE" value="2015">2015</TIMEX3> is, appropriately, called Wildflower. She looks genuinely pleased that she holds such a place in peoples minds, and <EVENT eid="e29" class="OCCURRENCE">decides</EVENT> that if people do like her, If anyone has any goodwill towards me, careful not to <EVENT eid="e30" class="OCCURRENCE">sound</EVENT> arrogant, its because she <EVENT eid="e31" class="OCCURRENCE">extends</EVENT> goodwill to other people. Not in an annoying way, but just, like, being in peoples fucking corners. Its this combination of soft and sharp, all <EVENT eid="e32" class="OCCURRENCE">wrapped</EVENT> up in that valley girl lilt, that has <EVENT eid="e33" class="OCCURRENCE">carried</EVENT> her through life. I <EVENT eid="e34" class="I_STATE">want</EVENT> people to be <EVENT eid="e35" class="STATE">happy</EVENT>, but I <EVENT eid="e36" class="I_STATE">know</EVENT> happiness has to be <EVENT eid="e37" class="OCCURRENCE">fought</EVENT> for. Its a warrior trophy. Its not hippy, she <EVENT eid="e38" class="OCCURRENCE">insists</EVENT>. Im like, fight. Fight to the death to be happy, and dont kill anyone along the way. Were in Germany to <EVENT eid="e39" class="OCCURRENCE">talk</EVENT>... Read more
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t6" relatedToEventInstance="ie28" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie28" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie17" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie34" relatedToEventInstance="ie36" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t3" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="AFTER" />
+</TimeML>

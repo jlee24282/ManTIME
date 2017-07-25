@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198726450</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Five injured after staircase collapses at golf club</TITLE>
+
+
+<TEXT>
+Comments(0)   
+Five people were <EVENT eid="e1" class="OCCURRENCE">injured</EVENT> when a staircase <EVENT eid="e2" class="OCCURRENCE">collapsed</EVENT> at an Edenbridge golf club. 
+ 
+Emergency crews were <EVENT eid="e3" class="OCCURRENCE">called</EVENT> to the Kent and Surrey Golf and Country Club at about 3.45pm <TIMEX3 tid="t1" type="DATE" value="2017-01-28">yesterday</TIMEX3>. 
+ 
+<EVENT eid="e4" class="REPORTING">According</EVENT> to South East Coast Ambulance Service three people were <EVENT eid="e5" class="OCCURRENCE">taken</EVENT> to hospital while two others were <EVENT eid="e6" class="OCCURRENCE">treated</EVENT> on the scene at Crouch House Road. 
+ 
+The staircase is <EVENT eid="e7" class="I_STATE">understood</EVENT> to have been outside the club but no further details have been <EVENT eid="e8" class="OCCURRENCE">made</EVENT> public at <TIMEX3 tid="t2" type="DATE" value="X">present</TIMEX3>. 
+ 
+No one at the club was available for comment <TIMEX3 tid="t3" type="DATE" value="2017-01-29TMO">this morning</TIMEX3>. 
+ 
+A Kent Fire and Rescue spokesman <EVENT eid="e9" class="REPORTING">said</EVENT>: "KFRS was <EVENT eid="e10" class="OCCURRENCE">called</EVENT> to initial reports of persons <EVENT eid="e11" class="OCCURRENCE">trapped</EVENT> under a collapsed concrete staircase at a sports club in Crouch House Road, Edenbridge. 
+ 
+"Four fire engines were initially <EVENT eid="e12" class="OCCURRENCE">deployed</EVENT>, but further updates from the scene <EVENT eid="e13" class="I_ACTION">revealed</EVENT> no persons <EVENT eid="e14" class="OCCURRENCE">trapped</EVENT>, so one fire engine was <EVENT eid="e15" class="OCCURRENCE">sent</EVENT> in support of South East Coast Ambulance Service. Our crew <EVENT eid="e16" class="OCCURRENCE">assisted</EVENT> with casualty care, <EVENT eid="e17" class="OCCURRENCE">making</EVENT> the scene safe and <EVENT eid="e18" class="OCCURRENCE">assisting</EVENT> Kent Police with their <EVENT eid="e19" class="OCCURRENCE">investigation</EVENT> of the circumstances. 
+  
+Gat T7 <EVENT eid="e20" class="I_ACTION">responding</EVENT> to collapsed external <EVENT eid="e21" class="OCCURRENCE">staircase</EVENT> in Edenbridge with @kentfirerescue  @kent_police 3 pts to hospital 2 treated o/s #Usar#Hart pic.twitter.com/fg4s2sjyX1 
+ SECAmb HART (@SECAmbHart) January <TIMEX3 tid="t4" type="DATE" value="2017">28, 2017</TIMEX3> 
+  
+The ambulance service has been <EVENT eid="e22" class="OCCURRENCE">approached</EVENT> for further comment.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie14" relatedToEventInstance="ie12" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie15" relatedToEventInstance="ie12" relType="AFTER" />
+</TimeML>

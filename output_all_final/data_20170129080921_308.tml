@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200448868</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>WHIO</TITLE>
+
+
+<TEXT>
+Get <EVENT eid="e1" class="OCCURRENCE">breaking</EVENT> news, weather, and traffic from -TV   News Talk Radio WHIO in one great app. Watch live News Center 7 newscasts on your tablet (on your device) to <EVENT eid="e2" class="OCCURRENCE">stay</EVENT> up-to-date when you aren't near a TV. Listen live to News Talk Radio WHIO 95. 7 FM and AM <TIMEX3 tid="t1" type="DATE" value="1290">1290</TIMEX3> when you can't <EVENT eid="e3" class="OCCURRENCE">get</EVENT> to a radio. <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Now</TIMEX3> you can stay connected to local news, traffic, and weather. Coverage you can count on. Features Include: It's Free. <EVENT eid="e4" class="OCCURRENCE">Breaking</EVENT> local news - Live News Center 7newscast stream - Live stream of News Talk Radio WHIO 95. 7 FM and AM1290 - Live Doppler 7 radar - 5-day weather forecasts - <EVENT eid="e5" class="OCCURRENCE">Live</EVENT> traffic and drive timesPlease note: This app features Nielsen's proprietary measurement software which will <EVENT eid="e6" class="I_ACTION">allow</EVENT> you to <EVENT eid="e7" class="OCCURRENCE">contribute</EVENT> to market research, like Nielsen's TV Ratings. Please see www.nielsen.com/digitalprivacy for more information. 
+ License  Free  Version  5.3.1  Operating System  Android
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="CAN" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="BEGINS" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="AFTER" />
+</TimeML>

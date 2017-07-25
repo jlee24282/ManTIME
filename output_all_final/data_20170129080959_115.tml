@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201686344</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Heavy snow disrupts traffic in NE China province</TITLE>
+
+
+<TEXT>
+HEAVY snow has <EVENT eid="e1" class="OCCURRENCE">disrupted</EVENT> traffic in northeast China's Liaoning Province, local authorities <EVENT eid="e2" class="REPORTING">said</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+The snowstorm <EVENT eid="e3" class="OCCURRENCE">started</EVENT> <TIMEX3 tid="t2" type="TIME" value="2017-01-28TAF">Saturday afternoon</TIMEX3>, the <TIMEX3 tid="t3" type="DURATION" value="PXD">first day</TIMEX3> of the Lunar New <TIMEX3 tid="t4" type="DURATION" value="PXY">Year</TIMEX3> or <TIMEX3 tid="t5" type="DATE" value="2017-SP">Spring</TIMEX3> Festival, and <EVENT eid="e4" class="OCCURRENCE">continued</EVENT> <TIMEX3 tid="t6" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+As of <TIMEX3 tid="t7" type="TIME" value="2017-01-29T09:00">9 a.m.</TIMEX3>, 18 expressways in the province, including the section that links neighboring Jilin Province and part of the Beijing-Harbin Expressway, are either <EVENT eid="e5" class="OCCURRENCE">closed</EVENT> or restricted, <EVENT eid="e6" class="REPORTING">according</EVENT> to the provincial department of transportation. 
+ 
+Most highway coach stations in Liaoning are also <EVENT eid="e7" class="OCCURRENCE">closed</EVENT> as a result of the snow. 
+ 
+The local meteorological station forecast snow to <EVENT eid="e8" class="OCCURRENCE">continue</EVENT> in most parts of Liaoning throughout <TIMEX3 tid="t8" type="DATE" value="2017-01-29">Sunday</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t4" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t3" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t5" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t5" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

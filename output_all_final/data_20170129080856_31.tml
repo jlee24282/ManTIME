@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199123185</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>5hrs U.S. judge allows travelers who landed with visas to stay in country</TITLE>
+
+
+<TEXT>
+A man <EVENT eid="e1" class="OCCURRENCE">leads</EVENT> a protest chant with a makeshift megaphone during a <EVENT eid="e2" class="OCCURRENCE">protest</EVENT> against the travel ban <EVENT eid="e3" class="OCCURRENCE">imposed</EVENT> by U.S. President Donald Trump's executive order, at Dallas/Fort Worth International Airport in Dallas, Texas, U.S. <TIMEX3 tid="t1" type="DATE" value="2017-01-28">January 28, 2017</TIMEX3>.  | Photo Credit: REUTERS 
+  
+A federal judge in Brooklyn, New York <EVENT eid="e4" class="REPORTING">issued</EVENT> an <EVENT eid="e5" class="OCCURRENCE">emergency stay</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3> that temporarily <EVENT eid="e6" class="OCCURRENCE">blocks</EVENT> the U.S. government from <EVENT eid="e7" class="OCCURRENCE">sending</EVENT> people out of the country after they have <EVENT eid="e8" class="OCCURRENCE">landed</EVENT> at a U.S. airport with valid visas. 
+ 
+The American Civil Liberties Union <EVENT eid="e9" class="REPORTING">estimates</EVENT> the stay will <EVENT eid="e10" class="OCCURRENCE">affect</EVENT> 100 to 200 people <EVENT eid="e11" class="OCCURRENCE">detained</EVENT> at U.S. airports or intransit, but government lawyers could not confirm that number. 
+ 
+The <EVENT eid="e12" class="OCCURRENCE">ruling</EVENT> by Judge Ann Donnelly of the U.S. District Court for the Eastern District of New York <EVENT eid="e13" class="OCCURRENCE">came</EVENT> during a hearing called after President Donald Trump <EVENT eid="e14" class="OCCURRENCE">issued</EVENT> an executive order <EVENT eid="e15" class="OCCURRENCE">blocking</EVENT> people from seven Muslim-majority from <EVENT eid="e16" class="OCCURRENCE">entering</EVENT> the United States and <EVENT eid="e17" class="OCCURRENCE">putting</EVENT> a temporary halt to refugee admissions.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

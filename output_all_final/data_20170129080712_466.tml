@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195532169</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Neodymium-doped yttrium aluminium garnet (Nd:YAG) 1064-nm picosecond laser vs. Nd:YAG 1064-nm nanosecond laser in tattoo removal: a randomized controlled single-blind clinical trial</TITLE>
+
+
+<TEXT>
+Summary  Background  
+For decades, nanosecond lasers (NSLs) have been <EVENT eid="e1" class="OCCURRENCE">used</EVENT> to <EVENT eid="e2" class="OCCURRENCE">remove</EVENT> tattoos. Since <TIMEX3 tid="t1" type="DATE" value="2012">2012</TIMEX3>, pulses of picosecond lasers (PSLs) have been available for tattoo removal. Based on a few observational studies, the claim has been <EVENT eid="e3" class="OCCURRENCE">made</EVENT> that PSLs are considerably more effective while <EVENT eid="e4" class="OCCURRENCE">showing</EVENT> fewer side effects in comparison with NSLs. 
+ Objectives  
+To <EVENT eid="e5" class="OCCURRENCE">compare</EVENT> the efficacy and side effects of a PSL side by side with an NSL for tattoo removal. 
+ Methods  
+Twenty one patients with 30 black tattoos were <EVENT eid="e6" class="OCCURRENCE">treated</EVENT> with PSL and NSL in a split study design in two sessions at intervals of <TIMEX3 tid="t2" type="DURATION" value="P6W">6 weeks</TIMEX3>. The safety and <EVENT eid="e7" class="OCCURRENCE">efficacy</EVENT> of laser treatments were <EVENT eid="e8" class="OCCURRENCE">determined</EVENT> by blinded observers assessing randomized digital photographs in this prospective clinical study. The primary end point was the clearance of the tattoos <EVENT eid="e9" class="OCCURRENCE">ranging</EVENT> in quartiles from 0% to 100%; secondary end points were side effects and pain. 
+ Results  
+The average clearance overall as evaluated <EVENT eid="e10" class="OCCURRENCE">showed</EVENT> no statistical difference between NSL and PSL ( P = 1·00). <EVENT eid="e11" class="OCCURRENCE">Using</EVENT> a visual analogue scale (0 = no pain, 10 = maximum pain), a value of 3·8 ± 1·0 was <EVENT eid="e12" class="OCCURRENCE">reported</EVENT> for the PSL, which was statistically different from NSL (7·9 ± 1·1, P  lt; 0·001). Transient side effects were <EVENT eid="e13" class="OCCURRENCE">observed</EVENT>, as well as hypo  and hyperpigmentation, but there was no statistically significant difference between PSL and NSL. 
+ Conclusions  
+After two treatments of black tattoos with a neodymium <EVENT eid="e14" class="OCCURRENCE">doped</EVENT> yttrium aluminium garnet laser (<TIMEX3 tid="t3" type="DATE" value="1064">1064</TIMEX3> nm), the use of picosecond pulses does not <EVENT eid="e15" class="I_STATE">provide</EVENT> better clearance than nanosecond pulses. However, pain is less severe when <EVENT eid="e16" class="OCCURRENCE">using</EVENT> a PSL.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+</TimeML>

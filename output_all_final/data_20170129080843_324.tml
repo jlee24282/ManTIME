@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198829540</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Tax dept leans on Big Data to mark out multiple PAN holders</TITLE>
+
+
+<TEXT>
+New Delhi: To <EVENT eid="e1" class="OCCURRENCE">plug</EVENT> tax loopholes, the I-T department will <EVENT eid="e2" class="OCCURRENCE">use</EVENT> Big Data analytics to <EVENT eid="e3" class="OCCURRENCE">track</EVENT> down evaders by <EVENT eid="e4" class="OCCURRENCE">collecting</EVENT> information such as common address, mobile number and e-mail to <EVENT eid="e5" class="OCCURRENCE">establish</EVENT> relationship between their multiple PANs. 
+ 
+The department, with support from private firms, will <EVENT eid="e6" class="OCCURRENCE">analyse</EVENT> the voluminous data available post demonetisation for checking relationships between PAN holders. The Managed Service Provider (MSP), which the I-T department <EVENT eid="e7" class="I_STATE">plans</EVENT> to <EVENT eid="e8" class="OCCURRENCE">hire</EVENT>, will <EVENT eid="e9" class="OCCURRENCE">design</EVENT> and <EVENT eid="e10" class="OCCURRENCE">operationalise</EVENT> analytical solution that will <EVENT eid="e11" class="OCCURRENCE">help collating</EVENT> data, <EVENT eid="e12" class="OCCURRENCE">matching</EVENT> it and <EVENT eid="e13" class="OCCURRENCE">identifying</EVENT> relationships as well as clustering of PAN and non-PAN data, an official <EVENT eid="e14" class="REPORTING">said</EVENT>. 
+ 
+The analytical solution would <EVENT eid="e15" class="I_ACTION">help</EVENT> the department gather data received from banks, post offices and other sources for <EVENT eid="e16" class="OCCURRENCE">linking</EVENT> of information and identification of duplicate details. 
+ 
+It will also <EVENT eid="e17" class="OCCURRENCE">identify</EVENT> records with errors or other defects for resubmission. "The data quality errors and defects will be communicated to the reporting person or entities, <EVENT eid="e18" class="REPORTING">say</EVENT>, banks or post offices for correction and improving data quality," the official <EVENT eid="e19" class="REPORTING">added</EVENT>. 
+ 
+The data integration and matching of the PAN based demonetisation information with that of I-T databases such as tax <EVENT eid="e20" class="OCCURRENCE">returns</EVENT>, TDS, third-party reporting, tax payments, would be <EVENT eid="e21" class="OCCURRENCE">used</EVENT> to <EVENT eid="e22" class="OCCURRENCE">build</EVENT> a comprehensive profile for the taxpayer. 
+ 
+It will <EVENT eid="e23" class="I_ACTION">help identify</EVENT> link between PAN holders on the basis of relationships (business association, asset and transactional association) available in various databases, the official <EVENT eid="e24" class="REPORTING">said</EVENT>, adding that the analytics will do clustering of PAN-linked demonetised data using identified relationships as well as common address, mobile number, e-mail and bank branch. 
+ 
+Also, it will <EVENT eid="e25" class="OCCURRENCE">cluster</EVENT> non-PAN demonetised data <EVENT eid="e26" class="OCCURRENCE">using</EVENT> common name, address, mobile number, e-mail and bank branch. Taxpayer segmentation on the basis of taxpayers' status, type of ITR form <EVENT eid="e27" class="OCCURRENCE">used</EVENT>, nature of business, taxpayer segment, age of the individual and compliance history will also have to be <EVENT eid="e28" class="OCCURRENCE">prepared</EVENT>. 
+ 
+It will <EVENT eid="e29" class="OCCURRENCE">prioritise</EVENT> demonetisation data based on taxpayer segment, relationships, clusters, rules and risk matrix. "Different types of interventions (send e-mail, SMS, outbound call, letter, notice, verification, investigation) can be <EVENT eid="e30" class="OCCURRENCE">selected</EVENT> for taxpayer priority and segment," the official <EVENT eid="e31" class="REPORTING">added</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie22" relatedToEventInstance="ie21" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="AFTER" />
+</TimeML>

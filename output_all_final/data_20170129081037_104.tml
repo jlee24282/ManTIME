@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202908220</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Volunteer loving her time in India</TITLE>
+
+
+<TEXT>
+FARNHAM resident Diane Vasey is <EVENT eid="e1" class="OCCURRENCE">enjoying</EVENT> her new home for <TIMEX3 tid="t1" type="DURATION" value="P4M">the next four months</TIMEX3>, as she <EVENT eid="e2" class="OCCURRENCE">puts</EVENT> herself forward as a volunteer in India, with WAGGGS, the World Association of Girl Guides and Girl Scouts. 
+ 
+The association <EVENT eid="e3" class="OCCURRENCE">supports</EVENT> girls and young women to <EVENT eid="e4" class="OCCURRENCE">develop</EVENT> their full potential as leaders and active citizens of the world. 
+ 
+Diane <EVENT eid="e5" class="OCCURRENCE">arrived</EVENT> at the Sangam World Centre in Pune, India (one of the movements five world centres) on <TIMEX3 tid="t2" type="DATE" value="2017-12-29">December 29</TIMEX3>, for a <TIMEX3 tid="t3" type="DURATION" value="P4M">four-month</TIMEX3> <EVENT eid="e6" class="OCCURRENCE">internship</EVENT> as guest services, which <EVENT eid="e7" class="OCCURRENCE">links</EVENT> in nicely with her role at the Mercure Bush Hotel in Farnham, where she has <EVENT eid="e8" class="OCCURRENCE">worked</EVENT> for the <TIMEX3 tid="t4" type="DATE" value="PAST_REF">past 28 years</TIMEX3>, as sales and administration manager. 
+ 
+The centre provides a unique and cultural experience for all those who <EVENT eid="e9" class="I_STATE">choose</EVENT> to <EVENT eid="e10" class="OCCURRENCE">volunteer</EVENT> with them  programmes include international events, <EVENT eid="e11" class="OCCURRENCE">volunteering</EVENT> at Sangam and <EVENT eid="e12" class="OCCURRENCE">volunteering</EVENT> in the community. 
+ 
+My background in guiding is that I have <EVENT eid="e13" class="STATE">been</EVENT> in the movement for <TIMEX3 tid="t5" type="DURATION" value="P50Y">50 years</TIMEX3>. At <TIMEX3 tid="t6" type="DATE" value="X">present</TIMEX3> I am assistant guider to my daughter Rachel, who <EVENT eid="e14" class="STATE">is</EVENT> the leader of Rowledge Guides and Rainbows, <EVENT eid="e15" class="REPORTING">said</EVENT> Diane. 
+ 
+This is my third visit to Sangam World Centre, the first visit was back in <TIMEX3 tid="t7" type="DATE" value="2011">2011</TIMEX3> when I <EVENT eid="e16" class="OCCURRENCE">fell</EVENT> in love with both India and the people. 
+ 
+Then I was a tare (star in Hindi) and <EVENT eid="e17" class="OCCURRENCE">worked</EVENT> for <TIMEX3 tid="t8" type="DURATION" value="P3M">three months</TIMEX3> in a creche on a building site  just one of the projects Sangam support in the city of Pune. 
+ 
+This time my work is slightly different I am <EVENT eid="e18" class="OCCURRENCE">assisting</EVENT> in the reception services, <EVENT eid="e19" class="OCCURRENCE">taking</EVENT> familiarisation trips around Pune, <EVENT eid="e20" class="OCCURRENCE">delivering</EVENT> sessions to girl guides <EVENT eid="e21" class="OCCURRENCE">staying</EVENT> with us from all corners of the world. 
+ 
+If anyone is thinking of volunteering with WAGGS, I would really <EVENT eid="e22" class="OCCURRENCE">recommend</EVENT> it  age is no barrier, Im <TIMEX3 tid="t9" type="DURATION" value="P62Y">62 years</TIMEX3> young. 
+ Add Comment
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" timeID="t8" relatedToEventInstance="ie17" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t3" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t4" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie20" relatedToEventInstance="ie19" relType="SIMULTANEOUS" />
+</TimeML>

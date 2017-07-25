@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204368214</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Connections yet to decide on next step for Group I winner Thee Auld Floozie</TITLE>
+
+
+<TEXT>
+Rosie Myers <EVENT eid="e1" class="STATE">punches</EVENT> the air in celebration as Thee Auld Floozie claims Group I success in the Thorndon Mile. 
+   
+Thee Auld Floozie's first Group I victory could <EVENT eid="e2" class="OCCURRENCE">earn</EVENT> her a anotherstart in the top flight or a well <EVENT eid="e3" class="OCCURRENCE">deserved</EVENT> break. 
+ 
+More <TIMEX3 tid="t1" type="DURATION" value="PT24H">than 24 hours</TIMEX3> after her scorching <EVENT eid="e4" class="OCCURRENCE">win</EVENT> in <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>'s Thorndon Mile at Trentham, Cambridge trainer Stephen Marsh <EVENT eid="e5" class="OCCURRENCE">remainedundecided</EVENT> on what her next step will be. 
+ 
+A five-year-old daughter of Mastercraftsman, Thee Auld Floozie <EVENT eid="e6" class="OCCURRENCE">holds</EVENT> a nomination for the $400,000 Group I Herbie Dyke Stakes (2000m) at Te Rapa but there is no <EVENT eid="e7" class="OCCURRENCE">decision</EVENT> on whether she will <EVENT eid="e8" class="OCCURRENCE">take</EVENT> her spot at this stage. 
+ 
+"I'm still <EVENT eid="e9" class="STATE">thinking</EVENT> about the Herbie Dyke, there's 400,000 reasons to be there, but I'm not sure," Marsh <EVENT eid="e10" class="REPORTING">said</EVENT>. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"I'm <EVENT eid="e11" class="I_STATE">considering sending</EVENT> her for a break, we'll <EVENT eid="e12" class="PERCEPTION">see</EVENT> in <TIMEX3 tid="t3" type="DATE" value="X">the</TIMEX3> next <TIMEX3 tid="t4" type="DURATION" value="PXD">few days</TIMEX3>." 
+ 
+The Group I scalp is a huge feather in the cap of part owners John and Sue Young, who <EVENT eid="e13" class="OCCURRENCE">bred</EVENT> Thee Auld Floozieout of their good race mare Thee Auld Hussie. 
+ 
+Rosie Myers <EVENT eid="e14" class="OCCURRENCE">gave</EVENT> Thee Auld Floozie a perfect trip onthe rail before she <EVENT eid="e15" class="OCCURRENCE">hit</EVENT> the go button and <EVENT eid="e16" class="OCCURRENCE">let</EVENT> the mare's explosive turn of foot <EVENT eid="e17" class="I_ACTION">finish</EVENT> the job off. 
+ 
+Thee Auld Floozie <EVENT eid="e18" class="OCCURRENCE">beat</EVENT> home Prince Of Passion by a length and a half with the same margin back to Abidewithme in third. 
+ 
+Marsh <EVENT eid="e19" class="OCCURRENCE">started</EVENT> four runners in the race with Serious Satire finishing fifth and Seize The Moment (11th) and Ruud Not Too (14th) <EVENT eid="e20" class="OCCURRENCE">finishing</EVENT> back in the field. 
+ 
+In the other feature at Trentham, a potential New Zealand Oaks contender was <EVENT eid="e21" class="OCCURRENCE">unveiled</EVENT> when the Murray Baker and Andrew Forsman-trained Nicoletta <EVENT eid="e22" class="OCCURRENCE">scored</EVENT> a short head victory in the Group III Desert Gold Stakes. 
+ 
+Nicoletta <EVENT eid="e23" class="I_ACTION">beat</EVENT> home Devise with another Baker-Forsmanrunner Bonneval a further one and a half lengths back in third. 
+ 
+
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie14" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="BEFORE" />
+</TimeML>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200764205</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Colorado ends No. 10 Oregon's streak at 17</TITLE>
+
+
+<TEXT>
+BOULDER, Colo.  Derrick White <EVENT eid="e1" class="OCCURRENCE">scored</EVENT> 17 of his 23 points in the <TIMEX3 tid="t1" type="DATE" value="X">second half</TIMEX3>, <EVENT eid="e2" class="OCCURRENCE">keying</EVENT> Colorados 74-65 upset of No. 10 Oregon that <EVENT eid="e3" class="OCCURRENCE">snapped</EVENT> the Ducks 17-game <EVENT eid="e4" class="OCCURRENCE">winning</EVENT> streak on <TIMEX3 tid="t2" type="TIME" value="2017-01-28TNI">Saturday night</TIMEX3>. 
+ 
+Xavier Johnson <EVENT eid="e5" class="OCCURRENCE">added</EVENT> 13 points as the Buffaloes (12-10, 2-7 Pac-12) <EVENT eid="e6" class="OCCURRENCE">kept</EVENT> the Ducks winless in seven trips all-time in Boulder. 
+ 
+Payton Pritchards 19 points <EVENT eid="e7" class="OCCURRENCE">led</EVENT> the Ducks (19-3, 8-1), who <EVENT eid="e8" class="OCCURRENCE">lost</EVENT> for the first time since <TIMEX3 tid="t3" type="DATE" value="2017-11-21">Nov. 21</TIMEX3> against Georgetown. The loss <EVENT eid="e9" class="OCCURRENCE">dropped</EVENT> Oregon a game behind No. 7 Arizona in the Pac-12 standings. The Wildcats host Washington on <TIMEX3 tid="t4" type="TIME" value="2017-01-29TAF">Sunday afternoon</TIMEX3>. 
+ 
+White had a pair of 3-pointers early in the second half that <EVENT eid="e10" class="OCCURRENCE">put</EVENT> the Buffaloes ahead 45-39 while Colorados stifling defense was <EVENT eid="e11" class="OCCURRENCE">keeping</EVENT> the Ducks out of rhythm at the other end of the court. And he had a 3-pointer, a three-point play and two free <EVENT eid="e12" class="REPORTING">throws</EVENT> in an 11-1 run that <EVENT eid="e13" class="OCCURRENCE">gave</EVENT> Colorado a 64-52 lead. 
+ 
+The Buffs are just the third team to top 70 points against the Oregon this season. 
+ 
+The Ducks <EVENT eid="e14" class="OCCURRENCE">trailed</EVENT> 35-34 at halftime, just the fourth time theyve <EVENT eid="e15" class="OCCURRENCE">trailed</EVENT> at the break this season. All the other times <EVENT eid="e16" class="OCCURRENCE">came</EVENT> back in <TIMEX3 tid="t5" type="DATE" value="2017-11">November</TIMEX3>, in losses to Baylor and Georgetown and in an overtime win against Boise State. 
+ 
+BIG PICTURE 
+ 
+Oregon: Unable to <EVENT eid="e17" class="OCCURRENCE">shake</EVENT> off their dry spells, the Ducks <EVENT eid="e18" class="I_STATE">failed</EVENT> to <EVENT eid="e19" class="OCCURRENCE">close</EVENT> out a perfect <TIMEX3 tid="t6" type="DATE" value="2017-01">January</TIMEX3> to <EVENT eid="e20" class="OCCURRENCE">go</EVENT> with their perfect <TIMEX3 tid="t7" type="DATE" value="2017-12">December</TIMEX3> and in doing so probably <EVENT eid="e21" class="OCCURRENCE">blew</EVENT> a chance to <EVENT eid="e22" class="OCCURRENCE">rise</EVENT> in the rankings. 
+ 
+Colorado: After <EVENT eid="e23" class="OCCURRENCE">snapping</EVENT> their seven-game <EVENT eid="e24" class="OCCURRENCE">skid</EVENT>  their <EVENT eid="e25" class="OCCURRENCE">longest</EVENT> of the Tad Boyle era  with an 85-78 win over Oregon State, the Buffs <EVENT eid="e26" class="OCCURRENCE">played</EVENT> an inspired game that <EVENT eid="e27" class="OCCURRENCE">left</EVENT> the Pac-12 with just one unbeaten team in league play: Arizona. 
+ 
+UP NEXT 
+ 
+The Ducks <EVENT eid="e28" class="OCCURRENCE">return</EVENT> home to Matthew Knight Arena, where theyve won a school-record 38 consecutive games  second-longest in the nation to Kansas 50-game streak  and will <EVENT eid="e29" class="OCCURRENCE">host</EVENT> Arizona State on <TIMEX3 tid="t8" type="TIME" value="2017-01-26TNI">Thursday night</TIMEX3>. 
+ 
+The Buffaloes visit Stanford on <TIMEX3 tid="t9" type="DATE" value="2017-01-26">Thursday</TIMEX3> night <EVENT eid="e30" class="I_ACTION">seeking</EVENT> to <EVENT eid="e31" class="OCCURRENCE">snap</EVENT> a five-game road losing streak since their last <EVENT eid="e32" class="OCCURRENCE">win</EVENT> away from home, on <TIMEX3 tid="t10" type="DATE" value="2017-12-19">Dec. 19</TIMEX3> at Air Force.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t6" relatedToEventInstance="ie19" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t7" relatedToEventInstance="ie21" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie26" relatedToEventInstance="ie27" relType="AFTER" />
+<TLINK lid="TL10" timeID="t5" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t9" relatedToEventInstance="ie30" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie24" relatedToEventInstance="ie23" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" timeID="t9" relatedToEventInstance="ie32" relType="BEFORE" />
+</TimeML>

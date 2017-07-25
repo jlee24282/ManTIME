@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195268140</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>14,000 miles and counting</TITLE>
+
+
+<TEXT>
+Gaynell Tucker leads family and friends around Mount Berry Mall on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <EVENT eid="e1" class="OCCURRENCE">hitting</EVENT> the 14,000 mile mark in her <TIMEX3 tid="t2" type="DURATION" value="P22Y">22-year</TIMEX3> <EVENT eid="e2" class="I_ACTION">effort</EVENT> to control diabetes. Her husband, Max Tucker, is right behind her along with all four of their adult children.(Doug Walker, RN-T) 
+
+<EVENT eid="e3" class="OCCURRENCE">Posted</EVENT>: <TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2017-01-29">January 29</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2017">2017</TIMEX3> 1:22 am |   Updated: 1:23 am, <TIMEX3 tid="t6" type="DATE" value="X">Sun</TIMEX3> Jan <TIMEX3 tid="t7" type="DATE" value="2017">29, 2017</TIMEX3>. 
+
+ 
+
+Print 
+
+Posted in Local on  <TIMEX3 tid="t8" type="DATE" value="2017-01-29">Sunday</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3> 1:22 am. Updated: 1:23 am. 
+
+Click the button to <EVENT eid="e4" class="OCCURRENCE">access</EVENT> a local calendar <EVENT eid="e5" class="OCCURRENCE">offered</EVENT> in partnership with VenueDog and the Rome News-Tribune 
+
+A <TIMEX3 tid="t10" type="DURATION" value="P2D">two-day</TIMEX3> manhunt in Catoosa County for Wesley Gage Weldon <EVENT eid="e6" class="OCCURRENCE">ended</EVENT> <TIMEX3 tid="t11" type="DATE" value="2017-01-26">Thursday</TIMEX3> night, <TIMEX3 tid="t12" type="DATE" value="2017-01-26">Jan. 26</TIMEX3>, wh 
+
+Wesley Gage Weldon, Catoosa County, Manhunt
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t9" relatedToTime="t8" relType="IDENTITY" />
+<TLINK lid="TL2" timeID="t8" relatedToTime="t9" relType="IDENTITY" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t3" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie2" relType="DURING" />
+<TLINK lid="TL8" timeID="t11" relatedToTime="t12" relType="IDENTITY" />
+</TimeML>

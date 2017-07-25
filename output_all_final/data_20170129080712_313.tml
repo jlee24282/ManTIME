@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195387393</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Pigs and chocolate: Using math to solve problems in farming</TITLE>
+
+
+<TEXT>
+Improving cocoa yields for the chocolate industry, <EVENT eid="e1" class="I_ACTION">estimating</EVENT> the quality of meat in pigs and <EVENT eid="e2" class="OCCURRENCE">refining</EVENT> the design of a hydroponics system, were three farming challenges <EVENT eid="e3" class="OCCURRENCE">tackled</EVENT> by academics at a recent workshop <EVENT eid="e4" class="OCCURRENCE">hosted</EVENT> by the University of Bath's Institute for Mathematical Innovation (IMI). 
+ 
+The Agri-Food Study Group <EVENT eid="e5" class="OCCURRENCE">brought</EVENT> together over 40 mathematicians, engineers and computer scientists to <EVENT eid="e6" class="OCCURRENCE">work</EVENT> on challenges <EVENT eid="e7" class="OCCURRENCE">presented</EVENT> by representatives from the Agri-Food sector over the <TIMEX3 tid="t1" type="DATE" value="X">course</TIMEX3> of <TIMEX3 tid="t2" type="DURATION" value="P3D">three days</TIMEX3>. The Study Group, which <EVENT eid="e8" class="OCCURRENCE">ran</EVENT> from 16-18 <TIMEX3 tid="t3" type="DATE" value="2017-01">January 2017</TIMEX3>, was <EVENT eid="e9" class="OCCURRENCE">organised</EVENT> by the IMI and the Knowledge Transfer Network (KTN), and <EVENT eid="e10" class="OCCURRENCE">sponsored</EVENT> by Innovate UK. 
+ 
+Confectionary company Mondelez International, famous for brands such as Cadbury and Toblerone, <EVENT eid="e11" class="I_ACTION">asked</EVENT> delegates to <EVENT eid="e12" class="OCCURRENCE">come</EVENT> up with a technique to <EVENT eid="e13" class="OCCURRENCE">determine</EVENT> the minimum and maximum likely cocoa yields <EVENT eid="e14" class="OCCURRENCE">driven</EVENT> by climate variability of a particular region or country. 
+ 
+Cocoa yields can vary hugely from year <TIMEX3 tid="t4" type="DURATION" value="PXY">to year</TIMEX3> <EVENT eid="e15" class="OCCURRENCE">depending</EVENT> on climate conditions, <EVENT eid="e16" class="OCCURRENCE">meaning</EVENT> there is a large fluctuation in income for farmers, <EVENT eid="e17" class="OCCURRENCE">making</EVENT> investment in cocoa farming less attractive. 
+ 
+Being able to <EVENT eid="e18" class="OCCURRENCE">model</EVENT> the potential variation in yields would <EVENT eid="e19" class="OCCURRENCE">enable</EVENT> Mondelez to <EVENT eid="e20" class="I_ACTION">offer</EVENT> targeted advice to smallholder farmers on how to <EVENT eid="e21" class="OCCURRENCE">improve</EVENT> their yields, and <EVENT eid="e22" class="I_ACTION">help secure</EVENT> the <EVENT eid="e23" class="OCCURRENCE">development</EVENT> of sustainable farming communities. 
+ 
+Dr Eamon Haughy, Statistician and Data Analyst, Mondelez International, <EVENT eid="e24" class="REPORTING">said</EVENT>: "This workshop was a fantastic opportunity to <EVENT eid="e25" class="OCCURRENCE">engage</EVENT> with a diverse group of applied mathematicians. Participants got really <EVENT eid="e26" class="OCCURRENCE">involved</EVENT> with the problem <EVENT eid="e27" class="OCCURRENCE">presented</EVENT> and generated innovative ideas on how to <EVENT eid="e28" class="OCCURRENCE">deal</EVENT> with the effects of climate on cocoa yield variation. This work has the potential to <EVENT eid="e29" class="OCCURRENCE">make</EVENT> a real difference to the lives of cocoa farmers." 
+ 
+<EVENT eid="e30" class="I_ACTION">Modelling</EVENT> the "Full value pig" 
+Agricultural software developers Innovent Technology <EVENT eid="e31" class="OCCURRENCE">posed</EVENT> the challenge of <EVENT eid="e32" class="OCCURRENCE">developing</EVENT> a model for the "full value pig", the theoretical maximum value of a pig based on the weight of the animal and quality of its meat. 
+ 
+Abattoirs <EVENT eid="e33" class="STATE">pay</EVENT> farmers for meat depending on the dead weight and fat content of each animal, <EVENT eid="e34" class="OCCURRENCE">penalising</EVENT> farmers for animals that are too large, small or fat. Each abattoir has its own set of target values depending on where in the world the meat is to be <EVENT eid="e35" class="OCCURRENCE">sold</EVENT>. 
+ 
+Innovent therefore would like to <EVENT eid="e36" class="OCCURRENCE">develop</EVENT> a mathematical model that would <EVENT eid="e37" class="I_ACTION">allow</EVENT> a producer to <EVENT eid="e38" class="OCCURRENCE">identify</EVENT> which pigs would <EVENT eid="e39" class="OCCURRENCE">attain</EVENT> the best return on investment based on the abattoir contracts available, and to <EVENT eid="e40" class="I_ACTION">provide</EVENT> tailored information on how best to <EVENT eid="e41" class="OCCURRENCE">optimise</EVENT> their farming practises to <EVENT eid="e42" class="OCCURRENCE">achieve</EVENT> the "full value pig". 
+ 
+"<EVENT eid="e43" class="OCCURRENCE">Taking</EVENT> part in the study group was a really positive experience. I <EVENT eid="e44" class="REPORTING">found</EVENT> it a fun, fascinating process and it certainly has <EVENT eid="e45" class="OCCURRENCE">opened</EVENT> my eyes to the opportunities <EVENT eid="e46" class="OCCURRENCE">offered</EVENT> by <EVENT eid="e47" class="OCCURRENCE">applied</EVENT> mathematics to agriculture. Thanks to everyone for their hard <EVENT eid="e48" class="OCCURRENCE">work</EVENT>; hopefully we can <EVENT eid="e49" class="OCCURRENCE">find</EVENT> a way to <EVENT eid="e50" class="OCCURRENCE">continue</EVENT> this interaction in <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">the near future</TIMEX3>," <EVENT eid="e51" class="REPORTING">said</EVENT> Willie Thomson, Director, Innovent Technologies. 
+ 
+<EVENT eid="e52" class="STATE">Optimising</EVENT> hydroponic technology 
+With the world's population <EVENT eid="e53" class="OCCURRENCE">growing</EVENT> rapidly, humans <EVENT eid="e54" class="I_STATE">need</EVENT> to <EVENT eid="e55" class="OCCURRENCE">produce</EVENT> as much food in <TIMEX3 tid="t6" type="DURATION" value="P50Y">the next 50 years</TIMEX3> as has been <EVENT eid="e56" class="OCCURRENCE">grown</EVENT> in the <TIMEX3 tid="t7" type="DURATION" value="P10000Y">last 10,000 years</TIMEX3>. 
+ 
+A way of meeting this colossal <EVENT eid="e57" class="OCCURRENCE">increase</EVENT> in demand for food is by <EVENT eid="e58" class="OCCURRENCE">growing</EVENT> more crops using hydroponic methods, where plants grow in nutrient rich water instead of soil. Hydroponics increase crop yields and <EVENT eid="e59" class="OCCURRENCE">reduces</EVENT> the amount of space <EVENT eid="e60" class="OCCURRENCE">needed</EVENT> in food production, however the <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">current</TIMEX3> systems are bulky, costly, and difficult to scale up. 
+ 
+Phytoponics Ltd is <EVENT eid="e61" class="OCCURRENCE">developing</EVENT> a new system, <EVENT eid="e62" class="REPORTING">called</EVENT> the HydrosacTM, which is a flexible polythene grow bag that has <EVENT eid="e63" class="OCCURRENCE">inflated</EVENT> sides to <EVENT eid="e64" class="OCCURRENCE">keep</EVENT> it rigid. The inventors <EVENT eid="e65" class="REPORTING">anticipate</EVENT> their system will <EVENT eid="e66" class="OCCURRENCE">reduce</EVENT> the costs of hydroponics and <EVENT eid="e67" class="OCCURRENCE">make</EVENT> the technology easy to scale up. 
+ 
+Participants at the Study Group were <EVENT eid="e68" class="OCCURRENCE">tasked</EVENT> with <EVENT eid="e69" class="I_ACTION">optimising</EVENT> the dimensions and geometry of the HydrosacTM <EVENT eid="e70" class="OCCURRENCE">grow</EVENT> bag to <EVENT eid="e71" class="OCCURRENCE">improve</EVENT> the weight-carrying capacity so that heavier crops may be <EVENT eid="e72" class="OCCURRENCE">grown</EVENT> without the need for twine support, whilst <EVENT eid="e73" class="OCCURRENCE">maximising</EVENT> the growing surface of the platform, which will reduce costs. 
+ 
+Adam Dixon, CEO, Phytoponics, <EVENT eid="e74" class="REPORTING">said</EVENT>: "The mathematicians immediately <EVENT eid="e75" class="OCCURRENCE">gained</EVENT> a full appreciation of our problem; it was a real pleasure <EVENT eid="e76" class="ASPECTUAL">seeing</EVENT> their minds at work. After the Agri-Food Study Group we really feel we have a thorough understanding of the equations describing our product and are <EVENT eid="e77" class="OCCURRENCE">incorporating</EVENT> them into our design." 
+ 
+Building new industrial partnerships 
+Manager of the IMI, Dr Joanna Jordan, <EVENT eid="e78" class="REPORTING">said</EVENT>: "Study Groups are an ideal catalyst for <EVENT eid="e79" class="OCCURRENCE">bringing</EVENT> together universities and companies in mutually-beneficial collaborations. They <EVENT eid="e80" class="I_STATE">provide</EVENT> an easy way for industry to <EVENT eid="e81" class="OCCURRENCE">gain</EVENT> access to UK excellence in the fields of mathematics, statistics, engineering and computer science. 
+ 
+"It's been a pleasure to <EVENT eid="e82" class="OCCURRENCE">work</EVENT> with the KTN in <EVENT eid="e83" class="OCCURRENCE">hosting</EVENT> the Study Group in Bath <TIMEX3 tid="t9" type="DATE" value="2017-W05">this week</TIMEX3> to <EVENT eid="e84" class="OCCURRENCE">enable</EVENT> the <EVENT eid="e85" class="OCCURRENCE">exploration</EVENT> of innovative approaches to real problems within the Agri-Food sector. We <EVENT eid="e86" class="I_STATE">anticipate</EVENT> the collaborations we've initiated will <EVENT eid="e87" class="OCCURRENCE">lead</EVENT> to many fruitful partnerships. We'd be delighted to <EVENT eid="e88" class="OCCURRENCE">hear</EVENT> from companies interested in <EVENT eid="e89" class="OCCURRENCE">participating</EVENT> in similar events in <TIMEX3 tid="t10" type="DATE" value="X">the</TIMEX3> future."
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie86" eventID="e86" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie87" eventID="e87" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie84" eventID="e84" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie85" eventID="e85" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie82" eventID="e82" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie83" eventID="e83" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie80" eventID="e80" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie81" eventID="e81" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie88" eventID="e88" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie89" eventID="e89" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie79" eventID="e79" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie78" eventID="e78" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie73" eventID="e73" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie72" eventID="e72" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie71" eventID="e71" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie70" eventID="e70" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie77" eventID="e77" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie76" eventID="e76" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie75" eventID="e75" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie74" eventID="e74" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie68" eventID="e68" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie69" eventID="e69" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie60" eventID="e60" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie61" eventID="e61" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie62" eventID="e62" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie63" eventID="e63" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie64" eventID="e64" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie65" eventID="e65" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie66" eventID="e66" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie67" eventID="e67" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie59" eventID="e59" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie58" eventID="e58" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie55" eventID="e55" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie54" eventID="e54" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie57" eventID="e57" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie56" eventID="e56" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie51" eventID="e51" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie50" eventID="e50" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie53" eventID="e53" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie52" eventID="e52" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie43" eventID="e43" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie46" eventID="e46" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie47" eventID="e47" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie44" eventID="e44" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie45" eventID="e45" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie48" eventID="e48" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie49" eventID="e49" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="MUST" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie88" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" eventInstanceID="ie56" relatedToTime="t6" relType="DURING" />
+<TLINK lid="TL6" eventInstanceID="ie57" relatedToEventInstance="ie58" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie54" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie63" relatedToEventInstance="ie64" relType="AFTER" />
+<TLINK lid="TL9" eventInstanceID="ie49" relatedToEventInstance="ie50" relType="INCLUDES" />
+<TLINK lid="TL8" eventInstanceID="ie47" relatedToEventInstance="ie46" relType="SIMULTANEOUS" />
+<TLINK lid="TL13" timeID="t5" relatedToEventInstance="ie50" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t4" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t7" relatedToEventInstance="ie56" relType="INCLUDES" />
+<TLINK lid="TL10" eventInstanceID="ie37" relatedToEventInstance="ie38" relType="INCLUDES" />
+</TimeML>

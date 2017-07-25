@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194368893</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Science for more food</TITLE>
+
+
+<TEXT>
+President Donald Trump and British Prime Minister Theresa May didnt hold the only <EVENT eid="e1" class="OCCURRENCE">meeting</EVENT> between representatives of the two nations <TIMEX3 tid="t1" type="DATE" value="2017-01">this month</TIMEX3>. A group of British scientists <EVENT eid="e2" class="OCCURRENCE">came</EVENT> to the University of Arizona Maricopa Agricultural Center to <EVENT eid="e3" class="OCCURRENCE">share</EVENT> ideas and techniques in a field called phenomics, <EVENT eid="e4" class="OCCURRENCE">studying</EVENT> how an organisms traits <EVENT eid="e5" class="OCCURRENCE">change</EVENT> due to environment. 
+ 
+Their goal is basically to modify plants so that crops can have higher yields to <EVENT eid="e6" class="OCCURRENCE">feed</EVENT> a growing world population. Contrary to the extreme view that modification of plants is harmful, the scientists are doing that to <EVENT eid="e7" class="OCCURRENCE">make</EVENT> things better. 
+ 
+The MAC site was a great place to <EVENT eid="e8" class="OCCURRENCE">meet</EVENT> because it <EVENT eid="e9" class="STATE">has</EVENT> a robot that scans crops to <EVENT eid="e10" class="OCCURRENCE">obtain</EVENT> phenotype data in a fraction of the time that was <EVENT eid="e11" class="OCCURRENCE">required</EVENT> for scientists to <EVENT eid="e12" class="OCCURRENCE">walk</EVENT> through fields and do it by hand. That <EVENT eid="e13" class="OCCURRENCE">allows</EVENT> conclusions that can be <EVENT eid="e14" class="OCCURRENCE">used</EVENT> much more rapidly. The British and UA scientists were <EVENT eid="e15" class="OCCURRENCE">joined</EVENT> by representatives of the U.S. Agriculture and Energy departments. 
+ 
+The world needs such cooperative efforts, and Maricopa was a fine place to <EVENT eid="e16" class="OCCURRENCE">pursue</EVENT> that.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie14" relatedToEventInstance="ie13" relType="INCLUDES" />
+</TimeML>

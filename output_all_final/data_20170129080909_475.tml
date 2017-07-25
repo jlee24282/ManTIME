@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200181812</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Charles Clark, 69</TITLE>
+
+
+<TEXT>
+TYRINGHAM, Mass.  Charles W. "Chuck" Clark, 69, of Tyringham <EVENT eid="e1" class="OCCURRENCE">died</EVENT> <TIMEX3 tid="t1" type="TIME" value="2017-01-27TMO">Friday morning</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-27">January 27, 2017</TIMEX3>, at Springside Nursing Home in Pittsfield. 
+ 
+
+Chuck was <EVENT eid="e2" class="OCCURRENCE">born</EVENT> on <TIMEX3 tid="t3" type="DATE" value="1947-08-27">August 27, 1947</TIMEX3>, in Pittsfield, the son of Wilbur and Josephine "Irma" Laurenti Clark Jr. He <EVENT eid="e3" class="STATE">was</EVENT> a <TIMEX3 tid="t4" type="DATE" value="1965">1965</TIMEX3> graduate of Lee High School. 
+ 
+
+After graduating he <EVENT eid="e4" class="OCCURRENCE">worked</EVENT> for the Peter J. Schweitzer Paper Mill in Lee and <EVENT eid="e5" class="OCCURRENCE">retired</EVENT> in <TIMEX3 tid="t5" type="DATE" value="2006">2006</TIMEX3>. He was a coach and president for the Lee Little League as well as a coach for the Lee Youth Soccer. He <EVENT eid="e6" class="I_STATE">enjoyed</EVENT> attending car <EVENT eid="e7" class="OCCURRENCE">shows</EVENT> with his custom car, walks with his dog, "Bear," and <EVENT eid="e8" class="I_ACTION">attending</EVENT> all Lee High Sporting events, especially the girls basketball. 
+ 
+
+Chuck is <EVENT eid="e9" class="OCCURRENCE">survived</EVENT> by his wife, the former Marion "Terry" Briggs, whom he <EVENT eid="e10" class="OCCURRENCE">married</EVENT> on <TIMEX3 tid="t6" type="DATE" value="1967-08-05">August 5, 1967</TIMEX3>; three sons, David Clark and his wife Shannon of Tyringham, Jon Clark of Tyringham and Kevin Clark and his companion Sarah of Otis; one brother, Gerald Clark and his wife Melody of Marietta, Ga.; one sister, Kerry Clark Sullivan and her husband Michael of Pittsfield, Mass.; and his five grandchildren, Kayden, Jacob, Zachary, Charlie and Exra. 
+ 
+
+Funeral notice: Funeral services for Chuck Clark will be on <TIMEX3 tid="t7" type="DATE" value="2017-01-25">Wednesday</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="2017-02-01">February 1, 2017</TIMEX3>, at <TIMEX3 tid="t9" type="TIME" value="2017-01-29T11:00">11 a.m.</TIMEX3> at the Tyringham Union Church, in Tyringham, with the Rev. Janet McKinstry, pastor, <EVENT eid="e11" class="OCCURRENCE">officiating</EVENT>. <EVENT eid="e12" class="OCCURRENCE">Visiting</EVENT> hours will be <TIMEX3 tid="t10" type="TIME" value="2017-01-24TEV">Tuesday evening</TIMEX3>, <TIMEX3 tid="t11" type="DATE" value="2017-01-31">January 31, 2017</TIMEX3>, from 4 to <TIMEX3 tid="t12" type="DATE" value="X">7</TIMEX3> p.m. at the Kelly Funeral Home in Lee. 
+ 
+
+Burial will be at the Tyringham Cemetery in the <TIMEX3 tid="t13" type="DATE" value="2017-SP">Spring</TIMEX3>. Friends wishing may donations in his memory to Berkshire County ARC or the Alzheimers Association in c/o the Kelly Funeral Home, 3 Main Street, Lee, MA
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t6" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t2" relType="ENDED_BY" />
+</TimeML>

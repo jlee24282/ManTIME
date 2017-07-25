@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204328534</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>City officials train for regulatory updates</TITLE>
+
+
+<TEXT>
+ACUA, Coah.  Enrique Mier Campos, General Director of Competitiveness of the Economic Development Department, <EVENT eid="e1" class="REPORTING">presented</EVENT> a training workshop at the Canacintra hall, which was <EVENT eid="e2" class="OCCURRENCE">attended</EVENT> by holders and representatives of municipal agencies headed by the City Secretary Felipe Basulto Corona. 
+
+The workshop <EVENT eid="e3" class="OCCURRENCE">featured</EVENT> terms and documents to be in compliance with the agreement <EVENT eid="e4" class="OCCURRENCE">made</EVENT> on <TIMEX3 tid="t1" type="DATE" value="2017-01-16">January 16, 2017</TIMEX3> between the municipal administration of Acua and the Government of the State of Coahuila, regarding the Regulatory Improvement and Procedures Simplification.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>
