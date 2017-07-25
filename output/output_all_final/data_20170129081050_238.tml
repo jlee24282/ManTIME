@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203448372</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Dad wont put mom with dementia in a care facility</TITLE>
+
+
+<TEXT>
+Q: My parents are in their 80s. They have always had a loving relationship. Mom <EVENT eid="e1" class="STATE">has</EVENT> dementia and dad is her caregiver. He is <EVENT eid="e2" class="OCCURRENCE">refusing</EVENT> to <EVENT eid="e3" class="OCCURRENCE">put</EVENT> her into a home and his health is <EVENT eid="e4" class="OCCURRENCE">taking</EVENT> a turn. He has been able to <EVENT eid="e5" class="OCCURRENCE">take</EVENT> care of her to this point, but <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> it just is too much. How do I <EVENT eid="e6" class="I_STATE">get</EVENT> him to <EVENT eid="e7" class="OCCURRENCE">let go</EVENT>? 
+ 
+A: You are probably <EVENT eid="e8" class="OCCURRENCE">speaking</EVENT> of a long-standing marriage, likely of <TIMEX3 tid="t2" type="DURATION" value="P50Y">more than 50 years</TIMEX3> and your father is being a good husband to his wife. The thought of <EVENT eid="e9" class="OCCURRENCE">losing</EVENT> her or <EVENT eid="e10" class="OCCURRENCE">seeing</EVENT> deterioration in her care is so far a greater burden than being her caregiver. 
+ 
+At the same time, you are <EVENT eid="e11" class="I_ACTION">trying</EVENT> to be a supportive daughter with due concern for the well being of your father. These are challenging times and altogether too common. 
+ 
+From your father's perspective, his care for your mother may be well worth the sacrifice of his own well being, even if unbearable for yourself. While you can't necessarily <EVENT eid="e12" class="OCCURRENCE">get</EVENT> him to <EVENT eid="e13" class="OCCURRENCE">do</EVENT> anything, you may be <EVENT eid="e14" class="I_STATE">able</EVENT> to <EVENT eid="e15" class="OCCURRENCE">influence</EVENT> him with regard to his decisions. 
+ 
+Influencing starts with empathy. However, rather than <EVENT eid="e16" class="OCCURRENCE">empathizing</EVENT> about the difficulties in <EVENT eid="e17" class="OCCURRENCE">caring</EVENT> for his wife, you can <EVENT eid="e18" class="OCCURRENCE">empathize</EVENT> with him in <EVENT eid="e19" class="OCCURRENCE">losing</EVENT> her to this dreaded disease. You can also <EVENT eid="e20" class="OCCURRENCE">marvel</EVENT> at and <EVENT eid="e21" class="OCCURRENCE">appreciate</EVENT> his devotion to your mother. 
+ 
+In <EVENT eid="e22" class="OCCURRENCE">establishing</EVENT> an empathetic relationship, then you can <EVENT eid="e23" class="OCCURRENCE">discuss</EVENT> care options that could be <EVENT eid="e24" class="STATE">consistent</EVENT> with his <EVENT eid="e25" class="OCCURRENCE">love</EVENT> for your mother and consistent with his expectations of her care. You can <EVENT eid="e26" class="OCCURRENCE">research</EVENT> and <EVENT eid="e27" class="OCCURRENCE">introduce</EVENT> your father to the various care options so he is well informed. The strategy is to <EVENT eid="e28" class="I_ACTION">help</EVENT> him <EVENT eid="e29" class="OCCURRENCE">improve</EVENT> her care without necessarily <EVENT eid="e30" class="OCCURRENCE">replacing</EVENT> him. 
+ 
+Care options may include home-care, respite care or <EVENT eid="e31" class="OCCURRENCE">placement</EVENT> in a care facility. Your father will <EVENT eid="e32" class="I_STATE">need</EVENT> to <EVENT eid="e33" class="OCCURRENCE">know</EVENT> the details of each and every option and how that <EVENT eid="e34" class="OCCURRENCE">enhances</EVENT> your mother's life and what role he can play in their ongoing relationship. He <EVENT eid="e35" class="STATE">feels</EVENT> responsible for her well being and <EVENT eid="e36" class="I_STATE">needs</EVENT> to <EVENT eid="e37" class="OCCURRENCE">feel</EVENT> useful to her. 
+ 
+With whichever option he may <EVENT eid="e38" class="OCCURRENCE">choose</EVENT>, he will <EVENT eid="e39" class="I_STATE">need</EVENT> to be front and <EVENT eid="e40" class="OCCURRENCE">centre</EVENT> in terms of <EVENT eid="e41" class="OCCURRENCE">viewing</EVENT> the service delivery until such time as he <EVENT eid="e42" class="OCCURRENCE">gains</EVENT> confidence in the standard of care. 
+ 
+Your local Alzheimer Society and local CCAC (Community Care Access Centre) will be among your best resources at this time.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie26" relatedToEventInstance="ie27" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie39" relatedToEventInstance="ie38" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie12" relatedToEventInstance="ie14" relType="BEFORE" />
+<TLINK lid="TL7" eventInstanceID="ie8" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie17" relatedToEventInstance="ie19" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="AFTER" />
+</TimeML>

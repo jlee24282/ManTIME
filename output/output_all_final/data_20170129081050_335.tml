@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203522242</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>.com | Mugabe flies in, flies out as weighty matters await him in Ethiopia  News24</TITLE>
+
+
+<TEXT>
+A Zimbabwean man reportedly <EVENT eid="e1" class="OCCURRENCE">killed</EVENT> his wife with a pestle after <EVENT eid="e2" class="OCCURRENCE">suspecting</EVENT> her of cheating. The wife <EVENT eid="e3" class="OCCURRENCE">died</EVENT> after <EVENT eid="e4" class="OCCURRENCE">sustaining</EVENT> three deep cuts on her head. Start the conversation, or <EVENT eid="e5" class="OCCURRENCE">Read</EVENT> more at News24. Source link
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+</TimeML>

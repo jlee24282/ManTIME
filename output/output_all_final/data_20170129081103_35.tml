@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203706972</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Boxing cship  Chandigarh Tribune</TITLE>
+
+
+<TEXT>
+Chandigarh Tribune    Boxing c'ship 
+Chandigarh Tribune 
+Lovely Professional University is <EVENT eid="e1" class="OCCURRENCE">hosting</EVENT> the All India Inter-University (National) Boxing (Men- Women) Championship at its campus, which will <EVENT eid="e2" class="OCCURRENCE">conclude</EVENT> on <TIMEX3 tid="t1" type="DATE" value="2017-02-07">February 7</TIMEX3>. In the event, 80 universities for women boxers and over 100 universities for men  
+
+ 
+   
+More:  <EVENT eid="e3" class="OCCURRENCE">continued</EVENT> here
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

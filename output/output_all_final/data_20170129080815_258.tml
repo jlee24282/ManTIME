@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197522607</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Memphis Belle To Go On Display In Ohio Next Year</TITLE>
+
+
+<TEXT>
+Officials <EVENT eid="e1" class="REPORTING">say</EVENT> a famous World War II aircraft will be on public display <TIMEX3 tid="t1" type="DATE" value="2018">next year</TIMEX3> at the National Museum of the U.S. Air Force in Dayton after <TIMEX3 tid="t2" type="DURATION" value="P1E">more than a decade</TIMEX3> of restoration. 
+ 
+The Memphis Belle, a U.S. Army Air Forces B-17F Flying Fortress bomber, will be <EVENT eid="e2" class="OCCURRENCE">unveiled</EVENT> on <TIMEX3 tid="t3" type="DATE" value="2018-05-17">May 17, 2018</TIMEX3> - the 75th anniversary of the crew's 25th mission over Europe. The aircraft will be the centerpiece of a large-scale exhibit on strategic <EVENT eid="e3" class="OCCURRENCE">bombing</EVENT> in the World War II gallery. A B-17 will be <EVENT eid="e4" class="OCCURRENCE">moved</EVENT> out and eventually <EVENT eid="e5" class="OCCURRENCE">transported</EVENT> to the Smithsonian's National Air and Space Museum in Washington D.C. Work to <EVENT eid="e6" class="OCCURRENCE">restore</EVENT> the Memphis Belle has been underway since 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194039436</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>PGA Awards: La La Land Wins Top Film Prize; Stranger Things Lands Drama; Atlanta Takes Comedy  Full List</TITLE>
+
+
+<TEXT>
+La La Land <EVENT eid="e1" class="OCCURRENCE">continued</EVENT> its awards season momentum, <EVENT eid="e2" class="OCCURRENCE">winning</EVENT> the Darryl F. Zanuck Award for Outstanding Producer of Theatrical Motion Pictures <TIMEX3 tid="t1" type="DATE" value="2017-01-29TNI">tonight</TIMEX3> at the 28th Annual PGA Awards . It <EVENT eid="e3" class="OCCURRENCE">beat</EVENT> out fellow nominees Lionsgates Hacksaw Ridge , Paramounts Fences and Arrival, Foxs Deadpool and Hidden Figures , CBS Films Hell Or High Water , The Weinstein Companys Lion , Roadside/Amazons Manchester By The Sea and A24s Moonlight at the <EVENT eid="e4" class="OCCURRENCE">ceremony</EVENT> at the Beverly Hilton. 
+ 
+Other film winners <EVENT eid="e5" class="I_ACTION">included</EVENT> O.J. Made in America , which <EVENT eid="e6" class="OCCURRENCE">took</EVENT> the Outstanding Producer of Documentary Theatrical Motion Pictures and Zootopia , which <EVENT eid="e7" class="OCCURRENCE">nabbed</EVENT> the Animated Feature award. 
+ 
+On the TV side, buzzy newcomer Netflixs Stranger Things <EVENT eid="e8" class="OCCURRENCE">took</EVENT> the Outstanding Drama Series Producer award and FX breakout Donald Glovers Atlanta, <EVENT eid="e9" class="OCCURRENCE">took</EVENT> the comedy series honor. Atlanta is <EVENT eid="e10" class="OCCURRENCE">coming</EVENT> off two other awards seasons wins, previously snaring Critics Choice and Golden Globe <EVENT eid="e11" class="OCCURRENCE">nods</EVENT>. 
+ 
+Here is the complete list of winners: 
+ 
+Darryl F. Zanuck Award for Outstanding Producer of Theatrical Motion Pictures 
+La La Land 
+Producers: Fred Berger, Jordan Horowitz, Marc Platt 
+ 
+Outstanding Producer of Animated Theatrical Motion Pictures 
+Zootopia 
+Producer: Clark Spencer 
+ 
+Outstanding Producer of Documentary Theatrical Motion Pictures 
+O.J.: Made in America 
+Producers: Ezra Edelman, Caroline Waterlow 
+ 
+Norman Felton Award for Outstanding Producer of Episodic Television, Drama 
+Stranger Things (Season 1) 
+Producers: Matt Duffer, Ross Duffer, Shawn Levy, Dan Cohen, Iain Paterson 
+ 
+Danny Thomas Award for Outstanding Producer of Episodic Television, Comedy 
+Atlanta (Season 1) 
+Producers: Donald Glover, Dianne McGunigle, Paul Simms, Hiro Murai, Alex Orr 
+ 
+David L. Wolper Award for Outstanding Producer of Long-Form Television 
+The People v. O.J. Simpson: American Crime Story (Season 1) 
+Producers: Scott Alexander, Larry Karaszewski, Ryan Murphy, Brad Falchuk, Nina Jacobson, Brad Simpson, D.V. DeVincentis, Anthony Hemingway, Alexis Martin Woodall, John Travolta, Chip Vucelich 
+ 
+Outstanding Producer of Non-Fiction Television 
+Making a Murderer (Season 1) 
+Producers: Laura Ricciardi, Moira Demos 
+ 
+Outstanding Producer of Live Entertainment  Talk Television 
+<TIMEX3 tid="t2" type="DATE" value="2017-01-29TNI">Last Week Tonight</TIMEX3> with John Oliver (Season 3) 
+Producers: Tim Carvell, John Oliver, Liz Stanton 
+ 
+Outstanding Producer of Competition Television 
+The Voice (Season 9-11) 
+Producers: Audrey Morrissey, Jay Bienstock, Mark Burnett, John de Mol, Chad Hines, Lee Metzger, Kyra Thompson, Mike Yurchuk, Amanda Zucker, Carson Daly 
+ 
+Outstanding Sports Program (TIE) 
+Real Sports with Bryant Gumbel (Season 22) 
+VICE World of Sports (Season 1) 
+ 
+Outstanding Childrens Program 
+Sesame Street (Season 46) 
+ 
+Outstanding Digital Series 
+Comedians in Cars Getting Coffee (Season 7, Season 8)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

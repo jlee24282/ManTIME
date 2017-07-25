@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197505551</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Din l-Art elwa events</TITLE>
+
+
+<TEXT>
+ The Wonder Women of the Baroque Age is a public talk that Sandra Mifsud Bonnici will <EVENT eid="e1" class="OCCURRENCE">deliver</EVENT> on <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Thursday</TIMEX3> at 6.30pm at the premises of Din l-Art elwa, 133, Melita Street, Valletta. Women in <TIMEX3 tid="t2" type="DATE" value="X">18th-century</TIMEX3> Malta were under the control of husbands, brothers, fathers or even sons. Yet a substantial number of these women <EVENT eid="e2" class="I_ACTION">managed</EVENT> to <EVENT eid="e3" class="OCCURRENCE">overcome</EVENT> the restrictions <EVENT eid="e4" class="OCCURRENCE">imposed</EVENT> on them by law and society.Ms Mifsud Bonnici is a senior lecturer in Systems of Knowledge at the Junior College. The <EVENT eid="e5" class="OCCURRENCE">talk</EVENT> is being <EVENT eid="e6" class="OCCURRENCE">held</EVENT> in collaboration with the University of Maltas International Institute for Baroque Studies.Admission is free but donations to Din l-Art elwa would be <EVENT eid="e7" class="OCCURRENCE">appreciated</EVENT>. 
+ 
+ A <EVENT eid="e8" class="OCCURRENCE">sale</EVENT> of <EVENT eid="e9" class="OCCURRENCE">publications</EVENT> at bargain prices on Maltas cultural, historic, architectural, artistic and environmental patrimony will be <EVENT eid="e10" class="OCCURRENCE">held</EVENT> by Din l-Art elwa at Old Bakery Street, corner with 133, Melita Street, Valletta, on <TIMEX3 tid="t3" type="DATE" value="2017-01-27">Friday</TIMEX3> and <TIMEX3 tid="t4" type="DATE" value="2017-01-28">Saturday</TIMEX3> from 9.30am to <EVENT eid="e11" class="OCCURRENCE">4pm</EVENT> and <TIMEX3 tid="t5" type="DATE" value="2017-01-29">next Sunday</TIMEX3> from 9.30am to <EVENT eid="e12" class="OCCURRENCE">1pm</EVENT>. 
+ 
+ Din l-Art <EVENT eid="e13" class="OCCURRENCE">elwas</EVENT> first tour for <TIMEX3 tid="t6" type="DATE" value="2017">2017</TIMEX3> to heritage sites will <EVENT eid="e14" class="OCCURRENCE">visit</EVENT> Gallis Tower, Baar i-agaq, and Wignacourt Tower, St Pauls Bay, on <TIMEX3 tid="t7" type="DATE" value="2017-02-18">February 18</TIMEX3> from 9am to 12.30pm. It is being <EVENT eid="e15" class="OCCURRENCE">coordinated</EVENT> by Ian Camilleri and <EVENT eid="e16" class="OCCURRENCE">led</EVENT> by Martin Vella. Participants will <EVENT eid="e17" class="OCCURRENCE">meet</EVENT> at Msida Bastions Historic Gardens where a mini van will <EVENT eid="e18" class="OCCURRENCE">take</EVENT> them on the tour. To <EVENT eid="e19" class="OCCURRENCE">book</EVENT> a place, call Rosanne or Annmarie on 2122 5952 and <EVENT eid="e20" class="OCCURRENCE">send</EVENT> a 10 donation together with the booking form by <TIMEX3 tid="t8" type="DATE" value="2017-02-15">February 15</TIMEX3>. Bookings are on a first-come, first-served basis.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie16" relatedToEventInstance="ie15" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="IDENTITY" />
+<TLINK lid="TL4" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="IS_INCLUDED" />
+</TimeML>

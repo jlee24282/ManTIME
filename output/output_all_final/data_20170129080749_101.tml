@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196565881</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>'La La Land' Takes Top Honors at Producers Guild Awards</TITLE>
+
+
+<TEXT>
+The movies vying for top honors at the Producers Guild Awards are nearly identical to those up for best picture at the Oscars, with the exception of "Deadpool."
+
+Producers included the superhero <EVENT eid="e1" class="OCCURRENCE">romp</EVENT> among its 10 nominees for the Darryl F. Zanuck Award, along with "Arrival," ''Fences," ''Hidden Figures," ''Hacksaw Ridge," ''Hell or High Water," ''Lion," ''La La Land," ''Manchester By the Sea" and "Moonlight."
+
+The winner will be <EVENT eid="e2" class="OCCURRENCE">revealed</EVENT> <TIMEX3 tid="t1" type="TIME" value="2017-01-28TNI">Saturday night</TIMEX3> during a <EVENT eid="e3" class="OCCURRENCE">ceremony</EVENT> at the Beverly Hilton Hotel in Beverly Hills, California. Producers have <EVENT eid="e4" class="OCCURRENCE">predicted</EVENT> the Oscars' best-picture winner for seven of the eight <TIMEX3 tid="t2" type="DATE" value="PAST_REF">past</TIMEX3> years. The groups <EVENT eid="e5" class="OCCURRENCE">diverged</EVENT> <TIMEX3 tid="t3" type="DATE" value="2016">last year</TIMEX3>, when the guild <EVENT eid="e6" class="OCCURRENCE">picked</EVENT> "The Big Short" and the film academy <EVENT eid="e7" class="OCCURRENCE">chose</EVENT> "Spotlight."
+
+The Producers Guild will also <EVENT eid="e8" class="OCCURRENCE">present</EVENT> awards in nine other film and TV categories.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL6" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200955624</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>USA-Chinese New Year/Family Day</TITLE>
+
+
+<TEXT>
+The Chinese Lunar New Year Family Day event <EVENT eid="e1" class="OCCURRENCE">took</EVENT> place at the Smithsonian's American Art Museum in Washington D.C. on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+
+Chinese Ambassador Cui Tiankai <EVENT eid="e2" class="OCCURRENCE">joined</EVENT> Secretary of the Smithsonian Institution David Skorton in the lion dance eye-dotting <EVENT eid="e3" class="OCCURRENCE">ceremony</EVENT> at the opening of the event. 
+
+More than 7,500 residents and visitors, mostly parents with young children <EVENT eid="e4" class="OCCURRENCE">joined</EVENT> the <EVENT eid="e5" class="OCCURRENCE">event</EVENT>. 
+
+Many traditional folk art including Chinese calligraphy, paper-cutting and dough modeling were <EVENT eid="e6" class="OCCURRENCE">introduced</EVENT>. 
+
+"It's a pretty cool introduction for our people that might not have chances to <EVENT eid="e7" class="OCCURRENCE">know</EVENT> anything about Chinese culture to <EVENT eid="e8" class="OCCURRENCE">come</EVENT> and <EVENT eid="e9" class="PERCEPTION">see</EVENT> how you <EVENT eid="e10" class="OCCURRENCE">celebrate</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-SP">Spring</TIMEX3> Festival," <EVENT eid="e11" class="REPORTING">said</EVENT> a visitor. 
+
+The event was especially popular among children, as many <EVENT eid="e12" class="OCCURRENCE">learned</EVENT> the art of <EVENT eid="e13" class="OCCURRENCE">making</EVENT> dough models and <EVENT eid="e14" class="OCCURRENCE">coloring</EVENT> pictures of roosters in celebration of the <TIMEX3 tid="t3" type="DURATION" value="PXY">Year</TIMEX3> of the Rooster. 
+
+"We <EVENT eid="e15" class="I_STATE">want</EVENT> to <EVENT eid="e16" class="OCCURRENCE">teach</EVENT> them Chinese culture through our skills. If they <EVENT eid="e17" class="OCCURRENCE">feel</EVENT> interested, they will be <EVENT eid="e18" class="STATE">curious</EVENT> about what kind of nation has such interesting arts and therefore have the drive to <EVENT eid="e19" class="OCCURRENCE">learn</EVENT> more. Folk art is a bridge to <EVENT eid="e20" class="OCCURRENCE">realize</EVENT> cultural communication without borders," <EVENT eid="e21" class="REPORTING">said</EVENT> Bai Lin, an inheritor of the Zongren or <EVENT eid="e22" class="OCCURRENCE">bristle</EVENT> dolls art. 
+
+The Smithsonian American Art Museum is located in downtown Washington D.C, close to Chinatown. This is the <TIMEX3 tid="t4" type="DURATION" value="PXY">third year</TIMEX3> the museum has <EVENT eid="e23" class="OCCURRENCE">held</EVENT> a "Chinese New Year Family Day" to <EVENT eid="e24" class="OCCURRENCE">celebrate</EVENT> Chinese <TIMEX3 tid="t5" type="DURATION" value="PXY">new year</TIMEX3>. 
+
+"I <EVENT eid="e25" class="I_STATE">think</EVENT> it is very important that we <EVENT eid="e26" class="I_STATE">learn</EVENT> about each other's cultures, learn about each other's art and science, and <EVENT eid="e27" class="OCCURRENCE">get</EVENT> to <EVENT eid="e28" class="OCCURRENCE">know</EVENT> each other as people," <EVENT eid="e29" class="REPORTING">said</EVENT> David Skorton, secretary of the Smithsonian. 
+
+The Chinese Lunar New <TIMEX3 tid="t6" type="DURATION" value="PXY">Year</TIMEX3> or <TIMEX3 tid="t7" type="DATE" value="2017-SP">Spring</TIMEX3> Festival <EVENT eid="e30" class="OCCURRENCE">fell</EVENT> on <TIMEX3 tid="t8" type="DATE" value="2017-01-28">Saturday</TIMEX3> and <EVENT eid="e31" class="OCCURRENCE">marks</EVENT> the <TIMEX3 tid="t9" type="DURATION" value="PXY">Year</TIMEX3> of the Rooster, <EVENT eid="e32" class="REPORTING">according</EVENT> to the Chinese zodiac.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="ADJECTIVE" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t2" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL17" timeID="t8" relatedToTime="t7" relType="INCLUDES" />
+<TLINK lid="TL16" timeID="t8" relatedToEventInstance="ie30" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t8" relatedToEventInstance="ie31" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL13" timeID="t4" relatedToEventInstance="ie23" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t7" relatedToEventInstance="ie30" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t7" relatedToEventInstance="ie31" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t6" relatedToEventInstance="ie30" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie32" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie32" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie13" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie30" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie30" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie30" relatedToEventInstance="ie31" relType="SIMULTANEOUS" />
+<TLINK lid="TL14" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="SIMULTANEOUS" />
+</TimeML>

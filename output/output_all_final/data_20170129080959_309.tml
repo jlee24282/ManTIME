@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201896773</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>10 Times We Wish We Had Clairees Fiery Wit</TITLE>
+
+
+<TEXT>
+If you dont have anything nice to <EVENT eid="e1" class="REPORTING">say</EVENT> about anybody, come <EVENT eid="e2" class="OCCURRENCE">sit</EVENT> by me! We rave about Truvy. Adore Shelby. Fantasize about whipping out Ouiser's one-liners. And we all need a MLynn. But every woman wishes she had a friend like Clairee. The cheerful, gossip-hound Clairee Belcher (played by Olympia Dukakis) is that Southern girlfriend we all know and yearn for when we just need a laugh and some <TIMEX3 tid="t1" type="DURATION" value="PXW">weekend</TIMEX3> gossip. That friend we call when news just <EVENT eid="e3" class="OCCURRENCE">starts trickling</EVENT> through the local grapevine. Her...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

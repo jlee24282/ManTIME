@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199590263</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Tengku Abdullah Disappointed Over Drowning During Floods</TITLE>
+
+
+<TEXT>
+JERANTUT, <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Jan 29</TIMEX3> (Bernama) -- The Regent of Pahang, Tengku Abdullah Sultan Ahmad Shah <TIMEX3 tid="t2" type="DATE" value="2017-01-29">today</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">expressed</EVENT> his disappointment over an incident in which a <TIMEX3 tid="t3" type="DURATION" value="P1Y">one-year</TIMEX3> and 18 month-old girl <EVENT eid="e2" class="OCCURRENCE">drowned</EVENT> in Pekan <TIMEX3 tid="t4" type="DATE" value="2017-01-28">yesterday</TIMEX3>. 
+Tengku Abdullah <EVENT eid="e3" class="REPORTING">said</EVENT> he was <EVENT eid="e4" class="OCCURRENCE">shocked</EVENT> when <EVENT eid="e5" class="I_ACTION">informed</EVENT> that Siti Nurdarwisyah Abdul Rahman <EVENT eid="e6" class="OCCURRENCE">drowned</EVENT> in Kampung Tanjung Medang Hilir, Pekan. 
+
+"It was a shocking news because I had just <EVENT eid="e7" class="OCCURRENCE">returned</EVENT> from <EVENT eid="e8" class="OCCURRENCE">visiting</EVENT> her relatives, and prior to that, have on numerous occasions <EVENT eid="e9" class="I_ACTION">reminded</EVENT> parents to <EVENT eid="e10" class="OCCURRENCE">monitor</EVENT> their children's safety during the <EVENT eid="e11" class="OCCURRENCE">floods</EVENT>. 
+
+"However, it has been <EVENT eid="e12" class="OCCURRENCE">fated</EVENT> and I hope family members of the victim <EVENT eid="e13" class="STATE">remain</EVENT> calm," <EVENT eid="e14" class="REPORTING">said</EVENT> the Regent during a <EVENT eid="e15" class="OCCURRENCE">visit</EVENT> to the flood evacuation centre at Balai Raya Kampung Simpang Tebing Tinggi here <TIMEX3 tid="t5" type="DATE" value="2017-01-29">today</TIMEX3>. 
+
+<EVENT eid="e16" class="OCCURRENCE">Accompanying</EVENT> the Regent was Tengku Puan Pahang Tunku Azizah Aminah Maimunah Iskandariah. 
+
+In the <EVENT eid="e17" class="OCCURRENCE">incident</EVENT> <TIMEX3 tid="t6" type="DATE" value="2017-01-28">yesterday</TIMEX3>, Siti Nurdarwisyah was <EVENT eid="e18" class="OCCURRENCE">found missing</EVENT> at about 7.20 pm <TIMEX3 tid="t7" type="DATE" value="2017-01-28">yesterday</TIMEX3> by her father, who then <EVENT eid="e19" class="OCCURRENCE">sought</EVENT> the assistance of neighbours to <EVENT eid="e20" class="OCCURRENCE">look</EVENT> for his only child. 
+
+The girl was <EVENT eid="e21" class="OCCURRENCE">found</EVENT> about half <TIMEX3 tid="t8" type="DURATION" value="PTXH">an hour</TIMEX3> later <EVENT eid="e22" class="OCCURRENCE">trapped</EVENT> in between the bushes in the flood water not far from her house and was then to Pekan Hospital for treatment, but <EVENT eid="e23" class="OCCURRENCE">died</EVENT> at 9.17 pm <TIMEX3 tid="t9" type="DATE" value="2017-01-28">yesterday</TIMEX3>. 
+
+In another development, Tengku Abdullah <EVENT eid="e24" class="OCCURRENCE">hit</EVENT> out at some youngsters who had no care for their own life by <EVENT eid="e25" class="OCCURRENCE">doing</EVENT> dangerous stunts, including <EVENT eid="e26" class="OCCURRENCE">climbing</EVENT> and <EVENT eid="e27" class="OCCURRENCE">jumping</EVENT> from a signboard into a river where a recording of it <EVENT eid="e28" class="OCCURRENCE">went</EVENT> viral <TIMEX3 tid="t10" type="DATE" value="PAST_REF">recently</TIMEX3>. 
+
+-- BERNAMA
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL9" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL17" eventInstanceID="ie23" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL16" eventInstanceID="ie23" relatedToEventInstance="ie21" relType="AFTER" />
+<TLINK lid="TL15" eventInstanceID="ie22" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL14" eventInstanceID="ie22" relatedToEventInstance="ie21" relType="BEFORE" />
+<TLINK lid="TL13" eventInstanceID="ie25" relatedToEventInstance="ie27" relType="IDENTITY" />
+<TLINK lid="TL12" eventInstanceID="ie2" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL11" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL10" eventInstanceID="ie1" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL19" timeID="t10" relatedToEventInstance="ie28" relType="INCLUDES" />
+<TLINK lid="TL18" eventInstanceID="ie28" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie19" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie17" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie15" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie15" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie18" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie18" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL20" timeID="t6" relatedToEventInstance="ie17" relType="BEFORE" />
+</TimeML>

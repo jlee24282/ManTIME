@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196471795</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>German Arndt overhauls Meyer to win UCI event in Geelong</TITLE>
+
+
+<TEXT>
+(Reuters) - German sprinter Nikias Arndt was the surprise winner of the Cadel Evans Great Ocean Road Race in Victoria on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> after he <EVENT eid="e1" class="OCCURRENCE">pipped</EVENT> Australian Cameron Meyer on the line to <EVENT eid="e2" class="OCCURRENCE">claim</EVENT> his first one-day <EVENT eid="e3" class="OCCURRENCE">win</EVENT> at World Tour level. 
+
+Meyer had <EVENT eid="e4" class="I_ACTION">made</EVENT> a bold solo bid for victory with 600 metres to <EVENT eid="e5" class="OCCURRENCE">go</EVENT> in the 174-km race that starts and <EVENT eid="e6" class="OCCURRENCE">finishes</EVENT> in Geelong but Sunweb rider Arndt <EVENT eid="e7" class="OCCURRENCE">reeled</EVENT> him in with a well-timed late sprint while <EVENT eid="e8" class="OCCURRENCE">holding</EVENT> off Orica-Scott's Simon Gerrans. 
+
+Australia's Gerrans <EVENT eid="e9" class="OCCURRENCE">finished</EVENT> in second place as Korda Mentha's Meyer <EVENT eid="e10" class="OCCURRENCE">held</EVENT> on for third. 
+
+Arndt <EVENT eid="e11" class="REPORTING">needed</EVENT> a helping hand over the steep Chalambra climb, where a late <EVENT eid="e12" class="OCCURRENCE">attack</EVENT> was <EVENT eid="e13" class="OCCURRENCE">expected</EVENT>, with his Dutch team mate Wilco Kelderman <EVENT eid="e14" class="OCCURRENCE">pacing</EVENT> him to the front of the peloton. 
+
+"I <EVENT eid="e15" class="I_STATE">thought</EVENT> OK, if he (Kelderman) has <EVENT eid="e16" class="OCCURRENCE">done</EVENT> such a big pull, you also have to <EVENT eid="e17" class="OCCURRENCE">come</EVENT> back, you cannot <EVENT eid="e18" class="OCCURRENCE">give</EVENT> up," the 25-year-old Arndt <EVENT eid="e19" class="REPORTING">told</EVENT> reporters. 
+
+"The <TIMEX3 tid="t2" type="DURATION" value="PXD">last few days</TIMEX3>, we could also <EVENT eid="e20" class="I_ACTION">see</EVENT> some tennis matches (at the Australian Open) and they also <EVENT eid="e21" class="REPORTING">said</EVENT> something like 'never <EVENT eid="e22" class="OCCURRENCE">give</EVENT> up, just <EVENT eid="e23" class="OCCURRENCE">focus</EVENT> and <EVENT eid="e24" class="OCCURRENCE">try</EVENT> again and <EVENT eid="e25" class="OCCURRENCE">try</EVENT> again'. 
+
+"That was actually a good motivation for <TIMEX3 tid="t3" type="DATE" value="2017-01-29">today</TIMEX3>." 
+
+With the climbers unable to <EVENT eid="e26" class="OCCURRENCE">make</EVENT> significant ground on the inclines, the large leading group saw late attacks from Richie Porte, Nathan Haas, Chris Froome and Rafa Valls before the sprinters <EVENT eid="e27" class="OCCURRENCE">moved</EVENT> into position in the final kilometre. 
+
+Tour Down Under winner Porte <EVENT eid="e28" class="OCCURRENCE">finished</EVENT> 21st and three-times Tour de France champion Froome <EVENT eid="e29" class="OCCURRENCE">faded</EVENT> after his audacious lone bid for victory and <EVENT eid="e30" class="OCCURRENCE">crossed</EVENT> the line in 49th place in his first major race of the season. 
+
+(Writing by Simon Jennings in Bengaluru; Editing by John O'Brien)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie20" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie22" relatedToEventInstance="ie23" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie25" relatedToEventInstance="ie23" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie24" relatedToEventInstance="ie23" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t1" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie24" relatedToEventInstance="ie22" relType="AFTER" />
+</TimeML>

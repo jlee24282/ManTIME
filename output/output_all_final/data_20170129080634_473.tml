@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194217019</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Banking sector records over 910m transactions worth N65trn in 2016 ' NBS</TITLE>
+
+
+<TEXT>
+The National Bureau of Statistics (NBS) <EVENT eid="e1" class="REPORTING">said</EVENT> a total volume of 910,186,115 transactions valued at N65.16 trillion were <EVENT eid="e2" class="OCCURRENCE">recorded</EVENT> in <TIMEX3 tid="t1" type="DATE" value="2016">2016</TIMEX3> as electronic payment in the banking sector. This statistics is <EVENT eid="e3" class="OCCURRENCE">contained</EVENT> in a 'Selected Banking Sector Data for <TIMEX3 tid="t2" type="DATE" value="2017-Q1">4th Quarter 2016</TIMEX3>'' <EVENT eid="e4" class="OCCURRENCE">released</EVENT> by NBS in Abuja. The report stated that ATM transactions <EVENT eid="e5" class="OCCURRENCE">dominated</EVENT> theThe post <EVENT eid="e6" class="OCCURRENCE">appeared</EVENT> first on The Herald Nigeria - 24/7 News up
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="BEFORE" />
+</TimeML>

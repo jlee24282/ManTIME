@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198347000</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Federal judge blocks Trumps immigration order from deporting people detained at airports</TITLE>
+
+
+<TEXT>
+A federal judge in New York has <EVENT eid="e1" class="OCCURRENCE">issued</EVENT> an emergency stay temporarily <EVENT eid="e2" class="OCCURRENCE">stopping</EVENT> the removal of individuals <EVENT eid="e3" class="OCCURRENCE">detained</EVENT> at the airports after President Trump s order banned immigrants from seven Muslim-majority countries from entering the U.S. The move <EVENT eid="e4" class="OCCURRENCE">marks</EVENT> the first successful legal challenge against the Trump administration and <EVENT eid="e5" class="STATE">affects</EVENT> those who have <EVENT eid="e6" class="OCCURRENCE">arrived</EVENT> in the The post Federal judge <EVENT eid="e7" class="OCCURRENCE">blocks</EVENT> Trump s immigration order from deporting people <EVENT eid="e8" class="OCCURRENCE">detained</EVENT> at airports <EVENT eid="e9" class="OCCURRENCE">appeared</EVENT> first on The Herald Nigeria - 24/7 New
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+</TimeML>

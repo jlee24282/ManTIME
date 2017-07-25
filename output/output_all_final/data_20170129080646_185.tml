@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194375445</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Nuts Bolts National party offices</TITLE>
+
+
+<TEXT>
+<EVENT eid="e1" class="OCCURRENCE">Welcome</EVENT> back <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> Campaign D I Y ers For those who <EVENT eid="e2" class="OCCURRENCE">tune</EVENT> in welcome to the Nuts Bolts of a Democratic campaign <TIMEX3 tid="t2" type="DATE" value="X">Each</TIMEX3> week we <EVENT eid="e3" class="I_STATE">discuss</EVENT> issues that help drive successful campaigns If you ve <EVENT eid="e4" class="OCCURRENCE">missed</EVENT> prior diaries please visit our group or <EVENT eid="e5" class="OCCURRENCE">follow</EVENT> Nuts Bolts Guide While this series has <EVENT eid="e6" class="OCCURRENCE">focused</EVENT> on what it takes to <EVENT eid="e7" class="OCCURRENCE">build</EVENT> a successful campaign and successful county and state organizations I ve been <EVENT eid="e8" class="OCCURRENCE">taking</EVENT> January and <TIMEX3 tid="t3" type="DATE" value="2017-02">February</TIMEX3> to <EVENT eid="e9" class="OCCURRENCE">talk</EVENT> about how you as a voter and activist make a difference through elections in your local community and party For <TIMEX3 tid="t4" type="DURATION" value="PXW">the next few weeks</TIMEX3> in a row the DNC will be <EVENT eid="e10" class="OCCURRENCE">hosting</EVENT> Future Forums <TIMEX3 tid="t5" type="DATE" value="X">this</TIMEX3> week in Houston Texas then Detroit Baltimore and of course the final vote in Atlanta I ve been fortunate to <EVENT eid="e11" class="OCCURRENCE">receive</EVENT> a lot of emails and questions about proposals and positions <EVENT eid="e12" class="OCCURRENCE">held</EVENT> by candidates for different offices and how they might <EVENT eid="e13" class="OCCURRENCE">impact</EVENT> the rank and file Democratic voters <TIMEX3 tid="t6" type="DATE" value="2017-W04">This week</TIMEX3> to <EVENT eid="e14" class="OCCURRENCE">match</EVENT> the DNC Future Forum I <EVENT eid="e15" class="I_STATE">hope</EVENT> to <EVENT eid="e16" class="OCCURRENCE">answer</EVENT> some of your questions in comments about the DNC elections the purposes of these offices and how proposals advanced by candidates may <EVENT eid="e17" class="OCCURRENCE">impact</EVENT> you 
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t3" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="SIMULTANEOUS" />
+</TimeML>

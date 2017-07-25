@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204160176</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mary Kathryn Kennedy - Jacob Post Fair</TITLE>
+
+
+<TEXT>
+Kathryn and Jon Kennedy of Little Rock are the parents of the bride. She is the granddaughter of the late Betty and Jack Pflug of Little Rock and the late Diane and David Kennedy of Conway. 
+   Photo Gallery  Kennedy-Fair Wedding Reception  
+View 
+    
+Parents of the bridegroom are Sharon and Ronald Fair of Heber Springs. His grandparents are Pat and Dr. James Post of Fort Smith and the late Diane and Morris Fair of Memphis. 
+ 
+An urn <EVENT eid="e1" class="OCCURRENCE">arrangement</EVENT> of seeded eucalyptus, hydrangeas, roses and wax flower was at the entrance of the <EVENT eid="e2" class="OCCURRENCE">sanctuary</EVENT>. Music was by organist Lynn Bauman and cantor Hope Sharp. 
+ 
+The bride, given in marriage by her father, <EVENT eid="e3" class="OCCURRENCE">wore</EVENT> a tulle gown <EVENT eid="e4" class="OCCURRENCE">embellished</EVENT> with lace appliques. The bodice had a sweetheart neckline and the fit-and-flare skirt <EVENT eid="e5" class="OCCURRENCE">extended</EVENT> to a chapel-length train. She <EVENT eid="e6" class="OCCURRENCE">carried</EVENT> a bouquet of hydrangeas, cranberry peonies, wax flower, cream and burgundy roses and blush lisianthus. 
+ 
+Serving as the bride's honor attendants were Paige Skelton of Fayetteville and Elizabeth Heiles of Memphis. Bridesmaids were Amanda Fair, Rose Pennick and Townley Frith, all of Little Rock; Alex Killingsworth of Memphis; and Katie Threlkeld of Columbia, Mo. They <EVENT eid="e7" class="OCCURRENCE">wore</EVENT> burgundy lux-chiffon gowns in the style of their choice and <EVENT eid="e8" class="OCCURRENCE">carried</EVENT> smaller versions of the bridal bouquet. 
+ 
+Also <EVENT eid="e9" class="OCCURRENCE">assisting</EVENT> the bride were Bea Selva of Little Rock and Anne-Elise Hawkins and Margaret Langford, both of Fayetteville. 
+ 
+<EVENT eid="e10" class="OCCURRENCE">Serving</EVENT> as the bridegroom's honor attendants were his brothers Nick Fair and Luke Fair, both of Little Rock. Groomsmen were Jack Kennedy of Fayetteville, brother of the bride; Nick Konecny of Stuttgart; Alex Langford of Fayetteville; Phillip Lay of Dallas; and in memoriam, Nicholas Kennedy, also brother of the bride. 
+ 
+After the <EVENT eid="e11" class="OCCURRENCE">ceremony</EVENT>, a reception was <EVENT eid="e12" class="OCCURRENCE">held</EVENT> at the Junior League of Little Rock Building. Guest tables were <EVENT eid="e13" class="OCCURRENCE">centered</EVENT> with large arrangements of hydrangeas, roses, lisianthus and cream wax flower. Two pedestal arrangements of wedding flowers were on each side of a stage. Music was by the Sensations Band of Memphis. 
+ 
+The bride has a bachelor's degree in civil engineering from the University of Arkansas at Fayetteville, where she was president of Chi Omega. She is an aviation project engineer at Garver LLC. 
+ 
+The bridegroom has a bachelor's degree in accounting from the university and was president of Sigma Chi. He <EVENT eid="e14" class="STATE">has</EVENT> a law degree from the University of Arkansas at Little Rock William H. Bowen School of Law, where he was editor-in-chief of the UALR Law Review. He is a lawyer with Wright, Lindsey   Jennings LLP. 
+ 
+The couple will <EVENT eid="e15" class="OCCURRENCE">reside</EVENT> in Little Rock after a wedding trip to Oracabessa Bay, Jamaica. 
+ 
+High Profile on 01/29/2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+</TimeML>

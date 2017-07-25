@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198374362</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mayweather: Fight Against McGregor Can Happen</TITLE>
+
+
+<TEXT>
+Floyd Mayweather Jr. <EVENT eid="e1" class="REPORTING">says</EVENT> facing UFC star Conor McGregor in a boxing ring "can <EVENT eid="e2" class="OCCURRENCE">happen</EVENT>" and is something that would "<EVENT eid="e3" class="OCCURRENCE">give</EVENT> the fans what they <EVENT eid="e4" class="I_STATE">want</EVENT> to <EVENT eid="e5" class="PERCEPTION">see</EVENT>."  In a question-and-answer <EVENT eid="e6" class="OCCURRENCE">session</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> in England, McGregor <EVENT eid="e7" class="REPORTING">said</EVENT> he <EVENT eid="e8" class="I_STATE">plans</EVENT> to <EVENT eid="e9" class="OCCURRENCE">put</EVENT> his UFC career on hold to <EVENT eid="e10" class="OCCURRENCE">pursue</EVENT> boxing and a bout with Mayweather, who hasn't <EVENT eid="e11" class="OCCURRENCE">fought</EVENT> since <TIMEX3 tid="t2" type="DATE" value="2015">2015</TIMEX3>.  Asked to <EVENT eid="e12" class="OCCURRENCE">respond</EVENT> before the Carl Frampton-Leo Santa Cruz <EVENT eid="e13" class="OCCURRENCE">fight</EVENT> <TIMEX3 tid="t3" type="TIME" value="2017-01-28TNI">Saturday night</TIMEX3> in Las Vegas, Mayweather <EVENT eid="e14" class="OCCURRENCE">expressed</EVENT> enthusiasm for the matchup. He <EVENT eid="e15" class="REPORTING">says</EVENT> he'd want ... 
+read full story
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t2" relatedToEventInstance="ie11" relType="BEGINS" />
+<TLINK lid="TL10" timeID="t1" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie13" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t2" relType="BEGINS" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie6" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie7" relType="INCLUDES" />
+</TimeML>

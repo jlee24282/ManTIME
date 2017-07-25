@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196739436</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Paul Crute published Scunthorpe have fight and mentality to stay in promotion race:...</TITLE>
+
+
+<TEXT>
+Comments(0)   
+SCUNTHORPE United <EVENT eid="e1" class="OCCURRENCE">picked</EVENT> up a big three points as they twice <EVENT eid="e2" class="OCCURRENCE">came</EVENT> from behind to <EVENT eid="e3" class="OCCURRENCE">beat</EVENT> Port Vale 3-2. 
+ 
+Tyler Walker and JJ Hooper had twice <EVENT eid="e4" class="OCCURRENCE">given</EVENT> the Valiants the lead which <EVENT eid="e5" class="OCCURRENCE">sandwiched</EVENT> a Josh Morris penalty at <TIMEX3 tid="t1" type="DATE" value="X">the</TIMEX3> <EVENT eid="e6" class="ASPECTUAL">beginning</EVENT> <TIMEX3 tid="t2" type="DATE" value="X">of the second</TIMEX3> half. 
+ 
+But United <EVENT eid="e7" class="OCCURRENCE">showed</EVENT> great character to <EVENT eid="e8" class="OCCURRENCE">come</EVENT> back into the game again and Ivan Toney <EVENT eid="e9" class="OCCURRENCE">brought</EVENT> them level before Tom Hopper <EVENT eid="e10" class="OCCURRENCE">came</EVENT> off the bench to <EVENT eid="e11" class="OCCURRENCE">seal</EVENT> the victory. 
+ 
+It was a fitting end to the game on the <TIMEX3 tid="t3" type="DURATION" value="PXD">day</TIMEX3> when the Iron <EVENT eid="e12" class="OCCURRENCE">paid</EVENT> tribute to vice-president Graham Taylor, whose family <EVENT eid="e13" class="OCCURRENCE">attended</EVENT> the game. 
+ 
+The victory United back to the top of League One, a point clear of Sheffield United, with a game in hand. 
+ 
+The Telegraph's Paul Crute gives his reaction to the game in his video verdict below. 
+ 
+Read <TIMEX3 tid="t4" type="DATE" value="2017-01-29">today</TIMEX3>'s top stories 
+
+ Follow us on
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie9" relType="BEFORE" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL7" timeID="t3" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t2" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

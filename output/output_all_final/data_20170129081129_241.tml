@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204857566</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>PGA and SAG Awards: What to Watch For</TITLE>
+
+
+<TEXT>
+Home  Superstar News Share the joy 
+                       
+
+THRs awards columnist explains why he <EVENT eid="e1" class="I_STATE">thinks</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> night will be a big night for La La Land, while <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3> night will <EVENT eid="e2" class="I_ACTION">clarify</EVENT> which film will <EVENT eid="e3" class="OCCURRENCE">pose</EVENT> the biggest challenge to it in the Oscar race. 
+ 
+read more 
+ 
+
+The Race 
+    Previous article    Next article
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

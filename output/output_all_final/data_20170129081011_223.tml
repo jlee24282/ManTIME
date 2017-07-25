@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202319793</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Millions of people in need of 'urgent aid' as Ethiopia faces new drought</TITLE>
+
+
+<TEXT>
+Ethiopia Faces New Drought and Seeks Urgent Aid for 5 Million People  Ethiopia (<TIMEX3 tid="t1" type="DATE" value="2017-01-27">Yesterday</TIMEX3>) - Ethiopias government is <EVENT eid="e1" class="OCCURRENCE">appealing</EVENT> for $948 million from the international community to <EVENT eid="e2" class="OCCURRENCE">combat</EVENT> the new drought which has <EVENT eid="e3" class="OCCURRENCE">left</EVENT> 5.6 million people in urgent need of assistance. WERDER, SOMALI REGION,... 
+
+British Official Deeply Concerned by Somalia Drought 
+
+Tanzania Seeks $305 million WB Loan to Expand Dar es Salaam port
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

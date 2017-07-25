@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201609405</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Rampage on Fuifui's Twitter account after alleged cheating</TITLE>
+
+
+<TEXT>
+Former Parramatta star Fuifui Moimoi's Twitter account <EVENT eid="e1" class="OCCURRENCE">erupted</EVENT> after it <EVENT eid="e2" class="OCCURRENCE">appeared</EVENT> to be hacked, with claims the prop is <EVENT eid="e3" class="OCCURRENCE">cheating</EVENT> on his wife in the UK. 
+ 
+MORE: WATCH: The ridiculous way Wally Lewis spends his retirement 
+ 
+It is unclear who is behind the posts, although according to the messages and photos, Moimoi has allegedly been <EVENT eid="e4" class="OCCURRENCE">spending</EVENT> time with another woman in his time overseas. 
+ 
+
+ 
+The 37-year-old is currently contracted to the Toronto Wolfpack, a professional rugby league club based in Toronto who play in England. 
+ 
+The posts include messages from the alleged 'paramour', <EVENT eid="e5" class="OCCURRENCE">apologising</EVENT> for her actions. 
+ 
+
+ 
+And then the rant <EVENT eid="e6" class="OCCURRENCE">went</EVENT> on... 
+ 
+
+ 
+
+ 
+
+ 
+The details of the alleged affair are sketchy, although you can definitely <EVENT eid="e7" class="OCCURRENCE">tell</EVENT> someone is not <EVENT eid="e8" class="STATE">happy</EVENT>. 
+ 
+
+ 
+The hacker <EVENT eid="e9" class="OCCURRENCE">posted</EVENT> images of Fui with another woman. 
+ 
+
+ 
+The posts are yet to be <EVENT eid="e10" class="OCCURRENCE">deleted</EVENT> and still on his Twitter account at the time of publication.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

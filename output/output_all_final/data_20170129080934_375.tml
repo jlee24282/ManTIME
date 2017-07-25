@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201051117</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mike Connors | 'Mannix' star, 91</TITLE>
+
+
+<TEXT>
+Mike Connors, 91, who <EVENT eid="e1" class="OCCURRENCE">starred</EVENT> as a hard-hitting private eye on the long-running series Mannix , <EVENT eid="e2" class="OCCURRENCE">died</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Thursday</TIMEX3> at a Los Angeles hospital from complications of leukemia that had been <EVENT eid="e3" class="OCCURRENCE">diagnosed</EVENT> <TIMEX3 tid="t2" type="DURATION" value="P1W">a week earlier</TIMEX3>. 
+
+Mannix <EVENT eid="e4" class="OCCURRENCE">ran</EVENT> for eight <TIMEX3 tid="t3" type="DURATION" value="PXY">years</TIMEX3> on CBS beginning in <TIMEX3 tid="t4" type="DATE" value="1967">1967</TIMEX3>. Viewers were <EVENT eid="e5" class="OCCURRENCE">intrigued</EVENT> by the tall, smartly <EVENT eid="e6" class="OCCURRENCE">dressed</EVENT>, well-spoken detective who could <EVENT eid="e7" class="OCCURRENCE">mix</EVENT> it up with the burliest of thugs and leap on the hood of a racing car to <EVENT eid="e8" class="I_ACTION">prevent</EVENT> an escape. 
+
+"Up until Mannix , most private investigators were hard-nosed, cynical guys who <EVENT eid="e9" class="OCCURRENCE">lived</EVENT> in a seedy area and had no emotions," Mr. Connors <EVENT eid="e10" class="OCCURRENCE">theorized</EVENT> in <TIMEX3 tid="t5" type="DATE" value="1997">1997</TIMEX3>. "Mannix got emotionally involved. He was not above being <EVENT eid="e11" class="OCCURRENCE">taken</EVENT> advantage of." 
+
+Mr. Connors' movie and TV career <EVENT eid="e12" class="OCCURRENCE">stretched</EVENT> from <TIMEX3 tid="t6" type="DATE" value="195X">the 1950s</TIMEX3> to <TIMEX3 tid="t7" type="DATE" value="2007">2007</TIMEX3>, when he had a guest role on Two and a Half Men . 
+
+He <EVENT eid="e13" class="OCCURRENCE">made</EVENT> his film debut in <TIMEX3 tid="t8" type="DATE" value="1952">1952</TIMEX3>'s Sudden Fear , which <EVENT eid="e14" class="OCCURRENCE">starred</EVENT> Joan Crawford. Other films <EVENT eid="e15" class="OCCURRENCE">included</EVENT> Island in the Sky , The Ten Commandments , and a remake of Stagecoach . 
+
+Mr. Connors, born Krekor Ohanian in <TIMEX3 tid="t9" type="DATE" value="1925">1925</TIMEX3>, in an Armenian community in Fresno, Calif., <EVENT eid="e16" class="OCCURRENCE">served</EVENT> in the Air Force during World War II and <EVENT eid="e17" class="OCCURRENCE">attended</EVENT> UCLA on a basketball scholarship, where he <EVENT eid="e18" class="OCCURRENCE">played</EVENT> under legendary coach John Wooden. - AP
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t2" relType="DURING" />
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t5" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t8" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="AFTER" />
+</TimeML>

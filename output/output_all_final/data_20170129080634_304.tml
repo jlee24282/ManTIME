@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194128790</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Over one hundred wildfires in the Balearics in 2016</TITLE>
+
+
+<TEXT>
+There were a number of fires in Ibiza but all on a very low scale.  06-03-2016 Toni Escobar  
+The amount of land <EVENT eid="e1" class="OCCURRENCE">affected</EVENT> by forest, scrub and other fires <TIMEX3 tid="t1" type="DATE" value="2016">last year</TIMEX3> was more than double the amount in <TIMEX3 tid="t2" type="DATE" value="2015">2015</TIMEX3>. There were 113 fires in the Balearics which affected 230 hectares, 37.5% of which were forest. A third was scrub, and the remainder was pasture and reed. 
+
+The environment ministry <EVENT eid="e2" class="REPORTING">suggests</EVENT> that given the drought, the figures aren't too <EVENT eid="e3" class="STATE">bad</EVENT>, but <EVENT eid="e4" class="I_ACTION">concedes</EVENT> that they aren't among the lowest. Nevertheless, the amount of damage was a third of the average for <TIMEX3 tid="t3" type="DURATION" value="P10Y">the past ten years</TIMEX3>. 
+
+Most of the fires (43%) were because of negligence or accidents. There were seventy fires in Majorca that <EVENT eid="e5" class="OCCURRENCE">affected</EVENT> 190 hectares, while Minorca had three fires that <EVENT eid="e6" class="OCCURRENCE">covered</EVENT> 37 hectares. In Ibiza there were 33 fires but these <EVENT eid="e7" class="OCCURRENCE">caused</EVENT> damage to only 1.2 hectares, a record low. 
+
+The largest fire in Majorca was in August at Ses Comunes in Petra (45 hectares). The next two largest were Albufera in <TIMEX3 tid="t4" type="DATE" value="2017-02">February</TIMEX3> (36 hectares) and Sa Canova in Arta in the <TIMEX3 tid="t5" type="DATE" value="2017-SU">summer</TIMEX3> (23.4). All three were intentional. 
+  
+
+   Related Tags
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+</TimeML>

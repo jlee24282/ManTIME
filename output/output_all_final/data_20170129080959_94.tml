@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201669515</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Katie Burnett shatters two American records on way to win USATF 50K Race Walk Championships</TITLE>
+
+
+<TEXT>
+Burnett <EVENT eid="e1" class="REPORTING">began</EVENT> the race slightly behind former American record holder in the 20 km Teresa Viall (Gainesville, Florida). Around the 25 km mark, Burnett <EVENT eid="e2" class="OCCURRENCE">took</EVENT> over the lead and <EVENT eid="e3" class="OCCURRENCE">maintained</EVENT> a 8:35 pace, <EVENT eid="e4" class="OCCURRENCE">reaching</EVENT> 40 km in a record breaking 3:31:04. 
+
+From then on she <EVENT eid="e5" class="OCCURRENCE">continued</EVENT> ahead of second-place finisher and defending champion Erin Taylor-Talcott (Owego, New York) to <EVENT eid="e6" class="ASPECTUAL">complete</EVENT> the <EVENT eid="e7" class="OCCURRENCE">race</EVENT> in 4:26:37, <TIMEX3 tid="t1" type="DATE" value="X">nearly three minutes</TIMEX3> ahead of Talcott. This <EVENT eid="e8" class="OCCURRENCE">broke</EVENT> the previous record of 4:33:23 <EVENT eid="e9" class="OCCURRENCE">set</EVENT> in <TIMEX3 tid="t2" type="DATE" value="2012">2012</TIMEX3> by Talcott.
+
+In the mens race, Nunn <EVENT eid="e10" class="OCCURRENCE">took</EVENT> off and <EVENT eid="e11" class="OCCURRENCE">established</EVENT> an early lead of <TIMEX3 tid="t3" type="DATE" value="X">nine minutes</TIMEX3> ahead of the field. The <TIMEX3 tid="t4" type="DATE" value="2016">2016</TIMEX3> winner was on pace to <EVENT eid="e12" class="OCCURRENCE">finish</EVENT> in under <TIMEX3 tid="t5" type="DURATION" value="PT4H">4 hours</TIMEX3> but <EVENT eid="e13" class="OCCURRENCE">slowed</EVENT> down to an average 8:21, still significantly faster than his competitors. He <EVENT eid="e14" class="OCCURRENCE">clocked</EVENT> in at 4:18:59, followed by Michael Mannozzi (Liberty, South Carolina) in 4:26:46 and Matthew Forgues (Boothbay, Maine) in 4:31:40.
+
+Miranda Melville (Rochester, New York) won the womens 20 km race in 1:38:40. Mexicos Eder Sanchez <EVENT eid="e15" class="OCCURRENCE">bested</EVENT> the mens race in 1:25
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t4" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToTime="t1" relType="ENDED_BY" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="ENDED_BY" />
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t5" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t5" relatedToEventInstance="ie13" relType="DURING" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+</TimeML>

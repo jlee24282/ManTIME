@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695205062118</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Afcon Stat Pack: All you need to know about Egypt v Morocco</TITLE>
+
+
+<TEXT>
+Our good friends at Opta have complied all the numbers and stats you need to assess the teams chances ahead of todays Afcon fourth Quater-Fina clash at Stade de Port-Gentil
+
+- Egypt have only managed to secure one AFCON victory in five attempts over Morocco D1 L3 scoring only two goals across those matches
+
+- In fact no team has inflicted more defeats on Morocco in the history of the AFCON 3
+
+- Morocco come into this quarter-final having gone 12 matches unbeaten against Egypt W4 D8 last <EVENT eid="e1" class="OCCURRENCE">losing</EVENT> to the Pharaohs in <TIMEX3 tid="t1" type="DATE" value="1986">1986</TIMEX3> and conceding just one goal in their last eight against them
+
+- Egypt have now progressed from the group stages for the ninth time in their last 10 attempts in the African Cup of Nations whilst Morocco have ended a run of four appearance without featuring in the knockout phase
+
+- The Pharaohs have won each of their last three AFCON quarter-final matches scoring a total of nine goals in that time
+
+- Morocco have won successive matches in the African Cup of Nations Only once before have they put together a longer stretch of victories four in <TIMEX3 tid="t2" type="DATE" value="1976">1976</TIMEX3>
+
+- Egypt have gone 22 AFCON games without defeat W17 D5 last <EVENT eid="e2" class="OCCURRENCE">losing</EVENT> in the <TIMEX3 tid="t3" type="DATE" value="2004">2004</TIMEX3> tournament v Algeria and have only conceded one goal across their last eight matches in the African Cup of Nations
+
+- Egypt were the only team to keep a clean sheet in every game during the <TIMEX3 tid="t4" type="DATE" value="2017">2017</TIMEX3> AFCON group stages
+
+- Morocco <EVENT eid="e3" class="OCCURRENCE">struck</EVENT> more shots off target than any other team during the group stages 23 only one side Mali 222 recorded a worse shooting accuracy rate than Morocco 258
+
+- No player managed to record more assists during the <TIMEX3 tid="t5" type="DATE" value="2017">2017</TIMEX3> group stages than the two registered by Moroccos Faycal Fajr
+
+- Mohammed Salah has been involved in both of Egypts goals at <TIMEX3 tid="t6" type="DATE" value="2017">this years</TIMEX3> AFCON one assist followed by a goal
+
+- This is Herv Renards fifth AFCON as manager  hes only lost two of his 22 games W10 D10 The Morocco boss is the only one to have won the tournament with two different teams Zambia in <TIMEX3 tid="t7" type="DATE" value="2012">2012</TIMEX3> Ivory Coast in 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" timeID="t3" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

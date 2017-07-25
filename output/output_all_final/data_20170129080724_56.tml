@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195666325</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Radicalised Bangladeshis become major concern for counter-terrorism</TITLE>
+
+
+<TEXT>
+New trouble on the anti-terror front has <EVENT eid="e1" class="OCCURRENCE">emerged</EVENT> in Bangladesh as radicalised Bangladeshis with dual citizenship have <EVENT eid="e2" class="OCCURRENCE">become</EVENT> a major concern for counter-terrorism surveillance by the law enforcers.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

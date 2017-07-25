@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195972912</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>UN reports dozens killed, injured in Syrian Deir-ez-Zor</TITLE>
+
+
+<TEXT>
+UN, <TIMEX3 tid="t1" type="DATE" value="2017-01-29">January 29</TIMEX3>. /TASS/. Dozens civilians <EVENT eid="e1" class="OCCURRENCE">died</EVENT> and got <EVENT eid="e2" class="OCCURRENCE">injured</EVENT> in the combat actions in Syrias Deir-ez-Zor, <EVENT eid="e3" class="OCCURRENCE">seized</EVENT> by the Islamic State militants (outlawed in Russia) the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) <EVENT eid="e4" class="REPORTING">said</EVENT> in a weekly report, <EVENT eid="e5" class="OCCURRENCE">published</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+"Fighting between ISIL and Government of Syria (GoS) forces is currently <EVENT eid="e6" class="STATE">concentrated</EVENT> in the Al-Ommal and Rasafa neighbourhoods, the Al-Baglieh area and west of Deir-ez-Zor airbase" the report reads. "Medical sources inside the besieged city <EVENT eid="e7" class="OCCURRENCE">reported</EVENT> 19 civilian deaths and at least 44 civilian injuries due to <EVENT eid="e8" class="OCCURRENCE">shelling</EVENT> between 15 and <TIMEX3 tid="t3" type="DATE" value="2017-01">23 January</TIMEX3>." 
+ 
+Besides, OCHA <EVENT eid="e9" class="OCCURRENCE">wrote</EVENT> in the report about "unconfirmed reports from local sources that 40 bodies of under 15-year-olds were <EVENT eid="e10" class="OCCURRENCE">discovered</EVENT> in the areas where the clashes between ISIL and the GoS <EVENT eid="e11" class="OCCURRENCE">took</EVENT> place. If <EVENT eid="e12" class="OCCURRENCE">confirmed</EVENT>, this would <EVENT eid="e13" class="OCCURRENCE">substantiate</EVENT> allegations that ISIL is <EVENT eid="e14" class="OCCURRENCE">recruiting</EVENT> children for active combat." 
+ 
+"Urgent medical evacuations are <EVENT eid="e15" class="OCCURRENCE">required</EVENT> for at least 97 civilians who are in critical condition. Due to insufficient medical resources and the ongoing <EVENT eid="e16" class="OCCURRENCE">fighting</EVENT>, the number of people in need of medical evacuations is <EVENT eid="e17" class="I_STATE">expected</EVENT> to <EVENT eid="e18" class="OCCURRENCE">rise</EVENT>," the report <EVENT eid="e19" class="REPORTING">says</EVENT>. 
+ 
+"Inside Deir-ez-Zor city, generators <EVENT eid="e20" class="STATE">remain</EVENT> the only source of electricity as fuel is scarce, but they are only being <EVENT eid="e21" class="OCCURRENCE">used</EVENT> to <EVENT eid="e22" class="OCCURRENCE">supply</EVENT> civilian infrastructure, such as hospitals, water networks and bakeries. Water <EVENT eid="e23" class="ASPECTUAL">continues</EVENT> to be <EVENT eid="e24" class="OCCURRENCE">pumped</EVENT> into Deir-ez-Zor <TIMEX3 tid="t4" type="DATE" value="X">once</TIMEX3> per <TIMEX3 tid="t5" type="DURATION" value="P1W">week</TIMEX3> as per standard practice. In Harabesh people <EVENT eid="e25" class="OCCURRENCE">depend</EVENT> mainly on the river water which they can only access at night because ISIL is in control of the opposite river bank. While having to <EVENT eid="e26" class="I_ACTION">fetch</EVENT> water in proximity to ISIL controlled territory is an obvious protection concern, the <EVENT eid="e27" class="OCCURRENCE">consumption</EVENT> of untreated water from the river also exposes residents of Harabesh to the risk of water-borne diseases." 
+ 
+"The area of Deir-ez-Zor city under government control has been <EVENT eid="e28" class="OCCURRENCE">besieged</EVENT> by ISIL since <TIMEX3 tid="t6" type="DATE" value="2014-07">July 2014</TIMEX3>, <EVENT eid="e29" class="OCCURRENCE">depriving</EVENT> up to 93,500 people from regular access to food and medicines," OCHA <EVENT eid="e30" class="REPORTING">said</EVENT>. "An ISIL <EVENT eid="e31" class="OCCURRENCE">offensive</EVENT> on Deir-ez-Zor that <EVENT eid="e32" class="OCCURRENCE">started</EVENT> on <TIMEX3 tid="t7" type="DATE" value="2017-01">15 January</TIMEX3> has effectively <EVENT eid="e33" class="OCCURRENCE">cut</EVENT> the besieged enclave in two as of 17 <TIMEX3 tid="t8" type="DATE" value="2017-01">January</TIMEX3>. This cut <EVENT eid="e34" class="OCCURRENCE">resulted</EVENT> in the separation of the Deir-ez-Zor airport and the two eastern neighborhoods (Harabesh and Alrasafa) populated by an estimated 6,000 people from the western neighborhoods, where the bulk of the citys 93,500 population live." 
+ 
+The report <EVENT eid="e35" class="REPORTING">says</EVENT> the Syrian government <EVENT eid="e36" class="ASPECTUAL">continues delivering</EVENT> to the sieged regions small supplies of food, most of which is for the servicemen <EVENT eid="e37" class="OCCURRENCE">fighting</EVENT> against the Islamic State militants. 
+ 
+The UN also <EVENT eid="e38" class="OCCURRENCE">reported</EVENT> the delivery of bread and other products to Deir-ez-Zor, <EVENT eid="e39" class="OCCURRENCE">organized</EVENT> by the Russian Aerospace Force on <TIMEX3 tid="t9" type="DATE" value="2017-01-17">January 17</TIMEX3> and 18. 
+   
+{{item.group_date}} 
+  
+Show more
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t7" relatedToEventInstance="ie32" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL11" timeID="t8" relatedToEventInstance="ie32" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t4" relatedToEventInstance="ie23" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie31" relatedToEventInstance="ie33" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie32" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie13" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

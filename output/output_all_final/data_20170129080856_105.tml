@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199210630</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Death Notices for Sunday, Jan. 29, 2017</TITLE>
+
+
+<TEXT>
+HAMILTON - , 77, of Hamilton <EVENT eid="e1" class="OCCURRENCE">passed</EVENT> away <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Jan. 28</TIMEX3>, at the . Arrangements are under the care of the Daly-Leach Chapel.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToTime="t2" relType="IDENTITY" />
+<TLINK lid="TL0" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

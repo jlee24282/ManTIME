@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194918282</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ex-Nkana striker in South Africa</TITLE>
+
+
+<TEXT>
+Tweet on Twitter 
+      
+Ex-Nkana striker Djunes Kanda has reportedly <EVENT eid="e1" class="OCCURRENCE">resurfaced</EVENT> in South Africa. 
+ 
+<EVENT eid="e2" class="REPORTING">According</EVENT> to media speculation in South Africa, Kanda could <EVENT eid="e3" class="STATE">be</EVENT> on trial at PSL side Baroka FC. 
+ 
+Yes, he is a striker, but I <EVENT eid="e4" class="I_ACTION">dont know</EVENT> his full name, we only <EVENT eid="e5" class="OCCURRENCE">know</EVENT> him as Julies. We <EVENT eid="e6" class="OCCURRENCE">got</EVENT> him from Mpumalanga (province). Some <EVENT eid="e7" class="REPORTING">say</EVENT> he <TIMEX3 tid="t1" type="DATE" value="PAST_REF">previously</TIMEX3> <EVENT eid="e8" class="OCCURRENCE">played</EVENT> for Zambian side Nkana FC, Kickoff.com <EVENT eid="e9" class="OCCURRENCE">quoted</EVENT> a source at Baroka. 
+ 
+Kanda <EVENT eid="e10" class="OCCURRENCE">joined</EVENT> Nkana in <TIMEX3 tid="t2" type="DATE" value="2015">2015</TIMEX3> following his <EVENT eid="e11" class="OCCURRENCE">move</EVENT> from Indeni in <TIMEX3 tid="t3" type="DATE" value="2014">2014</TIMEX3> where he <EVENT eid="e12" class="OCCURRENCE">scored</EVENT> 7 goals after <EVENT eid="e13" class="OCCURRENCE">joining</EVENT> them from Tanzanian club Azam. 
+ 
+However his stay at Nkana was a flop where he <EVENT eid="e14" class="OCCURRENCE">managed</EVENT> only a goal in <TIMEX3 tid="t4" type="DATE" value="2015">2015 before</TIMEX3> <EVENT eid="e15" class="OCCURRENCE">dropping</EVENT> off the radar. 
+    Previous article Zambia Police Officer Drunk And Dancing
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie10" relType="INCLUDES" />
+</TimeML>

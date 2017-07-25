@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201039990</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Three suspected drug barons arrested during swoop at Akasha’s house – The Star, Kenya</TITLE>
+
+
+<TEXT>
+The Star, Kenya 
+
+The three, Ibrahim Akasha, Vijayawada  Vicky  Goswami – an Indian and Gulam Hussein – a Pakistani national, were <EVENT eid="e1" class="OCCURRENCE">nabbed</EVENT> at Akasha s house in Nyali. Police <EVENT eid="e2" class="REPORTING">claimed</EVENT> that they could be <EVENT eid="e3" class="OCCURRENCE">linked</EVENT> to a container suspected to be having drugs. Their lawyer Cliff … 
+
+Three suspected drug barons <EVENT eid="e4" class="OCCURRENCE">arrested</EVENT> in MombasaHivisasa.com 
+
+This post was <EVENT eid="e5" class="OCCURRENCE">syndicated</EVENT> from Africa   Google News. Click here to <EVENT eid="e6" class="OCCURRENCE">read</EVENT> the full text on the original website. 
+
+Share this: 
+
+Related 
+
+Leave a Reply Cancel reply 
+
+Recent Comments 
+
+tzuzhin  on Washington State Liquor  amp; Cannabis Board OK with Bitcoin for Pot 
+
+<EVENT eid="e7" class="OCCURRENCE">hmmmmm</EVENT> on Ultimate Cycler Website Is Back, Members Can Login But … 
+
+Emilia on Ultimate Cycler Website Is Back, Members Can Login But … 
+
+Davido on Tecno plans Nigeria’s manufacturing plant 
+
+Deji on Tecno plans Nigeria’s manufacturing plant 
+
+Paolo on Tecno plans Nigeria’s manufacturing plant 
+
+joyce on Everything you <EVENT eid="e8" class="I_STATE">need</EVENT> to <EVENT eid="e9" class="OCCURRENCE">know</EVENT> about Givers Forum, registration and login 
+
+marth on Lifestyle Tips And ‘Love Making’ Positions That Will Help You <EVENT eid="e10" class="OCCURRENCE">Conceive</EVENT> Baby Twins! 
+
+kenechukwu on Ultimate Cycler Website Is Back, Members Can Login But … 
+
+megmaltese on In the Battle Between Google,
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="NONE" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="AFTER" />
+</TimeML>

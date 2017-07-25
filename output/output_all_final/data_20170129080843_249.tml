@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198764482</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Update that lehenga</TITLE>
+
+
+<TEXT>
+5 ways to be <EVENT eid="e1" class="STATE">different</EVENT> with your occasion-wear staple 
+ 
+ 1. SHEER GENIUS 
+Sheer blouses are in. Go for sleeves in tulle, net or organza. Floral motifs and embroidery <EVENT eid="e2" class="OCCURRENCE">add</EVENT> a Victorian <EVENT eid="e3" class="OCCURRENCE">appeal</EVENT>. 
+ 
+ 2. LAYER UP WITH A JACKET 
+There are a million ways you can sport a jacket with Indian bridal wear. <EVENT eid="e4" class="OCCURRENCE">Replace</EVENT> your choli or crop top with a short, embellished jacket or <EVENT eid="e5" class="OCCURRENCE">skip</EVENT> the dupatta and <EVENT eid="e6" class="OCCURRENCE">wear</EVENT> a long-slit, full-length jacket. A cape jacket can also <EVENT eid="e7" class="OCCURRENCE">make</EVENT> for a great alternative. 
+ 
+3. ADD RUFFLED ROMANCE 
+From a ruffled sari pallu to dupattas and lehengas with elaborate ruffles, <EVENT eid="e8" class="OCCURRENCE">incorporate</EVENT> this trend into your wedding outfit to <EVENT eid="e9" class="OCCURRENCE">add</EVENT> a bit of sophisticated drama. Ruffles in pretty pastel hues are delicate, feminine and trendy. 
+TIP: Pick colours like light pink, mint, sky blue and peach. 
+ 
+ (Varun Bahl, Siddartha Tytler, Gaurav Gupta) 
+ 
+ OTHER STYLES YOU CAN TRY 
+ 
+ Do the shoulder trick 
+<EVENT eid="e10" class="OCCURRENCE">Give</EVENT> your traditional choli a fresh twist by <EVENT eid="e11" class="OCCURRENCE">adapting</EVENT> the season's popular "shoulder show-off" trend. 
+ Embrace black and grey 
+Get in touch with your dark side. Reds, maroons, yellows and greens are definitely classic and lovely, but there's something striking about a bride bucking the <EVENT eid="e12" class="OCCURRENCE">tradition</EVENT> in hot, goth colours like black, grey, midnight blue and deep violet. 
+ 
+Flaunting a toned collarbone is an express ticket to <EVENT eid="e13" class="OCCURRENCE">adding</EVENT> a hint of sex appeal to the bridal look!
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="ADJECTIVE" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

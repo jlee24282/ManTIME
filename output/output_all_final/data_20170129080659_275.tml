@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194808453</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Which are the three most improved secondary schools in the country?</TITLE>
+
+
+<TEXT>
+Schools in Munster and Leinster have <EVENT eid="e1" class="OCCURRENCE">seen</EVENT> the most dramatic improvements in academic performance over <TIMEX3 tid="t1" type="DURATION" value="P8Y">the last eight years</TIMEX3>, with some <EVENT eid="e2" class="I_ACTION">doubling</EVENT> the number of students they have <EVENT eid="e3" class="OCCURRENCE">sent</EVENT> to third level colleges in that time, the <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3> Independent school league tables <EVENT eid="e4" class="OCCURRENCE">reveal</EVENT>. Schools in Munster and Leinster have <EVENT eid="e5" class="OCCURRENCE">seen</EVENT> the most dramatic improvements in academic performance over <TIMEX3 tid="t3" type="DURATION" value="P8Y">the last eight years</TIMEX3>, with some <EVENT eid="e6" class="I_ACTION">doubling</EVENT> the number of students they have <EVENT eid="e7" class="OCCURRENCE">sent</EVENT> to third level colleges in that time, the <TIMEX3 tid="t4" type="DATE" value="2017-01-29">Sunday</TIMEX3> Independent school league tables reveal. Three schools <EVENT eid="e8" class="OCCURRENCE">placed</EVENT> just half of their pupils in third level in <TIMEX3 tid="t5" type="DATE" value="2009">2009</TIMEX3> but have <EVENT eid="e9" class="OCCURRENCE">improved</EVENT> at such a rate since that they <EVENT eid="e10" class="OCCURRENCE">recorded</EVENT> perfect results <TIMEX3 tid="t6" type="DATE" value="2016">last year</TIMEX3>. Presentation Secondary School, Ballingarry, Co Tipperary; Scoil Aireagail, Ballyhale, Co Kilkenny; and Kilrush Community School, Co Clare have <EVENT eid="e11" class="OCCURRENCE">made</EVENT> the biggest strides nationally.
+
+The trio <EVENT eid="e12" class="OCCURRENCE">sent</EVENT> 51pc of their students on to universities, institutes of technology and other colleges <TIMEX3 tid="t7" type="DATE" value="2009">eight years ago</TIMEX3>. However, they were among a group of 83 schools nationally to <EVENT eid="e13" class="OCCURRENCE">send</EVENT> all of their pupils on to third level <TIMEX3 tid="t8" type="DATE" value="2016-09">last September</TIMEX3>. Overall, fee-paying schools <EVENT eid="e14" class="ASPECTUAL">continue</EVENT> to <EVENT eid="e15" class="OCCURRENCE">dominate</EVENT> when it comes to <EVENT eid="e16" class="OCCURRENCE">sending</EVENT> students to third level, but schools in the free scheme are <EVENT eid="e17" class="OCCURRENCE">catching</EVENT> up.
+
+Out of more than 700 schools analysed nationwide, just six have <EVENT eid="e18" class="OCCURRENCE">maintained</EVENT> a 100pc record in sending students on to third level in that time, according to figures covering <TIMEX3 tid="t9" type="DURATION" value="P8Y">eight years</TIMEX3> of college entry data. Just one non-fee-paying school has <EVENT eid="e19" class="I_ACTION">maintained</EVENT> that perfect record since <TIMEX3 tid="t10" type="DATE" value="2009">2009</TIMEX3>.
+
+By <EVENT eid="e20" class="OCCURRENCE">comparing</EVENT> the percentage of students who were <EVENT eid="e21" class="OCCURRENCE">admitted</EVENT> to a university after <EVENT eid="e22" class="OCCURRENCE">studying</EVENT> in a school with a perfect record, it is possible to <EVENT eid="e23" class="OCCURRENCE">distinguish</EVENT> which is the best performer overall. The figures compiled by the <TIMEX3 tid="t11" type="DATE" value="2017-01-29">Sunday</TIMEX3> Independent in the most comprehensive study of its kind to date <EVENT eid="e24" class="I_ACTION">show</EVENT> that Glenstal Abbey, Co Limerick, has <EVENT eid="e25" class="OCCURRENCE">emerged</EVENT> as the countys best-performing school, up two places from third on <TIMEX3 tid="t12" type="DATE" value="2016">last years</TIMEX3> tables.
+
+It just <EVENT eid="e26" class="OCCURRENCE">pipped</EVENT> Presentation Brothers College in the Mardyke, Cork to top spot. An analysis of the data <EVENT eid="e27" class="REPORTING">shows</EVENT> Glenstal Abbey has had the greatest percentage of students <EVENT eid="e28" class="OCCURRENCE">going</EVENT> to university since <TIMEX3 tid="t13" type="DATE" value="2009">2009</TIMEX3>.
+
+Digging deeper it is possible to <EVENT eid="e29" class="PERCEPTION">see</EVENT> that the school, which <EVENT eid="e30" class="OCCURRENCE">charges</EVENT> a 18,950 seven-day boarding fee, <EVENT eid="e31" class="OCCURRENCE">sends</EVENT> a majority of its students on to Dublin-based universities. A special supplement with the full details of <TIMEX3 tid="t14" type="DATE" value="2017">this years</TIMEX3> school league tables is <EVENT eid="e32" class="OCCURRENCE">published</EVENT> <TIMEX3 tid="t15" type="DATE" value="2017-01-29">today</TIMEX3> only in the <TIMEX3 tid="t16" type="DATE" value="2017-01-29">Sunday</TIMEX3> Independent.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t15" relatedToTime="t16" relType="IDENTITY" />
+<TLINK lid="TL9" timeID="t16" relatedToEventInstance="ie32" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL11" timeID="t5" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t16" relatedToTime="t15" relType="IDENTITY" />
+<TLINK lid="TL1" eventInstanceID="ie32" relatedToTime="t15" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie32" relatedToTime="t14" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t15" relatedToEventInstance="ie32" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie32" relatedToTime="t16" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie8" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie24" relatedToTime="t11" relType="IS_INCLUDED" />
+</TimeML>

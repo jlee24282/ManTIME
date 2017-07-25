@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201431953</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>The White King review  perhaps a dystopia too far</TITLE>
+
+
+<TEXT>
+Thought it <EVENT eid="e1" class="OCCURRENCE">builds</EVENT> its world impressively, this totalitarian yarn might not have the wide appeal of the big young adult franchises This British/Hungarian co-production unfolds in the kind of near-future dystopian society that is so popular in young adult movies. But with a modest budget and a younger protagonist  Djata (Lorenzo Allchurch) is a child whose father has been <EVENT eid="e2" class="OCCURRENCE">imprisoned</EVENT> for some undisclosed act of rebellion  this might not have the same appeal to audiences as movies such as The Hunger Games. Still, its an impressively <EVENT eid="e3" class="OCCURRENCE">realised</EVENT> world; the "Homeland" is an agrarian totalitarian state in which any form of dissent is <EVENT eid="e4" class="OCCURRENCE">quashed</EVENT> by jackboot justice.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

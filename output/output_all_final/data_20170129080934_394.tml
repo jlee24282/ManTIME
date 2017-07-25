@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201057819</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ken Hartle | Pearl Harbor diver, 103</TITLE>
+
+
+<TEXT>
+Ken Hartle, 103, who as a Navy diver during World War II <EVENT eid="e1" class="STATE">had</EVENT> the grim task of <EVENT eid="e2" class="OCCURRENCE">retrieving</EVENT> bodies from ships sunk at Pearl Harbor, <EVENT eid="e3" class="OCCURRENCE">died</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-24">Tuesday</TIMEX3> at an Escondido, Calif., center for people with dementia, the San Diego Union-Tribune <EVENT eid="e4" class="REPORTING">reported</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3>. 
+
+Mr. Hartle may have been the oldest surviving Pearl Harbor salvage diver, <EVENT eid="e5" class="REPORTING">said</EVENT> David Ball of San Diego, an officer with the Navy Divers Association. 
+
+Mr. Hartle and his fellow Seabees <EVENT eid="e6" class="OCCURRENCE">worked</EVENT> in the <TIMEX3 tid="t3" type="DURATION" value="PXD">days</TIMEX3> before scuba diving equipment was commonplace. His heavy canvas diving suit and brass helmet <EVENT eid="e7" class="OCCURRENCE">weighed</EVENT> more than 200 pounds. 
+
+Japan's surprise <EVENT eid="e8" class="OCCURRENCE">attack</EVENT> on Pearl Harbor <EVENT eid="e9" class="OCCURRENCE">sank</EVENT> or <EVENT eid="e10" class="OCCURRENCE">beached</EVENT> 18 ships. Among them was the battleship Arizona, which <EVENT eid="e11" class="OCCURRENCE">went</EVENT> down with 1,177 crew members. 
+
+He was <EVENT eid="e12" class="OCCURRENCE">working</EVENT> as a civilian ship-fitter at a Navy yard in the San Francisco Bay Area when the war <EVENT eid="e13" class="OCCURRENCE">broke</EVENT> out but he wasn't <EVENT eid="e14" class="OCCURRENCE">allowed</EVENT> to <EVENT eid="e15" class="OCCURRENCE">enlist</EVENT> until <TIMEX3 tid="t4" type="DATE" value="1943">1943</TIMEX3> because his job was <EVENT eid="e16" class="OCCURRENCE">deemed</EVENT> too important to the war effort. 
+
+He was <EVENT eid="e17" class="STATE">proud</EVENT> of the work he <EVENT eid="e18" class="OCCURRENCE">performed</EVENT> over <TIMEX3 tid="t5" type="DURATION" value="P2Y">the next two years</TIMEX3>, his children <EVENT eid="e19" class="REPORTING">said</EVENT>. He <EVENT eid="e20" class="OCCURRENCE">risked</EVENT> death by <EVENT eid="e21" class="OCCURRENCE">towing</EVENT> away unexploded torpedoes and <EVENT eid="e22" class="OCCURRENCE">salvaging</EVENT> ships and planes, first at Pearl Harbor and later from Maine to the Philippines. 
+
+He <EVENT eid="e23" class="ASPECTUAL">avoided mentioning</EVENT> one task: <EVENT eid="e24" class="OCCURRENCE">recovering</EVENT> the long-submerged bodies of sailors at the bottom at Pearl Harbor. 
+
+"He just didn't <EVENT eid="e25" class="OCCURRENCE">like talking</EVENT> about it," <EVENT eid="e26" class="REPORTING">said</EVENT> son Ken. "He would only <EVENT eid="e27" class="REPORTING">say</EVENT> that the hardest part of the job was '<EVENT eid="e28" class="OCCURRENCE">bringing</EVENT> up our boys.' " - AP
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t3" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie21" relatedToEventInstance="ie22" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

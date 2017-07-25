@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197069667</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Fredo Santana - Tell Nobody Feat. Chief Keef</TITLE>
+
+
+<TEXT>
+Fredo Santana - Plugged In  Hot HipHop (<TIMEX3 tid="t1" type="DATE" value="2017-01-28">Yesterday</TIMEX3>) - Fredo's new tape features a guest appearance from Chief Keef.http://www.hotnewhiphop.com/mixtape/116824... 
+
+Cam'ron, Juelz Santana   Jim Jones - Tim Westwood Freestyle (<TIMEX3 tid="t2" type="DATE" value="2003">2003</TIMEX3>) 
+
+Chief Keef Reportedly <EVENT eid="e1" class="OCCURRENCE">Released</EVENT> On $500,000 Bail  Hot HipHop (<TIMEX3 tid="t3" type="DATE" value="2017-01-28">Yesterday</TIMEX3>) - The L.A. County Sherriff's Department database <EVENT eid="e2" class="OCCURRENCE">suggests</EVENT> that the rapper is no longer in jail.http://www.hotnewhiphop.com/chief-keef-reportedly-released-from-jail-on-s500-000-bail-news.28114.html... Fredo Santana - Plugged In 
+
+Chief Keef Reportedly Arrested For Robbing   Assaulting Former Producer 
+
+Chief Keef Reportedly Arrested For Robbing   Assaulting Former Producer  Hot HipHop (<TIMEX3 tid="t4" type="DATE" value="2017-01-27">2 days ago</TIMEX3>) - Chief Keef apparently <EVENT eid="e3" class="OCCURRENCE">jumped</EVENT> his former producer   <EVENT eid="e4" class="OCCURRENCE">robbed</EVENT> him with 5 other friends. #Savagelife.http://www.hotnewhiphop.com/chief-keef-reportedly-arrested-for-robbing-and-assaulting-former-producer-news.28057.html... 
+
+Fredo Santana - Tell Nobody Feat. Chief Keef 
+
+Fredo Santana - Plugged In 
+
+Chief Keef Reportedly <EVENT eid="e5" class="OCCURRENCE">Released</EVENT> On $500,000 Bail 
+
+Cam'ron, Juelz Santana   Jim Jones - Tim Westwood Freestyle (<TIMEX3 tid="t5" type="DATE" value="2003">2003</TIMEX3>)  Hot HipHop (<TIMEX3 tid="t6" type="DATE" value="2017-01-26">3 days ago</TIMEX3>) - Tim Westwood <EVENT eid="e6" class="OCCURRENCE">exhumes</EVENT> an unreleased Dipset freestyle from <TIMEX3 tid="t7" type="DATE" value="2003">2003</TIMEX3>.http://www.hotnewhiphop.com/camron-juelz-santana-and-jim-jones-tim-westwood-freestyle-2003-new-song.1972689.html... 
+
+Fredo Santana - Tell Nobody Feat. Chief Keef 
+
+Watch Suns' Rookie Derrick Jones Jr.'s Impressive Dunk Contest Highlight Reel 
+
+Watch Migos Freestyle "Dab Of Ranch"
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL0" timeID="t3" relatedToTime="t1" relType="IDENTITY" />
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204349754</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Nineteen County College of Morris athletes honored</TITLE>
+
+
+<TEXT>
+RANDOLPH TWP. - The had 19 student athletes <EVENT eid="e1" class="OCCURRENCE">named</EVENT> to the and All teams for their performance on and off the field during <TIMEX3 tid="t1" type="DATE" value="2016">fall 2016</TIMEX3>. To be <EVENT eid="e2" class="OCCURRENCE">named</EVENT> All team, student athletes <EVENT eid="e3" class="I_STATE">need</EVENT> to <EVENT eid="e4" class="OCCURRENCE">maintain</EVENT> a GPA of at least 3.0, while athltetes must <EVENT eid="e5" class="OCCURRENCE">maintain</EVENT> a GPA of 3.25 or greater.
+
+The following student-athletes were <EVENT eid="e6" class="OCCURRENCE">recognized</EVENT> by the GSAC and Region XIX:Womens Volleyball:
+
+ Jessica Heider of Randolph, All GSAC
+
+ Isabella Paz of Budd Lake, All GSAC
+
+ Erin Higgins of Kinnelon, All GSAC and  Sarah Lynch of Madison, All GSAC and  Taylor Fehnel of Long Valley, All GSAC
+
+ Zabrina Gale of Succasunna, All GSAC
+
+ Stephanie Williams of Landing, All GSAC and  Raeanna Cope of Budd Lake, All GSAC and  Joelle Fusco of Sparta, All GSAC and  Keisy Ramos of Mine Hill, All GSAC and  Jaida Schettino of Sparta, All GSAC and  Sean McEvoy of Denville, All GSAC
+
+ Jack Christianson of Stanhope, All GSAC and  Bektesh Hadzovic of Flanders, All GSAC and  Matias Lago of Randolph, All GSAC and  Taylor McQuade of West Milford, All GSAC and  Jon Svendsen of Hackettstown, All GSAC and  Ivan Maldonado of Morristown, All GSAC and  Mark Lalo of Morris Plains, All GSAC and The is one of 16 Region XIX county colleges in New Jersey that belong to the . The provides academic and athletic opportunities to students <EVENT eid="e7" class="OCCURRENCE">pursuing</EVENT> higher education at <TIMEX3 tid="t2" type="DURATION" value="P2Y">two year</TIMEX3> community colleges.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie7" relType="INCLUDES" />
+</TimeML>

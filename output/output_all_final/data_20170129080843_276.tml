@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198796267</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Srinagar-Jammu highway cleared after five-day long snowfall</TITLE>
+
+
+<TEXT>
+The Srinagar-Jammu National Highway was <EVENT eid="e1" class="OCCURRENCE">cleared</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3>, five <TIMEX3 tid="t2" type="DURATION" value="PXD">days</TIMEX3> after snowfall in the valley <EVENT eid="e2" class="OCCURRENCE">led</EVENT> to closure of the roads. 
+ 
+Following the improvement in weather, the national highway has been <EVENT eid="e3" class="OCCURRENCE">thrown</EVENT> open for traffic after the road was cleared-off snow and debris <EVENT eid="e4" class="OCCURRENCE">left</EVENT> behind at few place. 
+ 
+Kashmir <EVENT eid="e5" class="I_ACTION">experienced</EVENT> fresh snowfall on <TIMEX3 tid="t3" type="DATE" value="2017-01-24">Tuesday</TIMEX3> which <EVENT eid="e6" class="OCCURRENCE">continued</EVENT> intermittently <TIMEX3 tid="t4" type="DATE" value="2017-01-28">yesterday</TIMEX3> as well. 
+ 
+The snowfall also <EVENT eid="e7" class="OCCURRENCE">hit</EVENT> flight operations at Srinagar airport. 
+ 
+(This article has not been <EVENT eid="e8" class="OCCURRENCE">edited</EVENT> by DNA's editorial team and is auto-generated from an agency feed.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL11" timeID="t3" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="BEFORE" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" timeID="t4" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL5" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

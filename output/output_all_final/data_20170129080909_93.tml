@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199744279</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Elkton girls too strong for Powers</TITLE>
+
+
+<TEXT>
+POWERS  Hannah Maxwell <EVENT eid="e1" class="OCCURRENCE">scored</EVENT> 22 points and <EVENT eid="e2" class="OCCURRENCE">grabbed</EVENT> nine rebounds as the Elkton girls basketball team <EVENT eid="e3" class="OCCURRENCE">remained</EVENT> one game behind North Douglas in the Skyline League North race with a 49-32 win over Powers <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+The Elks <EVENT eid="e4" class="OCCURRENCE">improved</EVENT> to 17-3 overall and 8-1 in the North. 
+ 
+Victoria LaChapelle <EVENT eid="e5" class="OCCURRENCE">chipped</EVENT> in 12 points and five steals for Elkton, which <EVENT eid="e6" class="OCCURRENCE">outscored</EVENT> the Cruisers 14-4 in <TIMEX3 tid="t2" type="DATE" value="2017-Q2">the second quarter</TIMEX3>. 
+ 
+"We <EVENT eid="e7" class="OCCURRENCE">got</EVENT> some turnovers and easy baskets in <TIMEX3 tid="t3" type="DATE" value="2017-Q2">the second quarter</TIMEX3>," <EVENT eid="e8" class="REPORTING">said</EVENT> Elkton coach Rob Parker. 
+ 
+Miya Clauson <EVENT eid="e9" class="OCCURRENCE">scored</EVENT> nine for Powers (8-12, 5-4 South). 
+ 
+ELKTON (49)  Hannah Maxwell 22, LaChapelle 12, Carnes 7, Swearingen 4, Briggs 2, Whitley 2, McCall, Standley, Cox, Luzier, Olson, Halstead. Totals 21-65 7-12 49. 
+ 
+POWERS (32)  Miya Clauson 9, Kamakele 7, Mowe 6, Pedrick 4, James 2, Ellis 2, Shorb 2, Fandel. Totals 13-36 6-13 32. 
+ 
+Elkton;12;14;18;5;;49 
+ 
+Powers;7;4;12;9;;32 
+ 
+3-Point Field Goals  None. Total Fouls  Elk. 12, Pow. 12.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

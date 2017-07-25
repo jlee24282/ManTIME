@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194057398</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Seeded stars to watch in Burnie</TITLE>
+
+
+<TEXT>
+International players <EVENT eid="e1" class="I_ACTION">headline</EVENT> a strong mens field to <EVENT eid="e2" class="OCCURRENCE">take</EVENT> to the court in Burnie <TIMEX3 tid="t1" type="DATE" value="2017-W05">this week</TIMEX3>. International players headline a strong mens field to <EVENT eid="e3" class="OCCURRENCE">take</EVENT> to the court in Burnie <TIMEX3 tid="t2" type="DATE" value="2017-W05">this week</TIMEX3>. Six of the top 10 seeded players are visitors to Australia for the <TIMEX3 tid="t3" type="DATE" value="2017">2017</TIMEX3> Caterpillar Burnie International with Japans Go Soeda <EVENT eid="e4" class="OCCURRENCE">headlining</EVENT> the list.
+
+Joining Soeda in the top ranks will be Jason Jung of Chinese Taipei has been <EVENT eid="e5" class="OCCURRENCE">seeded</EVENT> at number 2 while Australian Andrew Whittington comes in at number three. 
+
+Among others to <EVENT eid="e6" class="OCCURRENCE">watch</EVENT> in the opening round as the tournament <EVENT eid="e7" class="OCCURRENCE">begins</EVENT> on <TIMEX3 tid="t4" type="DATE" value="2017-01-23">Monday</TIMEX3> will be former Australian junior champion Luke Saville, Kazakhstans Alexander Bublik and Egypts Mohamed Safwat. 
+
+Another Australian highly ranked will be Matthew Barton who has bene seeded at number five with USA talent Noah Rubin at number six.
+
+Young guns Omar Jasika and Blake Mott will also be in action in round one while Tasmanian talent Harry Bourchier will <EVENT eid="e8" class="OCCURRENCE">face</EVENT> fellow wildcard Matthew Ebden.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t4" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="BEFORE" />
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200094144</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mass vehicle collision on Jaipur-Agra NH leaves one dead</TITLE>
+
+
+<TEXT>
+-01:16pm , PTI 
+  
+Due to poor visibility, one after the other vehicles <EVENT eid="e1" class="OCCURRENCE">collided</EVENT>," SHO Kanota Police Station, Gauri Shankar Bohara <EVENT eid="e2" class="REPORTING">told</EVENT> 
+   
+A teenager <EVENT eid="e3" class="OCCURRENCE">died</EVENT> while 45 others were <EVENT eid="e4" class="OCCURRENCE">injured</EVENT> after nearly 35 vehicles <EVENT eid="e5" class="OCCURRENCE">rammed</EVENT> into each other amid fog on the Jaipur-Agra National Highway <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3>. 
+ 
+"The accident <EVENT eid="e6" class="OCCURRENCE">took</EVENT> place between Bassi and Kanota near Jaipur when one of the vehicle's driver <EVENT eid="e7" class="OCCURRENCE">applied</EVENT> brakes all of a sudden and <EVENT eid="e8" class="OCCURRENCE">hit</EVENT> a truck. Due to poor visibility, one after the other vehicles collided," SHO Kanota Police Station, Gauri Shankar Bohara <EVENT eid="e9" class="REPORTING">told</EVENT> 
+ 
+(This article has not been <EVENT eid="e10" class="OCCURRENCE">edited</EVENT> by DNA's editorial team and is auto-generated from an agency feed.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToEventInstance="ie1" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie2" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie1" relatedToEventInstance="ie4" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie4" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+</TimeML>

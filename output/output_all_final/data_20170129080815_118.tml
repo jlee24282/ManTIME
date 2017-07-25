@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197435034</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Dillingham police find woman accused of Togiak importation</TITLE>
+
+
+<TEXT>
+January <TIMEX3 tid="t1" type="TIME" value="2017-01-29T28:09">28th 9:09</TIMEX3> pm | Molly Dischner, The Bristol Bay Times-Dutch Harbor Fisherman    
+ 
+Alaska State Troopers have <EVENT eid="e1" class="REPORTING">said</EVENT> Dillingham police <EVENT eid="e2" class="OCCURRENCE">found</EVENT> a woman who allegedly <EVENT eid="e3" class="OCCURRENCE">imported</EVENT> drugs and alcohol into Togiak. 
+ 
+In an online dispatch, Alaska State Troopers <EVENT eid="e4" class="REPORTING">wrote</EVENT> that Togiak Tribal police <EVENT eid="e5" class="OCCURRENCE">identified</EVENT> Shaina Clark, 22, as a suspect in drug and alcohol importation in mid-January. 
+ 
+On <TIMEX3 tid="t2" type="DATE" value="2017-01-17">January 17</TIMEX3>, Dillingham Police <EVENT eid="e6" class="OCCURRENCE">contacted</EVENT> Clark regarding a separate investigation, and <EVENT eid="e7" class="OCCURRENCE">found</EVENT> five bottles of alcohol while <EVENT eid="e8" class="OCCURRENCE">executing</EVENT> a search warrant into the suitcase she had with her in Togiak.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+</TimeML>

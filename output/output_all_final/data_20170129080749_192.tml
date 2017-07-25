@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196703397</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Edo coaches, ex-athletes want technocrat as commissioner - Nigeria Today</TITLE>
+
+
+<TEXT>
+Edo coaches, ex-athletes want technocrat as commissioner 
+Nigeria Today 
+This is why we are <EVENT eid="e1" class="OCCURRENCE">begging</EVENT> our governor to <EVENT eid="e2" class="I_ACTION">appoint</EVENT> someone with a sound <EVENT eid="e3" class="I_ACTION">resume</EVENT> to <EVENT eid="e4" class="OCCURRENCE">manage</EVENT> the Ministry so that Edo State will <EVENT eid="e5" class="OCCURRENCE">assume</EVENT> her rightful position in the Nigerian sports calendar. On my own part, I <EVENT eid="e6" class="I_STATE">want</EVENT> to <EVENT eid="e7" class="OCCURRENCE">appeal</EVENT> to the governor to <EVENT eid="e8" class="OCCURRENCE">look</EVENT> into   
+and more 
+   
+<EVENT eid="e9" class="OCCURRENCE">read</EVENT> more 
+ 
+Read more here:: Nigerian Sports News
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

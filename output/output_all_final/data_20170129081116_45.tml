@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204261180</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Editorial: State progress in graduation rates is no triumph</TITLE>
+
+
+<TEXT>
+Oregons graduation rate <EVENT eid="e1" class="OCCURRENCE">rose</EVENT> incrementally for the class of <TIMEX3 tid="t1" type="DATE" value="2016">2016</TIMEX3>. While this certainly isnt bad news, its hardly reason for wild celebration. The state still has a long way to <EVENT eid="e2" class="OCCURRENCE">go</EVENT>. 
+ 
+The state Department of Educations announcement <EVENT eid="e3" class="I_ACTION">tried</EVENT> to <EVENT eid="e4" class="OCCURRENCE">stay</EVENT> positive. 
+ 
+Oregons graduation rate <EVENT eid="e5" class="ASPECTUAL">continues</EVENT> to <EVENT eid="e6" class="OCCURRENCE">climb</EVENT> according to data <EVENT eid="e7" class="OCCURRENCE">released</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-01-29">today</TIMEX3>, the news release <EVENT eid="e8" class="REPORTING">said</EVENT>. More importantly, the graduation rate for almost all historically underserved student populations <EVENT eid="e9" class="OCCURRENCE">grew</EVENT> at a faster rate than the overall graduation rate. 
+ 
+Despite the improvement, about 25 percent of Oregon high school students dont graduate from high school. And at least by the measure of graduation rates, Oregon schools are some of the worst in the country. Oregon has the third lowest graduation rate in the United States. 
+ 
+In Central Oregon, some districts did <EVENT eid="e10" class="PERCEPTION">see</EVENT> bigger changes. Redmond School District <EVENT eid="e11" class="OCCURRENCE">went</EVENT> from a 71 percent graduation rate in 2014-15 to 79 percent in 2015-16. Crook County School District <EVENT eid="e12" class="OCCURRENCE">leapt</EVENT> up from 46 percent to 68 percent over the same time period. Part of the <EVENT eid="e13" class="OCCURRENCE">explanation</EVENT> in Crook County is that Insight School of Oregon was not <EVENT eid="e14" class="STATE">included</EVENT> in the Crook County data, <EVENT eid="e15" class="REPORTING">according</EVENT> to a story by Bulletin reporter Kailey Fisicaro. 
+ 
+Some districts basically <EVENT eid="e16" class="OCCURRENCE">stayed</EVENT> the same. Bend schools <EVENT eid="e17" class="OCCURRENCE">stayed</EVENT> at 77 percent, though the number <EVENT eid="e18" class="OCCURRENCE">ticked</EVENT> fractionally upward. 
+ 
+Educators <EVENT eid="e19" class="REPORTING">say</EVENT> they are not <EVENT eid="e20" class="OCCURRENCE">satisfied</EVENT> with the states performance. Neither should you be.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="AFTER" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie7" relType="INCLUDES" />
+</TimeML>

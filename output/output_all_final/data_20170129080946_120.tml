@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201285407</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Les Ferdinand claims he knew this Spurs youngster would become a first-team regular</TITLE>
+
+
+<TEXT>
+Harry Winks has <EVENT eid="e1" class="OCCURRENCE">made</EVENT> 23 appearances for Tottenham Hotspur so far this season. 
+ 
+[embedded content] 
+ 
+Les Ferdinand  has <EVENT eid="e2" class="REPORTING">told</EVENT> the London Evening Standard that he has not been at all <EVENT eid="e3" class="OCCURRENCE">surprised</EVENT> by Harry Winks <EVENT eid="e4" class="OCCURRENCE">rise</EVENT> at Tottenham Hotspur. 
+ 
+Winks <EVENT eid="e5" class="OCCURRENCE">started</EVENT> this campaign as a promising youngster, who had barely <EVENT eid="e6" class="OCCURRENCE">received</EVENT> any game time. 
+ 
+However, Mauricio Pochettino has <EVENT eid="e7" class="OCCURRENCE">shown</EVENT> great faith in the 20-year-old in <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recent weeks</TIMEX3>. 
+ 
+
+ 
+Winks has <EVENT eid="e8" class="OCCURRENCE">gone</EVENT> on to <EVENT eid="e9" class="OCCURRENCE">make</EVENT> 23 appearances in all competitions for Spurs this season, and he has regularly been <EVENT eid="e10" class="OCCURRENCE">brought</EVENT> off the substitutes bench in crucial stages of the Lilywhites Premier League <EVENT eid="e11" class="OCCURRENCE">matches</EVENT>. 
+ 
+Pochettino clearly feels that Winks is <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> an important member of his first-team squad. 
+ 
+And, although Ferdinand did not <EVENT eid="e12" class="OCCURRENCE">work</EVENT> with Winks while he was <EVENT eid="e13" class="OCCURRENCE">coaching</EVENT> at White Hart Lane, the former Spurs striker is not at all <EVENT eid="e14" class="OCCURRENCE">shocked</EVENT> by the England youth internationals progression. 
+ 
+"No [I wasn't <EVENT eid="e15" class="OCCURRENCE">surprised</EVENT> at his development], Ferdinand <EVENT eid="e16" class="REPORTING">said</EVENT>. 
+ 
+
+ 
+"Harry [Winks] didn't really <EVENT eid="e17" class="OCCURRENCE">work</EVENT> with us but we <EVENT eid="e18" class="OCCURRENCE">saw</EVENT> him in the system and we <EVENT eid="e19" class="REPORTING">knew</EVENT> he <EVENT eid="e20" class="STATE">had</EVENT> the ability to <EVENT eid="e21" class="OCCURRENCE">become</EVENT> a very, very good player. 
+ 
+"And <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> he's <EVENT eid="e22" class="OCCURRENCE">proving</EVENT> it and <EVENT eid="e23" class="OCCURRENCE">getting</EVENT> his chances in the first team. 
+ 
+Winks latest performance for Spurs <EVENT eid="e24" class="OCCURRENCE">came</EVENT> against Wycombe Wanderers in the FA Cup, as Pochettinos men narrowly <EVENT eid="e25" class="OCCURRENCE">avoided</EVENT> an <EVENT eid="e26" class="OCCURRENCE">upset</EVENT>. 
+ 
+Spurs <EVENT eid="e27" class="OCCURRENCE">fell</EVENT> behind twice in the <EVENT eid="e28" class="OCCURRENCE">contest</EVENT>, but <EVENT eid="e29" class="OCCURRENCE">rescued</EVENT> the victory with a <TIMEX3 tid="t4" type="DATE" value="X">97th minute</TIMEX3> <EVENT eid="e30" class="OCCURRENCE">strike</EVENT> through Heung-Min Son. 
+ 
+[embedded content]
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie30" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t4" relatedToEventInstance="ie30" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t3" relatedToEventInstance="ie22" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie29" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie22" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie29" relatedToEventInstance="ie27" relType="AFTER" />
+</TimeML>

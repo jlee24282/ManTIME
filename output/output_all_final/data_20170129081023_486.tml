@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202819131</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Etisalat apologises for Friday's service disruption</TITLE>
+
+
+<TEXT>
+ABU DHABI, 28th <TIMEX3 tid="t1" type="DATE" value="2017-01">January</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> (WAM) -- Telecommunications services provider Etisalat has <EVENT eid="e1" class="OCCURRENCE">apologised</EVENT> to its customers for the inconvenience <EVENT eid="e2" class="OCCURRENCE">caused</EVENT> by the <EVENT eid="e3" class="OCCURRENCE">disruption</EVENT> of its mobile and internet services
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="BEFORE" />
+</TimeML>

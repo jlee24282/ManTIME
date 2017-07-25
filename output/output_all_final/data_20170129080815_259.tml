@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197522786</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bodies of three decapitated police found in Mexico</TITLE>
+
+
+<TEXT>
+MEXICO CITY- Authorities <EVENT eid="e1" class="OCCURRENCE">found</EVENT> the decapitated bodies of three municipal police officers on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> in a suspected gang-related <EVENT eid="e2" class="OCCURRENCE">slaying</EVENT> in southeastern Mexico, an official from the area <EVENT eid="e3" class="REPORTING">said</EVENT>.
+
+The bodies, which showed signs of torture, were <EVENT eid="e4" class="OCCURRENCE">found</EVENT> in the municipality of Huimanguillo in Tabasco state near its border with Veracruz state, <EVENT eid="e5" class="REPORTING">said</EVENT> the official, who <EVENT eid="e6" class="OCCURRENCE">spoke</EVENT> on condition of anonymity. One of the three was a woman, the official <EVENT eid="e7" class="REPORTING">said</EVENT>.
+
+The three victims were <EVENT eid="e8" class="OCCURRENCE">kidnapped</EVENT> from the nearby Veracruz municipality of Las Choapas on <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3>, the official <EVENT eid="e9" class="REPORTING">said</EVENT>. Although the motive was unclear, the perpetrators were <EVENT eid="e10" class="I_STATE">believed</EVENT> to be part of a criminal gang.
+
+Veracruz and Tabasco <EVENT eid="e11" class="OCCURRENCE">lie</EVENT> on Mexico's Gulf Coast, an area long ravaged by drug smugglers and people traffickers.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" timeID="t2" relatedToEventInstance="ie9" relType="INCLUDES" />
+</TimeML>

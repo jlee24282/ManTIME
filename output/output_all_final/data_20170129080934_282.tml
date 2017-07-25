@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200974998</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Elected New York Officials Laud Deportation Stay; Sharply Denounce Trump</TITLE>
+
+
+<TEXT>
+Trump signs executive orders 
+ 
+New York's top elected office holders last night <EVENT eid="e1" class="OCCURRENCE">welcomed</EVENT> a stay by a federal judge that <EVENT eid="e2" class="OCCURRENCE">blocked</EVENT> some deportations based on President Donald Trump's so-called Muslim ban executive order. 
+ 
+The U.S. District Court Judge Ann Donnelly, <EVENT eid="e3" class="OCCURRENCE">ruled</EVENT> in favor of a petition <EVENT eid="e4" class="OCCURRENCE">filed</EVENT> by the American Civil Liberties Union (ACLU) who are <EVENT eid="e5" class="OCCURRENCE">representing</EVENT> two Iraqi men <EVENT eid="e6" class="OCCURRENCE">detained</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3> at John F. Kennedy International Airport on <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3>. 
+ 
+Judge Donnelly <EVENT eid="e7" class="REPORTING">ruled</EVENT> that "there is imminent danger that, absent the stay of removal, there will be substantial and irreparable injury to refugees, visa-holders, and other individuals from nations subject..." 
+ 
+Trump's executive order <EVENT eid="e8" class="OCCURRENCE">blocks</EVENT> Syrian refugees as well as resettlement of all refugees for <TIMEX3 tid="t3" type="DURATION" value="P4M">four months</TIMEX3> until his new administration <EVENT eid="e9" class="I_STATE">enacts</EVENT> a new "vetting" scheme. Entry is also <EVENT eid="e10" class="OCCURRENCE">denied</EVENT> for <TIMEX3 tid="t4" type="DURATION" value="P3M">three months</TIMEX3> to people from Somalia, Sudan, Syria, Iraq, Iran, Libya and Yemen. 
+ 
+"I <EVENT eid="e11" class="I_STATE">applaud</EVENT> the stay <EVENT eid="e12" class="OCCURRENCE">ordered</EVENT> by Judge Donnelly of the Eastern District of New York regarding President Trump's dangerous and discriminatory executive action," <EVENT eid="e13" class="REPORTING">said</EVENT> Eric T. Schneiderman, the New York State attorney general. "Let me be clear: President Trump's executive action <EVENT eid="e14" class="STATE">is</EVENT> unconstitutional and in clear <EVENT eid="e15" class="OCCURRENCE">violation</EVENT> of federal law, including both the Establishment Clause and the Immigration and Nationality Act of <TIMEX3 tid="t5" type="DATE" value="1965">1965</TIMEX3>. I will <EVENT eid="e16" class="OCCURRENCE">do</EVENT> everything within my power to <EVENT eid="e17" class="I_ACTION">help lead</EVENT> the fight to permanently <EVENT eid="e18" class="OCCURRENCE">strike</EVENT> it down. 
+ 
+"I will not <EVENT eid="e19" class="OCCURRENCE">allow</EVENT> voiceless refugees, and all those <EVENT eid="e20" class="OCCURRENCE">targeted</EVENT> by this reckless action, to be <EVENT eid="e21" class="OCCURRENCE">victimized</EVENT> by an unlawful, unconstitutional, and fundamentally un-American decree from the President." 
+ 
+Score one for the <EVENT eid="e22" class="OCCURRENCE">resistance</EVENT>. Tonights ruling is an important step towards victory for civil rights, for justice, and for the democratic principles our country was <EVENT eid="e23" class="OCCURRENCE">founded</EVENT> on," <EVENT eid="e24" class="REPORTING">said</EVENT> Letitia James, the New York City public advodate. "Let this be a strong message to President Trump. We will <EVENT eid="e25" class="OCCURRENCE">fight</EVENT> against any policy that is <EVENT eid="e26" class="OCCURRENCE">founded</EVENT> on hate and exclusion and the law is on our side. We will never <EVENT eid="e27" class="OCCURRENCE">give</EVENT> in, we will never <EVENT eid="e28" class="OCCURRENCE">give</EVENT> up, and we will <EVENT eid="e29" class="OCCURRENCE">fight</EVENT> xenophobia and discrimination with justice." 
+ 
+The New York City Comptroller Scott M. Stringer <EVENT eid="e30" class="REPORTING">said</EVENT>: "This Executive Order, <EVENT eid="e31" class="OCCURRENCE">signed</EVENT> by President Trump just <TIMEX3 tid="t6" type="DURATION" value="P1W">a week</TIMEX3> into office, will forever be a <EVENT eid="e32" class="OCCURRENCE">stain</EVENT> on this White House. From the beginning of its tenure, this administration has <EVENT eid="e33" class="OCCURRENCE">placed</EVENT> itself on the wrong side of history. 
+ 
+"This ruling is a victory for not just the rule of law, or for checks and balances in government. It's a win for morality. It's a step in the right direction for those <EVENT eid="e34" class="I_ACTION">trying</EVENT> to <EVENT eid="e35" class="OCCURRENCE">become</EVENT> Americans. 
+ 
+"This should be the beginning  not the end  of our <EVENT eid="e36" class="OCCURRENCE">fight</EVENT> against this backwards Executive Order. We must <EVENT eid="e37" class="ASPECTUAL">continue</EVENT> to <EVENT eid="e38" class="OCCURRENCE">fight</EVENT> for American values, and <EVENT eid="e39" class="ASPECTUAL">stand</EVENT> up for those who need us most."
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie26" relatedToEventInstance="ie25" relType="AFTER" />
+<TLINK lid="TL9" eventInstanceID="ie27" relatedToEventInstance="ie28" relType="AFTER" />
+<TLINK lid="TL17" timeID="t6" relatedToEventInstance="ie31" relType="INCLUDES" />
+<TLINK lid="TL16" timeID="t2" relatedToTime="t1" relType="IDENTITY" />
+<TLINK lid="TL15" timeID="t2" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL13" eventInstanceID="ie29" relatedToEventInstance="ie28" relType="AFTER" />
+<TLINK lid="TL11" eventInstanceID="ie28" relatedToEventInstance="ie27" relType="AFTER" />
+<TLINK lid="TL10" eventInstanceID="ie23" relatedToEventInstance="ie24" relType="AFTER" />
+<TLINK lid="TL19" timeID="t1" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL18" timeID="t4" relatedToEventInstance="ie10" relType="BEFORE" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL20" timeID="t1" relatedToTime="t2" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie38" relatedToEventInstance="ie37" relType="IDENTITY" />
+<TLINK lid="TL7" eventInstanceID="ie25" relatedToEventInstance="ie26" relType="BEFORE" />
+<TLINK lid="TL14" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie24" relatedToEventInstance="ie23" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL12" eventInstanceID="ie29" relatedToEventInstance="ie27" relType="AFTER" />
+</TimeML>

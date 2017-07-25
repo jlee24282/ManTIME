@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202954197</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Waterloo council to discuss budget</TITLE>
+
+
+<TEXT>
+WATERLOO  The City Council will <EVENT eid="e1" class="OCCURRENCE">hold</EVENT> a public work <EVENT eid="e2" class="OCCURRENCE">session</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-23">Monday</TIMEX3> to <EVENT eid="e3" class="OCCURRENCE">discuss</EVENT> next <TIMEX3 tid="t2" type="DURATION" value="PXY">years</TIMEX3> budget.
+
+The <EVENT eid="e4" class="OCCURRENCE">meeting</EVENT> at <TIMEX3 tid="t3" type="TIME" value="2017-01-29T17:30">5:30 p.m. Monday</TIMEX3> in City Hall will <EVENT eid="e5" class="OCCURRENCE">take</EVENT> advantage of what would normally be a <TIMEX3 tid="t4" type="DURATION" value="PXD">day</TIMEX3> off, because regular Waterloo council meetings are only <EVENT eid="e6" class="OCCURRENCE">held</EVENT> on the <TIMEX3 tid="t5" type="DATE" value="2017-01-23">first four Mondays</TIMEX3> of any month. <TIMEX3 tid="t6" type="DATE" value="2017-W05">This week</TIMEX3> is Januarys <TIMEX3 tid="t7" type="DATE" value="2017-01-23">fifth Monday</TIMEX3>.
+
+Mayor Quentin Hart <EVENT eid="e7" class="REPORTING">said</EVENT> the work session is <EVENT eid="e8" class="OCCURRENCE">designed</EVENT> to <EVENT eid="e9" class="OCCURRENCE">provide</EVENT> some baseline information about the budget for <TIMEX3 tid="t8" type="DURATION" value="PXY">the fiscal year</TIMEX3> starting <TIMEX3 tid="t9" type="DATE" value="2017-07-01">July 1</TIMEX3> and <EVENT eid="e10" class="OCCURRENCE">discuss</EVENT> the process <EVENT eid="e11" class="OCCURRENCE">moving</EVENT> forward.
+
+He <EVENT eid="e12" class="REPORTING">said</EVENT> additional budget meetings are tentatively <EVENT eid="e13" class="OCCURRENCE">slated</EVENT> for <TIMEX3 tid="t10" type="DATE" value="2017-02-08">Feb. 8</TIMEX3> and <TIMEX3 tid="t11" type="DATE" value="2017-02-11">Feb. 11</TIMEX3>, the latter being a <TIMEX3 tid="t12" type="DATE" value="2017-01-28">Saturday</TIMEX3>. The city must <EVENT eid="e14" class="OCCURRENCE">set</EVENT> the budget before <TIMEX3 tid="t13" type="DATE" value="2017-03-15">March 15</TIMEX3> to <EVENT eid="e15" class="OCCURRENCE">comply</EVENT> with state law.
+
+<TIMEX3 tid="t14" type="DATE" value="2017-W05">This weeks</TIMEX3> <EVENT eid="e16" class="OCCURRENCE">meeting</EVENT> is not <EVENT eid="e17" class="OCCURRENCE">designed</EVENT> for public input, but future meetings and the mandatory budget <EVENT eid="e18" class="OCCURRENCE">meeting</EVENT> will <EVENT eid="e19" class="ASPECTUAL">allow</EVENT> comments.
+
+Meanwhile, the city has <EVENT eid="e20" class="OCCURRENCE">put</EVENT> a link on the home page of its website  www.cityofwaterlooiowa.com  where anyone can <EVENT eid="e21" class="OCCURRENCE">post</EVENT> ideas on priorities, programs, improvements and organizational processes related to the budget.
+
+<TIMEX3 tid="t15" type="DATE" value="2016">Last year</TIMEX3>, a deeply divided City Council <EVENT eid="e22" class="OCCURRENCE">voted</EVENT> 4-3 to <EVENT eid="e23" class="OCCURRENCE">approve</EVENT> a budget <EVENT eid="e24" class="OCCURRENCE">cutting</EVENT> the property tax rate from $17.76 to about $17.61 per $1,000 of taxable value.
+
+New goals adopted by the City Council in <TIMEX3 tid="t16" type="DATE" value="2017-12">December</TIMEX3> <EVENT eid="e25" class="ASPECTUAL">included reducing</EVENT> the citys property tax levies through a responsible balance of cost reduction in city operations and increases in taxable property valuations to <EVENT eid="e26" class="OCCURRENCE">ensure</EVENT> that Waterloo is a competitive, affordable and livable city.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL9" eventInstanceID="ie25" relatedToTime="t16" relType="IS_INCLUDED" />
+<TLINK lid="TL17" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL16" timeID="t5" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t4" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL14" timeID="t16" relatedToEventInstance="ie25" relType="INCLUDES" />
+<TLINK lid="TL13" timeID="t15" relatedToEventInstance="ie22" relType="INCLUDES" />
+<TLINK lid="TL12" eventInstanceID="ie23" relatedToEventInstance="ie22" relType="AFTER" />
+<TLINK lid="TL11" eventInstanceID="ie22" relatedToTime="t15" relType="IS_INCLUDED" />
+<TLINK lid="TL10" eventInstanceID="ie22" relatedToEventInstance="ie23" relType="AFTER" />
+<TLINK lid="TL19" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL18" timeID="t3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t8" relType="DURING" />
+<TLINK lid="TL7" eventInstanceID="ie6" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="IDENTITY" />
+<TLINK lid="TL5" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="IAFTER" />
+<TLINK lid="TL4" eventInstanceID="ie16" relatedToTime="t14" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie17" relatedToTime="t14" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL20" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

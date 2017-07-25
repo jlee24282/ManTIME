@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194129158</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Central reservations could become bus fast lanes</TITLE>
+
+
+<TEXT>
+Journeys by bus can <EVENT eid="e1" class="OCCURRENCE">take</EVENT> up to almost three times as long as those by car.  05-12-2016 Pere Bota  
+The regional government is <EVENT eid="e2" class="ASPECTUAL">considering turning</EVENT> motorway central reservations into fast lanes for buses. It is an acknowledgement that traffic problems <EVENT eid="e3" class="OCCURRENCE">cause</EVENT> particular issues for public transport and is one proposal in the plan for island transport that has <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> been <EVENT eid="e4" class="OCCURRENCE">put</EVENT> out to public consultation. 
+
+The plan is for stretches of motorway <EVENT eid="e5" class="OCCURRENCE">coming</EVENT> into Palma and <EVENT eid="e6" class="OCCURRENCE">refers</EVENT> to the Llucmajor motorway and to the one from Paguera. Both have central reservations along sections <EVENT eid="e7" class="OCCURRENCE">coming</EVENT> into the city, which isn't the case with the Inca motorway. The idea would therefore be to <EVENT eid="e8" class="OCCURRENCE">concentrate</EVENT> initially on the two with reservations and to <EVENT eid="e9" class="OCCURRENCE">have</EVENT> a <TIMEX3 tid="t2" type="DATE" value="X">second</TIMEX3> phase for the Inca road. 
+
+A further idea for Palma-Inca is for bus-to-train transfer at the Es Calls station at Festival Park. The bus would <EVENT eid="e10" class="OCCURRENCE">stop</EVENT> there and the onward journey would be on a metro-style train to the intermodal station that would operate every four or <TIMEX3 tid="t3" type="DATE" value="X">five</TIMEX3> minutes at peak times. 
+
+The government <EVENT eid="e11" class="I_STATE">wants</EVENT> to <EVENT eid="e12" class="OCCURRENCE">speed</EVENT> up public transport because a journey can typically <EVENT eid="e13" class="OCCURRENCE">take</EVENT> up to almost three times longer than by car. Certain examples are given, such as to Cala Vinyes. Public transport means a journey that takes 2.7 times as long: <TIMEX3 tid="t4" type="DURATION" value="PXM">30 minutes</TIMEX3> by car and <TIMEX3 tid="t5" type="DURATION" value="PXM">81 minutes</TIMEX3> by public transport. A car journey to S'Arraco takes 40 minutes; public transport means <TIMEX3 tid="t6" type="DATE" value="X">104</TIMEX3> minutes. 
+
+The overall transport plan <EVENT eid="e14" class="OCCURRENCE">divides</EVENT> Majorca into three areas, for which there will be a single ticketing system when the plan <EVENT eid="e15" class="OCCURRENCE">comes</EVENT> into operation in <TIMEX3 tid="t7" type="DATE" value="2019">2019</TIMEX3>. The government aims to <EVENT eid="e16" class="OCCURRENCE">increase</EVENT> public transport use from a current 13% to 25%. 
+  
+
+   Related Tags
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t7" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToTime="t7" relType="IS_INCLUDED" />
+</TimeML>

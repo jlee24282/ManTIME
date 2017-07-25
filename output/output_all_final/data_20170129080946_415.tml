@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201520840</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mane misses penalty as Cameroon reaches semis in Nations Cup</TITLE>
+
+
+<TEXT>
+Senegal coach Cisse has ‘unfinished business’  Media Max Business (<TIMEX3 tid="t1" type="DATE" value="2017-01-27">2 days ago</TIMEX3>)   Senegal coach Aliou Cisse still <EVENT eid="e1" class="OCCURRENCE">looks</EVENT> back at the <TIMEX3 tid="t2" type="DATE" value="2002">2002</TIMEX3> Africa Cup of Nations with a sense of unfinished business, so <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday’s quarter</TIMEX3> final against Cameroon <EVENT eid="e2" class="OCCURRENCE">offers</EVENT> a chance, partly, to... 
+
+Cameroon favourites, <EVENT eid="e3" class="OCCURRENCE">insists</EVENT> coach of rivals Senegal 
+
+Senegal coach Aliou Cisse has  unfinished business  
+
+Gucci Mane  amp; Fiance Reportedly Tried Kicking An Army Vet Out Of His Seat At Falcons Game  Hot HipHop (2 days <TIMEX3 tid="t4" type="DATE" value="X">ago</TIMEX3>)   Gucci Mane <EVENT eid="e4" class="ASPECTUAL">tried kicking</EVENT> a veteran being <EVENT eid="e5" class="OCCURRENCE">honored</EVENT> at the Falcons out his seat.http://www.hotnewhiphop.com/article/28060... 
+
+T Mobile <EVENT eid="e6" class="OCCURRENCE">boosts</EVENT> LTE capacity in Houston 20 times for Superbowl 
+
+Stream Migos  New Album  Culture  
+
+Gucci Mane   3 For Free  Hot HipHop (<TIMEX3 tid="t5" type="DATE" value="2017-01-25">4 days ago</TIMEX3>)   Gucci Mane reunites with Shawty Redd for three new tracks.http://www.hotnewhiphop.com/gucci mane 3 for free new mixtape.116814.html... Gucci Mane  amp; Fiance Reportedly Tried Kicking An Army Vet Out Of His Seat At Falcons Game 
+
+Stream Migos  New Album  Culture  
+
+Gucci Mane   Sir Brix A Lot (Prod. By Shawty Redd)  Hot HipHop (<TIMEX3 tid="t6" type="DATE" value="2017-01-25">4 days ago</TIMEX3>)   Gucci Mane is  Sir Brix A Lot  on his new Shawty Redd collab.http://www.hotnewhiphop.com/gucci mane sir brix a lot prod by shawty <EVENT eid="e7" class="OCCURRENCE">redd</EVENT> new song.1972680.html... 
+
+Mane misses penalty as Cameroon reaches semis in Nations Cup 
+
+Gucci Mane  amp; Fiance Reportedly Tried Kicking An Army Vet Out Of His Seat At Falcons Game 
+
+Stream Migos  New Album  Culture 
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t4" relatedToEventInstance="ie4" relType="INCLUDES" />
+</TimeML>

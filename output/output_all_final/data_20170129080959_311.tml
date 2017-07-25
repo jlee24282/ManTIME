@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201897113</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>New Tostitos Chip Bag Tells Eaters When They're Drunk</TITLE>
+
+
+<TEXT>
+They're part of a <EVENT eid="e1" class="OCCURRENCE">campaign</EVENT> to <EVENT eid="e2" class="OCCURRENCE">stop</EVENT> drunk driving. With Super Bowl LI and all the revelry that goes with it just <TIMEX3 tid="t1" type="DURATION" value="P1W">over a week</TIMEX3> away, Tostitos is <EVENT eid="e3" class="OCCURRENCE">chipping</EVENT> in to <EVENT eid="e4" class="I_ACTION">help end</EVENT> drunk driving. To do this, Tostitos <EVENT eid="e5" class="OCCURRENCE">created</EVENT> the Party Safe bag: a bag of Tostitos chips <EVENT eid="e6" class="I_ACTION">featuring</EVENT> an alcohol sensor that acts as a reminder for people to not <EVENT eid="e7" class="OCCURRENCE">drink</EVENT> and <EVENT eid="e8" class="OCCURRENCE">drive</EVENT> after the game <TIMEX3 tid="t2" type="DURATION" value="PXD">day</TIMEX3> party. Simply blow in the bag and watch as a symbol <EVENT eid="e9" class="OCCURRENCE">appears</EVENT> on the front of the bag. If youre OK to <EVENT eid="e10" class="OCCURRENCE">drive</EVENT>, a green circle will <EVENT eid="e11" class="OCCURRENCE">appear</EVENT>, ...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

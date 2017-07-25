@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201663603</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>07ntce28.pdf</TITLE>
+
+
+<TEXT>
+AADE-07-NTCE-28
+A Comprehensive Approach to Well-Collision Avoidance
+B. Poedjono, Schlumberger; G. Akinniranye, Schlumberger; G. Conran, Schlumberger; K. Spidle, Schlumberger; and T.
+San Antonio, Schlumberger
+Copyright <TIMEX3 tid="t1" type="DATE" value="2007">2007</TIMEX3>, AADE
+This paper was <EVENT eid="e1" class="I_STATE">prepared</EVENT> for presentation at the <TIMEX3 tid="t2" type="DATE" value="2007">2007</TIMEX3> AADE National Technical Conference and Exhibition <EVENT eid="e2" class="OCCURRENCE">held</EVENT> at the Wyndam Greenspoint Hotel, Houston, Texas, <TIMEX3 tid="t3" type="DATE" value="2017-04">April 10-12, 2007</TIMEX3>. This <EVENT eid="e3" class="OCCURRENCE">conference</EVENT>
+was <EVENT eid="e4" class="OCCURRENCE">sponsored</EVENT> by the American Association of Drilling Engineers. The informati
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

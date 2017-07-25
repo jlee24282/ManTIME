@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203988927</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Nuechterlein: Knowledge of history helps understand the present</TITLE>
+
+
+<TEXT>
+By Europeans often observe that Americans have little knowledge of history and lack perspective in <EVENT eid="e1" class="OCCURRENCE">assessing</EVENT> foreign policy. Americans retort that Europeans worry too much about history and neglect the reality of the <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">current</TIMEX3> world.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

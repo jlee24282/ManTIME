@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203568956</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Trump vows better Russia ties, reassures NATO allies (AFP)</TITLE>
+
+
+<TEXT>
+Tributes Bourke Street car rampage victim <EVENT eid="e1" class="OCCURRENCE">had</EVENT> Perth links  
+   
+ Showpiece match Perths blue coup with Chelsea to <EVENT eid="e2" class="OCCURRENCE">take</EVENT> on Glory  
+   
+ Made tough Injured, underrated Scorchers champions again  
+    
+ Back to school Stop <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">the late nights now</TIMEX3> for school routine: experts  
+    
+ Huge payday Elizabeth Quay land sales to <EVENT eid="e3" class="OCCURRENCE">pass</EVENT> $300m  
+   
+ Australia Day tragedy Mangled plane wreckage <EVENT eid="e4" class="I_ACTION">pulled</EVENT> from Swan River  
+   
+ World beaters Third title cements Scorchers as worlds best T20 team  
+   
+ Australian first Free meningococcal jabs for WA teens  
+   
+ Literacy skills Phonics test for kids in back-to-basics <EVENT eid="e5" class="I_STATE">push</EVENT>  
+   
+ Flood <EVENT eid="e6" class="OCCURRENCE">warning</EVENT> Streets like rivers as cyclone threat subsides  
+     Divided society Tolerance in heat of Australia Day debate  
+Caustic debate around Australia Day <EVENT eid="e7" class="OCCURRENCE">shows</EVENT> us as a brittle, divided society. 
+  
+Paul Murray 
+    Bush capital A PM far from the heartland  
+Menzies commitment to Canberra puts him in stark contrast to Malcolm Turnbull. 
+  
+Andrew Tillett 
+    Best and brightest Smart business to <EVENT eid="e8" class="STATE">have</EVENT> more women in top jobs  
+In WA, just one in eight chief executives and chairs of companies is a woman. 
+  
+Tania Cecconi
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

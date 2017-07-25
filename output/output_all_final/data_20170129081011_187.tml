@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202268879</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Govt taking steps to ensure provision of clean drinking water to masses in Balochistan</TITLE>
+
+
+<TEXT>
+The government is <EVENT eid="e1" class="OCCURRENCE">taking</EVENT> practical steps to <EVENT eid="e2" class="OCCURRENCE">ensure</EVENT> provision of clean drinking water to the people on their doorsteps in Balochistan.       
+ 
+Official Engineering Department Quetta <EVENT eid="e3" class="REPORTING">told</EVENT> our correspondent <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3> that 3.9 billion rupees have been <EVENT eid="e4" class="OCCURRENCE">allocated</EVENT> in the budget for construction of new water supply schemes in urban as well as rural areas. 
+ 
+He <EVENT eid="e5" class="REPORTING">said</EVENT> more than four hundred old and non-operational water supply schemes have been <EVENT eid="e6" class="OCCURRENCE">upgraded</EVENT> and <EVENT eid="e7" class="OCCURRENCE">made</EVENT> operational. 
+ 
+The official <EVENT eid="e8" class="REPORTING">said</EVENT> construction works on six water storage dams and fifty more filtration plants is also in progress with full pace. Besides five hundred water supply tube wells are being <EVENT eid="e9" class="OCCURRENCE">converted</EVENT> on solar system at a cost of 2500 million rupees. 
+  
+Third-party Ads
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

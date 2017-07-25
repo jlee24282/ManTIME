@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200339648</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>US court overturns part of Trump "Muslim Ban"</TITLE>
+
+
+<TEXT>
+Donald Trump | Image: ABC News 
+
+Protests at US airports but Trump <EVENT eid="e1" class="REPORTING">says</EVENT> ban "<EVENT eid="e2" class="OCCURRENCE">working</EVENT> nicely" 
+
+Part of US President Donald Trump's temporary immigration ban for nationals of seven Middle Eastern countries has been <EVENT eid="e3" class="OCCURRENCE">blocked</EVENT> by an American court. 
+
+Lawyers from the American Civil Liberties Union have <EVENT eid="e4" class="OCCURRENCE">secured</EVENT> a <EVENT eid="e5" class="OCCURRENCE">ruling</EVENT> which stops the US from <EVENT eid="e6" class="OCCURRENCE">deporting</EVENT> refugees and visitors. 
+
+Anthony Romero is the group's executive director: 
+
+Protests against Trump's refugee policy are being held at airports across the US. 
+
+Around two thousand people <EVENT eid="e7" class="OCCURRENCE">gathered</EVENT> at JFK airport in New York to <EVENT eid="e8" class="OCCURRENCE">oppose</EVENT> the executive order. 
+
+
+The scene from above as thousands chant and scream, <EVENT eid="e9" class="OCCURRENCE">draping</EVENT> banners from above at JFK international arrivals shouting "LET THEM IN!" pic.twitter.com/ugU8zbKYiv 
+ Jack Smith IV (@JackSmithIV) January <TIMEX3 tid="t1" type="DATE" value="2017">28, 2017</TIMEX3> 
+
+
+
+However President Trump <EVENT eid="e10" class="OCCURRENCE">insists</EVENT> his immigration reforms are "not a Muslim ban", and <EVENT eid="e11" class="REPORTING">says</EVENT> they're "<EVENT eid="e12" class="OCCURRENCE">working</EVENT> out very nicely". 
+
+The executive order has been <EVENT eid="e13" class="OCCURRENCE">implemented</EVENT> by US immigration officials at Dublin and Shannon Airports. 
+
+There's been international criticism of the ban, but Mr Trump is standing by his decisions: 
+
+Organisers of the Oscars <EVENT eid="e14" class="REPORTING">say</EVENT> it's "extremely troubling" that the makers of an Iranian film nominated for an award may not be <EVENT eid="e15" class="OCCURRENCE">allowed</EVENT> into the US. 
+
+Asghar Farhadi's movie The Salesman is up for best foreign language film at <TIMEX3 tid="t2" type="DATE" value="2017-02">next month</TIMEX3>'s <EVENT eid="e16" class="OCCURRENCE">ceremony</EVENT> in Los Angeles.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie16" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

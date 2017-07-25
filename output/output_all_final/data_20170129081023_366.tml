@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202722529</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Several detained at Hartsfield-Jackson Airport</TITLE>
+
+
+<TEXT>
+ATLANTA (CBS46) - 
+
+CBS46 has <EVENT eid="e1" class="OCCURRENCE">learned</EVENT> that several people from Muslim countries have been <EVENT eid="e2" class="OCCURRENCE">detained</EVENT> at Hartsfield-Jackson Airport, <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>.
+
+Sarah Owings, with the American Immigration Lawyers Association <EVENT eid="e3" class="REPORTING">says</EVENT> a husband, wife, child, and 76-year-old grandmother were four of the people <EVENT eid="e4" class="OCCURRENCE">detained</EVENT>. The husband and grandmother are <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> being <EVENT eid="e5" class="OCCURRENCE">released</EVENT>.
+
+She <EVENT eid="e6" class="REPORTING">says</EVENT> lawyers have not been <EVENT eid="e7" class="OCCURRENCE">given</EVENT> access to the detainees.
+
+After <EVENT eid="e8" class="OCCURRENCE">learning</EVENT> that four Georgia residents and about 40 others were <EVENT eid="e9" class="OCCURRENCE">detained</EVENT> in Atlanta, Rep. John Lewis <EVENT eid="e10" class="I_ACTION">released</EVENT> the following statement:
+
+I am deeply <EVENT eid="e11" class="I_STATE">concerned</EVENT> to <EVENT eid="e12" class="OCCURRENCE">hear</EVENT> that permanent residents of the state of Georgia and dozens of others who have <EVENT eid="e13" class="OCCURRENCE">immigrated</EVENT> legally to this countrysubmitting to all the laws, rules and regulations requiredwere <EVENT eid="e14" class="OCCURRENCE">detained</EVENT> at the Hartsfield-Jackson Airport in Atlanta <TIMEX3 tid="t3" type="DATE" value="2017-01-28">today</TIMEX3>. Apparently, they had <EVENT eid="e15" class="OCCURRENCE">visited</EVENT> relatives who <EVENT eid="e16" class="OCCURRENCE">remained</EVENT> in their native land, and <TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">one day</TIMEX3> after an executive order <EVENT eid="e17" class="OCCURRENCE">issued</EVENT> from the White House <EVENT eid="e18" class="OCCURRENCE">blocked</EVENT> access to this country, lawful permanent residents have been <EVENT eid="e19" class="OCCURRENCE">detained</EVENT>.
+
+People immigrate to America because they are <EVENT eid="e20" class="I_STATE">inspired</EVENT> by our commitment to justice and democracy. To <EVENT eid="e21" class="OCCURRENCE">treat</EVENT> as strangers these law-abiding immigrants, to whom we as a nation have seen fit to grant permanent status, is a <EVENT eid="e22" class="OCCURRENCE">stain</EVENT> on the integrity of our country and <EVENT eid="e23" class="I_STATE">threatens</EVENT> the democratic principles this nation stands for. This is a dark <TIMEX3 tid="t5" type="DURATION" value="PTXH">hour</TIMEX3> for America. We must all be <EVENT eid="e24" class="STATE">vigilant</EVENT> in this time and work persistently without <EVENT eid="e25" class="I_ACTION">ceasing</EVENT> to <EVENT eid="e26" class="OCCURRENCE">ensure</EVENT> that fairness, freedom, and justice prevail in the United States of America.
+
+CBS46 reporter Natalie Rubino is at the airport. She will <EVENT eid="e27" class="STATE">have</EVENT> live updates at <TIMEX3 tid="t6" type="DATE" value="X">11</TIMEX3> p.m.
+
+Stay <EVENT eid="e28" class="OCCURRENCE">tuned</EVENT> to CBS46 and CBS46.com for the latest details.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToEventInstance="ie10" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL6" timeID="t6" relatedToEventInstance="ie27" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie14" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie15" relatedToEventInstance="ie17" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203533190</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>EC orders FIR against Kejriwal for Goa bribery remarks</TITLE>
+
+
+<TEXT>
+New Delhi, January 29 
+The Election Commission of India <EVENT eid="e1" class="OCCURRENCE">ordered</EVENT> an FIR against Delhi Chief Minister Arvind Kejriwal on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> for some remarks he <EVENT eid="e2" class="OCCURRENCE">made</EVENT> in Goa that were <EVENT eid="e3" class="PERCEPTION">seen</EVENT> as encouraging bribery during elections. 
+
+Kejriwal, the convener of the Aam Aadmi Party, had <EVENT eid="e4" class="REPORTING">said</EVENT> at a <EVENT eid="e5" class="OCCURRENCE">rally</EVENT> in Goa earlier <TIMEX3 tid="t2" type="DATE" value="2017-01">this month</TIMEX3>: We have <EVENT eid="e6" class="OCCURRENCE">shown</EVENT> this in Delhi election. People <EVENT eid="e7" class="OCCURRENCE">took</EVENT> money from the BJP and the Congress, but <EVENT eid="e8" class="OCCURRENCE">voted</EVENT> for us. If the Election Commission <EVENT eid="e9" class="OCCURRENCE">uses</EVENT> my statement and <EVENT eid="e10" class="OCCURRENCE">propagates</EVENT> it then in <TIMEX3 tid="t3" type="DURATION" value="P2Y">two years</TIMEX3>, the political parties will <EVENT eid="e11" class="ASPECTUAL">stop distributing</EVENT> notes. 
+
+(Follow The Tribune onFacebook ;and Twitter @thetribunechd ) 
+
+The Election Commission of India had <EVENT eid="e12" class="OCCURRENCE">censured</EVENT> Kejrwal for the remarks that it <EVENT eid="e13" class="REPORTING">said breached</EVENT> the election code of conduct. A defiant Kejriwal however <EVENT eid="e14" class="REPORTING">said</EVENT> in a letter to Chief Election Commissioner Nasim Zaidi: By <EVENT eid="e15" class="OCCURRENCE">stopping</EVENT> me to <EVENT eid="e16" class="REPORTING">say</EVENT> what I am <EVENT eid="e17" class="REPORTING">saying</EVENT>, the Election Commission is not <EVENT eid="e18" class="OCCURRENCE">stopping corruption</EVENT>, but <EVENT eid="e19" class="OCCURRENCE">encouraging</EVENT> it. I <EVENT eid="e20" class="I_STATE">hope</EVENT> you (the EC) will re-examine this. Through this comment, I am <EVENT eid="e21" class="I_ACTION">trying</EVENT> to <EVENT eid="e22" class="ASPECTUAL">stop</EVENT> bribery. In fact, the Election Commission should <EVENT eid="e23" class="OCCURRENCE">make</EVENT> me its brand ambassador. 
+
+Goa will <EVENT eid="e24" class="OCCURRENCE">cast</EVENT> its ballot on <TIMEX3 tid="t4" type="DATE" value="2017-02-04">February 4</TIMEX3>.  Agencies
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

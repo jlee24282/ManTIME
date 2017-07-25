@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195542316</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>29/16:11 EDT Marine Wind Warning Summary for Tasmania</TITLE>
+
+
+<TEXT>
+IDT20100 
+ 
+Australian Government Bureau of Meteorology 
+Tasmania 
+ Marine Wind Warning Summary for Tasmania  
+Issued at 4:11 pmEDT on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday 29 January 2017</TIMEX3> 
+for the period until <TIMEX3 tid="t2" type="TIME" value="2017-01-23TNI">midnight EDTMonday 30 January 2017</TIMEX3>. 
+ Wind Warnings for <TIMEX3 tid="t3" type="DATE" value="2017-01-23">Monday 30</TIMEX3> January  
+Gale Warning for the following area: 
+South East Coast 
+ 
+Strong Wind Warning for the following areas: 
+Derwent Estuary, Frederick Henry Bay and Norfolk Bay, Storm Bay, Channel, Banks Strait and Franklin Sound, East of Flinders Island, Upper East Coast, Lower East Coast, South West Coast and Central West Coast 
+ 
+Small Craft Alert for the following areas: 
+Central Plateau Lakes and South West Lakes 
+ 
+The next marine wind warning summary will be <EVENT eid="e1" class="OCCURRENCE">issued</EVENT> by 5:00 amEDTMonday. 
+ 
+Check the latest Coastal Waters Forecast or Local Waters Forecast for information on wind, wave and weather conditions for these coastal zones.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198462190</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Sixers win WBBL crown</TITLE>
+
+
+<TEXT>
+The Sydney Sixers are <TIMEX3 tid="t1" type="DATE" value="X">this</TIMEX3> summer's WBBL champions, with speedster Sarah Aley <EVENT eid="e1" class="OCCURRENCE">snaring</EVENT> 4-23 to <EVENT eid="e2" class="OCCURRENCE">lead</EVENT> her side to a seven-run victory in <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>'s final at the WACA. 
+ 
+<EVENT eid="e3" class="OCCURRENCE">Chasing</EVENT> 125 for victory, the Scorchers were restricted to 7-117 from their 20 overs. 
+ 
+Aley was the hero, <EVENT eid="e4" class="OCCURRENCE">taking</EVENT> two wickets in the second last over to <EVENT eid="e5" class="OCCURRENCE">help</EVENT> her side over the line. 
+ 
+Intense 38-degree conditions <EVENT eid="e6" class="OCCURRENCE">forced</EVENT> Sixers teenager Ashleigh Gardner from the field with heat exhaustion. 
+ 
+Gardner <EVENT eid="e7" class="REPORTING">copped</EVENT> a <EVENT eid="e8" class="OCCURRENCE">knock</EVENT> to the head on <TIMEX3 tid="t3" type="DATE" value="2017-01-27">Friday</TIMEX3> while batting at training, and she <EVENT eid="e9" class="ASPECTUAL">exited</EVENT> the match during the Scorchers' <EVENT eid="e10" class="OCCURRENCE">innings</EVENT>. 
+ 
+Perth opener Nicole Bolton was yet to <EVENT eid="e11" class="OCCURRENCE">score</EVENT> when Marizanne Kapp <EVENT eid="e12" class="OCCURRENCE">dropped</EVENT> a caught-and-bowled opportunity. 
+ 
+Bolton <EVENT eid="e13" class="OCCURRENCE">went</EVENT> on to <EVENT eid="e14" class="OCCURRENCE">score</EVENT> 34 off 35 balls, and the Scorchers were <EVENT eid="e15" class="OCCURRENCE">cruising</EVENT> at 1-60 after 10 overs. 
+ 
+But the Sixers then <EVENT eid="e16" class="OCCURRENCE">tightened</EVENT> the screws, <EVENT eid="e17" class="OCCURRENCE">capturing</EVENT> regular wickets to <EVENT eid="e18" class="OCCURRENCE">reduce</EVENT> the Scorchers to 5-84 in the 16th over. 
+ 
+The equation <EVENT eid="e19" class="OCCURRENCE">became</EVENT> 25 off 12 balls for the Scorchers, but they <EVENT eid="e20" class="OCCURRENCE">fell</EVENT> short of the target despite the best efforts of Katherine Brunt (35 off 30 balls). 
+ 
+Earlier, Alyssa Healy <EVENT eid="e21" class="I_ACTION">unleashed</EVENT> her trademark fireworks, but she <EVENT eid="e22" class="I_ACTION">lacked</EVENT> support as the Sixers were restricted to 5-124. 
+ 
+The Sixers were on track for a score of around 150 after Healy <EVENT eid="e23" class="OCCURRENCE">pummelled</EVENT> 40 off 27 balls, including six boundaries. 
+ 
+But the skipper's dismissal in the 11th over, with her side at 3-70, <EVENT eid="e24" class="OCCURRENCE">led</EVENT> to the runs <EVENT eid="e25" class="OCCURRENCE">drying</EVENT> up. 
+ 
+They <EVENT eid="e26" class="OCCURRENCE">struggled</EVENT> from that point against the tight <EVENT eid="e27" class="OCCURRENCE">bowling</EVENT> of Anya Shrubsole (2-17 off four overs), Piepa Cleary (1-15 from three), Heather Graham (1-12 off three) and skipper Suzie Bates (1-15 from three). 
+ 
+Only some late hitting from Marizanne Kapp (34no off 28 balls) <EVENT eid="e28" class="OCCURRENCE">ensured</EVENT> the Sixers <EVENT eid="e29" class="OCCURRENCE">edged</EVENT> past 120. 
+ 
+The Sixers' batting performance was in stark contrast to their 103-run semi- final win over Hobart, when they <EVENT eid="e30" class="OCCURRENCE">posted</EVENT> 6-169 in a powerful display. 
+ 
+The Scorchers were sublime in the field, <EVENT eid="e31" class="REPORTING">producing</EVENT> a series of diving <EVENT eid="e32" class="OCCURRENCE">saves</EVENT> on the boundary to <EVENT eid="e33" class="OCCURRENCE">stop</EVENT> crucial runs. 
+ 
+Melbourne Stars import Kevin Pietersen <EVENT eid="e34" class="OCCURRENCE">complained</EVENT> the WACA pitch was too slow on <TIMEX3 tid="t4" type="TIME" value="2017-01-24TNI">Tuesday night</TIMEX3> during his team's semi-final <EVENT eid="e35" class="OCCURRENCE">loss</EVENT>. 
+ 
+But Healy <EVENT eid="e36" class="OCCURRENCE">disagreed</EVENT> when <EVENT eid="e37" class="OCCURRENCE">asked</EVENT> about the deck. 
+ 
+"Rubbish - it's a pretty good wicket," Healy <EVENT eid="e38" class="REPORTING">said</EVENT>. 
+ 
+"The boys <EVENT eid="e39" class="OCCURRENCE">complained</EVENT> it was slow, but it was good for us." 
+ 
+AAP
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie28" relatedToEventInstance="ie29" relType="AFTER" />
+<TLINK lid="TL9" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL11" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t3" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie37" relatedToEventInstance="ie36" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie35" relatedToEventInstance="ie34" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie20" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" eventInstanceID="ie21" relatedToEventInstance="ie22" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie36" relatedToEventInstance="ie37" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie7" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie34" relatedToEventInstance="ie35" relType="AFTER" />
+</TimeML>

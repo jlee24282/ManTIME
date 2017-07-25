@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201085090</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Police photo analysis uncovers reflection of suspect in victim's eyes (2017/1/29)</TITLE>
+
+
+<TEXT>
+TOKUSHIMA -- Analysis of the photo of a victim on a smartphone <EVENT eid="e1" class="OCCURRENCE">seized</EVENT> by police in western Japan <TIMEX3 tid="t1" type="DATE" value="2016">last year</TIMEX3> <EVENT eid="e2" class="I_ACTION">uncovered</EVENT> a reflection of the suspect in the victim's eyes, <EVENT eid="e3" class="OCCURRENCE">providing</EVENT> valuable evidence, it has been <EVENT eid="e4" class="OCCURRENCE">learned</EVENT>. 
+ 
+An investigator <EVENT eid="e5" class="OCCURRENCE">noticed</EVENT> the reflection and <EVENT eid="e6" class="OCCURRENCE">sought</EVENT> the assistance of Koichi Naniwa, a 43-year-old member of the Tokushima Prefectural Police Identification Division. 
+ 
+"There's something like a human shadow. I <EVENT eid="e7" class="I_STATE">want</EVENT> you to <EVENT eid="e8" class="OCCURRENCE">take</EVENT> a look at it," the investigator <EVENT eid="e9" class="REPORTING">told</EVENT> him. 
+ 
+The photo, <EVENT eid="e10" class="OCCURRENCE">taken</EVENT> by the suspect on their phone, <EVENT eid="e11" class="OCCURRENCE">showed</EVENT> the face of the victim. In the past Naniwa had <EVENT eid="e12" class="OCCURRENCE">analyzed</EVENT> reflections in mirrors, but had never heard of <EVENT eid="e13" class="OCCURRENCE">analyzing</EVENT> reflections in the pupils of someone's eyes. He was initially doubtful that he would <EVENT eid="e14" class="OCCURRENCE">find</EVENT> anything. 
+ 
+<EVENT eid="e15" class="OCCURRENCE">Zooming</EVENT> in on the reflection, he <EVENT eid="e16" class="I_ACTION">found</EVENT> the background was lighter and clearer than the person's image, but after repeated image correction, he was <EVENT eid="e17" class="I_STATE">able</EVENT> to <EVENT eid="e18" class="PERCEPTION">see</EVENT> a reflection of the person holding a smartphone, with an outline of their face and hairstyle. 
+ 
+Naniwa was <EVENT eid="e19" class="I_STATE">delighted</EVENT> to <EVENT eid="e20" class="OCCURRENCE">hear</EVENT> his boss <EVENT eid="e21" class="OCCURRENCE">tell</EVENT> him the find was top evidence. 
+ 
+Naniwa regularly <EVENT eid="e22" class="OCCURRENCE">analyzes</EVENT> security camera footage and <EVENT eid="e23" class="OCCURRENCE">takes</EVENT> pictures of fingerprints and footprints, but it is apparently rare for a <EVENT eid="e24" class="OCCURRENCE">reflection</EVENT> in someone's eyes to be <EVENT eid="e25" class="OCCURRENCE">picked</EVENT> up as evidence. 
+ 
+"Unlike in the dramas, things often don't <EVENT eid="e26" class="OCCURRENCE">go</EVENT> well. This experience <EVENT eid="e27" class="I_ACTION">helped</EVENT> me <EVENT eid="e28" class="OCCURRENCE">realize</EVENT> anew the importance of <EVENT eid="e29" class="OCCURRENCE">observing</EVENT> things right down to the smallest detail," Naniwa <EVENT eid="e30" class="REPORTING">said</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="NONE" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie20" relType="AFTER" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

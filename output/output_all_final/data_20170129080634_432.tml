@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194207251</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>OOU Performing Arts Department Inducts Young Thespians</TITLE>
+
+
+<TEXT>
+The initiation of young thespians is not something to be <EVENT eid="e1" class="OCCURRENCE">joked</EVENT> with. In most Nigerian universities, the practice has <EVENT eid="e2" class="OCCURRENCE">become</EVENT> []
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194792298</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Caramel Candy - Food Network</TITLE>
+
+
+<TEXT>
+Making your own Caramel Candy is SO easy with Trisha Yearwood's recipe: http://www.foodtv.com/5bmb9 ! 
+  Latest Comments    
+Another example of why Americans are so overweight. Diabetes high cholesterol etc. sugar is evil to the body. could we <EVENT eid="e1" class="STATE">have</EVENT> recipes for healthy food. Healthy eating. . . 
+     
+You all are a,buzz kill.. you don't have to <EVENT eid="e2" class="OCCURRENCE">eat</EVENT> the whole pan.. geeze. . Worse things in life to <EVENT eid="e3" class="OCCURRENCE">complain</EVENT> about than a piece of candy 
+     
+While that Carmel is still hot <EVENT eid="e4" class="OCCURRENCE">put</EVENT> down a brownie with ice cream drizzle this on top with a smaller drizzle of chocolate then add whipping cream. Set the rest for later.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

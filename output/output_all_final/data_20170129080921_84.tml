@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200291125</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Number of Canadian babies born with opioid withdrawal on the rise</TITLE>
+
+
+<TEXT>
+(Credit: Drew Angerer/) 
+ 
+While B.C. battles the overdose crisis, the number of Canadian babies born with symptoms of addiction and withdrawal is on the rise. 
+ 
+<EVENT eid="e1" class="REPORTING">According</EVENT> to the Canadian Institute for Health Information, there were almost 300 more babies born with Neo-natal Abstinence Syndrome across the country in the <TIMEX3 tid="t1" type="DATE" value="2017">2015-2016 fiscal year</TIMEX3> than there were in the <TIMEX3 tid="t2" type="DATE" value="2017">2012-2013 fiscal year</TIMEX3> (excluding Quebec, which did not have numbers available). 
+ 
+Pediatrician and Senior scientist with the Institute for Clinical Evaluative Sciences, Astrid Guttmann, <EVENT eid="e2" class="OCCURRENCE">spoke</EVENT> to CKNW Weekend host Tim Dickert, <EVENT eid="e3" class="REPORTING">saying</EVENT> one reason why those numbers are up is because some mothers are <EVENT eid="e4" class="OCCURRENCE">taking</EVENT> those drugs during their pregnancy. 
+ 
+Weve been in Ontario, <EVENT eid="e5" class="OCCURRENCE">tracking</EVENT> the numbers of babies that are born in withdrawal from opioids for <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">a few years now</TIMEX3>, and the numbers have been <EVENT eid="e6" class="OCCURRENCE">increasing</EVENT> quite dramatically so about a five-fold <EVENT eid="e7" class="OCCURRENCE">increase</EVENT> in <TIMEX3 tid="t4" type="DURATION" value="P10Y">the last 10 years</TIMEX3>. 
+ 
+Guttman <EVENT eid="e8" class="REPORTING">says</EVENT> now that theyre more aware of the symptoms of babies addicted to opioids, they know how to <EVENT eid="e9" class="OCCURRENCE">treat</EVENT> them while they <EVENT eid="e10" class="OCCURRENCE">experience</EVENT> withdrawal. 
+ 
+By <EVENT eid="e11" class="OCCURRENCE">giving</EVENT> them a low dose of an, opioid and then just slowly <EVENT eid="e12" class="OCCURRENCE">weaning</EVENT> them off of it, theres a score that we <EVENT eid="e13" class="OCCURRENCE">give</EVENT> to babies based on how jittery they are. 
+ 
+She <EVENT eid="e14" class="REPORTING">says</EVENT> theres not enough data to <EVENT eid="e15" class="OCCURRENCE">show</EVENT> the long term physical effects for babies born with opioid withdrawls.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie7" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

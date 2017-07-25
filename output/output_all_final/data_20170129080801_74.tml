@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197004346</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>California begins process to leave United States over Trumps presidency</TITLE>
+
+
+<TEXT>
+The state of California has begun process to secede from the United States
+
+Reports <EVENT eid="e1" class="OCCURRENCE">emerged</EVENT> at <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">the weekend</TIMEX3> that the proposal has been submitted to the Secretary of States Office
+
+The proposed "Calexit" initiative  borrowed from the UKs "Brexit" departure from the EU  would ask voters to repeal part of the state constitution that declares California an inseparable part of the US
+
+A recent poll <EVENT eid="e2" class="OCCURRENCE">found</EVENT> that one in three California residents would support a possible secession from the US due to their opposition to President Trump
+
+If the proposal qualifies for the ballot and is approved by voters it could be a step to a future vote on whether the state would break away from the rest of the nation
+
+Secretary of State Alex Padilla <EVENT eid="e3" class="REPORTING">said</EVENT> the group behind the proposal Yes California Independence Campaign was <EVENT eid="e4" class="OCCURRENCE">cleared</EVENT> to begin attempting to collect nearly 600000 voter signatures needed to place the plan on the ballot
+
+"In our view the United States of America represents so many things that conflict with Californian values and our continued statehood means California will continue subsidizing the other states to our own detriment and to the detriment of our children" the Yes campaigns website says
+
+The proposed constitutional amendment titled California Nationhood would also ask voters to repeal language that states the US Constitution is the supreme law
+
+If approved it calls for scheduling a vote in <TIMEX3 tid="t2" type="DATE" value="2019">2019</TIMEX3> to ask voters "Should California become a free sovereign and independent country"
+
+"America already hates California and America votes on emotions" Marcus Evans vice president of Yes California told the Los Angeles Times "I think <TIMEX3 tid="t3" type="DATE" value="X">wed</TIMEX3> have the votes <TIMEX3 tid="t4" type="DATE" value="2017-01-29">today</TIMEX3> if we held it"
+
+The campaign must submit the valid voter signatures by <TIMEX3 tid="t5" type="DATE" value="2017-07-25">July 25 2017</TIMEX3> to qualify for the ballot Top Stories
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

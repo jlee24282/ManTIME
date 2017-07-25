@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197352774</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Mike D'Antoni tired of Rockets' 'soft' defense</TITLE>
+
+
+<TEXT>
+The Rockets' losing streak had <EVENT eid="e1" class="OCCURRENCE">ended</EVENT> after two games, with James Harden posting a record-setting performance against the Philadelphia 76ers. But Rockets coach Mike D'Antoni sounded <EVENT eid="e2" class="OCCURRENCE">fed</EVENT> up about the Rockets <EVENT eid="e3" class="OCCURRENCE">continued</EVENT> struggles to <EVENT eid="e4" class="OCCURRENCE">defend</EVENT> effectively.
+
+"Defensively, we're soft sometimes, just soft," D'Antoni <EVENT eid="e5" class="REPORTING">said</EVENT>. "<EVENT eid="e6" class="OCCURRENCE">Soft</EVENT> on switches. We don't <EVENT eid="e7" class="OCCURRENCE">get</EVENT> up on people. We're soft in the moments that <EVENT eid="e8" class="OCCURRENCE">win</EVENT> the game. We have to <EVENT eid="e9" class="OCCURRENCE">get</EVENT> tougher.
+
+In the Rockets nine-game winning streak, opponents had <EVENT eid="e10" class="OCCURRENCE">averaged</EVENT> 110.7 points on 45.2 percent <EVENT eid="e11" class="OCCURRENCE">shooting</EVENT>. In the 10 games since, teams have <EVENT eid="e12" class="OCCURRENCE">averaged</EVENT> 112.7 points on 49 percent <EVENT eid="e13" class="OCCURRENCE">shooting</EVENT>.
+
+In <TIMEX3 tid="t1" type="DATE" value="2017-W03">last week</TIMEX3>'s three games, the Bucks, Celtics and 76ers <EVENT eid="e14" class="OCCURRENCE">averaged</EVENT> 121.7 points, the most scored against any team in that stretch, on 54.6 percent shooting, the worst field goal percentage defense in those three games.
+
+"It's just being soft mentally, not <EVENT eid="e15" class="OCCURRENCE">getting</EVENT> up into people," D'Antoni <EVENT eid="e16" class="REPORTING">said</EVENT>. "If we <EVENT eid="e17" class="I_ACTION">want</EVENT> to be good, we have to be better than that."
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="BEFORE" />
+</TimeML>

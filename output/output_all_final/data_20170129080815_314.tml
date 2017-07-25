@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197568778</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Contact Us</TITLE>
+
+
+<TEXT>
+Powered by A-J Media, lubbockonline.com is a service of the Lubbock Avalanche-Journal , located in Lubbock County, at 710 Avenue J, Lubbock, TX 79401 
+ 
+The mailing address for the Lubbock Avalanche-Journal is: 
+P.O. Box 491, Lubbock, TX, 79481 
+ The main phone number is:  (806) 762-8844  The main fax number is:  (806) 744-9603  
+Customer Service: 
+ If your paper is <EVENT eid="e1" class="OCCURRENCE">damaged</EVENT>, missing or you <EVENT eid="e2" class="I_STATE">need</EVENT> to <EVENT eid="e3" class="OCCURRENCE">place</EVENT> a hold on your paper ,  <EVENT eid="e4" class="OCCURRENCE">click</EVENT> here .  To <EVENT eid="e5" class="OCCURRENCE">start</EVENT>, <EVENT eid="e6" class="OCCURRENCE">stop</EVENT>, or <EVENT eid="e7" class="ASPECTUAL">manage</EVENT> your subscription for home delivery of the newspaper or your digital access, <EVENT eid="e8" class="OCCURRENCE">click</EVENT> here .  To <EVENT eid="e9" class="OCCURRENCE">subscribe</EVENT> to the A-J, click here  
+To <EVENT eid="e10" class="OCCURRENCE">advertise</EVENT> in the Lubbock Avalanche-Journal, Lubbock Business Inc, Lubbock Magazine,lubbockonline.com or other publicatioins, please <EVENT eid="e11" class="OCCURRENCE">choose</EVENT> from the <EVENT eid="e12" class="OCCURRENCE">following</EVENT>: 
+ 
+To <EVENT eid="e13" class="OCCURRENCE">submit</EVENT> news or events, please choose from the following: 
+ 
+Lubbock Avalanche-Journal Executive Staff 
+ Brandon Hughes , Publisher, 806-766-8610  Darci Heiskell , Vice President of Audience, 806-766-8700  Pili Linares , Vice President of Advertising, 806-766-8615  Valerie Bintliff , Regional HR Director, 806-766-8699  David Russell , RegionalCirculation Director, 806-766-8760  Mike Clayton , RegionalController, 806-766-8671  Chad Elrod , Marketing Director, 806-766-2151  
+To <EVENT eid="e14" class="OCCURRENCE">contact</EVENT> the staff of A-J Media,  <EVENT eid="e15" class="OCCURRENCE">click</EVENT> here . 
+To <EVENT eid="e16" class="OCCURRENCE">submit</EVENT> a <EVENT eid="e17" class="OCCURRENCE">resume</EVENT> for employment, <EVENT eid="e18" class="I_ACTION">please email</EVENT> us at hr@lubbockonline.com .  Jobs also are posted at http://morris.com/jobs . 
+To <EVENT eid="e19" class="REPORTING">report</EVENT> problems <EVENT eid="e20" class="OCCURRENCE">relating</EVENT> to our Web site, please email us at webmaster@lubbockonline.com
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToEventInstance="ie14" relType="AFTER" />
+</TimeML>

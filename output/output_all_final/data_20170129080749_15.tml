@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196494175</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ramos: Madrid Can Win La Liga If Fans Get Behind Us</TITLE>
+
+
+<TEXT>
+:11    View Comments   
+Pic:  After their 40 game unbeaten run <EVENT eid="e1" class="OCCURRENCE">came</EVENT> to an end, the Blancos crowd have <EVENT eid="e2" class="ASPECTUAL">voiced</EVENT> their disappointment in recent games, but the defender wants support. 
+ 
+Sergio Ramos <EVENT eid="e3" class="I_STATE">wants</EVENT> the Santiago Bernabeu to <EVENT eid="e4" class="OCCURRENCE">unite</EVENT> behind Real Madrid as the La Liga leaders <EVENT eid="e5" class="I_STATE">look</EVENT> to <EVENT eid="e6" class="I_ACTION">relocate</EVENT> top form against Real Sociedad on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+The Madrid faithful have <EVENT eid="e7" class="OCCURRENCE">voiced increasing</EVENT> discontent over <TIMEX3 tid="t2" type="DATE" value="PAST_REF">recent weeks</TIMEX3>, with four-time Ballon d'Or winner Cristiano Ronaldo among those to <EVENT eid="e8" class="OCCURRENCE">feel</EVENT> their wrath, during a run of one <EVENT eid="e9" class="OCCURRENCE">win</EVENT> in five across all competitions. 
+ 
+With their Spanish record 40-match unbeaten run at an end, the slump <EVENT eid="e10" class="OCCURRENCE">hit</EVENT> a low point when <TIMEX3 tid="t3" type="DATE" value="2017-01-25">Wednesday</TIMEX3>'s 2-2 draw at Celta Vigo <EVENT eid="e11" class="I_ACTION">meant</EVENT> Copa del Rey <EVENT eid="e12" class="OCCURRENCE">elimination</EVENT> at the quarter-final stage. 
+ 
+Zinedine Zidane's men are one and two points ahead of Sevilla and Barcelona respectively at the top of the league table, meaning they are likely to have <EVENT eid="e13" class="OCCURRENCE">ceded</EVENT> the summit by the time their kick-off in <TIMEX3 tid="t4" type="DATE" value="X">this</TIMEX3> weekend's <EVENT eid="e14" class="OCCURRENCE">concluding</EVENT> match. 
+ 
+"Above all, we <EVENT eid="e15" class="I_ACTION">want</EVENT> the fans to <EVENT eid="e16" class="OCCURRENCE">support</EVENT> us in order to <EVENT eid="e17" class="I_ACTION">help</EVENT> make us a better team and I'm <EVENT eid="e18" class="I_STATE">convinced</EVENT> that together we can <EVENT eid="e19" class="OCCURRENCE">win</EVENT> La Liga," Ramos <EVENT eid="e20" class="REPORTING">told</EVENT> Marca, having <EVENT eid="e21" class="OCCURRENCE">made</EVENT> a similar plea after <EVENT eid="e22" class="OCCURRENCE">scoring</EVENT> both goals in <TIMEX3 tid="t5" type="DATE" value="2017-01-28">last Saturday</TIMEX3>'s <EVENT eid="e23" class="OCCURRENCE">laboured</EVENT> 2-1 win over Malaga. 
+ 
+"It is going to be a tough game against a very difficult opponent who have <EVENT eid="e24" class="OCCURRENCE">played</EVENT> very good football this season and are deservedly near the top of the table." 
+ 
+Lucas Vazquez <EVENT eid="e25" class="OCCURRENCE">netted</EVENT> in vain at Celta in midweek and the 25-year-old winger <EVENT eid="e26" class="OCCURRENCE">shared</EVENT> his captain's sentiments. 
+ 
+"<EVENT eid="e27" class="OCCURRENCE">Playing</EVENT> in front of our own fans always <EVENT eid="e28" class="OCCURRENCE">gives</EVENT> us an extra gear because every time they <EVENT eid="e29" class="OCCURRENCE">applaud</EVENT> and encourage us it drives us on even more," Lucas <EVENT eid="e30" class="REPORTING">said</EVENT>. 
+ 
+"With all of us together, <EVENT eid="e31" class="OCCURRENCE">pushing</EVENT> in the same direction, then I'm <EVENT eid="e32" class="I_STATE">convinced</EVENT> that we can <EVENT eid="e33" class="OCCURRENCE">achieve</EVENT> great things." 
+ 
+- goal.com
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL5" timeID="t3" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie20" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="IDENTITY" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

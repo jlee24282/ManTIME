@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199140768</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Theodore Matthews</TITLE>
+
+
+<TEXT>
+Theodore J. Ted Matthews, Jr., 55, of Brilliant, Ohio, <EVENT eid="e1" class="OCCURRENCE">passed</EVENT> away <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-27">January 27, 2017</TIMEX3>, from a <EVENT eid="e2" class="OCCURRENCE">battle</EVENT> with colon cancer, in the comfort of his home under the loving care of his wife and family. 
+  
+He was <EVENT eid="e3" class="OCCURRENCE">born</EVENT> <TIMEX3 tid="t3" type="DATE" value="1961-03-02">March 2, 1961</TIMEX3>, in Steubenville, OH, the son of the late Nancy L. (Fisher) Matthews and Theodore J. Matthews Sr. of Brilliant, OH. 
+ 
+Ted <EVENT eid="e4" class="OCCURRENCE">worked</EVENT> as a driver at Matthews Motors in Brilliant, Ohio, and was a Christian by faith. He was a man of few words. He <EVENT eid="e5" class="OCCURRENCE">loved</EVENT> music, from <EVENT eid="e6" class="OCCURRENCE">playing</EVENT> the guitar to <EVENT eid="e7" class="I_ACTION">listening</EVENT> and <EVENT eid="e8" class="OCCURRENCE">watching</EVENT> his favorite bands. Teds family could <EVENT eid="e9" class="OCCURRENCE">rely</EVENT> on him to be one phone <EVENT eid="e10" class="OCCURRENCE">call</EVENT> away. 
+ 
+In addition to his father, he is <EVENT eid="e11" class="OCCURRENCE">survived</EVENT> by his wife, Merri Michael Matthews, whom he <EVENT eid="e12" class="OCCURRENCE">married</EVENT> on <TIMEX3 tid="t4" type="DATE" value="1980-08-18">August 18, 1980</TIMEX3>; three sons whom he <EVENT eid="e13" class="OCCURRENCE">loved</EVENT> very much, T.J. (Katy) Matthews of Naples, NY, Chase Matthews of Brilliant, OH, and Evan (Mary Kate) Matthews of Bloomfield, NJ; a brother, Joe (Diane) Matthews of Brilliant, OH; a sister, Cindy Martin of Brilliant, OH; and two grandchildren, Zeke and Elise Matthews. 
+ 
+Friends will be <EVENT eid="e14" class="OCCURRENCE">received</EVENT> on <TIMEX3 tid="t5" type="DATE" value="2017-01-23">Monday from 4-8 p.m.</TIMEX3> at the Wheeler Funeral Home, 712 Third St., Brilliant, where services will be <EVENT eid="e15" class="OCCURRENCE">held</EVENT> on <TIMEX3 tid="t6" type="DATE" value="2017-01-24">Tuesday</TIMEX3> at <TIMEX3 tid="t7" type="TIME" value="2017-01-29T11:00">11 a.m.</TIMEX3> with Chaplain Dana Campbell, <EVENT eid="e16" class="OCCURRENCE">officiating</EVENT>. Interment will <EVENT eid="e17" class="OCCURRENCE">follow</EVENT> at New Alexandria Cemetery. 
+ 
+Memorial contributions may be <EVENT eid="e18" class="OCCURRENCE">directed</EVENT> in Teds memory to Charity Hospice, 500 Luray Dr., Wintersville, OH 43953. 
+ 
+Offer condolences and share tributes at http://www.wheelerfuneralhomes.com/.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t7" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t1" relatedToTime="t2" relType="IDENTITY" />
+<TLINK lid="TL10" timeID="t3" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL7" timeID="t6" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToTime="t2" relType="ENDED_BY" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie14" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t4" relatedToEventInstance="ie12" relType="INCLUDES" />
+</TimeML>

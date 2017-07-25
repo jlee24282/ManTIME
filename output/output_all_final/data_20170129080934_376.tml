@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201051322</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>INTERNATIONAL GUITAR NIGHT</TITLE>
+
+
+<TEXT>
+Gypsy jazz scion Lulo Reinhardt (grandson of Django) <EVENT eid="e1" class="I_STATE">hosts</EVENT> an evening <EVENT eid="e2" class="OCCURRENCE">featuring</EVENT> Brazilian composer Chrystian Dozza, Italian guitarist Luca Stricagnoli, and Indian slide player Debashish Bhattacharya. Sunday at Calvary Church in West Philadelphia.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

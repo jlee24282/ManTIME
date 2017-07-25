@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196852098</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>AFCON 2017: Senegal knocked Cameroon, Burkina Faso through to semi-final</TITLE>
+
+
+<TEXT>
+Favourites Senegal were <EVENT eid="e1" class="OCCURRENCE">knocked</EVENT> out from the <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> Africa Cup of Nations after star player Sadio Man <EVENT eid="e2" class="OCCURRENCE">missed</EVENT> his <EVENT eid="e3" class="OCCURRENCE">penalty</EVENT>. The Teranga Lions could not <EVENT eid="e4" class="OCCURRENCE">score</EVENT> against Cameroon in full regulation time as well as after extra time, throwing the second quarter-final match of Gabon <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> into penalty shootouts. Unfortunately, it was the continents current The post <EVENT eid="e5" class="OCCURRENCE">appeared</EVENT> first on National Accord Newspaper.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+</TimeML>

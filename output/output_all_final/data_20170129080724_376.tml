@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195930397</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Gulf stocks to move sideways</TITLE>
+
+
+<TEXT>
+- 6:19 a.m. 
+ 
+Gulf stock markets look set to <EVENT eid="e1" class="OCCURRENCE">move</EVENT> sideways on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> in the absence of fresh positive factors and with the global market environment lacklustre. 
+ 
+MSCI's world equities index <EVENT eid="e2" class="OCCURRENCE">edged</EVENT> down at <TIMEX3 tid="t2" type="DATE" value="2017-W04">the end of last week</TIMEX3> while Brent crude oil <EVENT eid="e3" class="OCCURRENCE">stayed</EVENT> around $55.50 a barrel. 
+ 
+Saudi Arabia's index, last at 7,135 points, faces technical resistance at the <TIMEX3 tid="t3" type="DATE" value="2017-01">January</TIMEX3> peak of 7,290 points and its pull-back from intra-day highs on <TIMEX3 tid="t4" type="DATE" value="2017-01-26">Thursday</TIMEX3> <EVENT eid="e4" class="I_ACTION">suggested</EVENT> it may not <EVENT eid="e5" class="OCCURRENCE">break</EVENT> that level in the short term at least. 
+ 
+Telecommunications firm Viva Kuwait may <EVENT eid="e6" class="OCCURRENCE">attract</EVENT> some interest after it <EVENT eid="e7" class="REPORTING">reported</EVENT> a 6.8 percent <EVENT eid="e8" class="OCCURRENCE">rise</EVENT> in <TIMEX3 tid="t5" type="DATE" value="2017-Q4">fourth-quarter</TIMEX3> net profit to 10.8 million dinars
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="COULD" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL5" timeID="t4" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

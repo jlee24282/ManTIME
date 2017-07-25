@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201963430</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Milligan welcomes new faculty, staff to campus</TITLE>
+
+
+<TEXT>
+ Tara Cosco will <EVENT eid="e1" class="OCCURRENCE">serve</EVENT> as associate professor of education. Previously, Cosco <EVENT eid="e2" class="OCCURRENCE">taught</EVENT> at Glenville State College in Glenville, West Virginia, as associate professor of special education since <TIMEX3 tid="t1" type="DATE" value="2008">2008</TIMEX3>. 
+ 
+She <EVENT eid="e3" class="OCCURRENCE">earned</EVENT> a Master of Education in special education from West Virginia University in Morgantown, West Virginia, and her Doctor of Education in technology and e-learning from Northcentral University in Prescott Valley, Arizona. 
+ 
+ Angela Hilton-Prillhart, associate professor of education, has been <EVENT eid="e4" class="OCCURRENCE">appointed</EVENT> chairwoman of the Area of Education upon Lyn Howells retirement at <TIMEX3 tid="t2" type="DATE" value="X">the end of</TIMEX3> the <TIMEX3 tid="t3" type="DATE" value="2016">fall 2016 semester</TIMEX3>. Hilton-Prillhart has <EVENT eid="e5" class="OCCURRENCE">served</EVENT> on Milligans faculty since <TIMEX3 tid="t4" type="DATE" value="2011">2011</TIMEX3>. 
+ 
+ Rachel Jones, a <TIMEX3 tid="t5" type="DATE" value="2011">2011</TIMEX3> alumna, will <EVENT eid="e6" class="OCCURRENCE">begin</EVENT> as instructor of social work at Milligan in the <TIMEX3 tid="t6" type="DATE" value="2017-SP">spring</TIMEX3>. Jones is an alumna of Milligan and also <EVENT eid="e7" class="OCCURRENCE">holds</EVENT> a Master of Social Work from the University of Kentucky. She <EVENT eid="e8" class="ASPECTUAL">completed</EVENT> a <TIMEX3 tid="t7" type="DURATION" value="P2Y">two-year</TIMEX3> term of service in the Philippines with the Peace Corps <TIMEX3 tid="t8" type="DATE" value="X">this</TIMEX3> fall. 
+ 
+ Gary S. Selby <EVENT eid="e9" class="I_STATE">joins</EVENT> the faculty ranks at Emmanuel Christian Seminary at Milligan <EVENT eid="e10" class="OCCURRENCE">serving</EVENT> as professor of ministerial formation. <TIMEX3 tid="t9" type="DATE" value="PAST_REF">Previously</TIMEX3>, he <EVENT eid="e11" class="I_ACTION">taught</EVENT> at Pepperdine University as the Carl P. Miller Chair of Communication and director of the universitys Center for Faith and Learning where he <EVENT eid="e12" class="OCCURRENCE">developed</EVENT> the COMMUNITAS Early Career Pastoral Leadership Program. 
+ 
+Selby holds a Doctor of Philosophy in public <EVENT eid="e13" class="OCCURRENCE">communication</EVENT> from the University of Maryland and a Master of Theology from Harding University Graduate School of Religion. 
+ 
+New staff <EVENT eid="e14" class="OCCURRENCE">include</EVENT>: 
+ 
+ David Knechtel will <EVENT eid="e15" class="OCCURRENCE">serve</EVENT> as clinical coordinator for Milligans new Master of Science in Physician Assistant Studies (M.S.P.A.S.) Program, <EVENT eid="e16" class="OCCURRENCE">launching</EVENT> in <TIMEX3 tid="t10" type="DATE" value="2018-01">January 2018</TIMEX3>. He holds a Bachelor of Science (B.S.) in health science and an M.S.P.A.S. degree from Duquesne University. 
+ 
+ Robbyn Maylott <EVENT eid="e17" class="OCCURRENCE">joins</EVENT> Milligans staff as personnel director with over <TIMEX3 tid="t11" type="DURATION" value="P25Y">25 years</TIMEX3> of experience in the human resources area. She has a Professional in Human Resources (P.H.R.) certification and a Master of Arts in organizational management. 
+ 
+ Lois Oiler serves as accounting manager and <EVENT eid="e18" class="OCCURRENCE">comes</EVENT> to Milligan with over <TIMEX3 tid="t12" type="DURATION" value="P20Y">20 years</TIMEX3> of experience in nonprofit and college accounting. She <EVENT eid="e19" class="OCCURRENCE">graduated</EVENT> Milligan in <TIMEX3 tid="t13" type="DATE" value="1992">1992</TIMEX3> with a B.S. in accounting. 
+ 
+To <EVENT eid="e20" class="OCCURRENCE">learn</EVENT> more about Milligan, visit www.milligan.edu .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie16" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL5" timeID="t9" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" timeID="t13" relatedToEventInstance="ie19" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t12" relatedToEventInstance="ie18" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t10" relatedToEventInstance="ie16" relType="INCLUDES" />
+</TimeML>

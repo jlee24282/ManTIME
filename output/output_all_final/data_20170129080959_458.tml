@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202035502</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Election Commission orders FIR against Delhi CM Arvind Kejriwal for bribery remarks</TITLE>
+
+
+<TEXT>
+The Election Commission (EC) has <EVENT eid="e1" class="OCCURRENCE">ordered</EVENT> aFIR against Delhi Chief Minister Arvind Kejriwal for stating bribery remarks in Goa on <TIMEX3 tid="t1" type="DATE" value="2017-01-08">January 8, 2017</TIMEX3>. He <EVENT eid="e2" class="REPORTING">said</EVENT>, If Congress or BJP candidates <EVENT eid="e3" class="OCCURRENCE">offer</EVENT> money, do not <EVENT eid="e4" class="OCCURRENCE">refuse</EVENT> it. Accept it as it is your own money and there is nothing wrong in <EVENT eid="e5" class="OCCURRENCE">getting</EVENT> it back. If they do not <EVENT eid="e6" class="OCCURRENCE">offer</EVENT> money, <EVENT eid="e7" class="OCCURRENCE">go</EVENT> to their offices and <EVENT eid="e8" class="OCCURRENCE">ask</EVENT> for it. But, when it comes to voting, press the button against the name of the AAP candidate. 
+(More details awaited) 
+ 
+Please Wait while comments are <EVENT eid="e9" class="OCCURRENCE">loading</EVENT>...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203888120</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Non-indigenes hijack job slots in Delta, says police boss  metro news Nigeria</TITLE>
+
+
+<TEXT>
+Police Commissioner, Mr. Zanna Ibrahim 
+  
+The Commissioner of Police, Delta State Command, Ibrahim Zanna, <TIMEX3 tid="t1" type="DATE" value="2017-01-28">yesterday</TIMEX3>, <EVENT eid="e1" class="REPORTING">said</EVENT> many youths in the state are unemployed because non-indigenes have <EVENT eid="e2" class="OCCURRENCE">hijacked</EVENT> the available job slots in the state. 
+ 
+The Commissioner, who <EVENT eid="e3" class="OCCURRENCE">hosted</EVENT> the new executive of the National Youth Council of Nigeria (NYCN), led by the State Chairman, Comrade Kenneth Okorie at the Police Headquarters, <EVENT eid="e4" class="REPORTING">alleged</EVENT> that citizens of other states often claim Delta State origin during recruitment exercise, thereby <EVENT eid="e5" class="OCCURRENCE">usurping</EVENT> the few slots allocated to the state. 
+ 
+
+Source link 
+   Related
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

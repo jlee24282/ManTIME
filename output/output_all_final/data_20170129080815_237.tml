@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197504431</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Le Meridien presentation</TITLE>
+
+
+<TEXT>
+Ten readers were the winners of the Le Meridien competition <EVENT eid="e1" class="OCCURRENCE">held</EVENT> in <TIMEX3 tid="t1" type="DATE" value="2017-12">the first week of December</TIMEX3> in the Times of Malta. They each won an overnight stay at Le Meridien Hotel, which includes dinner for two at Taro Restaurant. Seen here are, from left, John Borg (representing Frank Muscat), Margaret Camilleri, Neal Debono, operations director at Le Meridien, Elizabeth Gregory, Alana Abela, Richard Bonello, Marlene Lautier and Mariella Gatt (representing Marie Claire Gatt). Photo: Steve Zammit Lupi
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

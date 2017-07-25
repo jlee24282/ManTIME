@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196023300</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Health Newsmaker: Dr. Braithwaite joins Southcoast Health Breast Center</TITLE>
+
+
+<TEXT>
+Southcoast Health <EVENT eid="e1" class="REPORTING">announced</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3> that Keren Braithwaite, DO, breast surgeon, has <EVENT eid="e2" class="OCCURRENCE">joined</EVENT> the Southcoast Health Breast Center as a member of the Southcoast Physicians Group. 
+ 
+Dr. Braithwaite <EVENT eid="e3" class="OCCURRENCE">received</EVENT> her Doctor of Osteopathic Medical Degree from Nova Southeastern University in Davie, Fla. She <EVENT eid="e4" class="REPORTING">completed</EVENT> a general surgery residency at Staten Island University Hospital on Staten Island, N.Y., followed by a fellowship in Breast Surgical Oncology at the University of Miami/Jackson Memorial Hospital in Miami, Fla. 
+ 
+Dr. Braithwaite is a member of the Society of Surgical Oncology, the American College of Surgeons and the American Society of Breast Surgeons. She is board certified in general surgery, and fluent in Spanish. 
+ 
+In her new role at the Southcoast Health Breast Center, Dr. Braithwaite will <EVENT eid="e5" class="OCCURRENCE">work</EVENT> alongside Maureen Chung, MD, PhD, Medical Director of the Breast Program. 
+ 
+The Southcoast Health Breast Center is <EVENT eid="e6" class="OCCURRENCE">accredited</EVENT> by the National Accreditation Program for Breast Centers (NAPBC) for our <EVENT eid="e7" class="OCCURRENCE">achieving</EVENT> the highest standards of patient care. The comprehensive, multidisciplinary program is <EVENT eid="e8" class="I_STATE">designed</EVENT> to <EVENT eid="e9" class="I_ACTION">help</EVENT> guide patients that <EVENT eid="e10" class="OCCURRENCE">receive</EVENT> a breast abnormality. The multidisciplinary team includes surgeons, radiologists, oncologists, pathologists and breast care navigators. They meet regularly to <EVENT eid="e11" class="OCCURRENCE">review</EVENT> each case and <EVENT eid="e12" class="OCCURRENCE">recommend</EVENT> the appropriate course of treatment. With advanced technology and experience, the Center <EVENT eid="e13" class="OCCURRENCE">offers</EVENT> a streamlined approach to diagnosis, <EVENT eid="e14" class="OCCURRENCE">providing</EVENT> timely and accurate services. 
+ 
+The Southcoast Health Breast Center has two locations  Dartmouth and Fall River. To <EVENT eid="e15" class="OCCURRENCE">learn</EVENT> more about the Southcoast Health Breast Center, visit www.southcoast.org/breastcenter or <EVENT eid="e16" class="OCCURRENCE">call</EVENT> 855-749-3349.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

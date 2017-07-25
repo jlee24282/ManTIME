@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202761815</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Slipknots Corey Taylor Rocks David Bowie Classic At Tribute Show</TITLE>
+
+
+<TEXT>
+Slipknot's Corey Taylor Rocks David Bowie Classic At Tribute Show (Week in Review)  
+ 
+
+. 
+  
+Slipknot's Corey Taylor Rocks David Bowie Classic At Tribute Show was a Top 3 story on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3>: A fan <EVENT eid="e1" class="OCCURRENCE">captured</EVENT> video of Slipknot and Stone Sour frontman Corey Taylor <EVENT eid="e2" class="OCCURRENCE">performing</EVENT> "China Girl" during a Celebrating David Bowie <EVENT eid="e3" class="REPORTING">show</EVENT> earlier <TIMEX3 tid="t2" type="DATE" value="2017-W05">this week</TIMEX3> has <EVENT eid="e4" class="OCCURRENCE">gone</EVENT> online. 
+ 
+Taylor was among the many big names stars who <EVENT eid="e5" class="OCCURRENCE">participated</EVENT> in the Los Angeles installment of the global tribute events to the late music legend which <EVENT eid="e6" class="OCCURRENCE">took</EVENT> place at the Wiltern Theatre on January 24th and 25th. 
+ 
+The L.A. event also <EVENT eid="e7" class="OCCURRENCE">featured</EVENT> Def Leppard's Joe Elliott, Jane's Addiction's Perry Farrell, Bush's Gavin Rossdale and Sting among the guest singers and former Bowie bandmates Earl Slick, Adrian Belew, Mike Garson, and Gail Ann Dorsey. 
+ 
+The next show in the tribute series will be <EVENT eid="e8" class="OCCURRENCE">taking</EVENT> place in Tokyo on <TIMEX3 tid="t3" type="DATE" value="2017-02">February 2nd</TIMEX3>. Check out the video clip of Corey singing "China Girl" - here. 
+  
+advertisement
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

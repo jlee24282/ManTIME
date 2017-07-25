@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200771828</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bernice Rogers McBride</TITLE>
+
+
+<TEXT>
+Funeral services for Mrs. , 81, will be <EVENT eid="e1" class="OCCURRENCE">held</EVENT> at <TIMEX3 tid="t1" type="TIME" value="2017-01-29T14:00">2:00 p.m.</TIMEX3> on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2017-01-28">January 28, 2017</TIMEX3> at First Presbyterian Church. The Rev. Dr. Dan Sansbury will <EVENT eid="e2" class="OCCURRENCE">officiate</EVENT> with a private inurnment in the church prayer garden. The family will <EVENT eid="e3" class="OCCURRENCE">receive</EVENT> friends from <TIMEX3 tid="t4" type="TIME" value="2017-01-29T16:00">4:00 p.m.</TIMEX3> until <TIMEX3 tid="t5" type="TIME" value="2017-01-29T18:00">6:00 p.m.</TIMEX3> on <TIMEX3 tid="t6" type="DATE" value="2017-01-27">Friday</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2017-01-27">January 27, 2017</TIMEX3> at Brown-Pennington-Atkins Funeral Home. Memorials may be <EVENT eid="e4" class="OCCURRENCE">made</EVENT> to the First Presbyterian Church, 213 W. Home Ave., Hartsville, SC 29550; American Cancer Society, Attention: Darlington County, 950 48th Ave. North, Suite 101, Myrtle Beach, SC 29577; or to a charity of ones choice. 
+Mrs. McBride <EVENT eid="e5" class="OCCURRENCE">died</EVENT> peacefully on <TIMEX3 tid="t8" type="DATE" value="2017-01-24">Tuesday</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="2017-01">January</TIMEX3> 24<TIMEX3 tid="t10" type="DATE" value="2017">, 2017</TIMEX3>. She was <EVENT eid="e6" class="OCCURRENCE">born</EVENT> in the community of Floydale in Dillon County to the late Archie Burn and Kathleen Wethington Rogers on <TIMEX3 tid="t11" type="DATE" value="1935-05-16">May 16, 1935</TIMEX3>. She <EVENT eid="e7" class="OCCURRENCE">graduated</EVENT> from Latta High School and <EVENT eid="e8" class="OCCURRENCE">attended</EVENT> the University of South Carolina where she <EVENT eid="e9" class="OCCURRENCE">met</EVENT> Gordon McBride and later <EVENT eid="e10" class="OCCURRENCE">married</EVENT> him in <TIMEX3 tid="t12" type="DATE" value="1958">1958</TIMEX3>. She <EVENT eid="e11" class="I_ACTION">enjoyed supporting</EVENT> his endeavors and being by his side in his work as an attorney and as Solicitor. She was a loyal member of First Presbyterian Church and longtime member of the choir. She was very <EVENT eid="e12" class="OCCURRENCE">involved</EVENT> in the church Kindergarten and the Hartsville Soup Kitchen. She <EVENT eid="e13" class="I_ACTION">worked</EVENT> for West Oil Company for <TIMEX3 tid="t13" type="DURATION" value="P27Y">27 years</TIMEX3>. 
+Together they <EVENT eid="e14" class="OCCURRENCE">had</EVENT> three sons, Clifford Carlisle McBride of Florence, SC; Roger Bruce McBride of Hartsville, SC, and Burns Gordon McBride of Florence, SC. They always <EVENT eid="e15" class="OCCURRENCE">shared</EVENT> the love and support of these sons and were very proud of them. She is also <EVENT eid="e16" class="OCCURRENCE">survived</EVENT> by her sister, Catherine Beaver of Dillon, SC; brother, James Jimmy Rogers of Greenville, SC; granddaughter, Jessica McBride Thompson of North Charleston, SC. 
+Bernice was <EVENT eid="e17" class="OCCURRENCE">preceded</EVENT> in death by her parents, Archie and Kathleen Rogers; sister, Margaret R. Crumpler; brother, Carlisle Rogers. 
+Online condolences can be <EVENT eid="e18" class="OCCURRENCE">given</EVENT> at www.bpafuneralhome.com. 
+    Please Share This
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t6" relatedToTime="t7" relType="IDENTITY" />
+<TLINK lid="TL14" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL13" timeID="t3" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t2" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL11" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t5" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="IDENTITY" />
+<TLINK lid="TL7" timeID="t8" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t10" relatedToTime="t9" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie1" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie1" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t4" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

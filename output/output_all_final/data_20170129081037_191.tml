@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202974070</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Barcelona Protesters Occupy La Rambla to Claim Their City Back</TITLE>
+
+
+<TEXT>
+More than 2,000 protesters <EVENT eid="e1" class="OCCURRENCE">occupied</EVENT> Barcelonas famous La Rambla on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">January 28</TIMEX3> in a call <EVENT eid="e2" class="OCCURRENCE">quell</EVENT> the citys tourism boom.The protest <EVENT eid="e3" class="OCCURRENCE">targetted</EVENT> soaring tourism that has <EVENT eid="e4" class="OCCURRENCE">pushed</EVENT> up rents and <EVENT eid="e5" class="OCCURRENCE">diminished</EVENT> the quality of life for locals, according to reports.
+
+Keep it Clean. Please avoid obscene, vulgar, lewd, racist or sexually-oriented language.
+
+PLEASE TURN OFF YOUR CAPS LOCK.
+
+Don't Threaten. Threats of <EVENT eid="e6" class="OCCURRENCE">harming</EVENT> another person will not be <EVENT eid="e7" class="OCCURRENCE">tolerated</EVENT>.
+
+Be Truthful. Don't knowingly <EVENT eid="e8" class="OCCURRENCE">lie</EVENT> about anyone or <EVENT eid="e9" class="OCCURRENCE">anything</EVENT>.
+
+Be Nice. No racism, sexism or any sort of -ism that is <EVENT eid="e10" class="OCCURRENCE">degrading</EVENT> to another person.
+
+Be Proactive. Use the 'Report' link on each comment to <EVENT eid="e11" class="OCCURRENCE">let</EVENT> us <EVENT eid="e12" class="OCCURRENCE">know</EVENT> of abusive posts.
+
+Share with Us. We'd <EVENT eid="e13" class="I_STATE">love</EVENT> to <EVENT eid="e14" class="OCCURRENCE">hear</EVENT> eyewitness accounts, the history behind an article.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

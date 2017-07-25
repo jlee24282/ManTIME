@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204336884</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Late winner as Killie beat Staggies in thriller</TITLE>
+
+
+<TEXT>
+[embedded content]  
+Kilmarnock <EVENT eid="e1" class="OCCURRENCE">scored</EVENT> in <TIMEX3 tid="t1" type="DATE" value="X">the first minute</TIMEX3> and the last as they <EVENT eid="e2" class="OCCURRENCE">beat</EVENT> Ross County 3 2 in a thriller at Rugby Park in the SPFL Ladbrokes Premiership. Kris Boyd <EVENT eid="e3" class="OCCURRENCE">scored</EVENT> inside <TIMEX3 tid="t2" type="DATE" value="X">ten seconds</TIMEX3> but Christopher Routis and Alex Schalk <EVENT eid="e4" class="OCCURRENCE">turned</EVENT> the match around before half time. Gary Dicker <EVENT eid="e5" class="OCCURRENCE">levelled</EVENT> in the <TIMEX3 tid="t3" type="DATE" value="X">second</TIMEX3> half before Sean Longstaff <EVENT eid="e6" class="OCCURRENCE">struck</EVENT> at the <EVENT eid="e7" class="OCCURRENCE">death</EVENT>. 
+ 
+Kilmarnock v Ross County | 28/01/2017 ko 15:00:00 
+ 
+View fixture commentary and stats at http://spfl.co.uk/premiership/fixture/3638013/ 
+ 
+LADBROKES PREMIERSHIP CONTENT AVAILABILITY INFORMATION – GOALS FROM <TIMEX3 tid="t4" type="DATE" value="2017-01-28">SATURDAY</TIMEX3>’S MATCHES WILL BE AVAILABLE IN THE UK  amp; IRELAND FROM 6PM ON <TIMEX3 tid="t5" type="DATE" value="2017-01-22">SUNDAY</TIMEX3>. GOALS FROM ALL OTHER MATCHDAYS WILL BE AVAILABLE TO VIEW WORLDWIDE FROM MIDNIGHT AFTER THE MATCH. 
+ 
+The SPFL is the leading sporting competition in Scotland, <EVENT eid="e8" class="OCCURRENCE">covering</EVENT> the top 42 football teams in the country. Subscribe to the official SPFL YouTube channel to <EVENT eid="e9" class="OCCURRENCE">make</EVENT> sure you catch all the best bits from Scottish league football. Scottish football is famous for passionate and exciting matches featuring top teams like Celtic, Rangers, Aberdeen, Hearts, Hibs and Dundee United. 
+ 
+The top league is called the Ladbrokes Premiership. Below the top level, there are a further three leagues — the Ladbrokes Championship, Ladbrokes League 1 and Ladbrokes League 2. 
+ 
+Subscribe to the SPFL YouTube channel for free by <EVENT eid="e10" class="OCCURRENCE">clicking</EVENT> here: http://goo.gl/jq3jXN 
+ 
+Like us on Facebook: http://www.facebook.com/spflofficial 
+ 
+Follow us on Twitter: https://twitter.com/spfl  amp; https://twitter.com/spflnews
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+</TimeML>

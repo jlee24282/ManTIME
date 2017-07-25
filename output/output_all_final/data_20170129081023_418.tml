@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202770516</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Charli XCX Makes Creepy Appearance In Crazy Crazy Video</TITLE>
+
+
+<TEXT>
+Charli XCX Makes Creepy Appearance In 'Crazy Crazy' Video (Week in Review)  
+ 
+
+. 
+  
+Charli XCX Makes Creepy Appearance In 'Crazy Crazy' Video was a Top 3 story on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3>: (Radio.com) Charli XCX appears in the new video for J-pop producer Yasutaka Nakata's track "Crazy Crazy," but not in the way you might <EVENT eid="e1" class="OCCURRENCE">think</EVENT>. Her face is superimposed upon a model's body, <EVENT eid="e2" class="OCCURRENCE">creating</EVENT> an unsettling effect and <EVENT eid="e3" class="OCCURRENCE">winking</EVENT> towards the song's title. 
+ 
+At first, the visual, which also features kawaii artist Kyary Pamyu Pamyu, <EVENT eid="e4" class="I_STATE">seems</EVENT> relatively straightforward. A keyboardist, a drummer and a singer <EVENT eid="e5" class="OCCURRENCE">perform</EVENT> "Crazy Crazy" in a room together, but the way the camera <EVENT eid="e6" class="OCCURRENCE">shoots</EVENT> each character from above or behind <EVENT eid="e7" class="OCCURRENCE">keeps</EVENT> their faces hidden. Once viewers <EVENT eid="e8" class="I_STATE">begin</EVENT> to <EVENT eid="e9" class="OCCURRENCE">catch</EVENT> glimpses of everyone's face, things <EVENT eid="e10" class="STATE">turn</EVENT> strange. Charli's face <EVENT eid="e11" class="OCCURRENCE">appears</EVENT> on the singer's body while Kyary's face <EVENT eid="e12" class="OCCURRENCE">appears</EVENT> on the drummer's. 
+ 
+Charli <EVENT eid="e13" class="OCCURRENCE">wrote</EVENT> the track, <EVENT eid="e14" class="REPORTING">according</EVENT> to The Fader, but when it <EVENT eid="e15" class="OCCURRENCE">came</EVENT> to <EVENT eid="e16" class="OCCURRENCE">recording</EVENT> it, she <EVENT eid="e17" class="REPORTING">stayed</EVENT> in Los Angeles with Kyary <EVENT eid="e18" class="OCCURRENCE">worked</EVENT> with Nakata in Japan. Then he <EVENT eid="e19" class="OCCURRENCE">stitched</EVENT> everything together, much like he's <EVENT eid="e20" class="OCCURRENCE">done</EVENT> with his <TIMEX3 tid="t2" type="DATE" value="PAST_REF">past</TIMEX3> hits. Watch Charli be both Charli and not Charli - here. 
+ Radio.com is an official news provider for antiMusic.com. 
+Copyright Radio.com/CBS Local - Excerpted here with permission.   
+advertisement
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie18" relatedToEventInstance="ie17" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie20" relType="BEFORE" />
+<TLINK lid="TL7" eventInstanceID="ie17" relatedToEventInstance="ie15" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie17" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie14" relatedToEventInstance="ie13" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie15" relatedToEventInstance="ie17" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie10" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+</TimeML>

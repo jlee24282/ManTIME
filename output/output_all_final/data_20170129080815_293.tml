@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197543938</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>PM Modi spells 'smile more, score more' mantra for students</TITLE>
+
+
+<TEXT>
+Giving a message of encouragement to the students who are <EVENT eid="e1" class="I_STATE">set</EVENT> to <EVENT eid="e2" class="OCCURRENCE">appear</EVENT> in the upcoming board examinations, Prime Minister Narendra Modi Addressing the nation in the 28th edition of his 'Mann ki Baat' programme, Prime Minister Modi <EVENT eid="e3" class="OCCURRENCE">said</EVENT> how examinations must be taken as "a pleasure" and not "a pressure". "I will <EVENT eid="e4" class="REPORTING">tell</EVENT> all students <EVENT eid="e5" class="OCCURRENCE">smile</EVENT> more and score more. Why should exam time be a time of stress or sadness? Want to <EVENT eid="e6" class="OCCURRENCE">talk</EVENT> about exams and what so many people have <EVENT eid="e7" class="OCCURRENCE">written</EVENT> to me. Do not <EVENT eid="e8" class="OCCURRENCE">think</EVENT> about exams as pressure; they should be <EVENT eid="e9" class="STATE">celebrated</EVENT> as festivals," he <EVENT eid="e10" class="REPORTING">said</EVENT>.
+
+The Prime Minister <EVENT eid="e11" class="OCCURRENCE">advised</EVENT> the students that during examinations there should be an environment of festivity as it will <EVENT eid="e12" class="OCCURRENCE">turn</EVENT> 'P' for pressure into 'P' for pleasure, <EVENT eid="e13" class="OCCURRENCE">adding</EVENT> that when students are <EVENT eid="e14" class="OCCURRENCE">relaxed</EVENT> the recall value increases.
+
+"Relaxation is the best tonic for memory. A happy mind is the secret of a good mark sheet," he added.
+
+Prime Minister Modi <EVENT eid="e15" class="I_ACTION">tried</EVENT> to <EVENT eid="e16" class="OCCURRENCE">encourage</EVENT> the students by <EVENT eid="e17" class="REPORTING">saying</EVENT> that the examinations are test of <TIMEX3 tid="t1" type="DATE" value="2017">this year</TIMEX3>'s preparation and not of a lifetime.
+
+"We sometimes do not <EVENT eid="e18" class="I_STATE">see</EVENT> exams in the right perspective; Exams are not a benchmark of your success in life. If your mission and ambition are in sync, marks will <EVENT eid="e19" class="OCCURRENCE">follow</EVENT>," he added.
+
+With <EVENT eid="e20" class="OCCURRENCE">concluding</EVENT> remarks, Prime Minister Modi <EVENT eid="e21" class="OCCURRENCE">urged</EVENT> the students to <EVENT eid="e22" class="OCCURRENCE">compete</EVENT> with themselves to <EVENT eid="e23" class="PERCEPTION">see</EVENT> how they can <EVENT eid="e24" class="OCCURRENCE">improve</EVENT> their performance.
+
+(This story has not been <EVENT eid="e25" class="OCCURRENCE">edited</EVENT> by Business Standard staff and is auto-generated from a syndicated feed.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="CAN" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="FUTURE" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

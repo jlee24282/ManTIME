@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195901627</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Girls Basketball: Eugene 57, Russellville 29</TITLE>
+
+
+<TEXT>
+RUSSELLVILLE, Mo. The Eugene Lady Eagles had a hot start <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <EVENT eid="e1" class="OCCURRENCE">climbing</EVENT> above the .500 mark for the first time this season with a 57-29 <EVENT eid="e2" class="OCCURRENCE">win</EVENT> against the Russellville Lady Indians in the championship game of the Russellville Tournament. 
+ 
+Eugene <EVENT eid="e3" class="OCCURRENCE">took</EVENT> a 13-3 lead after <TIMEX3 tid="t2" type="DATE" value="2017-Q1">one quarter</TIMEX3> and <EVENT eid="e4" class="OCCURRENCE">pushed</EVENT> its lead to 22 points at 32-10 by halftime. Each team <EVENT eid="e5" class="OCCURRENCE">scored</EVENT> eight points in <TIMEX3 tid="t3" type="DATE" value="2017-Q3">the third quarter</TIMEX3>, as the Lady Eagles <EVENT eid="e6" class="OCCURRENCE">led</EVENT> <TIMEX3 tid="t4" type="DATE" value="X">40-18</TIMEX3> entering <TIMEX3 tid="t5" type="DATE" value="2017-Q4">the fourth quarter</TIMEX3>. 
+ 
+Lexi Dickerson <EVENT eid="e7" class="OCCURRENCE">paced</EVENT> Eugene with 16 points. Nicole Koetting and Alexa Belshe each added 10 points. 
+ 
+McKendra Fischer <EVENT eid="e8" class="OCCURRENCE">led</EVENT> Russellville with eight points. 
+ 
+Eugene (10-9) and Russellville (12-9) will <EVENT eid="e9" class="OCCURRENCE">meet</EVENT> again <TIMEX3 tid="t6" type="DATE" value="2017-01-23">Monday</TIMEX3> in Russellville for a Show-Me Conference matchup.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t3" relType="DURING" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="BEFORE" />
+</TimeML>

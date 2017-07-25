@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202952962</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Four suspects held over Mont Kiara brawl</TITLE>
+
+
+<TEXT>
+KUALA LUMPUR: Police have <EVENT eid="e1" class="OCCURRENCE">arrested</EVENT> four suspects to <EVENT eid="e2" class="OCCURRENCE">facilitate</EVENT> an investigation into a night club brawl in Mont Kiara on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, which <EVENT eid="e3" class="OCCURRENCE">led</EVENT> to the <EVENT eid="e4" class="OCCURRENCE">death</EVENT> of a 22-year-old man. 
+ 
+City Criminal Investigations Department (CID) chief SAC Rusdi Mohd Isa <EVENT eid="e5" class="REPORTING">said</EVENT> the suspects were <EVENT eid="e6" class="OCCURRENCE">arrested</EVENT> in a follow-up operation. 
+ 
+"We have <EVENT eid="e7" class="OCCURRENCE">arrested</EVENT> four men, in their 20's, in Kajang. 
+ 
+"We are <EVENT eid="e8" class="OCCURRENCE">identifying</EVENT> more suspects and <EVENT eid="e9" class="OCCURRENCE">zeroing</EVENT> in on the main suspect," he <EVENT eid="e10" class="REPORTING">said</EVENT> when <EVENT eid="e11" class="REPORTING">contacted</EVENT>. 
+ 
+Rusdi <EVENT eid="e12" class="REPORTING">said</EVENT> police are still <EVENT eid="e13" class="I_ACTION">trying</EVENT> to <EVENT eid="e14" class="OCCURRENCE">establish</EVENT> the motive behind the <EVENT eid="e15" class="OCCURRENCE">attack</EVENT>. 
+ 
+On <TIMEX3 tid="t2" type="TIME" value="2017-01-28TMO">early morning Saturday</TIMEX3>, the victim was <EVENT eid="e16" class="OCCURRENCE">stabbed</EVENT> and later <EVENT eid="e17" class="OCCURRENCE">succumbed</EVENT> to his injuries in a scuffle at a night club in Mont Kiara. 
+ 
+It was <EVENT eid="e18" class="OCCURRENCE">learnt</EVENT> that the victim, along with two friends, <EVENT eid="e19" class="OCCURRENCE">went</EVENT> to the entertainment centre at <TIMEX3 tid="t3" type="DATE" value="X">4am</TIMEX3>. 
+ 
+While they were <EVENT eid="e20" class="OCCURRENCE">dancing</EVENT>, the victim accidentally <EVENT eid="e21" class="OCCURRENCE">knocked</EVENT> into a man at a nearby table and a fight <EVENT eid="e22" class="OCCURRENCE">ensued</EVENT>. 
+ 
+During the <EVENT eid="e23" class="OCCURRENCE">brawl</EVENT>, the victim was <EVENT eid="e24" class="OCCURRENCE">stabbed</EVENT> in his chest, while his friend <EVENT eid="e25" class="OCCURRENCE">sustained</EVENT> injuries on his chest and the right side of his head. 
+ 
+The <EVENT eid="e26" class="OCCURRENCE">victim</EVENT> was then <EVENT eid="e27" class="OCCURRENCE">rushed</EVENT> to hospital, but the victim was <EVENT eid="e28" class="I_ACTION">pronounced dead</EVENT> at 9.30am. 
+ 
+A source <EVENT eid="e29" class="REPORTING">told</EVENT> theSun the victim also <EVENT eid="e30" class="OCCURRENCE">posseses</EVENT> seven previous records and has been <EVENT eid="e31" class="OCCURRENCE">arrested</EVENT> 19 times for various offenses. 
+ 
+In <TIMEX3 tid="t4" type="DATE" value="2016-07">July last year</TIMEX3>, a car jockey and cashier of the same club were <EVENT eid="e32" class="OCCURRENCE">slashed</EVENT> to death outside the club while another unidentified victim was in critical condition after being <EVENT eid="e33" class="OCCURRENCE">attacked</EVENT> by a mob wearing ski masks and <EVENT eid="e34" class="OCCURRENCE">armed</EVENT> with machetes. 
+ 
+Six suspects were <EVENT eid="e35" class="OCCURRENCE">arrested</EVENT> following the incident.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL11" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie32" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

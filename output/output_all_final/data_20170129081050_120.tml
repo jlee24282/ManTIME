@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203327839</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Australian Greens national council says factions 'incompatible' with its principles</TITLE>
+
+
+<TEXT>
+The statement follows formation of the Left Renewal group 
+
+The Australian Greens has <EVENT eid="e1" class="OCCURRENCE">issued</EVENT> a slap down to the <EVENT eid="e2" class="OCCURRENCE">formation</EVENT> of formal factions just weeks after the <EVENT eid="e3" class="OCCURRENCE">establishment</EVENT> of the controversial anti-capitalist group Left Renewal within its ranks.
+
+A statement <EVENT eid="e4" class="OCCURRENCE">issued</EVENT> by the Australian Greens National Council on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> <EVENT eid="e5" class="OCCURRENCE">declares</EVENT> formal factions "incompatible" with the party's principles.
+
+The statement comes amid over the party's <EVENT eid="e6" class="OCCURRENCE">direction</EVENT> under Senator Richard Di Natale.
+
+Ms Rhiannon - who is on the left of the party - <TIMEX3 tid="t2" type="DATE" value="2017-W04">last week</TIMEX3> <EVENT eid="e7" class="REPORTING">said</EVENT> the Greens are at a "crossroads" and should <EVENT eid="e8" class="I_STATE">consider adopting</EVENT> the policies of former US presidential candidate Bernie Sanders.
+
+But she was <EVENT eid="e9" class="OCCURRENCE">criticised</EVENT> by Mr Brown, who <EVENT eid="e10" class="OCCURRENCE">blasted</EVENT> her as the "Greens version of Tony Abbott".
+
+In its statement, which was <EVENT eid="e11" class="OCCURRENCE">emailed</EVENT> to every Greens member, the National Council <EVENT eid="e12" class="REPORTING">said</EVENT> one of the Greens' greatest strengths is that it is a member-driven organisation.
+
+"We <EVENT eid="e13" class="OCCURRENCE">reject</EVENT>, as fundamentally inconsistent with our principles of egalitarian and collaborative consensus-based decision making, the <EVENT eid="e14" class="OCCURRENCE">formation</EVENT> of formal factions in the party," it <EVENT eid="e15" class="REPORTING">said</EVENT>.
+
+"Furthermore, the <EVENT eid="e16" class="OCCURRENCE">formation</EVENT> of formal factions is incompatible with our party structure and rules". The story first <EVENT eid="e17" class="OCCURRENCE">appeared</EVENT> on The Sydney Morning Herald.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

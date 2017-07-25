@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204428406</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>1.27.17 Video- Quad City vs. Wheeling- ECHL hockey</TITLE>
+
+
+<TEXT>
+<EVENT eid="e1" class="OCCURRENCE">Trending</EVENT>  
+  
+1 
+ 
+  Police <EVENT eid="e2" class="OCCURRENCE">find</EVENT> $14,000 during drug bust in East Liverpool  
+ 
+2 
+ 
+  Contrary to rumors, Bob Evans restaurants aren't <EVENT eid="e3" class="OCCURRENCE">going</EVENT> anywhere  
+ 
+3 
+ 
+  Atwood Lodge to <EVENT eid="e4" class="OCCURRENCE">become</EVENT> drug, alcohol treatment center  
+ 
+4 
+ 
+  Drug trafficking investigation underway in Weirton  
+ 
+5 
+ 
+  House fire <EVENT eid="e5" class="OCCURRENCE">sends</EVENT> one person to the hospital
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

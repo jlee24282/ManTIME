@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200740317</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mabvuto Lungu lands new job</TITLE>
+
+
+<TEXT>
+Former Nyasa Big Bullets coach Mabvuto Lungu has <EVENT eid="e1" class="OCCURRENCE">landed</EVENT> a new job. 
+ 
+He has been <EVENT eid="e2" class="OCCURRENCE">appointed</EVENT> as Nchalo United head coach. at Nchalo. 
+  
+According to information reaching this publication is <EVENT eid="e3" class="I_STATE">indicating</EVENT> that Lungu has <EVENT eid="e4" class="OCCURRENCE">signed</EVENT> a <TIMEX3 tid="t1" type="DURATION" value="P1Y">one year</TIMEX3> contract at Nchalo United. 
+ 
+Lungu has since <EVENT eid="e5" class="OCCURRENCE">assured</EVENT> his boss that the lower shire side will be <EVENT eid="e6" class="OCCURRENCE">promoted</EVENT> into the elite league in <TIMEX3 tid="t2" type="DATE" value="2018">2018</TIMEX3> season. 
+ 
+I will surely <EVENT eid="e7" class="OCCURRENCE">fight</EVENT> to <EVENT eid="e8" class="OCCURRENCE">earn</EVENT> the team promotion into the elite league in the <TIMEX3 tid="t3" type="DATE" value="2018">2018 season</TIMEX3>, Lungu was <EVENT eid="e9" class="OCCURRENCE">quoted</EVENT> as <EVENT eid="e10" class="REPORTING">saying</EVENT>. 
+ 
+Last season, Lungu <EVENT eid="e11" class="I_ACTION">helped</EVENT> Nyasa Big Bullets to <EVENT eid="e12" class="OCCURRENCE">win</EVENT> the presidential cup but he was <EVENT eid="e13" class="OCCURRENCE">sacked</EVENT> after a poor run of form in the league. 
+ 
+<TIMEX3 tid="t4" type="DATE" value="PAST_REF">Last</TIMEX3> season Nchalo United <EVENT eid="e14" class="OCCURRENCE">finished</EVENT> third in the Southern Region Masters Uecurity League.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie7" relatedToEventInstance="ie9" relType="BEFORE" />
+<TLINK lid="TL5" timeID="t3" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t3" relatedToEventInstance="ie10" relType="INCLUDES" />
+</TimeML>

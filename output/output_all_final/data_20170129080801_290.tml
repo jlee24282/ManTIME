@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197148840</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>JavaScript WTF #5: No map() for Iterables</TITLE>
+
+
+<TEXT>
+(Ivan Krivyakov) In <TIMEX3 tid="t1" type="DURATION" value="PXD">the last few days</TIMEX3>, I did some formal reading and informal <EVENT eid="e1" class="OCCURRENCE">experimenting</EVENT> with EcmaScript6, and <EVENT eid="e2" class="OCCURRENCE">compiled</EVENT> the list of its most annoying features. 
+ 
+The post <EVENT eid="e3" class="OCCURRENCE">appeared</EVENT> first on SSWUG.ORG .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

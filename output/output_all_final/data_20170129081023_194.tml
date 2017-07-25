@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202623605</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Immigration advocates in Maryland push for state law to limit Trump orders</TITLE>
+
+
+<TEXT>
+Maryland was one of the first U.S. states to <EVENT eid="e1" class="OCCURRENCE">approve</EVENT> a Dream Act, which provides in-state tuition breaks for undocumented immigrants. It also <EVENT eid="e2" class="OCCURRENCE">passed</EVENT> a law that allows illegal immigrants to obtain drivers' licenses. 
+ 
+Start the conversation, or <EVENT eid="e3" class="OCCURRENCE">Read</EVENT> more at The Washington Post. 
+    
+Comments 
+   
+ Add your comments below  
+     
+
+      
+
+   
+Copyright  2017 Topix LLC
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

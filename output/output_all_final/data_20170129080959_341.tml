@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201922425</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>New fund launched to help boost youth social action</TITLE>
+
+
+<TEXT>
+Northamptonshire Community Foundation has <EVENT eid="e1" class="OCCURRENCE">launched</EVENT> the Youth Social Action Fund designed to <EVENT eid="e2" class="OCCURRENCE">give</EVENT> young people the chance to <EVENT eid="e3" class="OCCURRENCE">lead</EVENT> change and <EVENT eid="e4" class="OCCURRENCE">make</EVENT> a positive contribution to their communities. 
+ 
+Northamptonshire Community Foundation is one of 43 Community Foundations across the country, promoting the #iwill Youth Social Action fund. The fund will <EVENT eid="e5" class="OCCURRENCE">offer</EVENT> grants between <TIMEX3 tid="t1" type="DATE" value="1000">1000</TIMEX3> and <TIMEX3 tid="t2" type="DATE" value="X">5000</TIMEX3> for <EVENT eid="e6" class="OCCURRENCE">projects</EVENT> and activities <EVENT eid="e7" class="OCCURRENCE">raising</EVENT> the level and quality of youth social action in an area. Activities must be for young people between the age of 10 and 20 and <TIMEX3 tid="t3" type="DURATION" value="P25Y">up to 25 years</TIMEX3> for disabled young people. 
+ 
+#iwill is a UK-wide campaign <EVENT eid="e8" class="I_STATE">aiming</EVENT> to <EVENT eid="e9" class="OCCURRENCE">get</EVENT> 6 out 10 young people <EVENT eid="e10" class="OCCURRENCE">involved</EVENT> in social <EVENT eid="e11" class="OCCURRENCE">action</EVENT> by <TIMEX3 tid="t4" type="DATE" value="2020">2020</TIMEX3>. Big Lottery Fund and the Department of Culture, Media   Sport have <EVENT eid="e12" class="OCCURRENCE">invested</EVENT> 20 million each to the #iwill fund to <EVENT eid="e13" class="OCCURRENCE">support</EVENT> young people to access high quality social action opportunities. 
+ 
+Social action involves activities such as campaigning, <EVENT eid="e14" class="OCCURRENCE">fundraising</EVENT> and <EVENT eid="e15" class="OCCURRENCE">volunteering</EVENT>, all of which enable participants to <EVENT eid="e16" class="OCCURRENCE">make</EVENT> a positive difference to their communities and <EVENT eid="e17" class="OCCURRENCE">develop</EVENT> skills and knowledge that future employers look for. 
+The Wilson Foundation, a charity supporting young people in Northamptonshire, have generously match funded the Youth Social Action programme with a <EVENT eid="e18" class="OCCURRENCE">donation</EVENT> of 30,000. 
+'We are extremely delighted to be <EVENT eid="e19" class="OCCURRENCE">delivering</EVENT> this much <EVENT eid="e20" class="OCCURRENCE">needed</EVENT> Youth Social Action Fund on behalf of an extremely strong partnership including the Department for Culture Media and Sport, the Big Lottery and our own local match funder The Wilson Foundation, who are <EVENT eid="e21" class="OCCURRENCE">donating</EVENT> 30,000 to <EVENT eid="e22" class="I_ACTION">enable</EVENT> us to <EVENT eid="e23" class="OCCURRENCE">double</EVENT> this fund that will <EVENT eid="e24" class="I_ACTION">help</EVENT> to <EVENT eid="e25" class="OCCURRENCE">raise</EVENT> the quality of and <EVENT eid="e26" class="OCCURRENCE">increase</EVENT> youth social action in Northamptonshire." Victoria Miles DL Chief Executive, Northamptonshire Community Foundation. 
+ 
+For further information and to <EVENT eid="e27" class="OCCURRENCE">apply</EVENT> please <EVENT eid="e28" class="OCCURRENCE">go</EVENT> to Northamptonshire Community Foundation's website http://www.ncf.uk.com/Grants/Youth_Social_Action_Fund
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="MAY" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="ADJECTIVE" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194090149</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Melania Trump is eating a bowl of jewellery on the cover of Vanity Fair Mexico</TITLE>
+
+
+<TEXT>
+Melania Trump's first glossy magazine cover as first lady is on Vanity Fair Mexico, <EVENT eid="e1" class="OCCURRENCE">twirling</EVENT> a string of diamonds. 
+   
+Melania Trump's first glossy magazine cover as first lady is on Vanity Fair Mexico - but the timing (just as her husband's border-wall plans are <EVENT eid="e2" class="OCCURRENCE">souring</EVENT> the USrelationship with Mexico) and the pose (FLOTUS is <EVENT eid="e3" class="OCCURRENCE">pictured twirling</EVENT> a string of diamonds as if they were spaghetti) are just a little . . . well, off. 
+ 
+The cover <EVENT eid="e4" class="OCCURRENCE">promises</EVENT> a look at the glamorous first lady's family, how she deals with her husband and how she <EVENT eid="e5" class="I_STATE">plans</EVENT> to <EVENT eid="e6" class="OCCURRENCE">become</EVENT> the new Jackie Kennedy. The photo shoot and the accompanying interview are actually recycled content - they originally <EVENT eid="e7" class="OCCURRENCE">ran</EVENT> in sister (or is it brother?) <EVENT eid="e8" class="OCCURRENCE">publication</EVENT> GQ <TIMEX3 tid="t1" type="DATE" value="2016">last year</TIMEX3>. 
+ 
+The magazine <EVENT eid="e9" class="OCCURRENCE">hits</EVENT> newsstands just as the relationship between the United States and its neighbour to the south are fraying, thanks to President Trump's plan to <EVENT eid="e10" class="OCCURRENCE">build</EVENT> a wall along the border, and his insistence, despite Mexican leaders' statements to the contrary, that Mexico pay for it. 
+ 
+Mexican President Enrique Pea Nieto <EVENT eid="e11" class="OCCURRENCE">cancelled</EVENT> a planned <EVENT eid="e12" class="OCCURRENCE">meeting</EVENT> with Trump <TIMEX3 tid="t2" type="DATE" value="2017-W05">this week</TIMEX3> after the White House <EVENT eid="e13" class="OCCURRENCE">floated</EVENT> the idea of a tax on Mexican goods to <EVENT eid="e14" class="OCCURRENCE">pay</EVENT> for the wall (maybe he could <EVENT eid="e15" class="OCCURRENCE">learn</EVENT> something from those tactics <EVENT eid="e16" class="OCCURRENCE">promised</EVENT> in the Vanity Fair story that Melania <EVENT eid="e17" class="OCCURRENCE">uses</EVENT> for dealing with her husband?). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+And the former fashion model's let-them-eat-diamonds pose isn't likely to <EVENT eid="e18" class="OCCURRENCE">sit</EVENT> well with Mexican readers - or, perhaps, with Trump voters who <EVENT eid="e19" class="OCCURRENCE">like</EVENT> his populist message (though, to be fair, many supporters also <EVENT eid="e20" class="OCCURRENCE">appreciate</EVENT> his wealth-flaunting image). 
+ 
+The magazine cover is hardly likely to be Melania Trump's last: First ladies as cover models on glossy magazines have <EVENT eid="e21" class="OCCURRENCE">become</EVENT> a time-honored <EVENT eid="e22" class="OCCURRENCE">tradition</EVENT>. Michelle Obama <EVENT eid="e23" class="OCCURRENCE">appeared</EVENT> on the front of Vogue three times, and has <EVENT eid="e24" class="OCCURRENCE">graced</EVENT> covers of magazines as <EVENT eid="e25" class="OCCURRENCE">varied</EVENT> as Seventeen and Good Housekeeping.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie11" relType="INCLUDES" />
+</TimeML>

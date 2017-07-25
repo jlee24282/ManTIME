@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202116038</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Walter D. Felzke</TITLE>
+
+
+<TEXT>
+. He was 92.
+
+A memorial service will be <EVENT eid="e1" class="OCCURRENCE">held</EVENT> at 10:00 AM, <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-02-04">February 4</TIMEX3>, at the Memorial Park Cemetery Chapel.
+
+Felzke was <EVENT eid="e2" class="OCCURRENCE">born</EVENT> in Leavenworth, KS, <EVENT eid="e3" class="OCCURRENCE">graduated</EVENT> from Leavenworth High School, and <EVENT eid="e4" class="OCCURRENCE">served</EVENT> in the US Air Force for <TIMEX3 tid="t3" type="DURATION" value="P3Y">three years</TIMEX3> during WW II in the First Radio Squadron, Mobile, a part of the Fifth Air Force.
+
+After WWII he married Ann M. Moderhak on <TIMEX3 tid="t4" type="DATE" value="1948-05-29">May 29, 1948</TIMEX3>.
+
+He <EVENT eid="e5" class="OCCURRENCE">graduated</EVENT> with his bachelor degree from Kansas State University and <EVENT eid="e6" class="OCCURRENCE">earned</EVENT> his Juris Doctor degree from the University of Tulsa.
+
+Walter was <EVENT eid="e7" class="OCCURRENCE">baptized</EVENT> on <TIMEX3 tid="t5" type="DATE" value="1964-01-26">January 26, 1964</TIMEX3>, at Southminster Presbyterian Church.
+
+He <EVENT eid="e8" class="STATE">became</EVENT> a member of John Calvin Presbyterian Church, and <EVENT eid="e9" class="OCCURRENCE">served</EVENT> in many capacities including Deacon, Elder, Sunday school teacher and legal advisor.
+
+A wonderful Christian man, who was <EVENT eid="e10" class="OCCURRENCE">known</EVENT> for his friendly personality and quick wit, he will be truly <EVENT eid="e11" class="OCCURRENCE">missed</EVENT>. He is <EVENT eid="e12" class="OCCURRENCE">survived</EVENT> by his loving family.
+
+Preceded in death by his wife, Ann Margaret Moderhak Felzke. Survived by son, Paul A. (Donna) Felzke of Tulsa, OK; daughters, Janie (Jim) Pearce of Enid, OK, and Christine (Greg) Devlin of San Bruno, CA; grandchildren, Joseph (Veronica) Felzke, Ellen Felzke (Mason) Rowell, Emily Pearce, Katie Pearce, and Elizabeth Devlin; great-grandchildren, Emma Rowell, Clara Rowell, Penelope Pearce, and Rebel Mountain.
+
+In lieu of flowers, donations may be <EVENT eid="e13" class="OCCURRENCE">made</EVENT> to Alzheimer's Association (www.alz.org). Moore's Southlawn 918-663-2233 share memories at www.moorefuneral.com
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t5" relatedToEventInstance="ie7" relType="INCLUDES" />
+</TimeML>

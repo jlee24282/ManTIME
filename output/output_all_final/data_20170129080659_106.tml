@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194712039</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Trump official incorrectly justifies travel ban</TITLE>
+
+
+<TEXT>
+WASHINGTON (CNN) - A senior Trump administration official on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">pointed</EVENT> to the <TIMEX3 tid="t2" type="DATE" value="2015">2015</TIMEX3> mass <EVENT eid="e2" class="OCCURRENCE">shooting</EVENT> in San Bernardino, California, to <EVENT eid="e3" class="OCCURRENCE">justify</EVENT> the president's order to <EVENT eid="e4" class="OCCURRENCE">ban</EVENT> US immigration from seven Muslim-majority nations. 
+
+But neither of the attackers in the <EVENT eid="e5" class="OCCURRENCE">shooting</EVENT>, which <EVENT eid="e6" class="OCCURRENCE">left</EVENT> 14 people dead, would have been <EVENT eid="e7" class="OCCURRENCE">affected</EVENT> by the new ban. 
+
+"The current <EVENT eid="e8" class="STATE">process</EVENT> for screening and vetting refugees is woefully inadequate to the needs of national security," the official <EVENT eid="e9" class="REPORTING">told</EVENT> reporters on background during a <EVENT eid="e10" class="OCCURRENCE">briefing</EVENT> <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3> to <EVENT eid="e11" class="OCCURRENCE">discuss</EVENT> Trump's travel ban. 
+
+"There are 1,000 open ISIS investigations, approximately, inside the United States. There's a very strong nexus between our immigration and visa programs and terrorist plots and extremist networks inside the United States," the official <EVENT eid="e12" class="REPORTING">continued</EVENT>. "<EVENT eid="e13" class="OCCURRENCE">Look</EVENT> at the recent, high-profile <EVENT eid="e14" class="OCCURRENCE">attacks</EVENT> that have <EVENT eid="e15" class="OCCURRENCE">occurred</EVENT> inside the country -- an immigration nexus is not at all uncommon. I won't <EVENT eid="e16" class="OCCURRENCE">go</EVENT> through the list of them all <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3>. One obvious example would be Tashfeen Malik and the San Bernadino incident with the K1 visa." 
+
+A K1 visa is a non-immigrant visa <EVENT eid="e17" class="OCCURRENCE">issued</EVENT> to the foreign-citizen fiance of a US citizen. Tashfeen Malik was from a family of wealthy landowners in Pakistan and later <EVENT eid="e18" class="OCCURRENCE">moved</EVENT> to Saudi Arabia with her immediate family. Her husband, Syed Rizwan Farook, was a US citizen. 
+
+Pakistan and Saudi Arabia, however, are not on the list of countries subject to the new ban. 
+
+The administration is facing criticism from leaders in the U.S. and around the world for <EVENT eid="e19" class="OCCURRENCE">taking</EVENT> steps their critics <EVENT eid="e20" class="REPORTING">say</EVENT> are unconstitutional and anti-American. 
+
+The second mention of San Bernardino <EVENT eid="e21" class="OCCURRENCE">came</EVENT> when the official was <EVENT eid="e22" class="I_ACTION">trying</EVENT> to <EVENT eid="e23" class="OCCURRENCE">explain</EVENT> why there was no grace period before the executive order <EVENT eid="e24" class="OCCURRENCE">went</EVENT> into effect, to <EVENT eid="e25" class="I_ACTION">help</EVENT> ease implementation. 
+
+"<EVENT eid="e26" class="OCCURRENCE">Imagine</EVENT> if this had been an executive order that had been <EVENT eid="e27" class="OCCURRENCE">contemplated</EVENT> <TIMEX3 tid="t5" type="DURATION" value="PXD">the day</TIMEX3> before the San Bernardino shooter <EVENT eid="e28" class="OCCURRENCE">entered</EVENT> the United States?" the official <EVENT eid="e29" class="REPORTING">asked</EVENT>. "Would <EVENT eid="e30" class="OCCURRENCE">have delaying</EVENT> its implementation <EVENT eid="e31" class="OCCURRENCE">served</EVENT> the best interests of the country? The reality is we don't <EVENT eid="e32" class="I_STATE">know</EVENT> who the next individual is who will <EVENT eid="e33" class="OCCURRENCE">exploit</EVENT> our immigration programs successfully. If you <EVENT eid="e34" class="OCCURRENCE">choose</EVENT> that something is necessary to do for the sake of national security, it should be <EVENT eid="e35" class="OCCURRENCE">done</EVENT> immediately."
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="MUST" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie24" relatedToEventInstance="ie25" relType="AFTER" />
+<TLINK lid="TL17" timeID="t4" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL16" timeID="t3" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t3" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie7" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL13" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL11" eventInstanceID="ie28" relatedToTime="t5" relType="ENDED_BY" />
+<TLINK lid="TL10" eventInstanceID="ie27" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL19" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL18" timeID="t5" relatedToEventInstance="ie27" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie9" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie9" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie16" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL22" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL20" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL7" eventInstanceID="ie6" relatedToEventInstance="ie7" relType="BEFORE" />
+<TLINK lid="TL21" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL14" timeID="t3" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL9" eventInstanceID="ie27" relatedToEventInstance="ie28" relType="BEFORE" />
+</TimeML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203108722</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Trump's Muslim ban could keep nominated Iranian director from attending 2017 Oscars</TITLE>
+
+
+<TEXT>
+It is "extremely troubling" that a US ban on travellers from seven Muslim-majority countries could <EVENT eid="e1" class="OCCURRENCE">stop</EVENT> an Iranian filmmaker from <EVENT eid="e2" class="OCCURRENCE">attending</EVENT> the Oscars, the academy which hosts the awards <EVENT eid="e3" class="REPORTING">said</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>.
+
+read more
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

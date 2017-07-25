@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204272539</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Red Devil Porsche Cayman GT4 with Cargraphic Race Exhaust Is The Loudest So Far</TITLE>
+
+
+<TEXT>
+Is there anything wrong with <EVENT eid="e1" class="I_ACTION">trying</EVENT> to <EVENT eid="e2" class="OCCURRENCE">make</EVENT> a Porsche Cayman GT4 even better? Well, as long as you don't <EVENT eid="e3" class="OCCURRENCE">go</EVENT> past certain limits, the answer is a definite "no" (more on that below) and we're here to <EVENT eid="e4" class="OCCURRENCE">deliver</EVENT> a recent example that stands behind this. The 911-engined Cayman we're <EVENT eid="e5" class="OCCURRENCE">dealing</EVENT> with has been gifted with a few mods that are small, but effective. Chief among the tuning additions is a Cargraphic exhaust (continue <EVENT eid="e6" class="OCCURRENCE">reading</EVENT> >>) 
+ 
+Source link
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

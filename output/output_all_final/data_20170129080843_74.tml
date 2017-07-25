@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198573275</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>US raid kills Qaeda-linked Yemen tribe chiefs: sources</TITLE>
+
+
+<TEXT>
+Aden (AFP) - A dawn raid by US drones and helicopters <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">killed</EVENT> three Yemeni tribal chiefs allegedly <EVENT eid="e2" class="OCCURRENCE">linked</EVENT> to Al-Qaeda as well as a number of civilians, tribal and local sources <EVENT eid="e3" class="REPORTING">said</EVENT>. 
+ 
+Air-to-surface missiles and helicopter machinegun fire were also <EVENT eid="e4" class="OCCURRENCE">used</EVENT> in the <EVENT eid="e5" class="OCCURRENCE">attack</EVENT> on houses in Yakla district, in the central province of Baida, the sources <EVENT eid="e6" class="REPORTING">said</EVENT>. 
+ 
+Brothers Abdulraouf and Sultan al-Zahab and Saif Alawai al-Jawfi were <EVENT eid="e7" class="OCCURRENCE">killed</EVENT> in the strikes <EVENT eid="e8" class="OCCURRENCE">carried</EVENT> out by drones and Apache helicopters, they <EVENT eid="e9" class="REPORTING">said</EVENT>. 
+ 
+"There are casualties among the civilians that were in the targeted houses," <EVENT eid="e10" class="REPORTING">said</EVENT> one source. 
+ 
+The tribal chiefs were known to be <EVENT eid="e11" class="OCCURRENCE">linked</EVENT> to Al-Qaeda, the sources <EVENT eid="e12" class="REPORTING">said</EVENT>. 
+ 
+The Zahab brothers have two other Al-Qaeda brothers who were also <EVENT eid="e13" class="OCCURRENCE">killed</EVENT> in <TIMEX3 tid="t2" type="DATE" value="PAST_REF">the past</TIMEX3> by drone strikes. 
+ 
+The United States, which considers the extremist group's Yemen-based franchise, Al-Qaeda in the Arabian Peninsula, to be its most dangerous, is the only force operating drones over Yemen. 
+ 
+But it only sporadically <EVENT eid="e14" class="REPORTING">reports</EVENT> on a long-running <EVENT eid="e15" class="OCCURRENCE">bombing</EVENT> campaign against AQAP. 
+ 
+On <TIMEX3 tid="t3" type="DATE" value="2017-01-14">January 14</TIMEX3>, the Pentagon <EVENT eid="e16" class="I_ACTION">announced</EVENT> the <EVENT eid="e17" class="OCCURRENCE">killing</EVENT> a senior Al-Qaeda operative in Baida <TIMEX3 tid="t4" type="DURATION" value="P1W">a week earlier</TIMEX3> in an air <EVENT eid="e18" class="OCCURRENCE">strike</EVENT>. 
+ 
+Al-Qaeda and the Islamic State jihadist group have <EVENT eid="e19" class="ASPECTUAL">exploited</EVENT> a power vacuum <EVENT eid="e20" class="OCCURRENCE">created</EVENT> by the two-year-old <EVENT eid="e21" class="OCCURRENCE">conflict</EVENT> in Yemen between the government and Shiite Huthi rebels, especially in the country's south and southeast.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

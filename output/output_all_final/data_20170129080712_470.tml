@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195534162</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>A case report of disappearing pigmented skin lesions associated with pembrolizumab treatment for metastatic melanoma</TITLE>
+
+
+<TEXT>
+Abstract  
+Pembrolizumab is an immune checkpoint inhibitor that targets the programmed cell death (PD)-1 receptor. Common cutaneous adverse side effects of PD-1 inhibitors <EVENT eid="e1" class="OCCURRENCE">include</EVENT> maculopapular rash, pruritus, vitiligo, and lichenoid skin and mucosal reactions. Here, we <EVENT eid="e2" class="OCCURRENCE">describe</EVENT> a man in his sixties with metastatic melanoma <EVENT eid="e3" class="OCCURRENCE">treated</EVENT> with pembrolizumab who subsequently <EVENT eid="e4" class="OCCURRENCE">developed</EVENT> fading or <EVENT eid="e5" class="OCCURRENCE">disappearance</EVENT> of pigmented skin lesions, <EVENT eid="e6" class="OCCURRENCE">lightening</EVENT> of the skin, and poliosis of the eyebrows, eyelashes, and scalp and body hair. <EVENT eid="e7" class="REPORTING">Compared</EVENT> to baseline high-resolution three-dimensional total body photography, we <EVENT eid="e8" class="OCCURRENCE">observed</EVENT> fading or <EVENT eid="e9" class="OCCURRENCE">disappearing</EVENT> of solar lentigines, seborrheic keratoses, and melanocytic naevi, <EVENT eid="e10" class="OCCURRENCE">suggesting</EVENT> that PD-1 inhibitors may <EVENT eid="e11" class="OCCURRENCE">affect</EVENT> the evolution of these benign skin lesions. With dermatoscopic follow-up, altered lesions <EVENT eid="e12" class="OCCURRENCE">showed</EVENT> either blue-grey peppering/granularity or fading in colour without other identifiable features. No halo lesions or <EVENT eid="e13" class="OCCURRENCE">lesions</EVENT> with surrounding inflammation were <EVENT eid="e14" class="OCCURRENCE">identified</EVENT>. One <EVENT eid="e15" class="OCCURRENCE">changed</EVENT> pigmented lesion that <EVENT eid="e16" class="OCCURRENCE">showed</EVENT> blue-grey peppering/granularity on dermoscopy was <EVENT eid="e17" class="OCCURRENCE">biopsied</EVENT> and <EVENT eid="e18" class="OCCURRENCE">interpreted</EVENT> as a macular seborrheic keratosis with melanophages. Further studies are <EVENT eid="e19" class="I_STATE">required</EVENT> to <EVENT eid="e20" class="OCCURRENCE">elucidate</EVENT> the effects of PD-1 inhibition on benign skin lesions. 
+ 
+This <EVENT eid="e21" class="OCCURRENCE">article</EVENT> is <EVENT eid="e22" class="OCCURRENCE">protected</EVENT> by copyright. All rights <EVENT eid="e23" class="REPORTING">reserved</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="AFTER" />
+</TimeML>

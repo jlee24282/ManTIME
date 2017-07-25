@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200349867</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Should He Continue Schooling Or Accept A Job Offer</TITLE>
+
+
+<TEXT>
+hello nairalanders I m in a dilemma <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">right now</TIMEX3> and I <EVENT eid="e1" class="I_STATE">need</EVENT> real advice. I do <EVENT eid="e2" class="I_STATE">hope</EVENT> I get a very wise one because I haven t enough time on my clock. the mods can also <EVENT eid="e3" class="OCCURRENCE">help</EVENT> me to <EVENT eid="e4" class="OCCURRENCE">push</EVENT> this to FP because its my future at stake.I m in a position where I don t <EVENT eid="e5" class="OCCURRENCE">know</EVENT> whether to <EVENT eid="e6" class="ASPECTUAL">continue</EVENT> schooling - MSc, or <EVENT eid="e7" class="I_ACTION">accept</EVENT> a job offer.after my BSc, I didn t <EVENT eid="e8" class="I_STATE">want</EVENT> to <EVENT eid="e9" class="OCCURRENCE">continue</EVENT> on with my course of study because I <EVENT eid="e10" class="I_ACTION">realised</EVENT> I hadn t much passion for it, I went in to <EVENT eid="e11" class="OCCURRENCE">study</EVENT> mathematics becaus
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="SIMULTANEOUS" />
+</TimeML>

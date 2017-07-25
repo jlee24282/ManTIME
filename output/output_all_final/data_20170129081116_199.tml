@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204354191</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Salisbury woman dies after Bournemouth car crash</TITLE>
+
+
+<TEXT>
+A Salisbury woman has <EVENT eid="e1" class="OCCURRENCE">died</EVENT> after her car <EVENT eid="e2" class="OCCURRENCE">smashed</EVENT> into a wall in Bournemouth. 
+ 
+The <TIMEX3 tid="t1" type="DURATION" value="P23Y">23 year</TIMEX3> old <EVENT eid="e3" class="OCCURRENCE">passed</EVENT> away in hospital in the early <TIMEX3 tid="t2" type="DURATION" value="PTXH">hours</TIMEX3> of this morning (<TIMEX3 tid="t3" type="DATE" value="2017-01-29">Sunday</TIMEX3> January <TIMEX3 tid="t4" type="DATE" value="X">29th</TIMEX3>) from the serious injuries she <EVENT eid="e4" class="OCCURRENCE">suffered</EVENT> in the incident. 
+ 
+Police were <EVENT eid="e5" class="OCCURRENCE">called</EVENT> out just before 1.00am to the crash <EVENT eid="e6" class="OCCURRENCE">involving</EVENT> a black Renault Clio, in the car park at Alum Chine beach. 
+ 
+There were no other cars involved. 
+ 
+The woman's next of kin have been <EVENT eid="e7" class="OCCURRENCE">told</EVENT> and specialist officers are <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e8" class="OCCURRENCE">supporting</EVENT> her family. 
+ 
+Dorset Police have <EVENT eid="e9" class="OCCURRENCE">kept</EVENT> the area <EVENT eid="e10" class="OCCURRENCE">closed</EVENT> while they <EVENT eid="e11" class="OCCURRENCE">carry</EVENT> out investigations. 
+ 
+Police Inspector Derek McKerl <EVENT eid="e12" class="REPORTING">said</EVENT>: 
+ 
+"Sadly the driver was pronounced dead shortly after <EVENT eid="e13" class="OCCURRENCE">arriving</EVENT> at hospital. Her family are being <EVENT eid="e14" class="OCCURRENCE">supported</EVENT> by specially trained officers. 
+ 
+"I am <EVENT eid="e15" class="OCCURRENCE">appealing</EVENT> to anyone who <EVENT eid="e16" class="OCCURRENCE">witnessed</EVENT> the collision or the manner of driving of the Clio prior to the incident to <EVENT eid="e17" class="OCCURRENCE">contact</EVENT> police." 
+ 
+Anyone with information is <EVENT eid="e18" class="OCCURRENCE">asked</EVENT> to <EVENT eid="e19" class="OCCURRENCE">contact</EVENT> Dorset Police at www.dorset.police.uk , via email 101@dorset.pnn.police.uk or by <EVENT eid="e20" class="OCCURRENCE">calling</EVENT> 101 , <EVENT eid="e21" class="OCCURRENCE">quoting</EVENT> incident number 29:29. 
+ 
+Alternatively contact Crimestoppers anonymously on 0800 555 111 or via www.crimestoppers-uk.org .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToEventInstance="ie9" relType="DURING" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="DURING" />
+<TLINK lid="TL7" timeID="t5" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie8" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+</TimeML>

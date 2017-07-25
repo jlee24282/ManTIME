@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199955059</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bieber thrown into glass at NHL celebrity game (Yahoo Sports)</TITLE>
+
+
+<TEXT>
+Is it too late to <EVENT eid="e1" class="REPORTING">say</EVENT> sorry? 
+
+Justin Bieber <EVENT eid="e2" class="OCCURRENCE">got</EVENT> an NHL-sized welcome to the Celebrity Shootout game on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, when 6-foot-6 monster Chris Pronger <EVENT eid="e3" class="OCCURRENCE">plastered</EVENT> the Canadian pop star up against the glass to <EVENT eid="e4" class="OCCURRENCE">create</EVENT> one of the greatest hockey photos of all time. 
+ 
+Chris Pronger <EVENT eid="e5" class="OCCURRENCE">checked</EVENT> Justin Bieber and <EVENT eid="e6" class="OCCURRENCE">pushed</EVENT> his face into the glass at the NHL All-Star Game. <TIMEX3 tid="t2" type="DATE" value="2017-W05">This weekend</TIMEX3> just <EVENT eid="e7" class="OCCURRENCE">peaked</EVENT>. 
+ 
+ Greg Beacham (@gregbeacham) January <TIMEX3 tid="t3" type="DATE" value="2017">28, 2017</TIMEX3> 
+  
+Little bit of a <EVENT eid="e8" class="OCCURRENCE">shove</EVENT> by Pronger on Bieber. Will <EVENT eid="e9" class="OCCURRENCE">let</EVENT> you know if this <EVENT eid="e10" class="OCCURRENCE">develops</EVENT> into anything. 
+ 
+ Jon Rosen (@lakingsinsider) January <TIMEX3 tid="t4" type="DATE" value="2017">28, 2017</TIMEX3> 
+ 
+Biebers woes <EVENT eid="e11" class="ASPECTUAL">continued</EVENT> moments later when he was easily <EVENT eid="e12" class="OCCURRENCE">stopped</EVENT> by Jamie Storr on a fancy penalty shot attempt. 
+
+Bieber (sort of) <EVENT eid="e13" class="OCCURRENCE">redeemed</EVENT> himself shortly thereafter, when Lindros <EVENT eid="e14" class="OCCURRENCE">picked</EVENT> up the rebound off the pop stars <EVENT eid="e15" class="OCCURRENCE">failed</EVENT> breakaway. Lindros from Bieber, probably the most unlikely scoring play youll ever see. 
+
+Fortunately, the Biebs <EVENT eid="e16" class="OCCURRENCE">picked</EVENT> up his <EVENT eid="e17" class="OCCURRENCE">consolationribbon</EVENT> with an empty netter to <EVENT eid="e18" class="OCCURRENCE">give</EVENT> Team Gretzky the victory. 
+
+Bieber, a big fan of the Leafs, also <EVENT eid="e19" class="OCCURRENCE">got</EVENT> to <EVENT eid="e20" class="OCCURRENCE">play</EVENT> with Blackhawks star Patrick Kane , who is evidently a fan of the pop star. 
+ 
+Patrick Kane on Justin Bieber: "Hes <EVENT eid="e21" class="OCCURRENCE">got</EVENT> a lot of good songs. I dont know if I could <EVENT eid="e22" class="REPORTING">say</EVENT> that around the locker room, but Im a big fan." 
+ 
+ Mark Lazerus (@MarkLazerus) January <TIMEX3 tid="t5" type="DATE" value="X">28</TIMEX3>, 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+</TimeML>

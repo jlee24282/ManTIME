@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195691073</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>170129-nrr-obit-sands_merged</TITLE>
+
+
+<TEXT>
+Guy Adrian Sands <EVENT eid="e1" class="OCCURRENCE">passed</EVENT> away in the <TIMEX3 tid="t1" type="DATE" value="2017-01-27TMO">early morning</TIMEX3> hours of <TIMEX3 tid="t2" type="DATE" value="2017-01-24">Tuesday, January 24, 2017</TIMEX3>. Guy was <EVENT eid="e2" class="OCCURRENCE">born</EVENT> in Republic, Washington, and <EVENT eid="e3" class="STATE">was</EVENT> a long time resident of the Glide area. Guy was a Korean War veteran, and at times a logger, expert faller, a miner and eventually <EVENT eid="e4" class="OCCURRENCE">retired</EVENT> from the U.S. Forest Service in Glide. 
+ 
+He is <EVENT eid="e5" class="OCCURRENCE">survived</EVENT> by two sons, Jason Sands of Roseburg, and Martin Sands of Idleyld Park; two grandchildren; and two great-grandchildren. Also <EVENT eid="e6" class="OCCURRENCE">surviving</EVENT> Guy is his two sisters, Donna Favor of Idaho, and Phyllis Bean of Washington. 
+ 
+At Guy's request no service is planned.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

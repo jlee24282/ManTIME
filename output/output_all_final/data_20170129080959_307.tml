@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201896401</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>Can You Catch a Cold from Going Outside Without a Jacket?</TITLE>
+
+
+<TEXT>
+Contrary to popular belief, being cold doesn't <EVENT eid="e1" class="OCCURRENCE">cause</EVENT> a cold. But you should still <EVENT eid="e2" class="OCCURRENCE">bundle</EVENT> up <TIMEX3 tid="t1" type="DATE" value="2017-WI">this winter</TIMEX3>, <EVENT eid="e3" class="REPORTING">according</EVENT> to Health's medical editor. This article originally <EVENT eid="e4" class="OCCURRENCE">appeared</EVENT> on Health[1] Once and for all: Being cold is not, by itself, going to <EVENT eid="e5" class="OCCURRENCE">make</EVENT> you <EVENT eid="e6" class="OCCURRENCE">get</EVENT> a cold. Colds strike when viruses <EVENT eid="e7" class="OCCURRENCE">make</EVENT> their way into your mouth, nose, or eyes, usually after youve been in close proximity to someone whos <EVENT eid="e8" class="OCCURRENCE">infected</EVENT>. The misconception about <EVENT eid="e9" class="OCCURRENCE">catching</EVENT> a cold from going jacketless may <EVENT eid="e10" class="OCCURRENCE">stem</EVENT> from the fact ...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

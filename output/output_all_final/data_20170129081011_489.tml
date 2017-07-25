@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202471400</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Madonna Slams Report Shes Applying To Adopt Two More Malawi Children</TITLE>
+
+
+<TEXT>
+Madonna is <EVENT eid="e1" class="OCCURRENCE">blasting</EVENT> a report that she has <EVENT eid="e2" class="OCCURRENCE">filed</EVENT> to <EVENT eid="e3" class="OCCURRENCE">adopt</EVENT> two more children from Malawi. 
+
+I am in Malawi to <EVENT eid="e4" class="OCCURRENCE">check</EVENT> on the childrens hospital in Blantyre and my other work with Raising Malawi and then <EVENT eid="e5" class="OCCURRENCE">heading</EVENT> home, Madonna <EVENT eid="e6" class="REPORTING">told</EVENT> PEOPLE in a statement. The rumors of an adoption process are untrue. 
+
+Earlier <TIMEX3 tid="t1" type="DATE" value="2017-01-25">Wednesday</TIMEX3>, Malawi government spokesman Mlenga Mvula <EVENT eid="e7" class="REPORTING">told</EVENT> the Associated Press that the pop icon had <EVENT eid="e8" class="OCCURRENCE">appeared</EVENT> before a High Court judge that same day and that she was allegedly <EVENT eid="e9" class="OCCURRENCE">awaiting</EVENT> the courts <EVENT eid="e10" class="OCCURRENCE">decision</EVENT> on a her reported application. 
+
+Madonna is already mother to four children: Lourdes Leon, 20, Rocco Ritchie, 16, David Banda, 11, and Mercy James, 11. 
+
+The Living for Love singer <EVENT eid="e11" class="STATE">has</EVENT> a long history with the people of Malawi: She <EVENT eid="e12" class="OCCURRENCE">adopted</EVENT> David and Mercy from the African country in <TIMEX3 tid="t2" type="DATE" value="2006">2006</TIMEX3> and <TIMEX3 tid="t3" type="DATE" value="2007">2007</TIMEX3>, respectively. And shes <EVENT eid="e13" class="I_ACTION">worked</EVENT> to <EVENT eid="e14" class="OCCURRENCE">fight</EVENT> against poverty amongst the nations orphaned children for <TIMEX3 tid="t4" type="DURATION" value="P1E">more than a decade</TIMEX3> with her Raising Malawi charity. <TIMEX3 tid="t5" type="DATE" value="2017">This year</TIMEX3>, the philanthropic group will <EVENT eid="e15" class="OCCURRENCE">build</EVENT> Malawis first pediatric surgery and intensive care unit, the Mercy James Institute for Pediatric Surgery and Intensive Care.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie14" relatedToEventInstance="ie13" relType="AFTER" />
+</TimeML>

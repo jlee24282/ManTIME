@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196748948</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Author Irit Schaffer to speak Jan. 29 at Beth Tikvah Synagogue</TITLE>
+
+
+<TEXT>
+Irit Schaffer, author of the book Good Blood: A Journal of Healing, will <EVENT eid="e1" class="OCCURRENCE">discuss</EVENT> her book and her experiences as a child of Holocaust survivors. 
+ 
+
+What: Author Irit Schaffer 
+When: <TIMEX3 tid="t1" type="DATE" value="X">9</TIMEX3> a.m. <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Jan. 29</TIMEX3> 
+Where: Beth Tikvah Synagogue, 45 Oak St., Westborough 
+How much: Free, but reservations <EVENT eid="e2" class="OCCURRENCE">requested</EVENT> at www.bethtikvahsynagogue.org
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToTime="t1" relType="AFTER" />
+</TimeML>

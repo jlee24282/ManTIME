@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203742913</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>14 Things That Prove Your Priorities Have Never Been More Wrong</TITLE>
+
+
+<TEXT>
+Winter break is great. That is,until it's time to <EVENT eid="e1" class="OCCURRENCE">go</EVENT> back to school andyou <EVENT eid="e2" class="OCCURRENCE">realize</EVENT> just how <EVENT eid="e3" class="OCCURRENCE">fucked</EVENT> up your sleep schedule, diet, drinking habits and priorities are. Can't we just hibernate until <TIMEX3 tid="t1" type="DATE" value="2017-SU">summer</TIMEX3>? Read below for 15 things that proveyour priorities have never been more wrong. 
+ 
+
+ 1. You stay up until <TIMEX3 tid="t2" type="TIME" value="2017-01-29T02:00">2 a.m. each night</TIMEX3>  
+
+ 
+and <EVENT eid="e4" class="OCCURRENCE">wake</EVENT> up at 12 <TIMEX3 tid="t3" type="DATE" value="2017-01-30">the next day</TIMEX3>. Brunch exists for a reason, right? 
+ 2. "I'm definitely not <EVENT eid="e5" class="OCCURRENCE">blacking</EVENT> out <TIMEX3 tid="t4" type="DATE" value="2017-01-29TNI">tonight</TIMEX3>."  
+
+ 
+You're definitely <EVENT eid="e6" class="OCCURRENCE">blacking</EVENT> out <TIMEX3 tid="t5" type="DATE" value="2017-01-29TNI">tonight</TIMEX3>. 
+ 3. In theory, you <EVENT eid="e7" class="I_STATE">want</EVENT> to <EVENT eid="e8" class="OCCURRENCE">eat</EVENT> healthy  
+
+ 
+But in reality, ain't nobody got time for a diet! Bring on the pizza. 
+ 4. Your bar tabs are <EVENT eid="e9" class="OCCURRENCE">going</EVENT> up  
+And your bank account is <EVENT eid="e10" class="OCCURRENCE">going</EVENT> down. 
+ 5. You can't even fake motivation for class at this point  
+
+ 
+It's even a struggle to <EVENT eid="e11" class="OCCURRENCE">sit</EVENT> through class during <TIMEX3 tid="t6" type="DURATION" value="PXW">syllabus week</TIMEX3>. 
+ 6. You <EVENT eid="e12" class="OCCURRENCE">peaked</EVENT> <TIMEX3 tid="t7" type="DATE" value="2016">last year</TIMEX3>  
+
+ 
+And you are now on a slow <EVENT eid="e13" class="OCCURRENCE">decline</EVENT> to total self-sabotage. 
+ 7. The Netflix binges are at an all-time high  
+
+ 
+Don't <EVENT eid="e14" class="STATE">blame</EVENT> us, though!There are toomany good shows out thereright <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">now</TIMEX3> to <EVENT eid="e15" class="OCCURRENCE">resist</EVENT>. 
+ 8. Your roots are <EVENT eid="e16" class="OCCURRENCE">growing</EVENT> in and your ends aresplit  
+
+ 
+"Take me as I am or watch me as I <EVENT eid="e17" class="OCCURRENCE">go</EVENT>." 
+ 9. <EVENT eid="e18" class="OCCURRENCE">Taking</EVENT> L's doesn't even <EVENT eid="e19" class="OCCURRENCE">surprise</EVENT> you anymore  
+
+ 
+Oh, I <EVENT eid="e20" class="OCCURRENCE">failed</EVENT> a <EVENT eid="e21" class="OCCURRENCE">test</EVENT>? Whatever. Oh, I <EVENT eid="e22" class="OCCURRENCE">got</EVENT> a flat <EVENT eid="e23" class="OCCURRENCE">tire</EVENT>? Whatever. Oh, the guy I <EVENT eid="e24" class="OCCURRENCE">like</EVENT> just <EVENT eid="e25" class="OCCURRENCE">ghosted</EVENT> me? What-fucking-ever. 
+ 10. Swimsuit season is <EVENT eid="e26" class="OCCURRENCE">coming</EVENT> up soon  
+
+ 
+But dinner is even sooner. Pass us a buttered roll pls. 
+ 11. "I'm never <EVENT eid="e27" class="OCCURRENCE">drinking</EVENT> again."  
+
+ 
+You tell yourself. Repeatedly.Only to <EVENT eid="e28" class="OCCURRENCE">drink</EVENT> again <TIMEX3 tid="t9" type="DURATION" value="PTXH">a few hours later</TIMEX3>. 
+ 12. You <EVENT eid="e29" class="I_STATE">wait</EVENT> to <EVENT eid="e30" class="OCCURRENCE">schedule</EVENT> your classes until <TIMEX3 tid="t10" type="DATE" value="2016-Q2">the last possible second</TIMEX3>  
+
+ 
+*<TIMEX3 tid="t11" type="DURATION" value="PXW">Two weeks</TIMEX3> into class* "<EVENT eid="e31" class="OCCURRENCE">Did</EVENT> you make your schedule yet?" "Nah dude, I gotta <EVENT eid="e32" class="OCCURRENCE">go</EVENT> to <EVENT eid="e33" class="OCCURRENCE">advising</EVENT> <TIMEX3 tid="t12" type="DATE" value="2017-01-30">tomorrow</TIMEX3>." 
+ 13. You barely even remember to <EVENT eid="e34" class="OCCURRENCE">take</EVENT> your birth control on time  
+
+ 
+Seriously, it can't <EVENT eid="e35" class="OCCURRENCE">get</EVENT> much worse than this. 
+ 14. "I'll <EVENT eid="e36" class="OCCURRENCE">try</EVENT> again <TIMEX3 tid="t13" type="DATE" value="2017-W06">next week</TIMEX3>..."   
+We doubt it.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie29" relatedToTime="t10" relType="AFTER" />
+<TLINK lid="TL9" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t5" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie6" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL13" timeID="t12" relatedToEventInstance="ie33" relType="INCLUDES" />
+<TLINK lid="TL12" timeID="t11" relatedToEventInstance="ie29" relType="BEFORE" />
+<TLINK lid="TL11" timeID="t11" relatedToEventInstance="ie31" relType="BEGINS" />
+<TLINK lid="TL10" timeID="t9" relatedToEventInstance="ie28" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie36" relatedToTime="t13" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie12" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie18" relatedToEventInstance="ie21" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToEventInstance="ie19" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie29" relatedToEventInstance="ie30" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie33" relatedToTime="t12" relType="IS_INCLUDED" />
+<TLINK lid="TL14" timeID="t7" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie28" relatedToTime="t9" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197851496</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Goldman Sachs Believes MSFT Wont Stop Here</TITLE>
+
+
+<TEXT>
+Goldman Sachs analyst Heather Bellini <EVENT eid="e1" class="OCCURRENCE">assigned</EVENT> a Buy <EVENT eid="e2" class="OCCURRENCE">rating</EVENT> to Microsoft Corp (NASDAQ: MSFT ) on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">January 27</TIMEX3> and <EVENT eid="e3" class="OCCURRENCE">set</EVENT> a price target of $72 . The companys shares <EVENT eid="e4" class="OCCURRENCE">closed</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-01-27">last Friday</TIMEX3> at $65.78, close to its <TIMEX3 tid="t3" type="DURATION" value="P52W">52-week</TIMEX3> <EVENT eid="e5" class="OCCURRENCE">high</EVENT> of $65.91. 
+ 
+<EVENT eid="e6" class="REPORTING">According</EVENT> to TipRanks.com , Bellini is a 5-star analyst with an average return of 12.9% and a 72.0% success rate. Bellini covers the Technology sector, <EVENT eid="e7" class="OCCURRENCE">focusing</EVENT> on stocks such as Jive Software Inc, TiVo Corporation, and Citrix Systems. 
+ 
+Currently, the analyst consensus on Microsoft Corp is Strong Buy and the average price target is $69.20, <EVENT eid="e8" class="I_STATE">representing</EVENT> a 5.2% upside. 
+ 
+In a report <EVENT eid="e9" class="OCCURRENCE">issued</EVENT> on <TIMEX3 tid="t4" type="DATE" value="2017-01-17">January 17</TIMEX3>, CLSA also <EVENT eid="e10" class="OCCURRENCE">reiterated</EVENT> a Buy rating on the stock with a $72 price target. 
+ 
+The company has a <TIMEX3 tid="t5" type="DURATION" value="P1Y">one year</TIMEX3> high of $65.91 and a <TIMEX3 tid="t6" type="DURATION" value="P1Y">one year</TIMEX3> low of $48.04. Currently, Microsoft Corp has an average volume of 25.93M. 
+ 
+Based on the recent corporate insider activity of 88 insiders, corporate insider sentiment is <EVENT eid="e11" class="STATE">negative</EVENT> on the stock.  Most <TIMEX3 tid="t7" type="DATE" value="PAST_REF">recently</TIMEX3>, in <TIMEX3 tid="t8" type="DATE" value="2016-11">November 2016</TIMEX3>, Christopher Capossela, the EVP, CMO of MSFT <EVENT eid="e12" class="OCCURRENCE">sold</EVENT> 18,583 shares for a total of $1,088,461. 
+ 
+TipRanks has <EVENT eid="e13" class="OCCURRENCE">tracked</EVENT> 36,000 company insiders and <EVENT eid="e14" class="OCCURRENCE">found</EVENT> that a few of them are better than others when it comes to <EVENT eid="e15" class="OCCURRENCE">timing</EVENT> their transactions. See which 3 stocks are most likely to make <EVENT eid="e16" class="OCCURRENCE">moves</EVENT> following their insider activities. 
+ 
+
+
+The post <EVENT eid="e17" class="OCCURRENCE">appeared</EVENT> first on Analyst Ratings .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t7" relatedToEventInstance="ie12" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToTime="t7" relType="IS_INCLUDED" />
+</TimeML>

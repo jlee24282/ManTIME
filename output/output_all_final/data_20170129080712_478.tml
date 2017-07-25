@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195537937</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>This is the missing boat thats sparked 400-square mile search off Sabah coast</TITLE>
+
+
+<TEXT>
+ Provided by MToday News Sdn Bhd bot  
+PETALING JAYA: The boat that <EVENT eid="e1" class="OCCURRENCE">went missing</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-28">yesterday</TIMEX3> off the coast of Sabah with 28 China tourists and three crew looks like a tight squeeze for so many people. 
+ 
+The air force, navy and marine police are on a full-scale search for it over 400 square miles of sea. 
+ 
+Photos on a WhatsApp media group <EVENT eid="e2" class="OCCURRENCE">show</EVENT> a white boat with a registration number <EVENT eid="e3" class="OCCURRENCE">matching</EVENT> that of the missing Catamaran. 
+ 
+It <EVENT eid="e4" class="STATE">has</EVENT> four rows of seats and standing room on the deck. Its <EVENT eid="e5" class="OCCURRENCE">powered</EVENT> by two 250 horsepower Yamaha engines. 
+ 
+Malaysian Maritime Enforcement Agency (MMEA), when contacted, <EVENT eid="e6" class="REPORTING">confirmed</EVENT> that the pictures were indeed of the missing boat. 
+ 
+Its communications officer Awil Kamsari <EVENT eid="e7" class="REPORTING">told</EVENT> FMT that the tour agency which <EVENT eid="e8" class="OCCURRENCE">arranged</EVENT> the boat and the trip is <EVENT eid="e9" class="OCCURRENCE">called</EVENT>, Golden Sailing. 
+ 
+We have <EVENT eid="e10" class="OCCURRENCE">contacted</EVENT> the agency and in fact, it was the agencys representative who <EVENT eid="e11" class="OCCURRENCE">filed</EVENT> the missing report. 
+ 
+When <EVENT eid="e12" class="OCCURRENCE">asked</EVENT> how many passengers can <EVENT eid="e13" class="OCCURRENCE">fit</EVENT> into the boat, and what was the limit set, Awil <EVENT eid="e14" class="REPORTING">said</EVENT> the authorities <EVENT eid="e15" class="I_STATE">couldnt</EVENT> be sure until they <EVENT eid="e16" class="OCCURRENCE">find</EVENT> the boat and <EVENT eid="e17" class="OCCURRENCE">inspect</EVENT> it themselves. 
+ 
+The boat <EVENT eid="e18" class="OCCURRENCE">left</EVENT> from Tanjung Aru in Kota Kinabalu, Sabah, for Pulau Mengalum at <TIMEX3 tid="t2" type="DATE" value="X">9am yesterday</TIMEX3>, the <TIMEX3 tid="t3" type="DATE" value="X">first</TIMEX3> day of Chinese New <TIMEX3 tid="t4" type="DURATION" value="PXY">Year</TIMEX3>, and it was <EVENT eid="e19" class="OCCURRENCE">reported missing</EVENT> when it didnt <EVENT eid="e20" class="OCCURRENCE">arrive</EVENT> even <TIMEX3 tid="t5" type="DURATION" value="PT12H">12 hours later</TIMEX3>. 
+ 
+The Malaysian navy, maritime police and air force were <EVENT eid="e21" class="OCCURRENCE">involved</EVENT> in the <EVENT eid="e22" class="OCCURRENCE">search</EVENT>, the MMEA <EVENT eid="e23" class="REPORTING">said</EVENT> in a statement <TIMEX3 tid="t6" type="DATE" value="2017-01-29TMO">this morning</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t5" relatedToEventInstance="ie20" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL7" timeID="t6" relatedToEventInstance="ie23" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t6" relatedToEventInstance="ie22" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie23" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie22" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie21" relatedToEventInstance="ie22" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie20" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

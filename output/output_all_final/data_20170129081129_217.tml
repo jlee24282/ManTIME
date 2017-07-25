@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204844344</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Challenge to DA old guard</TITLE>
+
+
+<TEXT>
+Johannesburg - At 09:00 on <TIMEX3 tid="t1" type="DATE" value="2017-01-25">Wednesday</TIMEX3>, a waiter balances a tray of beers at a restaurant in Gandhi Square in Johannesburg's city centre. 
+ 
+"He <EVENT eid="e1" class="REPORTING">banna</EVENT>, what time is it? That guy is <EVENT eid="e2" class="OCCURRENCE">drinking</EVENT> Castle at this
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+
+</TimeML>

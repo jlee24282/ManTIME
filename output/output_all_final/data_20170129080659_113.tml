@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194719276</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Wisconsin woods to Valley thorn scrub: Laguna volunteer likes the trade</TITLE>
+
+
+<TEXT>
+LOS FRESNOS  Were not in Wisconsin anymore. 
+ 
+Peggy Wagner is a volunteer at Laguna Atascosa National Wildlife Refuge here, <EVENT eid="e1" class="OCCURRENCE">working</EVENT> the front desk in the Visitors Center. 
+ 
+Wagner and her husband, Jeff, became full-time RVers in <TIMEX3 tid="t1" type="DATE" value="2017-05">May</TIMEX3> and <EVENT eid="e2" class="OCCURRENCE">relocated</EVENT> to the Rio Grande Valley. 
+ 
+This is our first volunteer position, so Ive been here since <TIMEX3 tid="t2" type="DATE" value="2017-11">the beginning of November</TIMEX3> and am <EVENT eid="e3" class="OCCURRENCE">enjoying</EVENT> it immensely, <EVENT eid="e4" class="REPORTING">said</EVENT> Wagner. The people who come are wonderful people, as well as the volunteers I work with. 
+ 
+The Tamaulipan thorn scrub that dominates much of the landscape of Laguna Atascosa stands in sharp contrast to the Wisconsin northwoods she <EVENT eid="e5" class="OCCURRENCE">left</EVENT> behind. 
+ 
+Lake Nebagamon sits in the deep snow zone in the north of the state, just south of the western tip of Lake Superior. 
+ 
+Some of the animals here  I hadnt even <EVENT eid="e6" class="OCCURRENCE">heard</EVENT> of an ocelot before, Wagner <EVENT eid="e7" class="REPORTING">said</EVENT>. So <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> I <EVENT eid="e8" class="I_STATE">know</EVENT> what one looks like, as well as some of the characteristics of it. 
+ 
+<EVENT eid="e9" class="I_ACTION">Seeing</EVENT> the terrain here is totally different from what Im <EVENT eid="e10" class="OCCURRENCE">used</EVENT> to up in Wisconsin, she <EVENT eid="e11" class="REPORTING">said</EVENT>, so its really interesting  a real learning experience for me. 
+ 
+The beauty of South Texas <EVENT eid="e12" class="OCCURRENCE">isnt</EVENT> the only thing shes <EVENT eid="e13" class="OCCURRENCE">appreciating</EVENT> these <TIMEX3 tid="t4" type="DURATION" value="PXD">days</TIMEX3>. 
+ 
+Wagner <EVENT eid="e14" class="OCCURRENCE">finished</EVENT> her <TIMEX3 tid="t5" type="DURATION" value="P35Y">35-year</TIMEX3> education career in Wisconsin where she <EVENT eid="e15" class="OCCURRENCE">taught</EVENT> kindergarten. 
+ 
+The rewards are the satisfaction of <EVENT eid="e16" class="I_STATE">knowing</EVENT> that youre <EVENT eid="e17" class="OCCURRENCE">giving</EVENT> back, she <EVENT eid="e18" class="REPORTING">said</EVENT>. I really like that because all through my working career I didnt <EVENT eid="e19" class="OCCURRENCE">have</EVENT> the opportunity to just <EVENT eid="e20" class="OCCURRENCE">do</EVENT> something that I <EVENT eid="e21" class="I_STATE">wanted</EVENT> to <EVENT eid="e22" class="OCCURRENCE">volunteer</EVENT> for. 
+ 
+Its a feeling of accomplishment and pride in the fact that you can really <EVENT eid="e23" class="OCCURRENCE">give</EVENT> back, she <EVENT eid="e24" class="REPORTING">said</EVENT>. 
+ 
+rkelley@valleystar.com
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" timeID="t3" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL3" timeID="t4" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie23" relatedToEventInstance="ie24" relType="DURING" />
+</TimeML>

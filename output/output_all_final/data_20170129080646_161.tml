@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194362903</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>'Tomb Raider' casts Dominic West as Lara Croft's father</TITLE>
+
+
+<TEXT>
+Actor Lara Croft (Photo: Facebook) 
+    
+British actor Dominic West is <EVENT eid="e1" class="OCCURRENCE">joining</EVENT> Alicia Vikander in MGM-Warner Bros' Tomb Raider reboot and will <EVENT eid="e2" class="OCCURRENCE">portray</EVENT> Lara Croft's father. 
+ 
+Vikander became <EVENT eid="e3" class="OCCURRENCE">attached</EVENT> to the role of Lara Croft <TIMEX3 tid="t1" type="DATE" value="2016-04">last April</TIMEX3>. Walton Goggins and Daniel Wu are also attached <EVENT eid="e4" class="REPORTING">reported</EVENT> Variety. 
+ 
+MGM and Warner Bros <EVENT eid="e5" class="OCCURRENCE">acquired</EVENT> the rights from GK Films which had previously <EVENT eid="e6" class="OCCURRENCE">purchased</EVENT> the film rights in <TIMEX3 tid="t2" type="DATE" value="2011">2011</TIMEX3> from Square Enix Ltd Graham King is serving as producer and Roar Uthaug ("The Wave") will direct. 
+ 
+The original Tomb Raider game was <EVENT eid="e7" class="OCCURRENCE">published</EVENT> in <TIMEX3 tid="t3" type="DATE" value="1996">1996</TIMEX3> by London-based video game company Eidos and <EVENT eid="e8" class="OCCURRENCE">went</EVENT> on to <EVENT eid="e9" class="OCCURRENCE">become</EVENT> one of the most successful video games of the time. Eidos is <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> part of an international interactive entertainment group, Square Enix. 
+ 
+The "Tomb Raider" franchise has <EVENT eid="e10" class="OCCURRENCE">sold</EVENT> over 45 million copies worldwide. Paramount's two films starring Angelina Jolie as British archaeologist Lara Croft were <EVENT eid="e11" class="OCCURRENCE">released</EVENT> in <TIMEX3 tid="t5" type="DATE" value="2001">2001</TIMEX3> and <TIMEX3 tid="t6" type="DATE" value="2003">2003</TIMEX3> and <EVENT eid="e12" class="STATE">grossed</EVENT> USD 432 million worldwide. 
+ 
+Vikander won an Oscar in <TIMEX3 tid="t7" type="DATE" value="2016">2016</TIMEX3> for her <EVENT eid="e13" class="OCCURRENCE">performance</EVENT> in The Danish Girl and also <EVENT eid="e14" class="I_ACTION">garnered</EVENT> attention for her <EVENT eid="e15" class="OCCURRENCE">performance</EVENT> in Ex Machina. 
+ 
+West stars on Showtime's series The Affair which was recently <EVENT eid="e16" class="OCCURRENCE">renewed</EVENT> for a fourth season. Other credits include The Wire,  Money Monster and Genuis 
+ 
+The reboot is <EVENT eid="e17" class="OCCURRENCE">scheduled</EVENT> to be <EVENT eid="e18" class="OCCURRENCE">released</EVENT> on <TIMEX3 tid="t8" type="DATE" value="2017-03-16">March 16</TIMEX3>, 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t2" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t5" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t6" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t8" relatedToEventInstance="ie18" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

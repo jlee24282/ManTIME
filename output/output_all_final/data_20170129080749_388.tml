@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196877059</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Haryana on maximum alert as Jat quota stir begins, prohibitory orders in place</TITLE>
+
+
+<TEXT>
+The article below represents a preview only and is not meant for reuse or <EVENT eid="e1" class="OCCURRENCE">republishing</EVENT>. 
+
+India, <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Jan. 29</TIMEX3> -- Haryana has <EVENT eid="e2" class="OCCURRENCE">gone</EVENT> on maximum alert as a fresh round of quota agitation <EVENT eid="e3" class="OCCURRENCE">called</EVENT> by a section of Jats <EVENT eid="e4" class="ASPECTUAL">began</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+
+Apart from the state police and over 7,000 home guards, 37 companies of central forces have been <EVENT eid="e5" class="OCCURRENCE">deployed</EVENT> across the state around sensitive locations including National Highway 1 (popularly known as GT road), state highways, railways tracks and Munak canal that takes Yamuna river water to New Delhi. Authorities have also <EVENT eid="e6" class="OCCURRENCE">clamped</EVENT> prohibitory orders in these areas banning assembly of four or more people. 
+
+A similar agitation <TIMEX3 tid="t3" type="DATE" value="2016">last year</TIMEX3> had <EVENT eid="e7" class="OCCURRENCE">left</EVENT> 30 dead and <EVENT eid="e8" class="OCCURRENCE">caused</EVENT> widespread <EVENT eid="e9" class="OCCURRENCE">destruction</EVENT> of property. Sonepat, Rohtak, Jhajjar, Hisar, Bhiwani, Kaithal, Fatehabad, Dadri and Jind <EVENT eid="e10" class="I_ACTION">saw</EVENT> large-scale violence, arson and ...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL5" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie7" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

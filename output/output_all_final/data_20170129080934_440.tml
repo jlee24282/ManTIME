@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201103928</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>NMSU Equestrian Takes Down No 1 Texas A M</TITLE>
+
+
+<TEXT>
+NMSU Athletics Las Cruces NM The New Mexico State equestrian team won a nail biter in Las Cruces as NM State tied No 1 Texas A M 7 7 but won on raw score <TIMEX3 tid="t1" type="DATE" value="1201">1201 25 1052</TIMEX3> 25 <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Today</TIMEX3> was a great <TIMEX3 tid="t3" type="DURATION" value="PXD">day</TIMEX3> to be a part of NM State Equestrian head coach Robin Morris Walters Since starting spring practices we ve been trying to focus on riding in the moment and enjoying the opportunity I think it paid off <TIMEX3 tid="t4" type="DATE" value="2017-01-29">today</TIMEX3> as these student athletes came in with a clear head a passion for showing horses and the support of their team NM State took an early 2 1 lead after the Equitation competition Karianna Knezevich 73 and Remington Willkie 81 each scored a point with Willkie earning MVP honors in the event Madison Brayman 85 and Knezevich 79 each scored in the Equitation over Fences event with Brayman <EVENT eid="e1" class="OCCURRENCE">winning</EVENT> the MVP award This gave NM State a 4 3 lead at the end of the Hunterseat competition New Mexico State fell behind at the start of the Western competition as Texas A M took the 6 5 lead after Horsemanship NM State made up the deficit in the Reining event as Hallie Padilla 65 5 and Kimberly Ferrante 72 outscored TAMU 2 1 to end the competition in a 7 7 tie The raw scores determined the winner with NM State coming out on top <TIMEX3 tid="t5" type="DATE" value="1201">1201 25 1052</TIMEX3> 25 It is the first time the equestrian team has defeated the number one team in the country The NM State equestrian team is back in action <TIMEX3 tid="t6" type="DATE" value="2017-02-11">February 11</TIMEX3> as the team travels to take on SMU Competition is set to start at 1
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t3" relatedToTime="t2" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t2" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL0" timeID="t4" relatedToTime="t2" relType="IDENTITY" />
+</TimeML>

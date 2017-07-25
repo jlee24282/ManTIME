@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197504265</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Casino-themed staff party</TITLE>
+
+
+<TEXT>
+Employees from various departments and sectors within AX Holdings <EVENT eid="e1" class="OCCURRENCE">attended</EVENT> a casino-themed party <EVENT eid="e2" class="OCCURRENCE">held</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01">earlier this month</TIMEX3> at Villa Arrigo, San Pawl tat-Tara. They all <EVENT eid="e3" class="REPORTING">celebrated</EVENT> a successful <TIMEX3 tid="t2" type="DURATION" value="PXY">year</TIMEX3>, <EVENT eid="e4" class="OCCURRENCE">mingling</EVENT> with colleagues during the event, <EVENT eid="e5" class="OCCURRENCE">hosted</EVENT> by founder and chairman of the AX Group of Companies, Anlu Xuereb. 
+ Eugene Warrington, Jacqueline Camilleri, Tiana Vella and Jessica and Christian Cefai.  The Copperfields Restaurant team.  The Luzzu Complex team: Andreas Dullnigg, Jamie Azzilla and James Fenech.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

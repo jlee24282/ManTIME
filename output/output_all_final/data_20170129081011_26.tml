@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202097879</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Billy "Bill" Gene Fahler</TITLE>
+
+
+<TEXT>
+, age 79, <EVENT eid="e1" class="OCCURRENCE">went</EVENT> home to be with the Lord, on <TIMEX3 tid="t1" type="DATE" value="2017-01-23">Monday</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-16">January 16, 2017</TIMEX3>, while at his home in Tulsa, Oklahoma. He was <EVENT eid="e2" class="OCCURRENCE">surrounded</EVENT> by his four sons and wife at the time of death. Bill was <EVENT eid="e3" class="OCCURRENCE">born</EVENT> on <TIMEX3 tid="t3" type="DATE" value="1937-04-15">April 15, 1937</TIMEX3>, and was <EVENT eid="e4" class="OCCURRENCE">preceded</EVENT> in death by his father Floyd J. Fahler of Edna, Kansas, and his mother Beulah Irene Layton Fahler of Chetopa, Kansas. He <EVENT eid="e5" class="OCCURRENCE">graduated</EVENT> from Will Rogers High School in <TIMEX3 tid="t4" type="DATE" value="1955">1955</TIMEX3> and <EVENT eid="e6" class="OCCURRENCE">served</EVENT> his country in the United States Navy. Bill and Connie were <EVENT eid="e7" class="OCCURRENCE">married</EVENT> in El Paso Texas on <TIMEX3 tid="t5" type="DATE" value="1967-02-04">February 4, 1967</TIMEX3>. He is <EVENT eid="e8" class="OCCURRENCE">survived</EVENT> by his wife Connie, his beloved sons, Bradley Gene Brillhart, Cassidy Gene Fahler, Curtis Gene Fahler and Timothy Gene Fahler, a loving daughter-in-law Amber Rodriguez-Fahler and his lovely granddaughter, Cass' daughter, Isabella Brown Fahler. The Memorial Celebration will be <EVENT eid="e9" class="OCCURRENCE">held</EVENT> <TIMEX3 tid="t6" type="DATE" value="2017-01-24">Tuesday</TIMEX3>, January <TIMEX3 tid="t7" type="DATE" value="2017">31, 2017</TIMEX3>, <TIMEX3 tid="t8" type="TIME" value="2017-01-29T17:00">5 p.m.</TIMEX3> at Rhema Bible Church Chapel in Broken Arrow, with a reception <EVENT eid="e10" class="OCCURRENCE">following</EVENT>. In lieu of flowers, please <EVENT eid="e11" class="I_ACTION">help</EVENT> us honor Connie Fahler and her 50 faithful years of marriage to Bill by <EVENT eid="e12" class="OCCURRENCE">giving</EVENT> via PayPal to Awesome50th@gmail.com.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="COULD" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t8" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL6" timeID="t6" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t4" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t4" relatedToEventInstance="ie5" relType="INCLUDES" />
+</TimeML>

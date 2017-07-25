@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194999976</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Record-setting relay team sparks UAA track team</TITLE>
+
+
+<TEXT>
+The UAA women's 1,600-meter relay team <EVENT eid="e1" class="OCCURRENCE">set</EVENT> a school record, <EVENT eid="e2" class="OCCURRENCE">brought</EVENT> home a victory and provisionally qualified for the NCAA championships <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> in Seattle. 
+   
+The team of Jamie Ashcroft, Vanessa Aniteye, Hayley Bezanson and Mary-Kathleen Cross <EVENT eid="e3" class="OCCURRENCE">recorded</EVENT> a winning and school-record time of <TIMEX3 tid="t2" type="DURATION" value="PXM">3 minutes</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="X">49.75</TIMEX3> seconds at the University of Washington Invitational. 
+   
+Their effort <EVENT eid="e4" class="OCCURRENCE">broke</EVENT> the UAA record of 3:51.56 <EVENT eid="e5" class="OCCURRENCE">set</EVENT> last <TIMEX3 tid="t4" type="DATE" value="X">season</TIMEX3>. In the opening 400 meters, Aniteye a freshman from Chugiak <EVENT eid="e6" class="OCCURRENCE">placed</EVENT> fourth in 56.81, <EVENT eid="e7" class="OCCURRENCE">missing</EVENT> the school record by .02. 
+   
+Competing against Divison I and Division II teams, the Seawolves registered six other provisional <EVENT eid="e8" class="OCCURRENCE">qualifying</EVENT> marks for the NCAA Division indoor track and field championships. Among them: 
+   
+A fifth-place time of 11:47.67 by the women's distance medley relay team of Cross, Tamara Perez, Danielle McCormack and Caroline Kurgat. The time is the third-fastest this season in Division II. 
+   
+A third-place heptathlon finish by Travis Turner with 4,951 points; 
+   
+A fifth-place time of 3:16.74 by the men's 1,600-meter relay team of Liam Lindsay, Darrion Gray, Nicholas Taylor and Adam Commandeur; 
+   
+Edwin Kangogo's <TIMEX3 tid="t5" type="DATE" value="X">12th-place</TIMEX3> time of 14:41.02 in the men's 5,000 meters, an indoor personal-best for the junior; 
+   
+A 10:03.45 by the 11th-place men's distance medley relay team of Commandeur, Jesse Miller, Joe Day and Michael Mendenhall; 
+   
+Ashcroft's <TIMEX3 tid="t6" type="DATE" value="X">14th-place</TIMEX3> time of <TIMEX3 tid="t7" type="DATE" value="2490">24.90</TIMEX3> seconds in the women's 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t1" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202781598</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>People on the move at Kaiser Permanente, North Bay Association of Realtors and more ...</TITLE>
+
+
+<TEXT>
+(2 of ) - Kaiser Permanente Santa Rosa Medical Center <EVENT eid="e1" class="REPORTING">announced</EVENT> the recent <EVENT eid="e2" class="OCCURRENCE">appointment</EVENT> of P.L. Maillard as a new Assistant Medical Group Administrator (AMGA). 1.27.17 (3 of ) Diana Gorsiski Pacific Union International North Bay Association of Realtors (4 of ) The Hispanic Chamber of Commerce of Commerce Sonoma County would <EVENT eid="e3" class="I_ACTION">like</EVENT> to <EVENT eid="e4" class="OCCURRENCE">welcome</EVENT> our new President, Sonoma County native Jenny Chamberlain, District Director for Sonoma County Supervisor James Gore. 1.28.17 (5 of ) Scott Sheldon Summit Funding | P.L. Maillard has been <EVENT eid="e5" class="OCCURRENCE">named</EVENT> an assistant medical group <EVENT eid="e6" class="OCCURRENCE">administrator</EVENT> at the Kaiser Permanente Santa Rosa Medical Center. He <EVENT eid="e7" class="OCCURRENCE">transferred</EVENT> from the Kaiser Permanente Los Angeles Medical Center, where he <EVENT eid="e8" class="OCCURRENCE">worked</EVENT> for <TIMEX3 tid="t1" type="DURATION" value="P12Y">the past 12 years</TIMEX3>, most recently as an assistant medical group administrator.
+
+hhhh
+
+Diana Gorsiski has been <EVENT eid="e9" class="OCCURRENCE">elected</EVENT> president of the North Bay Association of Realtors. An agent with Pacific Union International in Petaluma, she has been an association member for <TIMEX3 tid="t2" type="DURATION" value="P11Y">11 years</TIMEX3> and a board member for <TIMEX3 tid="t3" type="DURATION" value="P5Y">five years</TIMEX3>.
+
+hhhh
+
+Jenny Chamberlain has been <EVENT eid="e10" class="OCCURRENCE">elected</EVENT> president of the Hispanic Chamber of Commerce of Sonoma County. She serves as the district director for county Supervisor James Gore.
+
+hhhh
+
+Scott Sheldon and his lending team have <EVENT eid="e11" class="OCCURRENCE">moved</EVENT> to a new office in Santa Rosa for Summit Funding. The new location is 350 College Ave., Suite 101.
+
+hhhh
+
+Redwood Family Dermatology has recently <EVENT eid="e12" class="OCCURRENCE">joined</EVENT> Northern California Medical Associates in Santa Rosa. The dermatology practice has offices in Santa Rosa and Ukiah.
+
+Submit On the Move items to onthemove@pressdemocrat.com.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

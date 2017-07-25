@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203241499</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ministry sets target to construct 40 km road per day in next financial year:  Nitin Gadkari</TITLE>
+
+
+<TEXT>
+Union Road Transport and Highways minister Nitin Gadkari has <EVENT eid="e1" class="REPORTING">said</EVENT>, his ministry has <EVENT eid="e2" class="OCCURRENCE">set</EVENT> a target to <EVENT eid="e3" class="OCCURRENCE">construct</EVENT> 40 kilometers road per <TIMEX3 tid="t1" type="DURATION" value="PXD">day</TIMEX3> in <TIMEX3 tid="t2" type="DURATION" value="PXY">the next financial year</TIMEX3>. <EVENT eid="e4" class="OCCURRENCE">Dedicating</EVENT> the new Brahmaputra bridge at Sariaghat in Guwahati <TIMEX3 tid="t3" type="DATE" value="2017-01-29">today</TIMEX3>, he <EVENT eid="e5" class="REPORTING">said</EVENT>, 15 thousand crore rupees will be <EVENT eid="e6" class="I_ACTION">spent</EVENT> to <EVENT eid="e7" class="OCCURRENCE">construct</EVENT> 1253 kilometers of national highways in Assam.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

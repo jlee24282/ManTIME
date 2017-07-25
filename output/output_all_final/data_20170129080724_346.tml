@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195908521</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Girls Basketball: Iberia 68, Versailles 54</TITLE>
+
+
+<TEXT>
+RUSSELLVILLE, Mo.  The Iberia Lady Rangers <EVENT eid="e1" class="OCCURRENCE">topped</EVENT> the Versailles Lady Tigers 68-54 on <TIMEX3 tid="t1" type="DATE" value="2017-01-27">Friday</TIMEX3> in the consolation semifinals of the Russellville Tournament. 
+ 
+Lancy Rollins of Iberia <EVENT eid="e2" class="OCCURRENCE">led</EVENT> all scorers with 26 points. 
+ 
+Cheyenne Espinosa <EVENT eid="e3" class="OCCURRENCE">paced</EVENT> Versailles with 13 points while Kylie Viebrock <EVENT eid="e4" class="OCCURRENCE">scored</EVENT> 11.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

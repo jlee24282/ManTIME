@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204906970</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Teenage girl killed after lorry rams bike</TITLE>
+
+
+<TEXT>
+A girl was <EVENT eid="e1" class="OCCURRENCE">killed</EVENT> and two others were seriously <EVENT eid="e2" class="OCCURRENCE">injured</EVENT> when a lorry bearing Indian registration number plate <EVENT eid="e3" class="OCCURRENCE">struck</EVENT> a motorbike near Parawanipur of Parsa on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+The lorry (PB 65 M 9086) en route to Parawanipur from Birgunj <EVENT eid="e4" class="OCCURRENCE">rammed</EVENT> a Splendour motorbike (Na 27 Pa 9086) <EVENT eid="e5" class="OCCURRENCE">heading</EVENT> towards Birgunj <EVENT eid="e6" class="OCCURRENCE">killing</EVENT> <TIMEX3 tid="t2" type="DURATION" value="P17Y">17  year</TIMEX3>  old Om Rawati Kumari Sah. She <EVENT eid="e7" class="OCCURRENCE">died</EVENT> on the way to Narayani Sub Regional Hospital in Birgunj, police <EVENT eid="e8" class="REPORTING">said</EVENT>. 
+ 
+The identities of the two injured persons are yet to be <EVENT eid="e9" class="OCCURRENCE">ascertained</EVENT>. They are being <EVENT eid="e10" class="OCCURRENCE">treated</EVENT> at Gandak Hospital in Birgunj. The police have <EVENT eid="e11" class="OCCURRENCE">impounded</EVENT> the lorry whereas its driver <EVENT eid="e12" class="OCCURRENCE">fled</EVENT> after the <EVENT eid="e13" class="OCCURRENCE">incident</EVENT>. RSS 
+ 
+Published: 29-01-2017 13:29 
+ The Kathmandu Post   General
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="SIMULTANEOUS" />
+</TimeML>

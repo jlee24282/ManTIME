@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194221076</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Egypt v Morocco: AFCON expert Renard looks to extend 30-year streak</TITLE>
+
+
+<TEXT>
+Egypt have waited over <TIMEX3 tid="t1" type="DURATION" value="P30Y">30 years</TIMEX3> for a victory over Morocco a run they are desperate to end in <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3>'s Africa Cup of Nations quarter-final in Port-Gentil
+
+The Pharaohs have won the competition on each of their last three appearances in <TIMEX3 tid="t3" type="DATE" value="2006">2006 2008</TIMEX3> and <TIMEX3 tid="t4" type="DATE" value="2010">2010</TIMEX3> and hold the overall record of seven titles
+
+Egypt did not qualify for the following three editions following that famous hat-trick but Hector Cuper's men finally <EVENT eid="e1" class="OCCURRENCE">broke</EVENT> that duck by reaching this tournament
+
+And after impressively beating Ghana to first place in Group D the pressure is on to delivery glory
+
+However Egypt have not beaten Morocco since <TIMEX3 tid="t5" type="DATE" value="1986-03">March 1986</TIMEX3> and <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> come up against AFCON specialist Herve Renard
+
+Morocco came through the group stage for the first time in five attempts as a crucial 1-0 matchday three win over Ivory Coast saw Renard dump out the nation with whom he won the tournament <TIMEX3 tid="t7" type="DATE" value="2015">two years ago</TIMEX3>
+
+The Frenchman is continuing his magic touch in the competition This is his fifth appearance and he has only lost two of his 22 games at the event 
+
+He is also the only head coach to have won it twice having also taken the title with Zambia in 2012
+
+Egypt and Morocco - who finished second to DR Congo in Group C - are both eyeing a run to the final and will believe their chances are strong with favourites Senegal in the other half of the draw
+
+The winners of this tie will face either Burkina Faso or Tunisia in Libreville on <TIMEX3 tid="t8" type="DATE" value="2017-01-25">Wednesday</TIMEX3>
+
+PLAYERS TO WATCH 
+
+Egypt  Mohamed Salah
+
+Egypt only scored twice in the group stage and Roma star Mohamed Salah was involved in both goals
+
+He set-up Abdallah Said's late winner in the 1-0 victory over Uganda before scoring the only goal of the game in the decisive final match against Ghana
+
+Playing at his first major tournament winger Salah - arguably the tournament's best player - will be crucial to Egypt's hopes of further progression
+
+Morocco  Faycal Fajr
+
+Deportivo La Coruna playmaker Faycal Fajr has been hugely impressive at AFCON <TIMEX3 tid="t9" type="DATE" value="2017">2017</TIMEX3>
+
+His two assists which both came in the emphatic 3-1 win over Togo have him joint-top of the tournament's creative charts Fajr's crosses and throughballs from open play along with his set-piece delivery will ensure Egypt's defence  one that is yet to be breached in the tournament  will be given a stern examination 
+
+KEY OPTA STATS
+
+- Morocco have won successive matches in the African Cup of Nations Only once before have they put together a longer stretch of victories four in <TIMEX3 tid="t10" type="DATE" value="1976">1976</TIMEX3>
+
+- Egypt have gone 22 AFCON games without defeat W17 D5 last <EVENT eid="e2" class="OCCURRENCE">losing</EVENT> in the <TIMEX3 tid="t11" type="DATE" value="2004">2004</TIMEX3> tournament v Algeria and have only conceded one goal across their last eight AFCON matches- Egypt have only managed to secure one AFCON victory in five attempts over Morocco D1 L3 scoring only two goals across those games
+
+- Morocco come into this quarter-final having gone 12 matches unbeaten against Egypt W4 D8 and conceding just one goal in their last eight against them
+
+- The Pharaohs have won each of their last three AFCON quarter-final matches scoring a total of nine goals in that time
+
+- Egypt were the only team to keep a clean sheet in every game during the <TIMEX3 tid="t12" type="DATE" value="2017">2017</TIMEX3> AFCON group stages
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t11" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

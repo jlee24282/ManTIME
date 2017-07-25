@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195887744</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>David Beckham reveals funny dances at Manchester United  Daily Mail</TITLE>
+
+
+<TEXT>
+Daily MailDavid Beckham <EVENT eid="e1" class="OCCURRENCE">reveals</EVENT> funny dances at Manchester UnitedDaily MailDavid Beckham has <EVENT eid="e2" class="I_ACTION">revealed</EVENT> young players were <EVENT eid="e3" class="I_ACTION">forced</EVENT> to <EVENT eid="e4" class="OCCURRENCE">perform</EVENT> a funny dance in front of senior professionals at Manchester United as a punishment for <EVENT eid="e5" class="OCCURRENCE">stepping</EVENT> out of line. The former England captain was <EVENT eid="e6" class="OCCURRENCE">asked</EVENT> about the <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">current</TIMEX3> child sex abuse Me, marriage and a big regret: David Beckham <EVENT eid="e7" class="REPORTING">tells</EVENT> all for Desert Island DiscsThe GuardianDavid Beckham rubbishes brand Beckham claimsBBC NewsVal Burns: Cast away on a desert island, you might <EVENT eid="e8" class="ASPECTUAL">meet</EVENT> someone important: yourselfHerald ScotlandBelfast Telegraph -Mirror.co.uk -The Times (subscription) -Manchester Evening Newsall 29 news articles 
+ 
+Read more here:: The post David Beckham <EVENT eid="e9" class="OCCURRENCE">reveals</EVENT> funny dances at Manchester United  Daily Mail <EVENT eid="e10" class="OCCURRENCE">appeared</EVENT> first on News Informer .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie7" relType="INCLUDES" />
+</TimeML>

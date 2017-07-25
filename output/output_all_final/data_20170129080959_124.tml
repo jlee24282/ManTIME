@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201691832</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Meet the Business Plan Challenge at networking event</TITLE>
+
+
+<TEXT>
+Have questions about <EVENT eid="e1" class="OCCURRENCE">entering</EVENT> the Business Plan Challenge? Want to <EVENT eid="e2" class="OCCURRENCE">meet</EVENT> some <TIMEX3 tid="t1" type="DATE" value="PAST_REF">past</TIMEX3> winners and finalists? Or do you just <EVENT eid="e3" class="I_STATE">want</EVENT> to <EVENT eid="e4" class="OCCURRENCE">mingle</EVENT> and  
+
+network with some like-minded entrepreneurs? 
+
+Whether you are <EVENT eid="e5" class="I_STATE">thinking</EVENT> of <EVENT eid="e6" class="OCCURRENCE">entering</EVENT> the Challenge or have <EVENT eid="e7" class="OCCURRENCE">competed</EVENT> in <TIMEX3 tid="t2" type="DATE" value="PAST_REF">the past</TIMEX3>, <EVENT eid="e8" class="OCCURRENCE">join</EVENT> us at Venture Cafe Miamis free <TIMEX3 tid="t3" type="DATE" value="2017-01-26">Thursday</TIMEX3> Gathering from 6:30<TIMEX3 tid="t4" type="TIME" value="2017-01-29T19:30">-7:30 p.m. Feb. 9</TIMEX3> for an informal Challenge info session and networker. Before and after, network with the entrepreneurship community at the Gathering, which also <EVENT eid="e9" class="OCCURRENCE">offers</EVENT> a number of other talks and meetups, as well as drinks. 
+
+WHEN: <TIMEX3 tid="t5" type="DATE" value="2017-02-09">Feb. 9</TIMEX3>, 6:30<TIMEX3 tid="t6" type="TIME" value="2017-01-29T07:30">-7:30</TIMEX3> p.m. (Note: The Gathering is <TIMEX3 tid="t7" type="TIME" value="2017-01-29T16:00">4 p.m.</TIMEX3> to 9 p.m., and you are welcome to <EVENT eid="e10" class="OCCURRENCE">attend</EVENT> other events there.) 
+
+WHERE: CIC Miami at Converge Miami (formerly University of Miami Life Science and Technology Park), <TIMEX3 tid="t8" type="DATE" value="1951">1951</TIMEX3> NW Seventh Ave., Miami. Free parking available at the site. 
+
+WHY: We <EVENT eid="e11" class="I_STATE">want</EVENT> to <EVENT eid="e12" class="OCCURRENCE">meet</EVENT> you and <EVENT eid="e13" class="OCCURRENCE">answer</EVENT> your questions. <TIMEX3 tid="t9" type="DATE" value="PAST_REF">Past</TIMEX3> contestants of the Challenge are welcome, too, and <TIMEX3 tid="t10" type="DATE" value="X">wed</TIMEX3> love to <EVENT eid="e14" class="OCCURRENCE">hear</EVENT> how youre <EVENT eid="e15" class="OCCURRENCE">doing</EVENT>. 
+
+MORE INFORMATION:  http://venturecafemiami.org/calendar-2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie14" relatedToTime="t10" relType="IS_INCLUDED" />
+</TimeML>

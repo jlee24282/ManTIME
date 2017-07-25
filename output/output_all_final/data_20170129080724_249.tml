@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195838224</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Provincetown condominium offers ample space, impressive views</TITLE>
+
+
+<TEXT>
+PROVINCETOWN This Provincetown condominium <EVENT eid="e1" class="OCCURRENCE">offers</EVENT> significant space for a house so close to downtown. 
+ 
+When <EVENT eid="e2" class="OCCURRENCE">entering</EVENT> from the back, a wooden gate leads to a quaint, well-landscaped yard, complete with a hot tub and small deck. 
+ 
+The sliding glass door opens to the ground floor. On the right, theres a living room with a gas fireplace and room in the wall for a television. To the left, the house has a fully modern kitchen. 
+ 
+Windows line the stairs <EVENT eid="e3" class="OCCURRENCE">leading</EVENT> to the second floor, and a sunny master bedroom with a skylight and master bathroom. The loft-style room overlooks one end of the living room. 
+ 
+The upstairs deck is what makes this property special. From the bedroom, a glass door <EVENT eid="e4" class="OCCURRENCE">takes</EVENT> you to the spacious, wooden deck and gorgeous views of Pilgrim Monument to the right and the landscaped yard straight ahead. 
+ 
+With modern amenities and that coveted Provincetown charm, this home is a more than comfortable one for the <TIMEX3 tid="t1" type="DATE" value="2017-SU">summer</TIMEX3> or <TIMEX3 tid="t2" type="DURATION" value="PXY">the whole year</TIMEX3>. 
+ 
+ Follow Adam Lucente on Twitter: @adamlcct.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

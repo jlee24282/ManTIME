@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194108978</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>"Pray for Peace" installation takes aim at school shootings</TITLE>
+
+
+<TEXT>
+A local artist has <EVENT eid="e1" class="OCCURRENCE">created</EVENT> an installation representing school shootings that have <EVENT eid="e2" class="OCCURRENCE">occurred</EVENT> since <TIMEX3 tid="t1" type="DATE" value="X">the</TIMEX3> <EVENT eid="e3" class="ASPECTUAL">start</EVENT> of the <TIMEX3 tid="t2" type="DATE" value="202X">21st Century</TIMEX3>. 
+ 
+Deprise Brescia <EVENT eid="e4" class="OCCURRENCE">marked</EVENT> 185 mixed media lunchboxes with the likeness of bullet holes. 
+ 
+The large bullet holes represent deaths, while the smaller ones <EVENT eid="e5" class="OCCURRENCE">represent</EVENT> injuries. 
+ 
+"For me as the artist, when I'm <EVENT eid="e6" class="OCCURRENCE">drilling</EVENT> holes in these that signify a life, it's sad," Brescia <EVENT eid="e7" class="REPORTING">said</EVENT>. "And I <EVENT eid="e8" class="I_STATE">want</EVENT> people to <EVENT eid="e9" class="OCCURRENCE">see</EVENT> it, I want people to <EVENT eid="e10" class="OCCURRENCE">feel</EVENT> it, I <EVENT eid="e11" class="I_STATE">want</EVENT> people to <EVENT eid="e12" class="REPORTING">remember</EVENT> that we <EVENT eid="e13" class="I_STATE">need</EVENT> to <EVENT eid="e14" class="OCCURRENCE">work</EVENT> on this. And the fact that this has <EVENT eid="e15" class="OCCURRENCE">gone</EVENT> up 500 percent in <TIMEX3 tid="t3" type="DATE" value="X">the beginning</TIMEX3> of <TIMEX3 tid="t4" type="DATE" value="X">this century</TIMEX3> is <EVENT eid="e16" class="STATE">disturbing</EVENT> and it should be <EVENT eid="e17" class="I_STATE">disturbing</EVENT> to everybody and we should <EVENT eid="e18" class="OCCURRENCE">get</EVENT> together and <EVENT eid="e19" class="OCCURRENCE">fix</EVENT> it." 
+ 
+Each lunch box bears the date and location of the <EVENT eid="e20" class="OCCURRENCE">shootings</EVENT>. 
+ 
+Brescia <EVENT eid="e21" class="REPORTING">said</EVENT> the "Pray for Peace" installation is meant to be interactive: Visitors are <EVENT eid="e22" class="I_STATE">encouraged</EVENT> to <EVENT eid="e23" class="OCCURRENCE">touch</EVENT> the installation. 
+ 
+"<EVENT eid="e24" class="OCCURRENCE">Pray</EVENT> for Peace" is part of the "Guns in America" show on display at Studios on the Park in Paso Robles. It runs through <TIMEX3 tid="t5" type="DATE" value="2017-01-22">Sunday</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

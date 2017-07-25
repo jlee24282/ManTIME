@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201994875</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Letters to the editor: Food pantry appreciates support</TITLE>
+
+
+<TEXT>
+Letters 
+ 
+Food pantry <EVENT eid="e1" class="OCCURRENCE">appreciates</EVENT> support 
+ 
+Kay Dannels 
+ 
+Grove City 
+ 
+<TIMEX3 tid="t1" type="DATE" value="X">Once</TIMEX3> again the Grove City community has <EVENT eid="e2" class="OCCURRENCE">exceeded</EVENT> all <EVENT eid="e3" class="OCCURRENCE">expectations</EVENT> in support of the GroveCity Community Food Pantry over the holidays. 
+ 
+We would <EVENT eid="e4" class="I_STATE">like</EVENT> to <EVENT eid="e5" class="OCCURRENCE">thank</EVENT> those individuals and groups who are <EVENT eid="e6" class="I_STATE">dedicated</EVENT> to <EVENT eid="e7" class="OCCURRENCE">supporting</EVENT> the food pantry in its ongoing work. Those groups include: Advanced Chiropractic, Aldi, AllianceChurch and Alliance Youth, Anthony Farm, Anytime Fitness, Arbys, Armstrong, Auntie AnnsPretzels, ATA Grove City, Ben Rihel Memorial Fund, Beta Sigma, GCC Security, BiLo,Beloved Disciple Catholic Church and BDC Youth, Camp Crestfield, Click Chiropractic, ColorOutside the Lines, County Market, Classic Car Croozers, Church of the Epiphany, Church of theNazarene, Chiappini Electric, Drake Alliance Church, Eagles Club, Early Education Center, East Main Youth Club, FirstChurch of God, Feds Feed Families, Froggy 95 in New Casrle, Fuzziwigs, George JuniorRepublic, Grace UMC Blessing Bags and Friendship Circle, GC American Legion, GC BuncoClub, Grove City Credit Union, GC High School and Middle School, GC Middle School Honor Society,GC Business Womens Club, Grove City College and GCC Buhl Library, Grove City WomensClub, GC Midget Football Club, and Grove City Library, Harrisville American Legion, Harry and David, Highland Elementary, Howes, IronPoint Financial, Midwestern Intermediate Unit 4 , Leesburg Presbyterian Church, London Garage,Longbeard Society, Lutheran Church, Mercer Co. WIC Program, Minors Meat Processing,North Liberty Presbyterian Church, Penn Collegiate Music Education Assoc. (SRU), Pizza Hut,Pre Occupational Therapy Assoc. (SRU), Rendos, Scotch Hill Presbyterian Church, Sheetz, the outlets, Harrisville and Slippery Rock, Subway, SRU Walk the Rock, Starbucks, Taco Bell, TheGuthrie Theatre, The Chip in Project, The Clean Mile (GC Rotary, Cammie Messer), Tower PresbyterianChurch, Valvoline Express, Walts, Walmart, and Wolf Creek Track Club. 
+ 
+The food pantry <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">currently</TIMEX3> <EVENT eid="e8" class="STATE">serves</EVENT> 865 families. Without the generous <EVENT eid="e9" class="OCCURRENCE">support</EVENT> of our community,our mission would be impossible to <EVENT eid="e10" class="OCCURRENCE">achieve</EVENT>. Everyone at the food pantry is deeply grateful thatso many compassionate people and organizations <EVENT eid="e11" class="I_ACTION">helped</EVENT> us <EVENT eid="e12" class="OCCURRENCE">feed</EVENT> our neighbors overThanksgiving and <TIMEX3 tid="t3" type="DATE" value="X">Christmas</TIMEX3>. 
+ 
+Kay Dannels is the Grove City Community Food Pantry board representative.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

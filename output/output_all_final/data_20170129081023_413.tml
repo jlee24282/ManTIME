@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202762249</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Pixies Announce U.S. Head Carrier Tour Dates</TITLE>
+
+
+<TEXT>
+Pixies Announce U.S. 'Head Carrier' Tour Dates (Week in Review)  
+ 
+
+. 
+  
+Pixies Announce U.S. 'Head Carrier' Tour Dates was a Top 3 story on <TIMEX3 tid="t1" type="DATE" value="2017-01-25">Wednesday</TIMEX3>: Pixies have <EVENT eid="e1" class="REPORTING">announced</EVENT> that they will be following their upcoming Japanese, Australian, New Zealand and South African <EVENT eid="e2" class="OCCURRENCE">dates</EVENT> with the launch of a new U.S. tour <TIMEX3 tid="t2" type="DATE" value="2017-SP">this spring</TIMEX3>. 
+ 
+The veteran band will be <EVENT eid="e3" class="OCCURRENCE">embarking</EVENT> on the trek in support of their <TIMEX3 tid="t3" type="DATE" value="2016">2016</TIMEX3> album "Head Carrier." We were <EVENT eid="e4" class="OCCURRENCE">sent</EVENT> the dates by the support act for the trek Public Access T.V. who <EVENT eid="e5" class="I_STATE">report</EVENT> that things will <EVENT eid="e6" class="OCCURRENCE">kick</EVENT> off on <TIMEX3 tid="t4" type="DATE" value="2017-04">April 21st</TIMEX3> in Pomona, Ca at the Fox Theatre and <EVENT eid="e7" class="OCCURRENCE">conclude</EVENT> on <TIMEX3 tid="t5" type="DATE" value="2017-05">May 26th</TIMEX3> in Brooklyn. 
+ 
+The U.S. dates will be followed by an appearance at the British Summer Time on <TIMEX3 tid="t6" type="DATE" value="2017-07">July 6th</TIMEX3> in London. From there the Pixies will <EVENT eid="e8" class="OCCURRENCE">spend</EVENT> the summer playing various festivals across Europe. See the dates - here. 
+  
+advertisement
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

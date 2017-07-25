@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194394660</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Cold conditions prevail in Punjab, Haryana</TITLE>
+
+
+<TEXT>
+Cold conditions <EVENT eid="e1" class="ASPECTUAL">continued</EVENT> unabated in Punjab and Haryana <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3> even as several places in the region were <EVENT eid="e2" class="OCCURRENCE">engulfed</EVENT> with moderate fog in the morning. 
+ 
+However, the minimum temperatures in Punjab and Haryana <EVENT eid="e3" class="OCCURRENCE">settled</EVENT> above normal levels in the region, the MeT office <EVENT eid="e4" class="REPORTING">said</EVENT> here. 
+ 
+Besides, several parts of the region were <EVENT eid="e5" class="OCCURRENCE">engulfed</EVENT> in moderate fog affecting air, rail and road traffic adversely, officials <EVENT eid="e6" class="REPORTING">said</EVENT>. 
+ 
+Narnaul was coldest with a low of 6.5 degrees Celsius, one notch above normal. 
+ 
+While Amritsar <EVENT eid="e7" class="OCCURRENCE">braved</EVENT> at a low of 7.4 degrees Celsius, three notches above normal, the minimum at Karnal was 8.8 degrees Celsius, four notches above normal. 
+ 
+Among other places, Hisar <EVENT eid="e8" class="OCCURRENCE">settled</EVENT> at a low of 8.9 degrees Celsius, one notch above normal followed by 9.6 degrees Celsius at Patiala, two notches above normal, Ludhiana 9.9 degrees Celsius, four notches above normal, Ambala 10.3 degrees Celsius, three notches above normal and Chandigarh 10.7 degrees Celsius, five notches above normal. 
+ 
+The MeT office <EVENT eid="e9" class="OCCURRENCE">predicted</EVENT> partly cloudy sky with moderate fog at several places in the region during <TIMEX3 tid="t2" type="DURATION" value="PT48H">the next 48 hours</TIMEX3>. 
+ 
+(This article has not been <EVENT eid="e10" class="OCCURRENCE">edited</EVENT> by DNA's editorial team and is auto-generated from an agency feed.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202434293</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Andrew James Non-Stick Cast Iron Reversible Griddle Pan Skillet for Induction, Gas and Electric Hob</TITLE>
+
+
+<TEXT>
+Detail Description : 
+http://tinyurl.com/z9uurt8 [ln] Give your meals that chargrilled effect, cook steak, chicken, vegetables and more with the Andrew James Griddle Pan. [ln] [ln] 
+- [ln] Use on your BBQ or hob, the griddle pan <EVENT eid="e1" class="OCCURRENCE">drains</EVENT> the fat for healthier cooking - suitable for induction hobs and ceramic hobs. [ln] [ln] 
+- [ln] Stylish, solid cast iron griddle plate with non-stick coating. Integral handles allow safe lifting, <EVENT eid="e2" class="OCCURRENCE">carrying</EVENT> and <EVENT eid="e3" class="OCCURRENCE">hanging</EVENT>. [ln] [ln] 
+- [ln] Dimensions: 50cm x 23cm with a cooking area of 42cm x 19cm. One side <EVENT eid="e4" class="OCCURRENCE">ridged</EVENT> for that <EVENT eid="e5" class="OCCURRENCE">chargrilled</EVENT> effect, one side flat. [ln] [ln] 
+- [ln] Free <TIMEX3 tid="t1" type="DURATION" value="P2Y">two year</TIMEX3> warranty - No registration <EVENT eid="e6" class="OCCURRENCE">required</EVENT>. [ln] [ln] 
+ 
+==)) End ((== 
+
+
+Author: carolinemonicaa 
+Tags: home  kitchen  Home and Kitchen  Home Kitchen  
+Posted: 29 <TIMEX3 tid="t2" type="DATE" value="2017-01-02">January 2</TIMEX3>
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+</TimeML>

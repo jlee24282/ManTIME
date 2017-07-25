@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195060151</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>NHL100: Dominik Hasek</TITLE>
+
+
+<TEXT>
+NHL.com is the official web site of the National Hockey League. NHL, the NHL Shield, the word mark and image of the Stanley Cup, Center Ice name and logo, NHL Conference logos, NHL Winter Classic name, and The Biggest Assist Happens Off The Ice are registered trademarks and Vintage Hockey word mark and logo, The Game Lives Where You Do, NHL Winter Classic logo, NHL Heritage Classic name and logo, NHL Stadium Series name and logo, NHL All Star logo, NHL Face Off name and logo, NHL. TV, NHL Premium, NHL After Dark, NHL GameCenter, NHL GameCenter LIVE, NHL Network name and logo, NHL Tonight name and logo, On The Fly, NHL Awards name and logo, NHL Draft name and logo, Hockey Fights Cancer, Because It s The Cup, NHL Green name and logo, NHL Vault, Hockey Is For Everyone, and Don t Miss A Moment are trademarks of the National Hockey League. All NHL logos and marks and NHL team logos and marks depicted herein are the property of the NHL and the respective teams and may not be <EVENT eid="e1" class="OCCURRENCE">reproduced</EVENT> without the prior written consent of NHL Enterprises, L.P. © NHL <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3>. All Rights Reserved. All NHL team jerseys <EVENT eid="e2" class="OCCURRENCE">customized</EVENT> with NHL players  names and numbers are officially <EVENT eid="e3" class="OCCURRENCE">licensed</EVENT> by the NHL and the NHLPA. The Zamboni word mark and <EVENT eid="e4" class="OCCURRENCE">configuration</EVENT> of the Zamboni ice resurfacing machine are registered <EVENT eid="e5" class="OCCURRENCE">trademarks</EVENT> of Frank J. Zamboni  amp; Co., Inc. © Frank J. Zamboni  amp; Co., Inc. <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3>. All Rights Reserved. Any other third party trademarks or copyrights are property of their respective owners. All rights <EVENT eid="e6" class="REPORTING">reserved</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

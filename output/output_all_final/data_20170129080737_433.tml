@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196446484</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Murrieta Valley will tune up for Division 1 girls water polo playoffs at SoCal Championships</TITLE>
+
+
+<TEXT>
+The Murrieta Murrieta The SoCal Championships is one of the region's most prestigious tournaments and features 16 of the 17 teams in the mix for <TIMEX3 tid="t1" type="DATE" value="2017">this year</TIMEX3>'s Division 1 playoffs. Huntington Beach is the only Division 1 team absent from the tournament this season. Additionally, there will be a handful of <EVENT eid="e1" class="OCCURRENCE">ranked</EVENT> teams from Division 2 and two top teams from the San Diego Section. Murrieta Murrieta Murrieta Valley <EVENT eid="e2" class="OCCURRENCE">finished</EVENT> seventh at <TIMEX3 tid="t2" type="DATE" value="2016">last year</TIMEX3>'s SoCal Championships, <EVENT eid="e3" class="OCCURRENCE">going</EVENT> 3-2 overall.
+
+Here are the pools and schedule for the <TIMEX3 tid="t3" type="DURATION" value="PXD">first day</TIMEX3> of the event (<TIMEX3 tid="t4" type="DATE" value="2017-01-26">Thursday</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2017-02-02">Feb. 2</TIMEX3>):
+
+POOL A (Woollett Aquatics Center, Irvine HS Dive Pool)
+
+First-round matches: Carlsbad vs. Warren, <TIMEX3 tid="t6" type="DATE" value="X">3</TIMEX3> p.m.; Los Second round: Carlsbad-Warren winner vs. Los POOL B (Corona del Mar HS in Newport Beach) First-round matches: Corona del Second round: Corona del POOL C (Foothill HS in Santa Ana) First-round matches: Foothill vs. Lompoc Second round: Foothill-Cabrillo POOL D (Woollett Aquatics Center, Irvine HS Competition Pool) First-round matches: Orange Lutheran vs. Edison, 3 p.m.; Murrieta Second round: Orange Lutheran-Edison winner vs. Murrieta
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL0" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196310763</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>A bit of irregularity</TITLE>
+
+
+<TEXT>
+Upendings: 
+ 
+Omaha 83, South Dakota State 82 ..on a buzzer-beater. 
+ 
+Loyola Marymount <EVENT eid="e1" class="REPORTING">outlasted</EVENT> BYU in overtime, 77-74, for the second <EVENT eid="e2" class="OCCURRENCE">victory</EVENT> in the series history . 
+ 
+Utah 58, Colorado 52 . 
+ 
+Kansas 66, Texas Tech 60 . 
+ 
+UTEP 84, Marshall 74 . 
+ 
+More results: 
+ 
+Boise State 64, Wyoming 54 . 
+ 
+Middle Tennessee 79, Louisiana Tech 65 . 
+ 
+All scores . 
+ 
+Tomorrows schedule is packed. 
+ 
+College team news: 
+ 
+Rutgers is <EVENT eid="e3" class="OCCURRENCE">rallying</EVENT> behind their team manager, who has leukemia . 
+ 
+Clemson is <EVENT eid="e4" class="OCCURRENCE">primed</EVENT> for a breakout run . 
+ 
+Virginia Tech has <EVENT eid="e5" class="I_ACTION">seen</EVENT> a surge in attendance . 
+ 
+College player news: 
+ 
+Napheesa Collier and Katie Lou Samuelson are on record pace for UConn . 
+ 
+College coach news: 
+ 
+Louisville coach Jeff Walz preaches focus ahead of the teams rematch with Pitt .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

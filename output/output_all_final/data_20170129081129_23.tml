@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204602917</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>The Latest on Property Tax Exemptions for Illinois Hospitals</TITLE>
+
+
+<TEXT>
+Recently, there have been several noteworthy developments in the controversy surrounding property tax exemptions for Illinois hospitals. For <TIMEX3 tid="t1" type="DATE" value="200">the past decade</TIMEX3> we've been <EVENT eid="e1" class="OCCURRENCE">providing</EVENT> updates as this issue <EVENT eid="e2" class="OCCURRENCE">progressed</EVENT> through the courts, executive branch, state legislature, and local <EVENT eid="e3" class="OCCURRENCE">assessing</EVENT> officials. 
+ 
+Start the conversation, or <EVENT eid="e4" class="OCCURRENCE">Read</EVENT> more at JD Supra. 
+    
+Comments 
+   
+ Add your comments below  
+     
+
+      
+
+   
+Copyright  2017 Topix LLC
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="DURING" />
+</TimeML>

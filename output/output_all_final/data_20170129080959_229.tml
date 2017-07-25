@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201840318</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Election Commission orders FIR against Arvind Kejriwal for poll code violation</TITLE>
+
+
+<TEXT>
+The Election Commission has <EVENT eid="e1" class="OCCURRENCE">directed</EVENT> the Goa administration to <EVENT eid="e2" class="OCCURRENCE">initiate</EVENT> legal proceedings against Delhi CM Arvind Kejriwal for violation of Model Code of Conduct. 
+
+IndiaToday.in | Edited by Prabhash K Dutta 
+
+A +A - 
+
+The Election Commission has <EVENT eid="e3" class="OCCURRENCE">ordered</EVENT> legal action to be <EVENT eid="e4" class="OCCURRENCE">initiated</EVENT> against Delhi Chief Minister and Aam Aadmi party convener Arvind Kejriwal for <EVENT eid="e5" class="OCCURRENCE">violation</EVENT> of Model Code of Conduct for polls. 
+
+The poll panel <EVENT eid="e6" class="REPORTING">said</EVENT>, 'necessary legal action be <EVENT eid="e7" class="I_ACTION">initiated</EVENT> by <EVENT eid="e8" class="OCCURRENCE">filing</EVENT> an FIR/complaint against Arvind Kejriwal for statements on and after <TIMEX3 tid="t1" type="DATE" value="2017-01">8 January</TIMEX3> in Goa." 
+
+The Election Commission has <EVENT eid="e9" class="I_STATE">stated</EVENT> that compliance report regarding legal action on Arvind Kejriwal should be <EVENT eid="e10" class="OCCURRENCE">sent</EVENT> to the Commission latest by 3.00 pm on <TIMEX3 tid="t2" type="DATE" value="2017-01">31 January</TIMEX3>. 
+
+Earlier, the Election Commission had <EVENT eid="e11" class="OCCURRENCE">censured</EVENT> Arvind Kejriwal for his bribery remarks at a poll <EVENT eid="e12" class="OCCURRENCE">rally</EVENT> in Goa on <TIMEX3 tid="t3" type="DATE" value="2017-01-08">January 8</TIMEX3>. 
+
+Kejriwal had reportedly <EVENT eid="e13" class="OCCURRENCE">told</EVENT> the voters to <EVENT eid="e14" class="OCCURRENCE">take</EVENT> money from the BJP and the Congress but vote for Aam Aadmi Party in the assembly elections. 
+
+The BJP had <EVENT eid="e15" class="OCCURRENCE">lodged</EVENT> a complaint with the Election Commission, which later <EVENT eid="e16" class="OCCURRENCE">issued notice</EVENT> to Kejriwal. 
+
+The poll panel <EVENT eid="e17" class="REPORTING">said</EVENT> that Kejriwal's Goa speech <EVENT eid="e18" class="OCCURRENCE">violated</EVENT> the model code of conduct, which <EVENT eid="e19" class="OCCURRENCE">came</EVENT> into force on <TIMEX3 tid="t4" type="DATE" value="2017-01-04">January 4</TIMEX3>. 
+
+The Election Commission <EVENT eid="e20" class="REPORTING">held</EVENT> that Kejriwal's statement <EVENT eid="e21" class="OCCURRENCE">amounted</EVENT> to '<EVENT eid="e22" class="I_ACTION">abetting</EVENT> and <EVENT eid="e23" class="I_ACTION">promoting</EVENT> electoral offence of bribery'.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t3" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t4" relatedToEventInstance="ie19" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie23" relatedToEventInstance="ie22" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie22" relatedToEventInstance="ie23" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie12" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

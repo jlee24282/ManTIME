@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194233416</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Abe, Trump to hold 1st summit meeting</TITLE>
+
+
+<TEXT>
+Tokyo - ArabToday   
+Japanese Prime Minister Shinzo Abe and U.S. President Donald Trump on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> <EVENT eid="e1" class="I_STATE">agreed</EVENT> to <EVENT eid="e2" class="OCCURRENCE">hold</EVENT> their first summit <EVENT eid="e3" class="OCCURRENCE">meeting</EVENT> in Washington on <TIMEX3 tid="t2" type="DATE" value="2017-02-10">Feb.10</TIMEX3>, <EVENT eid="e4" class="REPORTING">said</EVENT> Abe here after telephone <EVENT eid="e5" class="OCCURRENCE">talks</EVENT> with Trump on <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+The two leaders <EVENT eid="e6" class="OCCURRENCE">made</EVENT> the agreement during their <TIMEX3 tid="t4" type="DATE" value="X">42-minute</TIMEX3> long telephone conversation starting from <TIMEX3 tid="t5" type="TIME" value="2017-01-29T23:05">11:05 p.m.</TIMEX3> (1405 GMT) on <TIMEX3 tid="t6" type="DATE" value="2017-01-28">Saturday</TIMEX3>, the first such talks since Trump sworn in as 45th U.S. president <TIMEX3 tid="t7" type="DATE" value="2017-W04">last week</TIMEX3>. 
+ 
+Both sides also <EVENT eid="e7" class="OCCURRENCE">affirmed</EVENT> the importance of Japan-U.S. alliance and <EVENT eid="e8" class="OCCURRENCE">exchanged</EVENT> views in economic and security fields, Abe <EVENT eid="e9" class="REPORTING">told</EVENT> reporters here after the call. 
+ 
+As for the two leads summit talks <TIMEX3 tid="t8" type="DATE" value="2017-02">next month</TIMEX3>, Abe <EVENT eid="e10" class="REPORTING">said</EVENT> he <EVENT eid="e11" class="I_STATE">hoped</EVENT> to significantly and frankly exchange views with Trump in the fields including bilateral economic and security ties. 
+ 
+The Japanese Prime Minister also <EVENT eid="e12" class="REPORTING">said</EVENT> he <EVENT eid="e13" class="OCCURRENCE">hope</EVENT> Japan will <EVENT eid="e14" class="OCCURRENCE">play</EVENT> its due role as U.S. alliance. 
+ 
+source: Xinhua
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t1" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t4" relatedToEventInstance="ie6" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t3" relatedToTime="t1" relType="IDENTITY" />
+<TLINK lid="TL4" timeID="t3" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

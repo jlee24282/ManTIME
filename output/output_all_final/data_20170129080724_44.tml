@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195650240</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Work Going To Plan At Newport Minster</TITLE>
+
+
+<TEXT>
+Improvement and restoration works at Newport Minster are <EVENT eid="e1" class="OCCURRENCE">progressing</EVENT> well and should be <EVENT eid="e2" class="ASPECTUAL">completed</EVENT> by <TIMEX3 tid="t1" type="DATE" value="2017-05">May</TIMEX3>.  
+If youve been <EVENT eid="e3" class="OCCURRENCE">walking</EVENT> around the centre of Newport, you <EVENT eid="e4" class="OCCURRENCE">mightve</EVENT> noticed scaffolding outside Newport Minster Church. 
+ 
+Repair and restoration work is on phase five of eight planned phases. 
+ Scaffolding at Newport Minster 
+Theres improvements to windows, floors and stonework  with the whole project <EVENT eid="e5" class="I_STATE">expected</EVENT> to be <EVENT eid="e6" class="ASPECTUAL">completed</EVENT> by <TIMEX3 tid="t2" type="DATE" value="2017-05">May</TIMEX3>. The church remains open to the public. 
+ 
+Thousands of pounds worth of grants are <EVENT eid="e7" class="OCCURRENCE">making</EVENT> the work possible. 
+ Newport Minster work 
+As part of the works, theminsterhas <EVENT eid="e8" class="OCCURRENCE">received</EVENT> a latest grant of 9,300 from the Heritage Lottery Fund. 
+ 
+The project DiscoveringNewportMinster, its history and royal links involves <EVENT eid="e9" class="OCCURRENCE">creating</EVENT> a heritage trail following the royal links with Carisbrooke Castle, Osborne House, St Mildreds Church, Whippingham, and theminster.This is in addition to a grant of 2,500 from Portsmouths Church of England Diocese. 
+ Newport Minster 
+Volunteers <EVENT eid="e10" class="OCCURRENCE">fromNewportMinsterand</EVENT> the Friends ofNewportMinsterwill <EVENT eid="e11" class="OCCURRENCE">carry</EVENT> out research including <EVENT eid="e12" class="OCCURRENCE">using</EVENT> the County Archives and <EVENT eid="e13" class="OCCURRENCE">talking</EVENT> to local people as well as consulting local historians. 
+ 
+Commenting on the award, Reverend Kevin Arkell, <EVENT eid="e14" class="REPORTING">said</EVENT>: 
+  
+This is wonderful news. We love where we live and know theres so much more to <EVENT eid="e15" class="OCCURRENCE">discover</EVENT> about our <TIMEX3 tid="t3" type="DATE" value="PAST_REF">past</TIMEX3>. We are all really <EVENT eid="e16" class="OCCURRENCE">excited</EVENT> about the opportunity to <EVENT eid="e17" class="OCCURRENCE">promote</EVENT> the story of theMinsteras we <EVENT eid="e18" class="OCCURRENCE">share</EVENT> our heritage and history. 
+  Comments  
+comments
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="NONE" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MUST" />
+
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="INCLUDES" />
+</TimeML>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196067712</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>A vendre - Maison individuelle - Toulouse (31500) - 4 pices - 84m</TITLE>
+
+
+<TEXT>
+http://pvt.fm/pub/4E643C2C77F6 REF <TIMEX3 tid="t1" type="DATE" value="X">4763</TIMEX3> - A l'Est de la ville de Toulouse, situe entre les quartiers rsidentiels de Soupetard et Guilhemery. 
+Maison Duplex de ville et son jardin privatif sur prs de 85 m scurise par interphone et badge, stationnement en sous sol avec accs tlcommand. 
+L'entre <EVENT eid="e1" class="STATE">s</EVENT>'ouvre sur un vaste sjour cuisine de plus de 30 m, la baie vitre s'ouvre sur une terrasse de plus de 8 m et son jardinet de 12 m, la salle d'eau est situe rez de chausse. 
+A l'tage, 3 chambres et placards, salle de bain et toilettes <EVENT eid="e2" class="OCCURRENCE">spars</EVENT>. 
+Proche de tous les commerces et les services de proximit, mtro ligne A Station Roseraie, bus lignes 19 et 51. 
+Suggestion de prsentation, photos non contractuelles. 
+
+Author: mapetiteagence 
+Tags: Maison  Achat  Toulouse  MaPetiteAgence.com  www.mapetiteagence.com  4 pices  
+Posted: 29 <TIMEX3 tid="t2" type="DATE" value="2017-01-02">January 2</TIMEX3>
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

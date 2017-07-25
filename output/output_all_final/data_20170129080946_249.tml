@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201356725</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Dream of Pakistan's prosperity being fulfilled by PML-N Govt: CM</TITLE>
+
+
+<TEXT>
+Punjab Chief Minister Shahbaz Sharif has <EVENT eid="e1" class="REPORTING">said</EVENT> that the dream of Pakistan's progress and prosperity is being <EVENT eid="e2" class="OCCURRENCE">fulfilled</EVENT> by the PML (N) Government. 
+ 
+He was <EVENT eid="e3" class="OCCURRENCE">talking</EVENT> to former Prime Minister's Adviser, Ameer Buksh Bhutto in Lahore on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+He <EVENT eid="e4" class="REPORTING">said</EVENT> that agenda of country's progress will be <EVENT eid="e5" class="ASPECTUAL">completed</EVENT> at any cost under the Prime Minister's dynamic leadership. 
+ 
+The Chief Minister <EVENT eid="e6" class="REPORTING">said</EVENT> the sit-in group and former corrupt rulers <EVENT eid="e7" class="OCCURRENCE">left</EVENT> no stone unturned to <EVENT eid="e8" class="OCCURRENCE">ruin</EVENT> the country. They <EVENT eid="e9" class="OCCURRENCE">put</EVENT> hurdles in the path to <EVENT eid="e10" class="OCCURRENCE">progress</EVENT> through agitations and <TIMEX3 tid="t2" type="DATE" value="X">sit-ins</TIMEX3>. 
+ 
+He <EVENT eid="e11" class="REPORTING">said</EVENT> that the faces of elements, <EVENT eid="e12" class="OCCURRENCE">conspiring</EVENT> against country's progress have <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> been <EVENT eid="e13" class="OCCURRENCE">exposed</EVENT> before the <EVENT eid="e14" class="OCCURRENCE">public</EVENT>. 
+  
+Third-party Ads
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t3" relatedToEventInstance="ie13" relType="INCLUDES" />
+</TimeML>

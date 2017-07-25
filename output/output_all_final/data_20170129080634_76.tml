@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193867592</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Editorial Cartoon Sunday, Jan. 29, 2017</TITLE>
+
+
+<TEXT>
+1  2  3  4  5  6  7  8  <TIMEX3 tid="t1" type="DATE" value="X">9  10</TIMEX3>  More 
+ 
+1  2  3  4  5  6  7  8  9  10  More 
+          
+<TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday, 7</TIMEX3> p.m., 
+<TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2017-01-29T10:30">10:30</TIMEX3> a.m., 2:30 p.m. and 6:30 <TIMEX3 tid="t5" type="DATE" value="X">p.m.</TIMEX3>, 
+<TIMEX3 tid="t6" type="DATE" value="2017-01-29">Sunday</TIMEX3>, 11 a.m. and <TIMEX3 tid="t7" type="TIME" value="2017-01-29T15:00">3 p.m.      Friday-Sunday</TIMEX3>, <TIMEX3 tid="t8" type="TIME" value="2017-01-29T24:00">12 p.m.      Sunday</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="X">9</TIMEX3> a.m. 
+   
+<TIMEX3 tid="t10" type="DATE" value="2017-01-27">Friday</TIMEX3>, 7:30 p.m., 
+<TIMEX3 tid="t11" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t12" type="DATE" value="X">2</TIMEX3> p.m., 
+<TIMEX3 tid="t13" type="DATE" value="2017-01-29">Sunday</TIMEX3>, <TIMEX3 tid="t14" type="DATE" value="X">2</TIMEX3> p.m. 
+   
+<TIMEX3 tid="t15" type="DATE" value="2017-01-27">Friday</TIMEX3>, <TIMEX3 tid="t16" type="TIME" value="2017-01-29T20:00">8 p.m.</TIMEX3>, 
+<TIMEX3 tid="t17" type="DATE" value="2017-01-28">Saturday</TIMEX3>, 2 p.m. and 8 p.m., 
+<TIMEX3 tid="t18" type="DATE" value="2017-01-29">Sunday</TIMEX3>, 2 p.m. 
+   
+<TIMEX3 tid="t19" type="DURATION" value="PXD">All day</TIMEX3>, <TIMEX3 tid="t20" type="DATE" value="2017-01-28">Saturday      Saturday</TIMEX3>, 7:30 p.m. 
+   
+<TIMEX3 tid="t21" type="DATE" value="2017-01-28">Saturday</TIMEX3>, 7:30 p.m. 
+   
+<TIMEX3 tid="t22" type="DATE" value="2017-01-28">Saturday-Sunday</TIMEX3>, 2 p.m. 
+   
+<TIMEX3 tid="t23" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t24" type="TIME" value="2017-01-29T20:00">8 p.m.      Friday</TIMEX3>, 7:30 p.m., 
+<TIMEX3 tid="t25" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t26" type="DATE" value="X">2</TIMEX3> p.m., 
+<TIMEX3 tid="t27" type="DATE" value="2017-01-29">Sunday</TIMEX3>, 2 p.m. 
+   
+<TIMEX3 tid="t28" type="DATE" value="2017-01-28">Saturday</TIMEX3>, 6:15 a.m. 
+   
+<TIMEX3 tid="t29" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t30" type="TIME" value="2017-01-29T19:30">7:30 p.m.      Sunday</TIMEX3>, <TIMEX3 tid="t31" type="TIME" value="2017-01-29T10:00">10 a.m.</TIMEX3> - <TIMEX3 tid="t32" type="TIME" value="2017-01-29T14:00">2 p.m.</TIMEX3> 
+     1  2  3  4  5  5
+</TEXT>
+
+
+
+<TLINK lid="TL39" timeID="t3" relatedToTime="t20" relType="IDENTITY" />
+<TLINK lid="TL38" timeID="t3" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL35" timeID="t3" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL34" timeID="t3" relatedToTime="t17" relType="IDENTITY" />
+<TLINK lid="TL37" timeID="t3" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL36" timeID="t3" relatedToTime="t29" relType="IDENTITY" />
+<TLINK lid="TL31" timeID="t6" relatedToTime="t18" relType="IDENTITY" />
+<TLINK lid="TL30" timeID="t6" relatedToTime="t13" relType="IDENTITY" />
+<TLINK lid="TL33" timeID="t7" relatedToTime="t8" relType="IDENTITY" />
+<TLINK lid="TL32" timeID="t6" relatedToTime="t27" relType="IDENTITY" />
+<TLINK lid="TL48" timeID="t29" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL49" timeID="t29" relatedToTime="t22" relType="IDENTITY" />
+<TLINK lid="TL40" timeID="t3" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL41" timeID="t3" relatedToTime="t22" relType="IDENTITY" />
+<TLINK lid="TL42" timeID="t3" relatedToTime="t25" relType="IDENTITY" />
+<TLINK lid="TL43" timeID="t29" relatedToTime="t17" relType="IDENTITY" />
+<TLINK lid="TL44" timeID="t29" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL45" timeID="t29" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL46" timeID="t29" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL47" timeID="t29" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL59" timeID="t28" relatedToTime="t27" relType="IDENTITY" />
+<TLINK lid="TL58" timeID="t28" relatedToTime="t25" relType="IDENTITY" />
+<TLINK lid="TL53" timeID="t28" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL52" timeID="t28" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL51" timeID="t28" relatedToTime="t17" relType="IDENTITY" />
+<TLINK lid="TL50" timeID="t29" relatedToTime="t25" relType="IDENTITY" />
+<TLINK lid="TL57" timeID="t28" relatedToTime="t22" relType="IDENTITY" />
+<TLINK lid="TL56" timeID="t28" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL55" timeID="t28" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL54" timeID="t28" relatedToTime="t29" relType="IDENTITY" />
+<TLINK lid="TL66" timeID="t21" relatedToTime="t20" relType="IDENTITY" />
+<TLINK lid="TL67" timeID="t21" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL64" timeID="t21" relatedToTime="t29" relType="IDENTITY" />
+<TLINK lid="TL65" timeID="t21" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL62" timeID="t21" relatedToTime="t18" relType="IDENTITY" />
+<TLINK lid="TL63" timeID="t21" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL60" timeID="t21" relatedToTime="t17" relType="IDENTITY" />
+<TLINK lid="TL61" timeID="t21" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL68" timeID="t21" relatedToTime="t22" relType="IDENTITY" />
+<TLINK lid="TL69" timeID="t21" relatedToTime="t25" relType="IDENTITY" />
+<TLINK lid="TL71" timeID="t23" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL70" timeID="t23" relatedToTime="t17" relType="IDENTITY" />
+<TLINK lid="TL73" timeID="t23" relatedToTime="t29" relType="IDENTITY" />
+<TLINK lid="TL72" timeID="t23" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL75" timeID="t23" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL74" timeID="t23" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL77" timeID="t23" relatedToTime="t22" relType="IDENTITY" />
+<TLINK lid="TL76" timeID="t23" relatedToTime="t20" relType="IDENTITY" />
+<TLINK lid="TL79" timeID="t22" relatedToTime="t17" relType="IDENTITY" />
+<TLINK lid="TL78" timeID="t23" relatedToTime="t25" relType="IDENTITY" />
+<TLINK lid="TL3" timeID="t17" relatedToTime="t18" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t17" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL1" timeID="t15" relatedToTime="t13" relType="BEFORE" />
+<TLINK lid="TL0" timeID="t14" relatedToTime="t15" relType="INCLUDES" />
+<TLINK lid="TL7" timeID="t17" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL6" timeID="t17" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL5" timeID="t17" relatedToTime="t29" relType="IDENTITY" />
+<TLINK lid="TL4" timeID="t17" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL9" timeID="t17" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL8" timeID="t17" relatedToTime="t20" relType="IDENTITY" />
+<TLINK lid="TL88" timeID="t25" relatedToTime="t20" relType="IDENTITY" />
+<TLINK lid="TL89" timeID="t25" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL84" timeID="t25" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL85" timeID="t25" relatedToTime="t29" relType="IDENTITY" />
+<TLINK lid="TL86" timeID="t25" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL87" timeID="t25" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL80" timeID="t22" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL81" timeID="t22" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL82" timeID="t22" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL83" timeID="t25" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL94" timeID="t27" relatedToTime="t6" relType="IDENTITY" />
+<TLINK lid="TL93" timeID="t27" relatedToTime="t18" relType="IDENTITY" />
+<TLINK lid="TL92" timeID="t27" relatedToTime="t13" relType="IDENTITY" />
+<TLINK lid="TL91" timeID="t25" relatedToTime="t27" relType="IDENTITY" />
+<TLINK lid="TL90" timeID="t25" relatedToTime="t22" relType="IDENTITY" />
+<TLINK lid="TL17" timeID="t11" relatedToTime="t21" relType="IDENTITY" />
+<TLINK lid="TL16" timeID="t11" relatedToTime="t28" relType="IDENTITY" />
+<TLINK lid="TL15" timeID="t11" relatedToTime="t29" relType="IDENTITY" />
+<TLINK lid="TL14" timeID="t11" relatedToTime="t3" relType="IDENTITY" />
+<TLINK lid="TL13" timeID="t11" relatedToTime="t13" relType="IDENTITY" />
+<TLINK lid="TL12" timeID="t11" relatedToTime="t17" relType="IDENTITY" />
+<TLINK lid="TL11" timeID="t17" relatedToTime="t25" relType="IDENTITY" />
+<TLINK lid="TL10" timeID="t17" relatedToTime="t22" relType="IDENTITY" />
+<TLINK lid="TL19" timeID="t11" relatedToTime="t25" relType="IDENTITY" />
+<TLINK lid="TL18" timeID="t11" relatedToTime="t23" relType="IDENTITY" />
+<TLINK lid="TL22" timeID="t13" relatedToTime="t27" relType="IDENTITY" />
+<TLINK lid="TL23" timeID="t18" relatedToTime="t13" relType="IDENTITY" />
+<TLINK lid="TL20" timeID="t13" relatedToTime="t18" relType="IDENTITY" />
+<TLINK lid="TL21" timeID="t13" relatedToTime="t6" relType="IDENTITY" />
+<TLINK lid="TL26" timeID="t31" relatedToTime="t30" relType="IDENTITY" />
+<TLINK lid="TL27" timeID="t31" relatedToTime="t32" relType="IDENTITY" />
+<TLINK lid="TL24" timeID="t18" relatedToTime="t6" relType="IDENTITY" />
+<TLINK lid="TL25" timeID="t18" relatedToTime="t27" relType="IDENTITY" />
+<TLINK lid="TL28" timeID="t32" relatedToTime="t31" relType="IDENTITY" />
+<TLINK lid="TL29" timeID="t9" relatedToTime="t10" relType="INCLUDES" />
+</TimeML>

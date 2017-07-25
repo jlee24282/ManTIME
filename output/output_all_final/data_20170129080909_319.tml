@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200010039</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>A heart for you</TITLE>
+
+
+<TEXT>
+The free heart surgery for needy children, <EVENT eid="e1" class="OCCURRENCE">run</EVENT> by the University Medical Center Ho Chi Minh City and <EVENT eid="e2" class="OCCURRENCE">sponsored</EVENT> by different charity organizations and businesses since <TIMEX3 tid="t1" type="DATE" value="2007">2007</TIMEX3>, has <EVENT eid="e3" class="OCCURRENCE">saved</EVENT> more than 2,000 children in many provinces and cities across Vietnam. 
+ 
+<TIMEX3 tid="t2" type="DATE" value="2017-01-29">Today</TIMEX3>, the University Medical Center Ho Chi Minh City is <EVENT eid="e4" class="OCCURRENCE">cooperating</EVENT> with the Dai Nam Corp. in <EVENT eid="e5" class="I_ACTION">providing</EVENT> free heart surgery and cardiac treatment for kids aged one to six; or those from <TIMEX3 tid="t3" type="DATE" value="X">seven to</TIMEX3> 16 <TIMEX3 tid="t4" type="DURATION" value="PXY">years</TIMEX3> old living in poverty or <EVENT eid="e6" class="OCCURRENCE">suffering</EVENT> severe medical conditions. 
+ 
+The program is <EVENT eid="e7" class="OCCURRENCE">running</EVENT> until <TIMEX3 tid="t5" type="DATE" value="2030">2030</TIMEX3>, with 400 to 1,000 cases <EVENT eid="e8" class="OCCURRENCE">examined</EVENT> and <EVENT eid="e9" class="OCCURRENCE">treated</EVENT> annually. 
+ 
+Below are a series of photos by Le Manh Linh showing how the doctors <EVENT eid="e10" class="OCCURRENCE">put</EVENT> effort in doing their job to <EVENT eid="e11" class="OCCURRENCE">save</EVENT> the kids' lives. 
+ 
+These photos were one of the entries to Tuoi Tre (Youth) newspaper's year-long competition themed Vietnam  Country  People" <EVENT eid="e12" class="OCCURRENCE">concluding</EVENT> in <TIMEX3 tid="t6" type="DATE" value="2016-10">October last year</TIMEX3>. 
+ 
+
+ 
+Doctors <EVENT eid="e13" class="STATE">perform</EVENT> a laparoscopic cardiac <EVENT eid="e14" class="OCCURRENCE">surgery</EVENT> on a kid patient. 
+ 
+
+ 
+The hospital applies the most modern heart surgery techniques to kid patients. 
+ 
+
+ 
+Sewing the wound after a surgery 
+ 
+
+ 
+Doctors check patients health after a surgery. 
+ 
+
+ 
+A nurse takes care of a kid patient. 
+ 
+
+ 
+A kid patient after a surgery 
+ 
+Like us on
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PASTPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie6" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie6" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

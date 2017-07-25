@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200261337</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Customs observes international day</TITLE>
+
+
+<TEXT>
+KARACHI: Pakistan Customs <EVENT eid="e1" class="OCCURRENCE">celebrated</EVENT> International Customs Day on <TIMEX3 tid="t1" type="DATE" value="2017-01">26 January</TIMEX3>, a statement <EVENT eid="e2" class="REPORTING">said</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+Speakers, during the <EVENT eid="e3" class="OCCURRENCE">ceremony</EVENT>, <EVENT eid="e4" class="OCCURRENCE">talked</EVENT> about the importance of data analysis as a scientific tool for effective risk <EVENT eid="e5" class="OCCURRENCE">profiling</EVENT>. They also <EVENT eid="e6" class="OCCURRENCE">highlighted</EVENT> the utility of Web-Based One Customs  a local automated customs clearance system. 
+ 
+Customs is a member World Customs Organisation. The slogan for <TIMEX3 tid="t3" type="DATE" value="2017">this years</TIMEX3> day was Data Analysis for Effective Border Management, <EVENT eid="e7" class="REPORTING">added</EVENT> the statement. was <EVENT eid="e8" class="OCCURRENCE">posted</EVENT> in Business of TheNews International - https://www.thenews.com.pk on <TIMEX3 tid="t4" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3> and was last <EVENT eid="e9" class="OCCURRENCE">updated</EVENT> on <TIMEX3 tid="t5" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>. This news story is related to Print/182410-Customs-observes-international-day/ - <EVENT eid="e10" class="OCCURRENCE">breaking</EVENT> news, latest news, pakistan ne. Permanent link to the news story "Customs observes international <TIMEX3 tid="t6" type="DURATION" value="PXD">day</TIMEX3>" is https://www.thenews.com.pk/print/182410-Customs-observes-international-day.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t5" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL2" timeID="t4" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL6" timeID="t2" relatedToTime="t1" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t2" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

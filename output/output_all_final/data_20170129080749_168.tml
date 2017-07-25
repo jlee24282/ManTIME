@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196662858</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Event: Symphony of Dyer Job Fair</TITLE>
+
+
+<TEXT>
+00 PM - 06:00 PM Symphony of Dyer - Dyer Staff Development Symphony of Dyer Description MiniLightbox("#event_lightbox_1"); Northwest Indiana's Newest Assisted Living and Medical Resort
+
+Providing Post-Acute Rehabilitation and Resort-Style Licensed Assisted Living
+
+Full-time and Part-time positions for CNAs, Servers, Dishwashers and Cooks at Symphony of Dyer Assisted Living and Medical Resort
+
+Competitive wages, paid-time off and insurance benefits No appointment <EVENT eid="e1" class="REPORTING">needed</EVENT> Refreshments will be <EVENT eid="e2" class="OCCURRENCE">served</EVENT> Resumes are welcome but applications will be <EVENT eid="e3" class="STATE">available</EVENT> for all All shifts available If you are unable to attend, <EVENT eid="e4" class="OCCURRENCE">please apply</EVENT> online at www.symphonyofdyer.com or <EVENT eid="e5" class="OCCURRENCE">stop</EVENT> in any time. Venue Symphony of Dyer <TIMEX3 tid="t1" type="DATE" value="1532">1532</TIMEX3> Calumet Ave 46311 Dyer IN
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

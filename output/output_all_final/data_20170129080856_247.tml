@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199345899</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bill to Ban Congressional Pay Raises Introduced by Rep. Buchanan</TITLE>
+
+
+<TEXT>
+Staff Report  
+   
+WASHINGTON  A bill that would <EVENT eid="e1" class="OCCURRENCE">hold</EVENT> off any pay raises for Congress until balancing the federal budget is <EVENT eid="e2" class="OCCURRENCE">achieved</EVENT> was <EVENT eid="e3" class="OCCURRENCE">introduced</EVENT> on <TIMEX3 tid="t1" type="DATE" value="2017-01-25">Wednesday</TIMEX3> by Rep. Vern Buchanan (R-Longboat Key). 
+ H.R. 646 , or the No Pay Raise for Congress Act, <EVENT eid="e4" class="I_STATE">prevents</EVENT> pay <EVENT eid="e5" class="OCCURRENCE">raises</EVENT> for Congressional lawmakers if they do not <EVENT eid="e6" class="I_STATE">pass</EVENT> a balanced budget for <TIMEX3 tid="t2" type="DATE" value="2017">the current fiscal year</TIMEX3>.  
+The legislation is <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">currently</TIMEX3> <EVENT eid="e7" class="OCCURRENCE">awaiting action</EVENT> by the U.S. House Committee on Oversight and Government Reform. Text of the bill is not yet available. Its summary reads: "To <EVENT eid="e8" class="OCCURRENCE">provide</EVENT> that rates of <EVENT eid="e9" class="OCCURRENCE">pay</EVENT> for Members of Congress shall not be <EVENT eid="e10" class="OCCURRENCE">adjusted</EVENT> under section 601(a)(2) of the Legislative Reorganization Act of <TIMEX3 tid="t4" type="DATE" value="1946">1946</TIMEX3> in <TIMEX3 tid="t5" type="DURATION" value="P1Y">the year</TIMEX3> following any fiscal <TIMEX3 tid="t6" type="DURATION" value="PXY">year</TIMEX3> in which outlays of the United States <EVENT eid="e11" class="OCCURRENCE">exceeded</EVENT> receipts of the United States." 
+ 
+In a statement, Buchanan <EVENT eid="e12" class="REPORTING">said</EVENT>, "Successful businesses do not <EVENT eid="e13" class="OCCURRENCE">reward</EVENT> an employee who <EVENT eid="e14" class="I_STATE">fails</EVENT> to <EVENT eid="e15" class="OCCURRENCE">do</EVENT> their job. This same common sense must be <EVENT eid="e16" class="OCCURRENCE">used</EVENT> in Washington. Members of Congress should not be eligible for pay <EVENT eid="e17" class="OCCURRENCE">raises</EVENT> if they cannot <EVENT eid="e18" class="OCCURRENCE">fulfill</EVENT> one of their most basic responsibilities." 
+ 
+Buchanan also <EVENT eid="e19" class="I_ACTION">cited</EVENT> the looming $20 trillion number of the federal debt, <EVENT eid="e20" class="OCCURRENCE">calling</EVENT> its continued growth "downright immoral" on the part of lawmakers. 
+ 
+"Forty-nine states, including Florida, are <EVENT eid="e21" class="STATE">required</EVENT> by law to <EVENT eid="e22" class="OCCURRENCE">balance</EVENT> the budget. In Florida, <EVENT eid="e23" class="OCCURRENCE">passing</EVENT> a balanced budget is priority number one for the state legislature. Washington should not be <EVENT eid="e24" class="OCCURRENCE">held</EVENT> to a different standard," Buchanan also <EVENT eid="e25" class="REPORTING">said</EVENT> in his statement.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="NONE" aspect="NONE" polarity="NEG" modality="CAN" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie17" relatedToEventInstance="ie18" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToEventInstance="ie17" relType="BEGINS" />
+<TLINK lid="TL7" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie7" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie4" relatedToEventInstance="ie6" relType="BEFORE" />
+</TimeML>

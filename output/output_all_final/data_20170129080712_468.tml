@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195532563</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Recommendations for treatment in Folliculotropic Mycosis Fungoides: Report of the Dutch Cutaneous Lymphoma Group</TITLE>
+
+
+<TEXT>
+Summary  Background  
+Folliculotropic mycosis fungoides (FMF) is an aggressive variant of mycosis fungoides (MF) and generally less responsive to standard skin-directed therapies (SDTs). Recent studies <EVENT eid="e1" class="OCCURRENCE">distinguished</EVENT> an indolent (early-stage FMF) and a more aggressive (advanced-stage FMF) subgroup. The optimal treatment for both subgroups needs still to be <EVENT eid="e2" class="OCCURRENCE">defined</EVENT>. 
+ Objectives  
+Evaluation of initial treatment <EVENT eid="e3" class="OCCURRENCE">results</EVENT> in patients with early- and advanced-stage FMF. 
+ Methods  
+203 Patients (84 early-stage, 102 advanced-stage, 17 extracutaneous FMF), included in the Dutch Cutaneous Lymphoma Registry between <TIMEX3 tid="t1" type="DATE" value="1985">1985 and 2014</TIMEX3> were <EVENT eid="e4" class="OCCURRENCE">studied</EVENT>. <EVENT eid="e5" class="OCCURRENCE">Type</EVENT> and results of initial treatment were <EVENT eid="e6" class="OCCURRENCE">retrieved</EVENT> from the Dutch Registry. Main outcomes were complete remission (CR), <EVENT eid="e7" class="REPORTING">sustained</EVENT> complete remission (SCR), partial remission (>50% improvement; PR) and overall response (OR; CR+PR). 
+ Results  
+Patients with early-stage FMF were <EVENT eid="e8" class="OCCURRENCE">treated</EVENT> with non-aggressive SDTs in 67 of 84 cases, <EVENT eid="e9" class="OCCURRENCE">resulting</EVENT> in CR and OR of 28% and 83% for monotherapy topical steroids, 0% and 83% for UVB and 30% and 88% for PUVA, respectively. In patients with advanced-stage FMF these SDTs were less effective (combined CR and OR: 10% and 52%, respectively). In patients with advanced-stage FMF local radiotherapy (CR 63%; OR: 100%), total skin electron beam irradiation (CR: 59%; OR: 100%) and PUVA combined with local radiotherapy (CR: 5%; OR: 75%) were most effective. 
+ <EVENT eid="e10" class="OCCURRENCE">Conclusions</EVENT>  
+The results of the <TIMEX3 tid="t2" type="DATE" value="X">present</TIMEX3> study <EVENT eid="e11" class="I_STATE">demonstrate</EVENT> that not all patients with FMF should be <EVENT eid="e12" class="OCCURRENCE">treated</EVENT> aggressively. Patients with early-stage FMF may <EVENT eid="e13" class="OCCURRENCE">benefit</EVENT> very well from standard SDTs also <EVENT eid="e14" class="OCCURRENCE">used</EVENT> in early-stage classic MF and <EVENT eid="e15" class="STATE">have</EVENT> an excellent prognosis. 
+ 
+This <EVENT eid="e16" class="OCCURRENCE">article</EVENT> is <EVENT eid="e17" class="OCCURRENCE">protected</EVENT> by copyright. All rights <EVENT eid="e18" class="REPORTING">reserved</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="AFTER" />
+</TimeML>

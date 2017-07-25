@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204502721</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mary Dunn Brown</TITLE>
+
+
+<TEXT>
+, at St. Elizabeth Youngstown Hospital of cancer. 
+ 
+She was <EVENT eid="e1" class="OCCURRENCE">born</EVENT> <TIMEX3 tid="t1" type="DATE" value="1958-01-27">Jan. 27, 1958</TIMEX3>, in Youngstown, the daughter of James W. and Shirley Ann Allen Dunn Sr. 
+ 
+Mary <EVENT eid="e2" class="OCCURRENCE">came</EVENT> into this world and <EVENT eid="e3" class="OCCURRENCE">left</EVENT> this world in the same place, a <TIMEX3 tid="t2" type="DURATION" value="PXD">day</TIMEX3> before <TIMEX3 tid="t3" type="DURATION" value="P59D">her 59th birthday</TIMEX3>. 
+ 
+She was a <TIMEX3 tid="t4" type="DATE" value="1976">1976</TIMEX3> graduate of Canfield High School and <EVENT eid="e4" class="OCCURRENCE">became</EVENT> a registered nurse at the Altman School of Nursing. For <TIMEX3 tid="t5" type="DURATION" value="P32Y">32 years</TIMEX3>, she was a critical care RN at Trumbull Memorial Hospital. For <TIMEX3 tid="t6" type="DURATION" value="P3Y">the last three years</TIMEX3>, she was a hospice nurse for Ohio Living Home Health and Hospice. She was a member of St. Stephen Church and a lifetime season ticket holder of the Mahoning Valley Scrappers. Marys family <EVENT eid="e5" class="OCCURRENCE">cherished</EVENT> her as a diamond with very few flaws and she <EVENT eid="e6" class="ASPECTUAL">enjoyed collecting</EVENT> antiques. She <EVENT eid="e7" class="OCCURRENCE">loved</EVENT> her dogs, Wally and Daisy. 
+ 
+Mary is <EVENT eid="e8" class="OCCURRENCE">survived</EVENT> by her husband of 30 <TIMEX3 tid="t7" type="DURATION" value="PXY">years</TIMEX3>, Jeffrey Brown, whom she <EVENT eid="e9" class="OCCURRENCE">married</EVENT> <TIMEX3 tid="t8" type="DATE" value="1986-10-11">Oct. 11, 1986</TIMEX3>, at Queen of the Holy Rosary Church in Vienna; a son, Justin Brown of Niles; her father, James W. Dunn Sr. of Canfield; two sisters, Shirley Ann Dunn of Canfield and Barbara Rae (Jim) Lowe of Boardman; two brothers, Richard Dick (Janice) Dunn and James W. (Jill) Dunn Jr., both of Austintown; and several nieces and nephews. 
+ 
+She was <EVENT eid="e10" class="OCCURRENCE">preceded</EVENT> in death by her mother; and brother, Robert G. Dunn. 
+ 
+A Mass of Christian burial will be 6 p.m. <TIMEX3 tid="t9" type="DATE" value="2017-01-23">Monday, Jan. 30, 2016</TIMEX3>, at St. Stephen Church, where family and friends may <EVENT eid="e11" class="OCCURRENCE">call</EVENT> <TIMEX3 tid="t10" type="DURATION" value="PT2H">two hours</TIMEX3> prior to the service. The Rev. James Korda will be the celebrant. 
+ 
+In lieu of flowers, memorial contributions may be <EVENT eid="e12" class="OCCURRENCE">made</EVENT> to Ohio Living Home Health and Hospice. 
+ 
+Visit holetonyuhasz.com to <EVENT eid="e13" class="OCCURRENCE">view</EVENT> this <EVENT eid="e14" class="OCCURRENCE">tribute</EVENT> and <EVENT eid="e15" class="OCCURRENCE">send</EVENT> condolences. 
+ 
+Arrangements by Holeton-Yuhasz Funeral Home, 126 W. Park Ave., Niles, OH 44446. 
+ 
+(special notice)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie2" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="BEFORE" />
+<TLINK lid="TL6" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t8" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t10" relatedToEventInstance="ie11" relType="INCLUDES" />
+</TimeML>

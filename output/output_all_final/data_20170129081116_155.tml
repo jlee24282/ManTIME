@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204329423</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Gallery to exhibit stain glass at art walk on Friday</TITLE>
+
+
+<TEXT>
+Here we <EVENT eid="e1" class="OCCURRENCE">go</EVENT> with a brand new exciting <TIMEX3 tid="t1" type="DURATION" value="PXY">year</TIMEX3> for the Heart of Del Rio First <TIMEX3 tid="t2" type="DATE" value="2017-01-27">Friday</TIMEX3> Art Walk! Native Texan of Kerrville, Jo Redden, will be the feature artist <EVENT eid="e2" class="OCCURRENCE">exhibiting</EVENT> her Native American Rock Art in stain glass, <TIMEX3 tid="t3" type="DATE" value="2017-02">February 3rd</TIMEX3> from <TIMEX3 tid="t4" type="TIME" value="2017-01-29T19:00">7:00 pm</TIMEX3> to 10:00 pm., at Lee-Bunch Studio Gallery located at 100 W. Greenwood. 
+
+Upon <EVENT eid="e3" class="OCCURRENCE">graduating</EVENT> from high school in Kerrville, Jo <EVENT eid="e4" class="OCCURRENCE">received</EVENT> her college degree at Trinity in San Antonio, Texas and <EVENT eid="e5" class="OCCURRENCE">began</EVENT> her working career in the Texas Valley as the Educational Director in the Presbyterian Church. After her <EVENT eid="e6" class="OCCURRENCE">stint</EVENT> in the valley, Jo <EVENT eid="e7" class="OCCURRENCE">went</EVENT> to Austin where she <EVENT eid="e8" class="OCCURRENCE">worked</EVENT> in the Educational Department of Presbyterian Synod of Texas, then <EVENT eid="e9" class="OCCURRENCE">preceded</EVENT> to New York where she <EVENT eid="e10" class="OCCURRENCE">worked</EVENT> in the Union Theological Seminary, and from there she <EVENT eid="e11" class="REPORTING">resided</EVENT> in Teaneck, New Jersey where Jo <EVENT eid="e12" class="OCCURRENCE">completed</EVENT> her degree in Montessori Education from Sairleigh-Dickinson College. With her education now completed Jo <EVENT eid="e13" class="OCCURRENCE">married</EVENT> the love of her life, Dr. John Redden, the Veterinarian at the time in Kerrville Texas! Dr. John was also a landscape artist <EVENT eid="e14" class="OCCURRENCE">working</EVENT> in oils and also <EVENT eid="e15" class="OCCURRENCE">painted</EVENT> the Native American pictographs on rocks, all of which he kept in his own private collection. For <TIMEX3 tid="t5" type="DURATION" value="P12Y">12 years</TIMEX3> Jo <EVENT eid="e16" class="OCCURRENCE">taught</EVENT> Montessori Education in Kerrville to pre schoolers, that is from <TIMEX3 tid="t6" type="DATE" value="X">2</TIMEX3>  years old until they <EVENT eid="e17" class="OCCURRENCE">started</EVENT> first <EVENT eid="e18" class="OCCURRENCE">grade</EVENT>. Jo <EVENT eid="e19" class="I_ACTION">decided</EVENT> to <EVENT eid="e20" class="OCCURRENCE">retire</EVENT> early so that she could <EVENT eid="e21" class="OCCURRENCE">travel</EVENT> more extensively with her husband to as many Rock Art sites as possible and to <EVENT eid="e22" class="ASPECTUAL">began working</EVENT> her own art with <EVENT eid="e23" class="OCCURRENCE">stain</EVENT> glass.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie21" relType="AFTER" />
+<TLINK lid="TL6" timeID="t4" relatedToTime="t3" relType="ENDED_BY" />
+<TLINK lid="TL5" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="AFTER" />
+</TimeML>

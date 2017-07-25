@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202142663</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>A Note on Opera:  A German in Paris: Giacomo Meyerbeer and Grand Opra</TITLE>
+
+
+<TEXT>
+Join the Goethe-Zentrum for their latest lecture in our A Note on Opera series as we <EVENT eid="e1" class="OCCURRENCE">look</EVENT> at A German in Paris: Giacomo Meyerbeer and Grand Opra. 
+Giacomo Meyerbeer, born Jakob Liebmann Beer in Berlin in <TIMEX3 tid="t1" type="DATE" value="1791">1791</TIMEX3>, was a Jewish expatriate who <EVENT eid="e2" class="OCCURRENCE">immigrated</EVENT> to France, eventually <EVENT eid="e3" class="OCCURRENCE">becoming</EVENT> the dominant musical presence in the French capital for much of the <TIMEX3 tid="t2" type="DATE" value="X">19th-century</TIMEX3>. He <EVENT eid="e4" class="OCCURRENCE">developed</EVENT> the genre of grand opra to its full scope, with its epic tone, sweeping historical narrative, huge casts, ballet, and special effects  including ice-skating on stage! 
+ 
+His works have never completely <EVENT eid="e5" class="OCCURRENCE">gone</EVENT> into obscurity and are now slowly being <EVENT eid="e6" class="OCCURRENCE">revived</EVENT>. Regardless of how one <EVENT eid="e7" class="OCCURRENCE">finds</EVENT> this Andrew Lloyd Webber of French opera, his influence is palpable in works by later composers as diverse as Richard Wagner, Giuseppe Verdi, and Modest Mussorgsky. 
+ 
+Theyll be <EVENT eid="e8" class="OCCURRENCE">looking</EVENT> at Meyerbeers life as a Jewish composer living in <TIMEX3 tid="t3" type="DATE" value="X">early</TIMEX3> 19th-century Germany and then his later life as the Toast of Paris, <EVENT eid="e9" class="OCCURRENCE">defining</EVENT> exactly what is grand opra and how it <EVENT eid="e10" class="I_ACTION">evolved</EVENT> by <EVENT eid="e11" class="OCCURRENCE">examining</EVENT> bits of Meyerbeers Les Huguenots and Le prophte. Meyerbeers influence on other opera traditions will also be <EVENT eid="e12" class="OCCURRENCE">illustrated</EVENT>. 
+ 
+Course to be <EVENT eid="e13" class="OCCURRENCE">taught</EVENT> in English by David Kerr. No pre-existing knowledge of music <EVENT eid="e14" class="OCCURRENCE">required</EVENT>. 
+ 
+Admission: $15.00 for members, $25.00 non-members. 
+Please <EVENT eid="e15" class="OCCURRENCE">use</EVENT> the link to <EVENT eid="e16" class="OCCURRENCE">register</EVENT> in advance for this event.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+</TimeML>

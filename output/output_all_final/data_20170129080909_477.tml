@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200182285</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Earl E. Carmel Jr., 91</TITLE>
+
+
+<TEXT>
+HINSDALE, Mass.  Earl Edward Carmel Jr., 91, of Nashua, N.H., formerly of Hinsdale, Mass., <EVENT eid="e1" class="OCCURRENCE">died</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-24">Tuesday</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-24">January 24, 2017</TIMEX3>, at Southern New Hampshire Medical Center in Nashua. 
+ 
+
+<EVENT eid="e2" class="OCCURRENCE">Born</EVENT> in Pittsfield on <TIMEX3 tid="t3" type="DATE" value="1925-08-17">August 17, 1925</TIMEX3>, the son of Earl E. Carmel, Sr. and Ruth Sherman Carmel, he <EVENT eid="e3" class="OCCURRENCE">attended</EVENT> schools in Hinsdale and <EVENT eid="e4" class="OCCURRENCE">graduated</EVENT> from Pittsfield High School. He was a World War II veteran, where is was <EVENT eid="e5" class="OCCURRENCE">involved</EVENT> in the European Theater and was Honorably <EVENT eid="e6" class="OCCURRENCE">discharged</EVENT>. 
+ 
+
+A mink rancher by profession, Mr. Carmel <EVENT eid="e7" class="OCCURRENCE">owned</EVENT> and <EVENT eid="e8" class="OCCURRENCE">operated</EVENT> Carmel's Mink Ranch in Hinsdale for <TIMEX3 tid="t4" type="DURATION" value="P65Y">65 years</TIMEX3>. He <EVENT eid="e9" class="OCCURRENCE">mentored</EVENT> many young people at the ranch <EVENT eid="e10" class="OCCURRENCE">helping</EVENT> then with a good foundation with good work ethics . He was also active on both national and state-wide ranching committees. At one <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">time</TIMEX3>, Mr. Carmel <EVENT eid="e11" class="OCCURRENCE">worked</EVENT> for General Electric Company, and had been in business with his brother in the <EVENT eid="e12" class="OCCURRENCE">operation</EVENT> of a service station in Hinsdale. 
+ 
+
+Mr. Carmel was Chairman of the Hinsdale Planning Board for <TIMEX3 tid="t6" type="DATE" value="X">several</TIMEX3> years. He <EVENT eid="e13" class="OCCURRENCE">enjoyed traveling</EVENT> and <EVENT eid="e14" class="OCCURRENCE">trapping</EVENT>. 
+ 
+
+Mr. Carmel leaves his wife of <TIMEX3 tid="t7" type="DURATION" value="P66Y">66 years</TIMEX3>, the former Jeanne B. Freshler, whom he <EVENT eid="e15" class="OCCURRENCE">married</EVENT> <TIMEX3 tid="t8" type="DATE" value="1950-09-02">September 2, 1950</TIMEX3>; a daughter, Cynthia Taylor of Merrimack, N.H.; a son, Craig Carmel of Dalton; two brothers, Louis Carmel and his wife, Pauline, of Hinsdale, and Norman Carmel and his wife, Evelyn, of Dalton; and his three grandchildren, Daniel E. Carmel, Ivy L. Carmel, and Nichole Kennedy. 
+ 
+
+Funeral notice: Funeral services for Earl E. Carmel Jr., will be <EVENT eid="e16" class="OCCURRENCE">held</EVENT> <TIMEX3 tid="t9" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <TIMEX3 tid="t10" type="DATE" value="2017-01-28">January 28, 2017</TIMEX3>, at <TIMEX3 tid="t11" type="DATE" value="X">11</TIMEX3> a.m., at Dery-Foley Funeral Home in Dalton with Rev. Christopher A. Malatesta, Pastor of St. Agnes Church in Dalton and St. Patrick Church in Hinsdale, <EVENT eid="e17" class="OCCURRENCE">officiating</EVENT>. Calling hours will <EVENT eid="e18" class="OCCURRENCE">precede</EVENT> the service beginning at <TIMEX3 tid="t12" type="TIME" value="2017-01-29T09:00">9 a.m.</TIMEX3> 
+ 
+
+Burial will be in the Spring in St. Patrick's Cemetery. In lieu of flowers, memorial contributions may be <EVENT eid="e19" class="OCCURRENCE">made</EVENT> to The Shriners Hospital or to the Craneville activity center in Dalton, both in care of the Funeral Home, 890 East Main Street, Dalton.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t8" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL11" timeID="t1" relatedToTime="t2" relType="IDENTITY" />
+<TLINK lid="TL10" timeID="t9" relatedToTime="t10" relType="IDENTITY" />
+<TLINK lid="TL1" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t12" relatedToEventInstance="ie18" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie1" relatedToTime="t2" relType="ENDED_BY" />
+<TLINK lid="TL4" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie16" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie16" relatedToTime="t10" relType="ENDED_BY" />
+<TLINK lid="TL9" timeID="t9" relatedToEventInstance="ie16" relType="INCLUDES" />
+</TimeML>

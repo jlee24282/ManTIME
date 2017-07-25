@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197297982</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Facing the flag</TITLE>
+
+
+<TEXT>
+Facing the Flag or For the Flag (French: Face au drapeau) is an <TIMEX3 tid="t1" type="DATE" value="1896">1896</TIMEX3> patriotic novel by Jules Verne. The book is part of the Voyages Extraordinaires (Extraordinary Voyages) series.Like The Begum's Millions, which Verne <EVENT eid="e1" class="OCCURRENCE">published</EVENT> in <TIMEX3 tid="t2" type="DATE" value="1879">1879</TIMEX3>, it has the theme of France and the entire world <EVENT eid="e2" class="OCCURRENCE">threatened</EVENT> by a super-weapon (what would <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> be <EVENT eid="e3" class="OCCURRENCE">called</EVENT> a weapon of mass destruction) with the threat finally <EVENT eid="e4" class="OCCURRENCE">overcome</EVENT> through the force of French patriotism.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t3" relType="DURING" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

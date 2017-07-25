@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197392629</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Bob Irwin's book signing in Hervey Bay</TITLE>
+
+
+<TEXT>
+A large crowd <EVENT eid="e1" class="OCCURRENCE">turned</EVENT> out to Mary Ryan's Bookstore in Hervey Bay to <EVENT eid="e2" class="OCCURRENCE">listen</EVENT> to wildlife expert Bob Irwin <EVENT eid="e3" class="OCCURRENCE">talk</EVENT> about his new book - "The Last Crocodile Hunter".
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200434640</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>SMFBU Fun Fair ng Barkada</TITLE>
+
+
+<TEXT>
+Fun rides, cool prizes, and an amazing time <EVENT eid="e1" class="OCCURRENCE">await</EVENT> you and your friends this <TIMEX3 tid="t1" type="DATE" value="2017-02">February</TIMEX3>! Join the San Miguel Flavored Beer University Fun Fair ng Barkada <EVENT eid="e2" class="OCCURRENCE">happening</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2017-02-04">February 4</TIMEX3> to 5 at the Globr Circuit Events Ground, Makati. 
+ 
+Image <EVENT eid="e3" class="REPORTING">grabbed</EVENT> from SanMiguelFlavoredBeer 
+ 
+There will be classic school fair booths like jail booth, marriage booth, kissing booth, hangout booth, and giant ker plunk will also be available for you to <EVENT eid="e4" class="OCCURRENCE">enjoy</EVENT>. Aside from the game attractions, the event will also <EVENT eid="e5" class="OCCURRENCE">feature</EVENT> daytime fireworks so make sure youll be there early to <EVENT eid="e6" class="OCCURRENCE">catch</EVENT> this! 
+ 
+Your favorite OPM bands will <EVENT eid="e7" class="OCCURRENCE">join</EVENT> the fun too! There will be performances from Up Dharma Down, Parokya ni Edgar, and Silent Sanctuary and different university bands, dance groups, and DJs. 
+ 
+Ticket is at P350.00, inclusive of three (3) cups of San Miguel Flavored Beer 330 mL and access to all the eight (8) main game attractions (beer swing, giant beer pong, dizzy maze, human tic tac toe, wacky obstacle run inflatables, agawan base zorb ball, breakout escape room, and mini trampoline) with one (1) <EVENT eid="e8" class="OCCURRENCE">play</EVENT> each game. 
+ 
+Tickets can be <EVENT eid="e9" class="OCCURRENCE">purchased</EVENT> at any of the following venues: 
+ San Miguel Head Office  SMC Gate 3 in front of SM Megamall Supermarket  Jelle Pascual  (632) 2226 
+ Events Circuit-Mme Office  <TIMEX3 tid="t3" type="DATE" value="2100">2100</TIMEX3> ID Building, Chino Roces Extension, Makati City  Myla Pulino  09162532241 
+ Mccanns Office  5th Floor Active Fun Building, 9th Avenue corner 28th Street, City Center, Bonifacio Global City, Taguig City  Joms Robles  09175172015 
+ Movents Office  21st Floor Picadilly Star Building, 27th Street corner 4th Avenue, BGC, Taguig  Margie Duka  (02) 720 7974 
+ The Huddle Rooms Office  G/F Corporate Business Center, 151 Paseo De Roxas corner Arnaiz Avenue, Makati City  Susan Carillo  (02) 832 3376 
+ Breakout Escape Room Branches 
+ 
+Note: First <EVENT eid="e10" class="OCCURRENCE">come</EVENT>, first <EVENT eid="e11" class="OCCURRENCE">serve</EVENT> basis. Event organizer reserves the right to <EVENT eid="e12" class="OCCURRENCE">refuse</EVENT> admission. This event is only for males and females ages 18 and up only. A valid identification ID is <EVENT eid="e13" class="OCCURRENCE">required</EVENT> upon ticket purchase. 
+ 
+Clickhere for complete details SMFBU 
+ 
+Event Details 
+What: When: <TIMEX3 tid="t4" type="DATE" value="2017-02-04">February 4</TIMEX3> to <TIMEX3 tid="t5" type="DATE" value="2017-02-05">February 5, 2017</TIMEX3>; <TIMEX3 tid="t6" type="DATE" value="2017-01-28">Saturday</TIMEX3> and <TIMEX3 tid="t7" type="DATE" value="2017-01-29">Sunday</TIMEX3> 
+Where: Globe Circuit Events Ground, Makati City. 
+ 
+Source: facebook , SanMiguelFlavoredBeer
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t6" relatedToTime="t7" relType="IDENTITY" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

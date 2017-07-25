@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195835227</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Cold conditions prevail in Punjab, Haryana</TITLE>
+
+
+<TEXT>
+Cold conditions <EVENT eid="e1" class="ASPECTUAL">continued</EVENT> unabated in Punjab and Haryana <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3> even as several places in the region were <EVENT eid="e2" class="OCCURRENCE">engulfed</EVENT> with moderate fog in the morning.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

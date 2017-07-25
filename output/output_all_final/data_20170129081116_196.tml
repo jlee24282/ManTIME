@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204353171</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Officials say intruder gained access to GOP retreat</TITLE>
+
+
+<TEXT>
+Officials who <EVENT eid="e1" class="REPORTING">organized</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-W05">this week</TIMEX3>'s closed-door conference of House and Senate Republicans <EVENT eid="e2" class="OCCURRENCE">believe</EVENT> an "unauthorized person" <EVENT eid="e3" class="OCCURRENCE">gained</EVENT> access to the event and may be the source of audio recordings <EVENT eid="e4" class="OCCURRENCE">distributed</EVENT> to the press. In a letter to lawmakers obtained by POLITICO, officials from the Congressional Institute <EVENT eid="e5" class="REPORTING">said</EVENT> that a woman "<EVENT eid="e6" class="OCCURRENCE">infiltrated</EVENT>" the GOP retreat -- held in downtown Philadelphia -- on <TIMEX3 tid="t2" type="DATE" value="2017-01-26">Thursday</TIMEX3> and <EVENT eid="e7" class="OCCURRENCE">identified</EVENT> herself as a lawmaker's spouse. She snuck into the event on <TIMEX3 tid="t3" type="DATE" value="X">the</TIMEX3> same <TIMEX3 tid="t4" type="DURATION" value="PXD">day</TIMEX3> that...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t4" relatedToTime="t3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie7" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+</TimeML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200716670</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Pay better and economy will rebound  Beckles</TITLE>
+
+
+<TEXT>
+Treasurer of the National Union of Public Workers (NUPW) Asokore Beckles <EVENT eid="e1" class="OCCURRENCE">reasons</EVENT> the Government's current thrust to <EVENT eid="e2" class="OCCURRENCE">reverse</EVENT> the island's economic fortunes using a profit-led strategy had <EVENT eid="e3" class="OCCURRENCE">proven</EVENT> to be all wrong and it was time to <EVENT eid="e4" class="OCCURRENCE">refocus</EVENT> with a wage-led growth strategy.... 
+Read More
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

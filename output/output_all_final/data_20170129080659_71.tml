@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194683346</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Zimbabwe: Armyworm infestation threatens crops in Zimbabwe</TITLE>
+
+
+<TEXT>
+Source: Deutsche Welle Country: Zimbabwe
+
+After a prolonged <EVENT eid="e1" class="OCCURRENCE">drought</EVENT>, incessant rains in most parts of Zimbabwe had <EVENT eid="e2" class="OCCURRENCE">raised</EVENT> hope that food shortages would be <EVENT eid="e3" class="I_ACTION">eased</EVENT>. But an outbreak of armyworms may be <EVENT eid="e4" class="OCCURRENCE">making</EVENT> the situation worse. After <TIMEX3 tid="t1" type="DURATION" value="P2Y">two years</TIMEX3> of <EVENT eid="e5" class="OCCURRENCE">drought</EVENT>, rain has finally <EVENT eid="e6" class="OCCURRENCE">returned</EVENT> to Zimbabwe. But with it has <EVENT eid="e7" class="OCCURRENCE">come</EVENT> an <EVENT eid="e8" class="OCCURRENCE">outbreak</EVENT> of armyworms that is <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> threatening crops - especially maize - the countryand#39;s staple food. Tatenda Mapfumo is a farmer in Mazowe District about 60 km (50 miles) north of Ha
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="NONE" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToTime="t2" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+</TimeML>

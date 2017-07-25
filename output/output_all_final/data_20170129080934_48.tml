@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200716992</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>England selectors announce squad for West Indies series</TITLE>
+
+
+<TEXT>
+London, <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Jan 28</TIMEX3> : England National Cricket Selectors have <EVENT eid="e1" class="OCCURRENCE">named</EVENT> 14-man squad for the tour of the Caribbean, where they will <EVENT eid="e2" class="OCCURRENCE">contest</EVENT> a three-match One-Day International (ODI) series against West Indies
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

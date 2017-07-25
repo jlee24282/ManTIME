@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196603844</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Xyrania-Dev - A small start for something big.</TITLE>
+
+
+<TEXT>
+. 
+Well, everything seems normal, just a normal day.. not much happening <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3>. 
+I'm just working on my project, EXARUNA. A project I have been <EVENT eid="e1" class="OCCURRENCE">working</EVENT> on for <TIMEX3 tid="t2" type="DATE" value="X">a few</TIMEX3> weeks. 
+<TIMEX3 tid="t3" type="DATE" value="2017-W05">This week</TIMEX3>, I have <EVENT eid="e2" class="OCCURRENCE">made</EVENT> an IndieGoGo campaign , a GameJolt page , and <EVENT eid="e3" class="REPORTING">wrote</EVENT> about the game on the GameDev forums . 
+Everything's been <EVENT eid="e4" class="OCCURRENCE">going</EVENT> smoothly 'til <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3>. 
+It's good to start slow 
+I <EVENT eid="e5" class="I_STATE">hope</EVENT> everything will be <EVENT eid="e6" class="OCCURRENCE">going</EVENT> well until the end.. and unlike my other cancelled project, I <EVENT eid="e7" class="I_STATE">hope</EVENT> this one <EVENT eid="e8" class="OCCURRENCE">succeed</EVENT>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" modality="SHOULD" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t4" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToEventInstance="ie2" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL4" timeID="t3" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

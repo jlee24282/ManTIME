@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203082590</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Carlisle Interconnect Technologies receives FAA STC for ARINC 791...</TITLE>
+
+
+<TEXT>
+Carlisle Interconnect Technologies (CarlisleIT), in partnership with Associated Air Center, is pleased to announce FAA STC issuance for the first configurable ARINC 791 compliant installation for A320 aircraft with the choice of Ka, Ku or Ka/Ku Tri Band <EVENT eid="e1" class="I_STATE">radomes</EVENT> for SATCOM installations. This <EVENT eid="e2" class="OCCURRENCE">flexibility</EVENT> is made possible by <EVENT eid="e3" class="OCCURRENCE">using</EVENT> the Sheergard™ family of universal radomes <EVENT eid="e4" class="OCCURRENCE">developed</EVENT> by Saint Gobain Performance Plastics. CarlisleIT <EVENT eid="e5" class="OCCURRENCE">developed</EVENT> the universal installation provisions and <EVENT eid="e6" class="OCCURRENCE">executed</EVENT> simultaneous FAA and EASA STC applications, testing, and certification approvals. 
+ 
+The CarlisleIT SATCOM system design and installation kit minimizes time required for installation, provides maximum system configuration flexibility, and <EVENT eid="e7" class="STATE">helps</EVENT> future proof aircraft for next generation SATCOM system applications. 
+ 
+About Carlisle Companies Incorporated 
+ 
+Carlisle Interconnect Technologies is one of the world’s leading designers and manufacturers of high performance wire and cable, including optical fiber. Since <TIMEX3 tid="t1" type="DATE" value="1940">1940</TIMEX3>, we have <EVENT eid="e8" class="OCCURRENCE">grown</EVENT> our product portfolio to include specialty and <EVENT eid="e9" class="OCCURRENCE">filtered</EVENT> connectors, contacts, cable assemblies, complex harnesses, racks, trays and installation kits. In addition to our vast product breadth, we <EVENT eid="e10" class="I_ACTION">provide</EVENT> our customers a higher level of support by <EVENT eid="e11" class="OCCURRENCE">offering</EVENT> engineering and certification services for the commercial aerospace, military and defense electronics, industrial, test  amp; measurement, and medical industries. 
+ 
+For more information visit http://www.CarlisleIT.com . 
+ 
+View ARINC 791 time lapse installation video here: https://www.youtube.com/watch?v=iUJylgMsxH4 amp;feature=youtu.be 
+ 
+About Associated Air Center (AAC) 
+ 
+Associated Air Center (AAC), StandardAero’s Transport Category VIP completion center in Dallas, Texas, is the global leader in BBJ completions and the most experienced completion company in the industry. Authorized by both Boeing and Airbus, AAC <EVENT eid="e12" class="OCCURRENCE">offers</EVENT> full completion capabilities for both narrow body and wide body aircraft, including maintenance, refurbishment, modifications and upgrades. AAC’s vertically <EVENT eid="e13" class="OCCURRENCE">integrated</EVENT>, state of the art facility provides world class interior design, engineering and completion capabilities, engine and airframe MRO and ODA certification authority. AAC provides the most advanced <EVENT eid="e14" class="OCCURRENCE">engineering</EVENT> in the industry along with operational excellence and superior customer service from start to <EVENT eid="e15" class="OCCURRENCE">finish</EVENT>, keeping airplane programs on schedule; providing industry leading experience and warranty support after delivery. <EVENT eid="e16" class="OCCURRENCE">Founded</EVENT> in <TIMEX3 tid="t2" type="DATE" value="1948">1948</TIMEX3> as Associate Radio, the company has <EVENT eid="e17" class="OCCURRENCE">served</EVENT> the VVIP market and global Heads of State for over <TIMEX3 tid="t3" type="DURATION" value="P1E">six decades</TIMEX3>. 
+  
+Share article on social media or email
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie17" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="BEFORE" />
+</TimeML>

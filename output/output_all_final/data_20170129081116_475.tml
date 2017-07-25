@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204556042</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Angelelli Leads Rolex 24 at Half Distance</TITLE>
+
+
+<TEXT>
+Photo: John Dagys 
+  
+Max Angelellis No. 10 Wayne Taylor Racing Cadillac DPi-V.R <EVENT eid="e1" class="I_STATE">continues</EVENT> to <EVENT eid="e2" class="OCCURRENCE">lead</EVENT> the Rolex 24 at Daytona at half distance. 
+ 
+The Italian has <TIMEX3 tid="t1" type="DATE" value="X">85</TIMEX3> seconds in hand overthe No. 90 Visit Florida Racing Riley Mk. 30 Gibson of Rene Rast, withChristian Fittipaldis No. 5 Action Express Cadillac a further lap behind in third. 
+ 
+After its <EVENT eid="e3" class="OCCURRENCE">accident</EVENT> in the <TIMEX3 tid="t2" type="DURATION" value="PT0H">tenth hour</TIMEX3>, the No. 22 Tequila Petron ESMNissan Onroak DPi <EVENT eid="e4" class="OCCURRENCE">returned</EVENT> to the track in 36 th position overall and tenth in class, with Johannes van Overbeek at the wheel. 
+ 
+In Prototype Challenge, the No. 38 Performance Tech Motorsports entry of Nicholas Boulle <EVENT eid="e5" class="OCCURRENCE">retains</EVENT> its four-lap lead over Gustavo Yacaman in the No. 20 BAR1 Motorsports car. 
+ 
+In the worsening conditions, the Porsche 911 RSRs <EVENT eid="e6" class="OCCURRENCE">began</EVENT> to <EVENT eid="e7" class="OCCURRENCE">take</EVENT> control of the GTLM class, with the No. 912 car of Kevin Estre <EVENT eid="e8" class="OCCURRENCE">taking</EVENT> the lead from Patrick Pilets identical No. 911 car on lap 341. 
+ 
+The best of the Ford GTs is still the No. 66 Ford car <EVENT eid="e9" class="OCCURRENCE">driven</EVENT> by Joey Hand, while Toni Vilander holds fourth in the No. 62 Risi Competizione Ferrari 488 GTE. 
+ 
+Fords challenge was <EVENT eid="e10" class="OCCURRENCE">dented</EVENT> when Ryan Briscoe <EVENT eid="e11" class="I_ACTION">backed</EVENT> the No. 67 car into the wall on the exit of the Bus Stop, <EVENT eid="e12" class="OCCURRENCE">leaving</EVENT> six cars on the lead lap. 
+ 
+Meanwhile in GT Daytona, Acura <EVENT eid="e13" class="OCCURRENCE">continues</EVENT> its early promise in first and sixth positions. 
+ 
+The No. 86 NSX GT3 of Jeff Segal leads Connor De Phillippis No. 29 LandMotorsports Audi R8 LMS, while Katherine Legge <EVENT eid="e14" class="STATE">remains</EVENT> in touch in the No. 93 Acura after <EVENT eid="e15" class="OCCURRENCE">taking</EVENT> over from Andy Lally. 
+   Related Posts
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+</TimeML>

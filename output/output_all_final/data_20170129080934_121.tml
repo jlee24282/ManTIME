@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200770761</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Atlantic Division wins Skills Competition</TITLE>
+
+
+<TEXT>
+The Atlantic Division won the deciding Shootout event, and <EVENT eid="e1" class="OCCURRENCE">won</EVENT> the NHL All-Star Skills Competition on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>. 
+ 
+As a result, they have <EVENT eid="e2" class="OCCURRENCE">decided</EVENT> to <EVENT eid="e3" class="OCCURRENCE">face</EVENT> the Metropolitan Division in the second three-on-three game for tomorrows NHL All-Star Game in L.A. The Atlantic <EVENT eid="e4" class="OCCURRENCE">took</EVENT> the shootout  and the final score  4-1 over the Pacific Division, which <EVENT eid="e5" class="OCCURRENCE">got</EVENT> its lone goal from Ryan Kesler s young son, Ryker Kesler, who <EVENT eid="e6" class="OCCURRENCE">went</EVENT> five-hole on Carey Price . 
+ 
+Connor McDavid , the Edmonton Oilers star, <EVENT eid="e7" class="OCCURRENCE">fell</EVENT> just short of <EVENT eid="e8" class="OCCURRENCE">beating</EVENT> Dylan Larkin s record of 13.172 seconds in the Fastest Skater competition, which wouldve given the Pacific an additional bonus point from that event. 
+ 
+Shea Weber also had a share in the Atlantic Division win. His slap shot of 102.8 miles per <TIMEX3 tid="t2" type="DURATION" value="PTXH">hour</TIMEX3> , while not <EVENT eid="e9" class="OCCURRENCE">matching</EVENT> his attempts of 108.1 mph and 108.5 mph from the previous two ASG skills competitions, was <EVENT eid="e10" class="OCCURRENCE">good</EVENT> enough to best the competition once again. 
+ 
+Weber takes the Hardest Shot title for a third consecutive <TIMEX3 tid="t3" type="DURATION" value="PXY">year</TIMEX3>. 
+ 
+Brent Burns and goalie Mike Smith  yes, you <EVENT eid="e11" class="I_STATE">read</EVENT> that last part correctly  <EVENT eid="e12" class="OCCURRENCE">put</EVENT> on a <EVENT eid="e13" class="OCCURRENCE">show</EVENT> in the newly introduced Four Line Challenge. 
+ 
+Burns <EVENT eid="e14" class="REPORTING">picked</EVENT> the top corner from center ice and Smith, one of the better puck-playing goalies in the league, <EVENT eid="e15" class="I_ACTION">delighted</EVENT> the crowd by <EVENT eid="e16" class="OCCURRENCE">scoring</EVENT> into a small slot in the middle of the net on his shot from the far end of the rink .
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t2" relatedToEventInstance="ie9" relType="DURING" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToEventInstance="ie15" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToEventInstance="ie14" relType="SIMULTANEOUS" />
+</TimeML>

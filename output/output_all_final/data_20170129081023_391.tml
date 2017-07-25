@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202747201</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Electric Vehicle Buyer's Guide: Will Maintenance Cost Less Than A Gasoline-Powered Green Car?</TITLE>
+
+
+<TEXT>
+Buying an EV should <EVENT eid="e1" class="OCCURRENCE">mean</EVENT> a lower cost of maintenance. True or <EVENT eid="e2" class="OCCURRENCE">false</EVENT>? 
+ 
+
+ 
+
+  
+Luxury EVs 
+ 
+Luxury EVs like the Tesla Model S and Model X are perhaps the most expensive modern vehicles one can <EVENT eid="e3" class="OCCURRENCE">maintain</EVENT>. Dont <EVENT eid="e4" class="OCCURRENCE">take</EVENT> our word for it. Here is the Tesla maintenance program offerings directly from its website: 
+ 
+
+ 
+
+  
+Further, Tesla <EVENT eid="e5" class="OCCURRENCE">recommends</EVENT> an Annual Service Inspection <TIMEX3 tid="t1" type="SET" value="P1Y">every year</TIMEX3> or 12,500 miles to <EVENT eid="e6" class="OCCURRENCE">maintain</EVENT> your vehicle to top performance standards. The company also <EVENT eid="e7" class="REPORTING">says</EVENT> this is the most economical way to <EVENT eid="e8" class="STATE">maintain</EVENT> your vehicle and it includes such things as tire service, software updates, windshield wipers, keyfob batteries and the like. In the northern area of New England, Tesla presently <EVENT eid="e9" class="STATE">has</EVENT> two service centers to <EVENT eid="e10" class="OCCURRENCE">cover</EVENT> the states of Massachusetts, Rhode Island, Vermont, Maine, and New Hampshire. So budget your time and maybe factor in a hotel room. 
+ 
+ EV Buyers Guide  Gas Savings vs. Other Green Car Options 
+ 
+Contrast Teslas service fees with those from Jaguar and BMW. Jaguar includes service on its (gasoline) vehicles for <TIMEX3 tid="t2" type="DURATION" value="P5Y">the first five years</TIMEX3> of ownership. BMW does for <TIMEX3 tid="t3" type="DURATION" value="P4Y">four years</TIMEX3>. Had you <EVENT eid="e11" class="I_ACTION">heard</EVENT> that Tesla <EVENT eid="e12" class="OCCURRENCE">offered</EVENT> a flat $100 service fee for home <EVENT eid="e13" class="OCCURRENCE">visits</EVENT>? It did, but that <EVENT eid="e14" class="OCCURRENCE">went</EVENT> out the window. Along with free unlimited Supercharger use and Teslas resale value guarantee . 
+ 
+
+ 
+
+  
+Which leads us to the least expensive luxury EV to <EVENT eid="e15" class="STATE">maintain</EVENT>, the BMW i3 . By including all required maintenance (except tire replacement) for <TIMEX3 tid="t4" type="DURATION" value="P4Y">four years</TIMEX3>, BMW pretty much blows the rest of the EV field out of the water in terms of cost management. Trade, or <EVENT eid="e16" class="OCCURRENCE">return</EVENT> a leased BMW at <TIMEX3 tid="t5" type="DURATION" value="PXY">year</TIMEX3> four and you have a fixed cost of ownership. The same is true of any BMW gasoline or diesel-powered car. After <TIMEX3 tid="t6" type="DURATION" value="P4Y">the four years</TIMEX3> is up, which will be less <EVENT eid="e17" class="I_STATE">expensive</EVENT> to <EVENT eid="e18" class="OCCURRENCE">maintain</EVENT>? Presumably, the i3 would be.One difficulty is that there arent many four-year old BMW i3syet. Time will <EVENT eid="e19" class="OCCURRENCE">tell</EVENT>. 
+ 
+[embedded content] 
+ 
+[embedded content] 
+  
+Affordable EVs 
+ 
+The spoiler for affordable EVs like the Leaf has been the Toyota Prius . <EVENT eid="e20" class="OCCURRENCE">Offering</EVENT> similar performance, and in many markets, a lower cost per mile for energy , the Prius drives EV fans nuts. The Prius <EVENT eid="e21" class="OCCURRENCE">eliminated</EVENT> three of the main maintenance items older gasoline-powered cars <EVENT eid="e22" class="OCCURRENCE">required</EVENT>. It has no power steering fluid to <EVENT eid="e23" class="OCCURRENCE">change</EVENT>, there is no timing belt to service, and there is no tune up <EVENT eid="e24" class="OCCURRENCE">required</EVENT>. 
+ 
+Making the cost comparison more difficult is that Toyota includes maintenance for <TIMEX3 tid="t7" type="DURATION" value="P2Y">two years</TIMEX3>. That puts the Prius ahead of the affordable EVs in general, particularly for those that lease or <EVENT eid="e25" class="I_STATE">plan</EVENT> to <EVENT eid="e26" class="OCCURRENCE">trade</EVENT> after four or <TIMEX3 tid="t8" type="DURATION" value="P5Y">five years</TIMEX3>. Oil changes are <TIMEX3 tid="t9" type="DATE" value="X">once</TIMEX3> per year (10K miles) for the Prius too, so the owners <TIMEX3 tid="t10" type="DURATION" value="P4Y">four-year</TIMEX3> cost of oil is about $160, <EVENT eid="e27" class="OCCURRENCE">rounding</EVENT> up. Early in the Nissan Leafs run, Consumer Reports <EVENT eid="e28" class="OCCURRENCE">asked</EVENT> the local Nissan dealer they <EVENT eid="e29" class="OCCURRENCE">visited</EVENT> to <EVENT eid="e30" class="OCCURRENCE">perform</EVENT> the 1-year/15K service <EVENT eid="e31" class="OCCURRENCE">required</EVENT> in the Leafs Service and Maintenance Guide . The $291.91 fee <EVENT eid="e32" class="OCCURRENCE">caused</EVENT> quite a stir. To its credit, Nissan includes the inspections <EVENT eid="e33" class="OCCURRENCE">required</EVENT> (not the brake fluid and cabin air filter changes) for <TIMEX3 tid="t11" type="DURATION" value="P2Y">the first two years</TIMEX3>. These include gear oil, <EVENT eid="e34" class="OCCURRENCE">steering</EVENT> linkages, ball joints, and similar. 
+ 
+The very high costs Tesla charges for maintenance and the surprisingly high costs of the Leaf Consumer Reports <EVENT eid="e35" class="OCCURRENCE">discovered</EVENT> offer a lesson for EV shoppers: Dont assume automakers will actually <EVENT eid="e36" class="OCCURRENCE">charge</EVENT> you less to <EVENT eid="e37" class="OCCURRENCE">maintain</EVENT> an EV, regardless of what the theoretical cost should be. Ask the dealer you <EVENT eid="e38" class="OCCURRENCE">buy</EVENT> your EV from what they <EVENT eid="e39" class="I_ACTION">charge</EVENT> to <EVENT eid="e40" class="OCCURRENCE">maintain</EVENT> the vehicle before you <EVENT eid="e41" class="OCCURRENCE">commit</EVENT>. If they <EVENT eid="e42" class="OCCURRENCE">offer</EVENT> you the line that Skipping the maintenance will not <EVENT eid="e43" class="OCCURRENCE">void</EVENT> your warranty that may sound attractive. Setting aside why it is necessary if that is the case, <EVENT eid="e44" class="REPORTING">remember</EVENT> that when you <EVENT eid="e45" class="OCCURRENCE">go</EVENT> to <EVENT eid="e46" class="OCCURRENCE">trade</EVENT> your EV at some <TIMEX3 tid="t12" type="DATE" value="FUTURE_REF">future</TIMEX3> point yours will be the one for sale with No maintenance records available. 
+ 
+Shopping for a new or used EV? Start your <EVENT eid="e47" class="OCCURRENCE">search</EVENT> right here at BestRide. 
+  Related Posts
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie44" eventID="e44" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="ADJECTIVE" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie43" eventID="e43" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie46" eventID="e46" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie45" eventID="e45" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie47" eventID="e47" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie38" relatedToEventInstance="ie39" relType="BEFORE" />
+<TLINK lid="TL5" eventInstanceID="ie29" relatedToEventInstance="ie30" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie39" relatedToEventInstance="ie41" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie40" relatedToEventInstance="ie41" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie37" relatedToEventInstance="ie36" relType="IDENTITY" />
+<TLINK lid="TL4" eventInstanceID="ie45" relatedToTime="t12" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie29" relatedToEventInstance="ie28" relType="AFTER" />
+</TimeML>

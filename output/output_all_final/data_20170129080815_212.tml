@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197490491</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>MINI: He wishes he could forget</TITLE>
+
+
+<TEXT>
+Add your voice to the <EVENT eid="e1" class="OCCURRENCE">discussion</EVENT>. Click on Letters to the Editor to <EVENT eid="e2" class="OCCURRENCE">submit</EVENT> a letter or mini editorial to the Journal staff. 
+ 
+We welcome and encourage reader feedback. Letters to the Editor must be no longer than 250 words and will be edited for length. Please include your name, hometown and daytime telephone number for verification. Phone numbers will not be <EVENT eid="e3" class="OCCURRENCE">printed</EVENT>. 
+ 
+We will not <EVENT eid="e4" class="OCCURRENCE">publish</EVENT> anonymous letters or "open" letters or letters to a third party. We will <EVENT eid="e5" class="OCCURRENCE">publish</EVENT> no more than two letters and two Mini Editorials per writer <TIMEX3 tid="t1" type="DURATION" value="P1M">a month</TIMEX3>. Letters, Mini Editorials and guest opinions may be <EVENT eid="e6" class="OCCURRENCE">published</EVENT> or <EVENT eid="e7" class="OCCURRENCE">distributed</EVENT> in print, electronic or other forms. 
+   
+ Most Popular  
+   
+ Editorial board  
+ 
+Our Opinion editorials in this section <EVENT eid="e8" class="OCCURRENCE">represent</EVENT> the consensus view of the Sioux City Journal's Editorial Board. 
+ 
+Opinions expressed in Other Voices editorials and in columns, Letters to the Editor and cartoons do not necessarily <EVENT eid="e9" class="OCCURRENCE">reflect</EVENT> the views of the editorial board. 
+ 
+The Journal editorial board <EVENT eid="e10" class="OCCURRENCE">consists</EVENT> of Publisher Ron Peterson , Editor Bruce Miller , Editorial page editor Mike Gors , Managing editor/news Dave Dreeszen and Chief photographer Tim Hynds . 
+   
+ Contact information  
+ 
+Call: 712-293-4223 or 800-397-9820, <EVENT eid="e11" class="OCCURRENCE">ext.</EVENT> <TIMEX3 tid="t2" type="DATE" value="X">4223</TIMEX3> 
+ 
+E-Mail:  letters@siouxcityjournal.com 
+ 
+Write: Opinion, The Journal, 515 Pavonia St., Sioux City, Iowa 51101 
+ 
+Fax: 712-279-5
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

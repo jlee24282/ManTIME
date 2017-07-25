@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202722049</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Youth hit by car in Paceville</TITLE>
+
+
+<TEXT>
+An 18-year-old Rabat youth was grievously <EVENT eid="e1" class="OCCURRENCE">injured</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-29TMO">early this morning</TIMEX3> after he was <EVENT eid="e2" class="OCCURRENCE">hit</EVENT> by a car in St Julian's. 
+ 
+The accident <EVENT eid="e3" class="OCCURRENCE">happened</EVENT> at 3.15am on St George's Road, when a 36-year-old Birkirkara man <EVENT eid="e4" class="OCCURRENCE">driving</EVENT> a BMW 320D towards Paceville <EVENT eid="e5" class="OCCURRENCE">hit</EVENT> the pedestrian. 
+ 
+An ambulance <EVENT eid="e6" class="OCCURRENCE">took</EVENT> the young man to Mater Dei Hospital for treatment, where doctors <EVENT eid="e7" class="I_STATE">confirmed</EVENT> that his injuries are <EVENT eid="e8" class="STATE">grievous</EVENT>. 
+ 
+Police <EVENT eid="e9" class="REPORTING">say</EVENT> they are <EVENT eid="e10" class="OCCURRENCE">investigating</EVENT> further. 
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="BEFORE" />
+</TimeML>

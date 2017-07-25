@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204966844</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Sun 1/29: Equipping the Saints</TITLE>
+
+
+<TEXT>
+, noon to 2:30 p.m. 
+ 
+Where: Village Presbyterian Church, 6225 Paseo Delicias, Rancho Santa Fe 
+ 
+Cost: Not available 
+ 
+Age limit: All ages 
+ 
+Description: 
+Hands-on workshop on <EVENT eid="e1" class="OCCURRENCE">putting</EVENT> together thematic public prayers and <EVENT eid="e2" class="OCCURRENCE">making</EVENT> a Bible study from scratch three different ways.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+</TimeML>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193988716</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Australian Greens national council says factions 'incompatible' with its principles</TITLE>
+
+
+<TEXT>
+The Australian Greens has <EVENT eid="e1" class="OCCURRENCE">issued</EVENT> a slap down to the <EVENT eid="e2" class="OCCURRENCE">formation</EVENT> of formal factions just weeks after the <EVENT eid="e3" class="OCCURRENCE">establishment</EVENT> of the controversial anti-capitalist group Left Renewal within its ranks. 
+ 
+A statement <EVENT eid="e4" class="OCCURRENCE">issued</EVENT> by the Australian Greens National Council on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> <EVENT eid="e5" class="OCCURRENCE">declares</EVENT> formal factions "incompatible" with the party's principles. 
+  Play Video  Replay Video  Play Video  Don't <EVENT eid="e6" class="OCCURRENCE">Play</EVENT>    Far-left group call for Australia Day flag burns  
+Greens leader Richard Di Natale has <EVENT eid="e7" class="REPORTING">distanced</EVENT> himself from a new far-left faction wanting to <EVENT eid="e8" class="OCCURRENCE">burning</EVENT> the national flag on <TIMEX3 tid="t2" type="DATE" value="2017-01-26">January 26</TIMEX3>. Vision courtesy Seven News Melbourne. 
+   
+The statementcomes amid escalating tensions between former party leader Bob Brown and Senator Lee Rhiannon over the party's direction under Senator Richard Di Natale. 
+ 
+Ms Rhiannon- who is on the left of the party -<TIMEX3 tid="t3" type="DATE" value="2017-W04">last week</TIMEX3> <EVENT eid="e9" class="REPORTING">said</EVENT> the Greens are at a "crossroads" and should <EVENT eid="e10" class="I_STATE">consider adopting</EVENT> the policies of former US presidential candidate Bernie Sanders. 
+ SHARE  Share on Facebook  SHARE  Share on Twitter  TWEET  Pin to Pinterest  PIN  Link   Lee Rhiannon is in open conflict with former party leader Bob Brown Photo: Andrew Meares  
+But she was <EVENT eid="e11" class="OCCURRENCE">criticised</EVENT> by Mr Brown, who <EVENT eid="e12" class="OCCURRENCE">blasted</EVENT> her as the "Greens version of Tony Abbott". 
+ 
+In its statement, which was <EVENT eid="e13" class="OCCURRENCE">emailed</EVENT> to every Greens member,the National Council <EVENT eid="e14" class="REPORTING">said</EVENT> one of the Greens' greatest strengths is that it is a member-driven organisation. 
+ 
+"We <EVENT eid="e15" class="OCCURRENCE">reject</EVENT>, as fundamentally inconsistent with our principles of egalitarian and collaborative consensus-based decision making, the <EVENT eid="e16" class="OCCURRENCE">formation</EVENT> of formal factions in the party," it <EVENT eid="e17" class="REPORTING">said</EVENT>. 
+ 
+"Furthermore, the <EVENT eid="e18" class="OCCURRENCE">formation</EVENT> of formal factions is incompatible with our party structure and rules".
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie5" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie9" relType="INCLUDES" />
+</TimeML>

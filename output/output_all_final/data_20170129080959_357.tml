@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201934114</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bayan Trump ya alanta yaki da musulunci, an kona babban masallacin Texas</TITLE>
+
+
+<TEXT>
+Bayan shugaban kasan Amurka, Donald J Trump ya sanar da cewa ya haramtawa wasu kasashen musulmai 7 shiga kasar Amurka wanda kuma ya <EVENT eid="e1" class="OCCURRENCE">sabbaba</EVENT> an fara hana musulman da suka tafiya shiga kasar. A cikin daren jiya ne,29 ga watan Junairu <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> ne, aka bankawa babban masallacin birnin Texas wuta inda <EVENT eid="e2" class="OCCURRENCE">take</EVENT> ci bal-bal abin ban takaici. 
+
+Dakta Muhammad Salah, wani babban malamin kasar Amurka ne ya bayyana wannan abu ta shafin raayi da sada zumuntarsa ta Facebook a cikin daren inda yace: 
+
+A yanzu haka, kyakyywan masallacinmu da makarantan addini da ke birnin Texas na <EVENT eid="e3" class="OCCURRENCE">ci</EVENT> bal bal. Allah ya rahamce mu kuma ya bamu wanda ya fi haka. Zamu sanar da ku akan abinda ke faruwa idan Allah ya yarda. 
+
+Dan Allah ku yima musulman da ke birnin addua. Alhamdulillahi dai babu wanda ya <EVENT eid="e4" class="OCCURRENCE">ci</EVENT> rauni a abinda ya <EVENT eid="e5" class="OCCURRENCE">faru</EVENT> misalin karfe 2 na dare.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

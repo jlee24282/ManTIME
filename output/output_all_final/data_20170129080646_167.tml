@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194368226</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>AC Fire does great job</TITLE>
+
+
+<TEXT>
+Editor, Casa Grande Dispatch: 
+ 
+Kudos to the personnel at the Arizona City Fire Department. They are well <EVENT eid="e1" class="OCCURRENCE">trained</EVENT>, competent and compassionate. 
+ 
+<TIMEX3 tid="t1" type="DATE" value="2016-SP">Last spring</TIMEX3> I <EVENT eid="e2" class="OCCURRENCE">called</EVENT> 911. Because of their fast response and quick assessment of his condition, they <EVENT eid="e3" class="OCCURRENCE">saved</EVENT> my husband's life. 
+ 
+They were also <EVENT eid="e4" class="OCCURRENCE">concerned</EVENT> with my <EVENT eid="e5" class="OCCURRENCE">driving</EVENT> to the hospital. Our resident go-to guy, Bill Mahan, <EVENT eid="e6" class="OCCURRENCE">gave</EVENT> me a ride, <EVENT eid="e7" class="OCCURRENCE">called</EVENT> our son in Phoenix and <EVENT eid="e8" class="OCCURRENCE">waited</EVENT> until our son <EVENT eid="e9" class="OCCURRENCE">arrived</EVENT>. 
+ 
+"<EVENT eid="e10" class="OCCURRENCE">Thank</EVENT> you" can't ever be enough for all the help. 
+ 
+Greta Brown 
+ 
+Arizona City
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="AFTER" />
+</TimeML>

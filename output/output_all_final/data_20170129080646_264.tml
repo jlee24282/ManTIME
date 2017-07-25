@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194418997</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Pennsylvania GOP eyes southeast in quest for domination</TITLE>
+
+
+<TEXT>
+Maria Panaritis is a metro regional reporter. She has been an award-winning business writer and columnist, investigative reporter, and immigration beat writer, and has <EVENT eid="e1" class="OCCURRENCE">traveled</EVENT> nationally and internationally since <EVENT eid="e2" class="OCCURRENCE">joining</EVENT> the Inquirer as a city-news journalist in <TIMEX3 tid="t1" type="DATE" value="1998">1998</TIMEX3>. 
+ 
+Start the conversation, or <EVENT eid="e3" class="OCCURRENCE">Read</EVENT> more at Philly.com. 
+    
+Comments 
+   
+ Add your comments below  
+     
+
+      
+
+   
+Copyright  2017 Topix LLC
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

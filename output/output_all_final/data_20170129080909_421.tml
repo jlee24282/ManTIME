@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200131075</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Volborg's Jess Lockwood wins first round at Sacramento</TITLE>
+
+
+<TEXT>
+SACRAMENTO, Calif.  Volborg's Jess Lockwood <EVENT eid="e1" class="ASPECTUAL">continued</EVENT> his torrid pace, <EVENT eid="e2" class="OCCURRENCE">winning</EVENT> the first round of the Frontier Communications Clash on <TIMEX3 tid="t1" type="TIME" value="2017-01-27TNI">Friday night</TIMEX3>.
+
+Lockwood, 19, <EVENT eid="e3" class="OCCURRENCE">rode</EVENT> the bull Baton Rouge for 87.5 points to <EVENT eid="e4" class="OCCURRENCE">earn</EVENT> $3,580 and 100 points in the Built Ford Tough Series standings.
+
+Lockwood, the <TIMEX3 tid="t2" type="DATE" value="2016">2016</TIMEX3> PBR Rookie of the <TIMEX3 tid="t3" type="DURATION" value="PXY">Year</TIMEX3> and winner of the season opener in New York City, <EVENT eid="e5" class="ASPECTUAL">continues</EVENT> to <EVENT eid="e6" class="OCCURRENCE">lead</EVENT> the world standings. He has <EVENT eid="e7" class="OCCURRENCE">ridden</EVENT> 8 of his first 12 bulls <TIMEX3 tid="t4" type="DATE" value="2017">this year</TIMEX3>.
+
+Nevada Newman of Melstone and Columbia Falls' Matt Triplett had no scores on <TIMEX3 tid="t5" type="DATE" value="2017-01-27">Friday</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL0" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+</TimeML>

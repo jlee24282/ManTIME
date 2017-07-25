@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201117443</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>MIDEAST STOCKS-Most of Gulf moves little, Kuwait rises</TITLE>
+
+
+<TEXT>
+DUBAI Jan <TIMEX3 tid="t1" type="DATE" value="X">29</TIMEX3> (Reuters) - Most Gulf stock markets <EVENT eid="e1" class="OCCURRENCE">moved</EVENT>
+little in early trade on <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3>, although Kuwait <EVENT eid="e2" class="OCCURRENCE">continued</EVENT> <TIMEX3 tid="t3" type="DURATION" value="PXM">this month</TIMEX3>'s bull run in heavy trade. 
+ 
+ 
+ 
+ 
+The Kuwaiti index <EVENT eid="e3" class="OCCURRENCE">added</EVENT> 1.1 percent to a fresh
+<TIMEX3 tid="t4" type="DURATION" value="P26M">26-month</TIMEX3> high with eight of the 10 most heavily traded stocks
+<EVENT eid="e4" class="OCCURRENCE">rising</EVENT> and none <EVENT eid="e5" class="OCCURRENCE">falling</EVENT>. 
+ 
+ 
+ 
+ 
+On <TIMEX3 tid="t5" type="DATE" value="2017-01-23">Monday</TIMEX3>, the government <EVENT eid="e6" class="I_STATE">plans</EVENT> to <EVENT eid="e7" class="OCCURRENCE">announce</EVENT> details of its
+long-term economic development plan, which could <EVENT eid="e8" class="OCCURRENCE">help</EVENT> the stock
+market if it <EVENT eid="e9" class="OCCURRENCE">gives</EVENT> more impetus to big infrastructure projects. 
+ 
+ 
+ 
+ 
+Telecommunications firm Viva Kuwait <EVENT eid="e10" class="OCCURRENCE">fell</EVENT> 3.3
+percent, however, after <EVENT eid="e11" class="OCCURRENCE">reporting</EVENT> a 6.8 percent <EVENT eid="e12" class="OCCURRENCE">rise</EVENT> in
+<TIMEX3 tid="t6" type="DATE" value="2017-Q4">fourth-quarter</TIMEX3> net profit to 10.8 million dinars ($35.4
+million); SICO Bahrain had <EVENT eid="e13" class="OCCURRENCE">forecast</EVENT> 9.44 million dinars. 
+ 
+ 
+ 
+ 
+Saudi Arabia's index <EVENT eid="e14" class="OCCURRENCE">edged</EVENT> down 0.1 percent. Builder
+Khodari <EVENT eid="e15" class="OCCURRENCE">climbed</EVENT> 2.2 percent, but National Commercial
+Bank <EVENT eid="e16" class="OCCURRENCE">dropped</EVENT> 1.4 percent despite <EVENT eid="e17" class="OCCURRENCE">proposing</EVENT> a higher
+second-half dividend. 
+ 
+ 
+ 
+ 
+Nama Chemicals <EVENT eid="e18" class="OCCURRENCE">jumped</EVENT> its 10 percent daily <EVENT eid="e19" class="OCCURRENCE">limit</EVENT>
+for <TIMEX3 tid="t7" type="DATE" value="X">a second</TIMEX3> straight <TIMEX3 tid="t8" type="DURATION" value="PXD">day</TIMEX3> after <EVENT eid="e20" class="OCCURRENCE">announcing</EVENT> the main elements of
+a plan to <EVENT eid="e21" class="OCCURRENCE">recover</EVENT> from accumulated <EVENT eid="e22" class="OCCURRENCE">losses</EVENT> that <EVENT eid="e23" class="OCCURRENCE">exceeded</EVENT> 75
+percent of its capital. The plan includes eventually <EVENT eid="e24" class="OCCURRENCE">increasing</EVENT>
+capital to <EVENT eid="e25" class="ASPECTUAL">finance</EVENT> production of speciality chemical products
+and <EVENT eid="e26" class="OCCURRENCE">boost</EVENT> capacity, and the <EVENT eid="e27" class="OCCURRENCE">sale</EVENT> of assets of an investment
+affiliate. 
+ 
+ 
+ 
+ 
+Dubai's index <EVENT eid="e28" class="OCCURRENCE">slipped</EVENT> 0.2 percent as GFH Financial
+, the most heavily trade stock, <EVENT eid="e29" class="OCCURRENCE">pulled</EVENT> back 5.9 percent.
+The stock, a speculative favourite of local investors, has been
+very volatile in <TIMEX3 tid="t9" type="DATE" value="2017-W04">the past week</TIMEX3>. 
+ 
+ 
+ 
+ 
+In Abu Dhabi another speculative stock, International Fish
+Farming, <EVENT eid="e30" class="OCCURRENCE">plunged</EVENT> its 10 percent daily limit to 2.92
+dirhams. It <EVENT eid="e31" class="OCCURRENCE">soared</EVENT> from 1.90 dirhams at <TIMEX3 tid="t10" type="DATE" value="2016-12">the end of last month</TIMEX3> to
+a peak of 4.65 dirhams, partly because of a rumour that a
+well-known Abu Dhabi individual investor had <EVENT eid="e32" class="OCCURRENCE">bought</EVENT> a strategic
+stake in the company. 
+ 
+ 
+ 
+ 
+But in mid-January, an Asmak spokesman <EVENT eid="e33" class="REPORTING">told</EVENT> Reuters that the
+rumour was false, and the stock has been <EVENT eid="e34" class="OCCURRENCE">falling</EVENT> back since
+then. Abu Dhabi's equities index <EVENT eid="e35" class="OCCURRENCE">fell</EVENT> 0.2 percent in
+early trade on <TIMEX3 tid="t11" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+ 
+ 
+ 
+ 
+Qatar's index <EVENT eid="e36" class="OCCURRENCE">dropped</EVENT> 0.3 percent but Widam Food
+ <EVENT eid="e37" class="OCCURRENCE">gained</EVENT> 2.1 percent after <EVENT eid="e38" class="REPORTING">saying</EVENT> annual net profit <EVENT eid="e39" class="OCCURRENCE">rose</EVENT>
+to 91.3 million riyals ($25.1 million) from 69.1 million riyals.
+
+ (Reporting by Andrew Torchia, editing by Larry King)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="VERB" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL9" eventInstanceID="ie6" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL16" timeID="t8" relatedToTime="t7" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t8" relatedToEventInstance="ie21" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie37" relatedToEventInstance="ie36" relType="SIMULTANEOUS" />
+<TLINK lid="TL13" eventInstanceID="ie28" relatedToEventInstance="ie29" relType="SIMULTANEOUS" />
+<TLINK lid="TL11" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL10" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie37" relatedToEventInstance="ie39" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="SIMULTANEOUS" />
+<TLINK lid="TL1" eventInstanceID="ie31" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie35" relatedToTime="t11" relType="IS_INCLUDED" />
+<TLINK lid="TL7" eventInstanceID="ie36" relatedToEventInstance="ie37" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie11" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL14" timeID="t3" relatedToEventInstance="ie2" relType="DURING" />
+<TLINK lid="TL6" eventInstanceID="ie36" relatedToEventInstance="ie39" relType="AFTER" />
+<TLINK lid="TL12" eventInstanceID="ie2" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

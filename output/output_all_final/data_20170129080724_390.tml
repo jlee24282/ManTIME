@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695195936058</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>The new GHW will encourage the flow of illegal trade of</TITLE>
+
+
+<TEXT>
+brands owned by international companies into the country since such brands are <EVENT eid="e1" class="STATE">manufactured</EVENT> in many jurisdictions which do not <EVENT eid="e2" class="OCCURRENCE">mandate</EVENT> the <EVENT eid="e3" class="OCCURRENCE">printing</EVENT> of graphic health warnings on cigarette packages as applicable in India, it <EVENT eid="e4" class="REPORTING">added</EVENT>. 
+ 
+The company <EVENT eid="e5" class="REPORTING">said</EVENT> legal cigarette industry in India will be hard <EVENT eid="e6" class="OCCURRENCE">pressed</EVENT> "to <EVENT eid="e7" class="OCCURRENCE">counter</EVENT> the menace of illegal cigarettes as they will be <EVENT eid="e8" class="OCCURRENCE">perceived</EVENT> by the consumer to be safer in the absence of the statutorily mandated health warnings". 
+ 
+"Coupled with the fact that illegal cigarettes are available at a fraction of the price of legal cigarettes, the new GHW will <EVENT eid="e9" class="OCCURRENCE">provide</EVENT> further fillip to the <EVENT eid="e10" class="OCCURRENCE">growth</EVENT> of illegal cigarettes in the country," ITC <EVENT eid="e11" class="REPORTING">said</EVENT>. 
+ 
+(This article has not been <EVENT eid="e12" class="OCCURRENCE">edited</EVENT> by DNA's editorial team and is auto-generated from an agency feed.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+
+</TimeML>

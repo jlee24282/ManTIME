@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204494608</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Mike Matovich</TITLE>
+
+
+<TEXT>
+NEWTON FALLS — , 95, of Newton Falls, <EVENT eid="e1" class="OCCURRENCE">died</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Thursday, Jan. 26, 2017</TIMEX3>, at Select Specialty Hospital in Youngstown. 
+ 
+Mike was <EVENT eid="e2" class="OCCURRENCE">born</EVENT> <TIMEX3 tid="t2" type="DATE" value="1921-05-09">May 9, 1921</TIMEX3>, the son of Stanley and Ana Radovich Matovich. He <EVENT eid="e3" class="STATE">was</EVENT> a U.S. Army veteran of World War II. 
+ 
+Mike <EVENT eid="e4" class="OCCURRENCE">retired</EVENT> from Youngstown Sheet  amp; Tube. He <EVENT eid="e5" class="OCCURRENCE">attended</EVENT> the SS. Mary and Joseph Catholic Church in Newton Falls. 
+ 
+Mike is <EVENT eid="e6" class="OCCURRENCE">survived</EVENT> by his companion, Dorothy Yura of Newton Falls; his sons, Michael and David Matovich, both of Niles; daughter, Marie Davis of Mineral Ridge; sister, Lucy Rogich of Canton; five grandchildren; and two great grandchildren. 
+ 
+Preceding Mike in death was a son, James Matovich; a grandson; three brothers; and three sisters. 
+ 
+Family and friends may <EVENT eid="e7" class="OCCURRENCE">call</EVENT> 9 to <TIMEX3 tid="t3" type="DATE" value="X">10</TIMEX3> a.m. <TIMEX3 tid="t4" type="DATE" value="2017-01-23">Monday</TIMEX3> at the Bernard P. Borowski Memorial Home in Newton Falls. A Mass of Christian burial will be 10:30 <TIMEX3 tid="t5" type="DATE" value="2017-01-23">a.m. Monday</TIMEX3> at SS. Mary and Joseph Church in Newton Falls. Burial will be in St. Joseph’s Cemetery.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t4" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie2" relatedToTime="t2" relType="ENDED_BY" />
+<TLINK lid="TL1" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie7" relatedToTime="t4" relType="IS_INCLUDED" />
+</TimeML>

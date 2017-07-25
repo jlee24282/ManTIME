@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197041255</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>VIDEO: Buffaloes stampede past Ducks</TITLE>
+
+
+<TEXT>
+Share     Pac-12 Networks' Ted Robinson and Bill Walton recap Colorado's 74-65 upset over No. 10 Oregon 
+Derrick White <EVENT eid="e1" class="OCCURRENCE">led</EVENT> the Buffs with 23 points as Colorado <EVENT eid="e2" class="OCCURRENCE">ended</EVENT> the Ducks' 17-game <EVENT eid="e3" class="OCCURRENCE">win</EVENT> streak on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> at Boulder. 
+    JW_DISQUS_VIEW_THE_DISCUSSION_THREAD
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

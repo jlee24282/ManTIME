@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204657330</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Columbiana-Fairfield Twp. historical society installs 2017 officers</TITLE>
+
+
+<TEXT>
+Pictured are the <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> officers and trustees of the Historical Society of Columbiana and Fairfield Township, from left, Janet Burns, Monica Detwiler, secretary; Sara Clarke, president; Bob Belding, Beverly Richardson and Mary Louise Dicken. Not <EVENT eid="e1" class="OCCURRENCE">pictured</EVENT> is Dick Sell, vice president. (Submitted photo).
+
+7 and 1 Club <EVENT eid="e2" class="OCCURRENCE">meets</EVENT> for games SALEM  The Seven and One Club <EVENT eid="e3" class="OCCURRENCE">met</EVENT> <TIMEX3 tid="t2" type="TIME" value="2017-01-25TEV">Wednesday evening</TIMEX3> at the home of Mrs. John ...
+
+YOUNGSTOWN  The following area students <EVENT eid="e4" class="OCCURRENCE">earned</EVENT> deans list at Youngstown State University for the fall ...
+
+LISBON The Resource Center of Columbiana County, Lisbon United Methodist Church, 114 E. Washington St., will ...
+
+YOUNGSTOWN  More than 680 students were <EVENT eid="e5" class="OCCURRENCE">awarded</EVENT> undergraduate, graduate and doctoral degrees at Youngstown State ...
+
+<TIMEX3 tid="t3" type="DATE" value="2017-01-29">Today</TIMEX3>'s breaking news and more in your inbox
+
+Copyright  Salem News | http://www.salemnews.net | 161 North Lincoln, Salem, OH 4446
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

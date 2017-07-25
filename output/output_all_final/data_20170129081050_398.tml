@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203594109</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>EATON VANCE DIVIDEND FORTITUDE PORTFOLIO SERIES 5 (EVDFEX)</TITLE>
+
+
+<TEXT>
+. 
+ EATON VANCE DIVIDEND FORTITUDE PORTFOLIO SERIES 5 (NASDAQ:EVDFEX)    
+Smart Scan Chart Analysis <EVENT eid="e1" class="REPORTING">confirms</EVENT> that a short term counter trend <EVENT eid="e2" class="OCCURRENCE">move</EVENT> is underway. When this action is over look for the longer term positive trend to resume. Uptrend with money management stops. 
+ 
+The Trade Triangles are <EVENT eid="e3" class="OCCURRENCE">generated using</EVENT> a proprietary algorithm that is <EVENT eid="e4" class="OCCURRENCE">comprised</EVENT> of weighted factors that include, but are not limited to - price change, percentage change, moving averages, and new highs/lows. The MarketClub trading strategy is based on the triangles, <EVENT eid="e5" class="OCCURRENCE">learn</EVENT> more here . 
+     Open  High  Low  EVDFEX Price  Change  10.2591  10.2591  10.2591  10.2591  +0.0012  Entry Signal     MarketClubs Trade Triangles for EVDFEX  
+The long term trend has been UP since <TIMEX3 tid="t1" type="DATE" value="2017-11">Nov 14th, 2016</TIMEX3> at 9.8920 
+ 
+The intermediate term trend has <EVENT eid="e6" class="STATE">been</EVENT> UP since <TIMEX3 tid="t2" type="DATE" value="2017-11">Nov 14th, 2016</TIMEX3> at 9.8920 
+ 
+The short term trend has <EVENT eid="e7" class="STATE">been</EVENT> DOWN since <TIMEX3 tid="t3" type="DATE" value="2017-12">Dec 28th,</TIMEX3> 2016 at 10.2716 
+ Smart Scan Analysis for EVDFEX  
+Based on a pre-defined weighted trend formula for chart analysis, EVDFEX <EVENT eid="e8" class="OCCURRENCE">scored</EVENT> +85 on a <EVENT eid="e9" class="OCCURRENCE">scale</EVENT> from -100 (strong downtrend) to +100 (strong uptrend). 
+  
++ 85 
+ 
+Strong Downtrend  Sideways  Strong Uptrend 
+  Open  High  Low  Price  Change  10.2591  10.2591  10.2591  10.2591  +0.0012  Prev. Close  Volume  Bid  Ask  Time  10.2591  0    2017-01-29 00:00:00  52wk High  10.31  52wk High Date  <TIMEX3 tid="t4" type="DATE" value="2017-01-25">2017-01-25</TIMEX3>  52wk Low  9.89  52wk Low Date  <TIMEX3 tid="t5" type="DATE" value="2016-11-11">2016-11-11</TIMEX3>  Year End Close  1
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t3" relatedToEventInstance="ie7" relType="BEGINS" />
+<TLINK lid="TL0" timeID="t2" relatedToEventInstance="ie6" relType="BEGINS" />
+</TimeML>

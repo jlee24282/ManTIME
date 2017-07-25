@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201793548</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>China donates medical supplies to South Sudan hospital</TITLE>
+
+
+<TEXT>
+China has <EVENT eid="e1" class="OCCURRENCE">contributed</EVENT> medicine and medical equipment worth $60,000 to the Paloich Friendship Hospital in Upper Nile state, northern South Sudan, the Chinese Embassy <EVENT eid="e2" class="REPORTING">said</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Thursday</TIMEX3>. China has <EVENT eid="e3" class="OCCURRENCE">contributed</EVENT> medicine and medical equipment worth $60,000 to the Paloich Friendship Hospital in Upper Nile state, northern South Sudan, the Chinese Embassy <EVENT eid="e4" class="REPORTING">said</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-01-26">Thursday</TIMEX3>. The <EVENT eid="e5" class="OCCURRENCE">donation made</EVENT> through the Chinese Embassy in South Sudan <EVENT eid="e6" class="OCCURRENCE">included</EVENT> 27 categories of medicines such as Ampilcllin, Saline, Amoxilline, pain killers among others.
+
+The embassy also <EVENT eid="e7" class="OCCURRENCE">donated</EVENT> nine medical devices, including microscopes, a Digital Blood Pressure machine and a Diabetes testing machine.
+
+Speaking during the handover <EVENT eid="e8" class="OCCURRENCE">ceremony</EVENT> on <TIMEX3 tid="t3" type="DATE" value="2017-01-26">Thursday</TIMEX3>, Chinese Ambassador to South Sudan, He Xiangdong, <EVENT eid="e9" class="REPORTING">said</EVENT>: "Humanity has no boundaries; hence Beijing fully <EVENT eid="e10" class="I_STATE">understands</EVENT> the challenges and difficulties faced by South Sudan's health sector."
+
+The Paloich Friendship hospital was <EVENT eid="e11" class="OCCURRENCE">built</EVENT> in <TIMEX3 tid="t4" type="DATE" value="2006">2006</TIMEX3> with the support from the China National Petroleum Corporation. A team of Chinese doctors is <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e12" class="STATE">working</EVENT> at the hospital.
+
+Ambassador He <EVENT eid="e13" class="REPORTING">said</EVENT> that the practical <EVENT eid="e14" class="OCCURRENCE">cooperation</EVENT> between China and South Sudan in the health sector has <EVENT eid="e15" class="OCCURRENCE">gained</EVENT> momentum in <TIMEX3 tid="t6" type="DATE" value="PAST_REF">recent years</TIMEX3>.
+
+"The <EVENT eid="e16" class="OCCURRENCE">dispatch</EVENT> of Chinese medical teams, the <EVENT eid="e17" class="OCCURRENCE">offering</EVENT> of government scholarships in medicine and medical donation by China all greatly <EVENT eid="e18" class="OCCURRENCE">improved</EVENT> the level of health service in different areas in South Sudan," he <EVENT eid="e19" class="REPORTING">said</EVENT>.
+
+The head of the Paloich Friendship Hospital, who <EVENT eid="e20" class="OCCURRENCE">identified</EVENT> himself as Modesto, <EVENT eid="e21" class="OCCURRENCE">expressed</EVENT> his gratitude for donation and also <EVENT eid="e22" class="OCCURRENCE">thanked</EVENT> the Chinese people for their continued support to the country's health sector over <TIMEX3 tid="t7" type="DATE" value="2016">the past years</TIMEX3>.
+
+"A friend in need is a friend indeed. This batch of medical donation is just what the local people <EVENT eid="e23" class="I_STATE">need</EVENT> desperately to eradicate diseases," Modesto <EVENT eid="e24" class="REPORTING">said</EVENT>. Editor: Jasmine
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL10" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie12" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t5" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t4" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL5" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL3" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL9" timeID="t3" relatedToEventInstance="ie8" relType="INCLUDES" />
+</TimeML>

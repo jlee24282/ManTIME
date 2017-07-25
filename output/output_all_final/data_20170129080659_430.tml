@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194925806</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Shocking: mother burns daughter for spilling flour</TITLE>
+
+
+<TEXT>
+Hyderabad: In an appalling incident, which <EVENT eid="e1" class="OCCURRENCE">occurred</EVENT> in Shadnagar on <TIMEX3 tid="t1" type="TIME" value="2017-01-27TNI">Friday night</TIMEX3>, a woman <EVENT eid="e2" class="OCCURRENCE">set</EVENT> her 10-year-old daughter ablaze for <EVENT eid="e3" class="OCCURRENCE">spilling</EVENT> the flour. Swarupa W/O Dubba Chennaiah is the resident of Chintagudem of Farooq Nagar mandal in Ranga Reddy district. Her daughter Dubba Radhika had <EVENT eid="e4" class="OCCURRENCE">spilled</EVENT> flour on the ground while <EVENT eid="e5" class="I_ACTION">carrying</EVENT> the aata (flour) from the shop for <EVENT eid="e6" class="OCCURRENCE">making</EVENT> chapatis. 
+ 
+<EVENT eid="e7" class="REPORTING">According</EVENT> to Shadnagar sub-inspector M. Dasu, Swarupa <EVENT eid="e8" class="OCCURRENCE">got</EVENT> angry over the fault and <EVENT eid="e9" class="OCCURRENCE">beat</EVENT> her up. Not satisfied, she <EVENT eid="e10" class="OCCURRENCE">dragged</EVENT> the girl into the house, <EVENT eid="e11" class="OCCURRENCE">took</EVENT> a bottle of kerosene and <EVENT eid="e12" class="OCCURRENCE">poured</EVENT> it on her. She <EVENT eid="e13" class="OCCURRENCE">took</EVENT> burning firewood from a choolha, <EVENT eid="e14" class="OCCURRENCE">set</EVENT> the girl ablaze and <EVENT eid="e15" class="OCCURRENCE">left</EVENT> her on the floor. Neighbours <EVENT eid="e16" class="OCCURRENCE">rushed</EVENT> the girl to the hospital. She is <EVENT eid="e17" class="OCCURRENCE">undergoing</EVENT> treatment at Osmania Hospital. She has <EVENT eid="e18" class="OCCURRENCE">suffered</EVENT> more than 70 per cent burns is <EVENT eid="e19" class="STATE">said</EVENT> to be in critical condition. Radhika is the eldest of the three children. 
+ 
+Police <EVENT eid="e20" class="REPORTING">registered</EVENT> an attempt-to-murder case against the mother. 
+ 
+<EVENT eid="e21" class="REPORTING">According</EVENT> to neighbours family is in acute financial crisis and Swarupa had attempted suicide some <TIMEX3 tid="t2" type="DURATION" value="PXY">years ago</TIMEX3> by <EVENT eid="e22" class="OCCURRENCE">consuming</EVENT> pesticide, since then she <EVENT eid="e23" class="OCCURRENCE">went</EVENT> into depression.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie14" relatedToEventInstance="ie13" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToEventInstance="ie15" relType="IDENTITY" />
+<TLINK lid="TL3" eventInstanceID="ie22" relatedToEventInstance="ie23" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+</TimeML>

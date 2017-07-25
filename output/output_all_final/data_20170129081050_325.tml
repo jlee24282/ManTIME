@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203508676</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Catholic Schools Week kicks off today in Aberdeen</TITLE>
+
+
+<TEXT>
+Catholic Schools Week <EVENT eid="e1" class="OCCURRENCE">starts</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-01-29">today</TIMEX3>.
+
+The Aberdeen Catholic School System is <EVENT eid="e2" class="OCCURRENCE">celebrating</EVENT> all week with the following events:  Sock Hop, <TIMEX3 tid="t2" type="DATE" value="X">1-3 p.m.</TIMEX3>, at Roncalli Elementary for preschoolers to sixth-graders and their families.  Book fair at Roncalli Elementary and Roncalli Primary, <TIMEX3 tid="t3" type="TIME" value="2017-01-29T08:00">8 a.m.</TIMEX3> to 3:30 p.m.
+
+ Elementary and primary dress-up day, <TIMEX3 tid="t4" type="DATE" value="X">Mustache</TIMEX3> Day.
+
+ Sixth grade is <EVENT eid="e3" class="OCCURRENCE">touring</EVENT> the Dacotah Prairie Museum.  Book fair at Roncalli Elementary and Roncalli Primary, <TIMEX3 tid="t5" type="DATE" value="X">8</TIMEX3> a.m. to <TIMEX3 tid="t6" type="TIME" value="2017-01-29T15:30">3:30 p.m.</TIMEX3>; elementary from 3:30 to 5:30 p.m.
+
+ Elementary and primary dress-up day, Book or Movie Character Day.
+
+ Sixth grade is <EVENT eid="e4" class="OCCURRENCE">touring</EVENT> the Dacotah Prairie Museum.
+
+ Kindergarten information night, <TIMEX3 tid="t7" type="TIME" value="2017-01-29T18:30">6:30 p.m.</TIMEX3> at Roncalli Primary.  Book fair at Roncalli Elementary and Roncalli Primary, 8 to <TIMEX3 tid="t8" type="DATE" value="X">11</TIMEX3> a.m.; elementary from <TIMEX3 tid="t9" type="TIME" value="2017-01-29T11:00">11 a.m.</TIMEX3> to <TIMEX3 tid="t10" type="DATE" value="X">1</TIMEX3> p.m.
+
+ All schools <TIMEX3 tid="t11" type="DURATION" value="PXD">dress-up day</TIMEX3>, Catholic Schools Week T-shirt with uniform bottoms.
+
+ All-school Mass, <TIMEX3 tid="t12" type="TIME" value="2017-01-29T01:30">1:30</TIMEX3> p.m., Roncalli High School, 1500 N. Dakota St. All are welcome.  Book fair at Roncalli Elementary and Roncalli Primary, <TIMEX3 tid="t13" type="DATE" value="X">8</TIMEX3> a.m. to 3:30 p.m.
+
+ Elementary and primary dress-up day, Crazy Hair Day.
+
+ Fourth grade invention convention.  Elementary and primary dress-up day, Color Wars; junior and senior high, Spirit Wear.
+
+ Roncalli Elementary Cavs Olympics, 9 to 10:30 a.m.
+
+ Boys basketball against Sisseton, Roncalli High School, varsity plays at <TIMEX3 tid="t14" type="DATE" value="X">8</TIMEX3> p.m.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

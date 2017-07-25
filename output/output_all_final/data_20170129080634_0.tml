@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695193826347</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>News and notes from Ashtabula</TITLE>
+
+
+<TEXT>
+AACS SCHOOL NEWS Students from every school in the Ashtabula Area City School District gave a monthly building update at <TIMEX3 tid="t1" type="TIME" value="2017-01-25TNI">Wednesday night</TIMEX3> s Board of Education meeting at Lakeside High School They received new Chromebooks and said they are playing new math games as well as enjoying family math night and family reading night at their schools They are learning about America Washington D C and the inauguration of a new president DID YOU KNOW Students successfully completing A Tech programs will receive a career passport that includes a resume occupational skills inventory and a listing of awards achievements certificates and one of three available career technical achievements AARP Driver Safety Class An American Association of Retired Persons AARP Driver Safety Program will be 10 30 a m to 3 30 p m <TIMEX3 tid="t2" type="DATE" value="2017-03-21">March 21</TIMEX3> at the Ashtabula Senior Center 4148 Main Ave The Ashtabula Senior Center is co sponsoring the program which was developed by AARP in <TIMEX3 tid="t3" type="DATE" value="1979">1979</TIMEX3> This program is a driver refresher course especially designed to meet the needs of older drivers Class size is limited to the first 15 seniors ages 55 and older who register Cost is 15 for AARP members 20 for non members To register call the Ashtabula Senior Center at 440 998 6750 BUMP BUMP BUMP To report dangerous potholes call the city s pothole hotline at 440 992 7100 BLOOD DRIVE A blood drive with the American Red Cross in honor of the late Peter Ducro will be held 3 7 p m <TIMEX3 tid="t4" type="DATE" value="2017-01-24">Tuesday</TIMEX3> at the Zaback Williams Ducro Funeral Home 500 W Prospect Road Ashtabula Enter through the back double doors <TIMEX3 tid="t5" type="DURATION" value="PXD">GROUNDHOG DAY</TIMEX3> Check out the groundhog on <TIMEX3 tid="t6" type="DATE" value="2017-01-26">Thursday</TIMEX3> ARTS CENTER EXHIBIT The newest gallery exhibit at the Ashtabula Arts Center Astral Planes Paintings and Sculptures by James Jones will be on display <TIMEX3 tid="t7" type="DATE" value="2017-01-27">beginning Friday</TIMEX3> An artist s reception free and open to the public will be 6 8 p m <TIMEX3 tid="t8" type="DATE" value="2017-01-27">Friday</TIMEX3> A native of Cleveland Jones spent many years teaching drawing and painting and doing commissioned portraits He recently <EVENT eid="e1" class="OCCURRENCE">moved</EVENT> his studio to the Ashtabula Harbor where he says he finds endless inspiration for his work SHELLEY TERRY covers the Ashtabula area for the Star Beacon 
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" timeID="t8" relatedToTime="t7" relType="IDENTITY" />
+</TimeML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200400479</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Channel24.co.za | Lundi  Tyamara: A happy soul who loved all</TITLE>
+
+
+<TEXT>
+While many South African musicians have <EVENT eid="e1" class="OCCURRENCE">died</EVENT> poor, Lundi Tyamaras cousin and manager, Anele Hlazo, <EVENT eid="e2" class="REPORTING">slammed</EVENT> rumours that the gospel star  who <EVENT eid="e3" class="OCCURRENCE">passed</EVENT> away at Edenvale Hospital on <TIMEX3 tid="t1" type="TIME" value="2017-01-27TMO">Friday morning</TIMEX3> after a short illness  <EVENT eid="e4" class="OCCURRENCE">died</EVENT> a pauper.... Tell is a complete voice of the world's media. We are constantly <EVENT eid="e5" class="OCCURRENCE">distributing</EVENT> news and information items every <TIMEX3 tid="t2" type="DATE" value="X">minute</TIMEX3> of the day from numerous number of news establishments, publishers and blogs to the general public. MetroTell.co.za is the one source for all the news and stories you <EVENT eid="e6" class="OCCURRENCE">love</EVENT>. <EVENT eid="e7" class="OCCURRENCE">images</EVENT>, logos, trademarks and copyrights on MetroTell.co.za are <EVENT eid="e8" class="STATE">owned</EVENT> by their respective owners.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie1" relatedToEventInstance="ie2" relType="AFTER" />
+</TimeML>

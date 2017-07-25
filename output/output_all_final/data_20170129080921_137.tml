@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200348700</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bad Habits Christians Should Drop</TITLE>
+
+
+<TEXT>
+Christians are <EVENT eid="e1" class="I_STATE">known</EVENT> for <EVENT eid="e2" class="OCCURRENCE">doing</EVENT> some good things: <EVENT eid="e3" class="OCCURRENCE">helping</EVENT> the poor, <EVENT eid="e4" class="OCCURRENCE">feeding</EVENT> the hungry, <EVENT eid="e5" class="OCCURRENCE">caring</EVENT> for the sick, <EVENT eid="e6" class="OCCURRENCE">uplifting</EVENT> the downtrodden, <EVENT eid="e7" class="OCCURRENCE">fighting</EVENT> for justice and many other feats of love.But Christians also own a poor reputation for numerous bad habits. Here are six things we must stop doingBEING JUDGEMENTALOne of the few sins Jesus repeatedly <EVENT eid="e8" class="OCCURRENCE">warns</EVENT> His followers not to do is be judgmental.Despite this, many Christians mistakenly <EVENT eid="e9" class="I_STATE">assume</EVENT> that withholding judgment is a form of accepting, <EVENT eid="e10" class="OCCURRENCE">condoning</EVENT> a
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

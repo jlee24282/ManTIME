@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196439885</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Vegan meringue kisses to sweeten your coffee</TITLE>
+
+
+<TEXT>
+Israeli innovation is behind a new meringue kiss sweetener that can <EVENT eid="e1" class="OCCURRENCE">double</EVENT> up as a replacement for sugar in a hot drink or a low calorie sweet treat of its own. 
+ 
+Lampados International, a family-owned company in Caesarea which specializes in tabletop sweeteners and health products, has <EVENT eid="e2" class="REPORTING">announced</EVENT> that it is <EVENT eid="e3" class="OCCURRENCE">launching</EVENT> Liteez, a next-gensweetener, at the ISM show in Cologne, <EVENT eid="e4" class="OCCURRENCE">starting</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-02-01">today throughFebruary 1, 2017</TIMEX3>. 
+ 
+The sweetener is shaped like a meringue, is egg-free, sugar-free, and vegan. 
+ 
+The meringue kisses can be <EVENT eid="e5" class="OCCURRENCE">added</EVENT> to a hot drink and will <EVENT eid="e6" class="OCCURRENCE">melt</EVENT> when <EVENT eid="e7" class="OCCURRENCE">stirred</EVENT>. Two Liteez contain about two calories instead of 20 calories in one teaspoon of table sugar. 
+ 
+The idea was to <EVENT eid="e8" class="OCCURRENCE">craft</EVENT> a whole new concept for a healthier, tasty, and indulgent sweetener to simply <EVENT eid="e9" class="OCCURRENCE">create</EVENT> a new experience for coffee and tea or as a casual snack, <EVENT eid="e10" class="REPORTING">says</EVENT> Noam Kaplan, CEO of Lampados. 
+ 
+The patent-pending vegan meringue kiss is a plant-based snack, free from allergens such as eggs, gluten, lactose, or nuts, and <EVENT eid="e11" class="OCCURRENCE">contains</EVENT> only six simple ingredients. 
+ 
+Many consumers crave something sweet both in and with their coffee, <EVENT eid="e12" class="REPORTING">says</EVENT> Kaplan. Our new kiss fulfills both needs for a delicious, low-cal sweetener or as an indulgent dessert, without compromising on taste and while <EVENT eid="e13" class="OCCURRENCE">helping</EVENT> with weight management. 
+ 
+Liteez was <EVENT eid="e14" class="OCCURRENCE">developed</EVENT> in collaboration with Practical Innovation, Israel, an award-winning global innovation company. 
+ 
+Our mission was to <EVENT eid="e15" class="OCCURRENCE">help</EVENT> a traditional sweetener company <EVENT eid="e16" class="OCCURRENCE">make</EVENT> a completely novel product that takes the concept of sweet indulgence to a unique level, <EVENT eid="e17" class="REPORTING">says</EVENT> Tal Laizer, CEO of Practical Innovation.This is not just a new sweetener but an entirely new look and <EVENT eid="e18" class="OCCURRENCE">feel</EVENT> a complete 3D flavor experience. 
+ 
+Liteez uses a vegetable protein that has the ability to foam like eggs to <EVENT eid="e19" class="I_ACTION">help create</EVENT> the desired kiss texture and form. Sugars functionality is <EVENT eid="e20" class="OCCURRENCE">replaced</EVENT> with prebiotic fibers to <EVENT eid="e21" class="OCCURRENCE">form</EVENT> a stable foam and <EVENT eid="e22" class="OCCURRENCE">maintain</EVENT> the kiss shape, while being highly soluble in hot drinks, such as coffee or tea. 
+ 
+We <EVENT eid="e23" class="OCCURRENCE">hear</EVENT> a lot about sugar tax andsugar reduction. At <TIMEX3 tid="t2" type="DURATION" value="PXD">the end of the day</TIMEX3>, consumers seek healthier sweetening choices, but they dont want to <EVENT eid="e24" class="OCCURRENCE">skip</EVENT> indulgent experience, <EVENT eid="e25" class="REPORTING">says</EVENT> Kaplan. 
+ 
+[embedded content]
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie7" relatedToEventInstance="ie5" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL5" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL4" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie6" relType="AFTER" />
+</TimeML>

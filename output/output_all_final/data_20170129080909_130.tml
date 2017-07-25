@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199779824</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Musa: Search for missing China tourists intensified</TITLE>
+
+
+<TEXT>
+KOTA KINABALU: The search and rescue operation is being <EVENT eid="e1" class="OCCURRENCE">stepped</EVENT> up near Pulau Tiga where the skipper and a crewman of the missing catamaran with 28 China tourists were <EVENT eid="e2" class="OCCURRENCE">found</EVENT>. 
+
+Chief Minister Datuk Seri Musa Aman <EVENT eid="e3" class="REPORTING">said</EVENT> that he has <EVENT eid="e4" class="I_ACTION">directed</EVENT> for the operation to be <EVENT eid="e5" class="OCCURRENCE">intensified</EVENT>. 
+
+"I have <EVENT eid="e6" class="OCCURRENCE">directed</EVENT> the search and rescue mission to <EVENT eid="e7" class="OCCURRENCE">utilise</EVENT> spotter planes to <EVENT eid="e8" class="OCCURRENCE">improve</EVENT> the chances of <EVENT eid="e9" class="OCCURRENCE">finding</EVENT> the others," he <EVENT eid="e10" class="REPORTING">said</EVENT>. 
+
+He <EVENT eid="e11" class="REPORTING">said</EVENT> the Malaysian Maritime Enforcement Agency (MMEA) has <EVENT eid="e12" class="I_ACTION">mobilised</EVENT> the necessary vessels, equipment and manpower for the search and rescue mission. 
+
+"I am <EVENT eid="e13" class="REPORTING">told</EVENT> that the MMEA, the Royal Malaysian Navy and the Marine Operations Force have <EVENT eid="e14" class="OCCURRENCE">mounted</EVENT> an operation involving some 400 sq miles," he <EVENT eid="e15" class="REPORTING">said</EVENT> in a statement <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+
+"The authorities are <EVENT eid="e16" class="OCCURRENCE">doing</EVENT> those level best to <EVENT eid="e17" class="OCCURRENCE">find</EVENT> them. I know this a difficult time for the families. Our thoughts and prayers are with them," he <EVENT eid="e18" class="REPORTING">said</EVENT>. 
+
+He also <EVENT eid="e19" class="REPORTING">said</EVENT> boat operators should <EVENT eid="e20" class="OCCURRENCE">exercise</EVENT> greater caution when <EVENT eid="e21" class="OCCURRENCE">taking</EVENT> people to sea, especially when the weather conditions are rough. 
+
+The skipper of the boat and a crewman were <EVENT eid="e22" class="OCCURRENCE">found</EVENT> near Pulau Tiga at about 2pm on <TIMEX3 tid="t2" type="DATE" value="2017-01-29">Sunday</TIMEX3>. 
+
+The boat was <EVENT eid="e23" class="OCCURRENCE">reported missing</EVENT> at 9.50pm <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3> after it <EVENT eid="e24" class="OCCURRENCE">set</EVENT> sail from Tanjung Aru jetty at 9am to Pulau Mengalum.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL4" timeID="t3" relatedToEventInstance="ie23" relType="INCLUDES" />
+<TLINK lid="TL3" eventInstanceID="ie23" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie24" relatedToTime="t3" relType="AFTER" />
+</TimeML>

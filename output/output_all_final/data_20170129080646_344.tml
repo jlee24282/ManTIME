@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194479475</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Bulls win over young Lions in Harare</TITLE>
+
+
+<TEXT>
+In the earlier <EVENT eid="e1" class="OCCURRENCE">game</EVENT> in Harare on Saterday the Bulls <EVENT eid="e2" class="OCCURRENCE">got</EVENT> a comfortable <EVENT eid="e3" class="OCCURRENCE">win</EVENT> of 38-17 over the Lions in their first warm-up match. 
+ 
+The Lions <EVENT eid="e4" class="REPORTING">send</EVENT> a very young team to Zimbabwe and the Bulls <EVENT eid="e5" class="OCCURRENCE">had</EVENT> very little trouble in <EVENT eid="e6" class="OCCURRENCE">getting</EVENT> the victory over their Gauteng Neighbors. 
+ 
+The Bulls <EVENT eid="e7" class="OCCURRENCE">led</EVENT> 21-10 at the break with Bothman and De Jager <EVENT eid="e8" class="OCCURRENCE">going</EVENT> over for tries with the Lions getting a penalty <EVENT eid="e9" class="OCCURRENCE">try</EVENT> in the first forty. 
+ 
+In the <TIMEX3 tid="t1" type="DATE" value="X">second half</TIMEX3>, Jamba Ulengo, Hanro Liebenberg and Shaun Adendorff all <EVENT eid="e10" class="OCCURRENCE">added</EVENT> their names to the try-scoring tally as the Pretoria-based side <EVENT eid="e11" class="OCCURRENCE">came</EVENT> away with the desired <EVENT eid="e12" class="OCCURRENCE">result</EVENT>. 
+ 
+The Bulls are <EVENT eid="e13" class="I_STATE">set</EVENT> to <EVENT eid="e14" class="OCCURRENCE">kick</EVENT> off their Super Rugby campaign against the Stormers on <TIMEX3 tid="t2" type="DATE" value="2017-02">25 February</TIMEX3>, while the Lions will <EVENT eid="e15" class="OCCURRENCE">get</EVENT> their season underway with a <EVENT eid="e16" class="OCCURRENCE">clash</EVENT> against the Cheetahs in Bloemfontein on <TIMEX3 tid="t3" type="DURATION" value="PXD">the same day</TIMEX3>. 
+ 
+Bulls  15 Manie Libbok, 14 Luther Obi, 13 Johnny Ktze, 12 JT Jackson, 11 Rabs Maxwane, 10 Tony Jantjies, 9 Andre Warner, 8 Renaldo Botha, 7 Hendre Stassen, 6 Nick de Jager (c), 5 Abongile Nonkontwana, 4 Ruben van Heerden, 3 Jacobie Adriaanse, 2 Edgar Marutlulle, 1 Lizo Gqoboka. 
+Subs: 16 Francois Brummer, 17 Franco Naude, 18 Pierre Schoeman, 19 Corniel Els, 20 Coenraad van Vuuren, 21 RG Snyman, 22 Shaun Adendorff, 23 Hanro Liebenberg, 24 Ivan van Zyl, 25 Tian Schoeman, 26 Burger Odendaal, 27 Dries Swanepoel, 28 Jamba Ulengo, 29 Stade Stiglingh, 30 Warrick Gelant. 
+ 
+Lions squad  Le Roux Baard, Ruan Brits, Jean-Luc Cilliers, Ashlon Davids, Bobby de Wee, Hacjivah Dyamani, JP du Preez, Dean Gordon, Wiehan Jacobs, Marco Janse van Vuren, Pieter Jansen, Kyle Kruger, Gerrie Labuschagne, Jan-Louis Le Grange, Koch Marx, Siya Masuku, Stean Pienaar, Jarryd Sage, Pieter Scholtz, Victor Sekekete, Bheki Shongwe, Sthi Sithole, Adr Smit, Wayne van der Bank, Morne van den Berg, Gerdus van der Walt, Jano Venter, Jaco Willemse.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToTime="t2" relType="IS_INCLUDED" />
+</TimeML>

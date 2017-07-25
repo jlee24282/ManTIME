@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201579417</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Oil cash bonanza: Will MPs be man enough to stand up to intimidation?</TITLE>
+
+
+<TEXT>
+Following the <EVENT eid="e1" class="OCCURRENCE">collapse</EVENT> of the stupid court order Parliament has <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e2" class="OCCURRENCE">commenced investigations</EVENT> into the Shs6b oil cash bonanza.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie2" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie2" relType="INCLUDES" />
+</TimeML>

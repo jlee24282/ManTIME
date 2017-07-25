@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695205089411</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>A Game-Changer in How Women Shop Premium Athletic Wear January 29, 2017NYLON BEE, an online store carrying women's premium athletic wear brands at prices reduced to 70% off, launches March 8th, 2017</TITLE>
+
+
+<TEXT>
+Learning that mothers are desperate for easy access to deals for luxury, stylish athletic wear, two friends who <EVENT eid="e1" class="OCCURRENCE">bonded</EVENT> over motherhood and love athleisure fashionWellness Entrepreneur Katya Hegg and Multimedia Director Carla Susanto <EVENT eid="e2" class="OCCURRENCE">launched</EVENT> nylonbee.com, an online store selling discounted premium and fashionable athletic wear. 
+ 
+Finding deals eats up people's time. Most of us simply do not <EVENT eid="e3" class="I_STATE">know</EVENT> where to <EVENT eid="e4" class="OCCURRENCE">go</EVENT> besides the obvious, market-dominating labels. They have <EVENT eid="e5" class="OCCURRENCE">limited</EVENT> things on sale. Multi-tasking mothers like ourselves do not have time to leisurely browse online for deals or to <EVENT eid="e6" class="OCCURRENCE">wait</EVENT> around for a sale. <EVENT eid="e7" class="REPORTING">says</EVENT> Carla. 
+ 
+Katya breaks down the void in the market, <EVENT eid="e8" class="REPORTING">saying</EVENT>, "As a working mom committed to health and wellness, I experience firsthand the challenges faced by busy women who <EVENT eid="e9" class="I_STATE">struggle</EVENT> to <EVENT eid="e10" class="OCCURRENCE">find</EVENT> enough hours in <TIMEX3 tid="t1" type="DURATION" value="PXD">the day</TIMEX3> to <EVENT eid="e11" class="OCCURRENCE">exercise</EVENT>, <EVENT eid="e12" class="OCCURRENCE">let</EVENT> alone shop for themselves without <EVENT eid="e13" class="OCCURRENCE">breaking</EVENT> the bank." 
+ 
+Starting with meetings at Brooklyn coffee shops during school <TIMEX3 tid="t2" type="DURATION" value="PTXH">hours</TIMEX3>, Katya and Carla <EVENT eid="e14" class="OCCURRENCE">created</EVENT> Nylonbee.com from scratch. We <EVENT eid="e15" class="STATE">do</EVENT> all the <EVENT eid="e16" class="OCCURRENCE">curating</EVENT>, the deal-haggling and the quality-testing so you can shop confidently," affirms Katya. 
+ 
+Nylonbee.com carries a myriad of indie premium brands like Manduka, Tonic, Alexis Mera, Karma, Roic + Bru, Hallow and Plank, Noli Yoga, Liquido, Baggu, Vooray, and many more. The website will be launch on <TIMEX3 tid="t3" type="DATE" value="2017-03">March 8th</TIMEX3>. Nylonbee.com also will <EVENT eid="e17" class="OCCURRENCE">host</EVENT> pop-up shops in Brooklyn and Manhattan. 
+ 
+To <EVENT eid="e18" class="OCCURRENCE">learn</EVENT> more about Nylonbee.com and for interview opportunities and cross-promotion collaboration, contact katya(at)nylonbee.com 
+  
+Share article on social media or email
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie9" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie13" relatedToTime="t1" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="AFTER" />
+</TimeML>

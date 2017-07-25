@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194966381</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>COLLEGE WRESTLING: Pack wrestlers upset No. 2 UNK</TITLE>
+
+
+<TEXT>
+The No. 13 CSU-Pueblo wrestling team upset No. 2 Nebraska-Kearney on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3> at Massari Arena. 
+ 
+The ThunderWolves (8-5, 2-2 RMAC) have <EVENT eid="e1" class="OCCURRENCE">won</EVENT> five duals against nationally <EVENT eid="e2" class="I_ACTION">ranked</EVENT> opponents this season. 
+ 
+The Pack <EVENT eid="e3" class="OCCURRENCE">jumped</EVENT> out to a 9-0 lead with a 9-4 victory at 125 by Josiah Seaton (So., Bonner Springs, Kan.). Junior PT Garcia (Denver, Colo.) <EVENT eid="e4" class="OCCURRENCE">followed</EVENT> with a quick pin at 133. His <TIMEX3 tid="t2" type="DURATION" value="PXF">second fall</TIMEX3> of the season <EVENT eid="e5" class="OCCURRENCE">came</EVENT> in just <TIMEX3 tid="t3" type="DATE" value="X">39 seconds</TIMEX3>. 
+ 
+The ThunderWolves <EVENT eid="e6" class="OCCURRENCE">lost</EVENT> the next four bouts, but a No. 7 Kyle Bateman second-period pin (4:42) at 174 <EVENT eid="e7" class="OCCURRENCE">tied</EVENT> the match at <TIMEX3 tid="t4" type="DATE" value="X">15-15</TIMEX3>. He <EVENT eid="e8" class="STATE">owns</EVENT> six falls this season, two in dual format. 
+ 
+Ranked No. 5 nationally, JaVaughn Perkins <EVENT eid="e9" class="I_ACTION">kept</EVENT> the momentum going with a 5-2 <EVENT eid="e10" class="OCCURRENCE">decision</EVENT> and the home team <EVENT eid="e11" class="OCCURRENCE">led</EVENT> 18-15. Junior Cody Johnson may have <EVENT eid="e12" class="OCCURRENCE">posted</EVENT> his biggest win of the season, as a two-point near <TIMEX3 tid="t5" type="DURATION" value="PXF">fall late</TIMEX3> in the third, plus riding time, <EVENT eid="e13" class="OCCURRENCE">secured</EVENT> an 8-0 major decision victory at 197. The win <EVENT eid="e14" class="OCCURRENCE">opened</EVENT> a seven-point lead in the dual, 22-15. 
+ 
+The Lopers <EVENT eid="e15" class="OCCURRENCE">earned</EVENT> a pin in the final bout, the fourth overall fall of the dual, but it was not enough, as the ThunderWolves <EVENT eid="e16" class="OCCURRENCE">moved</EVENT> to 3-0 at home.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t3" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie9" relatedToEventInstance="ie11" relType="IDENTITY" />
+<TLINK lid="TL1" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="IDENTITY" />
+<TLINK lid="TL4" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+</TimeML>

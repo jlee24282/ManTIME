@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197752658</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Renowned opera singer to perform during Northwestern chapel service (1/28/17) ORANGE CITY  Internationally renowned opera star Simon Estes will perform during a Northwestern College chapel service at 11:05 a.m., Tuesday, Feb. 14, in Christ Chapel. The ev</TITLE>
+
+
+<TEXT>
+Simon Estes 
+  
+ORANGE CITY  Internationally renowned opera star Simon Estes will <EVENT eid="e1" class="OCCURRENCE">perform</EVENT> during a Northwestern College chapel service at <TIMEX3 tid="t1" type="TIME" value="2017-01-29T11:05">11:05 a.m.</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-24">Tuesday</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2017-02-14">Feb. 14</TIMEX3>, in Christ Chapel. The event is free and open to the public. 
+ 
+A native of Centerville, Iowa, Estes has <EVENT eid="e2" class="OCCURRENCE">performed</EVENT> with 84 major international opera companies, including the Deutsche Oper Berlin, the Metropolitan Opera, the Paris Opera, Royal Opera House Covent Garden, the San Francisco Opera and the Zurich Opera House. As a recitalist and orchestra soloist, he has also <EVENT eid="e3" class="OCCURRENCE">performed</EVENT> with 115 orchestras, including the Boston and Chicago symphonies, the London Philharmonic Orchestra, New York Philharmonic and Sydney Symphony Orchestra. 
+ 
+As a pre-med and psychology student at the University of Iowa, Estes <EVENT eid="e4" class="OCCURRENCE">became</EVENT> the first black member of the universitys Old Gold Singers. Estes was later <EVENT eid="e5" class="OCCURRENCE">awarded</EVENT> a full scholarship to <EVENT eid="e6" class="OCCURRENCE">attend</EVENT> Julliard School of Music and in <TIMEX3 tid="t4" type="DATE" value="1965">1965</TIMEX3>, he <EVENT eid="e7" class="I_ACTION">made</EVENT> his operatic debut with Deutsche Oper as Ramfis in Aida. 
+ 
+Among his notable recitals, Estes has <EVENT eid="e8" class="OCCURRENCE">performed</EVENT> at the White House for President George H.W. Bush and Lyndon Johnson and <EVENT eid="e9" class="OCCURRENCE">sung</EVENT> at the inaugural concert of the Kennedy Center. He is the only singer to <EVENT eid="e10" class="OCCURRENCE">perform</EVENT> for both the 25th and 50th anniversaries of the United Nations. Hes also <EVENT eid="e11" class="OCCURRENCE">performed</EVENT> with musicians like Johnny Cash, Ray Charles, John Denver, Whitney Houston and Barry Manilow. 
+ 
+Despite being <EVENT eid="e12" class="OCCURRENCE">known</EVENT> for his opera, concert and recital performances and national TV appearances, Estes is also <EVENT eid="e13" class="OCCURRENCE">dedicated</EVENT> to <EVENT eid="e14" class="I_ACTION">sharing</EVENT> his knowledge and love of music to students. He <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">currently</TIMEX3> <EVENT eid="e15" class="STATE">serves</EVENT> as a professor at Iowa State University and Wartburg College. He has <EVENT eid="e16" class="OCCURRENCE">created</EVENT> four scholarship organizations in the United States; a young artist performance program for Iowa youth; a foundation for children in Zurich, Switzerland; and a school for underprivileged children in Cape Town, South Africa. 
+ 
+Estes earned a bachelors degree in music from the University of Iowa and has been <EVENT eid="e17" class="OCCURRENCE">awarded</EVENT> honorary doctorates from Drake University, Iowa State University, Lawrence University, Siena College and the University of Tulsa. He <EVENT eid="e18" class="OCCURRENCE">received</EVENT> the Gold Medal of Gran Teatre del Liceu in Barcelona, Spain, and has been <EVENT eid="e19" class="OCCURRENCE">honored</EVENT> by Gov. Terry Branstad with the Iowa Award and the Dr. Martin Luther King Jr. Achievement Award.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="NONE" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="ADJECTIVE" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="NONE" aspect="NONE" polarity="POS" modality="MUST" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t5" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL2" timeID="t2" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

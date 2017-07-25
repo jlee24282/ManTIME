@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198237116</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Action (64.73 ft) - Observation - CLAC1 - Sacramento River at Colusa Weir (California)</TITLE>
+
+
+<TEXT>
+Historic Crests 
+(1) 70.60 <EVENT eid="e1" class="OCCURRENCE">ft</EVENT> on 03/01/1940 
+(2) 68.96 <EVENT eid="e2" class="OCCURRENCE">ft</EVENT> on 03/04/1983 
+(3) 68.85 <EVENT eid="e3" class="OCCURRENCE">ft</EVENT> on 01/03/1997 
+(4) 68.80 <EVENT eid="e4" class="OCCURRENCE">ft</EVENT> on 02/21/1958 
+(5) 68.80 <EVENT eid="e5" class="OCCURRENCE">ft</EVENT> on <TIMEX3 tid="t1" type="DATE" value="1958-02-26">02/26/1958</TIMEX3> 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+Recent Crests 
+(1) 67.14 <EVENT eid="e6" class="OCCURRENCE">ft</EVENT> on 03/14/2016 
+(2) 64.56 <EVENT eid="e7" class="OCCURRENCE">ft</EVENT> on 03/08/2016 
+(3) 64.33 <EVENT eid="e8" class="OCCURRENCE">ft</EVENT> on 01/31/2016 
+(4) 63.79 <EVENT eid="e9" class="OCCURRENCE">ft</EVENT> on 01/25/2016 
+(5) 66.20 <EVENT eid="e10" class="OCCURRENCE">ft</EVENT> on <TIMEX3 tid="t2" type="DATE" value="2016-01-21">01/21/2016</TIMEX3> 
+Show More Recent Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Currently</TIMEX3> none available.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL0" timeID="t2" relatedToEventInstance="ie10" relType="INCLUDES" />
+</TimeML>

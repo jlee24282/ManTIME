@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201893553</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>Secrets, History, and Facts: Churchill Downs</TITLE>
+
+
+<TEXT>
+There's more to this racetrack than the Kentucky Derby. <EVENT eid="e1" class="OCCURRENCE">Founded</EVENT> in <TIMEX3 tid="t1" type="DATE" value="1875">1875</TIMEX3> by the grandson of explorer William Clark, Meriwether Lewis Clark Jr., this racetrack is best known as the site of the annual Kentucky Derby[1]. After <EVENT eid="e2" class="OCCURRENCE">witnessing</EVENT> the Epsom Derby in England, Clark was <EVENT eid="e3" class="I_STATE">determined</EVENT> to <EVENT eid="e4" class="OCCURRENCE">transform</EVENT> Lexington's humble horse races into a spectacular, international event. He <EVENT eid="e5" class="OCCURRENCE">leased</EVENT> the land from two of his uncles, John and Henry Churchill, and <EVENT eid="e6" class="OCCURRENCE">named</EVENT> the track after them. A century after the first ma...
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie3" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+</TimeML>

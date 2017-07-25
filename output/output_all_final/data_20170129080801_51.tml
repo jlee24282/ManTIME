@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695196990331</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>'Human snake' girl thrown out of school because her appearance scares other kids</TITLE>
+
+
+<TEXT>
+A teenage girl who sheds her skin every <TIMEX3 tid="t1" type="DURATION" value="P2M">two months</TIMEX3> because of an ultra-rare condition has been cruelly likened to a 'human snake' Shalini Yadav 16 needs to constantly smear her body with moisturizer to stop it from hardening and seizing upThe youngster's family are so poor they cannot afford that and need to spend their money on providing food for eight people including her grandparents According to Daily Mirror  the Indian teenager had been thrown out of school because of her extraordinary appearance 
+
+Doctors have diagnosed Erythroderma an inflammatory skin disease also known as 'red man syndrome' but are unable to treat it 
+
+It causes the skin over almost the entire body to become scaly and flake off 
+
+Shalini has shed her skin every <TIMEX3 tid="t2" type="DURATION" value="P45D">45 days</TIMEX3> since she was born 
+
+She has to soak her body in water <TIMEX3 tid="t3" type="SET" value="P1H">every hour</TIMEX3> -- night and <TIMEX3 tid="t4" type="DURATION" value="PXD">day</TIMEX3> -- and smear himself with lotion every <TIMEX3 tid="t5" type="DURATION" value="PT3H">three hours</TIMEX3> to prevent drying out 
+
+Her desperate mother Devkunwar said 
+
+"Shalini is suffering from the disease since childhoodWe saw several doctors but none of them could cure her and her condition has continued to get worseI feel so helpless when I see her skin coming off causing excruciating pain to my child This disease is not <EVENT eid="e1" class="OCCURRENCE">killing</EVENT> her but taking her life bit by bit"We have no idea where to <EVENT eid="e2" class="OCCURRENCE">go</EVENT> to and who to consult"It is better to die than living a life of misery" Shalini said "I wanted to study but they threw me out of school as the children would get scared by seeing my face
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+</TimeML>

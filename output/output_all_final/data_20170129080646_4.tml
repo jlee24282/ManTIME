@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695194224238</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Masaba, Super Polygamist Who Married 97 Wives, is Dead</TITLE>
+
+
+<TEXT>
+Nseobong Okon-Ekong and Laleye Dipo in Minna 
+ 
+Fame comes in many ways. For Mohammed Bello Masaba, the Bida, Niger State-based Islamic cleric who <EVENT eid="e1" class="OCCURRENCE">died</EVENT> at <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">the weekend</TIMEX3>, his rise to global prominence was <EVENT eid="e2" class="OCCURRENCE">linked</EVENT> to marriage to 97 wives, an unprecedented nuptial liberty which <EVENT eid="e3" class="OCCURRENCE">attracted</EVENT> attention worldwide. 
+ 
+Reports <EVENT eid="e4" class="OCCURRENCE">put</EVENT> the time of his <EVENT eid="e5" class="OCCURRENCE">death</EVENT> at 11:00 am on <TIMEX3 tid="t2" type="DATE" value="2017-01-28">Saturday</TIMEX3> after a brief <EVENT eid="e6" class="OCCURRENCE">illness</EVENT>. 
+His Secretary, Alhaji Mutairu Salawudeen Bello, <EVENT eid="e7" class="OCCURRENCE">confirmed</EVENT> his death on <TIMEX3 tid="t3" type="DATE" value="2017-01-28">Saturday</TIMEX3> <EVENT eid="e8" class="REPORTING">saying</EVENT> the remains would be <EVENT eid="e9" class="OCCURRENCE">buried</EVENT> <TIMEX3 tid="t4" type="DATE" value="2017-01-29">today</TIMEX3> (<TIMEX3 tid="t5" type="DATE" value="2017-01-29">Sunday</TIMEX3>) at <TIMEX3 tid="t6" type="DATE" value="X">10.00am</TIMEX3>. 
+ 
+News of the <EVENT eid="e10" class="OCCURRENCE">demise</EVENT> of the 93-year-old cleric was <EVENT eid="e11" class="OCCURRENCE">kept</EVENT> secret for <TIMEX3 tid="t7" type="DURATION" value="PXH">several hours</TIMEX3> on <TIMEX3 tid="t8" type="DATE" value="2017-01-28">Saturday</TIMEX3> especially after he did not <EVENT eid="e12" class="OCCURRENCE">come</EVENT> out in <TIMEX3 tid="t9" type="DURATION" value="PTXH">the early hours</TIMEX3> of <TIMEX3 tid="t10" type="DURATION" value="PXD">the day</TIMEX3> to <EVENT eid="e13" class="OCCURRENCE">lead</EVENT> the Tafsir, a gathering for the learning of the Quran as he <EVENT eid="e14" class="I_ACTION">used</EVENT> to <EVENT eid="e15" class="OCCURRENCE">do</EVENT> weekly. 
+ 
+THISDAY checks <EVENT eid="e16" class="REPORTING">confirmed</EVENT> the cleric was conspicuously <EVENT eid="e17" class="STATE">absent</EVENT> at the 
+  
+Read More.. Thisday Newspapers
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="ADJECTIVE" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="MAY" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie5" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL17" timeID="t9" relatedToTime="t10" relType="ENDED_BY" />
+<TLINK lid="TL16" timeID="t8" relatedToTime="t7" relType="INCLUDES" />
+<TLINK lid="TL15" timeID="t8" relatedToTime="t10" relType="INCLUDES" />
+<TLINK lid="TL14" timeID="t8" relatedToEventInstance="ie10" relType="INCLUDES" />
+<TLINK lid="TL13" timeID="t8" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL12" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL11" eventInstanceID="ie7" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL10" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL19" timeID="t5" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL18" timeID="t4" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL3" eventInstanceID="ie11" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie11" relatedToTime="t8" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToTime="t10" relType="BEGINS" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie12" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie8" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie12" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="BEFORE" />
+<TLINK lid="TL4" eventInstanceID="ie13" relatedToTime="t10" relType="ENDED_BY" />
+<TLINK lid="TL22" timeID="t3" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL23" timeID="t3" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL20" timeID="t2" relatedToEventInstance="ie5" relType="INCLUDES" />
+<TLINK lid="TL21" timeID="t2" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL24" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL25" timeID="t3" relatedToTime="t4" relType="IDENTITY" />
+<TLINK lid="TL26" timeID="t3" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL9" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+</TimeML>

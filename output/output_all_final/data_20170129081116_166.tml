@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204334324</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170127" temporalFunction="false" functionInDocument="CREATION_TIME">January 27, 2017</TIMEX3></DCT>
+
+<TITLE>American Airlines Makes 2016 Net Profit Of USD$2.7 Bln</TITLE>
+
+
+<TEXT>
+American Airlines <EVENT eid="e1" class="REPORTING">reported</EVENT> <TIMEX3 tid="t1" type="DATE" value="2017-Q4">fourth quarter</TIMEX3> and <TIMEX3 tid="t2" type="DATE" value="2016">2016</TIMEX3> full <TIMEX3 tid="t3" type="DURATION" value="PXY">year</TIMEX3> <EVENT eid="e2" class="OCCURRENCE">results</EVENT> on <TIMEX3 tid="t4" type="DATE" value="2017-01-27">Friday</TIMEX3> <EVENT eid="e3" class="OCCURRENCE">showing</EVENT> a USD$2.7 billion net profit for <TIMEX3 tid="t5" type="DURATION" value="P1Y">the year</TIMEX3>. 
+ 
+<TIMEX3 tid="t6" type="DATE" value="2017-Q4">Fourth quarter</TIMEX3> net <EVENT eid="e4" class="STATE">income</EVENT> was $289 million, down from the same period in 2015s $3.28 billion. The <TIMEX3 tid="t7" type="DATE" value="2017-Q1">prior quarters</TIMEX3> headline profit was due to a one-off tax benefit. For comparison, income before tax for Q4 was $500 million in <TIMEX3 tid="t8" type="DATE" value="2016">2016</TIMEX3>, against $244 million in <TIMEX3 tid="t9" type="DATE" value="2015">2015</TIMEX3>. 
+ 
+Operating revenue for <TIMEX3 tid="t10" type="DATE" value="2017-Q1">the quarter</TIMEX3> to <EVENT eid="e5" class="OCCURRENCE">end</EVENT> <TIMEX3 tid="t11" type="DATE" value="2016-12">December 2016</TIMEX3> was $9.79 billion, up 1.7 percent from the prior years $9.63 billion, but expenses <EVENT eid="e6" class="OCCURRENCE">hit</EVENT> $9.02 billion from $8.56 billion in <TIMEX3 tid="t12" type="DATE" value="2015">2015</TIMEX3>, a rise of 5.4 percent. 
+ 
+For the full <TIMEX3 tid="t13" type="DATE" value="2016">year 2016</TIMEX3>, American <EVENT eid="e7" class="OCCURRENCE">made</EVENT> a $2.68 billion net profit on income of $40.18 billion. Expenses for <TIMEX3 tid="t14" type="DURATION" value="P1Y">the year</TIMEX3> were $34.9 billion, a 0.3 percent increase. 
+ 
+The mainline cost per available seat mile (CASM) in <TIMEX3 tid="t15" type="DATE" value="2016">2016</TIMEX3> was down 0.8 percent on a 1.0 percent capacity increase in available seat mile (ASM) terms. Mainline passenger load factor <EVENT eid="e8" class="OCCURRENCE">dropped</EVENT> one percentage point to 82.3 percent. 
+ 
+American <EVENT eid="e9" class="REPORTING">said</EVENT> it <EVENT eid="e10" class="OCCURRENCE">added</EVENT> 55 new mainline and 42 new regional aircraft to its fleet during <TIMEX3 tid="t16" type="DURATION" value="P1Y">the year</TIMEX3> at a cost of $4.4 billion. 
+ 
+(Airwise)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie5" relatedToTime="t11" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie5" relatedToTime="t10" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToTime="t16" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t16" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t16" relatedToEventInstance="ie10" relType="DURING" />
+<TLINK lid="TL6" eventInstanceID="ie2" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie3" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL8" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

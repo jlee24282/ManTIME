@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198202545</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>[Watch] Chinese chef busts awesome moves while cooking special noodle dish</TITLE>
+
+
+<TEXT>
+Image capture of video by Gistmania   A Chinese chef <EVENT eid="e1" class="OCCURRENCE">wows</EVENT> as he dances to a beat while <EVENT eid="e2" class="OCCURRENCE">preparing</EVENT> a noodle dish  He <EVENT eid="e3" class="OCCURRENCE">uses</EVENT> a single piece of really long noodle to <EVENT eid="e4" class="OCCURRENCE">make</EVENT> the dish aptly <EVENT eid="e5" class="OCCURRENCE">called</EVENT> one noodle  The chef is a local celebrity because of his antics while <EVENT eid="e6" class="OCCURRENCE">cooking</EVENT> the specialty dish  
+A Chinese chef wows customers not only withhis impressive cooking skills but also with his awesome dance moves. 
+ 
+The chef, who has <EVENT eid="e7" class="OCCURRENCE">become</EVENT> an online sensation after he was <EVENT eid="e8" class="OCCURRENCE">filmed</EVENT> preparing a specialty dish using a really long piece of noodle, can be <EVENT eid="e9" class="OCCURRENCE">seen</EVENT> on the footage dancing to the beat as he <EVENT eid="e10" class="OCCURRENCE">throws</EVENT> the thin noodle to a pot of boiling water. 
+ 
+The <EVENT eid="e11" class="OCCURRENCE">video</EVENT> has been <EVENT eid="e12" class="OCCURRENCE">shared</EVENT> on Chinese micro-blogging website Weibo and on YouTube. 
+ 
+In the footage, a woman shopkeeper could be <EVENT eid="e13" class="OCCURRENCE">heard telling</EVENT> customers: There is only one noodle. 
+ 
+As per the Daily Mail, the dancing chef is <EVENT eid="e14" class="OCCURRENCE">preparing</EVENT> a dish aptly <EVENT eid="e15" class="OCCURRENCE">called</EVENT> one noodle. Eating a bowl of this specialty noodle soup <EVENT eid="e16" class="OCCURRENCE">served</EVENT> during birthdays is <EVENT eid="e17" class="STATE">said</EVENT> to <EVENT eid="e18" class="OCCURRENCE">bring</EVENT> good luck and longevity, according to Chinese customs. 
+ 
+<EVENT eid="e19" class="OCCURRENCE">Watch</EVENT> the amazing chef <EVENT eid="e20" class="OCCURRENCE">busts</EVENT> a move while <EVENT eid="e21" class="OCCURRENCE">preparing</EVENT> one noodle: 
+ 
+[embedded content]
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie21" relatedToEventInstance="ie19" relType="BEFORE" />
+<TLINK lid="TL4" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="BEFORE" />
+<TLINK lid="TL3" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie16" relatedToEventInstance="ie17" relType="INCLUDES" />
+</TimeML>

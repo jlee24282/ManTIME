@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695198800547</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>New tech lets you control smartwatches with just your breath!</TITLE>
+
+
+<TEXT>
+You may <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">take</EVENT> calls by simply <EVENT eid="e2" class="OCCURRENCE">blowing</EVENT> at your smartwatch, thanks to scientists who have <EVENT eid="e3" class="OCCURRENCE">created</EVENT> a number of new ways to <EVENT eid="e4" class="OCCURRENCE">interact</EVENT> with small screen devices that are hard to <EVENT eid="e5" class="OCCURRENCE">control</EVENT> with fingers. 
+ 
+Researchers at Georgia Institute of Technology in the US created Whoosh, a technique that allows a person to <EVENT eid="e6" class="OCCURRENCE">control</EVENT> the watch by <EVENT eid="e7" class="OCCURRENCE">blowing</EVENT>, exhaling, shushing, <EVENT eid="e8" class="OCCURRENCE">sipping</EVENT> or <EVENT eid="e9" class="OCCURRENCE">puffing</EVENT> on the screen. 
+ 
+The watch <EVENT eid="e10" class="OCCURRENCE">uses</EVENT> its microphone and machine learning to <EVENT eid="e11" class="OCCURRENCE">identify</EVENT> the breath patterns of each acoustic event, and then <EVENT eid="e12" class="OCCURRENCE">assigns</EVENT> an action to each. 
+ 
+For example, a wearer can <EVENT eid="e13" class="OCCURRENCE">shush</EVENT> the watch to <EVENT eid="e14" class="OCCURRENCE">ignore</EVENT> a call or <EVENT eid="e15" class="OCCURRENCE">blow</EVENT> on it twice to <EVENT eid="e16" class="OCCURRENCE">accept</EVENT>. The watch can also be <EVENT eid="e17" class="OCCURRENCE">locked</EVENT> or <EVENT eid="e18" class="OCCURRENCE">unlocked using</EVENT> a correct combination of short or long breaths. 
+ 
+Voice recognition sometimes produces incorrect words when <EVENT eid="e19" class="OCCURRENCE">dictating</EVENT> a text message. Blowing quickly on the watch can <EVENT eid="e20" class="OCCURRENCE">erase</EVENT> words, while <EVENT eid="e21" class="OCCURRENCE">blowing</EVENT> on it longer will <EVENT eid="e22" class="OCCURRENCE">send</EVENT> the text message when ready. 
+ 
+The technique also <EVENT eid="e23" class="OCCURRENCE">works</EVENT> with smartphones. A user can <EVENT eid="e24" class="OCCURRENCE">transfer</EVENT> content from the watch to a smartphone simply by <EVENT eid="e25" class="OCCURRENCE">sipping</EVENT> it off the watch and <EVENT eid="e26" class="OCCURRENCE">puffing</EVENT> it on the phone. 
+ 
+The technology could <EVENT eid="e27" class="OCCURRENCE">have</EVENT> potential for people with disabilities, researchers <EVENT eid="e28" class="REPORTING">said</EVENT>. 
+ 
+Another new interaction technique WatchOut uses taps and scrolling gestures on the case and watchband, outside the watch screen. 
+ 
+They are <EVENT eid="e29" class="STATE">possible</EVENT> because of the watch's gyroscope and accelerometer sensors, <EVENT eid="e30" class="REPORTING">according</EVENT> to the researchers. 
+ 
+"Other techniques that improve control of smartwatches have <EVENT eid="e31" class="OCCURRENCE">included</EVENT> 3D gestures above the screen, bigger screens or <EVENT eid="e32" class="OCCURRENCE">adding</EVENT> an extra armband," <EVENT eid="e33" class="REPORTING">said</EVENT> Cheng Zhang, a PhD student at Georgia Tech. 
+ 
+"We <EVENT eid="e34" class="I_STATE">wanted</EVENT> to <EVENT eid="e35" class="REPORTING">show</EVENT> it could be <EVENT eid="e36" class="OCCURRENCE">done</EVENT> with existing technology already common on <TIMEX3 tid="t2" type="DATE" value="2017-01-29">today</TIMEX3>'s devices," <EVENT eid="e37" class="REPORTING">said</EVENT> Zhang. 
+ 
+One demo app allows wearers to <EVENT eid="e38" class="OCCURRENCE">scroll</EVENT> up, down, <EVENT eid="e39" class="OCCURRENCE">left</EVENT> and right by <EVENT eid="e40" class="OCCURRENCE">swiping</EVENT> on the watchband. <EVENT eid="e41" class="REPORTING">According</EVENT> to Zhang it makes it easier to <EVENT eid="e42" class="OCCURRENCE">interact</EVENT> with GPS maps or menus. 
+ 
+The study <EVENT eid="e43" class="REPORTING">showed</EVENT> that <EVENT eid="e44" class="OCCURRENCE">scrolling</EVENT> on rubber watchbands was more accurate than leather bands due to the different <EVENT eid="e45" class="OCCURRENCE">friction</EVENT> of the materials. 
+ 
+They also <EVENT eid="e46" class="I_ACTION">created</EVENT> an app that creates eight touchpoints on the device's bezel. Rather than <EVENT eid="e47" class="OCCURRENCE">scrolling</EVENT> through a long list of apps, the user simply hits one of eight spots on the case to <EVENT eid="e48" class="OCCURRENCE">launch</EVENT> Facebook, for example. 
+ 
+"Smartwatches aren't very convenient when you're <EVENT eid="e49" class="OCCURRENCE">carrying something</EVENT>," Zhang <EVENT eid="e50" class="REPORTING">said</EVENT>. 
+ 
+"That's why we <EVENT eid="e51" class="I_STATE">wanted</EVENT> to <EVENT eid="e52" class="OCCURRENCE">create</EVENT> a technique that allows the user to <EVENT eid="e53" class="OCCURRENCE">tap</EVENT> the watch to <EVENT eid="e54" class="OCCURRENCE">accept</EVENT> or <EVENT eid="e55" class="OCCURRENCE">deny</EVENT> phone calls. 
+ 
+Hitting the right side <EVENT eid="e56" class="OCCURRENCE">answers</EVENT> the call; the left side ignores it," he <EVENT eid="e57" class="REPORTING">said</EVENT>. 
+ 
+The final project, TapSkin, <EVENT eid="e58" class="I_STATE">allows</EVENT> users to <EVENT eid="e59" class="OCCURRENCE">tap</EVENT> on the back of their hand to input numbers 0-9 or commands. 
+ 
+The technique <EVENT eid="e60" class="OCCURRENCE">uses</EVENT> the watch's microphone and inertial sensors to detect a total of 11 different tapping locations on a person's skin around the watch. 
+ 
+(This article has not been <EVENT eid="e61" class="OCCURRENCE">edited</EVENT> by DNA's editorial team and is auto-generated from an agency feed.)
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie49" eventID="e49" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie44" eventID="e44" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie39" eventID="e39" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie38" eventID="e38" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie35" eventID="e35" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie34" eventID="e34" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie33" eventID="e33" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie32" eventID="e32" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie31" eventID="e31" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie30" eventID="e30" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie42" eventID="e42" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie59" eventID="e59" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie58" eventID="e58" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie55" eventID="e55" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie54" eventID="e54" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie57" eventID="e57" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie56" eventID="e56" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie51" eventID="e51" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie50" eventID="e50" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie53" eventID="e53" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie52" eventID="e52" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie37" eventID="e37" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie36" eventID="e36" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie40" eventID="e40" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie43" eventID="e43" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie41" eventID="e41" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie46" eventID="e46" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie45" eventID="e45" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie29" eventID="e29" pos="ADJECTIVE" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie47" eventID="e47" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie60" eventID="e60" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie61" eventID="e61" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie48" eventID="e48" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL5" eventInstanceID="ie25" relatedToEventInstance="ie26" relType="SIMULTANEOUS" />
+<TLINK lid="TL9" timeID="t1" relatedToEventInstance="ie1" relType="IDENTITY" />
+<TLINK lid="TL0" eventInstanceID="ie32" relatedToEventInstance="ie31" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL8" eventInstanceID="ie22" relatedToEventInstance="ie21" relType="INCLUDES" />
+<TLINK lid="TL7" eventInstanceID="ie22" relatedToEventInstance="ie20" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="SIMULTANEOUS" />
+<TLINK lid="TL4" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="IDENTITY" />
+<TLINK lid="TL6" eventInstanceID="ie20" relatedToEventInstance="ie22" relType="SIMULTANEOUS" />
+</TimeML>

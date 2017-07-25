@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695204427992</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Firefighters say arson caused a fire which tore through business units</TITLE>
+
+
+<TEXT>
+Comments(0)   
+A suspected arson <EVENT eid="e1" class="OCCURRENCE">attack</EVENT> has <EVENT eid="e2" class="OCCURRENCE">damaged</EVENT> three business premises in Deal. 
+ 
+Fire crews were <EVENT eid="e3" class="OCCURRENCE">called</EVENT> to farm buildings off Hyton Drive at <TIMEX3 tid="t1" type="DATE" value="2017-01-29TNI">11.10pm last night</TIMEX3>.. 
+ 
+The blaze was <EVENT eid="e4" class="OCCURRENCE">extinguished</EVENT> by 2.30am and police are now <EVENT eid="e5" class="OCCURRENCE">investigating</EVENT>. 
+ 
+Next:  Watch the moment a funeral director <EVENT eid="e6" class="OCCURRENCE">returns</EVENT> his mum's 'dead' fridge to Argos in a hearse 
+
+ 
+A Kent Fire and Rescue spokesman <EVENT eid="e7" class="REPORTING">said</EVENT>: "Firefighting operations <EVENT eid="e8" class="OCCURRENCE">finished</EVENT> in <TIMEX3 tid="t2" type="DURATION" value="PTXH">the early hours</TIMEX3>. All the businesses' premises were <EVENT eid="e9" class="OCCURRENCE">damaged</EVENT> by heat and smoke, with one business premises and one storage container and its contents 25 per cent <EVENT eid="e10" class="OCCURRENCE">destroyed</EVENT> by fire. 
+ 
+
+ AERIAL VIEW: Fire crews were <EVENT eid="e11" class="OCCURRENCE">called</EVENT> to Hyton Drive in Deal "There are no reports of any injuries and the cause of the fire is <EVENT eid="e12" class="I_STATE">thought</EVENT> to be deliberate ignition. Kent Police will <EVENT eid="e13" class="OCCURRENCE">investigate</EVENT> with input from KFRS fire investigation officers <EVENT eid="e14" class="OCCURRENCE">assisting</EVENT>." 
+Next:  A court has <EVENT eid="e15" class="I_STATE">ordered</EVENT> dogs must be <EVENT eid="e16" class="OCCURRENCE">destroyed</EVENT> after they <EVENT eid="e17" class="OCCURRENCE">attacked</EVENT> a man who <EVENT eid="e18" class="OCCURRENCE">took</EVENT> them in 
+ 
+During <TIMEX3 tid="t3" type="DURATION" value="PT0H">the three-and-a-half hour</TIMEX3> battle crews wearing breathing apparatus <EVENT eid="e19" class="OCCURRENCE">used</EVENT> four main jets. Efforts were also <EVENT eid="e20" class="OCCURRENCE">made</EVENT> to <EVENT eid="e21" class="OCCURRENCE">remove</EVENT> gas cylinders from unaffected structures. 
+ 
+Meanwhile those thought to be <EVENT eid="e22" class="OCCURRENCE">involved</EVENT> in the fire were <EVENT eid="e23" class="OCCURRENCE">cooled using</EVENT> a fog spike firefighting system which can <EVENT eid="e24" class="OCCURRENCE">blast</EVENT> high-pressure mist into a structure to rapidly <EVENT eid="e25" class="OCCURRENCE">reduce</EVENT> temperatures. 
+
+ 
+Next:  <EVENT eid="e26" class="OCCURRENCE">Jailed</EVENT> in <TIMEX3 tid="t4" type="DATE" value="2017-01">January</TIMEX3>: These are the worst Kent killers, paedophiles and other criminals behind bars
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="ADJECTIVE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="NONE" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" timeID="t4" relatedToEventInstance="ie26" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie15" relatedToEventInstance="ie18" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie18" relatedToTime="t3" relType="DURING" />
+<TLINK lid="TL7" eventInstanceID="ie22" relatedToEventInstance="ie23" relType="INCLUDES" />
+<TLINK lid="TL6" eventInstanceID="ie26" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL4" eventInstanceID="ie17" relatedToEventInstance="ie16" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="BEFORE" />
+<TLINK lid="TL2" eventInstanceID="ie15" relatedToEventInstance="ie17" relType="BEFORE" />
+</TimeML>

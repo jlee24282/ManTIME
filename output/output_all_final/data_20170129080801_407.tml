@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197288050</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Frankenstein - English</TITLE>
+
+
+<TEXT>
+Frankenstein; or, The Modern Prometheus, is a novel written by English author Mary Shelley about eccentric scientist Victor Frankenstein, who <EVENT eid="e1" class="OCCURRENCE">creates</EVENT> a grotesque creature in an unorthodox scientific experiment. Shelley <EVENT eid="e2" class="ASPECTUAL">started writing</EVENT> the story when she was eighteen, and the novel was <EVENT eid="e3" class="OCCURRENCE">published</EVENT> when she was twenty. The first edition was <EVENT eid="e4" class="OCCURRENCE">published</EVENT> anonymously in London in <TIMEX3 tid="t1" type="DATE" value="1818">1818</TIMEX3>. Shelley's name <EVENT eid="e5" class="OCCURRENCE">appears</EVENT> on the second edition, <EVENT eid="e6" class="OCCURRENCE">published</EVENT> in France in <TIMEX3 tid="t2" type="DATE" value="1823">1823</TIMEX3>.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie4" relatedToTime="t1" relType="IS_INCLUDED" />
+</TimeML>

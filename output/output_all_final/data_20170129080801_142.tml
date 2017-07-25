@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197037551</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Boulevard Baptist Festival of Choirs set to sparkle</TITLE>
+
+
+<TEXT>
+Nothing compares to the magic of live choral music. It begins the moment one enters the concert hall and there is a feeling of anticipations in the air an expectation that what is about to happen will <EVENT eid="e1" class="OCCURRENCE">transport</EVENT> you to a special emotional and spiritual plane. 
+ 
+No one <EVENT eid="e2" class="OCCURRENCE">knows</EVENT> ahead of time how it will <EVENT eid="e3" class="OCCURRENCE">turn</EVENT> out. The <EVENT eid="e4" class="OCCURRENCE">atmosphere</EVENT> is <EVENT eid="e5" class="OCCURRENCE">charged</EVENT> with intensity. The music is captivating and electrifying. This is the feeling one experiences at the annual Festival of Choirs <EVENT eid="e6" class="OCCURRENCE">hosted</EVENT> by the Boulevard Baptist Church. 
+ 
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Now</TIMEX3> in its <TIMEX3 tid="t2" type="DURATION" value="P0Y">eighth year</TIMEX3>, the much-anticipated Festival of Choirs will be <EVENT eid="e7" class="OCCURRENCE">held</EVENT> on <TIMEX3 tid="t3" type="DATE" value="2017-02-08">February 8</TIMEX3>, <EVENT eid="e8" class="OCCURRENCE">starting</EVENT> at <TIMEX3 tid="t4" type="DATE" value="X">5</TIMEX3> p.m. at the Boulevard Baptist Church at 2 Washington Boulevard, Kingston 20. 
+ 
+It culminates the Church's anniversary celebrations and <EVENT eid="e9" class="OCCURRENCE">promotes</EVENT> the finest musical talents of various choirs, conductors, and musicians. 
+ 
+Patronage of this rich, musical feast is <EVENT eid="e10" class="OCCURRENCE">given</EVENT> by the Most Honourable Lady Allen, and <TIMEX3 tid="t5" type="DATE" value="2017">this year</TIMEX3>'s <EVENT eid="e11" class="OCCURRENCE">staging</EVENT> is <EVENT eid="e12" class="OCCURRENCE">celebrated</EVENT> under the theme 'Born to Die'. The theme was <EVENT eid="e13" class="OCCURRENCE">inspired</EVENT> by the Christmas Cantata Born to <EVENT eid="e14" class="OCCURRENCE">Die</EVENT> by former director of music for the National Baptist Congress the late Glen Edward Burleigh. 
+ <TIMEX3 tid="t6" type="DATE" value="2017">This year</TIMEX3>'s focus  
+<TIMEX3 tid="t7" type="DATE" value="2017">This year</TIMEX3>, the festival is <EVENT eid="e15" class="OCCURRENCE">designed</EVENT> to showcase the conducting artistry of music director Deacon Joseph McIntyre, who <EVENT eid="e16" class="OCCURRENCE">attended</EVENT> the prestigious Westminster Choir College in <TIMEX3 tid="t8" type="DATE" value="2017-SU">the summer of 2016</TIMEX3>. 
+ 
+Another special feature of <TIMEX3 tid="t9" type="DATE" value="2017">this year</TIMEX3>'s staging will be the visit and participation of North Korean-born, naturalised American guest conductor, handbell player and traditional worship leader of the Love of Christ Lutheran Church in Mesa, Arizona Jung Eun Csuy. 
+ 
+She will <EVENT eid="e17" class="OCCURRENCE">conduct</EVENT> the Boulevard Baptist Choir as it <EVENT eid="e18" class="OCCURRENCE">presents</EVENT> the opening fanfare piece Canticle of Brother Sun by Grayston Ives. A handbell solo of the Lord's Prayer will also be <EVENT eid="e19" class="OCCURRENCE">performed</EVENT> by her, <EVENT eid="e20" class="OCCURRENCE">accompanied</EVENT> by Mickel Gordon on piano. 
+ 
+Orchestral accompaniment will be <EVENT eid="e21" class="OCCURRENCE">provided</EVENT> by the Samuel Felsted Chamber Orchestra, which is named after Jamaica's first documented composer Samuel Felsted (1743-1802). 
+ 
+Musical presentations will also be <EVENT eid="e22" class="OCCURRENCE">done</EVENT> by the Northern Caribbean University Choir, the Andrews Memorial Seventh-Day Adventist and East Queen Baptist Church Choirs. Organ and piano accompaniment will be <EVENT eid="e23" class="OCCURRENCE">provided</EVENT> by Michelle Bromley and Mickel Gordon, respectively.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="CAN" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="UNKNOWN" tense="PASTPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="COULD" />
+
+<TLINK lid="TL8" timeID="t3" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL7" timeID="t2" relatedToEventInstance="ie7" relType="INCLUDES" />
+<TLINK lid="TL6" timeID="t5" relatedToEventInstance="ie11" relType="INCLUDES" />
+<TLINK lid="TL5" timeID="t4" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL4" eventInstanceID="ie20" relatedToEventInstance="ie19" relType="BEFORE" />
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="INCLUDES" />
+</TimeML>

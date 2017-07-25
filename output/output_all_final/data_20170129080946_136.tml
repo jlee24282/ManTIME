@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201289131</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Pioneer High School honors Students of the Month</TITLE>
+
+
+<TEXT>
+Pioneer High School <EVENT eid="e1" class="OCCURRENCE">honored</EVENT> Julia Albiter and Jeremiah Beauford as its Students of <TIMEX3 tid="t1" type="DATE" value="2017-01">the Month</TIMEX3>. 
+ 
+Julia Albiter, a senior and a <TIMEX3 tid="t2" type="DURATION" value="PXY">third year</TIMEX3> student in Pioneers High Schools health information management program, <EVENT eid="e2" class="I_STATE">plans</EVENT> to <EVENT eid="e3" class="OCCURRENCE">enter</EVENT> the Health Information Management workforce as a foundation to further her education and career path in the healthcare industry. Albiters empathy and willingness to help others makes her a perfect fit for this program and this career path, school staff <EVENT eid="e4" class="REPORTING">said</EVENT>. 
+ 
+Jeremiah Beauford, a sophomore and a <TIMEX3 tid="t3" type="DURATION" value="PXY">first year</TIMEX3> health science student at Pioneer High School, is <EVENT eid="e5" class="I_ACTION">aspiring</EVENT> to <EVENT eid="e6" class="OCCURRENCE">become</EVENT> a registered nurse. He also is considering <EVENT eid="e7" class="OCCURRENCE">applying</EVENT> his skill <EVENT eid="e8" class="OCCURRENCE">set</EVENT> in service to our country. He is being <EVENT eid="e9" class="I_ACTION">recognized</EVENT> for consistently <EVENT eid="e10" class="OCCURRENCE">taking</EVENT> a leadership and proactive approach to his education.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL0" eventInstanceID="ie8" relatedToEventInstance="ie7" relType="INCLUDES" />
+</TimeML>

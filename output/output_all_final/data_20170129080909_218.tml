@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695199901351</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>No. 6 Florida State's second-half comeback falls short at Syracuse</TITLE>
+
+
+<TEXT>
+Florida State <EVENT eid="e1" class="OCCURRENCE">found</EVENT> its rhythm offensively for the first time on the road all season. 
+ 
+Unfortunately the Seminoles, who <EVENT eid="e2" class="OCCURRENCE">played</EVENT> with visibly more intensity and enthusiasm during a furious comeback <EVENT eid="e3" class="OCCURRENCE">attempt</EVENT> at Syracuse on <TIMEX3 tid="t1" type="DATE" value="2017-01-28">Saturday</TIMEX3>, <EVENT eid="e4" class="OCCURRENCE">fell</EVENT> just a bit short. 
+ 
+Jonathan Isaac <EVENT eid="e5" class="OCCURRENCE">led</EVENT> FSU with 19 points and 12 rebounds, Dwayne Bacon <EVENT eid="e6" class="OCCURRENCE">came</EVENT> alive with 19 points and Xavier Rathan-Mayes <EVENT eid="e7" class="OCCURRENCE">heated</EVENT> up in the second half to <EVENT eid="e8" class="OCCURRENCE">finish</EVENT> with 16 points, but the Seminoles <EVENT eid="e9" class="OCCURRENCE">fell</EVENT> 82-72 to the Orange. 
+ 
+FSU, which <EVENT eid="e10" class="OCCURRENCE">earned</EVENT> a No. 6 <EVENT eid="e11" class="OCCURRENCE">ranking</EVENT> at <TIMEX3 tid="t2" type="DATE" value="X">the</TIMEX3> <EVENT eid="e12" class="ASPECTUAL">beginning</EVENT> <TIMEX3 tid="t3" type="DURATION" value="PXW">of the week</TIMEX3>, will likely be on the cusp of the top 10 after <EVENT eid="e13" class="OCCURRENCE">losing</EVENT> back-to-back games for the first time <TIMEX3 tid="t4" type="DATE" value="X">this season</TIMEX3>. FSU also <EVENT eid="e14" class="OCCURRENCE">suffered</EVENT> a 22-point <EVENT eid="e15" class="OCCURRENCE">defeat</EVENT> at Georgia Tech on <TIMEX3 tid="t5" type="DATE" value="2017-01-25">Wednesday</TIMEX3>. 
+ 
+The Seminoles (18-4, 6-3 Atlantic Coast Conference) <EVENT eid="e16" class="OCCURRENCE">looked</EVENT> well on their way to another head-scratching blowout loss, down 18 points at halftime to the Orange. 
+ 
+But Leonard Hamilton <EVENT eid="e17" class="I_ACTION">depended</EVENT> on his best four playersin Isaac, Bacon, Rathan-Mayes and sophomore forward Terance Mann with senior center Jarquez Smith to <EVENT eid="e18" class="OCCURRENCE">mount</EVENT> a comeback. 
+ 
+FSU <EVENT eid="e19" class="I_ACTION">trimmed</EVENT> Syracuses <EVENT eid="e20" class="OCCURRENCE">lead</EVENT> down to two points after a Bacon 3-pointer with 1:48 <EVENT eid="e21" class="OCCURRENCE">left</EVENT>, but the Seminoles simply <EVENT eid="e22" class="OCCURRENCE">ran</EVENT> out of energy at the end of the game. 
+ 
+The crowd in the Carrier Dome <EVENT eid="e23" class="OCCURRENCE">rushed</EVENT> the floor to <EVENT eid="e24" class="OCCURRENCE">celebrate</EVENT> while the Seminoles <EVENT eid="e25" class="OCCURRENCE">lost</EVENT> their second straight game to an unranked, in-conference team after <EVENT eid="e26" class="OCCURRENCE">winning</EVENT> 5 of 6 against top 25 teams. 
+ 
+FSU falls in a third-place tie in the conference standings with Notre Dame, which <EVENT eid="e27" class="OCCURRENCE">lost</EVENT> at Georgia Tech on <TIMEX3 tid="t6" type="DATE" value="2017-01-28">Saturday</TIMEX3>, behind North Carolina and Virginia. 
+ 
+The Seminoles will <EVENT eid="e28" class="OCCURRENCE">play</EVENT> their third straight road game at Miami on <TIMEX3 tid="t7" type="DATE" value="2017-01-25">Wednesday</TIMEX3>. 
+  
+Email Safid Deen at sdeen@orlandosentinel.com . Follow him on Twitter at @Safid_Deen and @osfsu . Also,like our FloridaState
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie28" eventID="e28" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="NEG" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="BEFORE" />
+<TLINK lid="TL17" eventInstanceID="ie23" relatedToEventInstance="ie25" relType="SIMULTANEOUS" />
+<TLINK lid="TL16" eventInstanceID="ie22" relatedToEventInstance="ie19" relType="SIMULTANEOUS" />
+<TLINK lid="TL15" eventInstanceID="ie20" relatedToEventInstance="ie21" relType="SIMULTANEOUS" />
+<TLINK lid="TL14" eventInstanceID="ie27" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL13" eventInstanceID="ie25" relatedToEventInstance="ie23" relType="SIMULTANEOUS" />
+<TLINK lid="TL12" eventInstanceID="ie25" relatedToEventInstance="ie24" relType="SIMULTANEOUS" />
+<TLINK lid="TL11" eventInstanceID="ie24" relatedToEventInstance="ie25" relType="SIMULTANEOUS" />
+<TLINK lid="TL10" eventInstanceID="ie2" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL19" timeID="t2" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL18" eventInstanceID="ie28" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie10" relatedToTime="t2" relType="DURING" />
+<TLINK lid="TL0" eventInstanceID="ie19" relatedToEventInstance="ie22" relType="SIMULTANEOUS" />
+<TLINK lid="TL7" eventInstanceID="ie4" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL6" eventInstanceID="ie14" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL5" eventInstanceID="ie15" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie15" relatedToEventInstance="ie14" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie12" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie13" relatedToTime="t4" relType="IS_INCLUDED" />
+<TLINK lid="TL22" timeID="t4" relatedToEventInstance="ie13" relType="INCLUDES" />
+<TLINK lid="TL23" timeID="t5" relatedToEventInstance="ie15" relType="INCLUDES" />
+<TLINK lid="TL20" timeID="t6" relatedToEventInstance="ie27" relType="INCLUDES" />
+<TLINK lid="TL21" timeID="t7" relatedToEventInstance="ie28" relType="INCLUDES" />
+<TLINK lid="TL24" timeID="t5" relatedToEventInstance="ie14" relType="INCLUDES" />
+<TLINK lid="TL25" timeID="t3" relatedToEventInstance="ie12" relType="INCLUDES" />
+<TLINK lid="TL26" timeID="t1" relatedToEventInstance="ie4" relType="INCLUDES" />
+<TLINK lid="TL9" eventInstanceID="ie3" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL27" timeID="t1" relatedToEventInstance="ie3" relType="INCLUDES" />
+</TimeML>

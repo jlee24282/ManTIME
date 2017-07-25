@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201374239</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Ruchi Realty Offering Residential Plots Flats Villas in Indore Bhopal</TITLE>
+
+
+<TEXT>
+Ruchi Realty http www ruchirealty com one of India s <EVENT eid="e1" class="OCCURRENCE">leading</EVENT> real estate companies Ruchi Realty is <EVENT eid="e2" class="OCCURRENCE">offering</EVENT> active living lifestyle with its Indore and Bhopal township project where already hundreds of residents have taken possession Whether you are a businessman or a Techie you will <EVENT eid="e3" class="OCCURRENCE">appreciate</EVENT> the fact that lifestyles have <EVENT eid="e4" class="STATE">become</EVENT> stressful and you are always surrounded by concrete walls with no open spaces to <EVENT eid="e5" class="I_ACTION">enjoy</EVENT> the little free time you might have Welcome to Ruchi Lifescapes in Indore and Bhopal these 2 residential township projects are a testimony to the commitment the company has towards offering home buyers the best of modern living in these two cities Ruchi Lifescapes Indore and Ruchi Lifescapes Bhopal <EVENT eid="e6" class="OCCURRENCE">offer</EVENT> the discreet home buyer housing options like 2 3 bhk apartments plots for development and villas at an affordable price range Our video <EVENT eid="e7" class="OCCURRENCE">gives</EVENT> you ample reason on why you should <EVENT eid="e8" class="OCCURRENCE">choose</EVENT> our residential project Once a part you will <EVENT eid="e9" class="I_STATE">know</EVENT> you have <EVENT eid="e10" class="OCCURRENCE">made</EVENT> the right decision Author webteam11 Tags Villas in Bhopal Plots in Indore Villas in Bhopal Villas in Indore Real estate Bhopal Real estate Indore Township in Bhopal Township in Indore Posted 29 <TIMEX3 tid="t1" type="DATE" value="2017-01">January</TIMEX3> 2
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" eventInstanceID="ie7" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="TL2" eventInstanceID="ie7" relatedToEventInstance="ie8" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie9" relatedToEventInstance="ie8" relType="AFTER" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToEventInstance="ie8" relType="AFTER" />
+</TimeML>

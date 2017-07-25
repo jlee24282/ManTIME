@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203242656</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Andy Murray, Ed Balls and Leicester City - see who made the top 10 of 2016's best moments</TITLE>
+
+
+<TEXT>
+WHAT were your favourite moments of <TIMEX3 tid="t1" type="DATE" value="2016">2016</TIMEX3>? 
+
+<EVENT eid="e1" class="REPORTING">According</EVENT> to a poll of 2,000 Brits, Andy Murray s Wimbledon triumph was top of the <EVENT eid="e2" class="OCCURRENCE">list</EVENT>. 
+
+Here s the top ten of events that <EVENT eid="e3" class="OCCURRENCE">captured</EVENT> our imagination <TIMEX3 tid="t2" type="DATE" value="2016">last year</TIMEX3>. 2. Leicester City’s Premier League victory. 4. The moment the baby iguana <EVENT eid="e4" class="OCCURRENCE">escaped</EVENT> the snakes in Planet Earth 2. 
+
+5. When Alistair Brownlee <EVENT eid="e5" class="OCCURRENCE">helping</EVENT> his brother, Jonny, across the Triathlon World Series finishing line (sacrificing his own first place position). 
+
+6. Mo Farah making Olympic medal history in Rio. 
+
+7. Tim Peake <EVENT eid="e6" class="OCCURRENCE">completing</EVENT> his <TIMEX3 tid="t3" type="DATE" value="X">185</TIMEX3> day stint in space. 
+
+8. Ed Balls rendering the nation speechless after <EVENT eid="e7" class="OCCURRENCE">dancing</EVENT> ‘Gangnam Style’ on Strictly. 
+
+9. Leonardo DiCaprio finally <EVENT eid="e8" class="OCCURRENCE">winning</EVENT> that Oscar. 
+
+10. Devon pensioner Joe Bartley being <EVENT eid="e9" class="OCCURRENCE">offered</EVENT> a job, after <EVENT eid="e10" class="OCCURRENCE">putting</EVENT> a desperate advert in the local paper. 
+
+There were plenty of other momentous moments   here to <EVENT eid="e11" class="I_ACTION">prove</EVENT> it are some of the  winning moments  that didn t make the top ten. 
+
+11. TV favourites, Ant  amp; Dec, finally <EVENT eid="e12" class="OCCURRENCE">getting</EVENT> their OBEs. 
+
+12. Jon Snow being re <EVENT eid="e13" class="OCCURRENCE">incarnated</EVENT> on Game of Thrones. 
+
+13. Emmerdale’s Robert Sugden and Aaron Dingle revealing they are to <EVENT eid="e14" class="OCCURRENCE">tie</EVENT> the knot. 
+
+14. Candice Brown winning The Great British Bake Off <TIMEX3 tid="t4" type="DATE" value="2016">2016</TIMEX3>. 
+
+15. England’s Rugby Union team going unbeaten for a <TIMEX3 tid="t5" type="DURATION" value="PXY">whole year</TIMEX3>. 
+
+The list was <EVENT eid="e15" class="OCCURRENCE">compiled</EVENT> from a survey <EVENT eid="e16" class="OCCURRENCE">commissioned</EVENT> for GalaBingo.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PASTPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" eventInstanceID="ie3" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL1" eventInstanceID="ie16" relatedToEventInstance="ie15" relType="BEFORE" />
+<TLINK lid="TL0" eventInstanceID="ie15" relatedToEventInstance="ie16" relType="AFTER" />
+</TimeML>

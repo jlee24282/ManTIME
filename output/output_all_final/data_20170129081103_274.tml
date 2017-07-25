@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695203987088</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>$15,000 reward for missing endangered salamanders</TITLE>
+
+
+<TEXT>
+SAN MARCOS A reward for the return hundreds of endangered salamanders missing for <TIMEX3 tid="t1" type="DURATION" value="P2M">two months</TIMEX3> from a U.S. Fish and Wildlife Service aquatic center in Central Texas has been <EVENT eid="e1" class="OCCURRENCE">boosted</EVENT> to $15,000. 
+ 
+Some 253 Texas blind salamanders and 110 San Marcos salamanders <EVENT eid="e2" class="OCCURRENCE">vanished</EVENT> <TIMEX3 tid="t2" type="DATE" value="2017-11-25">Thanksgiving Day</TIMEX3> from the center in San Marcos. The center was <EVENT eid="e3" class="OCCURRENCE">closed</EVENT> that <TIMEX3 tid="t3" type="DURATION" value="PXD">day</TIMEX3> and there's no sign of forced entry. 
+ 
+Texas blind salamanders are pale, 3- to 4-inch amphibians with frilly gills that can regenerate lost limbs. They're <EVENT eid="e4" class="I_STATE">believed</EVENT> to <EVENT eid="e5" class="OCCURRENCE">live</EVENT> only in roughly 25 square miles of aquifer beneath San Marcos. 
+  SHARE
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" eventInstanceID="ie2" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t3" relType="ENDED_BY" />
+</TimeML>

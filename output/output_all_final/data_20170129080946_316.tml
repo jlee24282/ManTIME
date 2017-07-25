@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695201420166</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>Men's Hoops-Colorado State Postgame Notes SDSU-CSU Postgame Notes Postgame notes from the San Diego State-Colorado State men's basketball game Saturday at Steve Fisher Court at Viejas Arena. Read More</TITLE>
+
+
+<TEXT>
+SDSU-CSU Postgame Notes 
+ 
+Final Score: Colorado State 78, San Diego State 77 
+Next Game: <TIMEX3 tid="t1" type="DATE" value="2017-01-24">Tuesday</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-01-31">Jan. 31</TIMEX3>, vs. Wyoming, <TIMEX3 tid="t3" type="DATE" value="X">8</TIMEX3> p.m. PT, CBS Sports Network 
+ 
+Team Notes 
+ San Diego State had its 13-game home winning streak over Colorado State <EVENT eid="e1" class="OCCURRENCE">snapped</EVENT>. 
+ The Aztecs had their four-game winning <EVENT eid="e2" class="OCCURRENCE">streak</EVENT> against the Rams snapped. 
+ SDSU <EVENT eid="e3" class="OCCURRENCE">fell</EVENT> to 11-4 this season when <EVENT eid="e4" class="OCCURRENCE">leading</EVENT> at halftime and <EVENT eid="e5" class="OCCURRENCE">dropped</EVENT> to 68-4 in its last 72 home games when <EVENT eid="e6" class="OCCURRENCE">leading</EVENT> at halftime. 
+ San Diego State's five turnovers <EVENT eid="e7" class="OCCURRENCE">tied</EVENT> a season low (also vs. California on <TIMEX3 tid="t4" type="DATE" value="2016-11-21">Nov. 21, 2016</TIMEX3>). 
+ The Aztecs had five double-digit scorers for the fourth time this season. 
+ SDSU <EVENT eid="e8" class="REPORTING">outscored</EVENT> CSU, 36-22, in the paint. 
+ The game <EVENT eid="e9" class="OCCURRENCE">featured</EVENT> nine lead <EVENT eid="e10" class="OCCURRENCE">changes</EVENT> and 10 ties. 
+ 
+Player Notes 
+ 
+Malik Pope -- 19 points, 7 rebounds, 2 assists 
+Established a season high with 19 points... Logged his third double-digit scoring game of the season and the 19th of his career... It is first double-figure scoring effort since <EVENT eid="e11" class="OCCURRENCE">returning</EVENT> from injury for <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">a second time</TIMEX3>... Led the team in <EVENT eid="e12" class="OCCURRENCE">scoring</EVENT> for the <TIMEX3 tid="t6" type="DATE" value="X">second</TIMEX3> time <TIMEX3 tid="t7" type="DATE" value="2017">this year</TIMEX3> and ninth time of his career... Has <EVENT eid="e13" class="OCCURRENCE">reached</EVENT> double figures in <EVENT eid="e14" class="OCCURRENCE">scoring</EVENT> in four of five regular-season games vs. Colorado State... He has <EVENT eid="e15" class="OCCURRENCE">scored</EVENT> at least nine points in all five of his regular-season meetings with the Rams... Tied a season high with seven rebounds ... Had two <EVENT eid="e16" class="OCCURRENCE">assists</EVENT> and <EVENT eid="e17" class="STATE">is</EVENT> one shy of <EVENT eid="e18" class="OCCURRENCE">matching</EVENT> his season high. 
+ 
+Jeremy Hemsley -- 17 points, 3 rebounds, 3 assists, 2 steals 
+Reached double figures in <EVENT eid="e19" class="OCCURRENCE">scoring</EVENT> for the first time in three games (14th of the season, 40th of his career)... His 17 points were six more than he <EVENT eid="e20" class="STATE">had</EVENT> his previous two games (11 points). 
+ 
+Trey Kell -- 16 points, 3 rebounds, 2 assists 
+Scored in double figures for a <TIMEX3 tid="t8" type="DATE" value="X">season-long</TIMEX3> fifth straight game... Tied a season high with seven made free-throws and nine free-throw attempts. 
+ 
+Dakarai Allen -- 11 points, 5 rebounds, 2 <EVENT eid="e21" class="OCCURRENCE">assists</EVENT>, 1 <EVENT eid="e22" class="I_ACTION">steal</EVENT> 
+Recorded his fourth game of the season with at least 10 points and the 16th of his career. 
+ 
+Max Hoetzel -- 10 points, 6 rebounds 
+<EVENT eid="e23" class="OCCURRENCE">Posted</EVENT> his ninth double-figure scoring game of the season and his 10th of his career... Was 2-for-4 from three-point range and is now 26-for-50 (52.0 pct.) from three-point distance in Mountain West action <TIMEX3 tid="t9" type="DATE" value="2017">this year</TIMEX3>... Recorded multiple three-pointers for the 12th time of his career (all this season). 
+ 
+Valentine Izundu -- 4 points, 5 rebounds, 2 <EVENT eid="e24" class="OCCURRENCE">blocked</EVENT> shots 
+For the sixth time in his last seven games he has <EVENT eid="e25" class="OCCURRENCE">rejected</EVENT> at least two shots in a <EVENT eid="e26" class="OCCURRENCE">game</EVENT>... Made both of his field-goal attempts and has <EVENT eid="e27" class="OCCURRENCE">made</EVENT> 12 of his 13 field-goal attempts in Mountain West action.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PRESPART" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="NOUN" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="UNKNOWN" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="PRESENT" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL1" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL5" timeID="t1" relatedToTime="t2" relType="BEFORE" />
+<TLINK lid="TL4" eventInstanceID="ie3" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL3" eventInstanceID="ie3" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+<TLINK lid="TL2" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="SIMULTANEOUS" />
+</TimeML>

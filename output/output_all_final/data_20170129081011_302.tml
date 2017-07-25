@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695202375616</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>UP polls: Akhilesh-Rahul kick off their joint poll campaign</TITLE>
+
+
+<TEXT>
+Lucknow: Uttar Pradesh Chief Minister Akhilesh Yadav and Congress vice president Rahul Gandhi on <TIMEX3 tid="t1" type="DATE" value="2017-01-29">Sunday</TIMEX3> will <EVENT eid="e1" class="OCCURRENCE">address</EVENT> a joint conference following a road <EVENT eid="e2" class="OCCURRENCE">show</EVENT> before high stakes state assembly elections in the state. 
+  
+Cong VP Rahul Gandhi and UP CM Akhilesh Yadav s joint press conference in Lucknow to <EVENT eid="e3" class="OCCURRENCE">start</EVENT> shortly pic.twitter.com/qpqEcHX8Hp 
+ 
+— ANI UP (@ANINewsUP) January <TIMEX3 tid="t2" type="DATE" value="2017">29, 2017</TIMEX3> 
+  
+The Gandhi scion <EVENT eid="e4" class="OCCURRENCE">arrived</EVENT> in Lucknow <TIMEX3 tid="t3" type="TIME" value="2017-01-29TAF">today afternoon</TIMEX3> and <EVENT eid="e5" class="OCCURRENCE">headed</EVENT> to the Samajwadi party headquarter here where he <EVENT eid="e6" class="OCCURRENCE">met</EVENT> Akhilesh Yadav. The duo will <EVENT eid="e7" class="OCCURRENCE">hold</EVENT> their first joint press conference shortly. 
+  
+Lucknow: CM Akhilesh Yadav  amp; Cong VP Rahul Gandhi to <EVENT eid="e8" class="OCCURRENCE">hold</EVENT> joint press conference shortly pic.twitter.com/MznvWNvnDf 
+ 
+— ANI UP (@ANINewsUP) January <TIMEX3 tid="t4" type="DATE" value="2017">29, 2017</TIMEX3> 
+  
+  Rahul Gandhi and Akhilesh Yadav would jointly <EVENT eid="e9" class="OCCURRENCE">address</EVENT> a press conference in Lucknow <TIMEX3 tid="t5" type="DATE" value="2017-01-29">today</TIMEX3> after which they will <EVENT eid="e10" class="OCCURRENCE">take</EVENT> out a road show,  a minister <EVENT eid="e11" class="REPORTING">said</EVENT> earlier <TIMEX3 tid="t6" type="DATE" value="2017-01-29">today</TIMEX3>. 
+ 
+Their joint press conference will be followed by a joint road show which will <EVENT eid="e12" class="OCCURRENCE">happen</EVENT> the city later in <TIMEX3 tid="t7" type="DURATION" value="PXD">the day</TIMEX3>. 
+ 
+The Congress is <EVENT eid="e13" class="OCCURRENCE">contesting</EVENT> 105 seats while the ruling Samajwadi Party is <EVENT eid="e14" class="OCCURRENCE">contesting</EVENT> 298 seats in the  crucial  Uttar Pradesh assembly elections. 
+ 
+Uttar Pradesh will be <EVENT eid="e15" class="OCCURRENCE">voting</EVENT> for a new state assembly in a seven phase election, <EVENT eid="e16" class="OCCURRENCE">voting</EVENT> for which begins on <TIMEX3 tid="t8" type="DATE" value="2017-02-11">February 11</TIMEX3> and <EVENT eid="e17" class="OCCURRENCE">concludes</EVENT> on <TIMEX3 tid="t9" type="DATE" value="2017-03-08">March 8</TIMEX3>. 
+ 
+A joint poster with the slogan  UP ko yeh  saath  pasand  hai  having the pictures of both Rahul and Akhilesh and their respective party symbols will also be <EVENT eid="e18" class="OCCURRENCE">released</EVENT> on the <EVENT eid="e19" class="OCCURRENCE">occasion</EVENT>. 
+ 
+The <EVENT eid="e20" class="OCCURRENCE">alliance</EVENT> is <EVENT eid="e21" class="I_STATE">believed</EVENT> to <EVENT eid="e22" class="OCCURRENCE">counter</EVENT> the rivals Bharatiya Janata Party (BJP) and Bahujan Samaj Party (BSP) <EVENT eid="e23" class="OCCURRENCE">making</EVENT> the contest across the state triangular. 
+ 
+Soon after the alliance was <EVENT eid="e24" class="OCCURRENCE">struck</EVENT>, BSP supremo Mayawati <EVENT eid="e25" class="OCCURRENCE">got</EVENT> the support of mafia <EVENT eid="e26" class="OCCURRENCE">turned</EVENT> MLA Mukhtar Ansari` party Quami Ekta Dal (QED) to <EVENT eid="e27" class="OCCURRENCE">consolidate</EVENT> its Muslim vote bank in some constituencies of eastern districts where the Ansari brothers have their strong influence. 
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie19" eventID="e19" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie18" eventID="e18" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="FUTURE" aspect="NONE" polarity="NEG" modality="WOULD" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="FUTURE" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie17" eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie16" eventID="e16" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="UNKNOWN" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie24" eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie25" eventID="e25" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie26" eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie27" eventID="e27" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie20" eventID="e20" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie21" eventID="e21" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie22" eventID="e22" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie23" eventID="e23" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL8" eventInstanceID="ie9" relatedToTime="t5" relType="IS_INCLUDED" />
+<TLINK lid="TL9" eventInstanceID="ie5" relatedToEventInstance="ie4" relType="AFTER" />
+<TLINK lid="TL17" eventInstanceID="ie21" relatedToEventInstance="ie20" relType="INCLUDES" />
+<TLINK lid="TL16" eventInstanceID="ie24" relatedToEventInstance="ie25" relType="AFTER" />
+<TLINK lid="TL15" eventInstanceID="ie2" relatedToEventInstance="ie1" relType="BEGINS" />
+<TLINK lid="TL14" eventInstanceID="ie6" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL13" eventInstanceID="ie4" relatedToTime="t3" relType="IS_INCLUDED" />
+<TLINK lid="TL12" eventInstanceID="ie4" relatedToTime="t2" relType="IS_INCLUDED" />
+<TLINK lid="TL11" eventInstanceID="ie4" relatedToEventInstance="ie5" relType="AFTER" />
+<TLINK lid="TL10" eventInstanceID="ie5" relatedToEventInstance="ie6" relType="AFTER" />
+<TLINK lid="TL19" timeID="t5" relatedToEventInstance="ie9" relType="INCLUDES" />
+<TLINK lid="TL18" timeID="t6" relatedToTime="t5" relType="IDENTITY" />
+<TLINK lid="TL1" eventInstanceID="ie11" relatedToTime="t6" relType="IS_INCLUDED" />
+<TLINK lid="TL0" eventInstanceID="ie11" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL7" eventInstanceID="ie9" relatedToEventInstance="ie10" relType="AFTER" />
+<TLINK lid="TL6" eventInstanceID="ie9" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL5" eventInstanceID="ie12" relatedToTime="t7" relType="IS_INCLUDED" />
+<TLINK lid="TL4" eventInstanceID="ie13" relatedToEventInstance="ie14" relType="SIMULTANEOUS" />
+<TLINK lid="TL3" eventInstanceID="ie10" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL2" eventInstanceID="ie10" relatedToEventInstance="ie11" relType="AFTER" />
+<TLINK lid="TL20" timeID="t5" relatedToTime="t6" relType="IDENTITY" />
+<TLINK lid="TL21" timeID="t1" relatedToEventInstance="ie1" relType="INCLUDES" />
+</TimeML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695197503734</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170128" temporalFunction="false" functionInDocument="CREATION_TIME">January 28, 2017</TIMEX3></DCT>
+
+<TITLE>Premium Content subscribers</TITLE>
+
+
+<TEXT>
+Kenneth Abela is one of the winners of the 12 Days of <TIMEX3 tid="t1" type="DATE" value="X">Christmas</TIMEX3> competition <EVENT eid="e1" class="OCCURRENCE">targeting</EVENT> Times of Malta . He is seen <EVENT eid="e2" class="OCCURRENCE">receiving</EVENT> his gift voucher from Andre Parnis, head of finance representing Valletta Cruise Port. Bottom: Premium Content subscriber Kevin Gatt (represented here by his wife Suzanne) is one of the winners of the 12 Days of <TIMEX3 tid="t2" type="DATE" value="X">Christmas</TIMEX3> competition, which was <EVENT eid="e3" class="OCCURRENCE">held</EVENT> <TIMEX3 tid="t3" type="DATE" value="2016-12">last month</TIMEX3> for Times of Malta Premium Content subscribers. She is seen here <EVENT eid="e4" class="OCCURRENCE">receiving</EVENT> her gift <EVENT eid="e5" class="OCCURRENCE">hamper</EVENT> from Ingrid Zerafa from InCampagnia Malta.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL2" timeID="t3" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL1" timeID="t2" relatedToEventInstance="ie3" relType="INCLUDES" />
+<TLINK lid="TL0" eventInstanceID="ie3" relatedToTime="t3" relType="IS_INCLUDED" />
+</TimeML>

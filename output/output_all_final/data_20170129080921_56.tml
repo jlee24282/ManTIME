@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>695200265125</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="20170129" temporalFunction="false" functionInDocument="CREATION_TIME">January 29, 2017</TIMEX3></DCT>
+
+<TITLE>SPI inches up 0.16 percent</TITLE>
+
+
+<TEXT>
+ISLAMABAD: The weekly inflation for <TIMEX3 tid="t1" type="DATE" value="2017-W05">the week</TIMEX3>, ended on <TIMEX3 tid="t2" type="DATE" value="2017-01-26">January 26</TIMEX3>, for the combined income group <EVENT eid="e1" class="OCCURRENCE">increased</EVENT> 0.16 percent as compared to <TIMEX3 tid="t3" type="DATE" value="PAST_REF">the previous week</TIMEX3>. 
+ 
+The Pakistan Bureau of Statistics (PBS) data <EVENT eid="e2" class="REPORTING">showed</EVENT> that the sensitive price indicator (SPI) for <TIMEX3 tid="t4" type="DATE" value="2017-W05">the week</TIMEX3>, under review in the above mentioned group, was <EVENT eid="e3" class="OCCURRENCE">recorded</EVENT> at 218.84 points as against 218.48 points <TIMEX3 tid="t5" type="DATE" value="2017-W04">last week</TIMEX3>. 
+ 
+SPI for the combined group in <TIMEX3 tid="t6" type="DATE" value="2017-W05">the week</TIMEX3> under review <EVENT eid="e4" class="OCCURRENCE">witnessed</EVENT> an increase of 0.81 percent. 
+ 
+The weekly SPI is <EVENT eid="e5" class="OCCURRENCE">computed</EVENT> with base <TIMEX3 tid="t7" type="DURATION" value="P2007Y">year 2007-08</TIMEX3>, <EVENT eid="e6" class="OCCURRENCE">covering</EVENT> 17 urban centers and 53 essential items for all income groups and <EVENT eid="e7" class="OCCURRENCE">combined</EVENT>. 
+ 
+Meanwhile, SPI for the lowest income group up to Rs8,000 <EVENT eid="e8" class="OCCURRENCE">witnessed</EVENT> nominal increase of 0.08 percent, as it <EVENT eid="e9" class="OCCURRENCE">went</EVENT> up from 209 points in <TIMEX3 tid="t8" type="DATE" value="PAST_REF">the previous week</TIMEX3> to 209.17 points during <TIMEX3 tid="t9" type="DATE" value="2017-W05">the week</TIMEX3> under <EVENT eid="e10" class="OCCURRENCE">review</EVENT>. 
+ 
+Average prices of 14 items registered decrease, eight items <EVENT eid="e11" class="OCCURRENCE">increased</EVENT>, while the remaining 31 items prices <EVENT eid="e12" class="OCCURRENCE">remained unchanged</EVENT>. was <EVENT eid="e13" class="OCCURRENCE">posted</EVENT> in Business of TheNews International - https://www.thenews.com.pk on <TIMEX3 tid="t10" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3> and was last <EVENT eid="e14" class="OCCURRENCE">updated</EVENT> on <TIMEX3 tid="t11" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3>. This news story is related to Print/182401-SPI-inches-up-016-percent/ - <EVENT eid="e15" class="OCCURRENCE">breaking</EVENT> news, latest news, pakistan ne. Permanent link to the news story "SPI inches up 0.16 percent" is https://www.thenews.com.pk/print/182401-SPI-inches-up-016-percent.
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ie11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie10" eventID="e10" pos="NOUN" tense="NONE" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie13" eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie12" eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie15" eventID="e15" pos="VERB" tense="PRESPART" aspect="NONE" polarity="NEG" modality="N/A" />
+<MAKEINSTANCE eiid="ie14" eventID="e14" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie9" eventID="e9" pos="UNKNOWN" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie8" eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie4" eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie7" eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie6" eventID="e6" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie3" eventID="e3" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+<MAKEINSTANCE eiid="ie2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" modality="N/A" />
+
+<TLINK lid="TL3" timeID="t10" relatedToTime="t11" relType="IDENTITY" />
+<TLINK lid="TL2" eventInstanceID="ie8" relatedToEventInstance="ie9" relType="AFTER" />
+<TLINK lid="TL1" eventInstanceID="ie12" relatedToEventInstance="ie11" relType="SIMULTANEOUS" />
+<TLINK lid="TL0" eventInstanceID="ie10" relatedToTime="t9" relType="IS_INCLUDED" />
+<TLINK lid="TL4" timeID="t11" relatedToTime="t10" relType="IDENTITY" />
+</TimeML>
