@@ -68,7 +68,7 @@ def main():
         for index, doc in enumerate(documents, start=1):
 
             basename = os.path.basename(doc)
-            writein = os.path.join('./output/', basename)
+            writein = os.path.join('./output/manOutput/', basename)
             position = '[{}/{}]'.format(index, len(documents))
             # if writein not in glob.glob('./output/*.*'):
             file_path = '.'.join(writein.split('.')[:-1])
@@ -92,14 +92,8 @@ def main():
                     logging.info('{} Doc {} annotated.'.format(position,
                                                                basename))
                     output.close()
+            #start integrating the result.
 
-                # except Exception:
-                    # logging.error('{} Doc {} ** skipped **!'.format(
-                    #     position, basename))
-                    # os.remove(file_path)
-            # else:
-            #     logging.info('{} Doc {} already in output folder.'.format(
-            #         position, basename))
 
 
 if __name__ == '__main__':
