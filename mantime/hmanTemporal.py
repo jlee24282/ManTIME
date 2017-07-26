@@ -35,41 +35,39 @@ from StringIO import StringIO
 import tempfile
 import xml.etree.cElementTree as etree
 
-
+from mantime.readers import TempEval3FileReader
+from mantime.writers import TempEval3Writer
+from mantime.attributes_extractor import FullExtractor
 
 class HManTemporals():
-    def __init__(self):
-        pass
+    def __init__(self, filename):
+        self.reader = TempEval3FileReader()
+        self.writer = TempEval3Writer()
 
-    #get one filename and modify the result & generate output
+    # get one filename and modify the result & generate output
     def optimizedOutput(self, filename):
-        heidelOutputDir = '' + filename
-        mantimeOutputDir = '' + filename
+        heidelOutputDir = '../heideltime/data/output/output_byline/' + filename
+        #mantimeOutputDir = '/Users/jooyeonjamielee/Documents/projects/ManTIME/heideltime/' + filename
 
-        hDataFile = open(heidelOutputDir, 'r')
-        mDataFile = open(mantimeOutputDir, 'r')
+        hdoc = self.extractor.extract(self.reader.parse(heidelOutputDir))
+        #mdoc = self.extractor.extract(self.reader.parse(mantimeOutputDir))
 
-        hData = str(hDataFile.readlines())
-        mData = str(mDataFile.readlines())
+        print str(hdoc)
+        #print str(hdoc)
 
-        #DATE
+        # DATE - intersection
 
-        #DURATION - get it from mantime
+        # DURATION - get it from mantime
 
-        #TIME
+        # TIME - intersection
 
-        #SET - get it from mantime
-
-        hDataFile.close()
-        mDataFile.close()
-
-
+        # SET - get it from mantime
 
 def main():
     '''Simple ugly non-elegant test.'''
     '''To run file process only'''
     hm = HManTemporals()
-    hm.optimizedOutput()
+    hm.optimizedOutput('outputdata_20170129080634_0.txt')
 
 if __name__ == '__main__':
     main()
