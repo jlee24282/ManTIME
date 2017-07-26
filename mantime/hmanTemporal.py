@@ -37,7 +37,7 @@ class HManTemporals():
     def optimizedOutput(self, filename):
         basepath = os.path.dirname(__file__)
         heidelOutputDir = os.path.abspath(os.path.join(basepath, '..','heideltime/data/output_byline/', filename+'.txt'))
-        mantimeOutputDir = os.path.abspath(os.path.join(basepath,'..','output/manOutput/', filename[6:len(filename)-4]+'.tml'))
+        mantimeOutputDir = os.path.abspath(os.path.join(basepath,'..','output/manOutput/', filename[6:len(filename)]+'.tml'))
 
         print heidelOutputDir
         print mantimeOutputDir

@@ -16,7 +16,7 @@ from mantime.hmanTemporal import HManTemporals
 
 def main():
     hm = HManTemporals()
-    hm.optimizedOutput('outputdata_20170129080634_0.txt')
+    hm.optimizedOutput('outputdata_20170129080634_0')
 
 
 
