@@ -24,6 +24,7 @@
 from readers import TempEval3FileReader
 from writers import TempEval3Writer
 from attributes_extractor import FullExtractor
+import os.path
 
 
 class HManTemporals():
@@ -34,14 +35,14 @@ class HManTemporals():
 
     # get one filename and modify the result & generate output
     def optimizedOutput(self, filename):
-        heidelOutputDir = '../heideltime/data/output/output_byline/' + filename
-        # mantimeOutputDir = '/Users/jooyeonjamielee/Documents/projects/ManTIME/heideltime/' + filename
+        basepath = os.path.dirname(__file__)
+        heidelOutputDir = os.path.abspath(os.path.join(basepath, '..','heideltime/data/output_byline/', filename+'.txt'))
+        mantimeOutputDir = os.path.abspath(os.path.join(basepath,'..','output/manOutput/', filename[6:len(filename)-4]+'.tml'))
 
+        mdoc = self.extractor.extract(self.reader.parse(mantimeOutputDir))
+        print str(mdoc)
         hdoc = self.extractor.extract(self.reader.parse(heidelOutputDir))
-        # mdoc = self.extractor.extract(self.reader.parse(mantimeOutputDir))
-
         print str(hdoc)
-        # print str(hdoc)
 
         # DATE - intersection
 
@@ -56,7 +57,7 @@ def main():
     '''Simple ugly non-elegant test.'''
     '''To run file process only'''
     hm = HManTemporals()
-    hm.optimizedOutput('outputdata_20170129080634_0.txt')
+    hm.optimizedOutput('outputdata_20170129080634_0')
 
 
 if __name__ == '__main__':
