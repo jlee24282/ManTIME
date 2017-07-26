@@ -30,6 +30,7 @@ class HManTemporals():
     def __init__(self, filename):
         self.reader = TempEval3FileReader()
         self.writer = TempEval3Writer()
+        self.extractor = FullExtractor()
 
     # get one filename and modify the result & generate output
     def optimizedOutput(self, filename):

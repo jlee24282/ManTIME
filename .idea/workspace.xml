@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ManTIME$hmanTemporal.coverage" NAME="hmanTemporal Coverage Results" MODIFIED="1501042517731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantime" />
+    <SUITE FILE_PATH="coverage/ManTIME$hmanTemporal.coverage" NAME="hmanTemporal Coverage Results" MODIFIED="1501042644512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mantime" />
     <SUITE FILE_PATH="coverage/ManTIME$ngNER.coverage" NAME="ngNER Coverage Results" MODIFIED="1498364552316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ManTIME$mantime.coverage" NAME="mantime Coverage Results" MODIFIED="1500701284855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -23,8 +23,8 @@
       <file leaf-file-name="mantime.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mantime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="49" column="48" lean-forward="false" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="48" />
+            <state relative-caret-position="760">
+              <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="47" />
               <folding>
                 <element signature="e#390#405#0" expanded="true" />
               </folding>
@@ -35,8 +35,8 @@
       <file leaf-file-name="mantime.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mantime/mantime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="59" column="47" lean-forward="true" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+            <state relative-caret-position="956">
+              <caret line="73" column="34" lean-forward="false" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="34" />
               <folding>
                 <element signature="e#557#571#0" expanded="true" />
                 <marker date="1500998594000" expanded="true" signature="3622:3923" ph="..." />
@@ -61,11 +61,21 @@
       <file leaf-file-name="hmanTemporal.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mantime/hmanTemporal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
               <folding>
                 <element signature="e#769#816#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="document.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantime/model/document.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6353">
+              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,6 +117,8 @@
       <find>reader</find>
       <find>TextReader</find>
       <find>reader.parse</find>
+      <find>extract</find>
+      <find>extractor</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/corenlp-python/stanford-corenlp</dir>
@@ -569,7 +581,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501042547728</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JJ">
+      <created>1501042632682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1501042632682</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -622,13 +641,6 @@
     <entry file="file://$PROJECT_DIR$/mantime/model/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantime/model/document.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4993">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -785,28 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mantime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="49" column="48" lean-forward="false" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="48" />
-          <folding>
-            <element signature="e#390#405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mantime/mantime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="59" column="47" lean-forward="true" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
-          <folding>
-            <element signature="e#557#571#0" expanded="true" />
-            <marker date="1500998594000" expanded="true" signature="3622:3923" ph="..." />
-            <marker date="1500998594000" expanded="true" signature="4583:5304" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/heideltime/data/output_byline/outputdata_20170129080634_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -831,10 +821,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mantime/model/document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6353">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantime/mantime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="956">
+          <caret line="73" column="34" lean-forward="false" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="34" />
+          <folding>
+            <element signature="e#557#571#0" expanded="true" />
+            <marker date="1500998594000" expanded="true" signature="3622:3923" ph="..." />
+            <marker date="1500998594000" expanded="true" signature="4583:5304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="47" />
+          <folding>
+            <element signature="e#390#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mantime/hmanTemporal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
           <folding>
             <element signature="e#769#816#0" expanded="true" />
           </folding>
