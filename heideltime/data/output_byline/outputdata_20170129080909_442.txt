@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Published on  : 
+  
+Comment 
+    Latest news        
+Palinfo.com -جميع الحقوق محفوظة - المركز الفلسطيني للإعلام - © <TIMEX3 tid="t1" type="DATE" value="2015">2015</TIMEX3> 
+   
+     
+{{if type== "link"}} ${name} 
+${caption} ${description} {{/if}} 
+${created_time}·{{if comments}}${comments.count}Comment{{if comments.count>1}}s{{/if}}{{else}}0 Comments{{/if}}·{{if likes}}${likes.count}Like{{if likes.count>1}}s{{/if}}{{else}}0 Likes{{/if}}
+</TimeML>

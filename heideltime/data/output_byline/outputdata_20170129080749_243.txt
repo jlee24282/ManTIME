@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+A simulation of the dengue virus fusing with the membrane of a vesicle inside a cell. Credit: A*STAR Bioinformatics Institute 
+
+The near-spherical outer structure of the dengue virus has been recreated in remarkable detail by a team of bioinformaticians in Singapore. The virtual model could show researchers how the virus fuses with and infects human cells at the molecular level. "We want to understand the relationship between structure and dynamics along the pathway of fusion and infection, with a view to developing new vaccines and therapies," says Peter Bond, who, together with Chandra Verma, led the study at the A*STAR Bioinformatics Institute. 
+
+Dengue is a mosquito-borne virus that infects an estimated 400 million people <TIMEX3 tid="t2" type="DURATION" value="P1Y">a year</TIMEX3>, resulting in 21,000 deaths worldwide. It is a flavivirus—the same family as the Zika virus, Japanese encephalitis and yellow fever. Flaviviruses share a common structure: a single-stranded RNA genome encased in a capsule made up of a fatty lipid sandwich stuffed with proteins called envelopes and membranes. 
+
+Once inside human cells, the smooth outer shell of the dengue virus forms spikes and fuses with the membrane of transport vesicles called endosomes, infecting the cell through the release of the viral genome. Researchers are particularly interested in how the external envelope proteins facilitate this process. "These proteins are the first thing to come into contact with our immune system," says Bond. "If we are going to protect ourselves, we need to recognize and, ideally, neutralize them." 
+
+The problem with standard experimental techniques such as cryoelectron microscopy for visualizing biological systems is that they can only detect ordered, uniform solids. Dengue's lipid membranes, however, are in a free-flowing state, somewhere between solid and liquid. Bond and Verma's teams overcame this hurdle using computational modeling, which applies Newton's laws of motion to a static structure "to create a movie that zooms in on all the jiggling atoms." 
+
+They simulated the viral shell, and played with different components to see what happened with the overall structure. "We used a Frankenstein-style approach to chop off bits of protein from the virus and see how it affected the morphology, a difficult job in the wet lab." 
+
+Surprisingly, the membrane's curves seemed to be held in place by scaffolding proteins external to the membrane. And the positioning of envelope and membrane proteins was secured by specific interactions with negatively-charged lipids in the fatty membrane, a finding that could be exploited for treatment development. 
+
+The results have important implications for the fusion process (see image), which Bond and Verma plan to study in more detail through a larger Singapore-wide collaboration supported by the Ministry of Education. The teams are also expanding their scope to other flaviviruses, including Zika. 
+
+More information: J.K. Marzinek et al. Pushing the Envelope: Dengue Viral Membrane Coaxed into Shape by Molecular Simulations, Structure (<TIMEX3 tid="t3" type="DATE" value="2016">2016</TIMEX3>). DOI: 10.1016/j.str.2016.05.014 
+
+Provided by: Agency for Science, Technology and Research (A*STAR), Singapore 
+
+Explore further 
+
+First steps to neutralizing Zika: How highly potent antibody neutralizes Zika infection discovered 
+
+<TIMEX3 tid="t5" type="DATE" value="2016-11-24">Nov 24, 2016</TIMEX3> 
+
+As Zika spreads throughout the world, the call for rapid development of therapeutics to treat Zika rings loud and clear. Taking a step further in identifying a possible therapeutic candidate, a team of researchers at Duke-NUS ... 
+
+Why humans (and not mice) are susceptible to Zika 
+
+<TIMEX3 tid="t9" type="DATE" value="2016-05-19">May 19, 2016</TIMEX3> 
+
+Flaviviruses—such as Zika, dengue, and yellow fever—have emerged as human (and other primate) pathogens because of their ability to specifically overcome our anti-viral defenses. In the case of Zika, researchers at the ... 
+
+Cracking the mystery of Zika virus replication 
+
+<TIMEX3 tid="t12" type="DATE" value="2016-07-26">Jul 26, 2016</TIMEX3> 
+
+Zika virus has <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> become a household word. It can cause microcephaly, a birth defect where a baby's head is smaller than usual. Additionally, it is associated with Guillain-Barré syndrome, a neurological disorder that could ... 
+
+Study could lead to vaccines and treatment for dengue virus 
+
+<TIMEX3 tid="t16" type="DATE" value="2015-07-02">Jul 02, 2015</TIMEX3> 
+
+Researchers at Vanderbilt University and the National University of Singapore have determined the structure of a human monoclonal antibody which, in an animal model, strongly neutralizes a type of the potentially lethal dengue ...
+</TimeML>

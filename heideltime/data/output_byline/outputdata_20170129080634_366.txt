@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+function onPlayerReadyVidible(e){'undefined'!=typeof HPTrack&&HPTrack.Vid.Vidible_track(e)}!function(e,i){if(e.vdb_Player){if('object'==typeof commercial_video){var a='',o='m.fwsitesection='+commercial_video.site_and_category;if(a+=o,commercial_video['package']){var c='&m.fwkeyvalues=sponsorship%3D'+commercial_video['package'];a+=c}e.setAttribute('vdb_params',a)}i(e.vdb_Player)}else{var t=arguments.callee
+</TimeML>

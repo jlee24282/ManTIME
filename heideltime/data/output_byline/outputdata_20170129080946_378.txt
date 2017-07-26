@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Microsoft formally announced Visual Studio <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> <TIMEX3 tid="t2" type="DATE" value="PAST_REF">a few months ago</TIMEX3> , and offered a release candidate as well. The integrated development environment (IDE) had been in preview for quite some time under the name Visual Studio "15" , and offers various improvements and enhancements over previous versions, included an increased focus on mobile cross-platform development. 
+ 
+The company has <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> released another update for the IDE , integrating new features and fixing a number of issues. 
+  
+Microsoft has released a summary of the change log relevant to the latest update to Visual Studio <TIMEX3 tid="t5" type="DATE" value="2017">2017</TIMEX3> Release Candidate. It includes: 
+ The .NET Core and ASP.NET Core workload is no longer in preview. We have fixed several bugs and improved usability of .NET Core and ASP.NET Core Tooling.  Team Explorer connect experience is <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> improved to make it easier to find the projects and repos to which you want to connect.  The Advanced Save option is back due to popular demand.  Multiple installation-related issues are <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> fixed in this update, including hangs. We’ve also added a retry button when installation fails, disambiguated Visual Studio installs in the Start menu, and added support for creating a layout for offline install.  
+Moreover, the company has also removed Data Science and Python Development workloads. Microsoft explains that as the IDE approaches public release, many components including the ones mentioned above, won't be able to meet some necessary requirements - such as translation to non-English languages. As a result, they'll be available as separate downloads later. 
+ 
+Microsoft has encouraged users of the release candidate to report bugs , track feedback on developer forums , and voice suggestions on UserVoice . For the full list of fixes and known issues in the latest update of Visual Studio <TIMEX3 tid="t8" type="DATE" value="2017">2017</TIMEX3> Release Candidate, you can consult Microsoft's dedicated site here .
+</TimeML>

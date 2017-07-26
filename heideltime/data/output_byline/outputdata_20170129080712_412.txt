@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+A new circuit-mapping approach to probe the brain should help improve treatments for Parkinson’s disease. It also provides a methodology to identify, map and ultimately repair neural circuits associated with other brain diseases. Credit: iStock / D3Damon 
+
+If a piece of electronics isn't working, troubleshooting the problem often involves probing the flow of electricity through the various components of the circuit to locate any faulty parts. 
+
+Stanford bioengineer and neuroscientist Jin Hyung Lee, who studies Parkinson's disease, has adapted that idea to diseases of the brain, creating a new way to turn on specific types of neurons in order to observe how this affects the whole brain. The work is described in the <TIMEX3 tid="t1" type="DATE" value="2017-01-26">Jan. 26</TIMEX3> issue of Neuron. 
+
+Lee, who trained as an electrical engineer before becoming a brain researcher, wanted to give neuroscientists a way to probe brain ailments similar to how engineers troubleshoot faulty electronics. 
+
+"Electrical engineers try to figure out how individual components affect the overall circuit to guide repairs," Lee said. 
+
+In the short term, her technique should help improve treatments for Parkinson's disease. In the long run it provides a methodology to identify, map and ultimately repair neural circuits associated with other brain diseases. 
+
+Seeing the circuit 
+
+Lee's circuit-mapping approach combines two experimental tools with a computational method. The first experimental tool is optogenetics. Pioneered by Stanford bioengineer Karl Deisseroth, optogenetics modifies specific types of neurons – the basic working parts of the brain – so they can be turned on in response to light. The second experimental tool is called functional MRI, or fMRI, which measures blood flow in the brain. Increased blood flow is associated with increased activity. Using optogenetics to turn on a specific type of neuron, and fMRI to observe how other regions of the brain responded, Lee then used a computational analysis to map the entire, specific neural circuit and also determine its function. 
+
+Controlling Parkinson's tremors 
+
+One hallmark of Parkinson's disease are uncontrollable tremors. Neuroscientists believe that these tremors are caused by malfunctions in the neural pathways that control motion. They know that different regions of the brain are constantly forming circuits to carry out tasks, whether motion or speech. However, prior to Lee's technique, researchers had no way to show how activating a specific type of neuron might cause a specific circuit to form in the whole brain. 
+
+Testing her approach on rats, Lee probed two different types of neurons known to be involved in Parkinson's disease – although it wasn't known exactly how. Her team found that one type of neuron activated a pathway that called for greater motion while the other activated a signal for less motion. Lee's team then designed a computational approach to draw circuit diagrams that underlie these neuron-specific brain circuit functions. 
+
+"This is the first time anyone has shown how different neuron types form distinct whole brain circuits with opposite outcomes," Lee said. 
+
+Lee said the findings in this paper should help to improve treatments for Parkinson's disease. Neurosurgeons are already using a technique called deep brain stimulation (DBS) to calm Parkinson's tremors in their patients. DBS delivers tiny electric jolts to neurons thought to be responsible for the tremors. A more precise understanding of the how those neurons work to control motion could help guide more effective stimulation. 
+
+But more broadly speaking, Lee thinks that her technique – optogenetic fMRI combined with computational modeling – gives researchers a new way to reverse-engineer the functions of the many different types of neurons in the brain and the bafflingly diverse array of neural circuits formed to carry out different commands. 
+
+More information: David Bernal-Casas et al. Studying Brain Circuit Function with Dynamic Causal Modeling for Optogenetic fMRI, Neuron (<TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3>). DOI: 10.1016/j.neuron.2016.12.035 
+
+Provided by: Stanford University 
+
+Explore further 
+
+Biologists identify signals that drive distinct behavior in microscopic nematode worms 
+
+<TIMEX3 tid="t4" type="DATE" value="2017-01-19">Jan 19, 2017</TIMEX3> 
+
+Dr. Kevin Collins carefully places a petri dish with what looks like a blotch of yellowish slime under a microscope. Magnified, the slime comes alive as hundreds of translucent worms, known as Caenorhabditis elegans, slither ... 
+
+Using light to make single cells self-destruct 
+
+<TIMEX3 tid="t7" type="DATE" value="2017-01-06">Jan 06, 2017</TIMEX3> 
+
+The human brain may be the most complex object in the universe – 86 billion cells of many different types making more than 100 trillion information-bearing connections. This complexity is a daunting prospect for researchers ... 
+
+How brain separates relevant and irrelevant information 
+
+<TIMEX3 tid="t13" type="DATE" value="2016-09-20">Sep 20, 2016</TIMEX3> 
+
+Imagine yourself sitting in a noisy café trying to read. To focus on the book at hand, you need to ignore the surrounding chatter and clattering of cups, with your brain filtering out the irrelevant stimuli coming through ... 
+
+Treating Parkinson's disease by solving the mysteries of movement 
+
+<TIMEX3 tid="t16" type="DATE" value="2016-01-28">Jan 28, 2016</TIMEX3> 
+
+Two secrets of one of the brain's most enigmatic regions have finally been revealed. In a pair of new studies, scientists from the Gladstone Institutes have discovered a specific neural circuit that controls walking, and ...
+</TimeML>

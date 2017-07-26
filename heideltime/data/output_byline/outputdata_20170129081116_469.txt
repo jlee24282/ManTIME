@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+| | <TIMEX3 tid="t6" type="DATE" value="2017-01-29">Sunday, January 29, 2017</TIMEX3> | JewishPress.com    $gJD = gregoriantojd(date('n'),date('j'),date('Y'));
+list($hebrewMonth, $hebrewDay, $hebrewYear) = split('/',jdtojewish($gJD)); 
+$hebrewdate = "$hebrewDay ".jdmonthname( $gJD,4 ).", $hebrewYear"; 
+$hebrewdate = preg_replace('/Adar/','Adar ',$hebrewdate);
+$hebrewdate = preg_replace('/Iyyar/','Iyar',$hebrewdate);
+?>  
+<TIMEX3 tid="t10" type="DATE" value="2017-01-29">January 29, 2017</TIMEX3> / 2 Shevat, 5777 
+   
+News & Views 
+    
+click for 
+eEdition 
+  
+Sponsored Post 
+    
+Printed from: http://www.jewishpress.com/news/breaking-news/federal-judge-stays-trump-deportations-airport-protests-erupt/<TIMEX3 tid="t12" type="DATE" value="2017">2017</TIMEX3>/01/29/ 
+ 
+Scan this QR code to visit this page online
+</TimeML>

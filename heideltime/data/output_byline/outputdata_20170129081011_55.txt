@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Open Access Article 
+ 
+Energies  <TIMEX3 tid="t2" type="DATE" value="2017">2017</TIMEX3> , 10 (2), 168; doi:10.3390/en10020168 (registering DOI) 
+    
+1 
+ 
+Department of Electrical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China 
+   
+2 
+ 
+Electric Power Research Institute of China, Beijing <TIMEX3 tid="t1" type="DATE" value="1001-9-2">100192</TIMEX3>, China 
+    
+* 
+ 
+Author to whom correspondence should be addressed. 
+   
+Academic Editor: Josep M. Guerrero 
+ 
+Received: <TIMEX3 tid="t11" type="DATE" value="2016-10-02">2 October 2016</TIMEX3> / Revised: <TIMEX3 tid="t12" type="DATE" value="2016-12-28">28 December 2016</TIMEX3> / Accepted: <TIMEX3 tid="t13" type="DATE" value="2017-01-16">16 January 2017</TIMEX3> / Published: <TIMEX3 tid="t14" type="DATE" value="2017-01-29">29 January 2017</TIMEX3> 
+ 
+No 
+   
+ N - k contingency estimation plays a very important role in the operation and expansion planning of power systems, the method of which is traditionally based on heuristic screening. This paper stringently analyzes the best and worst states of power systems given the uncertainties of N - k contingency and interval load. For the sake of simplification and tractable computation, an approximate direct <TIMEX3 tid="t23" type="DATE" value="PRESENT_REF">current</TIMEX3> (DC) power flow model was used. Rigorous optimization models were established for identifying the worst and best scenarios considering the contingencies of generators and transmission lines together with their uncertain loads. It is very useful to identify the worst N - k contingencies with interval loads. If the worst existing scenario meets security standards, all scenarios must satisfy it. The mathematical model established for finding the worst N - k contingency with interval load is a bi-level optimization model. In this paper, strong duality theory and mathematical linearization were applied to the solution of bi-level optimization. The computational results of standard cases validate the effectiveness of the proposed method and illustrate that generator contingency has more impact on minimum load shedding than transmission line contingency. 
+ This is an open access article distributed under the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. (CC BY 4.0).    Never miss any articles matching your research from any publisher  Get alerts for new papers matching your research  Find out the new papers from selected authors  Updated daily for 49'000+ journals and 6000+ publishers  Define your Scifeed <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">now</TIMEX3>     
+MDPI and ACS Style 
+ 
+Hong, S.; Cheng, H.; Zeng, P. An N - k Analytic Method of Composite Generation and Transmission with Interval Load. Energies  <TIMEX3 tid="t25" type="DATE" value="2017">2017</TIMEX3> , 10 , 168. 
+ AMA Style 
+Hong S, Cheng H, Zeng P. An N - k Analytic Method of Composite Generation and Transmission with Interval Load. Energies . <TIMEX3 tid="t26" type="DATE" value="2017">2017</TIMEX3>; 10(2):168. 
+ Chicago/Turabian Style 
+Hong, Shaoyun; Cheng, Haozhong; Zeng, Pingliang. <TIMEX3 tid="t27" type="DATE" value="2017">2017</TIMEX3>. "An N - k Analytic Method of Composite Generation and Transmission with Interval Load." Energies 10, no. 2: 168. 
+  
+Show more citation formats  Show less citations formats 
+  
+Note that from the first issue of <TIMEX3 tid="t28" type="DATE" value="2016">2016</TIMEX3>, MDPI journals use article numbers instead of page numbers. See further details here . 
+     
+Article metric data becomes available <TIMEX3 tid="t30" type="DURATION" value="P1D" mod="APPROX">approximately 24 hours</TIMEX3> after publication online. 
+  
+No 
+ 
+No 
+ [Return to top]
+</TimeML>

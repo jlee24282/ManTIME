@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Resend Email Verification 
+
+Sorry we could not verify that email address. Enter your email below and we'll send you another email. 
+
+{* #resendVerificationForm *} {* traditionalSignIn_emailAddress *} 
+
+{* submitButton *} 
+
+{* /resendVerificationForm *}
+</TimeML>

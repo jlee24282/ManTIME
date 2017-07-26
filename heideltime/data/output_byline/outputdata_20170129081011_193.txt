@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Search by city or zip code. Press enter or select the go button to submit request 
+              
+Auto Refresh: OFF  
+      
+NOTE: River forecasts for this location take into account past precipitation and the precipitation amounts expected <TIMEX3 tid="t2" type="DURATION" value="P2D" mod="APPROX">approximately 48 hours</TIMEX3> into the future from the forecast issuance time. 
+ 
+NOTE: Gauge reading may be affected by ice during freezing weather from <TIMEX3 tid="t4" type="DATE" value="2017-11">November</TIMEX3> to <TIMEX3 tid="t5" type="DATE" value="2017-04">April</TIMEX3>. 
+ NOTE: Forecasts for the Grand River at Ionia are issued as needed during times of high water, but are not routinely available.        Flood Categories (in feet) 
+ Major Flood Stage:  25  Moderate Flood Stage:  23  Flood Stage:  21  Action Stage:  13.5  Low Stage (in feet):  -9999  
+Historic Crests 
+(1) 24.69 ft on <TIMEX3 tid="t8" type="DATE" value="2013-04-20">04/20/2013</TIMEX3> 
+(2) 24.30 ft on <TIMEX3 tid="t9" type="DATE" value="1948-03-21">03/21/1948</TIMEX3> 
+(3) 23.60 ft on <TIMEX3 tid="t10" type="DATE" value="1947-04-07">04/07/1947</TIMEX3> 
+(4) 23.43 ft on <TIMEX3 tid="t11" type="DATE" value="1960-04-01">04/01/1960</TIMEX3> 
+(5) 23.41 ft on <TIMEX3 tid="t12" type="DATE" value="2004-05-25">05/25/2004</TIMEX3> 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+<TIMEX3 tid="t28" type="DATE" value="PAST_REF">Recent</TIMEX3> Crests 
+(1) 24.69 ft on <TIMEX3 tid="t18" type="DATE" value="2013-04-20">04/20/2013</TIMEX3> 
+(2) 21.79 ft on <TIMEX3 tid="t19" type="DATE" value="2013-04-13">04/13/2013</TIMEX3> 
+(3) 20.71 ft on <TIMEX3 tid="t20" type="DATE" value="2011-04-30">04/30/2011</TIMEX3> 
+(4) 18.25 ft on <TIMEX3 tid="t21" type="DATE" value="2010-03-15">03/15/2010</TIMEX3> 
+(5) 19.44 ft on <TIMEX3 tid="t22" type="DATE" value="2009-02-14">02/14/2009</TIMEX3> 
+Show More <TIMEX3 tid="t29" type="DATE" value="PAST_REF">Recent</TIMEX3> Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+(1) 5.61 ft on <TIMEX3 tid="t30" type="DATE" value="1977-07-16">07/16/1977</TIMEX3> 
+(2) 6.20 ft on <TIMEX3 tid="t31" type="DATE" value="1954-09-08">09/08/1954</TIMEX3> 
+
+   
+Show FEMA's National Flood Hazard Layers 
+   
+FEMA's National Flood Hazard Layers not showing? 
+  
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+      
+Zoom Level:16 
+   
+Legend 
+   
+FEMA Layer 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.     
+Latitude: 42.971944° N, Longitude: 85.069167° W, Horizontal Datum: NAD83/WGS84 
+ River Stage 
+Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  21 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
+(gauge height = 0)  Elevation 
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  615.38 ft  636.38 ft  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available     
+<TIMEX3 tid="t37" type="DATE" value="PRESENT_REF">Current</TIMEX3>/Historical Observations: 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .
+</TimeML>

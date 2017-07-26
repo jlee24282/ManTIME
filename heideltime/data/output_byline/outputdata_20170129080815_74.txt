@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Search by city or zip code. Press enter or select the go button to submit request 
+              
+Auto Refresh: OFF  
+      
+NOTE: River forecasts for this location take into account past precipitation and the precipitation amounts expected <TIMEX3 tid="t2" type="DURATION" value="P2D" mod="APPROX">approximately 48 hours</TIMEX3> into the future from the forecast issuance time. 
+ NOTE: Forecasts for the Ohio River at J.T. Myers Lock and Dam are issued routinely year-round.        Flood Categories (in feet) 
+ Major Flood Stage:  60  Moderate Flood Stage:  49  Flood Stage:  37  Action Stage:  33  Low Stage (in feet):  -9999  
+Historic Crests 
+(1) 64.40 ft on <TIMEX3 tid="t3" type="DATE" value="1937-02-01">02/01/1937</TIMEX3> 
+(2) 57.80 ft on <TIMEX3 tid="t4" type="DATE" value="1913-04-05">04/05/1913</TIMEX3> 
+(3) 56.94 ft on <TIMEX3 tid="t5" type="DATE" value="2011-05-06">05/06/2011</TIMEX3> 
+(4) 54.60 ft on <TIMEX3 tid="t6" type="DATE" value="1945-03-14">03/14/1945</TIMEX3> 
+(5) 54.00 ft on <TIMEX3 tid="t7" type="DATE" value="1950-01-19">01/19/1950</TIMEX3> 
+Show More Historic Crests 
+(P) : Preliminary values subject to further review. 
+
+<TIMEX3 tid="t23" type="DATE" value="PAST_REF">Recent</TIMEX3> Crests 
+(1) 39.07 ft on <TIMEX3 tid="t13" type="DATE" value="2016-03-01">03/01/2016</TIMEX3> 
+(2) 44.51 ft on <TIMEX3 tid="t14" type="DATE" value="2016-01-03">01/03/2016</TIMEX3> 
+(3) 49.40 ft on <TIMEX3 tid="t15" type="DATE" value="2015-03-20">03/20/2015</TIMEX3> 
+(4) 42.51 ft on <TIMEX3 tid="t16" type="DATE" value="2014-04-11">04/11/2014</TIMEX3> 
+(5) 40.49 ft on <TIMEX3 tid="t17" type="DATE" value="2013-12-30">12/30/2013</TIMEX3> 
+Show More <TIMEX3 tid="t24" type="DATE" value="PAST_REF">Recent</TIMEX3> Crests 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+(1) 11.69 ft on <TIMEX3 tid="t25" type="DATE" value="2005-08-07">08/07/2005</TIMEX3> 
+(2) 12.11 ft on <TIMEX3 tid="t26" type="DATE" value="2006-08-28">08/28/2006</TIMEX3> 
+(3) 12.20 ft on <TIMEX3 tid="t27" type="DATE" value="2012-06-10">06/10/2012</TIMEX3> 
+Show More Low Water Records 
+   
+Show FEMA's National Flood Hazard Layers 
+   
+FEMA's National Flood Hazard Layers not showing? 
+  
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+      
+Zoom Level:16 
+   
+Legend 
+   
+FEMA Layer 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.    If you notice any errors in the below information, please contact our Webmaster  66  The top of the levee is reached at Uniontown.  64.4  This flood will exceed the highest stage on record. Large amounts of property damage can be expected. Evacuation of many homes and businesses becomes necessary.  49  The top of the protection is reached at J.T. Myers Lock and Dam.  37  Minor flooding occurs affecting mainly bottomland and surrounding low lying areas.  33  The road to several farms above Uniontown floods.  Photos 
+(1) J.T. Myers Lock and Dam 
+(2) Ohio River Upstream 
+(3) Ohio River Downstream 
+(4) South Side of Wabash Island 
+  
+Latitude: 37.791667° N, Longitude: 87.986111° W, Horizontal Datum: NAD83/WGS84 
+ River Stage 
+Reference Frame  Gauge Height  Flood Stage  Uses  NWS stage  0 ft  37 ft  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
+(gauge height = 0)  Elevation 
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  311.97 ft  348.97 ft     
+<TIMEX3 tid="t34" type="DATE" value="PRESENT_REF">Current</TIMEX3>/Historical Observations: 
+     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .
+</TimeML>

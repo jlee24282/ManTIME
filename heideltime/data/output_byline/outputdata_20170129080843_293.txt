@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Search by city or zip code. Press enter or select the go button to submit request 
+              
+Auto Refresh: OFF  
+      
+NOTE: River forecasts for this location take into account past precipitation and the precipitation amounts expected <TIMEX3 tid="t2" type="DURATION" value="P2D" mod="APPROX">approximately 48 hours</TIMEX3> into the future from the forecast issuance time. 
+ NOTE: Forecasts for the Wisconsin River at Castle Rock Dam are issued as needed during times of high water, but are not routinely available.        Flood Categories (in KCFS) 
+ Major Flood Flow:  45  Moderate Flood Flow:  37.5  Flood Flow:  30  Action Flow:  10  Low Stage (in feet):  -9999  
+Historic Crests 
+(1) 54,763 cfs on <TIMEX3 tid="t3" type="DATE" value="2010-09-25">09/25/2010</TIMEX3> 
+(2) 45,647 cfs on <TIMEX3 tid="t4" type="DATE" value="2011-04-12">04/12/2011</TIMEX3> 
+(P) : Preliminary values subject to further review. 
+
+<TIMEX3 tid="t11" type="DATE" value="PAST_REF">Recent</TIMEX3> Crests 
+(1) 45,647 cfs on <TIMEX3 tid="t7" type="DATE" value="2011-04-12">04/12/2011</TIMEX3> 
+(2) 54,763 cfs on <TIMEX3 tid="t8" type="DATE" value="2010-09-25">09/25/2010</TIMEX3> 
+
+(P) : Preliminary values subject to further review. 
+
+Low Water Records 
+<TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">Currently</TIMEX3> none available. 
+   
+Show FEMA's National Flood Hazard Layers 
+   
+FEMA's National Flood Hazard Layers not showing? 
+  
+Note: Your zoom level may have changed. ESRI's zoom levels must be between 14 and 16 to show National Flood Hazard layers. 
+      
+Zoom Level:14 
+   
+Legend 
+   
+FEMA Layer 
+    Gauge Location   Disclaimer  Latitude/Longitude Disclaimer: The gauge location shown in the above map is the approximate location based on the latitude/longitude coordinates provided to the NWS by the gauge owner.     
+Latitude: 43.865833° N, Longitude: 89.954722° W, Horizontal Datum: NAD83/WGS84 
+ River Stage 
+Reference Frame  Gauge Height  Flood Stage  Uses  NWS flow  Not Available  Not Available  Interpreting hydrographs and NWS watch, warnings, and forecasts, and inundation maps  Vertical Datum  Elevation 
+(gauge height = 0)  Elevation 
+(gauge height = flood stage)  Elevation information source  NAVD88  Not Available  Not Available  Survey grade GPS equipment, FEMA flood plain maps, newer USGS topographic maps  NGVD 29  Not Available  Not Available  Older USGS topographic maps, NGVD29 benchmarks  MSL  Not Available  Not Available  Older USGS topographic maps, MSL benchmarks  Other  Not Available  Not Available      Target elevation of the lake pool is 882 ft. Above this level, the dam will release extra water through the gates. For Lake Pool elevation, please visit the Wisconsin Public Service website.     The National Weather Service prepares its forecasts and other services in collaboration with agencies like the US Geological Survey, US Bureau of Reclamation, US Army Corps of Engineers, Natural Resource Conservation Service, National Park Service, ALERT Users Group, Bureau of Indian Affairs, and many state and local emergency managers across the country. For details, please click here .
+</TimeML>

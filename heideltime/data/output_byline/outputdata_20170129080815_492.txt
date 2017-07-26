@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Open Access Article 
+ 
+Water  <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> , 9 (2), 76; doi:10.3390/w9020076 (registering DOI) 1, * ,  Shenglan Lu  2  ,  Qingyu Feng  3  ,  Ruoyu Wang  4  ,  Jungang Gao  1  ,  Dawn Michelle Brady  5  ,  Amirreza Sharifi  6  ,  Jungkyu Ahn  7  ,  Shien-Tsung Chen  8  ,  Jaehak Jeong  1  ,  Michael James White  9  and  Jeffrey George Arnold  9      
+1 
+ 
+Blackland Research and Extension Center, Texas A&M University, 720 East Blackland Road, Temple, TX 76502, USA 
+   
+2 
+ 
+Department of Bioscience, Aarhus University, Vejlsøvej 27, 8600 Silkeborg, Denmark 
+   
+3 
+ 
+Department of Agricultural and Biological Engineering, Purdue University, Hovde Hall, 610 Purdue Mall, West Lafayette, IN 47907, USA 
+   
+4 
+ 
+Integrated Environmental Modeling Branch, United States Environmental Protection Agency, Raleigh, NC 27695, USA 
+   
+5 
+ 
+Aqua-Aerobic Systems, Inc., 6306 N Alpine Rd, Loves Park, IL 61111, USA 
+   
+6 
+ 
+Department of Environmental Science and Technology, University of Maryland, College Park, MD 20742, USA 
+   
+7 
+ 
+Department of Civil and Environmental Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 151-742, Korea 
+   
+8 
+ 
+Department of Water Resources Engineering and Conservation, Feng Chia University, Taichung City 40724, Taiwan 
+   
+9 
+ 
+Grassland, Soil & Water Research Laboratory, United States Department of Agriculture Agricultural Research Service, 808 East Blackland Road, Temple, TX 76502, USA 
+    
+* 
+ 
+Author to whom correspondence should be addressed. 
+   
+Academic Editor: Marco Franchini 
+ 
+Received: <TIMEX3 tid="t11" type="DATE" value="2016-10-03">3 October 2016</TIMEX3> / Revised: <TIMEX3 tid="t12" type="DATE" value="2017-01-13">13 January 2017</TIMEX3> / Accepted: <TIMEX3 tid="t13" type="DATE" value="2017-01-18">18 January 2017</TIMEX3> / Published: <TIMEX3 tid="t14" type="DATE" value="2017-01-29">29 January 2017</TIMEX3> 
+ 
+No 
+   The Soil and Water Assessment Tool <TIMEX3 tid="t6" type="DATE" value="2012">2012</TIMEX3> (SWAT2012) offers four sediment routing methods as optional alternatives to the default simplified Bagnold method. Previous studies compared only one of these alternative sediment routing methods with the default method. The proposed study evaluated the impacts of all four alternative sediment transport methods on sediment predictions: the modified Bagnold equation, the Kodoatie equation, the Molinas and Wu equation, and the Yang equation. The Arroyo Colorado Watershed, Texas, USA, was first calibrated for daily flow. The sediment parameters were then calibrated to <TIMEX3 tid="t23" type="SET" value="XXXX-XX">monthly</TIMEX3> sediment loads, using each of the four sediment routing equations. An automatic calibration tool—Integrated Parameter Estimation and Uncertainty Analysis Tool (IPEAT)—was used to fit model parameters. The four sediment routing equations yielded substantially different sediment sources and sinks. The Yang equation performed best, followed by Kodoatie, Bagnold, and Molinas and Wu equations, according to greater model goodness-of-fit (represented by higher Nash–Sutcliffe Efficiency coefficient and percent bias closer to 0) as well as lower model uncertainty (represented by inclusion of observed data within 95% confidence interval). Since the default method (Bagnold) does not guarantee the best results, modelers should carefully evaluate the selection of alternative methods before conducting relevant studies or engineering projects. View Full-Text  ► ▼ Figures  ---                                                    
+                            ---                                                    
+                            ---                                                    
+                            ---                                                    
+                            ---                                                    
+]]>   This is an open access article distributed under the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. (CC BY 4.0).    Never miss any articles matching your research from any publisher  Get alerts for new papers matching your research  Find out the new papers from selected authors  Updated daily for 49'000+ journals and 6000+ publishers  Define your Scifeed <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">now</TIMEX3>     
+MDPI and ACS Style 
+ 
+Yen, H.; Lu, S.; Feng, Q.; Wang, R.; Gao, J.; Brady, D.M.; Sharifi, A.; Ahn, J.; Chen, S.-T.; Jeong, J.; White, M.J.; Arnold, J.G. Assessment of Optional Sediment Transport Functions via the Complex Watershed Simulation Model SWAT. Water  <TIMEX3 tid="t25" type="DATE" value="2017">2017</TIMEX3> , 9 , 76. 
+ AMA Style 
+Yen H, Lu S, Feng Q, Wang R, Gao J, Brady DM, Sharifi A, Ahn J, Chen S-T, Jeong J, White MJ, Arnold JG. Assessment of Optional Sediment Transport Functions via the Complex Watershed Simulation Model SWAT. Water . <TIMEX3 tid="t26" type="DATE" value="2017">2017</TIMEX3>; 9(2):76. 
+ Chicago/Turabian Style 
+Yen, Haw; Lu, Shenglan; Feng, Qingyu; Wang, Ruoyu; Gao, Jungang; Brady, Dawn M.; Sharifi, Amirreza; Ahn, Jungkyu; Chen, Shien-Tsung; Jeong, Jaehak; White, Michael J.; Arnold, Jeffrey G. <TIMEX3 tid="t27" type="DATE" value="2017">2017</TIMEX3>. "Assessment of Optional Sediment Transport Functions via the Complex Watershed Simulation Model SWAT." Water 9, no. 2: 76. 
+  
+Show more citation formats  Show less citations formats 
+  
+Note that from the first issue of <TIMEX3 tid="t28" type="DATE" value="2016">2016</TIMEX3>, MDPI journals use article numbers instead of page numbers. See further details here .
+</TimeML>
