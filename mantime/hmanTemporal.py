@@ -39,6 +39,9 @@ class HManTemporals():
         heidelOutputDir = os.path.abspath(os.path.join(basepath, '..','heideltime/data/output_byline/', filename+'.txt'))
         mantimeOutputDir = os.path.abspath(os.path.join(basepath,'..','output/manOutput/', filename[6:len(filename)-4]+'.tml'))
 
+        print heidelOutputDir
+        print mantimeOutputDir
+
         mdoc = self.extractor.extract(self.reader.parse(mantimeOutputDir))
         print str(mdoc)
         hdoc = self.extractor.extract(self.reader.parse(heidelOutputDir))
