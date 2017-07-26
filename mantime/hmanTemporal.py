@@ -21,13 +21,13 @@
    interfaces to the duck typing practice.
 """
 
+from readers import TempEval3FileReader
+from writers import TempEval3Writer
+from attributes_extractor import FullExtractor
 
-from mantime.readers import TempEval3FileReader
-from mantime.writers import TempEval3Writer
-from mantime.attributes_extractor import FullExtractor
 
 class HManTemporals():
-    def __init__(self, filename):
+    def __init__(self):
         self.reader = TempEval3FileReader()
         self.writer = TempEval3Writer()
         self.extractor = FullExtractor()
@@ -35,13 +35,13 @@ class HManTemporals():
     # get one filename and modify the result & generate output
     def optimizedOutput(self, filename):
         heidelOutputDir = '../heideltime/data/output/output_byline/' + filename
-        #mantimeOutputDir = '/Users/jooyeonjamielee/Documents/projects/ManTIME/heideltime/' + filename
+        # mantimeOutputDir = '/Users/jooyeonjamielee/Documents/projects/ManTIME/heideltime/' + filename
 
         hdoc = self.extractor.extract(self.reader.parse(heidelOutputDir))
-        #mdoc = self.extractor.extract(self.reader.parse(mantimeOutputDir))
+        # mdoc = self.extractor.extract(self.reader.parse(mantimeOutputDir))
 
         print str(hdoc)
-        #print str(hdoc)
+        # print str(hdoc)
 
         # DATE - intersection
 
@@ -51,11 +51,13 @@ class HManTemporals():
 
         # SET - get it from mantime
 
+
 def main():
     '''Simple ugly non-elegant test.'''
     '''To run file process only'''
     hm = HManTemporals()
     hm.optimizedOutput('outputdata_20170129080634_0.txt')
+
 
 if __name__ == '__main__':
     main()
