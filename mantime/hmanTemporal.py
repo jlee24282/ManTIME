@@ -21,19 +21,6 @@
    interfaces to the duck typing practice.
 """
 
-from abc import ABCMeta, abstractmethod
-import cgi
-import codecs
-import cPickle
-from datetime import datetime
-import logging
-from lxml import etree as letree
-from operator import attrgetter
-import os
-import sys
-from StringIO import StringIO
-import tempfile
-import xml.etree.cElementTree as etree
 
 from mantime.readers import TempEval3FileReader
 from mantime.writers import TempEval3Writer
