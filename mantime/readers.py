@@ -119,6 +119,7 @@ class TextReader(Reader):
     '''Handles textual input.
 
     '''
+
     def __init__(self):
         pass
 
@@ -134,9 +135,12 @@ class TextReader(Reader):
         tmp_file.close()
         with codecs.open(filename, 'w', encoding='utf8') as tmp_file:
             tmp_file.write('<?xml version="1.0" ?>\n')
-            tmp_file.write('<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">\n')
+            tmp_file.write(
+                '<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">\n')
             tmp_file.write('<DOCID>tmp_file</DOCID>\n')
-            tmp_file.write('<DCT><TIMEX3 tid="t0" type="DATE" value="{y}-{m}-{d}" temporalFunction="false" functionInDocument="CREATION_TIME">{y}{m}{d}</TIMEX3></DCT>\n'.format(y=now.year, m=month, d=day))
+            tmp_file.write(
+                '<DCT><TIMEX3 tid="t0" type="DATE" value="{y}-{m}-{d}" temporalFunction="false" functionInDocument="CREATION_TIME">{y}{m}{d}</TIMEX3></DCT>\n'.format(
+                    y=now.year, m=month, d=day))
             tmp_file.write('<TEXT>\n')
             tmp_file.write(cgi.escape(text, True))
             tmp_file.write('</TEXT>\n</TimeML>')
@@ -165,6 +169,26 @@ class TempEval3FileReader(FileReader):
         self.tags_to_spot = {'TIMEX3', 'EVENT'}
         self.file_filter = file_filter
 
+    def getTIMEXs(self, file_path, isHeidel):
+        """It parses the content of file_path and extracts relevant information
+        from a TempEval-3 annotated file. Those information are packed in a
+        Document object, which is our internal representation.
+        """
+        assert os.path.isfile(file_path), 'File path does not exist!'
+        logging.info('Document {}: parsing...'.format(
+            os.path.relpath(file_path)))
+
+        f = open(file_path, 'r')
+        xml = etree.parse(f)
+        f.close()
+
+        document = Document(file_path)
+        document.file_path = os.path.abspath(file_path)
+        if isHeidel:
+            text_node = xml.getroot()
+            TIMEXs = xml.findall('.//TIMEX3')
+        return TIMEXs
+
     def parse(self, file_path):
         """It parses the content of file_path and extracts relevant information
         from a TempEval-3 annotated file. Those information are packed in a
@@ -177,6 +201,7 @@ class TempEval3FileReader(FileReader):
         f = open(file_path, 'r')
         xml = etree.parse(f)
         f.close()
+
         docid = xml.findall(".//DOCID")[0]
         dct = xml.findall(".//TIMEX3[@functionInDocument='CREATION_TIME']")[0]
         try:
@@ -185,7 +210,7 @@ class TempEval3FileReader(FileReader):
             title = xml.findall(".//DOCID")[0]
         text_node = xml.findall(".//TEXT")[0]
 
-        #if text is empty, put _
+        # if text is empty, put _
         if not text_node.text.strip():
             text_node.text = '\n _ \n'
 
@@ -230,7 +255,7 @@ class TempEval3FileReader(FileReader):
                                 collapsed_dependencies=collp_deps,
                                 parsetree=parsetree,
                                 text=sentence_text)
-            for num_word, (word_form, attr) in\
+            for num_word, (word_form, attr) in \
                     enumerate(stanford_sentence['words']):
                 offset_begin = int(attr['CharacterOffsetBegin']) - left_chars
                 offset_end = int(attr['CharacterOffsetEnd']) - left_chars
@@ -416,7 +441,7 @@ class WikiWarsInLineFileReader(FileReader):
                                                           -left_chars)
         document._coref = stanford_tree.get('coref', [])
 
-        for num_sen, stanford_sentence in\
+        for num_sen, stanford_sentence in \
                 enumerate(stanford_tree['sentences']):
             collp_deps = stanford_sentence.get('collapsed_dependencies', None)
             basic_deps = stanford_sentence.get('basic_dependencies', None)
@@ -428,7 +453,7 @@ class WikiWarsInLineFileReader(FileReader):
                                 collapsed_dependencies=collp_deps,
                                 parsetree=parsetree,
                                 text=sentence_text)
-            for num_word, (word_form, attr) in\
+            for num_word, (word_form, attr) in \
                     enumerate(stanford_sentence['words']):
                 offset_begin = int(attr['CharacterOffsetBegin']) - left_chars
                 offset_end = int(attr['CharacterOffsetEnd']) - left_chars
@@ -532,7 +557,7 @@ class i2b2FileReader(FileReader):
         document.text = text_string
         document._coref = stanford_tree.get('coref', [])
 
-        for num_sen, stanford_sentence in\
+        for num_sen, stanford_sentence in \
                 enumerate(stanford_tree['sentences']):
             collp_deps = stanford_sentence.get('collapsed_dependencies', None)
             basic_deps = stanford_sentence.get('basic_dependencies', None)
@@ -545,7 +570,7 @@ class i2b2FileReader(FileReader):
                                 collapsed_dependencies=collp_deps,
                                 parsetree=parsetree,
                                 text=sentence_text)
-            for num_word, (word_form, attr) in\
+            for num_word, (word_form, attr) in \
                     enumerate(stanford_sentence['words']):
                 offset_begin = int(attr['CharacterOffsetBegin']) - left_chars
                 offset_end = int(attr['CharacterOffsetEnd']) - left_chars
@@ -596,7 +621,7 @@ class i2b2FileReader(FileReader):
                                 polarity=element.attrib['polarity'],
                                 modality=element.attrib['modality'],
                                 tag_attributes=element.attrib)
-                else:   # TIMEX3 tags
+                else:  # TIMEX3 tags
                     obj = TemporalExpression(elem_id, words,
                                              ttype=element.attrib['type'],
                                              value=element.attrib['val'],
@@ -648,6 +673,7 @@ def main():
     file_reader = TempEval3FileReader()
     document = file_reader.parse(sys.argv[1])
     print json.dumps(document, indent=4)
+
 
 if __name__ == '__main__':
     main()

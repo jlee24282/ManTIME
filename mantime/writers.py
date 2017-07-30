@@ -70,6 +70,118 @@ class TempEval3Writer(FileWriter):
     def __init__(self):
         super(TempEval3Writer, self).__init__()
 
+    def writeFinal(self, documents, heidelTemporals):
+        """It writes on an external file in the TempEval-3 format.
+
+        """
+
+        def attribute_name_tlink(obj, direction):
+            assert direction in ('to', 'from')
+            if direction == 'to':
+                name = {'EVENT': 'EventInstance',
+                        'MAKEINSTANCE': 'EventInstance',
+                        'TIMEX': 'Time'}
+            else:
+                name = {'EVENT': 'eventInstance',
+                        'MAKEINSTANCE': 'eventInstance',
+                        'TIMEX': 'time'}
+            relatedTo = {'to': 'relatedTo', 'from': ''}
+            id_str = {'to': '', 'from': 'ID'}
+            result = '{}{}{}'.format(relatedTo[direction],
+                                     name[obj.tag], id_str[direction])
+            return result
+
+        outputs = []
+        for document in documents:
+            output = []
+            output.append('<?xml version="1.0" ?>')
+            output.append('<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSche' +
+                          'ma-instance" xsi:noNamespaceSchemaLocation="http:' +
+                          '//timeml.org/timeMLdocs/TimeML_1.2.1.xsd">\n')
+            output.append(u'<DOCID>{doc_id}</DOCID>\n'.format(
+                doc_id=document.doc_id))
+            output.append(str('<DCT><TIMEX3 tid="t0" type="DATE" value="{}" ' +
+                              'temporalFunction="false" functionInDocument="' +
+                              'CREATION_TIME">{}</TIMEX3></DCT>\n'
+                              ).format(document.dct, document.dct_text))
+            output.append(u'<TITLE>{}</TITLE>\n\n'.format(unicode(document.title, 'utf-8')))
+
+            text = list(document.text)
+            # TO-DO: This works properly only for IO annotation schema!
+            elements = (e for e in document.predicted_annotations.itervalues()
+                        if type(e) in (Event, TemporalExpression))
+            for element in elements:
+                # sostituisco il pezzetto nel testo con la stringa annotata
+                annotation = ''
+                if isinstance(element, TemporalExpression):
+                    if element.mod:
+                        for ht in heidelTemporals:
+                            if element.text == ht.text and element.value == ht.attrib['value']:
+                                annotation = str('<TIMEX3 tid="{idx}" ' +
+                                                 'type="{ttype}" ' +
+                                                 'mod="{mod}" value="{value}">' +
+                                                 '{text}</TIMEX3>').format(
+                                    **element.__dict__)
+                    else:
+                        for ht in heidelTemporals:
+                            if element.text == ht.text and element.value == ht.attrib['value']:
+                                annotation = str('<TIMEX3 tid="{idx}" ' +
+                                                 'type="{ttype}" ' +
+                                                 'value="{value}">' +
+                                                 '{text}</TIMEX3>').format(
+                                    **element.__dict__)
+                    if not annotation == '':
+                        text[element.start + document.text_offset] = annotation
+                elif isinstance(element, Event):
+                    #print str(**element.__dict__)
+                    annotation = str('<EVENT eid="{idx}" class="{eclass}">' +
+                                     '{text}</EVENT>').format(
+                                         **element.__dict__)
+                text[element.start + document.text_offset] = annotation
+                # empty the remaining characters
+                for i in xrange(document.text_offset + element.start + 1,
+                                document.text_offset + element.end):
+                    text[i] = ''
+
+            output.append(u'<TEXT>{}</TEXT>\n\n'.format(''.join(text)))
+
+            # MAKEINSTANCEs
+            events = (e for e in document.predicted_annotations.itervalues()
+                      if isinstance(e, Event))
+            for event in events:
+                instance = str('<MAKEINSTANCE eiid="i{idx}" eventID="{idx}" ' +
+                               'pos="{pos}" tense="{tense}" ' +
+                               'aspect="{aspect}" polarity="{polarity}" ' +
+                               'modality="{modality}" />').format(
+                                   **event.__dict__)
+                output.append(instance)
+            output.append('')
+
+            # TLINKs
+            def makeinstance(obj):
+                if type(obj) == Event:
+                    return 'i{}'.format(obj.identifier())
+                else:
+                    return obj.identifier()
+
+            tlinks = (e for e in document.predicted_annotations.itervalues()
+                      if isinstance(e, TemporalLink))
+            for tlink in tlinks:
+                xml_tag = unicode('<TLINK lid="{}" {}="{}" ' +
+                                  '{}="{}" ' +
+                                  'relType="{}" />').format(
+                    tlink.lid,
+                    attribute_name_tlink(tlink.from_obj, 'from'),
+                    makeinstance(tlink.from_obj),
+                    attribute_name_tlink(tlink.to_obj, 'to'),
+                    makeinstance(tlink.to_obj),
+                    tlink.relation_type)
+                output.append(xml_tag)
+
+            output.append('</TimeML>\n')
+            outputs.append('\n'.join(output))
+        return outputs
+
     def write(self, documents):
         """It writes on an external file in the TempEval-3 format.
 

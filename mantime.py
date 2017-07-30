@@ -46,8 +46,7 @@ def main():
     args = parser.parse_args()
 
     # ManTIME
-    mantime = ManTIME(#reader=TextReader(),
-                      reader=TempEval3FileReader(),
+    mantime = ManTIME(reader=TempEval3FileReader(),
                       writer=TempEval3Writer(),
                       extractor=FullExtractor(),
                       model_name=args.model,
@@ -59,7 +58,6 @@ def main():
         mantime.train(args.input_folder)
     else:
         # Testing
-
         print 'mantime.py args inputfolder: ' + args.input_folder
         assert os.path.exists(args.input_folder), 'Model not found.'
         input_files = os.path.join(args.input_folder, '*.*')

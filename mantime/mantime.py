@@ -27,9 +27,6 @@ from classifier import IdentificationClassifier
 from classifier import NormalisationClassifier
 from classifier import RelationClassifier
 from settings import PATH_MODEL_FOLDER
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
 
 class ManTIME(object):
 
