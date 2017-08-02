@@ -23,6 +23,7 @@
 
 from abc import ABCMeta, abstractmethod
 import cgi
+from difflib import SequenceMatcher
 
 from model.data import TemporalExpression
 from model.data import Event
@@ -116,7 +117,22 @@ class TempEval3Writer(FileWriter):
                 if isinstance(element, TemporalExpression):
                     if element.mod:
                         for ht in heidelTemporals:
-                            if element.text == ht.text and element.value == ht.attrib['value']:
+                            # if the actual values are exactly same
+                            if element.text == ht.text and \
+                                            SequenceMatcher(None, element.value, ht.attrib['value']).ratio() > 0.8:
+                                # [VALUE] assuming longer value is more precise.
+                                # heidel has longer value, put it in mantime value
+                                isHeidelBetter = False
+                                if len(element.value) <= len(ht.attrib['value']):
+                                    element.value = ht.attrib['value']
+                                    isHeidelBetter = True
+
+                                # [TYPE] for date or time, use heidel type
+                                #        if mantime value length is longer use mantime for all
+                                if isHeidelBetter:
+                                    if element.ttype == 'DATE' or element.ttype == 'TIME':
+                                        element.ttype = ht.attrib['type']
+
                                 annotation = str('<TIMEX3 tid="{idx}" ' +
                                                  'type="{ttype}" ' +
                                                  'mod="{mod}" value="{value}">' +
@@ -124,7 +140,21 @@ class TempEval3Writer(FileWriter):
                                     **element.__dict__)
                     else:
                         for ht in heidelTemporals:
-                            if element.text == ht.text and element.value == ht.attrib['value']:
+                            # if the actual values are exactly same
+                            if element.text == ht.text and \
+                                            SequenceMatcher(None, element.value, ht.attrib['value']).ratio() > 0.8:
+                                # [VALUE] assuming longer value is more precise.
+                                # heidel has longer value, put it in mantime value
+                                isHeidelBetter = False
+                                if len(element.value) <= len(ht.attrib['value']):
+                                    element.value = ht.attrib['value']
+                                    isHeidelBetter = True
+
+                                # [TYPE]
+                                if isHeidelBetter:
+                                    if element.ttype == 'DATE' or element.ttype == 'TIME':
+                                        element.ttype = ht.attrib['type']
+
                                 annotation = str('<TIMEX3 tid="{idx}" ' +
                                                  'type="{ttype}" ' +
                                                  'value="{value}">' +
